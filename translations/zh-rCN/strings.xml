@@ -52,7 +52,6 @@
     <string name="tipFingerAuthFailed">指纹解锁失败，请 1 分钟后重试，程序即将退出…</string>
     <string name="togglePageSwitcherMenuItem">切换页面</string>
     <string name="tipTitleLengthLimit">标题最多支持 100 个字符</string>
-    <string name="tipCannotCreateMoreTabs">为了获得更好的性能，目前只支持最多 6 个卡片</string>
     <string name="tipRichText">纯纯写作 致力于打造纯粹并且良好的纯文本书写体验，所以暂不打算支持富文本内容。目前您可能看到演示文本中带有<b>粗体文字</b>，粗体属于隐藏功能，暂没有开放，因为粗体无法在 TXT 文件中表达，表示抱歉，请见谅！如果您有更好的建议，欢迎加入反馈群来告诉我，感谢支持！</string>
     <string name="indent">段首缩进</string>
     <string name="format">格式</string>
@@ -86,7 +85,7 @@
     </string-array>
     <string name="features">功能特性</string>
     <string name="sendTextFailedForTooLarge">您的文本太长，无法直接发送到其他 App，已经转而帮你把文本复制到您的剪贴板了</string>
-    <string name="hasSavedToYourAlbum">已保存到您相册</string>
+    <string name="hasSavedToYourAlbum">已保存到您的相册</string>
     <string name="previewAndSaveAs">预览 | 另存为…</string>
     <string name="tipRequirePro">该功能需要购买高级版</string>
     <string name="proReadMe">如果你觉得 纯纯写作 很棒，希望它能更好地坚持开发下去，可否愿意花几块钱作为对于开发者的激励？\n\n这能够使我们一直坚持好的方向，良心的产品，同时激励更多的独立开发者。\n\n您可以点击「Google Play」按钮，开启 Google Pay 支付。或者点击「支付宝」购买激活码。作为回报，<b>付费后，将永久保持无广告状态，对于不断更新的高级内容不再收费</b>，感谢！</string>
@@ -98,7 +97,6 @@
     <string name="update">更新</string>
     <string name="labelUpdate">有新版的纯纯写作 %1$s 可用</string>
     <string name="messageDeletePage">您要删除这篇文章及其相关的历史记录吗？</string>
-    <string name="tipCannotDeleteCurrentPage">这篇文章是正在编辑的文章，无法删除</string>
     <string name="tipPurchasedStatusFailed">已购买。如果您的购买状态没有更新，请尝试重新点击 Pro 条目（这么做不会重复扣除您的钱）</string>
     <string name="createNew">创建新文章</string>
     <string name="autoLock">处于后台自动锁定</string>
@@ -167,7 +165,6 @@
     <string name="name">名称</string>
     <string name="optionalDescription">描述 (可不填)</string>
     <string name="createFolder">创建文件夹</string>
-    <string name="noteNotSupportDeleteFolder">提示：当前版本暂时不支持删除文件夹，请谨慎创建新的文件夹。删除文件夹功能将在下一版本提供。</string>
     <string name="openSourceLicenses">开源许可证</string>
     <string name="cannotDeleteNotEmptyFolder">该文件夹不为空，如需删除，请逐一删除或移出其包含的文章后重试</string>
     <string name="cannotDelete">无法删除</string>
