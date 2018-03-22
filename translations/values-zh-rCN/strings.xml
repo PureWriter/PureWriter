@@ -182,4 +182,6 @@
     <string name="sendTo">发送到</string>
     <string name="plainText">纯文本</string>
     <string name="mode">模式</string>
+    <string name="tipHasNotPermissionWithAutoBackup">尝试自动备份失败，因为您没有给予纯纯写作存储权限</string>
+    <string name="hideTitleBarWhenPreviewingMarkdown">预览 Markdown 时隐藏标题栏</string>
 </resources>

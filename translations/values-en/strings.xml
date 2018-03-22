@@ -212,4 +212,6 @@
     <string name="sendTo">Send To</string>
     <string name="mode">Mode</string>
     <string name="plainText">Plain text</string>
+    <string name="tipHasNotPermissionWithAutoBackup">Attempt to auto backup failed because you did not give Pure Writer storage permission</string>
+    <string name="hideTitleBarWhenPreviewingMarkdown">Hide title bar when previewing Markdown</string>
 </resources>
