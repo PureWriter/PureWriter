@@ -61,8 +61,8 @@
     <string name="summaryPay">Разблокировать дополнительные функции</string>
     <string name="tipSettingNotSupport">Временно не удается установить это. Скоро.</string>
     <string name="settingsAndRecommendation">Настройки &amp; Мои другие приложения</string>
-    <string name="on">Открытый</string>
-    <string name="off">Близко</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
     <string name="shortcutBar">Ярлык</string>
     <string name="insertBlankLinesWhenExporting">Вставлять пустые строки при экспорте</string>
     <string name="contentTextSize">Размер текста контента</string>
