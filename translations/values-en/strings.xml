@@ -1,13 +1,9 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources>
     <string name="pureWriter">Pure Writer</string>
-    <string name="appNameDebug" translatable="false">纯纯写作 β</string>
     <string name="titleHint">Please enter a title</string>
-    <string name="editorHintTitle" translatable="false">@string/titleHint</string>
     <string name="editorTipAMenu">You need to select a text to operate</string>
     <string name="editorHintContent">Please enter the text</string>
     <string name="hintDrawerHeader">Fast, excellent experience, never lost content</string>
-    <string name="navigationDrawerOpen" translatable="false">Open navigation drawer</string>
-    <string name="navigationDrawerClose" translatable="false">Close navigation drawer</string>
 
     <string name="undo">Undo</string>
     <string name="redo">Redo</string>
@@ -15,19 +11,18 @@
 
     <string name="defaultContent">Nice to meet you!\nThis is a quick plain text editor, we hope that writing can return to the original: <b>Pure, safe, at any time, do not lose the content, super reliable.</b>\nPure Writer achieves the perfect line spacing and paragraph spacing on the Android platform, and it makes your text look more comfortable and clear. At the same time, it also achieves a smooth scrolling, swiping down to close the soft keyboard, and many pleasing details.\nSimplicity is hidden complexity. You can interrupt or continue writing anytime, anywhere, and can quickly encrypt your text with fingerprints. In addition, it can easily and quickly send the text to other Apps. We have all done this for you.\nThe most important, <b>When using this editor, it will ensure that your content will never be lost. Even if you mistakenly delete the text, or instantly power off, you will still be able to recover it from history. </b>\nOnce you have finished writing an article, you can use the Send button to send it to other Apps, or you can open a new article.\nNow you can try to clear this page and carry out your creation. The Clear button is in the menus. If misuse, you can also recover it from the history. We regard your creation as the most important treasure.\nPlease enjoy it.</string>
     <string name="send">Sent to an app</string>
-    <string name="copyTitle">Copy the title</string>
     <string name="lock">Lock</string>
     <string name="history"><b>History</b></string>
     <string name="tipShouldUnlock">Should unlock first</string>
-    <string name="slogan" translatable="false">@string/hintDrawerHeader</string>
     <string name="tipShouldSetupFingerprint">Should create fingerprint first</string>
     <string name="sendContentTo">Send this content to:</string>
     <string name="failedTitleIsEmpty">Failed: the title is empty</string>
     <string name="failedContentIsEmpty">Failed: the content is empty</string>
     <string name="copyTheTitleSuccessfully">Copied the title successfully</string>
     <string name="copyTheContentSuccessfully">Copied the content successfully</string>
-    <string name="tipDestroyArticleSuccessfully">Destroyed this article successfully, and you could revert it from history page</string>
+    <string name="tipDestroyArticleSuccessfully">Cleared this article successfully, and you could revert it from history page</string>
     <string name="titleAndContentAreEmpty">Title and content are empty</string>
+    <string name="copyTitle">Copy the title</string>
     <string name="clearThisPage">Clear this page</string>
     <string name="copyContent">Copy the content</string>
     <string name="appRecommendationTitle">Recommendation</string>
@@ -39,19 +34,12 @@
     <string name="empty">Empty</string>
     <string name="untitled">Untitled</string>
     <string name="isRevertToThisFile">Revert to this file?</string>
-    <string name="formatWarningRevertFile" translatable="false">%s:\n\n%s</string>
     <string name="noMore">No more</string>
-    <string name="tipNoMoreAndLimitFormat">No more, and we only save %d histories</string>
     <string name="goOn">Go on</string>
+    <string name="tipNoMoreAndLimitFormat">No more, and we only save %d histories</string>
     <string name="reject">Reject</string>
     <string name="titleIntroCard">Used to write anything</string>
     <string name="defaultTitle">As you wish</string>
-    <string name="adUnitIdLight" translatable="false">ca-app-pub-9494072807329103/7317154675</string>
-
-    <string name="pageTitle" translatable="false">@string/somePage</string>
-    <string name="togglePageSwitcherMenuItem">Switch pages</string>
-    <string name="addPageMenuItem" translatable="false">New tab</string>
-    <string name="clearTabsMenuItem" translatable="false">Clear all tabs</string>
     <string name="allPages">All pages</string>
     <string name="historyComeFrom">From: page %d</string>
     <string name="somePage">Page %d</string>
@@ -61,18 +49,18 @@
     <string name="tipMessageStoragePermissionToSettings">We need permission to automatically back up your articles, please go to the settings page to manually grant the permission, otherwise, the history function can not be used normally!</string>
     <string name="actionOkGoSettings">Well, go to Settings</string>
     <string name="tipFingerAuthRetry">Failed to unlock the fingerprint, the remaining number of retries: %d</string>
-    <string name="tipFingerAuthFailed" tools:ignore="TypographyEllipsis">Failed to unlock the fingerprint, please try again after 1 minute, the program is about to exit ...</string>
+    <string name="tipFingerAuthFailed">Failed to unlock the fingerprint, please try again after 1 minute, the program is about to exit…</string>
+    <string name="togglePageSwitcherMenuItem">Switch pages</string>
     <string name="tipTitleLengthLimit">The title supports up to 100 characters</string>
     <string name="tipRichText">Pure Writer is committed to creating a pure and good plain text writing experience, so it is not intended to support rich text content. At this time, you may see the text in the presentation with <b> bold text </b>, boldface is hidden, no open, because bold can not be expressed in the TXT file, sorry, please forgive me! If you have a better suggestion, please join the feedback group to tell me, thank you for your support!</string>
-    <string name="settings">Settings</string>
-    <string name="settingsAndRecommendation">Settings &amp; My other Apps</string>
     <string name="on">On</string>
     <string name="off">Off</string>
-    <string name="shortcutBar">Shortcut bar</string>
     <string name="insertBlankLinesWhenExporting">Insert blank lines when exporting</string>
     <string name="indent">Indent</string>
     <string name="format">Format</string>
-    <string name="contentTextSize">Content text size</string>
+    <string name="settings">Settings</string>
+    <string name="settingsAndRecommendation">Settings &amp; My other Apps</string>
+    <string name="shortcutBar">Shortcut bar</string>
     <string name="iKnow">I know</string>
     <string name="tipIndent">Note: The segmentation indentation setting item will not change the existing text</string>
     <string name="explanation">Explanation</string>
@@ -81,6 +69,7 @@
     <string name="dayNightMode">Night mode</string>
     <string name="summaryPay">Unlock advanced features</string>
     <string name="tipSettingNotSupport">Temporarily can not set this. Coming soon.</string>
+    <string name="contentTextSize">Content text size</string>
     <string-array name="nightModeEntries">
         <item>Auto</item>
         <item>Yes</item>
@@ -93,7 +82,6 @@
     <string name="indentShort">Indent</string>
     <string name="delete">Delete</string>
     <string name="messageDeleteShortcut">Click OK to delete this shortcut</string>
-    <string name="linksCard" translatable="false">Pure Writer 3.0 - Never Lost Content Editor\nhttps://medium.com/@drakeet/pure-writer-3-0-never-lost-content-editor-419fc75a6f9d\n\n纯纯写作 3.0 - 愿文字带我们穿越时光，连接过去，遥想未来\nhttps://sspai.com/post/43650</string>
     <string name="features">Features</string>
     <string name="sendTextFailedForTooLarge">Your text is too long to be sent directly to another Apps. It has already copied the text to your clipboard</string>
     <string name="previewAndSaveAs">Preview | Save as…</string>
@@ -114,7 +102,6 @@
     <string name="autoLock">Auto lock</string>
     <string name="enabled">Enabled</string>
     <string name="appLinks">Android Links</string>
-    <string name="googlePlay" translatable="false">Google Play</string>
     <string name="titleOpenImportedFile">Found that you opened an external file, please select an action</string>
     <string name="copied">Copied</string>
     <string name="sort">Sort Type</string>
@@ -146,23 +133,13 @@
     <string name="formatterRemoveBreak">Remove all blank lines between the paragraphs</string>
     <string name="titleAsAWordForACount">As a word for a count</string>
     <string name="trash">Trash</string>
-    <string name="fixedAppBarLayoutBehavior" translatable="false">com.drakeet.purewriter.widget.FixedAppBarLayoutBehavior</string>
-
-    <!--alipay-->
-    <string name="alipay" translatable="false">支付宝</string>
-    <string name="active" translatable="false">激活</string>
-    <string name="alipayReadMe" translatable="false">使用支付宝购买 Pro 激活码，您需要点击「<b>购买激活码</b>」按钮跳转到支付宝，并转账支付 <b>${RMB}</b> 元人民币。\n\n完成后您将很快收到属于您的激活码，您可以复制激活码到本页面下面的输入框进行激活。\n\n激活码永久有效，可以换设备使用，但同一时间只能有一个设备使用。\n注：由于激活码目前是 drakeet 手动发送给您，因此您可能需要稍等片刻。\n感谢您的付费和支持！</string>
-    <string name="alipayReadMeInvalid" translatable="false">检查到您的激活码用于另外的设备，您需要重新在当前设备输入您的激活码才能恢复本设备的付费状态。</string>
-    <string name="alipayPay" translatable="false">购买激活码</string>
-    <string name="promptLicense" translatable="false">请输入激活码</string>
-
     <string name="papers">Papers</string>
-    <string name="custom">Custom</string>
-    <string name="promptCustomPaper">Color or image URL</string>
-    <string name="readMeCustomPaper">Please enter the RGB color value or image URL, such as #000000 or https://unsplash.com/photos/x.jpg</string>
-    <string name="apply">Apply</string>
     <string name="defaultDark">Default Dark</string>
     <string name="pureWhite">Pure White</string>
+    <string name="readMeCustomPaper">Please enter the RGB color value or image URL, such as #000000 or https://unsplash.com/photos/x.jpg</string>
+    <string name="apply">Apply</string>
+    <string name="custom">Custom</string>
+    <string name="promptCustomPaper">Color or image URL</string>
     <string name="titleAlignCenter">Title center alignment</string>
     <string name="tipShortcutBarEnabled">Not recommended to close</string>
     <string name="open">Open</string>
@@ -174,17 +151,10 @@
     <string name="noHistory">No history</string>
     <string name="formatterRemoveIndent">Remove indentation</string>
     <string name="keepScreenOn">Keep screen on</string>
-    <string name="titleGFMBreaks" translatable="false">GFM Line Breaks</string>
     <string name="gfmBreaksEnabled">Wrap with a line break</string>
     <string name="gfmBreaksDisabled">Needs two line breaks to really render the newline</string>
-    <!--time machine-->
-    <string name="timeMachineHintInput" translatable="false">Message</string>
-    <!--action-->
     <string name="wordCountTotal">All count</string>
     <string name="wordCountTotalValue">Word count of all articles</string>
-    <string name="debugRemoveLicense" translatable="false">RemoveLicense</string>
-    <string name="alipayReward" translatable="false">跨年红包</string>
-    <string name="alipayRewardEcho" translatable="false">快来领取支付宝跨年红包！1月1日起还有机会额外获得专享红包哦！复制此消息，打开最新版支付宝就能领取！TCU3qD36sP</string>
     <string name="timeMachineGuide">What\'s this? You can understand it as a chat window, or as a place to record content temporarily, or something like Google Assistant. In fact, it has a name, called \"Time Machine.\" Nice to meet you!</string>
     <string name="copyDate">Copy date</string>
     <string name="defaultFolder">Default Folder</string>
@@ -206,7 +176,7 @@
     <string name="followSystem">Follow system</string>
     <string name="localPicture">Local Picture</string>
     <string name="selectPicture">Select Picture</string>
-    <string name="toastCannotRetrieveSelectedImage">Cannot retrieve selected image</string>
+    <string name="toastCannotRetrieveSelectedImage">Cannot retrieve selected picture</string>
     <string name="picture">Picture</string>
     <string name="saved">Saved</string>
     <string name="sendTo">Send To</string>
@@ -214,4 +184,6 @@
     <string name="plainText">Plain text</string>
     <string name="tipHasNotPermissionWithAutoBackup">Attempt to auto backup failed because you did not give Pure Writer storage permission</string>
     <string name="hideTitleBarWhenPreviewingMarkdown">Hide title bar when previewing Markdown</string>
+    <string name="privacyPolicy">Privacy Policy</string>
+    <string name="joinBeta">Join Beta</string>
 </resources>

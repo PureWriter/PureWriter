@@ -183,4 +183,6 @@
     <string name="plainText">Простой текст</string>
     <string name="tipHasNotPermissionWithAutoBackup">Attempt to auto backup failed because you did not give Pure Writer storage permission</string>
     <string name="hideTitleBarWhenPreviewingMarkdown">Скрыть панель заголовка при предварительном просмотре Markdown</string>
+    <string name="privacyPolicy">политика конфиденциальности</string>
+    <string name="joinBeta">Присоединиться к Бета</string>
 </resources>

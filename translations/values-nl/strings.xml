@@ -183,4 +183,6 @@
     <string name="plainText">Platte tekst</string>
     <string name="tipHasNotPermissionWithAutoBackup">Attempt to auto backup failed because you did not give Pure Writer storage permission</string>
     <string name="hideTitleBarWhenPreviewingMarkdown">Verberg de titelbalk tijdens het bekijken van Markdown</string>
+    <string name="privacyPolicy">Privacybeleid</string>
+    <string name="joinBeta">Word lid van Beta</string>
 </resources>
