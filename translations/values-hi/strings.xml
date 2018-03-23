@@ -183,6 +183,7 @@
     <string name="plainText">सादे पाठ</string>
     <string name="tipHasNotPermissionWithAutoBackup">Attempt to auto backup failed because you did not give Pure Writer storage permission</string>
     <string name="hideTitleBarWhenPreviewingMarkdown">Hide title bar when previewing Markdown</string>
+    <string name="summaryJoinBeta">Click to join the Beta update channel, you can get the latest update as soon as possible, but Beta update frequency will be very high, if you can not accept, please do not join.</string>
     <string name="privacyPolicy">गोपनीयता नीति</string>
     <string name="joinBeta">Join Beta</string>
 </resources>

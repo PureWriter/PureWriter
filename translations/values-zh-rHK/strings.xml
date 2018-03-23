@@ -183,6 +183,7 @@
     <string name="plainText">純文本</string>
     <string name="tipHasNotPermissionWithAutoBackup">嘗試自動備份失敗，因為您沒有給予純純寫作存儲權限</string>
     <string name="hideTitleBarWhenPreviewingMarkdown">預覽 Markdown 時隱藏標題欄</string>
+    <string name="summaryJoinBeta">點擊即可加入 Beta 更新頻道，可以最快獲得新版更新，但 Beta 更新頻率會很高，若不能接受請勿加入。</string>
     <string name="privacyPolicy">隱私政策</string>
     <string name="joinBeta">加入 Beta 更新</string>
 </resources>
