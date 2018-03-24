@@ -60,7 +60,7 @@
     <string name="pureWriter">Pure Writer</string>
     <string name="reject">afwijzen</string>
     <string name="previewAndSaveAs">Voorbeeld | Opslaan als…</string>
-    <string name="send">Verzonden naar een app</string>
+    <string name="share">Aandeel</string>
     <string name="sendContentTo">Stuur deze inhoud naar:</string>
     <string name="sendTextFailedForTooLarge">Uw tekst is te lang om direct naar andere Apps te worden verzonden. Het heeft de tekst al naar uw klembord gekopieerd</string>
     <string name="settings">instellingen</string>
@@ -186,4 +186,5 @@
     <string name="summaryJoinBeta">Click to join the Beta update channel, you can get the latest update as soon as possible, but Beta update frequency will be very high, if you can not accept, please do not join.</string>
     <string name="privacyPolicy">Privacybeleid</string>
     <string name="joinBeta">Word lid van Beta</string>
+    <string name="beforeRestoringYourBackup">beforeRestoringYourBackup</string>
 </resources>

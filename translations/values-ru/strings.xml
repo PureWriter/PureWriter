@@ -8,7 +8,7 @@
     <string name="undo">расстегивать</string>
     <string name="editorHintContent">Введите текст</string>
     <string name="titleHint">Введите название</string>
-    <string name="send">Отправлено в приложение</string>
+    <string name="share">доля</string>
     <string name="copyTitle">Копировать Название</string>
     <string name="lock">запирать</string>
     <string name="history"><b>история</b></string>
@@ -186,4 +186,5 @@
     <string name="summaryJoinBeta">Click to join the Beta update channel, you can get the latest update as soon as possible, but Beta update frequency will be very high, if you can not accept, please do not join.</string>
     <string name="privacyPolicy">политика конфиденциальности</string>
     <string name="joinBeta">Присоединиться к Бета</string>
+    <string name="beforeRestoringYourBackup">beforeRestoringYourBackup</string>
 </resources>

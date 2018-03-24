@@ -19,7 +19,7 @@
     <string name="historyState">已保存记录</string>
     <string name="todayIs">今天是</string>
     <string name="tipNeedFingerprint">需要指纹解锁才能查看和编辑</string>
-    <string name="send">发送到某个应用</string>
+    <string name="share">发送到某个应用</string>
     <string name="lock">加密</string>
     <string name="history"><b>历史记录</b></string>
     <string name="tipShouldUnlock">需要先解锁加密</string>
@@ -187,4 +187,5 @@
     <string name="summaryJoinBeta">点击即可加入 Beta 更新频道，可以最快获得新版更新，但 Beta 更新频率会很高，若不能接受请勿加入。</string>
     <string name="privacyPolicy">隐私政策</string>
     <string name="joinBeta">加入 Beta 更新</string>
+    <string name="beforeRestoringYourBackup">恢复备份之前</string>
 </resources>

@@ -8,7 +8,7 @@
     <string name="redo">फिर से करना</string>
     <string name="undo">पूर्ववत</string>
     <string name="titleHint">कृपया एक शीर्षक दर्ज करें</string>
-    <string name="send">एप को भेजा गया</string>
+    <string name="share">शेयर</string>
     <string name="copyTitle">कॉपी शीर्षक</string>
     <string name="lock">ताला</string>
     <string name="history"><b>इतिहास</b></string>
@@ -186,4 +186,5 @@
     <string name="summaryJoinBeta">Click to join the Beta update channel, you can get the latest update as soon as possible, but Beta update frequency will be very high, if you can not accept, please do not join.</string>
     <string name="privacyPolicy">गोपनीयता नीति</string>
     <string name="joinBeta">Join Beta</string>
+    <string name="beforeRestoringYourBackup">beforeRestoringYourBackup</string>
 </resources>

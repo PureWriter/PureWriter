@@ -8,7 +8,7 @@
     <string name="editorHintContent">請輸入文章內容</string>
     <string name="titleHint">請輸入標題</string>
     <string name="hintDrawerHeader">快速、良好體驗、永不損失內容</string>
-    <string name="send">傳送到某個應用程式</string>
+    <string name="share">傳送到某個應用程式</string>
     <string name="copyTitle">複製標題</string>
     <string name="lock">加密</string>
     <string name="history"><b>歷程記錄</b></string>
@@ -186,4 +186,5 @@
     <string name="summaryJoinBeta">點擊即可加入 Beta 更新頻道，可以最快獲得新版更新，但 Beta 更新頻率會很高，若不能接受請勿加入。</string>
     <string name="privacyPolicy">隱私政策</string>
     <string name="joinBeta">加入 Beta 更新</string>
+    <string name="beforeRestoringYourBackup">恢復備份之前</string>
 </resources>

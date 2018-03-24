@@ -8,7 +8,7 @@
     <string name="undo">アンドゥ</string>
     <string name="editorHintContent">テキストを入力してください</string>
     <string name="titleHint">タイトルを入力してください</string>
-    <string name="send">アプリに送信</string>
+    <string name="share">シェア</string>
     <string name="copyTitle">コピータイトル</string>
     <string name="lock">保護</string>
     <string name="history"><b>歴史</b></string>
@@ -186,4 +186,5 @@
     <string name="summaryJoinBeta">Click to join the Beta update channel, you can get the latest update as soon as possible, but Beta update frequency will be very high, if you can not accept, please do not join.</string>
     <string name="privacyPolicy">個人情報保護方針</string>
     <string name="joinBeta">Join Beta</string>
+    <string name="beforeRestoringYourBackup">beforeRestoringYourBackup</string>
 </resources>

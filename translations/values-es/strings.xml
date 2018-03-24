@@ -8,7 +8,7 @@
     <string name="undo">deshacer</string>
     <string name="editorHintContent">Introduzca el texto</string>
     <string name="titleHint">Ingrese un título</string>
-    <string name="send">Se envía a una aplicación</string>
+    <string name="share">Compartir</string>
     <string name="copyTitle">copia Título</string>
     <string name="lock">bloquear</string>
     <string name="history"><b>historia</b></string>
@@ -186,4 +186,5 @@
     <string name="summaryJoinBeta">Click to join the Beta update channel, you can get the latest update as soon as possible, but Beta update frequency will be very high, if you can not accept, please do not join.</string>
     <string name="privacyPolicy">Política de privacidad</string>
     <string name="joinBeta">Únete a Beta</string>
+    <string name="beforeRestoringYourBackup">beforeRestoringYourBackup</string>
 </resources>

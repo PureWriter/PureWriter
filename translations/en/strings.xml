@@ -14,7 +14,7 @@
     <string name="about">About | Guide</string>
 
     <string name="defaultContent">Nice to meet you!\nThis is a quick plain text editor, we hope that writing can return to the original: <b>Pure, safe, at any time, do not lose the content, super reliable.</b>\nPure Writer achieves the perfect line spacing and paragraph spacing on the Android platform, and it makes your text look more comfortable and clear. At the same time, it also achieves a smooth scrolling, swiping down to close the soft keyboard, and many pleasing details.\nSimplicity is hidden complexity. You can interrupt or continue writing anytime, anywhere, and can quickly encrypt your text with fingerprints. In addition, it can easily and quickly send the text to other Apps. We have all done this for you.\nThe most important, <b>When using this editor, it will ensure that your content will never be lost. Even if you mistakenly delete the text, or instantly power off, you will still be able to recover it from history. </b>\nOnce you have finished writing an article, you can use the Send button to send it to other Apps, or you can open a new article.\nNow you can try to clear this page and carry out your creation. The Clear button is in the menus. If misuse, you can also recover it from the history. We regard your creation as the most important treasure.\nPlease enjoy it.</string>
-    <string name="send">Sent to an app</string>
+    <string name="share">Send to an app</string>
     <string name="copyTitle">Copy the title</string>
     <string name="lock">Lock</string>
     <string name="history"><b>History</b></string>
@@ -217,4 +217,5 @@
     <string name="summaryJoinBeta">Click to join the Beta update channel, you can get the latest update as soon as possible, but Beta update frequency will be very high, if you can not accept, please do not join.</string>
     <string name="privacyPolicy">Privacy Policy</string>
     <string name="joinBeta">Join Beta</string>
+    <string name="beforeRestoringYourBackup">beforeRestoringYourBackup</string>
 </resources>
