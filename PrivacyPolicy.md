@@ -19,3 +19,15 @@
 純純寫作申請了存儲權限，僅僅用於導出文件和進行自動備份，除此之外，它不會在未經允許或告知的情況下讀取或修改您外置存儲中的任何文件。另外，您完全可以拒絕授予存儲權限，只是這麼做將會導致失去自動備份功能。
 
 特別地，純純寫作絕不會上傳您的任何文章內容，但因為文章標題作為檔案名可能產生錯誤，因此當因為您的文章標題導致了閃退錯誤時，純純寫作將會獲取您的文章標題，僅用於錯誤分析和修復問題。
+
+----
+
+## Pure Writer - Privacy Policy
+
+Pure Writer pays great attention to the privacy of users, and it will never collect any of your private content.
+
+In addition, Pure Writer will never modify or read your clipboard content without permission or notice.
+
+Pure Writer has applied for storage permissions only for file export and automatic backup. In addition, it will not read or modify any files in your external storage without permission or notice, and you can completely refuse to grant storage permissions, but doing so will result in loss of automatic backup functionality.
+
+In particular, Pure Writer will never upload any of your articles, but because the title of the article as a file name may generate errors, Pure Writer will obtain your articles when the article title causes a crash error.
