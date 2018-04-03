@@ -4,14 +4,14 @@
     <string name="about">О компании | Guide</string>
     <string name="hintDrawerHeader">Быстрый, отличный опыт, никогда не терял контент</string>
     <string name="editorTipAMenu">Вы должны выбрать текст</string>
-    <string name="redo">переделывать</string>
-    <string name="undo">расстегивать</string>
+    <string name="redo">Переделывать</string>
+    <string name="undo">Расстегивать</string>
     <string name="editorHintContent">Введите текст</string>
     <string name="titleHint">Введите название</string>
     <string name="share">доля</string>
     <string name="copyTitle">Копировать Название</string>
-    <string name="lock">запирать</string>
-    <string name="history"><b>история</b></string>
+    <string name="lock">Запирать</string>
+    <string name="history"><b>История</b></string>
     <string name="tipShouldUnlock">Сначала следует разблокировать</string>
     <string name="tipShouldSetupFingerprint">Сначала следует создать отпечаток пальца</string>
     <string name="sendContentTo">Отправить этот материал:</string>
@@ -29,13 +29,13 @@
     <string name="historyState">Сохраненные отчеты</string>
     <string name="todayIs">Cегодня</string>
     <string name="tipNeedFingerprint">Необходимо отпирать отпечатки пальцев для просмотра и редактирования</string>
-    <string name="empty">пустой</string>
+    <string name="empty">Пустой</string>
     <string name="untitled">Без названия</string>
     <string name="isRevertToThisFile">Вернуться к этому файлу?</string>
     <string name="noMore">Больше не надо</string>
     <string name="tipNoMoreAndLimitFormat">Больше нет, и мы сохраняем только %d историй</string>
     <string name="goOn">Продолжай</string>
-    <string name="reject">отклонять</string>
+    <string name="reject">Отклонять</string>
     <string name="titleIntroCard">Используется для записи всего</string>
     <string name="defaultContent">Приятно познакомиться!\nЭто быстрый текстовый редактор, мы надеемся, что письмо может вернуться к оригиналу: <b>Чисто, безопасно, в любое время, не теряйте контент, супер надежный.</b>\nТаким образом достигается идеальный интервал между строками и интервалы между ними на платформе Android, что делает ваш текст более удобным и понятным. В то же время он также обеспечивает плавную прокрутку, поворот вниз, чтобы закрыть мягкую клавиатуру, и многие приятные детали. \nПростота - это скрытая сложность, вы можете прервать любой успех, бесплатно и сможете быстро шифровать текст с помощью отпечатков пальцев. Кроме того, он может легко и быстро отправлять текст в другие приложения. Мы все это сделали для вас.\nСамое главное, <b>Если вы ошибочно удалите текст или сразу отключите питание, вы все равно сможете восстановить его из истории.</b>\nКогда вы закончите писать статью, вы можете использовать кнопку «Отправить», чтобы отправить ее другим приложениям, или вы можете открыть новую статью.\nТеперь вы можете попытаться очистить эту страницу и выполнить свое творение. Название создания - это самое важное сокровище.\nПожалуйста, наслаждайтесь им.</string>
     <string name="defaultTitle">Как хотите</string>
@@ -50,27 +50,27 @@
     <string name="togglePageSwitcherMenuItem">Переключение страниц</string>
     <string name="tipTitleLengthLimit">Название поддерживает до 100 символов</string>
     <string name="tipRichText">Pure Writer стремится создать чистый и простой текстовый текст, поэтому он не предназначен для поддержки контента с богатым текстом. В это время вы можете увидеть текст в презентации с помощью <b> жирного текста </b>, жирный шрифт скрыт, не открыт, потому что жирный шрифт не может быть выражен в TXT-файле, извините, пожалуйста, простите меня! Если у вас есть лучшее предложение, пожалуйста, присоединитесь к группе отзывов, чтобы сказать мне, спасибо за вашу поддержку!</string>
-    <string name="settings">настройки</string>
+    <string name="settings">Настройки</string>
     <string name="tipIndent">Примечание. Элемент настройки отступов сегментации не изменит существующий текст</string>
     <string name="format">Формат</string>
-    <string name="indent">индент</string>
-    <string name="explanation">объяснение</string>
+    <string name="indent">Индент</string>
+    <string name="explanation">Объяснение</string>
     <string name="tipInsertBlankLines">Если этот параметр «Да», при копировании или отправке текста он автоматически вставляет пустую строку после каждой строки текста, потому что в других Приложениях нет хорошего интервала.</string>
     <string name="deleteObsoleteFiles">Удаление устаревших файлов</string>
     <string name="dayNightMode">Ночной режим</string>
     <string name="summaryPay">Разблокировать дополнительные функции</string>
     <string name="tipSettingNotSupport">Временно не удается установить это. Скоро.</string>
     <string name="settingsAndRecommendation">Настройки &amp; Мои другие приложения</string>
-    <string name="on">открытый</string>
-    <string name="off">близко</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
     <string name="shortcutBar">Ярлык</string>
     <string name="insertBlankLinesWhenExporting">Вставлять пустые строки при экспорте</string>
     <string name="contentTextSize">Размер текста контента</string>
     <string name="iKnow">Мне известно</string>
     <string-array name="nightModeEntries">
         <item>Авто</item>
-        <item>да</item>
-        <item>нет</item>
+        <item>Да</item>
+        <item>Нет</item>
     </string-array>
     <string name="tipMessageStoragePermissionFirst">Нам необходимо получить разрешение на автоматическое резервное копирование ваших статей, чтобы ваши статьи не были потеряны, пожалуйста, дайте разрешение.</string>
     <string name="tipMessageStoragePermissionToSettings">Нам нужны разрешения на хранение, чтобы сохранить историю, перейдите на страницу настроек, чтобы вручную предоставить разрешение, иначе функция истории не может быть использована в обычном режиме!</string>
@@ -78,8 +78,8 @@
     <string name="promptShortcutContent">Содержание (требуется)</string>
     <string name="createShortcut">Создание текста Ярлык</string>
     <string name="noteShortcutCursorIndex">Пожалуйста, измените положение курсора в содержании, чтобы установить размещение курсора после вставки статьи</string>
-    <string name="indentShort">индент</string>
-    <string name="delete">удалять</string>
+    <string name="indentShort">Индент</string>
+    <string name="delete">Удалять</string>
     <string name="messageDeleteShortcut">Нажмите кнопку OK, чтобы удалить этот ярлык</string>
     <string name="features">Особенности</string>
     <string name="sendTextFailedForTooLarge">Ваш текст слишком длинный, чтобы быть отправлен непосредственно в другое приложение. Он уже скопировал текст в буфер обмена</string>
@@ -102,7 +102,7 @@
     <string name="enabled">Включено</string>
     <string name="appLinks">Ссылки для Android</string>
     <string name="titleOpenImportedFile">Установлено, что вы открыли внешний файл, выберите действие</string>
-    <string name="copied">скопированный</string>
+    <string name="copied">Скопированный</string>
     <string name="sort">Тип сортировки</string>
     <string name="sortTypeDescModification">По времени модификации</string>
     <string name="sortTypeDescCreation">По времени создания</string>
@@ -131,17 +131,17 @@
     <string name="formatterLineBreak">Оставьте пустую строку между параграфами</string>
     <string name="formatterRemoveBreak">Удалите все пустые строки между параграфами</string>
     <string name="titleAsAWordForACount">В качестве слова для подсчета</string>
-    <string name="trash">корзина для бумаг</string>
-    <string name="papers">документы</string>
+    <string name="trash">Корзина для бумаг</string>
+    <string name="papers">Документы</string>
     <string name="defaultDark">По умолчанию Темный</string>
     <string name="pureWhite">Чисто белый</string>
-    <string name="custom">изготовленный на заказ</string>
+    <string name="custom">Изготовленный на заказ</string>
     <string name="apply">Подать заявление</string>
     <string name="promptCustomPaper">Цвет или URL изображения</string>
     <string name="readMeCustomPaper">Введите значение цвета RGB или URL изображения, например #000000 или https://unsplash.com/photos/x.jpg</string>
     <string name="titleAlignCenter">Выравнивание основного центра</string>
     <string name="tipShortcutBarEnabled">Не рекомендуется закрывать</string>
-    <string name="open">открытый</string>
+    <string name="open">Открытый</string>
     <string name="summaryAutoBackup">Автоматически создавать резервные копии при изменении и выходе файлов, сохраняя до 25 последних файлов резервных копий</string>
     <string name="migratingData">Перенос данных</string>
     <string name="autoBackup">Автобэкап</string>
@@ -161,7 +161,7 @@
     <string name="summaryOfAbout">Узнайте о оригинальных идеях и концепциях, которые мы разработали и разработали для этого приложения.</string>
     <string name="createNewFolder">Создать новую папку</string>
     <string name="emptyTip">Никаких статей еще не было открыто</string>
-    <string name="name">имя</string>
+    <string name="name">Имя</string>
     <string name="optionalDescription">Описание (необязательно)</string>
     <string name="createFolder">Создать папку</string>
     <string name="openSourceLicenses">Лицензии с открытым исходным кодом</string>
@@ -171,14 +171,14 @@
     <string name="move">Переехать</string>
     <string name="timeMachine">Машина времени</string>
     <string name="listFirst">Открыть список при запуске</string>
-    <string name="language">язык</string>
+    <string name="language">Язык</string>
     <string name="followSystem">Следите за системой</string>
     <string name="toastCannotRetrieveSelectedImage">Не удается получить выбранное изображение</string>
     <string name="localPicture">Местный</string>
     <string name="selectPicture">Выбрать изображение</string>
     <string name="picture">Картина</string>
     <string name="saved">Saved</string>
-    <string name="sendTo">послать</string>
+    <string name="sendTo">Послать</string>
     <string name="mode">Режим</string>
     <string name="plainText">Простой текст</string>
     <string name="tipHasNotPermissionWithAutoBackup">Attempt to auto backup failed because you did not give Pure Writer storage permission</string>
