@@ -44,7 +44,7 @@
     <string name="isRevertToThisFile">Terug naar dit bestand?</string>
     <string name="labelUpdate">Er is een nieuwe Pure Writer %1$s beschikbaar</string>
     <string name="lock">Slot</string>
-    <string name="messageDeletePage">Wilt u dit artikel en de bijbehorende geschiedenis verwijderen?</string>
+    <string name="messageDeleteArticlesToTrash">Wil je deze artikelen verwijderen en naar de prullenbak verplaatsen?</string>
     <string name="messageDeleteShortcut">Klik op OK om deze snelkoppeling te verwijderen</string>
     <string name="no">Annuleer</string>
     <string name="noMore">Niet meer</string>
@@ -187,4 +187,8 @@
     <string name="privacyPolicy">Privacybeleid</string>
     <string name="joinBeta">Word lid van Beta</string>
     <string name="beforeRestoringYourBackup">beforeRestoringYourBackup</string>
+    <string name="trashDescription">Haal uw verwijderde artikelen op</string>
+    <string name="messageDeleteArticlesDirectly">Verwijder deze artikelen direct</string>
+    <string name="trashFolderTip">U bevindt zich in de map Prullenbak, deze map kan geen nieuw artikel maken.</string>
+    <string name="tipLandscapeOrientation">Gebruik een extern toetsenbord in de liggende modus</string>
 </resources>

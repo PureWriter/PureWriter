@@ -95,7 +95,7 @@
     <string name="summaryPaid">एक्वायर्ड: शुद्ध लेखक प्रो</string>
     <string name="update">अद्यतन</string>
     <string name="labelUpdate">A new Pure Writer %1$s is available</string>
-    <string name="messageDeletePage">क्या आप इस लेख और इसके संबंधित इतिहास को हटाना चाहते हैं?</string>
+    <string name="messageDeleteArticlesToTrash">क्या आप इन लेखों को हटाना चाहते हैं और उन्हें कचरे में ले जा सकते हैं?</string>
     <string name="tipPurchasedStatusFailed">खरीदा। यदि स्थिति ताज़ा नहीं है, तो प्रो आइटम को फिर से क्लिक करने का प्रयास करें और फिर से अपना पैसा घटाएं नहीं।</string>
     <string name="createNew">नया लेख</string>
     <string name="autoLock">ऑटो लॉक</string>
@@ -187,4 +187,8 @@
     <string name="privacyPolicy">गोपनीयता नीति</string>
     <string name="joinBeta">Join Beta</string>
     <string name="beforeRestoringYourBackup">beforeRestoringYourBackup</string>
+    <string name="trashDescription">अपने हटाए गए लेख पुनर्प्राप्त करें</string>
+    <string name="messageDeleteArticlesDirectly">इन लेखों को सीधे हटाएं</string>
+    <string name="trashFolderTip">आप ट्रैश फ़ोल्डर में हैं, यह फ़ोल्डर एक नया लेख नहीं बना सकता है</string>
+    <string name="tipLandscapeOrientation">लैंडस्केप मोड में एक बाहरी कीबोर्ड का उपयोग करें</string>
 </resources>

@@ -79,7 +79,7 @@
     <string name="createShortcut">Crear acceso directo de texto</string>
     <string name="noteShortcutCursorIndex">Por favor, mueva la posición del cursor en el contenido para definir la ubicación del cursor después de insertar el artículo</string>
     <string name="indentShort">muesca</string>
-    <string name="delete">borrar</string>
+    <string name="delete">Borrar</string>
     <string name="messageDeleteShortcut">Haga clic en Aceptar para eliminar este acceso directo</string>
     <string name="features">Caracteristicas</string>
     <string name="sendTextFailedForTooLarge">Tu texto es demasiado largo para ser enviado directamente a otras aplicaciones, ya ha copiado el texto en tu portapapeles.</string>
@@ -95,7 +95,7 @@
     <string name="summaryPaid">Adquirido: Pure Writer Pro</string>
     <string name="update">Actualizar</string>
     <string name="labelUpdate">Un nuevo Pure Writer %1$s está disponible</string>
-    <string name="messageDeletePage">¿Desea eliminar este artículo y su historial relacionado?</string>
+    <string name="messageDeleteArticlesToTrash">¿Desea eliminar estos artículos y moverlos a la papelera?</string>
     <string name="tipPurchasedStatusFailed">Si el estado no se actualiza, pruebe a hacer clic en el elemento Pro de nuevo y NO deducirá su dinero de nuevo.</string>
     <string name="createNew">Nuevo artículo</string>
     <string name="autoLock">Bloqueo automático</string>
@@ -187,4 +187,8 @@
     <string name="privacyPolicy">Política de privacidad</string>
     <string name="joinBeta">Únete a Beta</string>
     <string name="beforeRestoringYourBackup">beforeRestoringYourBackup</string>
+    <string name="trashDescription">Recupera tus artículos eliminados</string>
+    <string name="messageDeleteArticlesDirectly">Eliminar estos artículos directamente</string>
+    <string name="trashFolderTip">Estás en la carpeta Papelera, esta carpeta no puede crear un nuevo artículo.</string>
+    <string name="tipLandscapeOrientation">Utilice un teclado externo en modo horizontal</string>
 </resources>

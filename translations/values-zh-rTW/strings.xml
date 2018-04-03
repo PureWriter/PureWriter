@@ -95,7 +95,7 @@
     <string name="summaryPaid">已解鎖進階功能</string>
     <string name="update">更新</string>
     <string name="labelUpdate">有新版的純純寫作 %1$s 可用</string>
-    <string name="messageDeletePage">您要刪除這篇文章及其相關的歷程記錄嗎？</string>
+    <string name="messageDeleteArticlesToTrash">您要刪除這些文章並將他們移入廢紙簍嗎？</string>
     <string name="tipPurchasedStatusFailed">已購買。如果您的購買狀態沒有更新，請嘗試重新點選 Pro 項目（不會重複扣除您的錢）</string>
     <string name="createNew">建立新文章</string>
     <string name="autoLock">處於後台自動鎖定</string>
@@ -132,7 +132,7 @@
     <string name="formatterRemoveBreak">去除段與段之間多餘的空行</string>
     <string name="titleAsAWordForACount">視一個單詞為一個計數</string>
     <string name="trash">廢紙簍</string>
-    <string name="papers">信紙</string>
+    <string name="papers">稿紙</string>
     <string name="pureWhite">純白</string>
     <string name="defaultDark">預設</string>
     <string name="custom">自訂</string>
@@ -187,4 +187,11 @@
     <string name="privacyPolicy">隱私政策</string>
     <string name="joinBeta">加入 Beta 更新</string>
     <string name="beforeRestoringYourBackup">恢復備份之前</string>
+    <string name="trashDescription">找回您刪除的文章</string>
+    <string name="messageDeleteArticlesDirectly">直接刪除這些文章</string>
+    <plurals name="confirmDeleteMessages">
+        <item quantity="other">確定要刪除這 %d 條訊息嗎？</item>
+    </plurals>
+    <string name="trashFolderTip">您處於廢紙簍文件夾中，該文件夾中無法創建新文章。</string>
+    <string name="tipLandscapeOrientation">橫屏模式下請使用外接鍵盤</string>
 </resources>

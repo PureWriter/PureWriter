@@ -79,7 +79,7 @@
     <string name="createShortcut">Create text Shortcut</string>
     <string name="noteShortcutCursorIndex">Please move the cursor position in the content to set the placement of the cursor after inserting the article</string>
     <string name="indentShort">Indent</string>
-    <string name="delete">Delete</string>
+    <string name="delete">削除</string>
     <string name="messageDeleteShortcut">Click OK to delete this shortcut</string>
     <string name="features">特徴</string>
     <string name="sendTextFailedForTooLarge">あなたのテキストが長すぎるともう一つのアプリに直接送られる。それは、すでにあなたのクリップボードにテキストをコピー</string>
@@ -95,7 +95,7 @@
     <string name="summaryPaid">Acquired: Pure Writer Pro</string>
     <string name="update">更新</string>
     <string name="labelUpdate">A new Pure Writer %1$s is available</string>
-    <string name="messageDeletePage">Do you want to delete this article and its related history?</string>
+    <string name="messageDeleteArticlesToTrash">これらの記事を削除してゴミ箱に移動しますか？</string>
     <string name="tipPurchasedStatusFailed">Purchased. If the status is not refreshed, try clicking the Pro item again and will NOT deduct your money again.</string>
     <string name="createNew">新しい記事</string>
     <string name="autoLock">オートロック</string>
@@ -187,4 +187,8 @@
     <string name="privacyPolicy">個人情報保護方針</string>
     <string name="joinBeta">Join Beta</string>
     <string name="beforeRestoringYourBackup">beforeRestoringYourBackup</string>
+    <string name="trashDescription">削除した記事を取得する</string>
+    <string name="messageDeleteArticlesDirectly">これらの記事を直接削除する</string>
+    <string name="trashFolderTip">あなたはゴミ箱フォルダにあり、このフォルダは新しい記事を作成できません。</string>
+    <string name="tipLandscapeOrientation">横置きモードで外付けキーボードを使用してください</string>
 </resources>

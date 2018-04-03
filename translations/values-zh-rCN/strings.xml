@@ -96,7 +96,7 @@
     <string name="no">取消</string>
     <string name="update">更新</string>
     <string name="labelUpdate">有新版的纯纯写作 %1$s 可用</string>
-    <string name="messageDeletePage">您要删除这篇文章及其相关的历史记录吗？</string>
+    <string name="messageDeleteArticlesToTrash">您要删除这些文章并将他们移入废纸篓吗？</string>
     <string name="tipPurchasedStatusFailed">已购买。如果您的购买状态没有更新，请尝试重新点击 Pro 条目（这么做不会重复扣除您的钱）</string>
     <string name="createNew">创建新文章</string>
     <string name="autoLock">处于后台自动锁定</string>
@@ -134,7 +134,7 @@
     <string name="formatterRemoveBreak">去除段与段之间多余的空行</string>
     <string name="titleAsAWordForACount">视一个单词为一个计数</string>
     <string name="trash">废纸篓</string>
-    <string name="papers">信纸</string>
+    <string name="papers">稿纸</string>
     <string name="promptCustomPaper">颜色值或网址</string>
     <string name="readMeCustomPaper">请在下面输入 RGB 颜色值或图片网址，如：#000000 或 https://unsplash.com/photos/x.jpg</string>
     <string name="defaultDark">默认夜览</string>
@@ -188,4 +188,11 @@
     <string name="privacyPolicy">隐私政策</string>
     <string name="joinBeta">加入 Beta 更新</string>
     <string name="beforeRestoringYourBackup">恢复备份之前</string>
+    <string name="trashDescription">找回您删除的文章</string>
+    <string name="messageDeleteArticlesDirectly">直接删除这些文章</string>
+    <plurals name="confirmDeleteMessages">
+        <item quantity="other">确定要删除这 %d 条信息吗？</item>
+    </plurals>
+    <string name="trashFolderTip">您处于废纸篓文件夹中，该文件夹中无法创建新文章。</string>
+    <string name="tipLandscapeOrientation">横屏模式下请使用外接键盘</string>
 </resources>

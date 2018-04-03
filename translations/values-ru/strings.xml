@@ -95,7 +95,7 @@
     <string name="summaryPaid">Приобретенный: Pure Writer Pro</string>
     <string name="update">Обновить</string>
     <string name="labelUpdate">Доступен новый Pure Writer %1$s</string>
-    <string name="messageDeletePage">Вы хотите удалить эту статью и связанную с ней историю?</string>
+    <string name="messageDeleteArticlesToTrash">Вы хотите удалить эту статью и связанную с ней историю?</string>
     <string name="tipPurchasedStatusFailed">Приобретенный. Если статус не обновлен, попробуйте снова щелкнуть элемент «ПРО» и НЕ вычесть свои деньги снова.</string>
     <string name="createNew">Новая статья</string>
     <string name="autoLock">Автоматическая блокировка</string>
@@ -187,4 +187,8 @@
     <string name="privacyPolicy">политика конфиденциальности</string>
     <string name="joinBeta">Присоединиться к Бета</string>
     <string name="beforeRestoringYourBackup">beforeRestoringYourBackup</string>
+    <string name="trashDescription">Получить удаленные статьи</string>
+    <string name="messageDeleteArticlesDirectly">Удалите эти статьи напрямую</string>
+    <string name="trashFolderTip">Вы находитесь в папке «Корзина», эта папка не может создать новую статью.</string>
+    <string name="tipLandscapeOrientation">Пожалуйста, используйте внешнюю клавиатуру в ландшафтном режиме</string>
 </resources>
