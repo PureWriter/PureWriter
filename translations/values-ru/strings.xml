@@ -115,10 +115,10 @@
     <string name="restoreSuccessfully">Восстановление резервной копии успешно</string>
     <string name="tipRestoreTheBackup">Файлы истории Pure Writer находятся только в каталоге /sdcard/PureWriter. Если вы собираетесь использовать резервные файлы для восстановления содержимого. Оригинальный каталог PureWriter будет переименован в PureWriter.old, а затем мы создадим новый каталог PureWriter с резервными файлами. \n\nВсе все файлы резервных копий, нажмите, чтобы восстановить резервную копию:</string>
     <string name="tipBackupNotExist">Файл резервной копии не существует. Поместите файл резервной копии в /sdcard/backups/PureWriterBackup.db и повторите попытку.</string>
-    <string name="wordCountMode">Word telmodus</string>
+    <string name="wordCountMode">Word count mode</string>
     <string-array name="wordCountModeEntries">
-        <item>Spaties en regeleinde uitsluiten</item>
-        <item>Neem alle symbolen en tekst op</item>
+        <item>Exclude spaces and line break</item>
+        <item>Include all symbols and text</item>
     </string-array>
     <string name="fab">Главная плавающая кнопка</string>
     <string name="tipFab">Совет. Длительное нажатие на главной странице может временно скрыть его.</string>
