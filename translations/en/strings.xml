@@ -1,7 +1,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="pureWriter">Pure Writer</string>
     <string name="appNameDebug" translatable="false">纯纯写作 β</string>
-    <string name="titleHint">Please enter a title</string>
+    <string name="titleHint">Please enter a Title</string>
     <string name="editorHintTitle" translatable="false">@string/titleHint</string>
     <string name="editorTipAMenu">You need to select a text to operate</string>
     <string name="editorHintContent">Please enter the text</string>
@@ -14,27 +14,27 @@
     <string name="about">About | Guide</string>
 
     <string name="defaultContent">Nice to meet you!\nThis is a quick plain text editor, we hope that writing can return to the original: <b>Pure, safe, at any time, do not lose the content, super reliable.</b>\nPure Writer achieves the perfect line spacing and paragraph spacing on the Android platform, and it makes your text look more comfortable and clear. At the same time, it also achieves a smooth scrolling, swiping down to close the soft keyboard, and many pleasing details.\nSimplicity is hidden complexity. You can interrupt or continue writing anytime, anywhere, and can quickly encrypt your text with fingerprints. In addition, it can easily and quickly send the text to other Apps. We have all done this for you.\nThe most important, <b>When using this editor, it will ensure that your content will never be lost. Even if you mistakenly delete the text, or instantly power off, you will still be able to recover it from history. </b>\nOnce you have finished writing an article, you can use the Send button to send it to other Apps, or you can open a new article.\nNow you can try to clear this page and carry out your creation. The Clear button is in the menus. If misuse, you can also recover it from the history. We regard your creation as the most important treasure.\nPlease enjoy it.</string>
-    <string name="share">Send to an app</string>
-    <string name="copyTitle">Copy the title</string>
+    <string name="share">Send To An App</string>
+    <string name="copyTitle">Copy The Title</string>
     <string name="lock">Lock</string>
     <string name="history"><b>History</b></string>
     <string name="tipShouldUnlock">Should unlock first</string>
     <string name="slogan" translatable="false">@string/hintDrawerHeader</string>
     <string name="tipShouldSetupFingerprint">Should create fingerprint first</string>
-    <string name="sendContentTo">Send this content to:</string>
+    <string name="sendContentTo">Send This Content To:</string>
     <string name="failedTitleIsEmpty">Failed: the title is empty</string>
     <string name="failedContentIsEmpty">Failed: the content is empty</string>
     <string name="copyTheTitleSuccessfully">Copied the title successfully</string>
     <string name="copyTheContentSuccessfully">Copied the content successfully</string>
     <string name="tipDestroyArticleSuccessfully">Destroyed this article successfully, and you could revert it from history page</string>
     <string name="titleAndContentAreEmpty">Title and content are empty</string>
-    <string name="clearThisPage">Clear this page</string>
-    <string name="copyContent">Copy the content</string>
+    <string name="clearThisPage">Clear This Page</string>
+    <string name="copyContent">Copy The Content</string>
     <string name="appRecommendationTitle">Recommendation</string>
     <string name="appPureMosaic">PureMosaic</string>
     <string name="wordCount">Count</string>
-    <string name="historyState">Saved record</string>
-    <string name="todayIs">Today is</string>
+    <string name="historyState">Saved Record</string>
+    <string name="todayIs">Today Is</string>
     <string name="tipNeedFingerprint">Need fingerprint unlock to view and edit</string>
     <string name="empty">Empty</string>
     <string name="untitled">Untitled</string>
@@ -48,13 +48,6 @@
     <string name="defaultTitle">As you wish</string>
     <string name="adUnitIdLight" translatable="false">ca-app-pub-9494072807329103/7317154675</string>
 
-    <string name="pageTitle" translatable="false">@string/somePage</string>
-    <string name="togglePageSwitcherMenuItem">Switch pages</string>
-    <string name="addPageMenuItem" translatable="false">New tab</string>
-    <string name="clearTabsMenuItem" translatable="false">Clear all tabs</string>
-    <string name="allPages">All pages</string>
-    <string name="historyComeFrom">From: page %d</string>
-    <string name="somePage">Page %d</string>
     <string name="tipPermissionFailed">Permission fetch failed and will not be able to save the record</string>
     <string name="titleStorePermissionFailed">The storage permission request failed</string>
     <string name="tipMessageStoragePermissionFirst">We need permission to automatically back up your articles, in order to prevent your articles from being lost, please grant permission.</string>
@@ -68,17 +61,17 @@
     <string name="settingsAndRecommendation">Settings &amp; My other Apps</string>
     <string name="on">On</string>
     <string name="off">Off</string>
-    <string name="shortcutBar">Shortcut bar</string>
-    <string name="insertBlankLinesWhenExporting">Insert blank lines when exporting</string>
+    <string name="shortcutBar">Shortcut Bar</string>
+    <string name="insertBlankLinesWhenExporting">Insert Blank Lines When Exporting</string>
     <string name="indent">Indent</string>
     <string name="format">Format</string>
-    <string name="contentTextSize">Content text size</string>
+    <string name="contentTextSize">Content Text Size</string>
     <string name="iKnow">I know</string>
     <string name="tipIndent">Note: The segmentation indentation setting item will not change the existing text</string>
     <string name="explanation">Explanation</string>
     <string name="tipInsertBlankLines">If this setting is Yes, when copying or sending text, it will automatically insert a blank line after each line of the text, because there is no good spacing in other Apps.</string>
-    <string name="deleteObsoleteFiles">Delete obsolete files</string>
-    <string name="dayNightMode">Night mode</string>
+    <string name="deleteObsoleteFiles">Delete Obsolete Files</string>
+    <string name="dayNightMode">Night Mode</string>
     <string name="summaryPay">Unlock advanced features</string>
     <string name="tipSettingNotSupport">Temporarily can not set this. Coming soon.</string>
     <string-array name="nightModeEntries">
@@ -97,7 +90,7 @@
     <string name="linksCard" translatable="false">Pure Writer 3.0 - Never Lost Content Editor\nhttps://medium.com/@drakeet/pure-writer-3-0-never-lost-content-editor-419fc75a6f9d\n\n纯纯写作 3.0 - 愿文字带我们穿越时光，连接过去，遥想未来\nhttps://sspai.com/post/43650</string>
     <string name="features">Features</string>
     <string name="sendTextFailedForTooLarge">Your text is too long to be sent directly to another Apps. It has already copied the text to your clipboard</string>
-    <string name="previewAndSaveAs">Preview | Save as…</string>
+    <string name="previewAndSaveAs">Preview | Save As…</string>
     <string name="hasSavedToYourAlbum">Saved to your album</string>
     <string name="preview">Preview</string>
     <string name="proReadMe">If you think Pure Writer is great, and hope that it can be better,  are you willing to spend a little money as an incentive for the developer?\n\nThis enables us to stick to good direction, create conscience products, and inspire more independent developers.\n\nYou can click the \"GOOGLE PLAY\" button to open Google Pay Payment. As a return, Pure Writer will provide <b>ad-free</b> state and all Pro contents for you. Thank you very much!</string>
@@ -111,31 +104,31 @@
     <string name="update">Update</string>
     <string name="messageDeleteArticlesToTrash">Do you want to delete these articles and move them to the trash?</string>
     <string name="tipPurchasedStatusFailed">Purchased. If the status is not refreshed, try clicking the Pro item again and will NOT deduct your money again.</string>
-    <string name="createNew">New article</string>
-    <string name="autoLock">Auto lock</string>
+    <string name="createNew">New Article</string>
+    <string name="autoLock">Auto Lock</string>
     <string name="enabled">Enabled</string>
     <string name="appLinks">Android Links</string>
     <string name="googlePlay" translatable="false">Google Play</string>
     <string name="titleOpenImportedFile">Found that you opened an external file, please select an action</string>
     <string name="copied">Copied</string>
     <string name="sort">Sort Type</string>
-    <string name="sortTypeDescModification">By modification time</string>
-    <string name="sortTypeDescCreation">By creation time</string>
+    <string name="sortTypeDescModification">By Modification Time</string>
+    <string name="sortTypeDescCreation">By Creation Time</string>
     <string name="warningSavedFailed">File saved failed, please copy your full text, and then restart the App to see if the content is missing</string>
     <string name="backupNow">Back up now</string>
     <string name="summaryBackup">The backup file will be saved to the path /sdcard/backups/PureWriterBackup.db</string>
-    <string name="restoreTheBackup">Restore the backup</string>
-    <string name="summaryRestoreTheBackup">The backup file will be read from the path /sdcard/backups/PureWriterBackup.db</string>
+    <string name="restoreTheBackup">Restore The Backup</string>
+    <string name="summaryRestoreTheBackup">The backup file will be read from the path /sdcard/backups/PureWriterBackup.db and your WebDAV cloud disk</string>
     <string name="backupSuccessfully">Backup successful</string>
     <string name="restoreSuccessfully">Restore the backup successfully</string>
     <string name="tipRestoreTheBackup">"Pure Writer's history files are only in the /sdcard/PureWriter directory. If you're about to use your backup files to restore content. The original PureWriter directory will be renamed to PureWriter.old, and then we will create a new PureWriter directory with the backup files. \n\nThe following is all the backup files, click to restore the backup: "</string>
     <string name="tipBackupNotExist">The backup file does not exist. Please put the backup file in /sdcard/backups/PureWriterBackup.db and try again</string>
-    <string name="wordCountMode">Word count mode</string>
+    <string name="wordCountMode">Word Count Mode</string>
     <string-array name="wordCountModeEntries">
         <item>Exclude spaces and line break</item>
         <item>Include all symbols and text</item>
     </string-array>
-    <string name="fab">Home floating button</string>
+    <string name="fab">Home Floating Button</string>
     <string name="tipFab">Tip: Long press it on the home page can hide it temporarily</string>
     <string name="tipCannotCreateNewWhenEmpty">New article cannot be created when both title and content are empty</string>
     <string name="more">More</string>
@@ -145,7 +138,7 @@
     <string name="formatterIndent">Insert indentation at the beginning of all paragraphs</string>
     <string name="formatterLineBreak">Leave a blank line between the paragraphs</string>
     <string name="formatterRemoveBreak">Remove all blank lines between the paragraphs</string>
-    <string name="titleAsAWordForACount">As a word for a count</string>
+    <string name="titleAsAWordForACount">As A Word For A Count</string>
     <string name="trash">Trash</string>
     <string name="fixedAppBarLayoutBehavior" translatable="false">com.drakeet.purewriter.widget.FixedAppBarLayoutBehavior</string>
 
@@ -164,33 +157,31 @@
     <string name="apply">Apply</string>
     <string name="defaultDark">Default Dark</string>
     <string name="pureWhite">Pure White</string>
-    <string name="titleAlignCenter">Title center alignment</string>
+    <string name="titleAlignCenter">Title Center Alignment</string>
     <string name="tipShortcutBarEnabled">Not recommended to close</string>
     <string name="open">Open</string>
     <string name="summaryAutoBackup">Automatically back up when files changed and exit, retaining up to 25 recent backup files</string>
     <string name="migratingData">Migrating data</string>
-    <string name="autoBackup">Auto backup</string>
+    <string name="autoBackup">Auto Backup</string>
     <string name="summaryDeleteObsoleteFiles">We are now using private directories to store all your content. Click this to delete the old version of the history files left on the SD card</string>
     <string name="tipArticleDeleting">The article is being deleted, cannot operate temporarily</string>
     <string name="noHistory">No history</string>
-    <string name="formatterRemoveIndent">Remove indentation</string>
-    <string name="keepScreenOn">Keep screen on</string>
+    <string name="formatterRemoveIndent">Remove Indentation</string>
+    <string name="keepScreenOn">Keep Screen On</string>
     <string name="titleGFMBreaks" translatable="false">GFM Line Breaks</string>
-    <string name="gfmBreaksEnabled">Wrap with a line break</string>
+    <string name="gfmBreaksEnabled">Wrap With A Line Break</string>
     <string name="gfmBreaksDisabled">Needs two line breaks to really render the newline</string>
     <!--time machine-->
     <string name="timeMachineHintInput" translatable="false">Message</string>
     <!--action-->
-    <string name="wordCountTotal">All count</string>
-    <string name="wordCountTotalValue">Word count of all articles</string>
+    <string name="wordCountTotal">All Count</string>
+    <string name="wordCountTotalValue">Word Count Of All Articles</string>
     <string name="debugRemoveLicense" translatable="false">RemoveLicense</string>
-    <string name="alipayReward" translatable="false">跨年红包</string>
-    <string name="alipayRewardEcho" translatable="false">快来领取支付宝跨年红包！1月1日起还有机会额外获得专享红包哦！复制此消息，打开最新版支付宝就能领取！TCU3qD36sP</string>
     <string name="timeMachineGuide">What\'s this? You can understand it as a chat window, or as a place to record content temporarily, or something like Google Assistant. In fact, it has a name, called \"Time Machine.\" Nice to meet you!</string>
-    <string name="copyDate">Copy date</string>
+    <string name="copyDate">Copy Date</string>
     <string name="defaultFolder">Default Folder</string>
     <string name="folders">Folders</string>
-    <string name="createNewFolder">Create new folder</string>
+    <string name="createNewFolder">Create New Folder</string>
     <string name="summaryOfAbout">Learn about the original ideas and concepts we developed and designed for this application</string>
     <string name="emptyTip">No articles have been opened yet</string>
     <string name="name">Name</string>
@@ -201,10 +192,10 @@
     <string name="cannotDeleteNotEmptyFolder">The folder is not empty, if you want to delete, please delete or move the articles contained in this folder, try again</string>
     <string name="move">Move</string>
     <string name="moveTo">Move To</string>
-    <string name="timeMachine">Time machine</string>
-    <string name="listFirst">Open the list at startup</string>
+    <string name="timeMachine">Time Machine</string>
+    <string name="listFirst">Open The List At Startup</string>
     <string name="language">Language</string>
-    <string name="followSystem">Follow system</string>
+    <string name="followSystem">Follow System</string>
     <string name="localPicture">Local Picture</string>
     <string name="selectPicture">Select Picture</string>
     <string name="toastCannotRetrieveSelectedImage">Cannot retrieve selected image</string>
@@ -212,7 +203,7 @@
     <string name="saved">Saved</string>
     <string name="sendTo">Send To</string>
     <string name="mode">Mode</string>
-    <string name="plainText">Plain text</string>
+    <string name="plainText">Plain Text</string>
     <string name="tipHasNotPermissionWithAutoBackup">Attempt to auto backup failed because you did not give Pure Writer storage permission</string>
     <string name="hideTitleBarWhenPreviewingMarkdown">Hide title bar when previewing Markdown</string>
     <string name="summaryJoinBeta">Click to join the Beta update channel, you can get the latest update as soon as possible, but Beta update frequency will be very high, if you can not accept, please do not join.</string>
@@ -227,4 +218,22 @@
         <item quantity="other">Are you sure you want to delete %d messages?</item>
     </plurals>
     <string name="tipLandscapeOrientation">Please use an external keyboard in landscape mode</string>
+    <string name="promptShortcutOrder">Order</string>
+    <string name="editShortcut">Edit text Shortcut</string>
+    <string name="sync">Sync</string>
+    <string name="upload">Upload</string>
+    <string name="download">Fetch</string>
+    <string name="titleBackupsAndSync">Backup and cloud sync</string>
+    <string name="summaryBackupsAndSync">Backup, restore, WebDAV</string>
+    <string name="syncNetwork">Cloud Backup Network</string>
+    <string name="syncOnlyWifi">Automatic backup to WebDAV cloud disk is only allowed on Wi-Fi network</string>
+    <string name="syncAllNetworks">Automatic backup to WebDAV cloud disk on all networks</string>
+    <string name="webDavRootURL">WebDAV URL</string>
+    <string name="webDavAccount">WebDAV Account</string>
+    <string name="webDavPassword">WebDAV Password</string>
+    <string name="webDavAutoBackup">Auto backup to WebDAV cloud disk</string>
+    <string name="errorWebDavConfig">Your WebDAV configuration is incomplete or incorrect. Please modify the WebDAV configuration before attempting to upload</string>
+    <string name="uploadSuccessful">Upload successful</string>
+    <string name="fetchSuccessful">Fetch successful</string>
+    <string name="messageUpload">Pure Writer created a fixed file on your cloud disk. The file name is <b>PureWriter.txt</b>. You can click "OK" to upload the content of your current article to this fixed file. Then you can edit this cloud file on other devices. When it changes, you can pull it down. \n\nDo you now want to write the current article content to that cloud file?</string>
 </resources>

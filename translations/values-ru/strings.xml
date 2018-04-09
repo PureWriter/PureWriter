@@ -39,15 +39,11 @@
     <string name="titleIntroCard">Используется для записи всего</string>
     <string name="defaultContent">Приятно познакомиться!\nЭто быстрый текстовый редактор, мы надеемся, что письмо может вернуться к оригиналу: <b>Чисто, безопасно, в любое время, не теряйте контент, супер надежный.</b>\nТаким образом достигается идеальный интервал между строками и интервалы между ними на платформе Android, что делает ваш текст более удобным и понятным. В то же время он также обеспечивает плавную прокрутку, поворот вниз, чтобы закрыть мягкую клавиатуру, и многие приятные детали. \nПростота - это скрытая сложность, вы можете прервать любой успех, бесплатно и сможете быстро шифровать текст с помощью отпечатков пальцев. Кроме того, он может легко и быстро отправлять текст в другие приложения. Мы все это сделали для вас.\nСамое главное, <b>Если вы ошибочно удалите текст или сразу отключите питание, вы все равно сможете восстановить его из истории.</b>\nКогда вы закончите писать статью, вы можете использовать кнопку «Отправить», чтобы отправить ее другим приложениям, или вы можете открыть новую статью.\nТеперь вы можете попытаться очистить эту страницу и выполнить свое творение. Название создания - это самое важное сокровище.\nПожалуйста, наслаждайтесь им.</string>
     <string name="defaultTitle">Как хотите</string>
-    <string name="allPages">Все страницы</string>
-    <string name="historyComeFrom">От: страница %d</string>
-    <string name="somePage">Страница %d</string>
     <string name="tipPermissionFailed">Ошибка выбора разрешений и не сможет сохранить запись</string>
     <string name="titleStorePermissionFailed">Не удалось выполнить запрос на разрешение хранилища</string>
     <string name="actionOkGoSettings">Ну, идите в Настройки</string>
     <string name="tipFingerAuthRetry">Отпечатков пальцев, чтобы разблокировать не удается, оставшееся количество повторных попыток: %d</string>
     <string name="tipFingerAuthFailed">Не удалось разблокировать отпечаток пальца, повторите попытку через 1 минуту, программа вот-вот выйдет …</string>
-    <string name="togglePageSwitcherMenuItem">Переключение страниц</string>
     <string name="tipTitleLengthLimit">Название поддерживает до 100 символов</string>
     <string name="tipRichText">Pure Writer стремится создать чистый и простой текстовый текст, поэтому он не предназначен для поддержки контента с богатым текстом. В это время вы можете увидеть текст в презентации с помощью <b> жирного текста </b>, жирный шрифт скрыт, не открыт, потому что жирный шрифт не может быть выражен в TXT-файле, извините, пожалуйста, простите меня! Если у вас есть лучшее предложение, пожалуйста, присоединитесь к группе отзывов, чтобы сказать мне, спасибо за вашу поддержку!</string>
     <string name="settings">Настройки</string>
@@ -110,7 +106,7 @@
     <string name="backupNow">Резервное копирование сейчас</string>
     <string name="summaryBackup">Файл резервной копии будет сохранен в пути /sdcard/backups/PureWriterBackup.db</string>
     <string name="restoreTheBackup">Восстановить резервную копию</string>
-    <string name="summaryRestoreTheBackup">Файл резервной копии будет считан с пути /sdcard/backups/PureWriterBackup.db</string>
+    <string name="summaryRestoreTheBackup">The backup file will be read from the path /sdcard/backups/PureWriterBackup.db and your WebDAV cloud disk</string>
     <string name="backupSuccessfully">Резервирование успешно</string>
     <string name="restoreSuccessfully">Восстановление резервной копии успешно</string>
     <string name="tipRestoreTheBackup">Файлы истории Pure Writer находятся только в каталоге /sdcard/PureWriter. Если вы собираетесь использовать резервные файлы для восстановления содержимого. Оригинальный каталог PureWriter будет переименован в PureWriter.old, а затем мы создадим новый каталог PureWriter с резервными файлами. \n\nВсе все файлы резервных копий, нажмите, чтобы восстановить резервную копию:</string>
@@ -191,4 +187,22 @@
     <string name="messageDeleteArticlesDirectly">Удалите эти статьи напрямую</string>
     <string name="trashFolderTip">Вы находитесь в папке «Корзина», эта папка не может создать новую статью.</string>
     <string name="tipLandscapeOrientation">Пожалуйста, используйте внешнюю клавиатуру в ландшафтном режиме</string>
+    <string name="promptShortcutOrder">Order</string>
+    <string name="editShortcut">Редактировать текст Ярлык</string>
+    <string name="sync">Синхронизация</string>
+    <string name="upload">Загрузить</string>
+    <string name="download">Скачать</string>
+    <string name="titleBackupsAndSync">Backup and cloud sync</string>
+    <string name="summaryBackupsAndSync">Резервное копирование, восстановление, WebDAV</string>
+    <string name="syncNetwork">Cloud Backup Network</string>
+    <string name="syncOnlyWifi">Automatic backup to WebDAV cloud disk is only allowed on Wi-Fi network</string>
+    <string name="syncAllNetworks">Automatic backup to WebDAV cloud disk on all networks</string>
+    <string name="webDavRootURL">WebDAV URL</string>
+    <string name="webDavAccount">WebDAV Account</string>
+    <string name="webDavAutoBackup">Auto backup to WebDAV cloud disk</string>
+    <string name="webDavPassword">WebDAV Password</string>
+    <string name="errorWebDavConfig">Your WebDAV configuration is incomplete or incorrect. Please modify the WebDAV configuration before attempting to upload</string>
+    <string name="uploadSuccessful">Загрузить успешную</string>
+    <string name="fetchSuccessful">Скачать успешным</string>
+    <string name="messageUpload">Pure Writer created a fixed file on your cloud disk. The file name is <b>PureWriter.txt</b>. You can click "OK" to upload the content of your current article to this fixed file. Then you can edit this cloud file on other devices. When it changes, you can pull it down. \n\nDo you now want to write the current article content to that cloud file?</string>
 </resources>

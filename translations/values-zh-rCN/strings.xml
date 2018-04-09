@@ -40,9 +40,6 @@
     <string name="goOn">继续</string>
     <string name="reject">拒绝</string>
     <string name="defaultTitle">如你所愿</string>
-    <string name="historyComeFrom">来自: 第 %d 页</string>
-    <string name="allPages">全部页</string>
-    <string name="somePage">第 %d 页</string>
     <string name="tipPermissionFailed">权限获取失败，将无法保存记录</string>
     <string name="titleStorePermissionFailed">存储权限申请失败</string>
     <string name="tipMessageStoragePermissionFirst">我们需要文件存储权限仅用于自动备份您的文章，以此防止您的文本丢失，请授予权限。</string>
@@ -50,7 +47,6 @@
     <string name="actionOkGoSettings">好，去设置</string>
     <string name="tipFingerAuthRetry">指纹解锁失败，剩余重试次数：%d</string>
     <string name="tipFingerAuthFailed">指纹解锁失败，请 1 分钟后重试，程序即将退出…</string>
-    <string name="togglePageSwitcherMenuItem">切换页面</string>
     <string name="tipTitleLengthLimit">标题最多支持 100 个字符</string>
     <string name="tipRichText">纯纯写作 致力于打造纯粹并且良好的纯文本书写体验，所以暂不打算支持富文本内容。目前您可能看到演示文本中带有<b>粗体文字</b>，粗体属于隐藏功能，暂没有开放，因为粗体无法在 TXT 文件中表达，表示抱歉，请见谅！如果您有更好的建议，欢迎加入反馈群来告诉我，感谢支持！</string>
     <string name="indent">段首缩进</string>
@@ -112,7 +108,7 @@
     <string name="backupNow">立即备份</string>
     <string name="summaryBackup">备份文件将被保存到 /sdcard/backups/PureWriterBackup.db</string>
     <string name="restoreTheBackup">恢复备份</string>
-    <string name="summaryRestoreTheBackup">备份文件将从 /sdcard/backups/PureWriterBackup.db 中读取</string>
+    <string name="summaryRestoreTheBackup">备份文件将从 /sdcard/backups/PureWriterBackup.db 和你的 WebDAV 云盘中读取</string>
     <string name="tipRestoreTheBackup">纯纯写作所有的记录文件都只在 /sdcard/PureWriter 目录下，如果您即将使用您的备份文件来恢复内容，原有的 PureWriter 目录将被改名为 PureWriter.old，然后我们才会用备份文件创建新的 PureWriter 目录及其内容。如果需要，您当前的内容可以在 PureWriter.old 目录中找到。 \n\n以下是备份文件，点击即可恢复备份：</string>
     <string name="restoreSuccessfully">恢复备份成功</string>
     <string name="tipBackupNotExist">备份文件不存在，请将备份文件置于 /sdcard/backups/PureWriterBackup.db 并重试</string>
@@ -195,4 +191,22 @@
     </plurals>
     <string name="trashFolderTip">您处于废纸篓文件夹中，该文件夹中无法创建新文章。</string>
     <string name="tipLandscapeOrientation">横屏模式下请使用外接键盘</string>
+    <string name="promptShortcutOrder">排序</string>
+    <string name="editShortcut">编辑快捷输入项</string>
+    <string name="titleBackupsAndSync">备份与云同步</string>
+    <string name="summaryBackupsAndSync">备份、恢复、WebDAV</string>
+    <string name="syncNetwork">云备份网络</string>
+    <string name="syncOnlyWifi">只在 Wi-Fi 网络下才允许自动备份到 WebDAV 云盘</string>
+    <string name="syncAllNetworks">在所有网络下都允许自动备份到 WebDAV 云盘</string>
+    <string name="webDavRootURL">WebDAV 地址</string>
+    <string name="webDavAccount">WebDAV 账号</string>
+    <string name="webDavPassword">WebDAV 密码</string>
+    <string name="webDavAutoBackup">自动备份到 WebDAV 云盘</string>
+    <string name="errorWebDavConfig">您的 WebDAV 配置不完整或不正确，请修改 WebDAV 配置后再尝试上传</string>
+    <string name="uploadSuccessful">上传成功</string>
+    <string name="fetchSuccessful">拉取成功</string>
+    <string name="messageUpload">纯纯写作在您的云盘上创建了一个固定文件，文件名叫 <b>PureWriter.txt</b>，您可以点击「确定」上传当前文章的内容到这个固定文件中，然后您便可以在其他设备上编辑这个云文件，之后您可以再将它的新内容拉取下来。\n\n请问您现在确定要将当前文章内容覆盖写入到您的这个云固定文件吗？</string>
+    <string name="sync">同步</string>
+    <string name="upload">上传</string>
+    <string name="download">拉取</string>
 </resources>

@@ -39,9 +39,6 @@
     <string name="titleIntroCard">寫 • 作</string>
     <string name="defaultContent">　　很高興見到你！\n　　這是一個快速的純文字編輯器，我們希望寫作能夠回到原本的樣子：<b>純粹、有安全感、隨時、絕對不損失內容、具備良好的寫作體驗。 </b>\n　　純純寫作實現了在 Android 上完美的行間距和段間距，它能夠使您的文件看起來更加舒適，清晰。同時，它還實現了順暢移動、下滑關閉輸入法軟鍵盤，以及許多令人驚豔的細節。\n　　蘊繁於簡，您能夠最快速度達到靈感頁面，能夠隨時隨地中斷和繼續寫作，能夠使用指紋加密您的文件，能夠輕易、快速將文件分享傳送到其他 App，這些我們都已經為您做好了。\n　　最重要的，<b>在使用這個編輯器時，它將會保證您的內容永遠不會損失，除非您主動將它清空。否則即使不小心動作將文件刪除，或瞬間斷電，您仍然能夠從歷程記錄中將它還原。 </b>\n　　當您完成一篇文章寫作之後，可以選擇 右上角傳送按鈕 將它傳送到另外的 App，或開啟新篇章。\n　　現在您可以嘗試清空本頁，進行您的創作。清空本頁動作在右上角目錄當中，如果誤動作，您同樣可以從歷程記錄中還原。\n　　我們視您的創作為最重要的珍寶。請享用。</string>
     <string name="defaultTitle">如你所願</string>
-    <string name="allPages">全部頁</string>
-    <string name="historyComeFrom">來自: 第 %d 頁</string>
-    <string name="somePage">第 %d 頁</string>
     <string name="tipPermissionFailed">權限取得失敗，將無法儲存記錄</string>
     <string name="titleStorePermissionFailed">儲存權限取得失敗</string>
     <string name="tipMessageStoragePermissionFirst">我們需要檔案儲存權限僅用於自動備份您的文章，以此防止您的文件損失，請授予權限。</string>
@@ -49,7 +46,6 @@
     <string name="actionOkGoSettings">好，去設定</string>
     <string name="tipFingerAuthRetry">指紋解鎖失敗，剩餘重試次數：%d</string>
     <string name="tipFingerAuthFailed">指紋解鎖失敗，請 1 分鐘後重試，程式即將退出…</string>
-    <string name="togglePageSwitcherMenuItem">切換頁面</string>
     <string name="tipTitleLengthLimit">標題最多支援 100 個字符</string>
     <string name="tipRichText">純純寫作 致力於打造純粹並且良好的純文字書寫體驗，所以暫不打算支援 RTF 內容。目前您可能看到範例文件中有<b>粗體文字</b>，粗體屬於隱藏功能，暫時沒有開放，因為粗體無法在  TXT  文件中顯示，表示抱歉，請見諒！如果您有更好的建議，歡迎加入回報問題群來告訴我，感謝支援！</string>
     <string name="settings">設定</string>
@@ -110,7 +106,7 @@
     <string name="backupNow">立即備份</string>
     <string name="summaryBackup">備份文件將被儲存到 /sdcard/backups/PureWriterBackup.db</string>
     <string name="restoreTheBackup">還原備份</string>
-    <string name="summaryRestoreTheBackup">備份文件將從 /sdcard/backups/PureWriterBackup.db 中讀取</string>
+    <string name="summaryRestoreTheBackup">備份文件將從 /sdcard/backups/PureWriterBackup.db 和你的 WebDAV 雲盤中讀取</string>
     <string name="backupSuccessfully">備份成功</string>
     <string name="restoreSuccessfully">還原備份成功</string>
     <string name="tipRestoreTheBackup">純純寫作所有的記錄文件都只在 /sdcard/PureWriter 目錄下，如果您即將使用您的備份文件來還原內容，原有的 PureWriter 目錄將被改名為 PureWriter.old，然後我們才會用備份文件建立新的 PureWriter 目錄及其內容。\n\n這麼做是為了保護您目前的內容不至於損失，如果需要，您目前的內容可以在 PureWriter.old 目錄中找到。</string>
@@ -194,4 +190,22 @@
     </plurals>
     <string name="trashFolderTip">您處於廢紙簍文件夾中，該文件夾中無法創建新文章。</string>
     <string name="tipLandscapeOrientation">橫屏模式下請使用外接鍵盤</string>
+    <string name="promptShortcutOrder">排序</string>
+    <string name="editShortcut">編輯快捷輸入項</string>
+    <string name="webDavRootURL">WebDAV 地址</string>
+    <string name="webDavAccount">WebDAV 賬號</string>
+    <string name="webDavPassword">WebDAV 密碼</string>
+    <string name="webDavAutoBackup">自動備份到 WebDAV 雲盤</string>
+    <string name="errorWebDavConfig">您的 WebDAV 配置不完整或不正確，請修改 WebDAV 配置後再嘗試上傳</string>
+    <string name="uploadSuccessful">上傳成功</string>
+    <string name="fetchSuccessful">拉取成功</string>
+    <string name="messageUpload">純純寫作在您的雲盤上創建了一個固定文件，文件名叫 <b>PureWriter.txt</b>，您可以點擊「確定」上傳當前文章的內容到這個固定文件中，然後您便可以在其他設備上編輯這個雲文件，之後您可以再將它的新內容拉取下來。\n\n請問您現在確定要將當前文章內容覆蓋寫入到您的這個雲固定文件嗎？</string>
+    <string name="sync">同步</string>
+    <string name="upload">上傳</string>
+    <string name="download">拉取</string>
+    <string name="titleBackupsAndSync">備份與雲同步</string>
+    <string name="summaryBackupsAndSync">備份、恢復、WebDAV</string>
+    <string name="syncNetwork">雲備份網絡</string>
+    <string name="syncOnlyWifi">衹在 Wi-Fi 網絡下才允許自動備份到 WebDAV 雲盤</string>
+    <string name="syncAllNetworks">在所有網絡下都允許自動備份到 WebDAV 雲盤</string>
 </resources>

@@ -3,7 +3,6 @@
     <string name="defaultContent">Leuk om je te ontmoeten!\nDit is een snelle tekst editor, we hopen dat het schrijven kan terugkeren naar het origineel: <b>Zuiver, veilig, op elk moment, verlies de inhoud niet, super betrouwbaar.</b>\nZo bereikt u ook de perfecte lijnafstand en dan hier op het Android-platform, zodat uw tekst comfortabeler en duidelijker wordt. Tegelijkertijd bereikt u ook een soepele scrolling, omlaag om het soft keyboard te sluiten en veel aangename details .\nEenvoud is verborgen complexiteit. U kunt succesvol en gratis onderbreken en kan uw tekst snel vingerafdrukken. Bovendien kan het de tekst snel en snel naar andere Apps verzenden. Wij hebben dit allemaal voor u gedaan.\nDe belangrijkste, <b>Als u de tekst per ongeluk verwijdert of onmiddellijk uitschakelt, kunt u deze nog steeds terugvinden uit de geschiedenis.</b>\nNadat u een artikel hebt geschreven, kunt u de knop Verzenden gebruiken om deze naar andere Apps te sturen, of u kunt een nieuw artikel openen.\nNu kunt u deze pagina verwijderen en uw creatie uitvoeren. De naam van de creatie is de belangrijkste schat.\nGelieve het te genieten.</string>
     <string name="about">Over | Gids</string>
     <string name="actionOkGoSettings">Nou, ga naar Instellingen</string>
-    <string name="allPages">Alle pagina\'s</string>
     <string name="appPureMosaic">PureMosaic</string>
     <string name="appRecommendationTitle">Aanbeveling</string>
     <string name="autoLock">Automatische vergrendeling</string>
@@ -36,7 +35,6 @@
     <string name="hasSavedToYourAlbum">Op je album opgeslagen</string>
     <string name="hintDrawerHeader">Snelle, uitstekende ervaring, nooit inhoud verloren</string>
     <string name="history"><b>Geschiedenis</b></string>
-    <string name="historyComeFrom">Van: pagina %d</string>
     <string name="iKnow">ik weet</string>
     <string name="indent">Inspringen</string>
     <string name="indentShort">Inspringen</string>
@@ -66,7 +64,6 @@
     <string name="settings">instellingen</string>
     <string name="settingsAndRecommendation">Instellingen &amp; Mijn andere apps</string>
     <string name="shortcutBar">Snelkoppeling</string>
-    <string name="somePage">Pagina %d</string>
     <string name="summaryPaid">Verworven: Pure Writer Pro</string>
     <string name="summaryPay">Ontgrendel geavanceerde functies</string>
     <string name="tipDestroyArticleSuccessfully">Dit artikel is succesvol gewist en u kunt het terugvinden op de geschiedenispagina</string>
@@ -90,7 +87,6 @@
     <string name="titleHint">Vul alstublieft een titel in</string>
     <string name="titleIntroCard">Gebruikt om iets te schrijven</string>
     <string name="titleStorePermissionFailed">Het verzoek om opslagvergunning is mislukt</string>
-    <string name="togglePageSwitcherMenuItem">Pagina\'s wisselen</string>
     <string name="undo">ongedaan maken</string>
     <string name="update">Bijwerken</string>
     <string name="yes">OK</string>
@@ -110,7 +106,7 @@
     <string name="backupNow">Nu backuppen</string>
     <string name="summaryBackup">Het back-upbestand wordt opgeslagen op het pad /sdcard/backups/PureWriterBackup.db</string>
     <string name="restoreTheBackup">Herstel de back-up</string>
-    <string name="summaryRestoreTheBackup">Het back-upbestand wordt gelezen vanaf het pad /sdcard/backups/PureWriterBackup.db</string>
+    <string name="summaryRestoreTheBackup">The backup file will be read from the path /sdcard/backups/PureWriterBackup.db and your WebDAV cloud disk</string>
     <string name="backupSuccessfully">Backup succesvol</string>
     <string name="restoreSuccessfully">Herstel de back-up met succes</string>
     <string name="tipRestoreTheBackup"> "De geschiedenisbestanden van Pure Writer bevinden zich alleen in de map /sdcard/PureWriter.Als u op het punt staat uw back-upbestanden te gebruiken om inhoud te herstellen. De oorspronkelijke PureWriter-map zal hernoemd worden naar PureWriter.old, en dan zullen we een nieuwe PureWriter-map maken met de back-upbestanden. \n\nHet volgende is alle back-upbestanden, klik om de back-up te herstellen: "</string>
@@ -191,4 +187,22 @@
     <string name="messageDeleteArticlesDirectly">Verwijder deze artikelen direct</string>
     <string name="trashFolderTip">U bevindt zich in de map Prullenbak, deze map kan geen nieuw artikel maken.</string>
     <string name="tipLandscapeOrientation">Gebruik een extern toetsenbord in de liggende modus</string>
+    <string name="promptShortcutOrder">Order</string>
+    <string name="editShortcut">Tekst bewerken Snelkoppeling</string>
+    <string name="sync">Synchroniseren</string>
+    <string name="upload">Uploaden</string>
+    <string name="download">Download</string>
+    <string name="titleBackupsAndSync">Back-up en cloudsynchronisatie</string>
+    <string name="summaryBackupsAndSync">Back-up, herstel, WebDAV</string>
+    <string name="syncNetwork">Cloud back-upnetwerk</string>
+    <string name="syncOnlyWifi">Automatic backup to WebDAV cloud disk is only allowed on Wi-Fi network</string>
+    <string name="syncAllNetworks">Automatic backup to WebDAV cloud disk on all networks</string>
+    <string name="webDavRootURL">WebDAV URL</string>
+    <string name="webDavAccount">WebDAV Account</string>
+    <string name="webDavPassword">WebDAV Password</string>
+    <string name="webDavAutoBackup">Auto backup to WebDAV cloud disk</string>
+    <string name="errorWebDavConfig">Your WebDAV configuration is incomplete or incorrect. Please modify the WebDAV configuration before attempting to upload</string>
+    <string name="uploadSuccessful">Upload succesvol</string>
+    <string name="fetchSuccessful">Download succesvol</string>
+    <string name="messageUpload">Pure Writer created a fixed file on your cloud disk. The file name is <b>PureWriter.txt</b>. You can click "OK" to upload the content of your current article to this fixed file. Then you can edit this cloud file on other devices. When it changes, you can pull it down. \n\nDo you now want to write the current article content to that cloud file?</string>
 </resources>
