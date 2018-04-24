@@ -84,7 +84,7 @@
     <string name="hasSavedToYourAlbum">已保存到您的相册</string>
     <string name="previewAndSaveAs">预览 | 另存为…</string>
     <string name="tipRequirePro">该功能需要购买高级版</string>
-    <string name="proReadMe">如果你觉得 纯纯写作 很棒，希望它能更好地坚持开发下去，可否愿意花几块钱作为对于开发者的激励？\n\n这能够使我们一直坚持好的方向，良心的产品，同时激励更多的独立开发者。\n\n您可以点击「Google Play」按钮，开启 Google Pay 支付。或者点击「支付宝」购买激活码。作为回报，<b>付费后，将永久保持无广告状态，对于不断更新的高级内容不再收费</b>，感谢！</string>
+    <string name="proReadMe">如果你觉得 纯纯写作 很棒，希望它能更好地坚持开发下去，可否愿意花几块钱作为对于开发者的激励？\n\n这能够使我们一直坚持好的方向，良心的产品，同时激励更多的独立开发者。\n\n您可以点击「Google Play」按钮，开启 Google Pay 支付。或者点击「支付宝」购买激活码。作为回报，<b>付费后，将获得「另存为」和「自定义稿纸背景」等高级功能，对于不断更新的高级内容不再收费</b>。\n纯纯写作因为您的支持而能够不断更新、完善，非常感谢您的支持！</string>
     <string name="preview">预览</string>
     <string name="ok">好的</string>
     <string name="cancel">取消</string>
@@ -198,7 +198,7 @@
     <string name="syncNetwork">云备份网络</string>
     <string name="syncOnlyWifi">只在 Wi-Fi 网络下才允许自动备份到 WebDAV 云盘</string>
     <string name="syncAllNetworks">在所有网络下都允许自动备份到 WebDAV 云盘</string>
-    <string name="webDavRootURL">WebDAV 地址</string>
+    <string name="webDavRootURL">WebDAV 网址</string>
     <string name="webDavAccount">WebDAV 账号</string>
     <string name="webDavPassword">WebDAV 密码</string>
     <string name="webDavAutoBackup">自动备份到 WebDAV 云盘</string>

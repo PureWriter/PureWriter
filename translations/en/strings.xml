@@ -145,7 +145,8 @@
     <!--alipay-->
     <string name="alipay" translatable="false">支付宝</string>
     <string name="active" translatable="false">激活</string>
-    <string name="alipayReadMe" translatable="false">使用支付宝购买 Pro 激活码，您需要点击「<b>购买激活码</b>」按钮跳转到支付宝，并转账支付 <b>${RMB}</b> 元人民币。\n\n完成后您将很快收到属于您的激活码，您可以复制激活码到本页面下面的输入框进行激活。\n\n激活码永久有效，可以换设备使用，但同一时间只能有一个设备使用。\n注：由于激活码目前是 drakeet 手动发送给您，因此您可能需要稍等片刻。\n感谢您的付费和支持！</string>
+    <string name="alipayReadMe" translatable="false">使用支付宝购买 Pro 激活码，您需点击「<b>购买激活码</b>」按钮跳转到支付宝，并转账支付 <b>${RMB}</b> 元。\n\n<b>drakeet 会很快再转账 0.03 元给你，在这笔转账的备注里将包含激活码，您点击转账内容长按复制激活码到这个页面填入即可</b>。\n\n激活码永久有效，可换设备使用，但同一时间只能用于一个设备。</string>
+    <string name="alipayReadMe2" translatable="false">注：<b>若您很久都没有收到激活码，可通过邮件与我联系: drakeet.me@gmail.com\n或加我的支付宝为好友，我将给您补偿</b>。\n\n纯纯写作因您的支持而能够不停更新、完善，非常感谢您的支持！</string>
     <string name="alipayReadMeInvalid" translatable="false">检查到您的激活码用于另外的设备，您需要重新在当前设备输入您的激活码才能恢复本设备的付费状态。</string>
     <string name="alipayPay" translatable="false">购买激活码</string>
     <string name="promptLicense" translatable="false">请输入激活码</string>

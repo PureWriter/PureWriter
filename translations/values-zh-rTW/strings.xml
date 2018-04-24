@@ -83,7 +83,7 @@
     <string name="previewAndSaveAs">預覽 | 另存為…</string>
     <string name="preview">預覽</string>
     <string name="tipRequirePro">該功能需要購買進階版</string>
-    <string name="proReadMe">如果你覺得 純純寫作 很棒，希望它能更好地堅持開發下去，可否願意花幾塊錢作為對於開發者的激勵？ \n\n這能夠使我們一直堅持好的方向，良心的產品，同時激勵更多的獨立開發者。 \n\n您可以點選「Google Play」按鈕，開啟 Google Pay 支付。或者點選「支付寶」購買啟用碼。作為回報，<b>付費後，將永遠保持無廣告狀態，對於不斷更新的進階內容不再收費</b>，感謝！</string>
+    <string name="proReadMe">如果你覺得 純純寫作 很棒，希望它能更好地堅持開發下去，可否願意花幾塊錢作為對於開發者的激勵？ \n\n這能夠使我們一直堅持好的方向，良心的產品，同時激勵更多的獨立開發者。 \n\n您可以點選「Google Play」按鈕，開啟 Google Pay 支付。或者點選「支付寶」購買啟用碼。作為回報，<b>付費後，將獲得「另存為」和「自訂稿紙背景」等進階功能，對於不斷更新的高級內容不再收費</b>。\n純純寫作因為您的支持而能夠不斷更新、完善，非常感謝您的支持！</string>
     <string name="ok">好的</string>
     <string name="cancel">取消</string>
     <string name="yes">確定</string>
@@ -192,20 +192,20 @@
     <string name="tipLandscapeOrientation">橫屏模式下請使用外接鍵盤</string>
     <string name="promptShortcutOrder">排序</string>
     <string name="editShortcut">編輯快捷輸入項</string>
-    <string name="webDavRootURL">WebDAV 地址</string>
+    <string name="webDavRootURL">WebDAV 網址</string>
     <string name="webDavAccount">WebDAV 帳號</string>
     <string name="webDavPassword">WebDAV 密碼</string>
     <string name="webDavAutoBackup">自動備份到 WebDAV 雲端硬碟</string>
-    <string name="errorWebDavConfig">您的 WebDAV 配置不完整或不正確，請修改 WebDAV 配置後再嘗試上傳</string>
+    <string name="errorWebDavConfig">您的 WebDAV 設定不完整或不正確，請修改 WebDAV 設定後再嘗試上傳</string>
     <string name="uploadSuccessful">上傳成功</string>
     <string name="fetchSuccessful">拉取成功</string>
-    <string name="messageUpload">純純寫作在您的雲端硬碟上創建了一個固定文件，檔案名叫 <b>PureWriter.txt</b>，您可以點擊「確定」上傳當前文章的內容到這個固定文件中，然後您便可以在其他設備上編輯這個雲文件，之後您可以再將它的新內容拉取下來。\n\n請問您現在確定要將當前文章內容覆蓋寫入到您的這個雲固定文件嗎？</string>
+    <string name="messageUpload">純純寫作在您的雲端硬碟上建立了一個固定檔案，檔案名稱為 <b>PureWriter.txt</b>，您可以按下「確定」上傳目前文章的內容到這個固定檔案中，然後您便可以在其他裝置上編輯這個雲端檔案，之後您可以再將它的更新內容拉取下來。\n\n請問您現在確定要將目前文章內容覆蓋寫入到您的這個雲端固定檔案嗎？</string>
     <string name="sync">同步</string>
     <string name="upload">上傳</string>
     <string name="download">拉取</string>
-    <string name="titleBackupsAndSync">備份與雲同步</string>
-    <string name="summaryBackupsAndSync">備份、恢復、WebDAV</string>
-    <string name="syncNetwork">雲備份網路</string>
+    <string name="titleBackupsAndSync">備份與雲端同步</string>
+    <string name="summaryBackupsAndSync">備份、還原、WebDAV</string>
+    <string name="syncNetwork">雲端備份網路</string>
     <string name="syncOnlyWifi">只在 Wi-Fi 網路下才允許自動備份到 WebDAV 雲端硬碟</string>
     <string name="syncAllNetworks">在所有網路下都允許自動備份到 WebDAV 雲端硬碟</string>
 </resources>
