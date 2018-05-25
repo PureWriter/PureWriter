@@ -189,7 +189,7 @@
     <string name="tipLandscapeOrientation">लैंडस्केप मोड में एक बाहरी कीबोर्ड का उपयोग करें</string>
     <string name="promptShortcutOrder">Order</string>
     <string name="editShortcut">पाठ शॉर्टकट संपादित करें</string>
-    <string name="sync">सिंक</string>
+    <string name="fixedSync">सिंक</string>
     <string name="upload">अपलोड</string>
     <string name="download">डाउनलोड</string>
     <string name="titleBackupsAndSync">बैकअप और क्लाउड सिंक</string>
@@ -205,4 +205,5 @@
     <string name="uploadSuccessful">सफलतापूर्वक अपलोड हो गया</string>
     <string name="fetchSuccessful">डाउनलोड सफल</string>
     <string name="messageUpload">Pure Writer created a fixed file on your cloud disk. The file name is <b>PureWriter.txt</b>. You can click "OK" to upload the content of your current article to this fixed file. Then you can edit this cloud file on other devices. When it changes, you can pull it down. \n\nDo you now want to write the current article content to that cloud file?</string>
+    <string name="typewriterMode">Typewriter Mode</string>
 </resources>

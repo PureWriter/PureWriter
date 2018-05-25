@@ -221,7 +221,7 @@
     <string name="tipLandscapeOrientation">Please use an external keyboard in landscape mode</string>
     <string name="promptShortcutOrder">Order</string>
     <string name="editShortcut">Edit text Shortcut</string>
-    <string name="sync">Sync</string>
+    <string name="fixedSync">Fixed Sync</string>
     <string name="upload">Upload</string>
     <string name="download">Fetch</string>
     <string name="titleBackupsAndSync">Backup and cloud sync</string>
@@ -236,5 +236,6 @@
     <string name="errorWebDavConfig">Your WebDAV configuration is incomplete or incorrect. Please modify the WebDAV configuration before attempting to upload</string>
     <string name="uploadSuccessful">Upload successful</string>
     <string name="fetchSuccessful">Fetch successful</string>
-    <string name="messageUpload">Pure Writer created a fixed file on your cloud disk. The file name is <b>PureWriter.txt</b>. You can click "OK" to upload the content of your current article to this fixed file. Then you can edit this cloud file on other devices. When it changes, you can pull it down. \n\nDo you now want to write the current article content to that cloud file?</string>
+    <string name="messageUpload">Pure Writer created a <b>fixed</b> file on your cloud disk. The file name is <b>PureWriter.txt</b>. You can click "OK" to upload the content of your current article to this fixed file. Then you can edit this cloud file on other devices. When it changes, you can pull it down. \n\nDo you now want to write the current article content to that cloud file?</string>
+    <string name="typewriterMode">Typewriter Mode</string>
 </resources>

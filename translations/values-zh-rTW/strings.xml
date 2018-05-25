@@ -205,12 +205,13 @@
     <string name="uploadSuccessful">上傳成功</string>
     <string name="fetchSuccessful">拉取成功</string>
     <string name="messageUpload">純純寫作在您的雲端上建立了一個固定檔案，檔案名稱為 <b>PureWriter.txt</b>，您可以按下「確定」上傳目前文章的內容到這個固定檔案中，然後您便可以在其他裝置上編輯這個雲端檔案，之後您可以再將它的更新內容拉取下來。\n\n請問您現在確定要將目前文章內容覆蓋寫入到您的這個雲端固定檔案嗎？</string>
-    <string name="sync">同步</string>
-    <string name="upload">上傳</string>
-    <string name="download">拉取</string>
+    <string name="fixedSync">雲讀寫</string>
+    <string name="upload">雲讀寫: 上傳</string>
+    <string name="download">雲讀寫: 拉取</string>
     <string name="titleBackupsAndSync">備份與雲端同步</string>
     <string name="summaryBackupsAndSync">備份、還原、WebDAV</string>
     <string name="syncNetwork">雲端備份網路</string>
     <string name="syncOnlyWifi">只在 Wi-Fi 網路下才允許自動備份到 WebDAV 雲端</string>
     <string name="syncAllNetworks">在所有網路下都允許自動備份到 WebDAV 雲端</string>
+    <string name="typewriterMode">打字機模式</string>
 </resources>

@@ -205,8 +205,9 @@
     <string name="errorWebDavConfig">您的 WebDAV 配置不完整或不正确，请修改 WebDAV 配置后再尝试上传</string>
     <string name="uploadSuccessful">上传成功</string>
     <string name="fetchSuccessful">拉取成功</string>
-    <string name="messageUpload">纯纯写作在您的云盘上创建了一个固定文件，文件名叫 <b>PureWriter.txt</b>，您可以点击「确定」上传当前文章的内容到这个固定文件中，然后您便可以在其他设备上编辑这个云文件，之后您可以再将它的新内容拉取下来。\n\n请问您现在确定要将当前文章内容覆盖写入到您的这个云固定文件吗？</string>
-    <string name="sync">同步</string>
-    <string name="upload">上传</string>
-    <string name="download">拉取</string>
+    <string name="messageUpload">纯纯写作在您的云盘上创建了<b>一个固定文件</b>，文件名叫 <b>PureWriter.txt</b>，您可以点击「确定」上传当前文章的内容到这个固定文件中，然后您便可以在其他设备上编辑这个云文件，之后您可以再将它的新内容拉取下来。\n\n请问您现在确定要将当前文章内容覆盖写入到您的这个云固定文件吗？</string>
+    <string name="fixedSync">云读写</string>
+    <string name="upload">云读写: 上传</string>
+    <string name="download">云读写: 拉取</string>
+    <string name="typewriterMode">打字机模式</string>
 </resources>

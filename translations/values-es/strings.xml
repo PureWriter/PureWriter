@@ -189,7 +189,7 @@
     <string name="tipLandscapeOrientation">Utilice un teclado externo en modo horizontal</string>
     <string name="promptShortcutOrder">Order</string>
     <string name="editShortcut">Editar acceso directo de texto</string>
-    <string name="sync">Sincronización</string>
+    <string name="fixedSync">Sincronización</string>
     <string name="upload">Subir</string>
     <string name="download">Descargar</string>
     <string name="titleBackupsAndSync">Copia de seguridad y sincronización en la nube</string>
@@ -205,4 +205,5 @@
     <string name="uploadSuccessful">Subida exitosa</string>
     <string name="fetchSuccessful">Descarga exitosa</string>
     <string name="messageUpload">Pure Writer created a fixed file on your cloud disk. The file name is <b>PureWriter.txt</b>. You can click "OK" to upload the content of your current article to this fixed file. Then you can edit this cloud file on other devices. When it changes, you can pull it down. \n\nDo you now want to write the current article content to that cloud file?</string>
+    <string name="typewriterMode">Typewriter Mode</string>
 </resources>

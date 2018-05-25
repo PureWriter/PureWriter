@@ -189,7 +189,7 @@
     <string name="tipLandscapeOrientation">横置きモードで外付けキーボードを使用してください</string>
     <string name="promptShortcutOrder">Order</string>
     <string name="editShortcut">Edit text Shortcut</string>
-    <string name="sync">同期</string>
+    <string name="fixedSync">同期</string>
     <string name="upload">アップロード</string>
     <string name="download">ダウンロード</string>
     <string name="titleBackupsAndSync">Backup and cloud sync</string>
@@ -205,4 +205,5 @@
     <string name="uploadSuccessful">アップロードに成功しました</string>
     <string name="fetchSuccessful">ダウンロードが成功しました</string>
     <string name="messageUpload">Pure Writer created a fixed file on your cloud disk. The file name is <b>PureWriter.txt</b>. You can click "OK" to upload the content of your current article to this fixed file. Then you can edit this cloud file on other devices. When it changes, you can pull it down. \n\nDo you now want to write the current article content to that cloud file?</string>
+    <string name="typewriterMode">Typewriter Mode</string>
 </resources>

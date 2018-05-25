@@ -189,7 +189,7 @@
     <string name="tipLandscapeOrientation">Gebruik een extern toetsenbord in de liggende modus</string>
     <string name="promptShortcutOrder">Order</string>
     <string name="editShortcut">Tekst bewerken Snelkoppeling</string>
-    <string name="sync">Synchroniseren</string>
+    <string name="fixedSync">Synchroniseren</string>
     <string name="upload">Uploaden</string>
     <string name="download">Download</string>
     <string name="titleBackupsAndSync">Back-up en cloudsynchronisatie</string>
@@ -205,4 +205,5 @@
     <string name="uploadSuccessful">Upload succesvol</string>
     <string name="fetchSuccessful">Download succesvol</string>
     <string name="messageUpload">Pure Writer created a fixed file on your cloud disk. The file name is <b>PureWriter.txt</b>. You can click "OK" to upload the content of your current article to this fixed file. Then you can edit this cloud file on other devices. When it changes, you can pull it down. \n\nDo you now want to write the current article content to that cloud file?</string>
+    <string name="typewriterMode">Schrijfmachine modus</string>
 </resources>
