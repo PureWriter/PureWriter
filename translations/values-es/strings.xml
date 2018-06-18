@@ -9,9 +9,9 @@
     <string name="editorHintContent">Introduzca el texto</string>
     <string name="titleHint">Ingrese un título</string>
     <string name="share">Compartir</string>
-    <string name="copyTitle">copia Título</string>
+    <string name="copyTitle">Copiar título</string>
     <string name="lock">bloquear</string>
-    <string name="history"><b>historia</b></string>
+    <string name="history"><b>Historial</b></string>
     <string name="tipShouldUnlock">Desbloquear primero</string>
     <string name="tipShouldSetupFingerprint">Debe crear primero la huella digital</string>
     <string name="sendContentTo">Enviar este contenido a:</string>
@@ -22,7 +22,7 @@
     <string name="tipDestroyArticleSuccessfully">Destruido este artículo con éxito, y se puede revertirlo de la página de historial</string>
     <string name="titleAndContentAreEmpty">Título y el contenido está vacía</string>
     <string name="clearThisPage">Borrar esta página</string>
-    <string name="copyContent">Copiar el contenido</string>
+    <string name="copyContent">Copiar contenido</string>
     <string name="appRecommendationTitle">Recomendación</string>
     <string name="appPureMosaic">PureMosaic</string>
     <string name="wordCount">Contar</string>
@@ -30,7 +30,7 @@
     <string name="todayIs">Hoy</string>
     <string name="tipNeedFingerprint">Desbloqueo de huellas dactilares para ver y editar</string>
     <string name="empty">Vacío</string>
-    <string name="untitled">Intitulado</string>
+    <string name="untitled">Sin título</string>
     <string name="isRevertToThisFile">Volver a este archivo?</string>
     <string name="noMore">No más</string>
     <string name="tipNoMoreAndLimitFormat">No más, y sólo ahorramos %d historias</string>
@@ -63,7 +63,7 @@
     <string name="shortcutBar">Barra de acceso directo</string>
     <string name="insertBlankLinesWhenExporting">Insertar líneas en blanco al exportar</string>
     <string name="contentTextSize">Tamaño del texto del contenido</string>
-    <string name="iKnow">yo sé</string>
+    <string name="iKnow">Entendido</string>
     <string-array name="nightModeEntries">
         <item>Auto</item>
         <item>Sí</item>
@@ -148,7 +148,7 @@
     <string name="keepScreenOn">Mantenga la pantalla en</string>
     <string name="gfmBreaksEnabled">Ajustar con un salto de línea</string>
     <string name="gfmBreaksDisabled">Necesita dos saltos de línea para representar realmente la nueva línea</string>
-    <string name="wordCountTotal">Todo cuenta</string>
+    <string name="wordCountTotal">Cuenta todo</string>
     <string name="wordCountTotalValue">Recuento de palabras de todos los artículos</string>
     <string name="timeMachineGuide">¿Qué es esto? Puedes entenderlo como una ventana de chat, o como un lugar para grabar contenido temporalmente, o algo así como el Asistente de Google. De hecho, tiene un nombre, llamado "Time Machine". Encantada de conocerte!</string>
     <string name="copyDate">Copiar fecha</string>
@@ -156,7 +156,7 @@
     <string name="defaultFolder">Carpeta por defecto</string>
     <string name="summaryOfAbout">Aprende sobre las ideas y conceptos originales que desarrollamos y diseñamos para esta aplicación</string>
     <string name="createNewFolder">Crear nueva carpeta</string>
-    <string name="emptyTip">No se han abierto aún artículos</string>
+    <string name="emptyTip">No se han abierto artículos aún</string>
     <string name="name">Nombre</string>
     <string name="optionalDescription">Descripción (opcional)</string>
     <string name="createFolder">Crear carpeta</string>
@@ -185,7 +185,7 @@
     <string name="beforeRestoringYourBackup">beforeRestoringYourBackup</string>
     <string name="trashDescription">Recupera tus artículos eliminados</string>
     <string name="messageDeleteArticlesDirectly">Eliminar estos artículos directamente</string>
-    <string name="trashFolderTip">Estás en la carpeta Papelera, esta carpeta no puede crear un nuevo artículo.</string>
+    <string name="trashFolderTip">Estás en la carpeta Papelera, en esta carpeta no puede crear un nuevo artículo.</string>
     <string name="tipLandscapeOrientation">Utilice un teclado externo en modo horizontal</string>
     <string name="promptShortcutOrder">Order</string>
     <string name="editShortcut">Editar acceso directo de texto</string>
