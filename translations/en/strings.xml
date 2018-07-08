@@ -32,7 +32,10 @@
     <string name="copyContent">Copy The Content</string>
     <string name="appRecommendationTitle">Recommendation</string>
     <string name="appPureMosaic">PureMosaic</string>
-    <string name="wordCount">Count</string>
+    <string name="wordCountShort">Count</string>
+    <string name="wordCountLong">Word Count</string>
+    <string name="wordCountOfCurrentArticle">Word Count Of Current Article</string>
+    <string name="floatingWordCount">Floating Word Count</string>
     <string name="historyState">Saved Record</string>
     <string name="todayIs">Today Is</string>
     <string name="tipNeedFingerprint">Need fingerprint unlock to view and edit</string>
@@ -238,4 +241,9 @@
     <string name="fetchSuccessful">Fetch successful</string>
     <string name="messageUpload">Pure Writer created a <b>fixed</b> file on your cloud disk. The file name is <b>PureWriter.txt</b>. You can click "OK" to upload the content of your current article to this fixed file. Then you can edit this cloud file on other devices. When it changes, you can pull it down. \n\nDo you now want to write the current article content to that cloud file?</string>
     <string name="typewriterMode">Typewriter Mode</string>
+    <string name="edit">Edit</string>
+    <string name="editFolder">Edit Folder</string>
+    <string name="tipFloatingWordCountDisabled">After you disable Word Count, you will be able to see it in TimeMachine.</string>
+    <string name="shareText">推荐：纯纯写作，一个令人感到安心、拥有历史记录、多重防止文章丢失功能，和许多写作辅助的编辑器：https://writer.drakeet.com</string>
+    <string name="shareMessage">如果你喜欢和支持纯纯写作，请帮忙点击右侧的分享按钮与你的朋友推荐这个应用，这对于它来说意义重大，纯纯写作将因为你的支持而能够变得更好，并不断开发、完善下去，非常感谢！\n\n了解更多关于纯纯写作：https://writer.drakeet.com</string>
 </resources>

@@ -30,7 +30,7 @@
     <string name="format">Formaat</string>
     <string name="historyState">Opgeslagen record</string>
     <string name="todayIs">Vandaag is</string>
-    <string name="wordCount">Tellen</string>
+    <string name="wordCountShort">Tellen</string>
     <string name="goOn">Ga verder</string>
     <string name="hasSavedToYourAlbum">Op je album opgeslagen</string>
     <string name="hintDrawerHeader">Snelle, uitstekende ervaring, nooit inhoud verloren</string>
@@ -206,4 +206,12 @@
     <string name="fetchSuccessful">Download succesvol</string>
     <string name="messageUpload">Pure Writer created a fixed file on your cloud disk. The file name is <b>PureWriter.txt</b>. You can click "OK" to upload the content of your current article to this fixed file. Then you can edit this cloud file on other devices. When it changes, you can pull it down. \n\nDo you now want to write the current article content to that cloud file?</string>
     <string name="typewriterMode">Schrijfmachine modus</string>
+    <string name="edit">Bewerk</string>
+    <string name="editFolder">Bewerk map</string>
+    <string name="shareText">推荐：纯纯写作，一个令人感到安心、拥有历史记录、多重防止文章丢失功能，和许多写作辅助的编辑器：https://writer.drakeet.com</string>
+    <string name="shareMessage">如果你喜欢和支持纯纯写作，请帮忙点击右侧的分享按钮与你的朋友推荐这个应用，这对于它来说意义重大，纯纯写作将因为你的支持而能够变得更好，并不断开发、完善下去，非常感谢！\n\n了解更多关于纯纯写作：https://writer.drakeet.com</string>
+    <string name="wordCountLong">Aantal woorden</string>
+    <string name="wordCountOfCurrentArticle">Word-telling van het huidige artikel</string>
+    <string name="floatingWordCount">Floating Word Count</string>
+    <string name="tipFloatingWordCountDisabled">After you disable Word Count, you will be able to see it in TimeMachine</string>
 </resources>

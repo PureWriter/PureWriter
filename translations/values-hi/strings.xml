@@ -25,7 +25,7 @@
     <string name="copyContent">सामग्री की प्रतिलिपि बनाएँ</string>
     <string name="appRecommendationTitle">सिफ़ारिश करना</string>
     <string name="appPureMosaic">PureMosaic</string>
-    <string name="wordCount">"गिनती"</string>
+    <string name="wordCountShort">"गिनती"</string>
     <string name="historyState">सहेजा गया</string>
     <string name="todayIs">आज</string>
     <string name="tipNeedFingerprint">देखने और संपादित करने के लिए फिंगरप्रिंट अनलॉक की आवश्यकता है</string>
@@ -206,4 +206,12 @@
     <string name="fetchSuccessful">डाउनलोड सफल</string>
     <string name="messageUpload">Pure Writer created a fixed file on your cloud disk. The file name is <b>PureWriter.txt</b>. You can click "OK" to upload the content of your current article to this fixed file. Then you can edit this cloud file on other devices. When it changes, you can pull it down. \n\nDo you now want to write the current article content to that cloud file?</string>
     <string name="typewriterMode">Typewriter Mode</string>
+    <string name="edit">संपादित करें</string>
+    <string name="editFolder">फ़ोल्डर संपादित करें</string>
+    <string name="shareText">推荐：纯纯写作，一个令人感到安心、拥有历史记录、多重防止文章丢失功能，和许多写作辅助的编辑器：https://writer.drakeet.com</string>
+    <string name="shareMessage">如果你喜欢和支持纯纯写作，请帮忙点击右侧的分享按钮与你的朋友推荐这个应用，这对于它来说意义重大，纯纯写作将因为你的支持而能够变得更好，并不断开发、完善下去，非常感谢！\n\n了解更多关于纯纯写作：https://writer.drakeet.com</string>
+    <string name="wordCountLong">शब्द गणना</string>
+    <string name="wordCountOfCurrentArticle">वर्तमान लेख की शब्द गणना</string>
+    <string name="floatingWordCount">फ़्लोटिंग शब्द गिनती</string>
+    <string name="tipFloatingWordCountDisabled">After you disable Word Count, you will be able to see it in TimeMachine.</string>
 </resources>

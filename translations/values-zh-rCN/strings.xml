@@ -15,7 +15,7 @@
     <string name="copyContent">复制正文内容</string>
     <string name="appRecommendationTitle">优质应用友情推荐</string>
     <string name="appPureMosaic">纯纯打码</string>
-    <string name="wordCount">字数</string>
+    <string name="wordCountShort">字数</string>
     <string name="historyState">已保存记录</string>
     <string name="todayIs">今天是</string>
     <string name="tipNeedFingerprint">需要指纹解锁才能查看和编辑</string>
@@ -210,4 +210,12 @@
     <string name="upload">云读写: 上传</string>
     <string name="download">云读写: 拉取</string>
     <string name="typewriterMode">打字机模式</string>
+    <string name="edit">修改</string>
+    <string name="editFolder">修改文件夹</string>
+    <string name="shareText">推荐：纯纯写作，一个令人感到安心、拥有历史记录、多重防止文章丢失功能，和许多写作辅助的编辑器：https://writer.drakeet.com</string>
+    <string name="shareMessage">如果你喜欢和支持纯纯写作，请帮忙点击右侧的分享按钮与你的朋友推荐这个应用，这对于它来说意义重大，纯纯写作将因为你的支持而能够变得更好，并不断开发、完善下去，非常感谢\n\n了解更多关于纯纯写作：https://writer.drakeet.com</string>
+    <string name="wordCountLong">字数统计</string>
+    <string name="wordCountOfCurrentArticle">当前文章字数统计</string>
+    <string name="floatingWordCount">悬浮字数统计</string>
+    <string name="tipFloatingWordCountDisabled">关闭悬浮字数统计后，你将可以在时光机中获取字数统计。</string>
 </resources>

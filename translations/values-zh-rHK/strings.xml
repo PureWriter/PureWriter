@@ -30,7 +30,7 @@
     <string name="copyContent">複製文章內容</string>
     <string name="appRecommendationTitle">推薦應用程式</string>
     <string name="appPureMosaic">純純打碼</string>
-    <string name="wordCount">字數</string>
+    <string name="wordCountShort">字數</string>
     <string name="historyState">已儲存記錄</string>
     <string name="todayIs">今天是</string>
     <string name="tipNeedFingerprint">需要指紋解鎖才能查看和編輯</string>
@@ -214,4 +214,12 @@
     <string name="syncOnlyWifi">只在 Wi-Fi 網路下才允許自動備份到 WebDAV 雲端</string>
     <string name="syncAllNetworks">在所有網路下都允許自動備份到 WebDAV 雲端</string>
     <string name="typewriterMode">打字機模式</string>
+    <string name="edit">修改</string>
+    <string name="editFolder">修改文件夾</string>
+    <string name="shareText">推薦：純純寫作，一個令人感到安心、擁有歷史記錄、多重防止文章丟失功能，和許多寫作輔助的編輯器：https://writer.drakeet.com</string>
+    <string name="shareMessage">如果你喜歡和支援純純寫作，請幫忙點擊右側的分享按鈕與你的朋友推薦這個應用，這對於它來說意義重大，純純寫作將因為你的支援而能夠變得更好，並不斷開發、完善下去，非常感謝\n\n了解更多關於純純寫作：https://writer.drakeet.com</string>
+    <string name="wordCountLong">字數統計</string>
+    <string name="wordCountOfCurrentArticle">目前文章字數統計</string>
+    <string name="floatingWordCount">懸浮字數統計</string>
+    <string name="tipFloatingWordCountDisabled">關閉懸浮字數統計後，你將可以在時光機中獲取字數統計。</string>
 </resources>

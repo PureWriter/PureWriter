@@ -25,7 +25,7 @@
     <string name="copyContent">Скопировать содержимое</string>
     <string name="appRecommendationTitle">Рекомендуем</string>
     <string name="appPureMosaic">PureMosaic</string>
-    <string name="wordCount">кол-во</string>
+    <string name="wordCountShort">кол-во</string>
     <string name="historyState">Сохраненные документы</string>
     <string name="todayIs">Cегодня</string>
     <string name="tipNeedFingerprint">Нужен отпечаток для просмотра и редактирования</string>
@@ -206,4 +206,12 @@
     <string name="fetchSuccessful">Успешно скачано</string>
     <string name="messageUpload">Pure Writer создал файл в облачном диске. Имя файла <b> PureWriter.txt </b>. Чтобы загрузить содержимое текущей статьи, нажмите ОК. Это даст вам возможность редактировать этот файл на других устройствах. \n\nХотите записать эту статью?</string>
     <string name="typewriterMode">Typewriter Mode</string>
+    <string name="edit">редактировать</string>
+    <string name="editFolder">Изменить папку</string>
+    <string name="shareText">推荐：纯纯写作，一个令人感到安心、拥有历史记录、多重防止文章丢失功能，和许多写作辅助的编辑器：https://writer.drakeet.com</string>
+    <string name="shareMessage">如果你喜欢和支持纯纯写作，请帮忙点击右侧的分享按钮与你的朋友推荐这个应用，这对于它来说意义重大，纯纯写作将因为你的支持而能够变得更好，并不断开发、完善下去，非常感谢！\n\n了解更多关于纯纯写作：https://writer.drakeet.com</string>
+    <string name="wordCountLong">Количество слов</string>
+    <string name="wordCountOfCurrentArticle">Количество слов в текущей статье</string>
+    <string name="floatingWordCount">Floating Word Count</string>
+    <string name="tipFloatingWordCountDisabled">После отключения Word Count вы сможете увидеть его в Time Machine.</string>
 </resources>
