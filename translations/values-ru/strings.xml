@@ -214,4 +214,7 @@
     <string name="wordCountOfCurrentArticle">Количество слов в текущей статье</string>
     <string name="floatingWordCount">Floating Word Count</string>
     <string name="tipFloatingWordCountDisabled">После отключения Word Count вы сможете увидеть его в Time Machine.</string>
+    <string name="reduceDatabaseSize">Уменьшить размер базы данных</string>
+    <string name="deleteSuccessfully">Удалено успешно</string>
+    <string name="reduceDatabaseSizeMessage">Удалите всю историю всех статей.\nПросто история, сама статья не будет удалена.\n\nВы должны сделать резервную копию, прежде чем удалять ее.</string>
 </resources>

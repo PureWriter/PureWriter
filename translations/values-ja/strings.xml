@@ -214,4 +214,7 @@
     <string name="wordCountOfCurrentArticle">現在の記事の単語数</string>
     <string name="floatingWordCount">Floating Word Count</string>
     <string name="tipFloatingWordCountDisabled">After you disable Word Count, you will be able to see it in TimeMachine.</string>
+    <string name="reduceDatabaseSize">データベースサイズを縮小する</string>
+    <string name="deleteSuccessfully">Deleted successfully</string>
+    <string name="reduceDatabaseSizeMessage">すべての記事のすべての履歴を削除します。\n歴史だけでは、記事自体は削除されません。\n\n削除する前にバックアップを作成することをお勧めします。\n\nEnglish: \nDelete all history of all articles. \nJust history, the article itself will not be deleted. \n\nYou\'d better make a backup before you delete it.</string>
 </resources>

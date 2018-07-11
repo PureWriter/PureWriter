@@ -214,4 +214,7 @@
     <string name="wordCountOfCurrentArticle">वर्तमान लेख की शब्द गणना</string>
     <string name="floatingWordCount">फ़्लोटिंग शब्द गिनती</string>
     <string name="tipFloatingWordCountDisabled">After you disable Word Count, you will be able to see it in TimeMachine.</string>
+    <string name="reduceDatabaseSize">डेटाबेस आकार कम करें</string>
+    <string name="deleteSuccessfully">Deleted successfully</string>
+    <string name="reduceDatabaseSizeMessage">सभी लेखों के सभी इतिहास हटाएं।\nबस इतिहास, लेख खुद को हटाया नहीं जाएगा।\n\nइससे पहले कि आप इसे हटाने से पहले बैकअप लेंगे।</string>
 </resources>

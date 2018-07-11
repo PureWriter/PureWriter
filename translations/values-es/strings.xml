@@ -214,4 +214,7 @@
     <string name="wordCountOfCurrentArticle">Recuento de palabras del artículo actual</string>
     <string name="floatingWordCount">Floating Word Count</string>
     <string name="tipFloatingWordCountDisabled">Después de desactivar Word Count, podrá verlo en Time Machine.</string>
+    <string name="reduceDatabaseSize">Reducir tamaño de la base de datos</string>
+    <string name="deleteSuccessfully">Borrado exitosamente</string>
+    <string name="reduceDatabaseSizeMessage">Eliminar todo el historial de todos los artículos.\nSolo historia, el artículo en sí no será eliminado.\n\nSerá mejor que haga una copia de seguridad antes de eliminarla.</string>
 </resources>

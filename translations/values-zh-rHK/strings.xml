@@ -209,7 +209,7 @@
     <string name="upload">雲讀寫: 上傳</string>
     <string name="download">雲讀寫: 拉取</string>
     <string name="titleBackupsAndSync">備份與雲端同步</string>
-    <string name="summaryBackupsAndSync">備份、還原、WebDAV</string>
+    <string name="summaryBackupsAndSync">備份、還原、WebDAV、縮減資料庫大小</string>
     <string name="syncNetwork">雲端備份網路</string>
     <string name="syncOnlyWifi">只在 Wi-Fi 網路下才允許自動備份到 WebDAV 雲端</string>
     <string name="syncAllNetworks">在所有網路下都允許自動備份到 WebDAV 雲端</string>
@@ -222,4 +222,7 @@
     <string name="wordCountOfCurrentArticle">目前文章字數統計</string>
     <string name="floatingWordCount">懸浮字數統計</string>
     <string name="tipFloatingWordCountDisabled">關閉懸浮字數統計後，你將可以在時光機中獲取字數統計。</string>
+    <string name="reduceDatabaseSize">資料庫檔案瘦身 ，刪除歷史記錄</string>
+    <string name="deleteSuccessfully">刪除完成</string>
+    <string name="reduceDatabaseSizeMessage">刪除所有文章的歷史記錄。\n只是刪除歷史記錄，文章本身不會被刪除。\n\n建議您在刪除之前最好先進行點擊進行一次備份。\n建議隔一段時間就進行一次資料庫瘦身，即刪除歷史記錄。</string>
 </resources>

@@ -194,7 +194,7 @@
     <string name="promptShortcutOrder">排序</string>
     <string name="editShortcut">编辑快捷输入项</string>
     <string name="titleBackupsAndSync">备份与云同步</string>
-    <string name="summaryBackupsAndSync">备份、恢复、WebDAV</string>
+    <string name="summaryBackupsAndSync">备份、恢复、WebDAV、缩减数据库大小</string>
     <string name="syncNetwork">云备份网络</string>
     <string name="syncOnlyWifi">只在 Wi-Fi 网络下才允许自动备份到 WebDAV 云盘</string>
     <string name="syncAllNetworks">在所有网络下都允许自动备份到 WebDAV 云盘</string>
@@ -218,4 +218,7 @@
     <string name="wordCountOfCurrentArticle">当前文章字数统计</string>
     <string name="floatingWordCount">悬浮字数统计</string>
     <string name="tipFloatingWordCountDisabled">关闭悬浮字数统计后，你将可以在时光机中获取字数统计。</string>
+    <string name="reduceDatabaseSize">数据库文件瘦身 ，删除历史记录</string>
+    <string name="deleteSuccessfully">删除完成</string>
+    <string name="reduceDatabaseSizeMessage">删除所有文章的历史记录。\n只是删除历史记录，文章本身不会被删除。\n\n建议您在删除之前最好先进行点击进行一次备份。\n建议隔一段时间就进行一次数据库瘦身，即删除历史记录。</string>
 </resources>

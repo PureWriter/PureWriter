@@ -214,4 +214,7 @@
     <string name="wordCountOfCurrentArticle">Word-telling van het huidige artikel</string>
     <string name="floatingWordCount">Floating Word Count</string>
     <string name="tipFloatingWordCountDisabled">After you disable Word Count, you will be able to see it in TimeMachine</string>
+    <string name="reduceDatabaseSize">Verklein database grootte</string>
+    <string name="deleteSuccessfully">Met succes verwijderd</string>
+    <string name="reduceDatabaseSizeMessage">Verwijder alle geschiedenis van alle artikelen.\nAlleen geschiedenis, het artikel zelf zal niet worden verwijderd.\n\nMaak een back-up voordat u deze verwijdert.</string>
 </resources>
