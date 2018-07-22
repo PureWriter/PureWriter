@@ -4,7 +4,7 @@
     <!-- pan93412 FIX SOME STRINGS; YOU CAN FREELY USE THE TRANSLATION FILE -->
     <!-- 此翻譯檔案自 zh_CN （作者：drakeet）語言為基礎 -->
     <!-- pan93412 修正部份字串；您可以自由使用此翻譯檔案 -->
-    
+
     <string name="pureWriter">純純寫作</string>
     <string name="about">關於 | 說明</string>
     <string name="undo">還原</string>
