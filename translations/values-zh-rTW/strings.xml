@@ -70,7 +70,7 @@
     <string name="noteShortcutCursorIndex">請移動內容中的游標位置來設定最終插入文章後游標的位置</string>
     <string name="indentShort">縮排</string>
     <string name="delete">移除</string>
-    <string name="messageDeleteShortcut">點選確定，以移除這個捷徑輸入項目</string>
+    <string name="messageDeleteShortcut">點選確定，以移除這個輸入捷徑項目</string>
     <string name="promptShortcutTitle">簡短描述 (非必填)</string>
     <string name="promptShortcutContent">內容 (必填)</string>
     <string name="createShortcut">建立輸入捷徑項目</string>
