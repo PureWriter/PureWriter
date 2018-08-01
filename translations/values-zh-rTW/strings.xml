@@ -236,4 +236,8 @@
     <string name="presetContent4">純純寫作非常重視用戶的隱私保護，它絕不會收集您的任何隱私內容。\n另外，在未經允許或告知的情況下，純純寫作也絕不會修改或讀取您的剪貼板內容。\n純純寫作申請了存儲權限，僅僅用於導出文件和進行自動備份，除此之外，它不會在未經允許或告知的情況下讀取或修改您外置存儲中的任何文件。另外，您完全可以拒絕授予存儲權限，只是這麼做將會導致失去自動備份功能。\n特別地，純純寫作絕不會上傳您的任何文章內容，但因為文章標題作為檔案名可能產生錯誤，因此當因為您的文章標題導致了閃退錯誤時，純純寫作將會獲取您的文章標題，僅用於錯誤分析和修復問題。</string>
     <string name="createAt">建立於</string>
     <string name="updatedAt">更新於</string>
+    <string name="forcedBlackTextColor">強制黑色字體</string>
+    <string name="forcedWhiteTextColor">強制白色字體</string>
+    <string name="paragraphSpacing">段間距</string>
+    <string name="summaryExporting">僅在開啟段間距時有效</string>
 </resources>

@@ -228,4 +228,8 @@
     <string name="presetContent4">Pure Writer pays great attention to the privacy of users, and it will never collect any of your private content. \nIn addition, Pure Writer will never modify or read your clipboard content without permission or notice. \nPure Writer has applied for storage permissions only for file export and automatic backup. In addition, it will not read or modify any files in your external storage without permission or notice, and you can completely refuse to grant storage permissions, but doing so will result in loss of automatic backup functionality. \nIn particular, Pure Writer will never upload any of your articles, but because the title of the article as a file name may generate errors, Pure Writer will obtain your article title when the article title causes a crash error.</string>
     <string name="createAt">作成日</string>
     <string name="updatedAt">更新日</string>
+    <string name="forcedBlackTextColor">強制黒色フォント</string>
+    <string name="forcedWhiteTextColor">強制白色フォント</string>
+    <string name="paragraphSpacing">段落の間隔</string>
+    <string name="summaryExporting">段落の間隔が有効な場合にのみ有効です</string>
 </resources>
