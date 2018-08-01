@@ -232,4 +232,8 @@
     <string name="presetContent4">纯纯写作非常重视用户的隐私保护，它绝不会收集您的任何隐私内容。\n另外，在未经允许或告知的情况下，纯纯写作也绝不会修改或读取您的剪贴板内容。\n纯纯写作申请了存储权限，仅仅用于导出文件和进行自动备份，除此之外，它不会在未经允许或告知的情况下读取或修改您外置存储中的任何文件。另外，您完全可以拒绝授予存储权限，只是这么做将会导致失去自动备份功能。\n特别地，纯纯写作绝不会上传您的任何文章内容，但因为文章标题作为文件名可能产生错误，因此当因为您的文章标题导致了闪退错误时，纯纯写作将会获取您的文章标题，仅用于错误分析和修复问题。</string>
     <string name="createAt">创建于</string>
     <string name="updatedAt">更新于</string>
+    <string name="forcedBlackTextColor">强制黑色字体</string>
+    <string name="forcedWhiteTextColor">强制白色字体</string>
+    <string name="paragraphSpacing">段间距</string>
+    <string name="summaryExporting">仅在开启段间距时有效</string>
 </resources>

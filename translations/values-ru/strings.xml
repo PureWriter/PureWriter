@@ -228,4 +228,8 @@
     <string name="presetContent4">Pure Writer pays great attention to the privacy of users, and it will never collect any of your private content. \nIn addition, Pure Writer will never modify or read your clipboard content without permission or notice. \nPure Writer has applied for storage permissions only for file export and automatic backup. In addition, it will not read or modify any files in your external storage without permission or notice, and you can completely refuse to grant storage permissions, but doing so will result in loss of automatic backup functionality. \nIn particular, Pure Writer will never upload any of your articles, but because the title of the article as a file name may generate errors, Pure Writer will obtain your article title when the article title causes a crash error.</string>
     <string name="createAt">Создан в</string>
     <string name="updatedAt">Обновлено на</string>
+    <string name="forcedBlackTextColor">Принудительный черный шрифт</string>
+    <string name="forcedWhiteTextColor">Принудительный белый шрифт</string>
+    <string name="paragraphSpacing">Интервал между абзацами</string>
+    <string name="summaryExporting">Действителен только в том случае, если интервал между абзацами включен</string>
 </resources>
