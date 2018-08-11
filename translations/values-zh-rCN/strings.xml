@@ -237,4 +237,5 @@
     <string name="paragraphSpacing">段间距</string>
     <string name="summaryExporting">仅在开启段间距时有效</string>
     <string name="lowProfile">状态栏专注模式</string>
+    <string name="chapters">章节</string>
 </resources>
