@@ -104,13 +104,13 @@
     <string name="sortTypeDescCreation">Door creatie tijd</string>
     <string name="warningSavedFailed">Bestand opgeslagen mislukt, kopieer de volledige tekst en start de app opnieuw om te zien of de inhoud ontbreekt</string>
     <string name="backupNow">Nu backuppen</string>
-    <string name="summaryBackup">Het back-upbestand wordt opgeslagen op het pad /sdcard/backups/PureWriterBackup.db</string>
+    <string name="summaryBackup">Het back-upbestand wordt opgeslagen op het pad /sdcard/backups</string>
     <string name="restoreTheBackup">Herstel de back-up</string>
-    <string name="summaryRestoreTheBackup">The backup file will be read from the path /sdcard/backups/PureWriterBackup.db and your WebDAV cloud disk</string>
+    <string name="summaryRestoreTheBackup">The backup file will be read from these paths: /sdcard/backups and /sdcard/backups/PureWriterAutoBackups and your WebDAV cloud disk</string>
     <string name="backupSuccessfully">Backup succesvol</string>
     <string name="restoreSuccessfully">Herstel de back-up met succes</string>
-    <string name="tipRestoreTheBackup"> "De geschiedenisbestanden van Pure Writer bevinden zich alleen in de map /sdcard/PureWriter.Als u op het punt staat uw back-upbestanden te gebruiken om inhoud te herstellen. De oorspronkelijke PureWriter-map zal hernoemd worden naar PureWriter.old, en dan zullen we een nieuwe PureWriter-map maken met de back-upbestanden. \n\nHet volgende is alle back-upbestanden, klik om de back-up te herstellen: "</string>
-    <string name="tipBackupNotExist">Het back-upbestand bestaat niet. Plaats het back-upbestand in /sdcard/backups/PureWriterBackup.db en probeer het opnieuw</string>
+    <string name="tipBackupList">Het volgende is alle back-upbestanden, klik om de back-up te herstellen. \n<b>Als u back-ups wilt ontvangen van de WebDAV-cloud, moet u zich aanmelden bij uw WebDAV-account voordat u deze pagina opent!</b></string>
+    <string name="tipBackupNotExist">Het back-upbestand bestaat niet. Plaats het back-upbestand in /sdcard/backups en probeer het opnieuw</string>
     <string name="wordCountMode">Word telmodus</string>
     <string-array name="wordCountModeEntries">
         <item>Spaties en regeleinde uitsluiten</item>
@@ -152,17 +152,17 @@
     <string name="wordCountTotalValue">Word-telling van alle artikelen</string>
     <string name="timeMachineGuide">Wat is dit? Je kunt het begrijpen als een chatvenster of als een plaats om tijdelijk inhoud op te nemen, of iets als Google Assistent. In feite heeft het een naam, genaamd \"Time Machine.\" Aangenaam kennis te maken!</string>
     <string name="copyDate">Datum kopiëren</string>
-    <string name="folders">Mappen</string>
-    <string name="defaultFolder">Standaard Map</string>
+    <string name="books">Boeken</string>
+    <string name="defaultBook">Standaard boek</string>
     <string name="summaryOfAbout">Lees meer over de originele ideeën en concepten die we voor deze toepassing hebben ontwikkeld en ontworpen</string>
-    <string name="createNewFolder">Maak een nieuwe map</string>
+    <string name="createNewBook">Maak een nieuw boek</string>
     <string name="emptyTip">Er zijn nog geen artikelen geopend</string>
     <string name="name">Naam</string>
     <string name="optionalDescription">Beschrijving (optioneel)</string>
-    <string name="createFolder">Map aanmaken</string>
+    <string name="createBookForDialogButton">Maak een boek</string>
     <string name="openSourceLicenses">Open Source Licenties</string>
     <string name="cannotDelete">Kan niet verwijderen</string>
-    <string name="cannotDeleteNotEmptyFolder">De map is niet leeg. Als u wilt verwijderen, verwijdert u de artikelen in deze map. Probeer het opnieuw</string>
+    <string name="cannotDeleteNotEmptyBook">Het boek is niet leeg. Als u het wilt verwijderen, verwijdert of verwijdert u de artikelen die het bevat en probeert u het opnieuw.</string>
     <string name="move">Verhuizing</string>
     <string name="moveTo">Verplaatsen naar</string>
     <string name="timeMachine">Tijd machine</string>
@@ -207,7 +207,7 @@
     <string name="messageUpload">Pure Writer created a fixed file on your cloud disk. The file name is <b>PureWriter.txt</b>. You can click "OK" to upload the content of your current article to this fixed file. Then you can edit this cloud file on other devices. When it changes, you can pull it down. \n\nDo you now want to write the current article content to that cloud file?</string>
     <string name="typewriterMode">Schrijfmachine modus</string>
     <string name="edit">Bewerk</string>
-    <string name="editFolder">Bewerk map</string>
+    <string name="editBook">Bewerk boek</string>
     <string name="shareText">推荐：纯纯写作，一个令人感到安心、拥有历史记录、多重防止文章丢失功能，和许多写作辅助的编辑器：https://writer.drakeet.com</string>
     <string name="shareMessage">如果你喜欢和支持纯纯写作，请帮忙点击右侧的分享按钮与你的朋友推荐这个应用，这对于它来说意义重大，纯纯写作将因为你的支持而能够变得更好，并不断开发、完善下去，非常感谢！\n\n了解更多关于纯纯写作：https://writer.drakeet.com</string>
     <string name="wordCountLong">Aantal woorden</string>
@@ -232,4 +232,5 @@
     <string name="forcedWhiteTextColor">Geforceerd wit lettertype</string>
     <string name="paragraphSpacing">Alinea-afstand</string>
     <string name="summaryExporting">Alleen geldig als alinea-tussenruimte is ingeschakeld</string>
+    <string name="lowProfile">Statusbalk focusmodus</string>
 </resources>

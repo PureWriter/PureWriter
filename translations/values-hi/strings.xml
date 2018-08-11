@@ -104,13 +104,13 @@
     <string name="sortTypeDescCreation">By creation time</string>
     <string name="warningSavedFailed">सहेजा गया फ़ाइल विफल, कृपया अपना पूरा पाठ कॉपी करें, और उसके बाद ऐप को यह देखने के लिए पुन: प्रारंभ करें कि क्या सामग्री अनुपलब्ध है</string>
     <string name="backupNow">अब समर्थन देना</string>
-    <string name="summaryBackup">बैकअप फ़ाइल को पथ /sdcard/backups/PureWriterBackup.db पर सहेजा जाएगा</string>
+    <string name="summaryBackup">बैकअप फ़ाइल को पथ /sdcard/backups पर सहेजा जाएगा</string>
     <string name="restoreTheBackup">बैकअप को पुनर्स्थापित करें</string>
-    <string name="summaryRestoreTheBackup">The backup file will be read from the path /sdcard/backups/PureWriterBackup.db and your WebDAV cloud disk</string>
+    <string name="summaryRestoreTheBackup">The backup file will be read from these paths: /sdcard/backups and /sdcard/backups/PureWriterAutoBackups and your WebDAV cloud disk</string>
     <string name="backupSuccessfully">बैकअप सफल</string>
     <string name="restoreSuccessfully">सफलतापूर्वक बैकअप बहाल करें</string>
-    <string name="tipRestoreTheBackup">"शुद्ध लेखक की इतिहास फ़ाइलें केवल /sdcard/PureWriter निर्देशिका में हैं.यदि आप सामग्री को पुनर्स्थापित करने के लिए अपनी बैकअप फ़ाइलों का उपयोग करने वाले हैं। मूल PureWriter निर्देशिका का नाम बदलकर PureWriter.old किया जाएगा, और उसके बाद हम एक नई PureWriter निर्देशिका बैकअप फ़ाइलों के साथ। \n\n निम्नलिखित सभी बैकअप फाइल हैं, बैकअप को पुनर्स्थापित करने के लिए क्लिक करें: "</string>
-    <string name="tipBackupNotExist">बैकअप फ़ाइल मौजूद नहीं है कृपया /sdcard/backups/PureWriterBackup.db में बैकअप फ़ाइल डालकर पुन: प्रयास करें</string>
+    <string name="tipBackupList">निम्नलिखित सभी बैकअप फ़ाइलें हैं, बैकअप को पुनर्स्थापित करने के लिए क्लिक करें. \n<b>यदि आप WebDAV क्लाउड से बैकअप प्राप्त करना चाहते हैं, तो आपको इस पृष्ठ को दर्ज करने से पहले अपने WebDAV खाते में लॉग इन करना चाहिए!</b></string>
+    <string name="tipBackupNotExist">बैकअप फ़ाइल मौजूद नहीं है कृपया /sdcard/backups में बैकअप फ़ाइल डालकर पुन: प्रयास करें</string>
     <string name="wordCountMode">शब्द गणना मोड</string>
     <string-array name="wordCountModeEntries">
         <item>रिक्त स्थान और रेखा खंड को छोड़ दें</item>
@@ -152,17 +152,17 @@
     <string name="wordCountTotalValue">सभी लेखों की शब्द गणना</string>
     <string name="timeMachineGuide">यह क्या है? आप इसे एक चैट विंडो के रूप में या अस्थायी रूप से सामग्री रिकॉर्ड करने के लिए या Google सहायक जैसे कुछ के रूप में समझ सकते हैं वास्तव में, इसका नाम है, जिसे \"टाइम मशीन\" कहा जाता है। आपसे मिलकर अच्छा लगा!</string>
     <string name="copyDate">तिथि कॉपी करें</string>
-    <string name="folders">डफ़ोल्डर</string>
-    <string name="defaultFolder">डिफ़ॉल्ट फ़ोल्डर</string>
+    <string name="books">पुस्तकें</string>
+    <string name="defaultBook">डिफ़ॉल्ट पुस्तक</string>
     <string name="summaryOfAbout">हम इस एप्लिकेशन के लिए विकसित और डिज़ाइन किए गए मूल विचारों और अवधारणाओं के बारे में जानें</string>
-    <string name="createNewFolder">नया फ़ोल्डर बनाओ</string>
+    <string name="createNewBook">नई किताब बनाएं</string>
     <string name="emptyTip">अभी तक कोई भी लेख खोला नहीं गया है</string>
     <string name="name">नाम</string>
     <string name="optionalDescription">विवरण (वैकल्पिक)</string>
-    <string name="createFolder">फोल्डर बनाएं</string>
+    <string name="createBookForDialogButton">पुस्तक बनाएं</string>
     <string name="openSourceLicenses">खुला स्रोत लाइसेंस</string>
     <string name="cannotDelete">हटा नहीं सकते</string>
-    <string name="cannotDeleteNotEmptyFolder">फ़ोल्डर रिक्त नहीं है, अगर आप हटाना चाहते हैं, तो कृपया इस फ़ोल्डर में मौजूद लेख हटाएं, पुनः प्रयास करें</string>
+    <string name="cannotDeleteNotEmptyBook">किताब खाली नहीं है। यदि आपको इसे हटाने की आवश्यकता है, तो कृपया इसमें शामिल लेखों को हटाएं या हटाएं और पुनः प्रयास करें।</string>
     <string name="moveTo">करने के लिए कदम</string>
     <string name="move">चाल</string>
     <string name="timeMachine">टाइम मशीन</string>
@@ -207,7 +207,7 @@
     <string name="messageUpload">Pure Writer created a fixed file on your cloud disk. The file name is <b>PureWriter.txt</b>. You can click "OK" to upload the content of your current article to this fixed file. Then you can edit this cloud file on other devices. When it changes, you can pull it down. \n\nDo you now want to write the current article content to that cloud file?</string>
     <string name="typewriterMode">Typewriter Mode</string>
     <string name="edit">संपादित करें</string>
-    <string name="editFolder">फ़ोल्डर संपादित करें</string>
+    <string name="editBook">पुस्तक संपादित करें</string>
     <string name="shareText">推荐：纯纯写作，一个令人感到安心、拥有历史记录、多重防止文章丢失功能，和许多写作辅助的编辑器：https://writer.drakeet.com</string>
     <string name="shareMessage">如果你喜欢和支持纯纯写作，请帮忙点击右侧的分享按钮与你的朋友推荐这个应用，这对于它来说意义重大，纯纯写作将因为你的支持而能够变得更好，并不断开发、完善下去，非常感谢！\n\n了解更多关于纯纯写作：https://writer.drakeet.com</string>
     <string name="wordCountLong">शब्द गणना</string>
@@ -232,4 +232,5 @@
     <string name="forcedWhiteTextColor">जबरदस्त सफेद फ़ॉन्ट</string>
     <string name="paragraphSpacing">अनुच्छेद अंतरण</string>
     <string name="summaryExporting">पैराग्राफ स्पेसिंग सक्षम होने पर ही मान्य है</string>
+    <string name="lowProfile">स्टेटस बार फोकस मोड</string>
 </resources>

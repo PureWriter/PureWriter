@@ -119,13 +119,13 @@
     <string name="sortTypeDescCreation">By Creation Time</string>
     <string name="warningSavedFailed">File saved failed, please copy your full text, and then restart the App to see if the content is missing</string>
     <string name="backupNow">Back up now</string>
-    <string name="summaryBackup">The backup file will be saved to the path /sdcard/backups/PureWriterBackup.db</string>
+    <string name="summaryBackup">The backup file will be saved to the path /sdcard/backups</string>
     <string name="restoreTheBackup">Restore The Backup</string>
-    <string name="summaryRestoreTheBackup">The backup file will be read from the path /sdcard/backups/PureWriterBackup.db and your WebDAV cloud disk</string>
+    <string name="summaryRestoreTheBackup">The backup file will be read from these paths: /sdcard/backups and /sdcard/backups/PureWriterAutoBackups and your WebDAV cloud disk</string>
     <string name="backupSuccessfully">Backup successful</string>
     <string name="restoreSuccessfully">Restore the backup successfully</string>
-    <string name="tipRestoreTheBackup">"Pure Writer's history files are only in the /sdcard/PureWriter directory. If you're about to use your backup files to restore content. The original PureWriter directory will be renamed to PureWriter.old, and then we will create a new PureWriter directory with the backup files. \n\nThe following is all the backup files, click to restore the backup: "</string>
-    <string name="tipBackupNotExist">The backup file does not exist. Please put the backup file in /sdcard/backups/PureWriterBackup.db and try again</string>
+    <string name="tipBackupList">The following is all the backup files, click to restore the backup. \n<b>If you want to get backups from the WebDAV cloud, you should log in to your WebDAV account before entering this page!</b></string>
+    <string name="tipBackupNotExist">The backup file does not exist. Please put the backup file in /sdcard/backups and try again</string>
     <string name="wordCountMode">Word Count Mode</string>
     <string-array name="wordCountModeEntries">
         <item>Exclude spaces and line break</item>
@@ -183,17 +183,17 @@
     <string name="debugRemoveLicense" translatable="false">RemoveLicense</string>
     <string name="timeMachineGuide">What\'s this? You can understand it as a chat window, or as a place to record content temporarily, or something like Google Assistant. In fact, it has a name, called \"Time Machine.\" Nice to meet you!</string>
     <string name="copyDate">Copy Date</string>
-    <string name="defaultFolder">Default Folder</string>
-    <string name="folders">Folders</string>
-    <string name="createNewFolder">Create New Folder</string>
+    <string name="defaultBook">Default Book</string>
+    <string name="books">Books</string>
+    <string name="createNewBook">Create New Book</string>
     <string name="summaryOfAbout">Learn about the original ideas and concepts we developed and designed for this application</string>
     <string name="emptyTip">No articles have been opened yet</string>
     <string name="name">Name</string>
     <string name="optionalDescription">Description (optional)</string>
-    <string name="createFolder">Create Folder</string>
+    <string name="createBookForDialogButton">Create Book</string>
     <string name="openSourceLicenses">Open Source Licenses</string>
     <string name="cannotDelete">Can not delete</string>
-    <string name="cannotDeleteNotEmptyFolder">The folder is not empty, if you want to delete, please delete or move the articles contained in this folder, try again</string>
+    <string name="cannotDeleteNotEmptyBook">The book is not empty. If you need to delete it, please delete or remove the articles it contains and try again.</string>
     <string name="move">Move</string>
     <string name="moveTo">Move To</string>
     <string name="timeMachine">Time Machine</string>
@@ -242,7 +242,7 @@
     <string name="messageUpload">Pure Writer created a <b>fixed</b> file on your cloud disk. The file name is <b>PureWriter.txt</b>. You can click "OK" to upload the content of your current article to this fixed file. Then you can edit this cloud file on other devices. When it changes, you can pull it down. \n\nDo you now want to write the current article content to that cloud file?</string>
     <string name="typewriterMode">Typewriter Mode</string>
     <string name="edit">Edit</string>
-    <string name="editFolder">Edit Folder</string>
+    <string name="editBook">Edit Book</string>
     <string name="tipFloatingWordCountDisabled">After you disable Word Count, you will be able to see it in TimeMachine.</string>
     <string name="shareText">推荐：纯纯写作，一个令人感到安心、拥有历史记录、多重防止文章丢失功能，和许多写作辅助的编辑器：https://writer.drakeet.com</string>
     <string name="shareMessage">如果你喜欢和支持纯纯写作，请帮忙点击右侧的分享按钮与你的朋友推荐这个应用，这对于它来说意义重大，纯纯写作将因为你的支持而能够变得更好，并不断开发、完善下去，非常感谢！\n\n了解更多关于纯纯写作：https://writer.drakeet.com</string>
@@ -264,4 +264,5 @@
     <string name="forcedWhiteTextColor">Forced White Font</string>
     <string name="paragraphSpacing">Paragraph Spacing</string>
     <string name="summaryExporting">Only valid when paragraph spacing is enabled</string>
+    <string name="lowProfile">Status bar focus mode</string>
 </resources>

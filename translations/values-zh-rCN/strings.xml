@@ -106,12 +106,12 @@
     <string name="warningSavedFailed">文件自动保存失败，请复制您的全文，然后重启 App 查看是否丢失内容</string>
     <string name="backupSuccessfully">备份成功</string>
     <string name="backupNow">立即备份</string>
-    <string name="summaryBackup">备份文件将被保存到 /sdcard/backups/PureWriterBackup.db</string>
+    <string name="summaryBackup">备份文件将被保存到 /sdcard/backups</string>
     <string name="restoreTheBackup">恢复备份</string>
-    <string name="summaryRestoreTheBackup">备份文件将从 /sdcard/backups/PureWriterBackup.db 和你的 WebDAV 云盘中读取</string>
-    <string name="tipRestoreTheBackup">纯纯写作所有的记录文件都只在 /sdcard/PureWriter 目录下，如果您即将使用您的备份文件来恢复内容，原有的 PureWriter 目录将被改名为 PureWriter.old，然后我们才会用备份文件创建新的 PureWriter 目录及其内容。如果需要，您当前的内容可以在 PureWriter.old 目录中找到。 \n\n以下是备份文件，点击即可恢复备份：</string>
+    <string name="summaryRestoreTheBackup">备份文件将从 /sdcard/backups 和 /sdcard/backups/PureWriterAutoBackups 和你的 WebDAV 云盘中读取</string>
+    <string name="tipBackupList">以下是备份文件，点击即可恢复备份。\n<b>如果你想从 WebDAV 云端获取备份，应该先登陆你的 WebDAV 账号后再进入此页面！</b></string>
     <string name="restoreSuccessfully">恢复备份成功</string>
-    <string name="tipBackupNotExist">备份文件不存在，请将备份文件置于 /sdcard/backups/PureWriterBackup.db 并重试</string>
+    <string name="tipBackupNotExist">备份文件不存在，请将备份文件置于 /sdcard/backups 并重试</string>
     <string name="wordCountMode">字数统计方式</string>
     <string-array name="wordCountModeEntries">
         <item>不包含空格与换行</item>
@@ -153,16 +153,16 @@
     <string name="wordCountTotalValue">所有文章字数统计</string>
     <string name="timeMachineGuide">这是什么？ 你可以理解成一个聊天窗口，也可以理解成一个临时记录内容的地方，或类似谷歌助手。实际上，它有一个专门的名字，叫「时光机」。 很高兴见到你！</string>
     <string name="copyDate">复制日期</string>
-    <string name="folders">文件夹</string>
-    <string name="defaultFolder">默认文件夹</string>
+    <string name="books">书籍</string>
+    <string name="defaultBook">默认书</string>
     <string name="summaryOfAbout">了解我们开发和设计这个应用的初衷和理念</string>
-    <string name="createNewFolder">创建新文件夹</string>
+    <string name="createNewBook">创建新书</string>
     <string name="emptyTip">尚未打开任何文章</string>
     <string name="name">名称</string>
     <string name="optionalDescription">描述 (可不填)</string>
-    <string name="createFolder">创建文件夹</string>
+    <string name="createBookForDialogButton">创建书</string>
     <string name="openSourceLicenses">开源许可证</string>
-    <string name="cannotDeleteNotEmptyFolder">该文件夹不为空，如需删除，请逐一删除或移出其包含的文章后重试</string>
+    <string name="cannotDeleteNotEmptyBook">该书不为空，如需删除，请逐一删除或移出其包含的文章后重试</string>
     <string name="cannotDelete">无法删除</string>
     <string name="moveTo">移动到</string>
     <string name="move">移动</string>
@@ -211,7 +211,7 @@
     <string name="download">云读写: 拉取</string>
     <string name="typewriterMode">打字机模式</string>
     <string name="edit">修改</string>
-    <string name="editFolder">修改文件夹</string>
+    <string name="editBook">修改书籍</string>
     <string name="shareText">推荐：纯纯写作，一个令人感到安心、拥有历史记录、多重防止文章丢失功能，和许多写作辅助的编辑器：https://writer.drakeet.com</string>
     <string name="shareMessage">如果你喜欢和支持纯纯写作，请帮忙点击右侧的分享按钮与你的朋友推荐这个应用，这对于它来说意义重大，纯纯写作将因为你的支持而能够变得更好，并不断开发、完善下去，非常感谢！\n\n了解更多关于纯纯写作：https://writer.drakeet.com</string>
     <string name="wordCountLong">字数统计</string>
@@ -236,4 +236,5 @@
     <string name="forcedWhiteTextColor">强制白色字体</string>
     <string name="paragraphSpacing">段间距</string>
     <string name="summaryExporting">仅在开启段间距时有效</string>
+    <string name="lowProfile">状态栏专注模式</string>
 </resources>

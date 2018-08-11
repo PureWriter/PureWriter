@@ -104,13 +104,13 @@
     <string name="sortTypeDescCreation">По времени создания</string>
     <string name="warningSavedFailed">Не удалось сохранить файл, скопируйте полный текст и перезапустите приложение, чтобы узнать, отсутствует ли контент</string>
     <string name="backupNow">Быстрое резервное копирование</string>
-    <string name="summaryBackup">Файл резервной копии будет сохранен в /sdcard/backups/PureWriterBackup.db</string>
+    <string name="summaryBackup">Файл резервной копии будет сохранен в /sdcard/backups</string>
     <string name="restoreTheBackup">Восстановить резервную копию</string>
-    <string name="summaryRestoreTheBackup">Резервная копия будет считана с /sdcard/backups/PureWriterBackup.db и вашего облачного диска WebDAV</string>
+    <string name="summaryRestoreTheBackup">The backup file will be read from these paths: /sdcard/backups and /sdcard/backups/PureWriterAutoBackups and your WebDAV cloud disk</string>
     <string name="backupSuccessfully">Резервирование успешно</string>
     <string name="restoreSuccessfully">Восстановление резервной копии успешно</string>
-    <string name="tipRestoreTheBackup">Файлы истории Pure Writer находятся только в /sdcard/PureWriter. Оригинальный каталог PureWriter будет переименован в PureWriter.old, а позже мы создадим новый каталог с резервными файлами. \n\Нажмите, чтобы восстановить резервную копию</string>
-    <string name="tipBackupNotExist">Файл резервной копии не существует. Поместите файл в /sdcard/backups/PureWriterBackup.db и повторите попытку</string>
+    <string name="tipBackupList">Ниже перечислены все файлы резервных копий, нажмите, чтобы восстановить резервную копию. \n<b>Если вы хотите получить резервные копии из облака WebDAV, перед тем, как войти на эту страницу, вы должны войти в свою учетную запись WebDAV!</b></string>
+    <string name="tipBackupNotExist">Файл резервной копии не существует. Поместите файл в /sdcard/backups и повторите попытку</string>
     <string name="wordCountMode">Word count mode</string>
     <string-array name="wordCountModeEntries">
         <item>Исключить пробелы и разрывы строк</item>
@@ -152,17 +152,17 @@
     <string name="wordCountTotalValue">Количество слов всех статей</string>
     <string name="timeMachineGuide">Что это?  Это как окно чата или место для записи временных документов. Что-то вроде Google Assistant. Фактически, у него есть имя: «Машина времени». Приятно познакомиться!</string>
     <string name="copyDate">Дата копирования</string>
-    <string name="folders">Папки</string>
-    <string name="defaultFolder">Папка по умолчанию</string>
+    <string name="books">Книги</string>
+    <string name="defaultBook">Книга по умолчанию</string>
     <string name="summaryOfAbout">Узнайте о оригинальных идеях и концепциях, которые мы разработали для этого приложения.</string>
-    <string name="createNewFolder">Создать новую папку</string>
+    <string name="createNewBook">Создать новую книгу</string>
     <string name="emptyTip">Вы не открывали никакие статьи</string>
     <string name="name">Имя</string>
     <string name="optionalDescription">Описание (необязательно)</string>
-    <string name="createFolder">Создать папку</string>
+    <string name="createBookForDialogButton">Создать книгу</string>
     <string name="openSourceLicenses">Лицензии с открытым исходным кодом</string>
     <string name="cannotDelete">Не получается удалить</string>
-    <string name="cannotDeleteNotEmptyFolder">Удалите статьи в этой папке и повторите попытку</string>
+    <string name="cannotDeleteNotEmptyBook">Книга не пуста. Если вам нужно удалить его, удалите или удалите содержащиеся в нем статьи и повторите попытку.</string>
     <string name="moveTo">Переместить в</string>
     <string name="move">Переместить</string>
     <string name="timeMachine">Машина времени</string>
@@ -207,7 +207,7 @@
     <string name="messageUpload">Pure Writer создал файл в облачном диске. Имя файла <b> PureWriter.txt </b>. Чтобы загрузить содержимое текущей статьи, нажмите ОК. Это даст вам возможность редактировать этот файл на других устройствах. \n\nХотите записать эту статью?</string>
     <string name="typewriterMode">Typewriter Mode</string>
     <string name="edit">редактировать</string>
-    <string name="editFolder">Изменить папку</string>
+    <string name="editBook">Редактировать книгу</string>
     <string name="shareText">推荐：纯纯写作，一个令人感到安心、拥有历史记录、多重防止文章丢失功能，和许多写作辅助的编辑器：https://writer.drakeet.com</string>
     <string name="shareMessage">如果你喜欢和支持纯纯写作，请帮忙点击右侧的分享按钮与你的朋友推荐这个应用，这对于它来说意义重大，纯纯写作将因为你的支持而能够变得更好，并不断开发、完善下去，非常感谢！\n\n了解更多关于纯纯写作：https://writer.drakeet.com</string>
     <string name="wordCountLong">Количество слов</string>
@@ -232,4 +232,5 @@
     <string name="forcedWhiteTextColor">Принудительный белый шрифт</string>
     <string name="paragraphSpacing">Интервал между абзацами</string>
     <string name="summaryExporting">Действителен только в том случае, если интервал между абзацами включен</string>
+    <string name="lowProfile">Режим фокусировки строки состояния</string>
 </resources>

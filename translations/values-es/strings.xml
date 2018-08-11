@@ -104,13 +104,13 @@
     <string name="sortTypeDescCreation">By creation time</string>
     <string name="warningSavedFailed">Error al guardar el archivo, copie el texto completo y luego reinicie la aplicación para ver si falta el contenido</string>
     <string name="backupNow">Copia ahora</string>
-    <string name="summaryBackup">El archivo de copia de seguridad se guardará en la ruta /sdcard/backups/PureWriterBackup.db</string>
+    <string name="summaryBackup">El archivo de copia de seguridad se guardará en la ruta /sdcard/backups</string>
     <string name="restoreTheBackup">Restaurar la copia de seguridad</string>
-    <string name="summaryRestoreTheBackup">The backup file will be read from the path /sdcard/backups/PureWriterBackup.db and your WebDAV cloud disk</string>
+    <string name="summaryRestoreTheBackup">The backup file will be read from these paths: /sdcard/backups and /sdcard/backups/PureWriterAutoBackups and your WebDAV cloud disk</string>
     <string name="backupSuccessfully">Backup exitoso</string>
     <string name="restoreSuccessfully">Restaure la copia de seguridad con éxito</string>
-    <string name="tipRestoreTheBackup">"Los archivos de historial de Pure Writer solo están en el directorio /sdcard/PureWriter. Si está a punto de usar sus archivos de respaldo para restaurar el contenido, el directorio original de PureWriter se renombrará como PureWriter.old, y luego crearemos un nuevo directorio PureWriter. con los archivos de copia de seguridad. \n\nEl siguiente es todos los archivos de copia de seguridad, haga clic para restaurar la copia de seguridad: "</string>
-    <string name="tipBackupNotExist">El archivo de copia de seguridad no existe. Coloque el archivo de copia de seguridad en /sdcard/backups/PureWriterBackup.db y vuelva a intentarlo</string>
+    <string name="tipBackupList">A continuación se muestran todos los archivos de copia de seguridad, haga clic para restaurar la copia de seguridad. \n<b>Si desea obtener copias de seguridad de la nube WebDAV, ¡debe iniciar sesión en su cuenta WebDAV antes de ingresar a esta página!</b></string>
+    <string name="tipBackupNotExist">El archivo de copia de seguridad no existe. Coloque el archivo de copia de seguridad en /sdcard/backups y vuelva a intentarlo</string>
     <string name="wordCountMode">Modo de conteo de palabras</string>
     <string-array name="wordCountModeEntries">
         <item>Excluir espacios y salto de línea</item>
@@ -152,17 +152,17 @@
     <string name="wordCountTotalValue">Recuento de palabras de todos los artículos</string>
     <string name="timeMachineGuide">¿Qué es esto? Puedes entenderlo como una ventana de chat, o como un lugar para grabar contenido temporalmente, o algo así como el Asistente de Google. De hecho, tiene un nombre, llamado "Time Machine". Encantada de conocerte!</string>
     <string name="copyDate">Copiar fecha</string>
-    <string name="folders">Carpetas</string>
-    <string name="defaultFolder">Carpeta por defecto</string>
+    <string name="books">Libros</string>
+    <string name="defaultBook">Libro predeterminado</string>
     <string name="summaryOfAbout">Aprende sobre las ideas y conceptos originales que desarrollamos y diseñamos para esta aplicación</string>
-    <string name="createNewFolder">Crear nueva carpeta</string>
+    <string name="createNewBook">Crea un nuevo libro</string>
     <string name="emptyTip">No se han abierto artículos aún</string>
     <string name="name">Nombre</string>
     <string name="optionalDescription">Descripción (opcional)</string>
-    <string name="createFolder">Crear carpeta</string>
+    <string name="createBookForDialogButton">Crear libro</string>
     <string name="openSourceLicenses">Licencias de código abierto</string>
     <string name="cannotDelete">No se puede borrar</string>
-    <string name="cannotDeleteNotEmptyFolder">La carpeta no está vacía, si desea eliminarla, elimine los artículos contenidos en esta carpeta, intente de nuevo</string>
+    <string name="cannotDeleteNotEmptyBook">El libro no está vacío. Si necesita eliminarlo, elimine o elimine los artículos que contiene e inténtelo de nuevo.</string>
     <string name="moveTo">Mover a</string>
     <string name="move">Mover</string>
     <string name="timeMachine">Máquina del tiempo</string>
@@ -207,7 +207,7 @@
     <string name="messageUpload">Pure Writer created a fixed file on your cloud disk. The file name is <b>PureWriter.txt</b>. You can click "OK" to upload the content of your current article to this fixed file. Then you can edit this cloud file on other devices. When it changes, you can pull it down. \n\nDo you now want to write the current article content to that cloud file?</string>
     <string name="typewriterMode">Typewriter Mode</string>
     <string name="edit">Editar</string>
-    <string name="editFolder">Editar carpeta</string>
+    <string name="editBook">Editar libro</string>
     <string name="shareText">推荐：纯纯写作，一个令人感到安心、拥有历史记录、多重防止文章丢失功能，和许多写作辅助的编辑器：https://writer.drakeet.com</string>
     <string name="shareMessage">如果你喜欢和支持纯纯写作，请帮忙点击右侧的分享按钮与你的朋友推荐这个应用，这对于它来说意义重大，纯纯写作将因为你的支持而能够变得更好，并不断开发、完善下去，非常感谢！\n\n了解更多关于纯纯写作：https://writer.drakeet.com</string>
     <string name="wordCountLong">El recuento de palabras</string>
@@ -232,4 +232,5 @@
     <string name="forcedWhiteTextColor">Forced White Fuente</string>
     <string name="paragraphSpacing">Espaciado entre párrafos</string>
     <string name="summaryExporting">Solo es válido cuando el espaciado entre párrafos está habilitado</string>
+    <string name="lowProfile">Modo de enfoque de la barra de estado</string>
 </resources>

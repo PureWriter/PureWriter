@@ -104,13 +104,13 @@
     <string name="sortTypeDescCreation">作成時間の降順でソート</string>
     <string name="warningSavedFailed">ファイルを保存できませんでした。フルテキストをコピーしてから、アプリケーションを再起動してコンテンツが欠落していないか確認してください</string>
     <string name="backupNow">今すぐバックアップする</string>
-    <string name="summaryBackup">バックアップファイルはパス/sdcard/backups/PureWriterBackup.dbに保存されます。</string>
+    <string name="summaryBackup">バックアップファイルはパス /sdcard/backups に保存されます。</string>
     <string name="restoreTheBackup">バックアップを復元する</string>
-    <string name="summaryRestoreTheBackup">The backup file will be read from the path /sdcard/backups/PureWriterBackup.db and your WebDAV cloud disk</string>
+    <string name="summaryRestoreTheBackup">The backup file will be read from these paths: /sdcard/backups and /sdcard/backups/PureWriterAutoBackups and your WebDAV cloud disk</string>
     <string name="backupSuccessfully">バックアップが成功しました</string>
     <string name="restoreSuccessfully">バックアップを正常に復元する</string>
-    <string name="tipRestoreTheBackup">"Pure Writer's history files are only in the /sdcard/PureWriter directory. If you're about to use your backup files to restore content. The original PureWriter directory will be renamed to PureWriter.old, and then we will create a new PureWriter directory with the backup files. \n\nThe following is all the backup files, click to restore the backup: "</string>
-    <string name="tipBackupNotExist">バックアップファイルは存在しません。 バックアップファイルを/sdcard/backups/PureWriterBackup.dbに入れてもう一度お試しください</string>
+    <string name="tipBackupList">以下はすべてのバックアップファイルです：クリックしてバックアップを復元する。\n<b>WebDAVクラウドからバックアップを取得する場合は、このページに入る前にWebDAVアカウントにログインする必要があります。</b></string>
+    <string name="tipBackupNotExist">バックアップファイルは存在しません。 バックアップファイルを /sdcard/backups に入れてもう一度お試しください</string>
     <string name="wordCountMode">単語数</string>
     <string-array name="wordCountModeEntries">
         <item>スペースと改行を除外する</item>
@@ -152,17 +152,17 @@
     <string name="wordCountTotalValue">すべての記事の語数</string>
     <string name="timeMachineGuide">これは何ですか？ チャットウィンドウとして、または一時的にコンテンツを記録する場所、またはGoogle Assistantのようなものとして理解できます。 実際、「Time Machine」という名前があります。 はじめまして！</string>
     <string name="copyDate">日付のコピー</string>
-    <string name="folders">フォルダ</string>
-    <string name="defaultFolder">デフォルトフォルダ</string>
+    <string name="books">書籍</string>
+    <string name="defaultBook">デフォルトブック</string>
     <string name="summaryOfAbout">このアプリケーション用に開発して設計したオリジナルのアイデアやコンセプトについて学びます。</string>
-    <string name="createNewFolder">新しいフォルダを作成する</string>
+    <string name="createNewBook">新しい本を作る</string>
     <string name="emptyTip">記事はまだ開かれていません</string>
     <string name="name">名</string>
     <string name="optionalDescription">説明（オプション）</string>
-    <string name="createFolder">フォルダーを作る</string>
+    <string name="createBookForDialogButton">本を作る</string>
     <string name="openSourceLicenses">オープンソースライセンス</string>
     <string name="cannotDelete">削除できません</string>
-    <string name="cannotDeleteNotEmptyFolder">あなたが削除したい場合は、このフォルダに含まれている記事を削除してください、もう一度やり直してください</string>
+    <string name="cannotDeleteNotEmptyBook">本は空ではありません。 削除する必要がある場合は、その中に含まれている記事を削除または削除してから、もう一度やり直してください。</string>
     <string name="moveTo">へ引っ越す</string>
     <string name="move">移動</string>
     <string name="timeMachine">タイムマシン</string>
@@ -207,7 +207,7 @@
     <string name="messageUpload">Pure Writer created a fixed file on your cloud disk. The file name is <b>PureWriter.txt</b>. You can click "OK" to upload the content of your current article to this fixed file. Then you can edit this cloud file on other devices. When it changes, you can pull it down. \n\nDo you now want to write the current article content to that cloud file?</string>
     <string name="typewriterMode">Typewriter Mode</string>
     <string name="edit">編集</string>
-    <string name="editFolder">フォルダを編集する</string>
+    <string name="editBook">本の編集</string>
     <string name="shareText">推荐：纯纯写作，一个令人感到安心、拥有历史记录、多重防止文章丢失功能，和许多写作辅助的编辑器：https://writer.drakeet.com</string>
     <string name="shareMessage">如果你喜欢和支持纯纯写作，请帮忙点击右侧的分享按钮与你的朋友推荐这个应用，这对于它来说意义重大，纯纯写作将因为你的支持而能够变得更好，并不断开发、完善下去，非常感谢！\n\n了解更多关于纯纯写作：https://writer.drakeet.com</string>
     <string name="wordCountLong">単語数</string>
@@ -232,4 +232,5 @@
     <string name="forcedWhiteTextColor">強制白色フォント</string>
     <string name="paragraphSpacing">段落の間隔</string>
     <string name="summaryExporting">段落の間隔が有効な場合にのみ有効です</string>
+    <string name="lowProfile">ステータスバーフォーカスモード</string>
 </resources>

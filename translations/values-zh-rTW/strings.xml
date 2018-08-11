@@ -106,13 +106,13 @@
     <string name="sortTypeDescCreation">建立時間：由新至舊</string>
     <string name="warningSavedFailed">文件自動儲存失敗，請複製您的全文，然後重新啟動 應用程式查看是否遺失內容</string>
     <string name="backupNow">立即備份</string>
-    <string name="summaryBackup">備份檔案將被儲存到 /sdcard/backups/PureWriterBackup.db</string>
+    <string name="summaryBackup">備份檔案將被儲存到 /sdcard/backups</string>
     <string name="restoreTheBackup">還原備份</string>
-    <string name="summaryRestoreTheBackup">備份檔案將從 /sdcard/backups/PureWriterBackup.db 和你的 WebDAV 雲端中讀取</string>
+    <string name="summaryRestoreTheBackup">備份檔案將從 /sdcard/backups 和 /sdcard/backups/PureWriterAutoBackups 和你的 WebDAV 雲端中讀取</string>
     <string name="backupSuccessfully">備份成功</string>
     <string name="restoreSuccessfully">還原備份成功</string>
-    <string name="tipRestoreTheBackup">純純寫作所有的記錄檔案都只在 /sdcard/PureWriter 目錄下，如果您即將使用您的備份檔案來還原內容，原有的 PureWriter 目錄將被重新命名為 PureWriter.old，然後才會用備份檔案建立新的 PureWriter 目錄及其內容。\n\n這麼做是為了防止您目前的內容遺失，如果需要，您目前的內容可以在 PureWriter.old 目錄中找到。</string>
-    <string name="tipBackupNotExist">找不到備份檔案，請將備份檔案置於 /sdcard/backups/PureWriterBackup.db 並重試</string>
+    <string name="tipBackupList">以下是備份檔案，點擊即可恢復備份。\n<b>如果你想從 WebDAV 雲端獲取備份，應該先登入你的 WebDAV 帳號後再進入此頁面！</b></string>
+    <string name="tipBackupNotExist">找不到備份檔案，請將備份檔案置於 /sdcard/backups 並重試</string>
     <string name="wordCountMode">統計字數方式</string>
     <string-array name="wordCountModeEntries">
         <item>不包含空格與換行</item>
@@ -154,17 +154,17 @@
     <string name="wordCountTotalValue">所有文章字數統計</string>
     <string name="timeMachineGuide">這是什麼？你可以理解成一個聊天視窗，也可以理解成一個暫時記錄內容的地方，或類似 Google Assistant。實際上，它有一個專門的名字，叫「時光機」。很高興見到你！</string>
     <string name="copyDate">複製日期</string>
-    <string name="folders">資料夾</string>
-    <string name="defaultFolder">預設資料夾</string>
+    <string name="books">書籍</string>
+    <string name="defaultBook">預設書</string>
     <string name="summaryOfAbout">了解我們開發和設計這個應用程式的初衷和理念</string>
-    <string name="createNewFolder">建立新資料夾</string>
+    <string name="createNewBook">建立新書</string>
     <string name="emptyTip">尚未開啟任何文章</string>
     <string name="name">名稱</string>
     <string name="optionalDescription">描述 (選填)</string>
-    <string name="createFolder">建立資料夾</string>
+    <string name="createBookForDialogButton">建立書</string>
     <string name="openSourceLicenses">開放原始碼授權條款</string>
     <string name="cannotDelete">無法移除</string>
-    <string name="cannotDeleteNotEmptyFolder">該資料夾不是空的，如需移除，請逐一移除或移出其包含的文章後重試</string>
+    <string name="cannotDeleteNotEmptyBook">該書不是空的，如需移除，請逐一移除或移出其包含的文章後重試</string>
     <string name="moveTo">移動到</string>
     <string name="move">移動</string>
     <string name="timeMachine">時光機</string>
@@ -212,7 +212,7 @@
     <string name="syncAllNetworks">在所有網路下都允許自動備份到 WebDAV 雲端</string>
     <string name="typewriterMode">打字機模式</string>
     <string name="edit">修改</string>
-    <string name="editFolder">修改資料夾</string>
+    <string name="editBook">修改書籍</string>
     <string name="shareText">推薦：純純寫作，一個令人感到安心、擁有歷史記錄、多重防止文章丟失功能，和許多寫作輔助的編輯器：https://writer.drakeet.com</string>
     <string name="shareMessage">如果你喜歡和支援純純寫作，請幫忙點擊右側的分享按鈕與你的朋友推薦這個應用，這對於它來說意義重大，純純寫作將因為你的支援而能夠變得更好，並不斷開發、完善下去，非常感謝！\n\n了解更多關於純純寫作：https://writer.drakeet.com</string>
     <string name="wordCountLong">字數統計</string>
@@ -238,4 +238,5 @@
     <string name="forcedWhiteTextColor">強制白色字體</string>
     <string name="paragraphSpacing">段間距</string>
     <string name="summaryExporting">僅在開啟段間距時有效</string>
+    <string name="lowProfile">狀態欄專注模式</string>
 </resources>
