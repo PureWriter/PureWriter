@@ -100,8 +100,8 @@
     <string name="appLinks">Android 应用友链</string>
     <string name="titleOpenImportedFile">发现您打开了一个外部文件，请选择操作</string>
     <string name="copied">已复制</string>
-    <string name="sortTypeDescModification">修改时间新的排前</string>
-    <string name="sortTypeDescCreation">创建时间新的排前</string>
+    <string name="sortTypeModifiedTimeDown">修改时间新的排前</string>
+    <string name="sortTypeCreatedTimeDown">创建时间新的排前</string>
     <string name="sort">排序规则</string>
     <string name="warningSavedFailed">文件自动保存失败，请复制您的全文，然后重启 App 查看是否丢失内容</string>
     <string name="backupSuccessfully">备份成功</string>
@@ -238,4 +238,8 @@
     <string name="summaryExporting">仅在开启段间距时有效</string>
     <string name="lowProfile">状态栏专注模式</string>
     <string name="chapters">章节</string>
+    <string name="sortTypeTitleUp">标题升序</string>
+    <string name="sortTypeTitleDown">标题降序</string>
+    <string name="sortByRank">手动排序顺序</string>
+    <string name="modifyRanks"><i><b>进行手动排序</b></i></string>
 </resources>

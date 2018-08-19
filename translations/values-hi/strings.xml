@@ -71,7 +71,7 @@
     </string-array>
     <string name="tipMessageStoragePermissionFirst">अपने लेखों को खो जाने से रोकने के लिए हमें अपने लेखों को स्वचालित रूप से वापस लेने की अनुमति की आवश्यकता है, कृपया अनुमति दें।</string>
     <string name="promptShortcutTitle">संक्षिप्त वर्णन (वैकल्पिक)</string>
-    <string name="promptShortcutContent">सामग्री (की आवश्यकता होती है)</string>
+    <string name="promptShortcutContent">सामग्री (अनिवार्य)</string>
     <string name="createShortcut">पाठ शॉर्टकट बनाएं</string>
     <string name="noteShortcutCursorIndex">सामग्री में कर्सर की स्थिति के लिए कदम कृपया लेख डालने के बाद कर्सर की नियुक्ति स्थापित करने के लिए</string>
     <string name="indentShort">इंडेंट</string>
@@ -100,8 +100,8 @@
     <string name="titleOpenImportedFile">पाया कि आपने बाहरी फाइल खोली है, कृपया कोई कार्रवाई चुनें</string>
     <string name="copied">कॉपी किया गया</string>
     <string name="sort">सॉर्ट करें प्रकार</string>
-    <string name="sortTypeDescModification">By modification time</string>
-    <string name="sortTypeDescCreation">By creation time</string>
+    <string name="sortTypeModifiedTimeDown">संशोधित समय</string>
+    <string name="sortTypeCreatedTimeDown">बनाया गया समय</string>
     <string name="warningSavedFailed">सहेजा गया फ़ाइल विफल, कृपया अपना पूरा पाठ कॉपी करें, और उसके बाद ऐप को यह देखने के लिए पुन: प्रारंभ करें कि क्या सामग्री अनुपलब्ध है</string>
     <string name="backupNow">अब समर्थन देना</string>
     <string name="summaryBackup">बैकअप फ़ाइल को पथ /sdcard/backups पर सहेजा जाएगा</string>
@@ -234,4 +234,8 @@
     <string name="summaryExporting">पैराग्राफ स्पेसिंग सक्षम होने पर ही मान्य है</string>
     <string name="lowProfile">स्टेटस बार फोकस मोड</string>
     <string name="chapters">अध्याय</string>
+    <string name="sortTypeTitleUp">शीर्षक आरोही</string>
+    <string name="sortTypeTitleDown">शीर्षक अवरोही</string>
+    <string name="sortByRank">मैनुअल सॉर्टिंग</string>
+    <string name="modifyRanks"><i><b>मैनुअल सॉर्टिंग करें</b></i></string>
 </resources>

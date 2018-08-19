@@ -71,7 +71,7 @@
     </string-array>
     <string name="tipMessageStoragePermissionFirst">あなたの記事を自動的にバックアップする許可が必要です。あなたの記事が失われないように、許可を与えてください。</string>
     <string name="promptShortcutTitle">簡単な説明 (optional)</string>
-    <string name="promptShortcutContent">Content (require)</string>
+    <string name="promptShortcutContent">Content (required)</string>
     <string name="createShortcut">Create text Shortcut</string>
     <string name="noteShortcutCursorIndex">Please move the cursor position in the content to set the placement of the cursor after inserting the article</string>
     <string name="indentShort">Indent</string>
@@ -100,8 +100,8 @@
     <string name="titleOpenImportedFile">外部ファイルを開いたことが判明しました。アクションを選択してください</string>
     <string name="copied">コピーされた</string>
     <string name="sort">ソートタイプ</string>
-    <string name="sortTypeDescModification">変更時刻の降順でソート</string>
-    <string name="sortTypeDescCreation">作成時間の降順でソート</string>
+    <string name="sortTypeModifiedTimeDown">変更された時間</string>
+    <string name="sortTypeCreatedTimeDown">作成時刻</string>
     <string name="warningSavedFailed">ファイルを保存できませんでした。フルテキストをコピーしてから、アプリケーションを再起動してコンテンツが欠落していないか確認してください</string>
     <string name="backupNow">今すぐバックアップする</string>
     <string name="summaryBackup">バックアップファイルはパス /sdcard/backups に保存されます。</string>
@@ -234,4 +234,8 @@
     <string name="summaryExporting">段落の間隔が有効な場合にのみ有効です</string>
     <string name="lowProfile">ステータスバーフォーカスモード</string>
     <string name="chapters">チャプター</string>
+    <string name="sortTypeTitleUp">タイトルの昇順</string>
+    <string name="sortTypeTitleDown">タイトルの降順</string>
+    <string name="sortByRank">手動ソート</string>
+    <string name="modifyRanks"><i><b>手動ソートを行う</b></i></string>
 </resources>

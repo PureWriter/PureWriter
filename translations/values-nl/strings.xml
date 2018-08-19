@@ -53,7 +53,7 @@
     <string name="preview">Voorbeeld</string>
     <string name="proReadMe">Als u denkt dat pure schrijver goed is en hoop dat het beter kan zijn, zijn we bereid om een beetje geld te spenderen als stimulans voor de ontwikkelaar?\n\nDit stelt ons in staat om in goede richting te blijven, gewetensproducten te creëren en meer onafhankelijke ontwikkelaars te inspireren.\n\nU kunt op de knop \"GOOGLE PLAY\" klikken om Google Pay Payment te openen. Als terugkeer zal Pure Writer de advertentievrije staat en alle Pro-inhoud voor u bieden. Hartelijk dank!</string>
     <string name="promptShortcutTitle">Korte beschrijving (optioneel)</string>
-    <string name="promptShortcutContent">Inhoud (vereisen)</string>
+    <string name="promptShortcutContent">Inhoud (verplicht)</string>
     <string name="redo">opnieuw</string>
     <string name="pureWriter">Pure Writer</string>
     <string name="reject">afwijzen</string>
@@ -100,8 +100,8 @@
     <string name="titleOpenImportedFile">Gevonden dat u een extern bestand hebt geopend, selecteer aub een actie</string>
     <string name="copied">gekopieerde</string>
     <string name="sort">Sorteer Type</string>
-    <string name="sortTypeDescModification">Door wijzigingstijd</string>
-    <string name="sortTypeDescCreation">Door creatie tijd</string>
+    <string name="sortTypeModifiedTimeDown">Gewijzigde tijd</string>
+    <string name="sortTypeCreatedTimeDown">Gecreëerde tijd</string>
     <string name="warningSavedFailed">Bestand opgeslagen mislukt, kopieer de volledige tekst en start de app opnieuw om te zien of de inhoud ontbreekt</string>
     <string name="backupNow">Nu backuppen</string>
     <string name="summaryBackup">Het back-upbestand wordt opgeslagen op het pad /sdcard/backups</string>
@@ -234,4 +234,8 @@
     <string name="summaryExporting">Alleen geldig als alinea-tussenruimte is ingeschakeld</string>
     <string name="lowProfile">Statusbalk focusmodus</string>
     <string name="chapters">Chapters</string>
+    <string name="sortTypeTitleUp">Titel oplopend</string>
+    <string name="sortTypeTitleDown">Titel aflopend</string>
+    <string name="sortByRank">Handmatig sorteren</string>
+    <string name="modifyRanks"><i><b>Doe handmatig sorteren</b></i></string>
 </resources>

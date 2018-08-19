@@ -71,7 +71,7 @@
     <string name="tipMessageStoragePermissionFirst">Нам нужно разрешение на автоматическое резервное копирование ваших документов, чтобы они не были утеряны.</string>
     <string name="tipMessageStoragePermissionToSettings">Нам необходимо разрешение на хранение, чтобы записывать вашу историю, вы можете сделать это вручную в Настройках. Без этого функция истории не будет доступной.</string>
     <string name="promptShortcutTitle">Краткое описание (необязательно)</string>
-    <string name="promptShortcutContent">Содержание (требуется)</string>
+    <string name="promptShortcutContent">Содержание (обязательное)</string>
     <string name="createShortcut">Создать ярлык</string>
     <string name="noteShortcutCursorIndex">Это панель быстрого доступа. Введите нужный текст, чтобы вставить его в один клик</string>
     <string name="indentShort">Отступ</string>
@@ -100,8 +100,8 @@
     <string name="titleOpenImportedFile">Вы открыли внешний файл, выберите действие</string>
     <string name="copied">Скопирован</string>
     <string name="sort">Тип сортировки</string>
-    <string name="sortTypeDescModification">По времени модификации</string>
-    <string name="sortTypeDescCreation">По времени создания</string>
+    <string name="sortTypeModifiedTimeDown">Модифицированное время</string>
+    <string name="sortTypeCreatedTimeDown">Время создания</string>
     <string name="warningSavedFailed">Не удалось сохранить файл, скопируйте полный текст и перезапустите приложение, чтобы узнать, отсутствует ли контент</string>
     <string name="backupNow">Быстрое резервное копирование</string>
     <string name="summaryBackup">Файл резервной копии будет сохранен в /sdcard/backups</string>
@@ -234,4 +234,8 @@
     <string name="summaryExporting">Действителен только в том случае, если интервал между абзацами включен</string>
     <string name="lowProfile">Режим фокусировки строки состояния</string>
     <string name="chapters">Главы</string>
+    <string name="sortTypeTitleUp">Заголовок по возрастанию</string>
+    <string name="sortTypeTitleDown">Название по убыванию</string>
+    <string name="sortByRank">Ручная сортировка</string>
+    <string name="modifyRanks"><i><b>Сделайте ручную сортировку</b></i></string>
 </resources>

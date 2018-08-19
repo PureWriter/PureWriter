@@ -71,7 +71,7 @@
     </string-array>
     <string name="tipMessageStoragePermissionFirst">Necesitamos permiso para realizar copias de seguridad de sus artículos automáticamente, para evitar la pérdida de sus artículos, conceda permiso.</string>
     <string name="promptShortcutTitle">Descripción breve (opcional)</string>
-    <string name="promptShortcutContent">Contenido (requiere)</string>
+    <string name="promptShortcutContent">Contenido (requerido)</string>
     <string name="createShortcut">Crear acceso directo de texto</string>
     <string name="noteShortcutCursorIndex">Por favor, mueva la posición del cursor en el contenido para definir la ubicación del cursor después de insertar el artículo</string>
     <string name="indentShort">muesca</string>
@@ -100,8 +100,8 @@
     <string name="titleOpenImportedFile">Encontró que abrió un archivo externo, seleccione una acción</string>
     <string name="copied">Copiado</string>
     <string name="sort">Tipo de clasificación</string>
-    <string name="sortTypeDescModification">By modification time</string>
-    <string name="sortTypeDescCreation">By creation time</string>
+    <string name="sortTypeModifiedTimeDown">Tiempo modificado</string>
+    <string name="sortTypeCreatedTimeDown">Tiempo creado</string>
     <string name="warningSavedFailed">Error al guardar el archivo, copie el texto completo y luego reinicie la aplicación para ver si falta el contenido</string>
     <string name="backupNow">Copia ahora</string>
     <string name="summaryBackup">El archivo de copia de seguridad se guardará en la ruta /sdcard/backups</string>
@@ -234,4 +234,8 @@
     <string name="summaryExporting">Solo es válido cuando el espaciado entre párrafos está habilitado</string>
     <string name="lowProfile">Modo de enfoque de la barra de estado</string>
     <string name="chapters">Capítulos</string>
+    <string name="sortTypeTitleUp">Título ascendente</string>
+    <string name="sortTypeTitleDown">Título descendente</string>
+    <string name="sortByRank">Clasificación manual</string>
+    <string name="modifyRanks"><i><b>Hacer la clasificación manual</b></i></string>
 </resources>

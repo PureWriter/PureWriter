@@ -83,7 +83,7 @@
         <item>No</item>
     </string-array>
     <string name="promptShortcutTitle">Short description (optional)</string>
-    <string name="promptShortcutContent">Content (require)</string>
+    <string name="promptShortcutContent">Content (required)</string>
     <string name="createShortcut">Create text Shortcut</string>
     <string name="noteShortcutCursorIndex">Please move the cursor position in the content to set the placement of the cursor after inserting the article</string>
     <string name="indentShort">Indent</string>
@@ -115,8 +115,8 @@
     <string name="titleOpenImportedFile">Found that you opened an external file, please select an action</string>
     <string name="copied">Copied</string>
     <string name="sort">Sort Type</string>
-    <string name="sortTypeDescModification">By Modification Time</string>
-    <string name="sortTypeDescCreation">By Creation Time</string>
+    <string name="sortTypeModifiedTimeDown">Modified Time</string>
+    <string name="sortTypeCreatedTimeDown">Created Time</string>
     <string name="warningSavedFailed">File saved failed, please copy your full text, and then restart the App to see if the content is missing</string>
     <string name="backupNow">Back up now</string>
     <string name="summaryBackup">The backup file will be saved to the path /sdcard/backups</string>
@@ -266,4 +266,8 @@
     <string name="summaryExporting">Only valid when paragraph spacing is enabled</string>
     <string name="lowProfile">Status bar focus mode</string>
     <string name="chapters">Chapters</string>
+    <string name="sortTypeTitleUp">Title Ascending</string>
+    <string name="sortTypeTitleDown">Title Descending</string>
+    <string name="sortByRank">Manual Sorting</string>
+    <string name="modifyRanks"><i><b>Do Manual Sorting</b></i></string>
 </resources>
