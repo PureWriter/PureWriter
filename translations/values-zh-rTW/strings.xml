@@ -80,7 +80,7 @@
         <item>關閉夜間模式</item>
     </string-array>
     <string name="features">功能特性</string>
-    <string name="sendTextFailedForTooLarge">您的文字過長，無法直接傳送到其他應用程式，已經轉而幫你把文字複製到您的剪貼簿了</string>
+    <string name="sendTextFailedForTooLarge">您的文字過長，無法直接傳送到其他應用程式，已經轉而幫您把文字複製到您的剪貼簿了</string>
     <string name="hasSavedToYourAlbum">已儲存到您的相簿</string>
     <string name="previewAndSaveAs">預覽 | 另存為…</string>
     <string name="preview">預覽</string>
@@ -108,10 +108,10 @@
     <string name="backupNow">立即備份</string>
     <string name="summaryBackup">備份檔案將被儲存到 /sdcard/backups</string>
     <string name="restoreTheBackup">還原備份</string>
-    <string name="summaryRestoreTheBackup">備份檔案將從 /sdcard/backups 和 /sdcard/backups/PureWriterAutoBackups 和你的 WebDAV 雲端中讀取</string>
+    <string name="summaryRestoreTheBackup">備份檔案將從 /sdcard/backups 和 /sdcard/backups/PureWriterAutoBackups 和您的 WebDAV 雲端中讀取</string>
     <string name="backupSuccessfully">備份成功</string>
     <string name="restoreSuccessfully">還原備份成功</string>
-    <string name="tipBackupList">以下是備份檔案，點擊即可恢復備份。\n<b>如果你想從 WebDAV 雲端獲取備份，應該先登入你的 WebDAV 帳號後再進入此頁面！</b></string>
+    <string name="tipBackupList">以下是備份檔案，點擊即可恢復備份。\n<b>如果您想從 WebDAV 雲端獲取備份，應該先登入您的 WebDAV 帳號後再進入此頁面！</b></string>
     <string name="tipBackupNotExist">找不到備份檔案，請將備份檔案置於 /sdcard/backups 並重試</string>
     <string name="wordCountMode">統計字數方式</string>
     <string-array name="wordCountModeEntries">
@@ -218,7 +218,7 @@
     <string name="wordCountLong">字數統計</string>
     <string name="wordCountOfCurrentArticle">目前文章字數統計</string>
     <string name="floatingWordCount">懸浮字數統計</string>
-    <string name="tipFloatingWordCountDisabled">關閉懸浮字數統計後，你將可以在時光機中取得字數統計。</string>
+    <string name="tipFloatingWordCountDisabled">關閉懸浮字數統計後，您將可以在時光機中取得字數統計。</string>
     <string name="reduceDatabaseSize">縮小資料庫檔案，並刪除歷史記錄</string>
     <string name="deleteSuccessfully">成功刪除</string>
     <string name="reduceDatabaseSizeMessage">刪除所有文章的歷史記錄。\n只是刪除歷史記錄，文章本身不會被刪除。\n\n建議您在刪除之前最好先進行點擊進行一次備份。\n建議隔一段時間就進行一次資料庫瘦身，即刪除歷史記錄。</string>
