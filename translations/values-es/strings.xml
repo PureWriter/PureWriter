@@ -148,8 +148,8 @@
     <string name="keepScreenOn">Mantenga la pantalla en</string>
     <string name="gfmBreaksEnabled">Ajustar con un salto de línea</string>
     <string name="gfmBreaksDisabled">Necesita dos saltos de línea para representar realmente la nueva línea</string>
-    <string name="wordCountTotal">Cuenta todo</string>
-    <string name="wordCountTotalValue">Recuento de palabras de todos los artículos</string>
+    <string name="wordCountOfThisBook">Cuenta todo</string>
+    <string name="wordCountOfThisBookDescription">Recuento de palabras de este libro</string>
     <string name="timeMachineGuide">¿Qué es esto? Puedes entenderlo como una ventana de chat, o como un lugar para grabar contenido temporalmente, o algo así como el Asistente de Google. De hecho, tiene un nombre, llamado "Time Machine". Encantada de conocerte!</string>
     <string name="copyDate">Copiar fecha</string>
     <string name="books">Libros</string>
@@ -167,6 +167,7 @@
     <string name="move">Mover</string>
     <string name="timeMachine">Máquina del tiempo</string>
     <string name="listFirst">Abra la lista al inicio</string>
+    <string name="booksFirst">Abra los libros al inicio</string>
     <string name="language">Idioma</string>
     <string name="followSystem">Sigue el sistema</string>
     <string name="toastCannotRetrieveSelectedImage">No se puede recuperar la imagen seleccionada</string>
@@ -238,4 +239,7 @@
     <string name="sortTypeTitleDown">Título descendente</string>
     <string name="sortByRank">Clasificación manual</string>
     <string name="modifyRanks"><i><b>Hacer la clasificación manual</b></i></string>
+    <string name="markdownShortcutTip">Acabas de ingresar una etiqueta de Marcado, que solo funciona en el modo Marcar y previsualizar. ¿Desea habilitar el modo de reducción para usted?</string>
+    <string name="importedFileTooLargeToOpen">Su archivo es demasiado grande para abrir</string>
+    <string name="failed">Ha fallado</string>
 </resources>

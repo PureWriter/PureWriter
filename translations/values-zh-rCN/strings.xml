@@ -109,7 +109,7 @@
     <string name="summaryBackup">备份文件将被保存到 /sdcard/backups</string>
     <string name="restoreTheBackup">恢复备份</string>
     <string name="summaryRestoreTheBackup">备份文件将从 /sdcard/backups 和 /sdcard/backups/PureWriterAutoBackups 和您的 WebDAV 云盘中读取</string>
-    <string name="tipBackupList">以下是备份文件，点击即可恢复备份。\n<b>如果您想从 WebDAV 云端获取备份，应该先登陆你的 WebDAV 账号后再进入此页面！</b></string>
+    <string name="tipBackupList">以下是备份文件，点击即可恢复备份。\n<b>如果您想从 WebDAV 云端获取备份，应该先登录你的 WebDAV 账号后再进入此页面！</b></string>
     <string name="restoreSuccessfully">恢复备份成功</string>
     <string name="tipBackupNotExist">备份文件不存在，请将备份文件置于 /sdcard/backups 并重试</string>
     <string name="wordCountMode">字数统计方式</string>
@@ -149,8 +149,8 @@
     <string name="keepScreenOn">屏幕常亮</string>
     <string name="gfmBreaksEnabled">支持以一个换行符换行</string>
     <string name="gfmBreaksDisabled">需要两个换行才能真正在渲染时换行</string>
-    <string name="wordCountTotal">所有文章字数</string>
-    <string name="wordCountTotalValue">所有文章字数统计</string>
+    <string name="wordCountOfThisBook">本书字数</string>
+    <string name="wordCountOfThisBookDescription">当前书籍所有章节字数</string>
     <string name="timeMachineGuide">这是什么？ 你可以理解成一个聊天窗口，也可以理解成一个临时记录内容的地方，或类似谷歌助手。实际上，它有一个专门的名字，叫「时光机」。 很高兴见到你！</string>
     <string name="copyDate">复制日期</string>
     <string name="books">书籍</string>
@@ -168,6 +168,7 @@
     <string name="move">移动</string>
     <string name="timeMachine">时光机</string>
     <string name="listFirst">启动时打开列表</string>
+    <string name="booksFirst">启动时打开书籍列表</string>
     <string name="language">语言</string>
     <string name="followSystem">跟随系统</string>
     <string name="localPicture">本地图片</string>
@@ -242,4 +243,7 @@
     <string name="sortTypeTitleDown">标题降序</string>
     <string name="sortByRank">手动排序顺序</string>
     <string name="modifyRanks"><i><b>进行手动排序</b></i></string>
+    <string name="markdownShortcutTip">您刚输入了一个 Markdown 标记，它只在 Markdown 模式且进入预览时才会有效。请问需帮您启用 Markdown 模式吗？</string>
+    <string name="importedFileTooLargeToOpen">您的文件太大，无法打开</string>
+    <string name="failed">失败</string>
 </resources>

@@ -148,8 +148,8 @@
     <string name="keepScreenOn">Houd het scherm aan</string>
     <string name="gfmBreaksEnabled">Omloop met een regeleinde</string>
     <string name="gfmBreaksDisabled">Heeft twee regeleinden nodig om de nieuwe regel echt weer te geven</string>
-    <string name="wordCountTotal">Allen tellen</string>
-    <string name="wordCountTotalValue">Word-telling van alle artikelen</string>
+    <string name="wordCountOfThisBook">Allen tellen</string>
+    <string name="wordCountOfThisBookDescription">Word-telling van dit boek</string>
     <string name="timeMachineGuide">Wat is dit? Je kunt het begrijpen als een chatvenster of als een plaats om tijdelijk inhoud op te nemen, of iets als Google Assistent. In feite heeft het een naam, genaamd \"Time Machine.\" Aangenaam kennis te maken!</string>
     <string name="copyDate">Datum kopiëren</string>
     <string name="books">Boeken</string>
@@ -167,6 +167,7 @@
     <string name="moveTo">Verplaatsen naar</string>
     <string name="timeMachine">Tijd machine</string>
     <string name="listFirst">Open de lijst bij het opstarten</string>
+    <string name="booksFirst">Open de boeken bij het opstartenく</string>
     <string name="language">Taal</string>
     <string name="followSystem">Volg het systeem</string>
     <string name="toastCannotRetrieveSelectedImage">Kan geselecteerde foto niet ophalen</string>
@@ -238,4 +239,7 @@
     <string name="sortTypeTitleDown">Titel aflopend</string>
     <string name="sortByRank">Handmatig sorteren</string>
     <string name="modifyRanks"><i><b>Doe handmatig sorteren</b></i></string>
+    <string name="markdownShortcutTip">U hebt zojuist een Markdown-tag ingevoerd, die alleen werkt in Markdown- en preview-modus. Wilt u de modus Markeren voor u inschakelen?</string>
+    <string name="importedFileTooLargeToOpen">Uw bestand is te groot om te openen</string>
+    <string name="failed">mislukt</string>
 </resources>

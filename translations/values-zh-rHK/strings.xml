@@ -150,8 +150,8 @@
     <string name="keepScreenOn">持續開啟螢幕</string>
     <string name="gfmBreaksEnabled">支援以一個換行符號換行</string>
     <string name="gfmBreaksDisabled">需要兩個換行才能真正在繪製時換行</string>
-    <string name="wordCountTotal">所有文章字數</string>
-    <string name="wordCountTotalValue">所有文章字數統計</string>
+    <string name="wordCountOfThisBook">本書字數</string>
+    <string name="wordCountOfThisBookDescription">目前書籍所有章節字數</string>
     <string name="timeMachineGuide">這是什麼？你可以理解成一個聊天視窗，也可以理解成一個暫時記錄內容的地方，或類似 Google Assistant。實際上，它有一個專門的名字，叫「時光機」。很高興見到你！</string>
     <string name="copyDate">拷貝日期</string>
     <string name="books">書籍</string>
@@ -169,6 +169,7 @@
     <string name="move">移動</string>
     <string name="timeMachine">時光機</string>
     <string name="listFirst">啟動時開啟列表</string>
+    <string name="booksFirst">啟動時打開書籍列表</string>
     <string name="language">語言</string>
     <string name="followSystem">以系統為準</string>
     <string name="localPicture">本機圖片</string>
@@ -245,4 +246,7 @@
     <string name="sortTypeTitleDown">標題降序</string>
     <string name="sortByRank">手動排序順序</string>
     <string name="modifyRanks"><i><b>進行手動排序</b></i></string>
+    <string name="markdownShortcutTip">您剛輸入了一個 Markdown 標記，它只在 Markdown 模式且進入預覽時才會有效。請問需幫您啟用 Markdown 模式嗎？</string>
+    <string name="importedFileTooLargeToOpen">您的檔案太大，無法打開</string>
+    <string name="failed">失敗</string>
 </resources>

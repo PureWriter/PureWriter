@@ -148,8 +148,8 @@
     <string name="keepScreenOn">Не выключайте экран</string>
     <string name="gfmBreaksEnabled">Перенос слов с разрывом</string>
     <string name="gfmBreaksDisabled">Нужны два разрыва строки, чтобы сделать новую</string>
-    <string name="wordCountTotal">Все количество</string>
-    <string name="wordCountTotalValue">Количество слов всех статей</string>
+    <string name="wordCountOfThisBook">Все количество</string>
+    <string name="wordCountOfThisBookDescription">Количество слов этой книги</string>
     <string name="timeMachineGuide">Что это?  Это как окно чата или место для записи временных документов. Что-то вроде Google Assistant. Фактически, у него есть имя: «Машина времени». Приятно познакомиться!</string>
     <string name="copyDate">Дата копирования</string>
     <string name="books">Книги</string>
@@ -167,6 +167,7 @@
     <string name="move">Переместить</string>
     <string name="timeMachine">Машина времени</string>
     <string name="listFirst">Открыть список при запуске</string>
+    <string name="booksFirst">Откройте Книги при запуске</string>
     <string name="language">Язык</string>
     <string name="followSystem">Следите за системой</string>
     <string name="toastCannotRetrieveSelectedImage">Не удается найти выбранную картинку</string>
@@ -238,4 +239,7 @@
     <string name="sortTypeTitleDown">Название по убыванию</string>
     <string name="sortByRank">Ручная сортировка</string>
     <string name="modifyRanks"><i><b>Сделайте ручную сортировку</b></i></string>
+    <string name="markdownShortcutTip">Вы просто указали тег Markdown, который работает только в режиме Markdown и предварительного просмотра. Вы хотите включить режим Markdown для вас?</string>
+    <string name="importedFileTooLargeToOpen">Ваш файл слишком большой, чтобы открыть</string>
+    <string name="failed">Не смогли</string>
 </resources>

@@ -148,8 +148,8 @@
     <string name="keepScreenOn">स्क्रीन को चालू रखें</string>
     <string name="gfmBreaksEnabled">लाइन ब्रेक के साथ लपेटें</string>
     <string name="gfmBreaksDisabled">वास्तव में नई लाइन को प्रस्तुत करने के लिए दो लाइन ब्रेक्स की आवश्यकता है</string>
-    <string name="wordCountTotal">सभी लेख गिनती</string>
-    <string name="wordCountTotalValue">सभी लेखों की शब्द गणना</string>
+    <string name="wordCountOfThisBook">सभी लेख गिनती</string>
+    <string name="wordCountOfThisBookDescription">इस पुस्तक की शब्द गणना</string>
     <string name="timeMachineGuide">यह क्या है? आप इसे एक चैट विंडो के रूप में या अस्थायी रूप से सामग्री रिकॉर्ड करने के लिए या Google सहायक जैसे कुछ के रूप में समझ सकते हैं वास्तव में, इसका नाम है, जिसे \"टाइम मशीन\" कहा जाता है। आपसे मिलकर अच्छा लगा!</string>
     <string name="copyDate">तिथि कॉपी करें</string>
     <string name="books">पुस्तकें</string>
@@ -167,6 +167,7 @@
     <string name="move">चाल</string>
     <string name="timeMachine">टाइम मशीन</string>
     <string name="listFirst">स्टार्टअप पर सूची खोलें</string>
+    <string name="booksFirst">स्टार्टअप पर पुस्तकें खोलें</string>
     <string name="language">भाषा</string>
     <string name="followSystem">प्रणाली का पालन करें</string>
     <string name="toastCannotRetrieveSelectedImage">चयनित चित्र पुनः प्राप्त नहीं कर सकते</string>
@@ -238,4 +239,7 @@
     <string name="sortTypeTitleDown">शीर्षक अवरोही</string>
     <string name="sortByRank">मैनुअल सॉर्टिंग</string>
     <string name="modifyRanks"><i><b>मैनुअल सॉर्टिंग करें</b></i></string>
+    <string name="markdownShortcutTip">You just inputted a Markdown tag, which only works in Markdown and preview mode. Would you like to enable Markdown mode for you?</string>
+    <string name="importedFileTooLargeToOpen">आपकी फ़ाइल खोलने के लिए बहुत बड़ी है</string>
+    <string name="failed">अनुत्तीर्ण होना</string>
 </resources>
