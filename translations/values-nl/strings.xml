@@ -191,10 +191,10 @@
     <string name="promptShortcutOrder">Order</string>
     <string name="editShortcut">Tekst bewerken Snelkoppeling</string>
     <string name="fixedSync">Synchroniseren</string>
-    <string name="upload">Uploaden</string>
-    <string name="download">Download</string>
-    <string name="titleBackupsAndSync">Back-up en cloudsynchronisatie</string>
-    <string name="summaryBackupsAndSync">Back-up, herstel, WebDAV</string>
+    <string name="bridgeUpload">Brug: Uploaden</string>
+    <string name="bridgeDownload">Brug: Download</string>
+    <string name="backupSettingTitle">Backup</string>
+    <string name="backupSettingSummary">Back-up, herstel, WebDAV</string>
     <string name="syncNetwork">Cloud back-upnetwerk</string>
     <string name="syncOnlyWifi">Automatic backup to WebDAV cloud disk is only allowed on Wi-Fi network</string>
     <string name="syncAllNetworks">Automatic backup to WebDAV cloud disk on all networks</string>
@@ -242,4 +242,15 @@
     <string name="markdownShortcutTip">U hebt zojuist een Markdown-tag ingevoerd, die alleen werkt in Markdown- en preview-modus. Wilt u de modus Markeren voor u inschakelen?</string>
     <string name="importedFileTooLargeToOpen">Uw bestand is te groot om te openen</string>
     <string name="failed">mislukt</string>
+    <string name="insertCategoryAboveShort">Categorie (hierboven)</string>
+    <string name="insertCategoryAboveLong">Voeg een categorie toe boven het huidige artikel</string>
+    <string name="insertCategory">Categorie invoegen</string>
+    <string name="editCategory">Categorie bewerken</string>
+    <string name="category">Categorie</string>
+    <string name="deleteEmptyArticlesShort">Verwijder lege artikelen</string>
+    <string name="deleteEmptyArticlesLong">Alle artikelen verwijderen waarvan de titel en inhoud leeg zijn?</string>
+    <string name="deleteCategory">Verwijder categorie</string>
+    <string name="exportBook">Boek exporteren</string>
+    <string name="needManualSortingTitle">Noodzaak om over te schakelen naar handmatig sorteren om deze functie te gebruiken</string>
+    <string name="needManualSortingMessage">Wilt u overschakelen naar handmatig sorteren?</string>
 </resources>

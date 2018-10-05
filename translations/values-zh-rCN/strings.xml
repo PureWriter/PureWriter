@@ -194,8 +194,8 @@
     <string name="tipLandscapeOrientation">横屏模式下请使用外接键盘</string>
     <string name="promptShortcutOrder">排序</string>
     <string name="editShortcut">编辑快捷输入项</string>
-    <string name="titleBackupsAndSync">备份与云同步</string>
-    <string name="summaryBackupsAndSync">备份、恢复、WebDAV、缩减数据库大小</string>
+    <string name="backupSettingTitle">备份与云备份</string>
+    <string name="backupSettingSummary">备份、恢复、WebDAV、缩减数据库大小</string>
     <string name="syncNetwork">云备份网络</string>
     <string name="syncOnlyWifi">只在 Wi-Fi 网络下才允许自动备份到 WebDAV 云盘</string>
     <string name="syncAllNetworks">在所有网络下都允许自动备份到 WebDAV 云盘</string>
@@ -208,8 +208,8 @@
     <string name="fetchSuccessful">拉取成功</string>
     <string name="messageUpload">纯纯写作在您的云盘上创建了<b>一个固定文件</b>，文件名叫 <b>PureWriter.txt</b>，您可以点击「确定」上传当前文章的内容到这个固定文件中，然后您便可以在其他设备上编辑这个云文件，之后您可以再将它的新内容拉取下来。\n\n请问您现在确定要将当前文章内容覆盖写入到您的这个云固定文件吗？</string>
     <string name="fixedSync">云读写</string>
-    <string name="upload">云读写: 上传</string>
-    <string name="download">云读写: 拉取</string>
+    <string name="bridgeUpload">云读写: 上传</string>
+    <string name="bridgeDownload">云读写: 拉取</string>
     <string name="typewriterMode">打字机模式</string>
     <string name="edit">修改</string>
     <string name="editBook">修改书籍</string>
@@ -246,4 +246,15 @@
     <string name="markdownShortcutTip">您刚输入了一个 Markdown 标记，它只在 Markdown 模式且进入预览时才会有效。请问需帮您启用 Markdown 模式吗？</string>
     <string name="importedFileTooLargeToOpen">您的文件太大，无法打开</string>
     <string name="failed">失败</string>
+    <string name="insertCategoryAboveShort">在当前之上插入卷</string>
+    <string name="insertCategoryAboveLong">在当前文章之上插入一卷条目</string>
+    <string name="insertCategory">插入卷</string>
+    <string name="editCategory">编辑卷</string>
+    <string name="category">卷</string>
+    <string name="deleteEmptyArticlesShort">删除所有空文章</string>
+    <string name="deleteEmptyArticlesLong">删除本书内所有标题和内容皆为空白的文章</string>
+    <string name="deleteCategory">删除卷</string>
+    <string name="exportBook">合并成书导出</string>
+    <string name="needManualSortingTitle">需要切换到手动排序才能使用该功能</string>
+    <string name="needManualSortingMessage">您想切换到手动排序吗？</string>
 </resources>

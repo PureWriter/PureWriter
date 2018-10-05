@@ -191,10 +191,10 @@
     <string name="promptShortcutOrder">Order</string>
     <string name="editShortcut">पाठ शॉर्टकट संपादित करें</string>
     <string name="fixedSync">सिंक</string>
-    <string name="upload">अपलोड</string>
-    <string name="download">डाउनलोड</string>
-    <string name="titleBackupsAndSync">बैकअप और क्लाउड सिंक</string>
-    <string name="summaryBackupsAndSync">बैकअप, पुनर्स्थापित, WebDAV</string>
+    <string name="bridgeUpload">पुल: अपलोड</string>
+    <string name="bridgeDownload">पुल: डाउनलोड</string>
+    <string name="backupSettingTitle">बैकअप</string>
+    <string name="backupSettingSummary">बैकअप, पुनर्स्थापित, WebDAV</string>
     <string name="syncNetwork">क्लाउड बैकअप नेटवर्क</string>
     <string name="syncOnlyWifi">Automatic backup to WebDAV cloud disk is only allowed on Wi-Fi network</string>
     <string name="syncAllNetworks">Automatic backup to WebDAV cloud disk on all networks</string>
@@ -242,4 +242,15 @@
     <string name="markdownShortcutTip">You just inputted a Markdown tag, which only works in Markdown and preview mode. Would you like to enable Markdown mode for you?</string>
     <string name="importedFileTooLargeToOpen">आपकी फ़ाइल खोलने के लिए बहुत बड़ी है</string>
     <string name="failed">अनुत्तीर्ण होना</string>
+    <string name="insertCategoryAboveShort">श्रेणी (ऊपर)</string>
+    <string name="insertCategoryAboveLong">वर्तमान आलेख के ऊपर एक श्रेणी डालें</string>
+    <string name="insertCategory">श्रेणी डालें</string>
+    <string name="editCategory">श्रेणी संपादित करें</string>
+    <string name="category">वर्ग</string>
+    <string name="deleteEmptyArticlesShort">खाली लेख हटाएं</string>
+    <string name="deleteEmptyArticlesLong">उन सभी लेखों को हटाएं जिनके शीर्षक और सामग्री खाली हैं?</string>
+    <string name="deleteCategory">श्रेणी हटाएं</string>
+    <string name="exportBook">निर्यात पुस्तक</string>
+    <string name="needManualSortingTitle">इस सुविधा का उपयोग करने के लिए मैन्युअल सॉर्टिंग पर स्विच करने की आवश्यकता है</string>
+    <string name="needManualSortingMessage">क्या आप मैन्युअल सॉर्टिंग पर स्विच करना चाहते हैं?</string>
 </resources>

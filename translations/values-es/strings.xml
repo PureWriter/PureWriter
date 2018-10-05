@@ -191,10 +191,10 @@
     <string name="promptShortcutOrder">Order</string>
     <string name="editShortcut">Editar acceso directo de texto</string>
     <string name="fixedSync">Sincronización</string>
-    <string name="upload">Subir</string>
-    <string name="download">Descargar</string>
-    <string name="titleBackupsAndSync">Copia de seguridad y sincronización en la nube</string>
-    <string name="summaryBackupsAndSync">Copia de seguridad, restaurar, WebDAV</string>
+    <string name="bridgeUpload">Puente: Subir</string>
+    <string name="bridgeDownload">Puente: Descargar</string>
+    <string name="backupSettingTitle">Apoyo</string>
+    <string name="backupSettingSummary">Copia de seguridad, restaurar, WebDAV</string>
     <string name="syncNetwork">Red de respaldo en la nube</string>
     <string name="syncOnlyWifi">Automatic backup to WebDAV cloud disk is only allowed on Wi-Fi network</string>
     <string name="syncAllNetworks">Automatic backup to WebDAV cloud disk on all networks</string>
@@ -242,4 +242,15 @@
     <string name="markdownShortcutTip">Acabas de ingresar una etiqueta de Marcado, que solo funciona en el modo Marcar y previsualizar. ¿Desea habilitar el modo de reducción para usted?</string>
     <string name="importedFileTooLargeToOpen">Su archivo es demasiado grande para abrir</string>
     <string name="failed">Ha fallado</string>
+    <string name="insertCategoryAboveShort">Categoría (arriba)</string>
+    <string name="insertCategoryAboveLong">Insertar una categoría encima del artículo actual</string>
+    <string name="insertCategory">Insertar categoría</string>
+    <string name="editCategory">Editar categoría</string>
+    <string name="category">Categoría</string>
+    <string name="deleteEmptyArticlesShort">Eliminar artículos vacíos</string>
+    <string name="deleteEmptyArticlesLong">¿Borrar todos los artículos cuyo título y contenido están vacíos?</string>
+    <string name="deleteCategory">Eliminar categoría</string>
+    <string name="exportBook">Libro de exportación</string>
+    <string name="needManualSortingTitle">Necesitas cambiar a clasificación manual para usar esta función</string>
+    <string name="needManualSortingMessage">¿Te gustaría cambiar a la clasificación manual?</string>
 </resources>

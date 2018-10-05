@@ -191,10 +191,10 @@
     <string name="promptShortcutOrder">Порядок ярлыков</string>
     <string name="editShortcut">Редактировать текст Ярлыка</string>
     <string name="fixedSync">Синхронизация</string>
-    <string name="upload">Загрузить</string>
-    <string name="download">Скачать</string>
-    <string name="titleBackupsAndSync">Резервное копирование и облачная синхронизация</string>
-    <string name="summaryBackupsAndSync">Резервное копирование, восстановление, WebDAV</string>
+    <string name="bridgeUpload">Мост: Загрузить</string>
+    <string name="bridgeDownload">Мост: Скачать</string>
+    <string name="backupSettingTitle">Резервное копирование</string>
+    <string name="backupSettingSummary">Резервное копирование, восстановление, WebDAV</string>
     <string name="syncNetwork">Сеть облачного резервного копирования</string>
     <string name="syncOnlyWifi">Автоматическое резервное копирование на облачный диск WebDAV возможно только с включенным Wi-Fi</string>
     <string name="syncAllNetworks">Авто резервное копирование в облачный диск WebDAV во всех сетях</string>
@@ -242,4 +242,15 @@
     <string name="markdownShortcutTip">Вы просто указали тег Markdown, который работает только в режиме Markdown и предварительного просмотра. Вы хотите включить режим Markdown для вас?</string>
     <string name="importedFileTooLargeToOpen">Ваш файл слишком большой, чтобы открыть</string>
     <string name="failed">Не смогли</string>
+    <string name="insertCategoryAboveShort">Категория (выше)</string>
+    <string name="insertCategoryAboveLong">Вставьте категорию выше текущей статьи</string>
+    <string name="insertCategory">Вставить категорию</string>
+    <string name="editCategory">Изменить категорию</string>
+    <string name="category">категория</string>
+    <string name="deleteEmptyArticlesShort">Удалить пустые статьи</string>
+    <string name="deleteEmptyArticlesLong">Удалить все статьи, чей заголовок и содержание пустые?</string>
+    <string name="deleteCategory">Удалить категорию</string>
+    <string name="exportBook">Экспортная книга</string>
+    <string name="needManualSortingTitle">Необходимо переключиться на ручную сортировку, чтобы использовать эту функцию</string>
+    <string name="needManualSortingMessage">Вы хотите переключиться на ручную сортировку?</string>
 </resources>

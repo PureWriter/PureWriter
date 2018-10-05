@@ -205,10 +205,10 @@
     <string name="fetchSuccessful">拉取成功</string>
     <string name="messageUpload">純純寫作在您的雲端上建立了一個固定檔案，檔案名稱為 <b>PureWriter.txt</b>，您可以按下「確定」上傳目前文章的內容到這個固定檔案中，然後您便可以在其他裝置上編輯這個雲端檔案，之後您可以再將它的更新內容拉取下來。\n\n請問您現在確定要將目前文章內容覆蓋寫入到您的這個雲端固定檔案嗎？</string>
     <string name="fixedSync">雲端讀寫</string>
-    <string name="upload">雲端讀寫: 上傳</string>
-    <string name="download">雲端讀寫: 拉取</string>
-    <string name="titleBackupsAndSync">備份與雲端同步</string>
-    <string name="summaryBackupsAndSync">備份、還原、WebDAV、精簡資料庫大小</string>
+    <string name="bridgeUpload">雲端讀寫: 上傳</string>
+    <string name="bridgeDownload">雲端讀寫: 拉取</string>
+    <string name="backupSettingTitle">備份與雲端備份</string>
+    <string name="backupSettingSummary">備份、還原、WebDAV、精簡資料庫大小</string>
     <string name="syncNetwork">雲端備份網絡</string>
     <string name="syncOnlyWifi">只在 Wi-Fi 網絡下才允許自動備份到 WebDAV 雲端</string>
     <string name="syncAllNetworks">在所有網絡下都允許自動備份到 WebDAV 雲端</string>
@@ -249,4 +249,15 @@
     <string name="markdownShortcutTip">您剛輸入了一個 Markdown 標記，它只在 Markdown 模式且進入預覽時才會有效。請問需幫您啟用 Markdown 模式嗎？</string>
     <string name="importedFileTooLargeToOpen">您的檔案太大，無法打開</string>
     <string name="failed">失敗</string>
+    <string name="insertCategoryAboveShort">在目前之上插入卷</string>
+    <string name="insertCategoryAboveLong">在目前文章之上插入一卷條目</string>
+    <string name="insertCategory">插入卷</string>
+    <string name="editCategory">編輯卷</string>
+    <string name="category">卷</string>
+    <string name="deleteEmptyArticlesShort">刪除所有空文章</string>
+    <string name="deleteEmptyArticlesLong">刪除本書內所有標題和內容皆為空白的文章</string>
+    <string name="deleteCategory">刪除卷</string>
+    <string name="exportBook">合併成書導出</string>
+    <string name="needManualSortingTitle">需要切換到手動排序才能使用該功能</string>
+    <string name="needManualSortingMessage">您想切換到手動排序嗎？</string>
 </resources>

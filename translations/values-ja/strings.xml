@@ -191,10 +191,10 @@
     <string name="promptShortcutOrder">Order</string>
     <string name="editShortcut">Edit text Shortcut</string>
     <string name="fixedSync">同期</string>
-    <string name="upload">アップロード</string>
-    <string name="download">ダウンロード</string>
-    <string name="titleBackupsAndSync">Backup and cloud sync</string>
-    <string name="summaryBackupsAndSync">バックアップ、復元、WebDAV</string>
+    <string name="bridgeUpload">ブリッジ: アップロード</string>
+    <string name="bridgeDownload">ブリッジ: ダウンロード</string>
+    <string name="backupSettingTitle">バックアップ(Backup)</string>
+    <string name="backupSettingSummary">バックアップ、復元、WebDAV</string>
     <string name="syncNetwork">Cloud Backup Network</string>
     <string name="syncOnlyWifi">Automatic backup to WebDAV cloud disk is only allowed on Wi-Fi network</string>
     <string name="syncAllNetworks">Automatic backup to WebDAV cloud disk on all networks</string>
@@ -242,4 +242,15 @@
     <string name="markdownShortcutTip">Markdownタグを入力するだけで、Markdownとプレビューモードでのみ動作します。 マークダウンモードを有効にしますか？</string>
     <string name="importedFileTooLargeToOpen">ファイルが大きすぎて開くことができません</string>
     <string name="failed">失敗</string>
+    <string name="insertCategoryAboveShort">カテゴリ（上記）</string>
+    <string name="insertCategoryAboveLong">現在の記事の上にカテゴリを挿入する</string>
+    <string name="insertCategory">カテゴリを挿入</string>
+    <string name="editCategory">カテゴリーを編集</string>
+    <string name="category">カテゴリー</string>
+    <string name="deleteEmptyArticlesShort">空の記事を削除する</string>
+    <string name="deleteEmptyArticlesLong">タイトルと内容が空の記事をすべて削除しますか？</string>
+    <string name="deleteCategory">カテゴリを削除する</string>
+    <string name="exportBook">Export book</string>
+    <string name="needManualSortingTitle">この機能を使用するには手動ソートに切り替える必要があります</string>
+    <string name="needManualSortingMessage">手動ソートに切り替えたいですか？</string>
 </resources>

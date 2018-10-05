@@ -226,10 +226,10 @@
     <string name="promptShortcutOrder">Order</string>
     <string name="editShortcut">Edit text Shortcut</string>
     <string name="fixedSync">Fixed Sync</string>
-    <string name="upload">Upload</string>
-    <string name="download">Fetch</string>
-    <string name="titleBackupsAndSync">Backup and cloud sync</string>
-    <string name="summaryBackupsAndSync">Backup, restore, WebDAV</string>
+    <string name="bridgeUpload">Bridge: Upload</string>
+    <string name="bridgeDownload">Bridge: Fetch</string>
+    <string name="backupSettingTitle">Backup</string>
+    <string name="backupSettingSummary">Backup, restore, WebDAV</string>
     <string name="syncNetwork">Cloud Backup Network</string>
     <string name="syncOnlyWifi">Automatic backup to WebDAV cloud disk is only allowed on Wi-Fi network</string>
     <string name="syncAllNetworks">Automatic backup to WebDAV cloud disk on all networks</string>
@@ -274,4 +274,15 @@
     <string name="markdownShortcutTip">You just inputted a Markdown tag, which only works in Markdown and preview mode. Would you like to enable Markdown mode for you?</string>
     <string name="importedFileTooLargeToOpen">Your file is too large to open</string>
     <string name="failed">Failed</string>
+    <string name="insertCategoryAboveShort">Category (above)</string>
+    <string name="insertCategoryAboveLong">Insert a category above the current article</string>
+    <string name="insertCategory">Insert Category</string>
+    <string name="editCategory">Edit Category</string>
+    <string name="category">Category</string>
+    <string name="deleteEmptyArticlesShort">Delete empty Articles</string>
+    <string name="deleteEmptyArticlesLong">Delete all articles whose title and content are empty?</string>
+    <string name="deleteCategory">Delete Category</string>
+    <string name="exportBook">Export Book</string>
+    <string name="needManualSortingTitle">Need to switch to manual sorting to use this feature</string>
+    <string name="needManualSortingMessage">Would you like to switch to manual sorting?</string>
 </resources>
