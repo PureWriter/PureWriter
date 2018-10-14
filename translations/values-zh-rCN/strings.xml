@@ -181,9 +181,7 @@
     <string name="mode">模式</string>
     <string name="tipHasNotPermissionWithAutoBackup">尝试自动备份失败，因为您没有给予纯纯写作存储权限</string>
     <string name="hideTitleBarWhenPreviewingMarkdown">预览 Markdown 时隐藏标题栏</string>
-    <string name="summaryJoinBeta">点击即可加入 Beta 更新频道，可以最快获得新版更新，但 Beta 更新频率会很高，若不能接受请勿加入。</string>
     <string name="privacyPolicy">隐私政策</string>
-    <string name="joinBeta">加入 Beta 更新</string>
     <string name="beforeRestoringYourBackup">恢复备份之前</string>
     <string name="trashDescription">找回您删除的文章</string>
     <string name="messageDeleteArticlesDirectly">直接删除这些文章</string>
@@ -257,4 +255,11 @@
     <string name="exportBook">合并成书导出</string>
     <string name="needManualSortingTitle">需要切换到手动排序才能使用该功能</string>
     <string name="needManualSortingMessage">您想切换到手动排序吗？</string>
+    <string name="doubleClickToExitTip">再按一次返回键退出</string>
+    <string name="doubleClickToExit">双击返回键退出应用</string>
+    <string name="markdownCheckBoxTip">该选项是为 Markdown 提供的，勾选后，段间距和段首自动缩进都将会自动失效，如果您不熟悉 Markdown，建议您不要勾选它。\n\nMarkdown 是一种运用广泛的标记性写作语言，如果您有兴趣，可以自行上网搜索 Markdown 了解详情。</string>
+    <string name="unlockValidityPeriod">解锁失效时间</string>
+    <string name="unlockValidityPeriodSummary">%s\n提示：若按返回键退出应用则会立即加锁</string>
+    <string name="lockImmediatelyIfAway">离开时立即加锁</string>
+    <string name="lockIfAwayMoreThan3Minutes">离开超过 3 分钟时加锁</string>
 </resources>

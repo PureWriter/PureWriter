@@ -211,9 +211,7 @@
     <string name="plainText">Plain Text</string>
     <string name="tipHasNotPermissionWithAutoBackup">Attempt to auto backup failed because you did not give Pure Writer storage permission</string>
     <string name="hideTitleBarWhenPreviewingMarkdown">Hide title bar when previewing Markdown</string>
-    <string name="summaryJoinBeta">Click to join the Beta update channel, you can get the latest update as soon as possible, but Beta update frequency will be very high, if you can not accept, please do not join.</string>
     <string name="privacyPolicy">Privacy Policy</string>
-    <string name="joinBeta">Join Beta</string>
     <string name="beforeRestoringYourBackup">beforeRestoringYourBackup</string>
     <string name="trashDescription">Retrieve your deleted articles</string>
     <string name="messageDeleteArticlesDirectly">Delete these articles directly</string>
@@ -285,4 +283,11 @@
     <string name="exportBook">Export Book</string>
     <string name="needManualSortingTitle">Need to switch to manual sorting to use this feature</string>
     <string name="needManualSortingMessage">Would you like to switch to manual sorting?</string>
+    <string name="doubleClickToExit">Double click the back key to exit the app</string>
+    <string name="doubleClickToExitTip">Click BACK again to exit</string>
+    <string name="markdownCheckBoxTip">This checkbox is provided for Markdown. When checked, the paragraph spacing and automatic indentation will automatically become disabled. If you are not familiar with Markdown, it is recommended that you do not check it. \n\nMarkdown is a widely used markup writing language. If you are interested in it, you can search the Markdown online for details.</string>
+    <string name="unlockValidityPeriod">Unlock Validity Period</string>
+    <string name="unlockValidityPeriodSummary">%s\nNote: if you press the Back to exit the app, it will be locked next time</string>
+    <string name="lockImmediatelyIfAway">Lock immediately if away</string>
+    <string name="lockIfAwayMoreThan3Minutes">Lock if away more than 3 minutes</string>
 </resources>

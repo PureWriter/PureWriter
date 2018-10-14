@@ -180,9 +180,7 @@
     <string name="plainText">Platte tekst</string>
     <string name="tipHasNotPermissionWithAutoBackup">Attempt to auto backup failed because you did not give Pure Writer storage permission</string>
     <string name="hideTitleBarWhenPreviewingMarkdown">Verberg de titelbalk tijdens het bekijken van Markdown</string>
-    <string name="summaryJoinBeta">Click to join the Beta update channel, you can get the latest update as soon as possible, but Beta update frequency will be very high, if you can not accept, please do not join.</string>
     <string name="privacyPolicy">Privacybeleid</string>
-    <string name="joinBeta">Word lid van Beta</string>
     <string name="beforeRestoringYourBackup">beforeRestoringYourBackup</string>
     <string name="trashDescription">Haal uw verwijderde artikelen op</string>
     <string name="messageDeleteArticlesDirectly">Verwijder deze artikelen direct</string>
@@ -253,4 +251,11 @@
     <string name="exportBook">Boek exporteren</string>
     <string name="needManualSortingTitle">Noodzaak om over te schakelen naar handmatig sorteren om deze functie te gebruiken</string>
     <string name="needManualSortingMessage">Wilt u overschakelen naar handmatig sorteren?</string>
+    <string name="doubleClickToExit">Double click the back key to exit the app</string>
+    <string name="doubleClickToExitTip">Click BACK again to exit</string>
+    <string name="markdownCheckBoxTip">Dit selectievakje is beschikbaar voor Markdown. Indien aangevinkt, worden de alinea-tussenruimte en automatische inspringing automatisch uitgeschakeld. Als u niet bekend bent met Markdown, wordt u geadviseerd dit niet aan te vinken. \n\nMarkdown is een veelgebruikte markup-schrijftaal. Als je hierin geïnteresseerd bent, kun je online zoeken naar de Markdown voor details.</string>
+    <string name="unlockValidityPeriodSummary">%s\nOpmerking: als u op Terug drukt om de app af te sluiten, wordt deze de volgende keer vergrendeld</string>
+    <string name="unlockValidityPeriod">Ontgrendel geldigheidsperiode</string>
+    <string name="lockImmediatelyIfAway">Sluit hem onmiddellijk als hij weg is</string>
+    <string name="lockIfAwayMoreThan3Minutes">Vergrendel indien langer dan 3 minuten</string>
 </resources>

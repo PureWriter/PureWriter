@@ -180,9 +180,7 @@
     <string name="plainText">Texto sin formato</string>
     <string name="tipHasNotPermissionWithAutoBackup">Attempt to auto backup failed because you did not give Pure Writer storage permission</string>
     <string name="hideTitleBarWhenPreviewingMarkdown">Ocultar barra de título al previsualizar Markdown</string>
-    <string name="summaryJoinBeta">Click to join the Beta update channel, you can get the latest update as soon as possible, but Beta update frequency will be very high, if you can not accept, please do not join.</string>
     <string name="privacyPolicy">Política de privacidad</string>
-    <string name="joinBeta">Únete a Beta</string>
     <string name="beforeRestoringYourBackup">beforeRestoringYourBackup</string>
     <string name="trashDescription">Recupera tus artículos eliminados</string>
     <string name="messageDeleteArticlesDirectly">Eliminar estos artículos directamente</string>
@@ -253,4 +251,11 @@
     <string name="exportBook">Libro de exportación</string>
     <string name="needManualSortingTitle">Necesitas cambiar a clasificación manual para usar esta función</string>
     <string name="needManualSortingMessage">¿Te gustaría cambiar a la clasificación manual?</string>
+    <string name="doubleClickToExitTip">Haga clic en la tecla Atrás de nuevo para salir</string>
+    <string name="doubleClickToExit">Haga doble clic en la tecla Atrás para salir de la aplicación.</string>
+    <string name="markdownCheckBoxTip">Esta casilla de verificación se proporciona para Markdown. Cuando está marcado, el espacio entre párrafos y la sangría automática se desactivarán automáticamente. Si no está familiarizado con Markdown, se recomienda que no lo marque. \n\nMarkdown es un lenguaje de escritura de marcado ampliamente utilizado. Si está interesado en él, puede buscar en Markdown en línea para obtener más detalles.</string>
+    <string name="unlockValidityPeriodSummary">%s\nNota: si presiona Atrás para salir de la aplicación, se bloqueará la próxima vez</string>
+    <string name="unlockValidityPeriod">Desbloquear periodo de validez</string>
+    <string name="lockImmediatelyIfAway">Bloquear inmediatamente si está lejos</string>
+    <string name="lockIfAwayMoreThan3Minutes">Bloquear si se aleja más de 3 minutos.</string>
 </resources>
