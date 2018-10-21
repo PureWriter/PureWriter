@@ -180,9 +180,7 @@
     <string name="plainText">सादे पाठ</string>
     <string name="tipHasNotPermissionWithAutoBackup">Attempt to auto backup failed because you did not give Pure Writer storage permission</string>
     <string name="hideTitleBarWhenPreviewingMarkdown">Hide title bar when previewing Markdown</string>
-    <string name="summaryJoinBeta">Click to join the Beta update channel, you can get the latest update as soon as possible, but Beta update frequency will be very high, if you can not accept, please do not join.</string>
     <string name="privacyPolicy">गोपनीयता नीति</string>
-    <string name="joinBeta">Join Beta</string>
     <string name="beforeRestoringYourBackup">beforeRestoringYourBackup</string>
     <string name="trashDescription">अपने हटाए गए लेख पुनर्प्राप्त करें</string>
     <string name="messageDeleteArticlesDirectly">इन लेखों को सीधे हटाएं</string>
@@ -253,4 +251,11 @@
     <string name="exportBook">निर्यात पुस्तक</string>
     <string name="needManualSortingTitle">इस सुविधा का उपयोग करने के लिए मैन्युअल सॉर्टिंग पर स्विच करने की आवश्यकता है</string>
     <string name="needManualSortingMessage">क्या आप मैन्युअल सॉर्टिंग पर स्विच करना चाहते हैं?</string>
+    <string name="doubleClickToExit">Double click the back key to exit the app</string>
+    <string name="doubleClickToExitTip">Click BACK again to exit</string>
+    <string name="markdownCheckBoxTip">This checkbox is provided for Markdown. When checked, the paragraph spacing and automatic indentation will automatically become disabled. If you are not familiar with Markdown, it is recommended that you do not check it. \n\nMarkdown is a widely used markup writing language. If you are interested in it, you can search the Markdown online for details.</string>
+    <string name="unlockValidityPeriodSummary">%s\nनोट: यदि आप ऐप से बाहर निकलने के लिए बैक दबाते हैं, तो अगली बार लॉक हो जाएगा</string>
+    <string name="unlockValidityPeriod">वैधता अवधि अनलॉक करें</string>
+    <string name="lockImmediatelyIfAway">अगर तुरंत दूर ताला लगाओ</string>
+    <string name="lockIfAwayMoreThan3Minutes">3 मिनट से अधिक दूर लॉक करें</string>
 </resources>

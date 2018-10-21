@@ -180,9 +180,7 @@
     <string name="plainText">Простой текст</string>
     <string name="tipHasNotPermissionWithAutoBackup">Попытка автоматического резервного копирования не удалась: вы не дали Pure Writer разрешение на хранение</string>
     <string name="hideTitleBarWhenPreviewingMarkdown">Скрыть панель заголовка при предварительном просмотре Markdown</string>
-    <string name="summaryJoinBeta">Нажмите, чтобы присоединиться к каналу обновления бета-версии. Вы будете получать последние обновления раньше других, но частота обновления бета-версии будет очень высокой. Пжалуйста, не присоединяйтесь, если вы не можете это принять</string>
     <string name="privacyPolicy">Политика конфиденциальности</string>
-    <string name="joinBeta">Присоединиться к Бета</string>
     <string name="beforeRestoringYourBackup">Перед восстановлением резервной копии</string>
     <string name="trashDescription">Получить удаленные статьи</string>
     <string name="messageDeleteArticlesDirectly">Удалите эти статьи напрямую</string>
@@ -253,4 +251,11 @@
     <string name="exportBook">Экспортная книга</string>
     <string name="needManualSortingTitle">Необходимо переключиться на ручную сортировку, чтобы использовать эту функцию</string>
     <string name="needManualSortingMessage">Вы хотите переключиться на ручную сортировку?</string>
+    <string name="doubleClickToExit">Double click the back key to exit the app</string>
+    <string name="doubleClickToExitTip">Click BACK again to exit</string>
+    <string name="markdownCheckBoxTip">Этот флажок установлен для Markdown. Если флажок установлен, интервал абзаца и автоматический отступ автоматически отключится. Если вы не знакомы с Markdown, рекомендуется не проверять его. \n\nMarkdown - широко используемый язык разметки. Если вас это интересует, вы можете выполнить поиск в Markdown онлайн для получения более подробной информации.</string>
+    <string name="unlockValidityPeriodSummary">%s\nПримечание: если вы нажмете Назад для выхода из приложения, она будет заблокирована в следующий раз</string>
+    <string name="unlockValidityPeriod">Разблокировать срок действия</string>
+    <string name="lockImmediatelyIfAway">Заблокировать немедленно, если</string>
+    <string name="lockIfAwayMoreThan3Minutes">Блокировка при прохождении более 3 минут</string>
 </resources>

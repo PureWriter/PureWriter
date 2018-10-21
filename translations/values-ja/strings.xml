@@ -180,9 +180,7 @@
     <string name="plainText">テキスト</string>
     <string name="tipHasNotPermissionWithAutoBackup">Attempt to auto backup failed because you did not give Pure Writer storage permission</string>
     <string name="hideTitleBarWhenPreviewingMarkdown">Hide title bar when previewing Markdown</string>
-    <string name="summaryJoinBeta">Click to join the Beta update channel, you can get the latest update as soon as possible, but Beta update frequency will be very high, if you can not accept, please do not join.</string>
     <string name="privacyPolicy">個人情報保護方針</string>
-    <string name="joinBeta">Join Beta</string>
     <string name="beforeRestoringYourBackup">beforeRestoringYourBackup</string>
     <string name="trashDescription">削除した記事を取得する</string>
     <string name="messageDeleteArticlesDirectly">これらの記事を直接削除する</string>
@@ -253,4 +251,11 @@
     <string name="exportBook">Export book</string>
     <string name="needManualSortingTitle">この機能を使用するには手動ソートに切り替える必要があります</string>
     <string name="needManualSortingMessage">手動ソートに切り替えたいですか？</string>
+    <string name="doubleClickToExit">Double click the back key to exit the app</string>
+    <string name="doubleClickToExitTip">Click BACK again to exit</string>
+    <string name="markdownCheckBoxTip">このチェックボックスは、Markdownのために用意されています。 チェックすると、段落の間隔と自動インデントが自動的に無効になります。 Markdownに慣れていない場合は、チェックしないことをお勧めします。\n\nMarkdownは広く使われているマークアップ言語です。 興味があれば、オンラインでMarkdownを検索することができます。</string>
+    <string name="unlockValidityPeriodSummary">%s\n注：[戻る]を押してアプリを終了すると、次回はロックされます</string>
+    <string name="unlockValidityPeriod">有効期間のロックを解除</string>
+    <string name="lockImmediatelyIfAway">離れているとすぐにロックする</string>
+    <string name="lockIfAwayMoreThan3Minutes">3分以上離れるとロックする</string>
 </resources>
