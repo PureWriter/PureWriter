@@ -1,154 +1,154 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="pureWriter">Pure Writer</string>
     <string name="appNameDebug" translatable="false">纯纯写作 β</string>
-    <string name="titleHint">Please enter a Title</string>
+    <string name="titleHint">Title</string>
     <string name="editorHintTitle" translatable="false">@string/titleHint</string>
-    <string name="editorTipAMenu">You need to select a text to operate</string>
-    <string name="editorHintContent">Please enter the text</string>
-    <string name="hintDrawerHeader">Fast, excellent experience, never lose content</string>
+    <string name="editorTipAMenu">You\'ll need to choose some text first</string>
+    <string name="editorHintContent">Start writing some content…</string>
+    <string name="hintDrawerHeader">Fast | Awesome experience | Never lose your content</string>
     <string name="navigationDrawerOpen" translatable="false">Open navigation drawer</string>
     <string name="navigationDrawerClose" translatable="false">Close navigation drawer</string>
 
     <string name="undo">Undo</string>
     <string name="redo">Redo</string>
-    <string name="about">About | Guide</string>
+    <string name="about">About | Help</string>
 
-    <string name="defaultContent">Nice to meet you!\nThis is a quick plain text editor, we hope that writing can return to the original: <b>Pure, safe, at any time, do not lose the content, super reliable.</b>\nPure Writer achieves the perfect line spacing and paragraph spacing on the Android platform, and it makes your text look more comfortable and clear. At the same time, it also achieves a smooth scrolling, swiping down to close the soft keyboard, and many pleasing details.\nSimplicity is hidden complexity. You can interrupt or continue writing anytime, anywhere, and can quickly encrypt your text with fingerprints. In addition, it can easily and quickly send the text to other Apps. We have all done this for you.\nThe most important, <b>When using this editor, it will ensure that your content will never be lost. Even if you mistakenly delete the text, or instantly power off, you will still be able to recover it from history. </b>\nOnce you have finished writing an article, you can use the Send button to send it to other Apps, or you can open a new article.\nNow you can try to clear this page and carry out your creation. The Clear button is in the menus. If misuse, you can also recover it from the history. We regard your creation as the most important treasure.\nPlease enjoy it.</string>
-    <string name="share">Send To An App</string>
-    <string name="copyTitle">Copy The Title</string>
+    <string name="defaultContent">Nice to meet you!\nThis is a fast plain text editor designed with what we believe \"a good writing experience\" should be. Pure Writer is <b>minimalistic and it allows you to write at your heart\'s content anytime, anywhere without fearing that you\'ll lose your content ever again.</b>\nWith Pure Writer\'s line and paragraph spacing feature, your text will be clearer and more comfortable to read. Not only that, it also has smooth scrolling, swipe-to-collapse-keyboard and many more exciting features. \nSimplicity is hidden complexity. You are able to encrypt your work with your fingerprint, start or stop writing whenever you wish, and share your content quickly to other apps - we\'ve got you covered. \nMost importantly, <b>unless you manually delete it, you will never ever lose your work while using this text editor. Be it an accidental deletion or an unexpected shut down, you will still be able to recover it from the History.</b>\nWhen you are satisfied with your content, you can select the share button on the top right corner of the screen and send it elsewhere or start a new article. \nYou can now clear this page with the clear button on the top right corner of this screen and start writing. If you accidentally delete anything, you will be able to recover it from the History records. \nWe value your work and hope you\'ll enjoy using Pure Writer.</string>
+    <string name="share">Share to another App</string>
+    <string name="copyTitle">Copy the Title</string>
     <string name="lock">Lock</string>
     <string name="history"><b>History</b></string>
-    <string name="tipShouldUnlock">Should unlock first</string>
+    <string name="tipShouldUnlock">Please unlock first</string>
     <string name="slogan" translatable="false">@string/hintDrawerHeader</string>
-    <string name="tipShouldSetupFingerprint">Should create fingerprint first</string>
-    <string name="sendContentTo">Send This Content To:</string>
-    <string name="failedTitleIsEmpty">Failed: the title is empty</string>
-    <string name="failedContentIsEmpty">Failed: the content is empty</string>
-    <string name="copyTheTitleSuccessfully">Copied the title successfully</string>
-    <string name="copyTheContentSuccessfully">Copied the content successfully</string>
-    <string name="tipDestroyArticleSuccessfully">Destroyed this article successfully, and you could revert it from history page</string>
-    <string name="titleAndContentAreEmpty">Title and content are empty</string>
-    <string name="clearThisPage">Clear This Page</string>
-    <string name="copyContent">Copy The Content</string>
+    <string name="tipShouldSetupFingerprint">Create a fingerprint unlock in Settings first!</string>
+    <string name="sendContentTo">Send content to: </string>
+    <string name="failedTitleIsEmpty">Title cannot be empty</string>
+    <string name="failedContentIsEmpty">Content cannot be empty</string>
+    <string name="copyTheTitleSuccessfully">Copied the title successfully!</string>
+    <string name="copyTheContentSuccessfully">Copied the content successfully!</string>
+    <string name="tipDestroyArticleSuccessfully">Deleted successfully. You can recover it from History if this is accidental</string>
+    <string name="titleAndContentAreEmpty">Title and content are empty!</string>
+    <string name="clearThisPage">Clear this page</string>
+    <string name="copyContent">Copy the Content</string>
     <string name="appRecommendationTitle">Recommendation</string>
-    <string name="appPureMosaic">PureMosaic</string>
+    <string name="appPureMosaic">Pure Mosaic</string>
     <string name="wordCountShort">Count</string>
     <string name="wordCountLong">Word Count</string>
-    <string name="wordCountOfCurrentArticle">Word Count Of Current Article</string>
+    <string name="wordCountOfCurrentArticle">Total Word Count of Current Article</string>
     <string name="floatingWordCount">Floating Word Count</string>
-    <string name="historyState">Saved Record</string>
-    <string name="todayIs">Today Is</string>
-    <string name="tipNeedFingerprint">Need fingerprint unlock to view and edit</string>
+    <string name="historyState">Saved</string>
+    <string name="todayIs">Today is</string>
+    <string name="tipNeedFingerprint">To view and edit, please use your fingerprint to unlock first</string>
     <string name="empty">Empty</string>
     <string name="untitled">Untitled</string>
-    <string name="isRevertToThisFile">Revert to this file?</string>
+    <string name="isRevertToThisFile">Recover this document?</string>
     <string name="formatWarningRevertFile" translatable="false">%s:\n\n%s</string>
-    <string name="noMore">No more</string>
-    <string name="tipNoMoreAndLimitFormat">No more, and we only save %d histories</string>
-    <string name="goOn">Go on</string>
-    <string name="reject">Reject</string>
-    <string name="titleIntroCard">Used to write anything</string>
+    <string name="noMore">Nothing more!</string>
+    <string name="tipNoMoreAndLimitFormat">Nothing more，we\'ll only save %d files</string>
+    <string name="goOn">Continue</string>
+    <string name="reject">Refuse</string>
+    <string name="titleIntroCard">Pure Writer</string>
     <string name="defaultTitle">As you wish</string>
     <string name="adUnitIdLight" translatable="false">ca-app-pub-9494072807329103/7317154675</string>
 
-    <string name="tipPermissionFailed">Permission fetch failed and will not be able to save the record</string>
-    <string name="titleStorePermissionFailed">The storage permission request failed</string>
-    <string name="tipMessageStoragePermissionFirst">We need permission to automatically back up your articles, in order to prevent your articles from being lost, please grant permission.</string>
-    <string name="tipMessageStoragePermissionToSettings">We need permission to automatically back up your articles, please go to the settings page to manually grant the permission, otherwise, the history function can not be used normally!</string>
-    <string name="actionOkGoSettings">Well, go to Settings</string>
-    <string name="tipFingerAuthRetry">Failed to unlock the fingerprint, the remaining number of retries: %d</string>
-    <string name="tipFingerAuthFailed" tools:ignore="TypographyEllipsis">Failed to unlock the fingerprint, please try again after 1 minute, the program is about to exit ...</string>
-    <string name="tipTitleLengthLimit">The title supports up to 100 characters</string>
-    <string name="tipRichText">Pure Writer is committed to creating a pure and good plain text writing experience, so it is not intended to support rich text content. At this time, you may see the text in the presentation with <b> bold text </b>, boldface is hidden, no open, because bold can not be expressed in the TXT file, sorry, please forgive me! If you have a better suggestion, please join the feedback group to tell me, thank you for your support!</string>
+    <string name="tipPermissionFailed">Permission isn\'t granted. History cannot be saved.</string>
+    <string name="titleStorePermissionFailed">Storage permission denied</string>
+    <string name="tipMessageStoragePermissionFirst">Please give us the permission to access your storage. Pure Writer will only use it to auto backup your files to prevent you from losing them!</string>
+    <string name="tipMessageStoragePermissionToSettings">We need access to your storage to auto backup your files. Please grant the access manually in your device\'s Settings!</string>
+    <string name="actionOkGoSettings">Go to Settings</string>
+    <string name="tipFingerAuthRetry">Unable to recognize fingerprint. You have %d attempt(s) left.</string>
+    <string name="tipFingerAuthFailed">Fingerprint suspended. Please try again in 1 minute. Exiting Pure Writer…</string>
+    <string name="tipTitleLengthLimit">Title text limited to 100 characters</string>
+    <string name="tipRichText">Pure Writer aims to give users a minimalistic writing environment, so there are no plans to include the Rich Text feature in future developments. You might\'ve noticed some <b>bold text</b> in the preview, but that\'s because it\'s a hidden feature --also, boldface cannot be displayed in .txt files. Sorry! If you have better suggestions, do reach out to me. Thanks for your support!</string>
     <string name="settings">Settings</string>
-    <string name="settingsAndRecommendation">Settings &amp; My other Apps</string>
+    <string name="settingsAndRecommendation">Settings &amp; Other apps by me</string>
     <string name="on">On</string>
     <string name="off">Off</string>
-    <string name="shortcutBar">Shortcut Bar</string>
-    <string name="insertBlankLinesWhenExporting">Insert Blank Lines When Exporting</string>
+    <string name="shortcutBar">Shortcut bar</string>
+    <string name="insertBlankLinesWhenExporting">Add extra lines when exporting</string>
     <string name="indent">Indent</string>
     <string name="format">Format</string>
-    <string name="contentTextSize">Content Text Size</string>
+    <string name="contentTextSize">Content font size</string>
     <string name="iKnow">I know</string>
-    <string name="tipIndent">Note: The segmentation indentation setting item will not change the existing text</string>
+    <string name="tipIndent">Note: Indentation will not affect the existing text</string>
     <string name="explanation">Explanation</string>
-    <string name="tipInsertBlankLines">If this setting is Yes, when copying or sending text, it will automatically insert a blank line after each line of the text, because there is no good spacing in other Apps.</string>
-    <string name="deleteObsoleteFiles">Delete Obsolete Files</string>
-    <string name="dayNightMode">Night Mode</string>
-    <string name="summaryPay">Unlock advanced features</string>
-    <string name="tipSettingNotSupport">Temporarily can not set this. Coming soon.</string>
+    <string name="tipInsertBlankLines">While this setting is on, an extra line will be added in each paragraph when the text is copied or shared. As the special paragraph spacing is only provided in Pure Writer, extra lines are necessary to have the same effect outside this app.</string>
+    <string name="deleteObsoleteFiles">Delete obsolete files</string>
+    <string name="dayNightMode">Night mode</string>
+    <string name="summaryPay">Get Pro features</string>
+    <string name="tipSettingNotSupport">This setting is still under development.</string>
     <string-array name="nightModeEntries">
         <item>Auto</item>
-        <item>Yes</item>
-        <item>No</item>
+        <item>Night mode ON</item>
+        <item>Night mode OFF</item>
     </string-array>
-    <string name="promptShortcutTitle">Short description (optional)</string>
-    <string name="promptShortcutContent">Content (required)</string>
-    <string name="createShortcut">Create text Shortcut</string>
+    <string name="promptShortcutTitle">Shortcut description (optional)</string>
+    <string name="promptShortcutContent">Shortcut content (required)</string>
+    <string name="createShortcut">Create text shortcut</string>
     <string name="noteShortcutCursorIndex">Please move the cursor position in the content to set the placement of the cursor after inserting the article</string>
     <string name="indentShort">Indent</string>
     <string name="copy" translatable="false">@android:string/copy</string>
     <string name="delete">Delete</string>
     <string name="messageDeleteShortcut">Click OK to delete this shortcut</string>
-    <string name="linksCard" translatable="false">Pure Writer 3.0 - Never Lose Content Editor\nhttps://medium.com/@drakeet/pure-writer-3-0-never-lost-content-editor-419fc75a6f9d\n\n纯纯写作 3.0 - 愿文字带我们穿越时光，连接过去，遥想未来\nhttps://sspai.com/post/43650</string>
+    <string name="linksCard" translatable="false">Pure Writer - Never Lose Content Editor\nhttps://medium.com/@drakeet/pure-writer-3-0-never-lost-content-editor-419fc75a6f9d\n\n纯纯写作 - 愿文字带我们穿越时光，连接过去，遥想未来\nhttps://sspai.com/post/43650</string>
     <string name="features">Features</string>
     <string name="sendTextFailedForTooLarge">Your text is too long to be sent directly to another Apps. It has already copied the text to your clipboard</string>
-    <string name="previewAndSaveAs">Preview | Save As…</string>
-    <string name="hasSavedToYourAlbum">Saved to your album</string>
+    <string name="previewAndSaveAs">Preview | Save as…</string>
+    <string name="hasSavedToYourAlbum">Saved to album</string>
     <string name="preview">Preview</string>
-    <string name="proReadMe">If you think Pure Writer is great, and hope that it can be better, are you willing to spend a little money as an incentive for the developer?\n\nThis enables us to stick to good direction, create conscience products, and inspire more independent developers.\n\nYou can click the \"GOOGLE PLAY\" button to open Google Pay Payment. As a return, Pure Writer will provide <b>ad-free</b> state and all Pro contents for you. Thank you very much!</string>
-    <string name="tipRequirePro">Need to buy Pure Writer Pro</string>
+    <string name="proReadMe">If you feel that Pure Writer is helpful, and wish that it continues to develop, would you mind contributing a few bucks to the developer?\n\nYour support encourages independent developers like me to develop and bring more well-built apps to you. \n\nTo support, you can click on the Google Play or AliPay button. <b>After contributing, you will receive Pro features such as "Save as", "Custom Paper / Background" and also future updates for free as a token of appreciation.</b>\nBecause of supporters like you, Pure Writer strives to be better and updated. Lastly, thanks for your support! </string>
+    <string name="tipRequirePro">This is a Pro feature</string>
     <string name="ok">OK</string>
     <string name="cancel">Cancel</string>
     <string name="yes">OK</string>
     <string name="no">Cancel</string>
-    <string name="summaryPaid">Acquired: Pure Writer Pro</string>
+    <string name="summaryPaid">Pro activated</string>
     <string name="labelUpdate">A new Pure Writer %1$s is available</string>
     <string name="update">Update</string>
-    <string name="messageDeleteArticlesToTrash">Do you want to delete these articles and move them to the trash?</string>
-    <string name="tipPurchasedStatusFailed">Purchased. If the status is not refreshed, try clicking the Pro item again and will NOT deduct your money again.</string>
-    <string name="createNew">New Article</string>
-    <string name="autoLock">Auto Lock</string>
+    <string name="messageDeleteArticlesToTrash">Are you sure you want to delete these articles and move them to the trash?</string>
+    <string name="tipPurchasedStatusFailed">Purchased. If the purchase status did not update, please try clicking the Pro item again (you will not be double charged in doing so)</string>
+    <string name="createNew">Create new article</string>
+    <string name="autoLock">Auto-lock</string>
     <string name="enabled">Enabled</string>
     <string name="appLinks">Android Links</string>
     <string name="googlePlay" translatable="false">Google Play</string>
     <string name="titleOpenImportedFile">Found that you opened an external file, please select an action</string>
     <string name="copied">Copied</string>
-    <string name="sort">Sort Type</string>
-    <string name="sortTypeModifiedTimeDown">Modified Time</string>
-    <string name="sortTypeCreatedTimeDown">Created Time</string>
-    <string name="warningSavedFailed">File saved failed, please copy your full text, and then restart the App to see if the content is missing</string>
-    <string name="backupNow">Back Up Now</string>
-    <string name="summaryBackup">The backup file will be saved to the path /sdcard/backups</string>
-    <string name="restoreTheBackup">Restore The Backup</string>
-    <string name="summaryRestoreTheBackup">The backup file will be read from these paths: /sdcard/backups and /sdcard/backups/PureWriterAutoBackups and your WebDAV cloud disk</string>
-    <string name="backupSuccessfully">Backup successful</string>
-    <string name="restoreSuccessfully">Restore the backup successfully</string>
-    <string name="tipBackupList">The following is all the backup files, click to restore the backup. \n<b>If you want to get backups from the WebDAV cloud, you should log in to your WebDAV account before entering this page!</b></string>
-    <string name="tipBackupNotExist">The backup file does not exist. Please put the backup file in /sdcard/backups and try again</string>
-    <string name="wordCountMode">Word Count Mode</string>
+    <string name="sort">Sort type</string>
+    <string name="sortTypeModifiedTimeDown">Time Modified</string>
+    <string name="sortTypeCreatedTimeDown">Time Created</string>
+    <string name="warningSavedFailed">Article save failed. Please copy your content and try restarting the app to check if any content is lost.</string>
+    <string name="backupNow">Backup now</string>
+    <string name="summaryBackup">Backup file will be saved to /sdcard/backups</string>
+    <string name="restoreTheBackup">Restore the backup</string>
+    <string name="summaryRestoreTheBackup">Backup file will be retrieved from /sdcard/backups, /sdcard/backups/PureWriterAutoBackups and your WebDAV</string>
+    <string name="backupSuccessfully">Backup successfully</string>
+    <string name="restoreSuccessfully">Backup restored successfully</string>
+    <string name="tipBackupList">Here\'re your backup files. You can click to restore them.\n<b>If you wish to retrieve backup files from WebDAV, please login to your WebDAV account first!</b></string>
+    <string name="tipBackupNotExist">The backup file does not exist. Please place the backup file in /sdcard/backups and try again.</string>
+    <string name="wordCountMode">Word count mode</string>
     <string-array name="wordCountModeEntries">
-        <item>Exclude spaces and line break</item>
+        <item>Exclude spaces and line breaks</item>
         <item>Include all symbols and text</item>
     </string-array>
-    <string name="fab">Home Floating Button</string>
-    <string name="tipFab">Tip: Long press it on the home page can hide it temporarily</string>
-    <string name="tipCannotCreateNewWhenEmpty">New article cannot be created when both title and content are empty</string>
+    <string name="fab">Home Floating Action Button</string>
+    <string name="tipFab">Tip: Long press the Home Floating Action Button to hide it temporarily</string>
+    <string name="tipCannotCreateNewWhenEmpty">Can\'t create new article when title and content are both blank! You can still create it through the button in the top right corner of the menu though.</string>
     <string name="more">More</string>
-    <string name="notSupportOpeningTheLink">Not support opening the link</string>
+    <string name="notSupportOpeningTheLink">Link not supported</string>
     <string name="formatters">Formatters</string>
-    <string name="formatterSpace">Insert a space between Chinese and English</string>
-    <string name="formatterIndent">Insert indentation at the beginning of all paragraphs</string>
-    <string name="formatterLineBreak">Leave a blank line between the paragraphs</string>
+    <string name="formatterSpace">Include a space between Chinese and English words</string>
+    <string name="formatterIndent">Insert indentation at the start of all paragraphs</string>
+    <string name="formatterLineBreak">Leave a blank line between paragraphs</string>
     <string name="formatterRemoveBreak">Remove all blank lines between the paragraphs</string>
-    <string name="titleAsAWordForACount">As A Word For A Count</string>
+    <string name="titleAsAWordForACount">Count words individually</string>
     <string name="trash">Trash</string>
     <string name="fixedAppBarLayoutBehavior" translatable="false">com.drakeet.purewriter.widget.FixedAppBarLayoutBehavior</string>
 
     <!--alipay-->
     <string name="alipay" translatable="false">支付宝</string>
     <string name="active" translatable="false">激活</string>
-    <string name="alipayReadMe" translatable="false">使用支付宝购买 Pro 激活码，您需点击「<b>购买激活码</b>」按钮跳转到支付宝，并转账支付 <b>${RMB}</b> 元。\n\n<b>drakeet 会很快再转账 0.03 元给你，在这笔转账的备注里将包含激活码，您点击转账内容长按复制激活码到这个页面填入即可</b>。\n\n激活码永久有效，可换设备使用，但同一时间只能用于一个设备。</string>
+    <string name="alipayReadMe" translatable="false">使用支付宝购买 Pro 激活码，您需点击「<b>购买激活码</b>」按钮跳转到支付宝，并转账支付 <b>${RMB}</b> 元。\n\n<b>Drakeet 会很快再转账 0.03 元给你，在这笔转账的备注里将包含激活码，您点击转账内容长按复制激活码到这个页面填入即可</b>。\n\n激活码永久有效，可换设备使用，但同一时间只能用于一个设备。</string>
     <string name="alipayReadMe2" translatable="false">注：<b>若您很久都没有收到激活码</b>，可通过邮件与我联系: drakeet@drakeet.com\n或<b>加我的支付宝为好友</b>，我将给您补偿。\n\n纯纯写作因您的支持而能够不停更新、完善，非常感谢您的支持！</string>
     <string name="alipayReadMeInvalid" translatable="false">检查到您的激活码用于另外的设备，您需要重新在当前设备输入您的激活码才能恢复本设备的付费状态。</string>
     <string name="alipayPay" translatable="false">购买激活码</string>
@@ -156,137 +156,137 @@
 
     <string name="papers">Papers</string>
     <string name="custom">Custom</string>
-    <string name="promptCustomPaper">Color or image URL</string>
-    <string name="readMeCustomPaper">Please enter the RGB color value or image URL, such as #000000 or https://unsplash.com/photos/x.jpg</string>
+    <string name="promptCustomPaper">RGB value or image URL link</string>
+    <string name="readMeCustomPaper">Please insert a RGB value or an Image link, i.e. #000000 or https://unsplash.com/photos/x.jpg</string>
     <string name="apply">Apply</string>
-    <string name="defaultDark">Default Dark</string>
-    <string name="pureWhite">Pure White</string>
-    <string name="titleAlignCenter">Title Center Alignment</string>
-    <string name="tipShortcutBarEnabled">Not recommended to close</string>
+    <string name="defaultDark">Default dark</string>
+    <string name="pureWhite">Pure white</string>
+    <string name="titleAlignCenter">Align title to center</string>
+    <string name="tipShortcutBarEnabled">Closing not recommended</string>
     <string name="open">Open</string>
-    <string name="summaryAutoBackup">Automatically back up when files changed and exit, retaining up to 25 recent backup files</string>
-    <string name="migratingData">Migrating data</string>
-    <string name="autoBackup">Auto Backup</string>
-    <string name="summaryDeleteObsoleteFiles">We are now using private directories to store all your content. Click this to delete the old version of the history files left on the SD card</string>
-    <string name="tipArticleDeleting">The article is being deleted, cannot operate temporarily</string>
-    <string name="noHistory">No history</string>
-    <string name="formatterRemoveIndent">Remove Indentation</string>
-    <string name="keepScreenOn">Keep Screen On</string>
-    <string name="titleGFMBreaks" translatable="false">GFM Line Breaks</string>
-    <string name="gfmBreaksEnabled">Wrap With A Line Break</string>
-    <string name="gfmBreaksDisabled">Needs two line breaks to really render the newline</string>
+    <string name="summaryAutoBackup">All your articles will backup automatically when the app is exited. Backup limited to 25 newest files.</string>
+    <string name="migratingData">Data Migration</string>
+    <string name="autoBackup">Auto backup</string>
+    <string name="summaryDeleteObsoleteFiles">We are now using private directories to store all your content. Click this to delete old versions of the history files left on your SD card</string>
+    <string name="tipArticleDeleting">Deleting articles, temporarily disabled all actions</string>
+    <string name="noHistory">No history found</string>
+    <string name="formatterRemoveIndent">Remove indentation</string>
+    <string name="keepScreenOn">Keep screen on</string>
+    <string name="titleGFMBreaks" translatable="false">GFM line breaks</string>
+    <string name="gfmBreaksEnabled">Wrap with a line break</string>
+    <string name="gfmBreaksDisabled">Require at least two line breaks to render the newline</string>
     <!--time machine-->
     <string name="timeMachineHintInput" translatable="false">Message</string>
     <!--action-->
-    <string name="wordCountOfThisBook">All Count</string>
-    <string name="wordCountOfThisBookDescription">Word Count Of This Book</string>
+    <string name="wordCountOfThisBook">Total Count</string>
+    <string name="wordCountOfThisBookDescription">Total Word Count for this current Book</string>
     <string name="debugRemoveLicense" translatable="false">RemoveLicense</string>
-    <string name="timeMachineGuide">What\'s this? You can understand it as a chat window, or as a place to record content temporarily, or something like Google Assistant. In fact, it has a name, called \"Time Machine.\" Nice to meet you!</string>
+    <string name="timeMachineGuide">What\'s this? You may view this as a chat window or a place to record your ideas, or even something similar to Google Assistant. It has a special name called "Time Machine". It\'s nice to meet you!</string>
     <string name="copyDate">Copy Date</string>
     <string name="defaultBook">Default Book</string>
     <string name="books">Books</string>
     <string name="createNewBook">Create New Book</string>
-    <string name="summaryOfAbout">Learn about the original ideas and concepts we developed and designed for this application</string>
+    <string name="summaryOfAbout">Know more about the original ideas and concepts we designed for this application</string>
     <string name="emptyTip">No articles have been opened yet</string>
     <string name="name">Name</string>
     <string name="optionalDescription">Description (optional)</string>
     <string name="createBookForDialogButton">Create Book</string>
     <string name="openSourceLicenses">Open Source Licenses</string>
-    <string name="cannotDelete">Can not delete</string>
-    <string name="cannotDeleteNotEmptyBook">The book is not empty. If you need to delete it, please delete or remove the articles it contains and try again.</string>
+    <string name="cannotDelete">Unable to delete</string>
+    <string name="cannotDeleteNotEmptyBook">The book isn\'t empty. To delete it, please delete the articles inside it individually first.</string>
     <string name="move">Move</string>
-    <string name="moveTo">Move To</string>
+    <string name="moveTo">Move to</string>
     <string name="timeMachine">Time Machine</string>
-    <string name="listFirst">Open The List At Startup</string>
-    <string name="booksFirst">Open The Books At Startup</string>
+    <string name="listFirst">Open the Chapters at startup</string>
+    <string name="booksFirst">Open the Books at startup</string>
     <string name="language">Language</string>
     <string name="followSystem">Follow System</string>
-    <string name="localPicture">Local Picture</string>
-    <string name="selectPicture">Select Picture</string>
+    <string name="localPicture">Local Image</string>
+    <string name="selectPicture">Select Image</string>
     <string name="toastCannotRetrieveSelectedImage">Cannot retrieve selected image</string>
-    <string name="picture">Picture</string>
+    <string name="picture">Image</string>
     <string name="saved">Saved</string>
-    <string name="sendTo">Send To</string>
+    <string name="sendTo">Send to</string>
     <string name="mode">Mode</string>
     <string name="plainText">Plain Text</string>
-    <string name="tipHasNotPermissionWithAutoBackup">Attempt to auto backup failed because you did not give Pure Writer storage permission</string>
+    <string name="tipHasNotPermissionWithAutoBackup">Attempted backup failed as permission to access storage was denied.</string>
     <string name="hideTitleBarWhenPreviewingMarkdown">Hide title bar when previewing Markdown</string>
     <string name="privacyPolicy">Privacy Policy</string>
     <string name="beforeRestoringYourBackup">beforeRestoringYourBackup</string>
-    <string name="trashDescription">Retrieve your deleted articles</string>
-    <string name="messageDeleteArticlesDirectly">Delete these articles directly</string>
-    <string name="trashFolderTip">You are in the Trash folder, this folder can not create a new article.</string>
+    <string name="trashDescription">Recover your deleted articles</string>
+    <string name="messageDeleteArticlesDirectly">Permanently delete these articles</string>
+    <string name="trashFolderTip">You can\'t create a new file in this trash folder!</string>
     <plurals name="confirmDeleteMessages">
-        <item quantity="one">Are you sure you want to delete %d message?</item>
-        <item quantity="other">Are you sure you want to delete %d messages?</item>
+        <item quantity="one">Are you sure to delete this %d message?</item>
+        <item quantity="other">Are you sure to delete these %d messages?</item>
     </plurals>
     <string name="tipLandscapeOrientation">Please use an external keyboard in landscape mode</string>
     <string name="promptShortcutOrder">Order</string>
     <string name="editShortcut">Edit text Shortcut</string>
-    <string name="fixedSync">Fixed Sync</string>
+    <string name="fixedSync">Bridge</string>
     <string name="bridgeUpload">Bridge: Upload</string>
     <string name="bridgeDownload">Bridge: Fetch</string>
     <string name="backupSettingTitle">Backup</string>
-    <string name="backupSettingSummary">Backup, restore, WebDAV</string>
-    <string name="syncNetwork">Cloud Backup Network</string>
-    <string name="syncOnlyWifi">Automatic backup to WebDAV cloud disk is only allowed on Wi-Fi network</string>
-    <string name="syncAllNetworks">Automatic backup to WebDAV cloud disk on all networks</string>
+    <string name="backupSettingSummary">Backup, Restore and WebDAV</string>
+    <string name="syncNetwork">Cloud Backup</string>
+    <string name="syncOnlyWifi">Sync backup to WebDAV only when Wi-Fi is active</string>
+    <string name="syncAllNetworks">Sync backup to WebDAV on all networks</string>
     <string name="webDavRootURL">WebDAV URL</string>
     <string name="webDavAccount">WebDAV Account</string>
     <string name="webDavPassword">WebDAV Password</string>
-    <string name="webDavAutoBackup">Auto backup to WebDAV cloud disk</string>
-    <string name="errorWebDavConfig">Your WebDAV configuration is incomplete or incorrect. Please modify the WebDAV configuration before attempting to upload</string>
+    <string name="webDavAutoBackup">Auto backup to WebDAV cloud</string>
+    <string name="errorWebDavConfig">Your WebDAV configuration is either incomplete or incorrect. Please modify the WebDAV configuration before attempting to upload</string>
     <string name="uploadSuccessful">Upload successful</string>
     <string name="fetchSuccessful">Fetch successful</string>
-    <string name="messageUpload">Pure Writer created a <b>fixed</b> file on your cloud disk. The file name is <b>PureWriter.txt</b>. You can click "OK" to upload the content of your current article to this fixed file. Then you can edit this cloud file on other devices. When it changes, you can pull it down. \n\nDo you now want to write the current article content to that cloud file?</string>
+    <string name="messageUpload">Pure Writer created a <b>fixed</b> file on your cloud disk. The file name is <b>PureWriter.txt</b>. You can click "OK" to upload your current article to this fixed file. Then you can edit this cloud file on other devices. When it changes, you can pull it down. \n\nDo you now want to overwrite the current article content to that cloud file?</string>
     <string name="typewriterMode">Typewriter Mode</string>
     <string name="edit">Edit</string>
     <string name="editBook">Edit Book</string>
-    <string name="tipFloatingWordCountDisabled">After you disable Word Count, you will be able to see it in TimeMachine.</string>
-    <string name="shareText">推荐：纯纯写作，一个令人感到安心、拥有历史记录、多重防止文章丢失功能，和许多写作辅助的编辑器：https://writer.drakeet.com</string>
-    <string name="shareMessage">如果你喜欢和支持纯纯写作，请帮忙点击右侧的分享按钮与你的朋友推荐这个应用，这对于它来说意义重大，纯纯写作将因为你的支持而能够变得更好，并不断开发、完善下去，非常感谢！\n\n了解更多关于纯纯写作：https://writer.drakeet.com</string>
-    <string name="reduceDatabaseSize">Reduce Database Size</string>
-    <string name="reduceDatabaseSizeMessage">Delete all history of all articles. \nJust history, the article itself will not be deleted. \n\nYou\'d better make a backup before you delete it.</string>
+    <string name="tipFloatingWordCountDisabled">After turning off the floating word count, you will still be able to get the total word count in the Time Machine</string>
+    <string name="shareText">Recommendation: Pure Writer is a feature-filled text editing app that gives you a peace of mind with its features: History Records, multi-layer protection that prevents you from losing your precious content, and also a comfortable writing environment. Find out more here: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
+    <string name="shareMessage">If you enjoy using Pure Writer, please help us to spread the word! Click the Share button on the right to share this app with your friends. It\'ll mean a lot to us and the app as it improves because of your support. Thanks!\n\nTo find out more, please visit: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
+    <string name="reduceDatabaseSize">Clear History to Reduce Database Size</string>
+    <string name="reduceDatabaseSizeMessage">Delete History for all articles. \nNote: This will only delete the History records and NOT the article itself. \n\nYou are advised to backup proceeding to delete. \nYou are also advised to delete the History records occasionally to reduce the database size!</string>
     <string name="deleteSuccessfully">Deleted successfully</string>
     <string name="unlockPro">Unlock Pro</string>
-    <string name="presetTitle1">Pure Writer - Never Lose Content Editor</string>
-    <string name="presetContent1">Pure Writer is an app that is dedicated to providing a fastest, excellent writing experience without losing content. When you look at the feedback in the Google Play Store for Pure Writer from users all over the world, you can find a large number of users exaggerating praise for Pure Writer, such as "have never used such a good app", "the most satisfied App", "Love this app", "Great"… As the only developer of this application, it is really gratifying…\nOne day in the end of June 2017, after experiencing various text-missing events caused by other editor applications and experiencing a variety of unsatisfactory and rough writing products, I was determined to develop such a application to obtain peace of mind, provide writing assistance, and actually designing and developing from the perspective of an author.\nPrior to this, I was responsible for independently developing a new editor for the "Zi" application during my spare time. At that time we spent a lot of effort on the rich text editor. Although we finally failed to implement a high-performance rich text editor that we were satisfied with on Android, in the process I invented many unique and useful technologies. Those technologies are more than enough to develop a pure text editor.\nSo Pure Writer was born. It started with a perfect line spacing and segment spacing function on Android and achieved full system compatibility and native performance. This is a unique technique for Pure Writer. In addition to Microsoft’s Office Word, it is difficult for you to find an editor that supports segment spacing and stable line spacing on mobile phones. And Office Word’s installation package is a few times to Pure Writer.\nIn addition to the unique segment spacing, Pure Writer also provides "Starting to enter the editing page immediately" and a unique "history record" function. Especially the historical record function, actually as a writer, I know that the historical record function is really important. It allows you to have a rare sense of peace of mind when writing, and Pure Writer will ensure that your content will never be lost. Even if you mistakenly delete the text, or instantly power off, you will still be able to recover it from history. The advantage of this is that everyone can pause and resume writing at any time, and with the soft keyboard status recording and recovery, switching back and forth will make people feel particularly smooth and comfortable.\nIn addition, Pure Writer also supports "quick shortcut bar" and "formatting tools". The quick shortcut bar allows users to define shortcut words and phrases; the formatting panel can help users quickly adjust the format of the articles, for example, between Chinese and English. Automatically insert spaces, or automatically indent adjustments and more.\nIn addition to achieving these remarkable features, Pure Writer has also worked hard on the details of the experience, it has a perfect keyboard response logic. When using Pure Writer, you can quickly slide down the page or shortcut bar to collapse the soft keyboard; after clicking on a certain line of the article, you can dynamically obtain the appropriate cursor focus position; when you close the soft keyboard, the article will keep your position… Many of these details, when you compare the use of other editor Apps, you will find Pure Writer is better and nice.\nAs for the base functions of an editor, Pure Writer has not fallen, such as automatic paragraph indentation, long picture generation, floating word count, undo/redo, Markdown, paper, fingerprint lock, night mode, word association, fast scroller, save as files, and so on. But even then, Pure Writer still maintains a simple and concise design style. It follows Material Design, and I also painted an icon like a Doraemon’s Time Machine, meaning that words can connect to the past, and thinking about the future. It is also responds to the "history record" function provided by Pure Writer.\nToday, the development of Pure Writer has submitted 1000 code commits, and the code has changed more than 100,000 lines. It took almost all my spare time, but I am very happy that more and more people have told me that they are particularly fond of this application. I am very enthusiastic about communicating with users, collecting feedback, and constantly improving. This made me feel more happy than ever and wanted to come and do something that was meaningful and worth investing for a long time.\nThanks to all the friends that have supported and helped me in this process. Without you, this application can’t be done better step by step, and it won’t be able to maintain the update for a long time. That’s great… And so today I can finally write such an article introduces the original intentions of Pure Writer, and its many "great features", hoping to make more people aware of this product, and we hope that we can record more moving and leave more memories in the years of our lives. May the words take us through time, connect with the past, and think about the future.</string>
-    <string name="presetTitle2">Never Lose Content</string>
-    <string name="presetContent2">So far, So far, Pure Writer has many lines of defense to avoid article loss: \n1. Once the article changes, it will trigger automatic saving. If it fails, it will immediately tell and warn the user.\n2. Check the article every 2 seconds whether the article is saved, and whether it is equivalent to the contents which was in the database, if it fails, immediately tell and warn the user. \n3. If the save fails, you can not actually exit the application. Pressing the exit button is equivalent to pressing the Home button. This give the user the opportunity to save by yourself as much as possible.\n4. Each time you turn to the background or quit the application, if the article changes, it will automatically back up the entire database. The backup content can be restored at any time. \n5. Provide history, undo and redo for Articles. \n6. Provide trash folder to avoid accidentally deleting articles\n7. Cloud backup. If you configure a WebDAV, Pure Writer will enable cloud backup by default, and automatically put your db database file (include all articles) sync to the cloud.</string>
+    <string name="presetTitle1">Pure Writer - Connecting the Past and Future with Words</string>
+    <string name="presetContent1">Pure Writer is a fast and comfortable text editing app that prevents you from losing your works. While scrolling the comments and reviews of Pure Writer in Google Play, you might find some high praises for this app like "There\'s no app better than this", "The most satisfying app", "Love this app so much", "Love at first sight for this app"… As the only developer for Pure Writer, the comments were especially gratifying for me. \nIn June 2017, after I went through countless uncomfortable, poorly done text editing products and lost my precious text files, I am determined to develop my own text editing app that allows its users to write anytime anywhere in a feature-filled and comfortable environment, knowing that their words will never disappear. This app, as I decided, will be developed with a writer\'s perspective. \nBefore all this, I was working part-time on a rich text editing software. Although we poured our hearts over it, the software did not turn out the way we wanted it to be. Despite that, I successfully developed some unique features that is more than enough for Pure Writer. \nAnd so Pure Writer is born. From the very beginning, Pure Writer took care of perfecting each line and character spacing on Android. This is the special feature that no other text editing android apps has achieved besides Microsoft Word. And yet the package size of Microsoft Word is more than ten times larger than Pure Writer\'s.\nNot only that, Pure Writer also provides special features like "launch text editor on app start" and especially "History records". As a writer myself, I understand the utmost importance of having a history record — it allows you to focus on your writing while giving you a peace of mind that you will never, ever lose what you are writing. Even if your phone shuts down suddenly without any notice, Pure Writer can still save your content automatically. This way, all users are able to start and stop writing whenever they wish in a comfortable text editor with confidence. \nIn addition to that, Pure Writer supports "Input Shortcuts" and "Formatting tools", input shortcuts allows users to set their own custom words into the shortcut bar, so that they can reuse it over and over again with ease; formatting tools help users to quickly format their text for example auto spacing and arranging. \nNot only these features, a lot of effort was put into perfecting the tiniest detail in Pure Writer. While using Pure Writer, you are able to hide the soft keyboard by simply swiping the screen, get the cursor to be exactly where you want it to be and also keep the article still while you hide the soft keyboard… If you were to compare Pure Writer to the other text editing apps, you will find that Pure Writer has perfectly taken care of all the small details that eventually contribute to a perfect writing environment.\nPure Writer has the editing tools you need for example: auto indentation, export article as various files including images, floating word count, canceling, Markdown, custom background themes, night mode, biometric encryption, text auto complete, sharing and much more. Despite all the features and details, Pure Writer still kept its minimalistic style and follows the Material Design guidelines. I also made a "Time Machine" for users to make small notes and keep them. The name "Time Machine" is taken from the comic Doraemon, with the meaning of "Connecting the Past and Future with words". \nUntil today, Pure Writer\'s code base has received over one thousand commits and millions of lines changes. Although Pure Writer consumes almost all of my free time, it is always a relief that more and more users are giving me positive feedback. I actively connect with Pure Writer\'s users, collecting feedback and perfecting the app. I\'ve never felt happier at the thought of making something long term that helps other people. \nFinally, thank you to all my friends who helped me throughout this journey. Without you, this app would never be where it is today. With this post, I introduce you to the original ideas of Pure Writer and all of its special features, and hopefully more people would get to know it better. Let\'s hope that we are able to leave wonderful memories behind in the limited time we have. Let our Words take us back in time, and bring us to imagine the future.</string>
+    <string name="presetTitle2">Pure Writer - Protective Mechanism</string>
+    <string name="presetContent2">The current protective mechanism that Pure Writer has is: \n1. The article will be saved once the content is changed. If that fails, Pure Writer will notify the user immediately. \n2. Pure Writer will check if your content is saved in the database every two seconds. If it fails, Pure Writer will notify the user immediately. \n3. If it fails to autosave, then the users will not be able to exit the app completely. Pressing the exit button at this time is the same as pressing the Home button without completely stopping the app. This will allow some time for the user to manually save their content. \n4. Every time the app is running in the background or exited, it will automatically backup the whole database if any content is edited. The backup file can be accessed anytime. The backup will be save along with the previous version of the backup to allow users to revert the backup.\n5. The History record, undo and redo feature is provided to every article  \n6. Has a Trash folder to prevent accidental deletion of articles.\n7. Cloud backups: if Pure Writer is integrated with WebDAV, then it will automatically backup all the database content including the articles to the cloud.</string>
     <string name="presetTitle3">Pure Writer Pro</string>
-    <string name="presetContent3">If you think Pure Writer is great, and hope that it can be better, are you willing to spend a little money as an incentive for the developer?\nThis enables us to stick to good direction, create conscience products, and inspire more independent developers.\nYou can enter \"Settings > Pure Writer Pro\" to open Google Pay Payment. As a return, Pure Writer will provide ad-free state and all Pro contents for you including Custom Paper and Save As. Thank you very much!\nIf you have any question or request, feel free to contact me: \ndrakeet@drakeet.com</string>
+    <string name="presetContent3">If you enjoyed using Pure Writer and wish to have it actively developed, would you mind contributing a few bucks to encourage the developer?\nYour support can encourage independent developers like me to make more useful apps. \nTo contribute, you can press the "Unlock Pro" button in the top right corner of the Settings page. As a token of appreciation, you will be able to get Pro features like "Save as…" and "Custom background/Papers". \nPure Writer will also improve as a result of your support. Thanks in advance! If you have any questions or feedback, please do not hesitate to email me at drakeet@drakeet.com</string>
     <string name="presetTitle4">Pure Writer - Privacy Policy</string>
-    <string name="presetContent4">Pure Writer pays great attention to the privacy of users, and it will never collect any of your private content. \nIn addition, Pure Writer will never modify or read your clipboard content without permission or notice. \nPure Writer has applied for storage permissions only for file export and automatic backup. In addition, it will not read or modify any files in your external storage without permission or notice, and you can completely refuse to grant storage permissions, but doing so will result in loss of automatic backup functionality. \nIn particular, Pure Writer will never upload any of your articles, but because the title of the article as a file name may generate errors, Pure Writer will obtain your article title when the article title causes a crash error.</string>
-    <string name="createAt">Created at</string>
-    <string name="updatedAt">Updated at</string>
-    <string name="forcedBlackTextColor">Forced Black Font</string>
-    <string name="forcedWhiteTextColor">Forced White Font</string>
+    <string name="presetContent4">Pure Writer takes its users\' privacy very seriously, it will never collect any of your private information. \nAlso, it will not read or modify any content on your clipboard without first notifying you.\nThe storage permission that Pure Writer asked for is solely used for auto backup and save your files. Other than that, it will not read or modify any of your files in the storage without first notifying you. Despite that, you are completely free to deny the storage permission if needed, although doing so will also disable Pure Writer\'s auto backup feature. Pure Writer will never upload your content to other places, with an exception of sending an error or crash report to us for debugging and crash analysis purposes. The report will only contain the article\'s title and nothing else.</string>
+    <string name="createAt">Created on</string>
+    <string name="updatedAt">Updated on</string>
+    <string name="forcedBlackTextColor">Force Black Text Color</string>
+    <string name="forcedWhiteTextColor">Force White Text Color</string>
     <string name="paragraphSpacing">Paragraph Spacing</string>
-    <string name="summaryExporting">Only valid when paragraph spacing is enabled</string>
+    <string name="summaryExporting">Only available when Paragraph Spacing is on</string>
     <string name="lowProfile">Status bar focus mode</string>
     <string name="chapters">Chapters</string>
-    <string name="sortTypeTitleUp">Title Ascending</string>
-    <string name="sortTypeTitleDown">Title Descending</string>
+    <string name="sortTypeTitleUp">Sort Title A - Z</string>
+    <string name="sortTypeTitleDown">Sort Title Z - A</string>
     <string name="sortByRank">Manual Sorting</string>
     <string name="modifyRanks"><i><b>Do Manual Sorting</b></i></string>
-    <string name="markdownShortcutTip">You just inputted a Markdown tag, which only works in Markdown and preview mode. Would you like to enable Markdown mode for you?</string>
-    <string name="importedFileTooLargeToOpen">Your file is too large to open</string>
+    <string name="markdownShortcutTip">You\'ve just inserted a Markdown, which will only take effect in Markdown Preview mode. Do you want to activate Markdown mode?</string>
+    <string name="importedFileTooLargeToOpen">Imported file is too large, file opening failed</string>
     <string name="failed">Failed</string>
-    <string name="insertCategoryAboveShort">Category (above)</string>
-    <string name="insertCategoryAboveLong">Insert a category above the current article</string>
+    <string name="insertCategoryAboveShort">Insert category above</string>
+    <string name="insertCategoryAboveLong">Insert category above the current article</string>
     <string name="insertCategory">Insert Category</string>
     <string name="editCategory">Edit Category</string>
     <string name="category">Category</string>
-    <string name="deleteEmptyArticlesShort">Delete empty Articles</string>
-    <string name="deleteEmptyArticlesLong">Delete all articles whose title and content are empty?</string>
+    <string name="deleteEmptyArticlesShort">Delete all empty articles</string>
+    <string name="deleteEmptyArticlesLong">Delete all articles with blank titles and content in this Book</string>
     <string name="deleteCategory">Delete Category</string>
-    <string name="exportBook">Export Book</string>
-    <string name="needManualSortingTitle">Need to switch to manual sorting to use this feature</string>
-    <string name="needManualSortingMessage">Would you like to switch to manual sorting?</string>
-    <string name="doubleClickToExit">Double click the back key to exit the app</string>
+    <string name="exportBook">Export this Book</string>
+    <string name="needManualSortingTitle">Need to change to manual sorting to use this feature</string>
+    <string name="needManualSortingMessage">Do you want to change the settings to "Manual Sorting"?</string>
+    <string name="doubleClickToExit">Double click the Back key to exit the app</string>
     <string name="doubleClickToExitTip">Click BACK again to exit</string>
-    <string name="markdownCheckBoxTip">This checkbox is provided for Markdown. When checked, the paragraph spacing and automatic indentation will automatically become disabled. If you are not familiar with Markdown, it is recommended that you do not check it. \n\nMarkdown is a widely used markup writing language. If you are interested in it, you can search the Markdown online for details.</string>
-    <string name="unlockValidityPeriod">Unlock Validity Period</string>
+    <string name="markdownCheckBoxTip">This option is for the Markdown feature. After checking it, the spacing and indentation of paragraphs will lose its effect. If you are unfamiliar with Markdown, you are advised not to check this box.\n\nMarkdown is a markup language with plain text formatting syntax. You can search online for "Markdown" if you are interested.</string>
+    <string name="unlockValidityPeriod">Auto-lock Validity Period</string>
     <string name="unlockValidityPeriodSummary">%s\nNote: if you press the Back to exit the app, it will be locked next time</string>
     <string name="lockImmediatelyIfAway">Lock immediately if away</string>
     <string name="lockIfAwayMoreThan3Minutes">Lock if away more than 3 minutes</string>
