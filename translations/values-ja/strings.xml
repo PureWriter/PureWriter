@@ -104,7 +104,7 @@
     <string name="sortTypeCreatedTimeDown">作成時刻</string>
     <string name="warningSavedFailed">ファイルを保存できませんでした。フルテキストをコピーしてから、アプリケーションを再起動してコンテンツが欠落していないか確認してください</string>
     <string name="backupNow">今すぐバックアップする</string>
-    <string name="summaryBackup">バックアップファイルはパス /sdcard/backups に保存されます。</string>
+    <string name="summaryBackupToLocal">バックアップファイルはパス /sdcard/backups に保存されます。</string>
     <string name="restoreTheBackup">バックアップを復元する</string>
     <string name="summaryRestoreTheBackup">Backup file will be retrieved from /sdcard/backups, /sdcard/backups/PureWriterAutoBackups and your WebDAV</string>
     <string name="backupSuccessfully">バックアップが成功しました</string>
@@ -258,4 +258,13 @@
     <string name="unlockValidityPeriod">有効期間のロックを解除</string>
     <string name="lockImmediatelyIfAway">離れているとすぐにロックする</string>
     <string name="lockIfAwayMoreThan3Minutes">3分以上離れるとロックする</string>
+    <string name="font">フォント</string>
+    <string name="appEmbeddedFont">アプリ埋め込みフォント</string>
+    <string name="noInternetConnection">インターネット接続なし</string>
+    <string name="cloudBackup">クラウドバックアップ</string>
+    <string name="cloudConnection">クラウド接続タイプ</string>
+    <string name="signIn">ログイン</string>
+    <string name="backupToLocalNow">今すぐローカルストレージにバックアップ</string>
+    <string name="backupToCloudNow">今すぐクラウドストレージにバックアップ</string>
+    <string name="summaryBackupToCloud">バックアップファイルは、設定されている場合はクラウドストレージに保存されます</string>
 </resources>

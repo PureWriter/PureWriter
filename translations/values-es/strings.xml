@@ -104,7 +104,7 @@
     <string name="sortTypeCreatedTimeDown">Tiempo creado</string>
     <string name="warningSavedFailed">Error al guardar el archivo, copie el texto completo y luego reinicie la aplicación para ver si falta el contenido</string>
     <string name="backupNow">Copia ahora</string>
-    <string name="summaryBackup">El archivo de copia de seguridad se guardará en la ruta /sdcard/backups</string>
+    <string name="summaryBackupToLocal">El archivo de copia de seguridad se guardará en la ruta /sdcard/backups</string>
     <string name="restoreTheBackup">Restaurar la copia de seguridad</string>
     <string name="summaryRestoreTheBackup">The backup file will be read from these paths: /sdcard/backups and /sdcard/backups/PureWriterAutoBackups and your WebDAV cloud disk</string>
     <string name="backupSuccessfully">Backup exitoso</string>
@@ -258,4 +258,13 @@
     <string name="unlockValidityPeriod">Desbloquear periodo de validez</string>
     <string name="lockImmediatelyIfAway">Bloquear inmediatamente si está lejos</string>
     <string name="lockIfAwayMoreThan3Minutes">Bloquear si se aleja más de 3 minutos.</string>
+    <string name="font">Fuente</string>
+    <string name="appEmbeddedFont">Fuente incrustada de la aplicación</string>
+    <string name="noInternetConnection">Sin conexión a Internet</string>
+    <string name="cloudBackup">Bulutli zaxiralash</string>
+    <string name="cloudConnection">Tipo de conexión en la nube</string>
+    <string name="signIn">Iniciar sesión</string>
+    <string name="backupToLocalNow">Copia de seguridad en el almacenamiento local ahora</string>
+    <string name="backupToCloudNow">Copia de seguridad en el almacenamiento en la nube ahora</string>
+    <string name="summaryBackupToCloud">El archivo de copia de seguridad se guardará en su almacenamiento en la nube si está configurado</string>
 </resources>

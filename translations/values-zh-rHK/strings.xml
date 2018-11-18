@@ -106,7 +106,7 @@
     <string name="sortTypeCreatedTimeDown">建立時間：由新至舊</string>
     <string name="warningSavedFailed">文件自動儲存失敗，請拷貝您的全文，然後重新啟動 應用程序查看是否遺失內容</string>
     <string name="backupNow">立即備份</string>
-    <string name="summaryBackup">備份檔案將被儲存到 /sdcard/backups</string>
+    <string name="summaryBackupToLocal">備份檔案將被儲存到 /sdcard/backups</string>
     <string name="restoreTheBackup">還原備份</string>
     <string name="summaryRestoreTheBackup">備份檔案將從 /sdcard/backups 和 /sdcard/backups/PureWriterAutoBackups 和您的 WebDAV 雲端中讀取</string>
     <string name="backupSuccessfully">備份成功</string>
@@ -265,4 +265,13 @@
     <string name="unlockValidityPeriodSummary">%s\n提示：若按返回鍵退出應用則會立即加鎖</string>
     <string name="lockImmediatelyIfAway">離開時立即加鎖</string>
     <string name="lockIfAwayMoreThan3Minutes">離開超過 3 分鐘時加鎖</string>
+    <string name="appEmbeddedFont">純純寫作自帶內嵌字體</string>
+    <string name="font">字體</string>
+    <string name="noInternetConnection">沒有網絡連接</string>
+    <string name="cloudBackup">雲備份</string>
+    <string name="cloudConnection">雲連接類型</string>
+    <string name="signIn">登錄</string>
+    <string name="backupToLocalNow">立即備份到本機存儲空間</string>
+    <string name="backupToCloudNow">立即備份到雲端存儲空間</string>
+    <string name="summaryBackupToCloud">如果您已設定雲備份，備份檔案將存儲到您的雲端存儲空間</string>
 </resources>

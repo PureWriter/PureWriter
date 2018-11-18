@@ -104,7 +104,7 @@
     <string name="sortTypeCreatedTimeDown">बनाया गया समय</string>
     <string name="warningSavedFailed">सहेजा गया फ़ाइल विफल, कृपया अपना पूरा पाठ कॉपी करें, और उसके बाद ऐप को यह देखने के लिए पुन: प्रारंभ करें कि क्या सामग्री अनुपलब्ध है</string>
     <string name="backupNow">अब समर्थन देना</string>
-    <string name="summaryBackup">बैकअप फ़ाइल को पथ /sdcard/backups पर सहेजा जाएगा</string>
+    <string name="summaryBackupToLocal">बैकअप फ़ाइल को पथ /sdcard/backups पर सहेजा जाएगा</string>
     <string name="restoreTheBackup">बैकअप को पुनर्स्थापित करें</string>
     <string name="summaryRestoreTheBackup">The backup file will be read from these paths: /sdcard/backups and /sdcard/backups/PureWriterAutoBackups and your WebDAV cloud disk</string>
     <string name="backupSuccessfully">बैकअप सफल</string>
@@ -258,4 +258,13 @@
     <string name="unlockValidityPeriod">वैधता अवधि अनलॉक करें</string>
     <string name="lockImmediatelyIfAway">अगर तुरंत दूर ताला लगाओ</string>
     <string name="lockIfAwayMoreThan3Minutes">3 मिनट से अधिक दूर लॉक करें</string>
+    <string name="font">फ़ॉन्ट</string>
+    <string name="appEmbeddedFont">ऐप एम्बेडेड फ़ॉन्ट</string>
+    <string name="noInternetConnection">कोई इंटरनेट कनेक्शन नहीं</string>
+    <string name="cloudBackup">मेघ बैकअप</string>
+    <string name="cloudConnection">क्लाउड कनेक्शन प्रकार</string>
+    <string name="signIn">लॉग इन करें</string>
+    <string name="backupToLocalNow">अब स्थानीय भंडारण तक वापस जाएं</string>
+    <string name="backupToCloudNow">अब क्लाउड स्टोरेज पर बैक अप लें</string>
+    <string name="summaryBackupToCloud">सेट होने पर बैकअप फ़ाइल आपके क्लाउड स्टोरेज में सहेजी जाएगी</string>
 </resources>

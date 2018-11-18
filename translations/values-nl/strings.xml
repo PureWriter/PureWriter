@@ -104,7 +104,7 @@
     <string name="sortTypeCreatedTimeDown">Gecreëerde tijd</string>
     <string name="warningSavedFailed">Bestand opgeslagen mislukt, kopieer de volledige tekst en start de app opnieuw om te zien of de inhoud ontbreekt</string>
     <string name="backupNow">Nu backuppen</string>
-    <string name="summaryBackup">Het back-upbestand wordt opgeslagen op het pad /sdcard/backups</string>
+    <string name="summaryBackupToLocal">Het back-upbestand wordt opgeslagen op het pad /sdcard/backups</string>
     <string name="restoreTheBackup">Herstel de back-up</string>
     <string name="summaryRestoreTheBackup">The backup file will be read from these paths: /sdcard/backups and /sdcard/backups/PureWriterAutoBackups and your WebDAV cloud disk</string>
     <string name="backupSuccessfully">Backup succesvol</string>
@@ -258,4 +258,13 @@
     <string name="unlockValidityPeriod">Ontgrendel geldigheidsperiode</string>
     <string name="lockImmediatelyIfAway">Sluit hem onmiddellijk als hij weg is</string>
     <string name="lockIfAwayMoreThan3Minutes">Vergrendel indien langer dan 3 minuten</string>
+    <string name="font">Lettertype</string>
+    <string name="appEmbeddedFont">App embedded lettertype</string>
+    <string name="noInternetConnection">Geen internet verbinding</string>
+    <string name="cloudBackup">Cloud backup</string>
+    <string name="cloudConnection">Cloudverbindingstype</string>
+    <string name="signIn">Log in</string>
+    <string name="backupToLocalNow">Maak nu een back-up naar lokale opslag</string>
+    <string name="backupToCloudNow">Maak nu een back-up naar cloudopslag</string>
+    <string name="summaryBackupToCloud">Back-upbestand wordt opgeslagen in uw cloudopslag indien ingesteld</string>
 </resources>

@@ -106,7 +106,7 @@
     <string name="warningSavedFailed">文件自动保存失败，请复制您的全文，然后重启 App 查看是否丢失内容</string>
     <string name="backupSuccessfully">备份成功</string>
     <string name="backupNow">立即备份</string>
-    <string name="summaryBackup">备份文件将被保存到 /sdcard/backups</string>
+    <string name="summaryBackupToLocal">备份文件将被保存到 /sdcard/backups</string>
     <string name="restoreTheBackup">恢复备份</string>
     <string name="summaryRestoreTheBackup">备份文件将从 /sdcard/backups 和 /sdcard/backups/PureWriterAutoBackups 和您的 WebDAV 云盘中读取</string>
     <string name="tipBackupList">以下是备份文件，点击即可恢复备份。\n<b>如果您想从 WebDAV 云端获取备份，应该先登录你的 WebDAV 账号后再进入此页面！</b></string>
@@ -262,4 +262,13 @@
     <string name="unlockValidityPeriodSummary">%s\n提示：若按返回键退出应用则会立即加锁</string>
     <string name="lockImmediatelyIfAway">离开时立即加锁</string>
     <string name="lockIfAwayMoreThan3Minutes">离开超过 3 分钟时加锁</string>
+    <string name="font">字体</string>
+    <string name="appEmbeddedFont">纯纯写作自带内嵌字体</string>
+    <string name="noInternetConnection">没有网络连接</string>
+    <string name="cloudBackup">云备份</string>
+    <string name="cloudConnection">云连接类型</string>
+    <string name="signIn">登录</string>
+    <string name="backupToLocalNow">立即备份到本地存储空间</string>
+    <string name="backupToCloudNow">立即备份到云端网盘</string>
+    <string name="summaryBackupToCloud">如果您已设置云备份，备份文件将存储到您的云端存储空间</string>
 </resources>

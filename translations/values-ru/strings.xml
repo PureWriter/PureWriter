@@ -104,7 +104,7 @@
     <string name="sortTypeCreatedTimeDown">Время создания</string>
     <string name="warningSavedFailed">Не удалось сохранить файл, скопируйте полный текст и перезапустите приложение, чтобы узнать, отсутствует ли контент</string>
     <string name="backupNow">Быстрое резервное копирование</string>
-    <string name="summaryBackup">Файл резервной копии будет сохранен в /sdcard/backups</string>
+    <string name="summaryBackupToLocal">Файл резервной копии будет сохранен в /sdcard/backups</string>
     <string name="restoreTheBackup">Восстановить резервную копию</string>
     <string name="summaryRestoreTheBackup">The backup file will be read from these paths: /sdcard/backups and /sdcard/backups/PureWriterAutoBackups and your WebDAV cloud disk</string>
     <string name="backupSuccessfully">Резервирование успешно</string>
@@ -258,4 +258,13 @@
     <string name="unlockValidityPeriod">Разблокировать срок действия</string>
     <string name="lockImmediatelyIfAway">Заблокировать немедленно, если</string>
     <string name="lockIfAwayMoreThan3Minutes">Блокировка при прохождении более 3 минут</string>
+    <string name="font">Шрифт</string>
+    <string name="appEmbeddedFont">Встроенный шрифт приложения</string>
+    <string name="noInternetConnection">Подключение к Интернету отсутствует</string>
+    <string name="cloudBackup">Предоставление облаков</string>
+    <string name="cloudConnection">Тип облачного подключения</string>
+    <string name="signIn">Авторизоваться</string>
+    <string name="backupToLocalNow">Теперь резервное копирование на локальное хранилище</string>
+    <string name="backupToCloudNow">Резервное копирование до облачного хранилища</string>
+    <string name="summaryBackupToCloud">Резервный файл будет сохранен в вашем облачном хранилище, если он установлен</string>
 </resources>

@@ -119,7 +119,10 @@
     <string name="sortTypeCreatedTimeDown">Time Created</string>
     <string name="warningSavedFailed">Article save failed. Please copy your content and try restarting the app to check if any content is lost.</string>
     <string name="backupNow">Backup now</string>
-    <string name="summaryBackup">Backup file will be saved to /sdcard/backups</string>
+    <string name="backupToLocalNow">Back up to local storage now</string>
+    <string name="backupToCloudNow">Back up to cloud storage now</string>
+    <string name="summaryBackupToLocal">Backup file will be saved to /sdcard/backups</string>
+    <string name="summaryBackupToCloud">Backup file will be saved to your cloud storage if set</string>
     <string name="restoreTheBackup">Restore the backup</string>
     <string name="summaryRestoreTheBackup">Backup file will be retrieved from /sdcard/backups, /sdcard/backups/PureWriterAutoBackups and your WebDAV</string>
     <string name="backupSuccessfully">Backup successfully</string>
@@ -146,7 +149,7 @@
     <string name="fixedAppBarLayoutBehavior" translatable="false">com.drakeet.purewriter.widget.FixedAppBarLayoutBehavior</string>
 
     <!--alipay-->
-    <string name="alipay" translatable="false">支付宝</string>
+    <string name="alipay" translatable="false">支付宝/激活码</string>
     <string name="active" translatable="false">激活</string>
     <string name="alipayReadMe" translatable="false">使用支付宝购买 Pro 激活码，您需点击「<b>购买激活码</b>」按钮跳转到支付宝，并转账支付 <b>${RMB}</b> 元。\n\n<b>Drakeet 会很快再转账 0.03 元给你，在这笔转账的备注里将包含激活码，您点击转账内容长按复制激活码到这个页面填入即可</b>。\n\n激活码永久有效，可换设备使用，但同一时间只能用于一个设备。</string>
     <string name="alipayReadMe2" translatable="false">注：<b>若您很久都没有收到激活码</b>，可通过邮件与我联系: drakeet@drakeet.com\n或<b>加我的支付宝为好友</b>，我将给您补偿。\n\n纯纯写作因您的支持而能够不停更新、完善，非常感谢您的支持！</string>
@@ -290,4 +293,11 @@
     <string name="unlockValidityPeriodSummary">%s\nNote: if you press the Back to exit the app, it will be locked next time</string>
     <string name="lockImmediatelyIfAway">Lock immediately if away</string>
     <string name="lockIfAwayMoreThan3Minutes">Lock if away more than 3 minutes</string>
+    <string name="font">Font</string>
+    <string name="appEmbeddedFont">App embedded font</string>
+    <string name="noInternetConnection">No internet connection</string>
+    <string name="cloudBackup">Cloud backup</string>
+    <string name="cloudConnection">Cloud connection type</string>
+    <!--<string name="signIn" translatable="false">@string/common_signin_button_text</string>-->
+    <string name="signIn">Sign in</string>
 </resources>
