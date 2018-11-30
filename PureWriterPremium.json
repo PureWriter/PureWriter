@@ -1,3 +1,4 @@
 {
-  "alipay": 16
+  "alipay": 16, 
+  "fallback": true
 }
