@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="pureWriter">Pure Writer</string>
     <string name="defaultContent">Leuk om je te ontmoeten!\nDit is een snelle tekst editor, we hopen dat het schrijven kan terugkeren naar het origineel: <b>Zuiver, veilig, op elk moment, verlies de inhoud niet, super betrouwbaar.</b>\nZo bereikt u ook de perfecte lijnafstand en dan hier op het Android-platform, zodat uw tekst comfortabeler en duidelijker wordt. Tegelijkertijd bereikt u ook een soepele scrolling, omlaag om het soft keyboard te sluiten en veel aangename details .\nEenvoud is verborgen complexiteit. U kunt succesvol en gratis onderbreken en kan uw tekst snel vingerafdrukken. Bovendien kan het de tekst snel en snel naar andere Apps verzenden. Wij hebben dit allemaal voor u gedaan.\nDe belangrijkste, <b>Als u de tekst per ongeluk verwijdert of onmiddellijk uitschakelt, kunt u deze nog steeds terugvinden uit de geschiedenis.</b>\nNadat u een artikel hebt geschreven, kunt u de knop Verzenden gebruiken om deze naar andere Apps te sturen, of u kunt een nieuw artikel openen.\nNu kunt u deze pagina verwijderen en uw creatie uitvoeren. De naam van de creatie is de belangrijkste schat.\nGelieve het te genieten.</string>
     <string name="about">Over | Gids</string>
     <string name="actionOkGoSettings">Nou, ga naar Instellingen</string>
@@ -55,7 +56,6 @@
     <string name="promptShortcutTitle">Korte beschrijving (optioneel)</string>
     <string name="promptShortcutContent">Inhoud (verplicht)</string>
     <string name="redo">opnieuw</string>
-    <string name="pureWriter">Pure Writer</string>
     <string name="reject">afwijzen</string>
     <string name="previewAndSaveAs">Voorbeeld | Opslaan als…</string>
     <string name="share">Aandeel</string>
@@ -272,4 +272,5 @@
     <string name="smoothScrollerTitle">Soepele scrolanimatie om op een regel tekst te klikken</string>
     <string name="tipSmoothScrolling">Als deze optie is ingeschakeld en u klikt op een regel van de inhoudstekst, scrolt de tekstweergave zo nodig soepel naar de gerichte lijn. Als deze optie is uitgeschakeld, springt deze in een oogwenk naar die regel.\nDe scrolanimatie presteert mogelijk niet goed op sommige apparaten, dus schakel deze optie uit als u het gevoel heeft vast te zitten.</string>
     <string name="defaultMessageUpdateApk">Dit is een belangrijke versie, update deze versie zo snel mogelijk.</string>
+    <string name="readme">U hebt het nieuwe Material Design 2-ontwerp van Pure Writer ingeschakeld.\n\nMaterial Design 2 brengt een nieuw full-screen immersiepapier en een transparante bovenste balk voor een meer frisse uitstraling.\n\nTegelijkertijd kunnen er echter veel problemen zijn met het nieuwe ontwerp, dus dit is een experimenteel kenmerk van Pure Writer, dat mogelijk visuele problemen met de UI heeft. Bovendien, als de auteur van Pure Writer, geef ik de voorkeur aan het originele Pure Schrijverontwerp, dat meer in het oog springt en gericht is op tekstinhoud, dus deze ontwerpfunctie is eigenlijk ontwikkeld in antwoord op de sterke eisen van een klein aantal gebruikers. Het vereist veel extra ontwikkelingskosten en het is niet gemakkelijk om Voorzie, en aangezien er nu twee Pure Writer-ontwerpen zijn, kan het werk van ontwikkelaars zich vermenigvuldigen.\n\nDaarom raadt Pure Writer X u aan om ervoor te betalen, maar u kunt nog steeds veel tijd besteden om te ervaren en een definitieve betalingsbeslissing te nemen. Probeer het alsjeblieft te ondersteunen. Als uit de statistieken blijkt dat het aantal gebruikers dat De bereidheid om te betalen is klein, de ontwikkelaar kan het Material Design annuleren of stoppen. 2. Zodra u op OK klikt, bent u vastbesloten om standaard akkoord te gaan met deze inhoud.\n\nBedankt allemaal! Ik zal mijn best doen om een ​​betere en betere Pure Writer te bieden, alsjeblieft geniet ervan!\n\n* Opmerking: de transparante bovenste balk is alleen geldig onder Android 9.0.</string>
 </resources>

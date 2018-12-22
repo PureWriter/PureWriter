@@ -149,10 +149,10 @@
     <string name="fixedAppBarLayoutBehavior" translatable="false">com.drakeet.purewriter.widget.FixedAppBarLayoutBehavior</string>
 
     <!--alipay-->
-    <string name="alipay" translatable="false">支付宝/激活码</string>
+    <string name="alipay" translatable="false">支付宝/微信/激活码</string>
     <string name="active" translatable="false">激活</string>
     <string name="alipayReadMe" translatable="false">使用支付宝购买 Pro 激活码，您需点击「<b>购买激活码</b>」按钮跳转到支付宝，并转账支付 <b>${RMB}</b> 元。\n\n<b>跳转支付宝后，会自动复制纯纯写作的支付宝账号 drakeet@qq.com 到您剪贴板，您需自行完成转账。</b>\n\n转账后纯纯写作将很快通过支付宝发送激活码给您，激活码永久有效，可换设备使用，但同一时间只能用于一个设备。</string>
-    <string name="alipayReadMe2" translatable="false">注：<b>若您很久都没有收到激活码</b>，<b>可加我的支付宝为好友</b>，我将给您补偿。\n\n纯纯写作因您的支持而能够不停更新、完善，非常感谢您的支持！</string>
+    <string name="alipayReadMe2" translatable="false">注：您也可加我的<b>微信</b>为好友进行支付，我的微信为 <b>drakeet</b>(点击可复制)。\n\n纯纯写作因您的支持而能够不停更新、完善，非常感谢您的支持！</string>
     <string name="alipayReadMeInvalid" translatable="false">检查到您的激活码用于另外的设备，您需要重新在当前设备输入您的激活码才能恢复本设备的付费状态。</string>
     <string name="alipayPay" translatable="false">购买激活码</string>
     <string name="promptLicense" translatable="false">请输入激活码</string>
@@ -305,4 +305,6 @@
     <string name="smoothScrollerTitle">Smooth scrolling animation for clicking on a line of text</string>
     <string name="tipSmoothScrolling">If this option is turned on, when you click on a line of the content text, the text view will scroll smoothly to the focused line if necessary. If this option is off, it will jump to that line in an instant. \nThe scrolling animation may not perform well on some devices, so turn off this option if you feel stuck.</string>
     <string name="defaultMessageUpdateApk">This is an important version, please update to this version as soon as possible</string>
+    <string name="readme">You have turned on the new Material Design 2 design of Pure Writer.\n\nMaterial Design 2 brings a new full-screen immersion paper and a transparent top bar for a more fresh look.\n\nHowever, at the same time, there may be many problems with the new design, so this is an experimental feature of Pure Writer, which may have some UI visual problems. In addition, as the author of Pure Writer, I prefer the original Pure Writer design, which is more eye-catching and focused on text content, so this design feature is actually developed in response to the strong demands of a small number of users. It requires a lot of extra development costs, and it is not easy to provide, and since there will be two Pure Writer design now, the work of developers may multiply.\n\nBecause of this, Pure Writer X will recommend you to pay for it, but you can still have a lot of time to experience and make a final payment decision. Please try to support it. If the statistics show that the proportion of users who are willing to pay is small, the developer may cancel or stop maintaining the Material Design 2. Once you click the OK, you will be deemed to agree to this content by default.\n\nThank you all! I will do my best to provide a better and better Pure Writer, please enjoy!\n\n* Note: The transparent top bar is only valid under Android 9.0.</string>
+    <string name="materialDesign2" translatable="false">Material Design 2</string>
 </resources>
