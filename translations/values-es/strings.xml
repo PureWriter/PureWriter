@@ -3,6 +3,7 @@
     <string name="pureWriter">Pure Writer</string>
     <string name="about">Acerca de | Guía</string>
     <string name="hintDrawerHeader">Experiencia rápida, excelente, nunca perdió contenido</string>
+    <string name="iconDesc">El icono de Pure Writer es una máquina del tiempo.\nLa máquina del tiempo está flotando hacia adelante. Desear palabras nos puede llevar a conectarnos con el pasado, pensar en el futuro…</string>
     <string name="editorTipAMenu">Es necesario seleccionar un texto</string>
     <string name="redo">Rehacer</string>
     <string name="undo">deshacer</string>
@@ -11,9 +12,9 @@
     <string name="share">Compartir</string>
     <string name="copyTitle">Copiar título</string>
     <string name="lock">bloquear</string>
-    <string name="history"><b>Historial</b></string>
+    <string name="history">Historial</string>
     <string name="tipShouldUnlock">Desbloquear primero</string>
-    <string name="tipShouldSetupFingerprint">Debe crear primero la huella digital</string>
+    <string name="tipShouldSetupFingerprint">Crear una huella digital en la configuración del sistema primero!</string>
     <string name="sendContentTo">Enviar este contenido a:</string>
     <string name="failedTitleIsEmpty">Falló: el título está vacío</string>
     <string name="failedContentIsEmpty">Falló: el contenido está vacío</string>
@@ -37,7 +38,7 @@
     <string name="goOn">Seguir</string>
     <string name="reject">rechazar</string>
     <string name="titleIntroCard">Se utiliza para escribir cualquier cosa</string>
-    <string name="defaultContent">Encantada de conocerte! \nEste es un rápido editor de texto, esperamos que la escritura pueda volver al original: <b>Puro, seguro, en cualquier momento, no pierda el contenido, súper fiable.</b>\nEsto mismo logra el espaciado de línea perfecto y luego espaciamiento aquí en la plataforma de Android, y hace que su texto se vea más cómodo y claro.Al mismo tiempo, también logra un desplazamiento suave, deslizando hacia abajo para cerrar el teclado suave, y muchos detalles agradables El. \nLa sencillez es una complejidad oculta, puede interrumpir cualquier éxito, gratis, y puede cifrar rápidamente el texto con huellas dactilares, además puede enviar el texto fácilmente y rápidamente a otras aplicaciones.\nEl más importante, <b>Si borra el texto de forma errónea, o al instante se apaga, todavía podrá recuperarlo de la historia.</b>\nUna vez que haya terminado de escribir un artículo, puede utilizar el botón Enviar para enviarlo a otras aplicaciones o puede abrir un nuevo artículo.\nAhora puedes intentar borrar esta página y llevar a cabo tu creación El nombre de la creación es el tesoro más importante.\nPor favor, disfrútalo.</string>
+    <string name="defaultContent">Encantado de conocerte!\nEste es un rápido editor de texto plano diseñado con lo que creemos que debería ser \"una buena experiencia de escritura\". Pure Writer es minimalista y le permite escribir en el contenido de su corazón en cualquier momento y en cualquier lugar sin temor a perder su contenido nunca más.\nCon la función de espaciado de líneas y párrafos de Pure Writer, su texto será más claro y más cómodo de leer. No solo eso, sino que también tiene un desplazamiento suave, un teclado deslizable y muchas más funciones interesantes.\nLa simplicidad es una complejidad oculta. Puede cifrar su trabajo con su huella digital, comenzar o dejar de escribir cuando lo desee y compartir su contenido rápidamente con otras aplicaciones.\nLo más importante es que, a menos que lo elimines manualmente, nunca perderás tu trabajo mientras usas este editor de texto. Ya sea una eliminación accidental o un cierre inesperado, aún podrás recuperarlo del Historial.\nMás características: Copia de seguridad en la Web de WebDAV, tema de Material Design 2, Markdown, modo de máquina de escribir, exportación como imagen de texto largo, Time Machine …\nEs rápido y suave. Puede interrumpir y continuar escribiendo en cualquier momento y en cualquier lugar.\nDisfruta usando Pure Writer.</string>
     <string name="defaultTitle">Como desées</string>
     <string name="tipPermissionFailed">Error de búsqueda de permisos y no será posible guardar el registro</string>
     <string name="titleStorePermissionFailed">Error en la solicitud de permiso de almacenamiento</string>
@@ -105,7 +106,7 @@
     <string name="warningSavedFailed">Error al guardar el archivo, copie el texto completo y luego reinicie la aplicación para ver si falta el contenido</string>
     <string name="backupNow">Copia ahora</string>
     <string name="summaryBackupToLocal">El archivo de copia de seguridad se guardará en la ruta /sdcard/backups</string>
-    <string name="restoreTheBackup">Restaurar la copia de seguridad</string>
+    <string name="restoreBackup">Restaurar copia de seguridad</string>
     <string name="summaryRestoreTheBackup">The backup file will be read from these paths: /sdcard/backups and /sdcard/backups/PureWriterAutoBackups and your WebDAV cloud disk</string>
     <string name="backupSuccessfully">Backup exitoso</string>
     <string name="restoreSuccessfully">Restaure la copia de seguridad con éxito</string>
@@ -274,4 +275,7 @@
     <string name="defaultMessageUpdateApk">Esta es una versión importante, por favor actualice esta versión lo antes posible.</string>
     <string name="readme">Has activado el nuevo diseño de Material Design 2 de Pure Writer.\n\nMaterial Design 2 trae un nuevo papel de inmersión en pantalla completa y una barra superior transparente para una apariencia más fresca.\n\nSin embargo, al mismo tiempo, puede haber muchos problemas con el nuevo diseño, por lo que esta es una característica experimental de Pure Writer, que puede tener algunos problemas visuales de UI. Además, como autor de Pure Writer, prefiero el Pure original. El diseño de Writer, que es más llamativo y se centra en el contenido de texto, por lo que esta característica de diseño se desarrolla realmente en respuesta a las fuertes demandas de un pequeño número de usuarios. Requiere muchos costos de desarrollo adicionales, y no es fácil Proporcione, y dado que habrá dos diseños de Pure Writer ahora, el trabajo de los desarrolladores puede multiplicarse.\n\nDebido a esto, Pure Writer X le recomendará que lo pague, pero aún puede tener mucho tiempo para experimentar y tomar una decisión de pago final. Por favor, intente apoyarlo. Si las estadísticas muestran que la proporción de usuarios que son La voluntad de pagar es pequeña, el desarrollador puede cancelar o dejar de mantener el Diseño de Material 2. Una vez que haga clic en Aceptar, estará determinado a aceptar este contenido de forma predeterminada.\n\n¡Gracias a todos! Haré todo lo posible para proporcionar un Escritor Puro mejor y mejor, por favor, disfrute!</string>
     <string name="lowFreeStorageSpaceWarning">Su teléfono solo tiene %d MB de almacenamiento gratuito, lo que puede hacer que Pure Writer se guarde o la copia de seguridad haya fallado. ¡Por favor, limpie y deje más de 100 MB antes de usar Pure Writer!</string>
+    <string name="insertCategoryBottomShort">Insertar categoría al fondo</string>
+    <string name="insertCategoryBottomLong">Insertar una nueva categoría al final de la lista de capítulos</string>
+    <string name="pureWriterBBS">Pure Writer BBS</string>
 </resources>

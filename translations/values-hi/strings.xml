@@ -3,6 +3,7 @@
     <string name="pureWriter">Pure Writer</string>
     <string name="about">के बारे में | गाइड</string>
     <string name="hintDrawerHeader">फास्ट, उत्कृष्ट अनुभव, कभी सामग्री नहीं खोई</string>
+    <string name="iconDesc">प्योर राइटर का आइकन टाइम मशीन है\nटाइम मशीन आगे चल रही है। भविष्य के बारे में सोचते हुए, शब्द हमें अतीत से जोड़ने के लिए ले जा सकते हैं…</string>
     <string name="editorTipAMenu">तुम एक पाठ का चयन करने की जरूरत है</string>
     <string name="editorHintContent">पाठ दर्ज करें</string>
     <string name="redo">फिर से करना</string>
@@ -11,9 +12,9 @@
     <string name="share">शेयर</string>
     <string name="copyTitle">कॉपी शीर्षक</string>
     <string name="lock">ताला</string>
-    <string name="history"><b>इतिहास</b></string>
+    <string name="history">इतिहास</string>
     <string name="tipShouldUnlock">पहले अनलॉक करना चाहिए</string>
-    <string name="tipShouldSetupFingerprint">फ़िंगरप्रिंट पहले बनाएं</string>
+    <string name="tipShouldSetupFingerprint">पहले सिस्टम सेटिंग्स में एक फिंगरप्रिंट बनाएं!</string>
     <string name="sendContentTo">इस सामग्री को यहां भेजें:</string>
     <string name="failedTitleIsEmpty">विफल: शीर्षक खाली है</string>
     <string name="failedContentIsEmpty">विफल: सामग्री खाली है</string>
@@ -37,7 +38,7 @@
     <string name="goOn">जारी रखें</string>
     <string name="reject">अस्वीकार</string>
     <string name="titleIntroCard">कुछ भी लिखने के लिए उपयोग किया जाता है</string>
-    <string name="defaultContent">आपसे मिलकर अच्छा लगा!\nयह एक त्वरित सादा पाठ संपादक है, हमें आशा है कि लेखन पर लौट सकते हैं मूल : <b>शुद्ध, सुरक्षित, किसी भी समय, सामग्री, सुपर विश्वसनीय खोना नहीं है</b>\nयह एंड्रॉइड प्लेटफॉर्म पर बिल्कुल सही लाइन रिक्ति प्राप्त करता है, और यह आपके पाठ को अधिक आरामदायक और स्पष्ट दिखता है.एक ही समय में, यह सॉफ्ट स्कॉलिंग भी प्राप्त करता है, सॉफ्ट कीबोर्ड को बंद करने के लिए नीचे स्वाइप करता है, और कई सुखदायक विवरण ।\nसरलता छिपी जटिलता है.आप किसी भी सफलता, मुफ़्त में बाधित कर सकते हैं, और फिंगरप्रिंट के साथ अपने पाठ को त्वरित रूप से एन्क्रिप्ट कर सकते हैं.इसके अलावा, यह आसानी से और जल्दी से अन्य ऐप्स को पाठ भेज सकता है। हमने यह सब आपके लिए किया है।\nसबसे महत्वपूर्ण, <b>यदि आप गलती से पाठ को हटा देते हैं, या तुरंत बंद कर देते हैं, तो आप अभी भी इसे इतिहास से पुनर्प्राप्त करने में सक्षम होंगे।</b>\nएक बार एक लेख लिखने के बाद, आप इसे अन्य एप्लिकेशन पर भेजने के लिए भेजें बटन का उपयोग कर सकते हैं, या आप एक नया लेख खोल सकते हैं।\nअब आप इस पृष्ठ को साफ़ करने और अपने निर्माण को पूरा करने की कोशिश कर सकते हैं। निर्माण का नाम सबसे महत्वपूर्ण खजाना है।\nकृपया इसे का आनंद लें।</string>
+    <string name="defaultContent">आपसे मिलकर अच्छा लगा!\nयह एक तेज सादा पाठ संपादक है जिसे हम मानते हैं कि \"एक अच्छा लेखन अनुभव\" होना चाहिए। शुद्ध लेखक न्यूनतम है और यह आपको अपने दिल की सामग्री पर कभी भी लिखने की अनुमति देता है, बिना किसी डर के आप कभी भी अपनी सामग्री को फिर से खो देंगे।\nप्योर राइटर की लाइन और पैराग्राफ स्पेसिंग फीचर के साथ, आपका टेक्स्ट पढ़ने में स्पष्ट और अधिक आरामदायक होगा। न केवल इतना ही, बल्कि इसमें स्मूथ स्क्रॉलिंग, स्वाइप-टू-पतन-कीबोर्ड और कई और रोमांचक फीचर्स भी हैं।\nसादगी छिपी हुई जटिलता है। जब भी आप चाहें, आप अपने फिंगरप्रिंट के साथ अपने काम को एन्क्रिप्ट करना शुरू कर सकते हैं या लिखना बंद कर सकते हैं और अपनी सामग्री को अन्य ऐप्स में साझा कर सकते हैं - हमने आपको कवर कर लिया है।\nसबसे महत्वपूर्ण बात, जब तक आप इसे मैन्युअल रूप से नहीं हटाते हैं, तब तक आप इस टेक्स्ट एडिटर का उपयोग करते हुए कभी भी अपना काम नहीं खोएंगे। यह एक आकस्मिक विलोपन या एक अप्रत्याशित शटडाउन है, तब भी आप इसे इतिहास से पुनर्प्राप्त कर पाएंगे।\nअधिक सुविधाएँ: WebDAV क्लाउड बैकअप, मटीरियल डिज़ाइन 2 थीम, मार्कडाउन, टाइपराइटर मोड, लंबे टेक्स्ट इमेज के रूप में एक्सपोर्ट, टाइम टेबल …\nयह तेज़ और सुचारू है। आप कहीं भी, कभी भी लिख सकते हैं और लिख सकते हैं।\nकृपया इसका उपयोग करके आनंद लें।</string>
     <string name="defaultTitle">जैसे आपको ठीक लगे</string>
     <string name="tipPermissionFailed">अनुमति प्राप्त करना विफल रहा और रिकॉर्ड को सहेजने में सक्षम नहीं होगा</string>
     <string name="titleStorePermissionFailed">संग्रहण अनुमति अनुरोध विफल हुआ</string>
@@ -105,7 +106,7 @@
     <string name="warningSavedFailed">सहेजा गया फ़ाइल विफल, कृपया अपना पूरा पाठ कॉपी करें, और उसके बाद ऐप को यह देखने के लिए पुन: प्रारंभ करें कि क्या सामग्री अनुपलब्ध है</string>
     <string name="backupNow">अब समर्थन देना</string>
     <string name="summaryBackupToLocal">बैकअप फ़ाइल को पथ /sdcard/backups पर सहेजा जाएगा</string>
-    <string name="restoreTheBackup">बैकअप को पुनर्स्थापित करें</string>
+    <string name="restoreBackup">बैकअप पुनर्स्थापित करें</string>
     <string name="summaryRestoreTheBackup">The backup file will be read from these paths: /sdcard/backups and /sdcard/backups/PureWriterAutoBackups and your WebDAV cloud disk</string>
     <string name="backupSuccessfully">बैकअप सफल</string>
     <string name="restoreSuccessfully">सफलतापूर्वक बैकअप बहाल करें</string>
@@ -274,4 +275,7 @@
     <string name="defaultMessageUpdateApk">यह एक महत्वपूर्ण संस्करण है, कृपया जितनी जल्दी हो सके इस संस्करण को अपडेट करें।</string>
     <string name="readme">You have turned on the new Material Design 2 design of Pure Writer.\n\nMaterial Design 2 brings a new full-screen immersion paper and a transparent top bar for a more fresh look.\n\nHowever, at the same time, there may be many problems with the new design, so this is an experimental feature of Pure Writer, which may have some UI visual problems. In addition, as the author of Pure Writer, I prefer the original Pure Writer design, which is more eye-catching and focused on text content, so this design feature is actually developed in response to the strong demands of a small number of users. It requires a lot of extra development costs, and it is not easy to provide, and since there will be two Pure Writer design now, the work of developers may multiply.\n\nBecause of this, Pure Writer X will recommend you to pay for it, but you can still have a lot of time to experience and make a final payment decision. Please try to support it. If the statistics show that the proportion of users who are willing to pay is small, the developer may cancel or stop maintaining the Material Design 2. Once you click the OK, you will be deemed to agree to this content by default.\n\nThank you all! I will do my best to provide a better and better Pure Writer, please enjoy!</string>
     <string name="lowFreeStorageSpaceWarning">आपके फ़ोन में केवल %d MB मुफ्त स्टोरेज है, जो कि शुद्ध लेखक को बचाने या बैकअप में विफल हो सकता है। कृपया शुद्ध लेखक का उपयोग करने से पहले 100 MB से अधिक की सफाई करें और छोड़ दें!</string>
+    <string name="insertCategoryBottomShort">नीचे से श्रेणी डालें</string>
+    <string name="insertCategoryBottomLong">अध्याय सूची के नीचे एक नई श्रेणी डालें</string>
+    <string name="pureWriterBBS">Pure Writer BBS</string>
 </resources>

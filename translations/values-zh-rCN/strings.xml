@@ -4,13 +4,14 @@
     <string name="editorTipAMenu">您需要选中一段文本才能操作</string>
     <string name="editorHintContent">请输入正文</string>
     <string name="hintDrawerHeader">快速、优秀体验、永不丢失内容</string>
+    <string name="iconDesc">纯纯写作的图标画的是一个时光机\n时光机漂浮前进，愿文字能够带我们连接过去，遥想未来…</string>
 
     <string name="undo">撤销</string>
     <string name="redo">重做</string>
     <string name="about">关于 | 帮助</string>
 
     <string name="clearThisPage">清空本页</string>
-    <string name="defaultContent">　　很高兴见到你！\n　　这是一个快速的纯文本编辑器，我们希望写作能够回到原本的样子：<b>纯粹、有安全感、随时、绝对不丢失内容、具备良好的写作体验。</b>\n　　纯纯写作实现了在 Android 上完美的行间距和段间距，它能够使您的文本看起来更加舒适，清晰。同时，它还实现了顺滑滚动、下滑关闭输入法软键盘，以及许多喜人的细节内容。\n　　蕴繁于简，您能够最快速度达到灵感页面，能够随时随地中断和继续写作，能够使用指纹加密您的文本，能够轻易、快速将文本分享发送到其他 App，这些我们都已经为您做好了。\n　　最重要的，<b>在使用这个编辑器时，它将会保证您的内容永远不会丢失，除非您主动将它清空。否则即使误操作将文本删除，或瞬间断电，您仍然能够从历史记录中将它恢复。</b>\n　　当您完成一篇文章写作之后，可以选择 右上角发送按钮 将它发送到另外的 App，或开启新篇章。\n　　现在您可以尝试清空本页，进行您的创作。清空本页操作在右上角菜单当中，如果误操作，您同样可以从历史记录中恢复。\n　　我们视您的创作为最重要的珍宝。请享用。</string>
+    <string name="defaultContent">　　很高兴见到你！\n　　这是一个快速的纯文本编辑器，我们希望写作能够回到原本的样子：<b>纯粹、有安全感、随时、绝对不丢失内容、具备良好的写作体验。</b>\n　　纯纯写作实现了在 Android 上完美的行间距和段间距，它能够使您的文本看起来更加舒适，清晰。同时，它还实现了「快捷输入栏」和「格式化工具」，以及许多喜人的细节内容。\n　　最重要的，<b>在使用这个编辑器时，它将会保证您的内容永远不会丢失，除非您主动将它清空。否则即使误操作将文本删除，或瞬间断电，您仍然能够从历史记录或备份中将它恢复。</b>\n　　纯纯写作还在流畅体验上下了很多功夫，它拥有 完美的键盘响应逻辑。使用纯纯写作时，你能够往下拖动快捷输入栏来收起软键盘；能够点击文章某一行后，动态获得合适的光标焦点定位；能够在收起软键盘时，文章位置保持不动 … 许多这样的细节内容，当你对比使用其他编辑器项目时，你才会发现纯纯写作做得更加出色、流畅，细致入微。\n　　蕴繁于简。许多编辑器该有的功能，纯纯写作也都没有落下，比如 WebDAV 云备份、段首缩进、生成长图片、指纹加锁、Markdown、更换信纸、夜间模式、单词联想输入、打字机模式、撤销、字数统计 等等。但即使这样，纯纯写作仍然保持了简约的设计风格，遵循 Material Design 设计，并且它还有一个像是哆啦 A 梦 时光机 的图标，寓意着「文字能够连接过去，遥想未来」，也照应了纯纯写作特别提供的「历史记录」功能。\n　　您能够最快速度到达灵感页面，能够随时随地中断和继续写作，这些我们都已经为您做好了。\n　　令人感到安心，顺滑流畅的写作体验，如你所愿，这就是纯纯写作，请享受写作吧！</string>
     <string name="copyTitle">复制标题</string>
     <string name="copyContent">复制正文内容</string>
     <string name="appRecommendationTitle">优质应用友情推荐</string>
@@ -21,7 +22,7 @@
     <string name="tipNeedFingerprint">需要指纹解锁才能查看和编辑</string>
     <string name="share">发送到某个应用</string>
     <string name="lock">加密</string>
-    <string name="history"><b>历史记录</b></string>
+    <string name="history">历史记录</string>
     <string name="tipShouldUnlock">需要先解锁加密</string>
     <string name="tipShouldSetupFingerprint">需要先到系统设置创建指纹识别</string>
     <string name="sendContentTo">发送这篇文章到：</string>
@@ -107,7 +108,7 @@
     <string name="backupSuccessfully">备份成功</string>
     <string name="backupNow">立即备份</string>
     <string name="summaryBackupToLocal">备份文件将被保存到 /sdcard/backups</string>
-    <string name="restoreTheBackup">恢复备份</string>
+    <string name="restoreBackup">恢复备份</string>
     <string name="summaryRestoreTheBackup">备份文件将从 /sdcard/backups 和 /sdcard/backups/PureWriterAutoBackups 和您的 WebDAV 云盘中读取</string>
     <string name="tipBackupList">以下是备份文件，点击即可恢复备份。\n<b>如果您想从 WebDAV 云端获取备份，应该先登录你的 WebDAV 账号后再进入此页面！</b></string>
     <string name="restoreSuccessfully">恢复备份成功</string>
@@ -278,4 +279,7 @@
     <string name="defaultMessageUpdateApk">这是一个重要的版本，请尽快更新到这个版本</string>
     <string name="readme">您已开启了纯纯写作新的 Material Design 2 设计。\n\nMaterial Design 2 带来了新的全屏沉浸稿纸和透明化顶栏，更加精致多彩。\n\n但与此同时，新的设计可能存在诸多问题，因此这个特性作为纯纯写作的一个实验性功能，它可能存在一些 UI 视觉上的问题。另外，作为纯纯写作的作者，相对来说，我更喜欢纯纯写作默认原版设计，它更加耐看和令人专注文本内容，因此这个主题实际上是应少部分用户强烈要求而特意开发的，它给开发者造出了额外的开发成本，能够提供出来实属不易，而且由于需要兼顾两套设计和主题，开发者的工作可能会成倍增加。\n\n鉴于此，如果开启 Material Design 2 后纯纯写作将采用强制收费方式，但您仍然可以有许多时间去体验并作出最终付费决定。请尽量支持它，如果经过统计发现最终愿意付费的用户比例很少，开发者可能会撤销或停止提供 Material Design 2。您一旦开启 Material Design 2，将视为默认同意此内容。\n\n谢谢大家！我会竭尽全力提供一个越来越好的纯纯写作，请享用！</string>
     <string name="lowFreeStorageSpaceWarning">您的手机剩余存储空间已经只有 %d MB, 这可能导致纯纯写作保存或备份失败，请务必清理留出 100 MB 以上空间后再使用纯纯写作！</string>
+    <string name="insertCategoryBottomShort">在底部插入卷</string>
+    <string name="insertCategoryBottomLong">在章节列表的底部插入新卷</string>
+    <string name="pureWriterBBS">纯纯写作论坛</string>
 </resources>

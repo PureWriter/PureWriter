@@ -11,9 +11,9 @@
     <string name="share">シェア</string>
     <string name="copyTitle">コピータイトル</string>
     <string name="lock">保護</string>
-    <string name="history"><b>歴史</b></string>
+    <string name="history">歴史</string>
     <string name="tipShouldUnlock">最初にロックを解除する必要があります</string>
-    <string name="tipShouldSetupFingerprint">指紋を最初に作成する必要があります</string>
+    <string name="tipShouldSetupFingerprint">最初にシステム設定で指紋を作成してください！</string>
     <string name="sendContentTo">このコンテンツを送信する：</string>
     <string name="failedTitleIsEmpty">失敗：タイトルが空です</string>
     <string name="failedContentIsEmpty">失敗：コンテンツが空です</string>
@@ -37,7 +37,7 @@
     <string name="goOn">続ける</string>
     <string name="reject">拒絶する</string>
     <string name="titleIntroCard">何かを書くのに使う</string>
-    <string name="defaultContent">あなたに会えてよかった！\nこれは簡単なプレーンテキストエディタです。元に戻ることができれば幸いです: <b>純粋な、安全な、いつでも、信頼性の高いコンテンツを失うことはありません。</b>\nこれは、Androidのプラットフォーム上で完璧な行間隔を確保し、ここでスペーシングを実現し、テキストをより快適で明瞭に見せると同時にスムーズなスクロール、ソフトキーボードを閉じるためのスワイプ、 ザ。\nシンプリシティは隠された複雑さです。あなたは成功を中断することができ、無料で、指紋でテキストを素早く暗号化することができます。\n最も重要な、<b>誤ってテキストを削除したり、すぐに電源を切ったりしても、履歴から回復することはできます。</b>\n記事の書き込みが完了したら、[送信]ボタンを使用して他のAppsに送信するか、新しい記事を開くことができます。\n今、あなたはこのページをクリアしてあなたの創造を試みることができます。創造の名は最も重要な財宝です。\nそれをお楽しみください。</string>
+    <string name="defaultContent">はじめまして。\nPure Writerは最小限に抑えられているため、いつでもどこでも自分のコンテンツを失うことを心配せずに自分のコンテンツに書き込むことができます。\nPure Writerの行と段落の間隔機能を使用すると、テキストがより鮮明で読みやすくなりますが、それだけでなく、スムーズなスクロール、スワイプから折りたたみ式のキーボード、その他多数の優れた機能もあります。\nあなたの作品をあなたの指紋で暗号化し、好きなときに書き込みを開始または停止し、他のアプリケーションにコンテンツをすばやく共有することができます。\n最も重要なことは、手動で削除しない限り、このテキストエディタを使用している間に作業を失うことは決してなく、偶然の削除や予期せぬシャットダウンであっても、履歴からそれを回復することができます。\nその他の機能：WebDAVクラウドバックアップ、マテリアルデザイン2テーマ、マークダウン、タイプライターモード、長いテキスト画像としてエクスポート、タイムマシン…\nあなたはいつでもどこでも中断して書くことができます。\n楽しんでください。</string>
     <string name="defaultTitle">あなたの好きなように</string>
     <string name="tipPermissionFailed">権限の取得に失敗し、レコードを保存できません</string>
     <string name="titleStorePermissionFailed">記憶域アクセス要求に失敗しました</string>
@@ -105,7 +105,7 @@
     <string name="warningSavedFailed">ファイルを保存できませんでした。フルテキストをコピーしてから、アプリケーションを再起動してコンテンツが欠落していないか確認してください</string>
     <string name="backupNow">今すぐバックアップする</string>
     <string name="summaryBackupToLocal">バックアップファイルはパス /sdcard/backups に保存されます。</string>
-    <string name="restoreTheBackup">バックアップを復元する</string>
+    <string name="restoreBackup">バックアップを復元</string>
     <string name="summaryRestoreTheBackup">Backup file will be retrieved from /sdcard/backups, /sdcard/backups/PureWriterAutoBackups and your WebDAV</string>
     <string name="backupSuccessfully">バックアップが成功しました</string>
     <string name="restoreSuccessfully">バックアップを正常に復元する</string>
@@ -274,4 +274,8 @@
     <string name="defaultMessageUpdateApk">これは重要なバージョンです。できるだけ早くこのバージョンに更新してください。</string>
     <string name="readme">あなたはPure Writerの新しいMaterial Design 2デザインを有効にしました。\n\nマテリアルデザイン2は新しいフルスクリーン浸漬紙と透明なトップバーを採用し、より新鮮な外観を実現しています。\n\nしかし同時に、新しいデザインには多くの問題がある可能性があります。これは、UIの視覚的な問題を抱えるPure Writerの実験的な機能です。また、Pure Writerの著者として、私は元のPureライターのデザインはより目を引くものであり、テキストコンテンツに重点を置いているので、このデザイン機能は実際に少数のユーザーの強い要求に応えて開発されています。現在、純粋なライターの設計が2つあるため、開発者の作業が増える可能性があります。\n\nこのため、Pure Writer Xはあなたに支払うことをお勧めしますが、それでも経験して最終的な支払いを決定するまでに多くの時間を費やすことができますので、サポートを依頼してください。支払意欲が小さい場合、開発者はマテリアルデザインのメンテナンスを中止または停止することができます。2. OKをクリックすると、デフォルトでこのコンテンツに同意することになります。\n\nみなさんありがとう！私は、より良い、より良い純粋な作家を提供するために全力を尽くし、お楽しみください！</string>
     <string name="lowFreeStorageSpaceWarning">お使いの携帯電話には%d MBの空き容量しかないため、Pure Writerの保存やバックアップに失敗する可能性があります。 Pure Writerを使用する前に、クリーンアップして100 MB以上残してください。</string>
+    <string name="iconDesc">Pure Writerのアイコンはタイムマシンです\nタイムマシンは前進しています。 言葉を願って私たちは過去とつながることができます、将来について考えます…</string>
+    <string name="insertCategoryBottomShort">カテゴリを下に挿入</string>
+    <string name="insertCategoryBottomLong">チャプターリストの一番下に新しいカテゴリを挿入する</string>
+    <string name="pureWriterBBS">Pure Writer BBS</string>
 </resources>

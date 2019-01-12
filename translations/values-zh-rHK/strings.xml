@@ -10,10 +10,11 @@
     <string name="editorHintContent">請輸入文章內容</string>
     <string name="titleHint">請輸入標題</string>
     <string name="hintDrawerHeader">快速、良好體驗、永不遺失內容</string>
+    <string name="iconDesc">純純寫作的圖標畫的是一個時光機\n時光機漂浮前進，願文字能夠帶我們連接過去，遙想未來…</string>
     <string name="share">傳送到應用程序</string>
     <string name="copyTitle">拷貝標題</string>
     <string name="lock">加密</string>
-    <string name="history"><b>歷史記錄</b></string>
+    <string name="history">歷史記錄</string>
     <string name="tipShouldUnlock">必須要先解鎖</string>
     <string name="tipShouldSetupFingerprint">需要先到系統設置建立指紋驗證</string>
     <string name="sendContentTo">傳送這篇文章到：</string>
@@ -39,7 +40,7 @@
     <string name="goOn">繼續</string>
     <string name="reject">拒絕</string>
     <string name="titleIntroCard">寫 • 作</string>
-    <string name="defaultContent">　　很高興見到你！\n　　這是一個簡單的純文字編輯器，我們希望寫作能夠回到原本的樣子：<b>純粹、有安全感、隨時、絕對不遺失內容、具備良好的寫作體驗。 </b>\n　　純純寫作達成了在 Android 上完美的行間距和段落間距，它能夠使您的文件看起來更加舒適，清晰。同時，它還實現了流暢移動、下滑關閉輸入法軟鍵盤，以及許多令人驚豔的細節。\n　　蘊繁於簡，您能夠以最快速度達到靈感頁面，能夠隨時隨地中斷和繼續寫作，能夠使用指紋加密您的文件，能夠輕易、快速將文件分享傳送到其他應用程序，這些我們都已經為您做好了。\n　　最重要的，<b>在使用這個編輯器時，它將會保證您的內容永遠不會遺失，除非您主動將它清除。否則即使不小心將文件移除，或瞬間斷電，您仍然能夠從歷史紀錄中將它還原。 </b>\n　　當您完成一篇文章寫作之後，可以選擇 右上角傳送按鈕 將它傳送到另外的應用程序，或開啟新篇章。\n　　現在您可以嘗試清除本頁，進行您的創作。清除本頁操作在右上角目錄當中，如果誤操作，您同樣可以從歷史紀錄中還原。\n　　我們視您的創作為最重要的珍寶。請享用。</string>
+    <string name="defaultContent">　　很高興見到你！\n　　這是一個快速的純文字編輯器，我們希望寫作能夠回到原本的樣子：<b>純粹、有安全感、隨時、絕對不遺失內容、具備良好的寫作體驗。</b>\n　　純純寫作實現了在 Android 上完美的行間距和段間距，它能夠使您的文字看起來更加舒適，清晰。同時，它還實現了「快捷輸入欄」和「格式化工具」，以及許多喜人的細節內容。\n　　最重要的，<b>在使用這個編輯器時，它將會保證您的內容永遠不會遺失，除非您主動將它清空。否則即使誤操作將文字刪除，或瞬間斷電，您仍然能夠從歷史記錄或備份中將它恢復。</b>\n　　純純寫作還在流暢體驗上下了很多功夫，它擁有 完美的鍵盤響應邏輯。使用純純寫作時，你能夠往下拖動快捷輸入欄來收起軟鍵盤；能夠點擊文章某一行後，動態獲得合適的游標焦點定位；能夠在收起軟鍵盤時，文章位置保持不動 … 許多這樣的細節內容，當你對比使用其他編輯器項目時，你才會發現純純寫作做得更加出色、流暢，細緻入微。\n　　蘊繁於簡。許多編輯器該有的功能，純純寫作也都沒有落下，比如 WebDAV 雲備份、段首縮排、生成長圖片、指紋加鎖、Markdown、更換信紙、夜間模式、單詞聯想輸入、打字機模式、復原、字數統計 等等。但即使這樣，純純寫作仍然保持了簡約的設計風格，遵循 Material Design 設計，並且它還有一個像是哆啦 A 夢 時光機 的圖標，寓意着「文字能夠連接過去，遙想未來」，也照應了純純寫作特別提供的「歷史記錄」功能。\n　　您能夠最快速度到達靈感頁面，能夠隨時隨地中斷和繼續寫作，這些我們都已經為您做好了。\n　　令人感到安心，順滑流暢的寫作體驗，如你所願，這就是純純寫作，請享受寫作吧！</string>
     <string name="defaultTitle">如你所願</string>
     <string name="tipPermissionFailed">取得權限失敗，將無法儲存記錄</string>
     <string name="titleStorePermissionFailed">取得儲存權限失敗</string>
@@ -107,7 +108,7 @@
     <string name="warningSavedFailed">文件自動儲存失敗，請拷貝您的全文，然後重新啟動 應用程序查看是否遺失內容</string>
     <string name="backupNow">立即備份</string>
     <string name="summaryBackupToLocal">備份檔案將被儲存到 /sdcard/backups</string>
-    <string name="restoreTheBackup">還原備份</string>
+    <string name="restoreBackup">還原備份</string>
     <string name="summaryRestoreTheBackup">備份檔案將從 /sdcard/backups 和 /sdcard/backups/PureWriterAutoBackups 和您的 WebDAV 雲端中讀取</string>
     <string name="backupSuccessfully">備份成功</string>
     <string name="restoreSuccessfully">還原備份成功</string>
@@ -281,4 +282,7 @@
     <string name="defaultMessageUpdateApk">這是一個重要的版本，請儘快更新到這個版本</string>
     <string name="readme">您已開啟了純純寫作新的 Material Design 2 設計。\n\nMaterial Design 2 帶來了新的全螢幕沉浸稿紙和透明化頂欄，更加精緻多彩。\n\n但與此同時，新的設計可能存在諸多問題，因此這個特性作為純純寫作的一個實驗性功能，它可能存在一些 UI 視覺上的問題。另外，作為純純寫作的作者，相對來說，我更喜歡純純寫作預設原版設計，它更加耐看和令人專注文字內容，因此這個主題實際上是應少部分使用者強烈要求而特意開發的，它給開發者造出了額外的開發成本，能夠提供出來實屬不易，而且由於需要兼顧兩套設計和主題，開發者的工作可能會成倍增加。\n\n鑑於此，如果開啟 Material Design 2 後純純寫作將採用強制收費方式，但您仍然可以有許多時間去體驗並作出最終付費決定。請儘量支持它，如果經過統計發現最終願意付費的使用者比例很少，開發者可能會復原或停止提供 Material Design 2。您一旦開啟 Material Design 2，將視為預設同意此內容。\n\n謝謝大家！我會竭盡全力提供一個越來越好的純純寫作，請享用！</string>
     <string name="lowFreeStorageSpaceWarning">您的手機剩餘存儲空間已經只有 %d MB, 這可能導致純純寫作儲存或備份失敗，請務必清理留出 100 MB 以上空間後再使用純純寫作！</string>
+    <string name="insertCategoryBottomShort">在底部插入卷</string>
+    <string name="insertCategoryBottomLong">在章節列表的底部插入新卷</string>
+    <string name="pureWriterBBS">純純寫作論壇</string>
 </resources>

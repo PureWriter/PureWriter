@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="pureWriter">Pure Writer</string>
-    <string name="defaultContent">Leuk om je te ontmoeten!\nDit is een snelle tekst editor, we hopen dat het schrijven kan terugkeren naar het origineel: <b>Zuiver, veilig, op elk moment, verlies de inhoud niet, super betrouwbaar.</b>\nZo bereikt u ook de perfecte lijnafstand en dan hier op het Android-platform, zodat uw tekst comfortabeler en duidelijker wordt. Tegelijkertijd bereikt u ook een soepele scrolling, omlaag om het soft keyboard te sluiten en veel aangename details .\nEenvoud is verborgen complexiteit. U kunt succesvol en gratis onderbreken en kan uw tekst snel vingerafdrukken. Bovendien kan het de tekst snel en snel naar andere Apps verzenden. Wij hebben dit allemaal voor u gedaan.\nDe belangrijkste, <b>Als u de tekst per ongeluk verwijdert of onmiddellijk uitschakelt, kunt u deze nog steeds terugvinden uit de geschiedenis.</b>\nNadat u een artikel hebt geschreven, kunt u de knop Verzenden gebruiken om deze naar andere Apps te sturen, of u kunt een nieuw artikel openen.\nNu kunt u deze pagina verwijderen en uw creatie uitvoeren. De naam van de creatie is de belangrijkste schat.\nGelieve het te genieten.</string>
+    <string name="defaultContent">Leuk je te ontmoeten!\nDit is een snelle teksteditor die is ontworpen met wat wij geloven dat een \"goede schrijfervaring\" zou moeten zijn. Pure Writer is minimalistisch en stelt u in staat om altijd en overal te schrijven zonder bang te zijn dat u uw inhoud ooit zult verliezen.\nMet de regel- en alinea-spatiëringfunctie van Pure Writer is uw tekst duidelijker en comfortabeler om te lezen. Niet alleen dat, maar hij heeft ook een vloeiend scroll-, veeg-naar-klap-toetsenbord en nog veel meer opwindende functies.\nEenvoud is een verborgen complexiteit: u kunt uw werk coderen met uw vingerafdruk, starten of stoppen met schrijven wanneer u maar wilt en uw inhoud snel delen met andere apps - wij helpen u graag verder.\nHet belangrijkste is dat tenzij u het handmatig verwijdert, u nooit uw werk zult verliezen tijdens het gebruik van deze teksteditor. Als het een onopzettelijke verwijdering of een onverwachte afsluiting is, kunt u het nog steeds uit de geschiedenis herstellen.\nMeer functies: WebDAV-cloudback-up, Material Design 2-thema, Markdown, typemachine-modus, exporteren als lange tekstafbeelding, Time Machine …\nHet werkt snel en soepel, u kunt altijd en overal doorgaan met schrijven en verder schrijven.\nVeel plezier ermee.</string>
     <string name="about">Over | Gids</string>
     <string name="actionOkGoSettings">Nou, ga naar Instellingen</string>
     <string name="appPureMosaic">PureMosaic</string>
@@ -35,7 +35,8 @@
     <string name="goOn">Ga verder</string>
     <string name="hasSavedToYourAlbum">Op je album opgeslagen</string>
     <string name="hintDrawerHeader">Snelle, uitstekende ervaring, nooit inhoud verloren</string>
-    <string name="history"><b>Geschiedenis</b></string>
+    <string name="iconDesc">Het pictogram van Pure Writer is een tijdmachine\nDe tijdmachine zweeft naar voren.Wensen wensen kunnen ons ertoe brengen contact te maken met het verleden, na te denken over de toekomst …</string>
+    <string name="history">Geschiedenis</string>
     <string name="iKnow">ik weet</string>
     <string name="indent">Inspringen</string>
     <string name="indentShort">Inspringen</string>
@@ -80,7 +81,7 @@
     <string name="tipRequirePro">Moet Pure Writer Pro kopen</string>
     <string name="tipRichText">Pure Writer streeft ernaar om een zuivere en goede eenvoudige schrijfervaring te creëren, dus het is niet bedoeld om rijke tekstinhoud te ondersteunen. Op dit moment kan u de tekst in de presentatie zien met <b> gewaagde tekst </b>, vetgedrukt is verborgen, niet open, omdat vet niet in het TXT-bestand kan worden uitgedrukt, sorry, vergeef me alstublieft! Als u een betere suggestie hebt, kunt u alsjeblieft meedoen bij de feedbackgroep om me te vertellen, bedankt voor uw steun!</string>
     <string name="tipSettingNotSupport">Dit kan tijdelijk niet instellen. Binnenkort beschikbaar.</string>
-    <string name="tipShouldSetupFingerprint">Moet eerst vingerafdruk maken</string>
+    <string name="tipShouldSetupFingerprint">Maak eerst een vingerafdruk in systeeminstellingen!</string>
     <string name="tipShouldUnlock">Moet eerst ontgrendelen</string>
     <string name="tipTitleLengthLimit">De titel ondersteunt maximaal 100 tekens</string>
     <string name="titleAndContentAreEmpty">Titel en inhoud zijn leeg</string>
@@ -105,7 +106,7 @@
     <string name="warningSavedFailed">Bestand opgeslagen mislukt, kopieer de volledige tekst en start de app opnieuw om te zien of de inhoud ontbreekt</string>
     <string name="backupNow">Nu backuppen</string>
     <string name="summaryBackupToLocal">Het back-upbestand wordt opgeslagen op het pad /sdcard/backups</string>
-    <string name="restoreTheBackup">Herstel de back-up</string>
+    <string name="restoreBackup">Back-up terugzetten</string>
     <string name="summaryRestoreTheBackup">The backup file will be read from these paths: /sdcard/backups and /sdcard/backups/PureWriterAutoBackups and your WebDAV cloud disk</string>
     <string name="backupSuccessfully">Backup succesvol</string>
     <string name="restoreSuccessfully">Herstel de back-up met succes</string>
@@ -274,4 +275,7 @@
     <string name="defaultMessageUpdateApk">Dit is een belangrijke versie, update deze versie zo snel mogelijk.</string>
     <string name="readme">U hebt het nieuwe Material Design 2-ontwerp van Pure Writer ingeschakeld.\n\nMaterial Design 2 brengt een nieuw full-screen immersiepapier en een transparante bovenste balk voor een meer frisse uitstraling.\n\nTegelijkertijd kunnen er echter veel problemen zijn met het nieuwe ontwerp, dus dit is een experimenteel kenmerk van Pure Writer, dat mogelijk visuele problemen met de UI heeft. Bovendien, als de auteur van Pure Writer, geef ik de voorkeur aan het originele Pure Schrijverontwerp, dat meer in het oog springt en gericht is op tekstinhoud, dus deze ontwerpfunctie is eigenlijk ontwikkeld in antwoord op de sterke eisen van een klein aantal gebruikers. Het vereist veel extra ontwikkelingskosten en het is niet gemakkelijk om Voorzie, en aangezien er nu twee Pure Writer-ontwerpen zijn, kan het werk van ontwikkelaars zich vermenigvuldigen.\n\nDaarom raadt Pure Writer X u aan om ervoor te betalen, maar u kunt nog steeds veel tijd besteden om te ervaren en een definitieve betalingsbeslissing te nemen. Probeer het alsjeblieft te ondersteunen. Als uit de statistieken blijkt dat het aantal gebruikers dat De bereidheid om te betalen is klein, de ontwikkelaar kan het Material Design annuleren of stoppen. 2. Zodra u op OK klikt, bent u vastbesloten om standaard akkoord te gaan met deze inhoud.\n\nBedankt allemaal! Ik zal mijn best doen om een ​​betere en betere Pure Writer te bieden, alsjeblieft geniet ervan!</string>
     <string name="lowFreeStorageSpaceWarning">Uw telefoon heeft slechts %d MB aan gratis opslag, waardoor Pure Writer kan worden opgeslagen of een back-up kan mislukken. Ruim alsjeblieft op en laat meer dan 100 MB over voordat je Pure Writer gebruikt!</string>
+    <string name="insertCategoryBottomShort">Voeg categorie toe onderaan</string>
+    <string name="insertCategoryBottomLong">Voeg een nieuwe categorie toe onderaan de hoofdstuklijst</string>
+    <string name="pureWriterBBS">Pure Writer BBS</string>
 </resources>
