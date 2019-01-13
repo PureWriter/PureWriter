@@ -2,7 +2,7 @@
 <resources>
     <string name="pureWriter">Pure Writer</string>
     <string name="about">के बारे में | गाइड</string>
-    <string name="hintDrawerHeader">फास्ट, उत्कृष्ट अनुभव, कभी सामग्री नहीं खोई</string>
+    <string name="slogan">फास्ट, उत्कृष्ट अनुभव, कभी सामग्री नहीं खोई</string>
     <string name="iconDesc">प्योर राइटर का आइकन टाइम मशीन है\nटाइम मशीन आगे चल रही है। भविष्य के बारे में सोचते हुए, शब्द हमें अतीत से जोड़ने के लिए ले जा सकते हैं…</string>
     <string name="editorTipAMenu">तुम एक पाठ का चयन करने की जरूरत है</string>
     <string name="editorHintContent">पाठ दर्ज करें</string>
@@ -20,21 +20,16 @@
     <string name="failedContentIsEmpty">विफल: सामग्री खाली है</string>
     <string name="copyTheTitleSuccessfully">शीर्षक सफलतापूर्वक कॉपी किया गया</string>
     <string name="copyTheContentSuccessfully">सामग्री सफलतापूर्वक कॉपी की गई</string>
-    <string name="tipDestroyArticleSuccessfully">इस लेख को सफलतापूर्वक नष्ट कर दिया, और आप इसे इतिहास पृष्ठ से वापस कर सकते हैं</string>
     <string name="titleAndContentAreEmpty">शीर्षक और सामग्री रिक्त है</string>
-    <string name="clearThisPage">Clear this page</string>
     <string name="copyContent">सामग्री की प्रतिलिपि बनाएँ</string>
-    <string name="appRecommendationTitle">सिफ़ारिश करना</string>
     <string name="appPureMosaic">PureMosaic</string>
     <string name="wordCountShort">"गिनती"</string>
     <string name="historyState">सहेजा गया</string>
-    <string name="todayIs">आज</string>
     <string name="tipNeedFingerprint">देखने और संपादित करने के लिए फिंगरप्रिंट अनलॉक की आवश्यकता है</string>
     <string name="empty">खाली</string>
     <string name="untitled">शीर्षकहीन</string>
     <string name="isRevertToThisFile">इस फाइल में वापस लौटें?</string>
     <string name="noMore">अब और नहीं</string>
-    <string name="tipNoMoreAndLimitFormat">और नहीं, और हम केवल %d इतिहास बचाते हैं</string>
     <string name="goOn">जारी रखें</string>
     <string name="reject">अस्वीकार</string>
     <string name="titleIntroCard">कुछ भी लिखने के लिए उपयोग किया जाता है</string>
@@ -46,7 +41,6 @@
     <string name="actionOkGoSettings">ठीक</string>
     <string name="tipFingerAuthRetry">फिंगरप्रिंट अनलॉक करने के लिए विफल रहता है, पुनर्प्रयास की शेष संख्या: %d</string>
     <string name="tipFingerAuthFailed">फिंगरप्रिंट अनलॉक करने में विफल, कृपया 1 मिनट के बाद फिर से प्रयास करें, कार्यक्रम से बाहर निकलने वाला है …</string>
-    <string name="tipTitleLengthLimit">शीर्षक 100 वर्णों तक का समर्थन करता है</string>
     <string name="tipRichText">शुद्ध लेखक एक शुद्ध और अच्छा सादा पाठ लेखन अनुभव बनाने के लिए प्रतिबद्ध है, इसलिए यह अमीर पाठ सामग्री का समर्थन करने के लिए अभिप्रेत नहीं है। इस समय, आप <b> बोल्ड टेक्स्ट </b> के साथ प्रस्तुति में टेक्स्ट देख सकते हैं, बोल्डफेस छिपा हुआ है, कोई खुला नहीं है, क्योंकि बोल्ड को TXT फ़ाइल में व्यक्त नहीं किया जा सकता है, क्षमा करें, कृपया मुझे माफ कर दो! अगर आपके पास एक बेहतर सुझाव है, तो कृपया मुझे बताओ कि प्रतिक्रिया समूह में शामिल हों, अपने समर्थन के लिए धन्यवाद!</string>
     <string name="settings">सेटिंग्स</string>
     <string name="tipIndent">नोट: सेगमेंटेशन इंडेंटेन्टेशन सेटिंग आइटम मौजूदा टेक्स्ट नहीं बदलेगा</string>
@@ -58,7 +52,6 @@
     <string name="dayNightMode">नाइट मोड</string>
     <string name="summaryPay">उन्नत सुविधाओं को अनलॉक करें</string>
     <string name="tipSettingNotSupport">अस्थायी रूप से यह सेट नहीं कर सकता। जल्द आ रहा है।</string>
-    <string name="settingsAndRecommendation">सेटिंग्स और मेरे Apps</string>
     <string name="on">खुला है</string>
     <string name="off">पास</string>
     <string name="shortcutBar">शॉर्टकट बार</string>

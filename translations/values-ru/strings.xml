@@ -2,7 +2,7 @@
 <resources>
     <string name="pureWriter">Pure Writer</string>
     <string name="about">О компании | Guide</string>
-    <string name="hintDrawerHeader">Быстрый, отличный опыт, никогда не терял контент</string>
+    <string name="slogan">Быстрый, отличный опыт, никогда не терял контент</string>
     <string name="iconDesc">Икона Pure Writer - машина времени\nМашина времени летит вперёд. Желая слова могут привести нас к прошлому, думать о будущем …</string>
     <string name="editorTipAMenu">Выберите текст</string>
     <string name="redo">Повторить</string>
@@ -20,21 +20,16 @@
     <string name="failedContentIsEmpty">Ошибка: пустой документ</string>
     <string name="copyTheTitleSuccessfully">Название скопировано</string>
     <string name="copyTheContentSuccessfully">Содержимое скопировано</string>
-    <string name="tipDestroyArticleSuccessfully">Статья уничтожена, вы можете вернуть ее через страницу истории</string>
     <string name="titleAndContentAreEmpty">Содержание и название отсутствуют</string>
-    <string name="clearThisPage">Очистить страницу</string>
     <string name="copyContent">Скопировать содержимое</string>
-    <string name="appRecommendationTitle">Рекомендуем</string>
     <string name="appPureMosaic">PureMosaic</string>
     <string name="wordCountShort">кол-во</string>
     <string name="historyState">Сохраненные документы</string>
-    <string name="todayIs">Cегодня</string>
     <string name="tipNeedFingerprint">Нужен отпечаток для просмотра и редактирования</string>
     <string name="empty">Пусто</string>
     <string name="untitled">Без названия</string>
     <string name="isRevertToThisFile">Вернуться к этому файлу?</string>
     <string name="noMore">Больше нет</string>
-    <string name="tipNoMoreAndLimitFormat">Больше нет, и мы сохраняем только %d историй</string>
     <string name="goOn">Продолжить</string>
     <string name="reject">Отклонить</string>
     <string name="titleIntroCard">Использовать в качестве заголовка</string>
@@ -45,7 +40,6 @@
     <string name="actionOkGoSettings">Ну, зайдите в Настройки</string>
     <string name="tipFingerAuthRetry">Мы не можем найти ваш отпечаток. Осталось попыток: %d</string>
     <string name="tipFingerAuthFailed">Не удалось разблокировать по отпечатку пальца, попробуйте еще раз через 1 минуту. Выходим из приложения…</string>
-    <string name="tipTitleLengthLimit">Название поддерживает до 100 символов</string>
     <string name="tipRichText">Pure Writer не предназначен для больших и богатых текстов, так как мы стремимся создать простой и чистый текстовый редактор. Вы можете выделить текст в презентации с помощью <b> жирного текста </b>. Жирный шрифт скрыт, так как он не может быть в TXT-файле, приношу свои искренние извинения. Если у вас есть предложение, пожалуйста, присоединитесь к группе отзывов, чтобы сказать мне об этом, спасибо за вашу поддержку!</string>
     <string name="settings">Настройки</string>
     <string name="tipIndent">Примечание: элемент настройки отступов не изменит существующий текст</string>
@@ -57,7 +51,6 @@
     <string name="dayNightMode">Ночной режим</string>
     <string name="summaryPay">Разблокировать дополнительные функции</string>
     <string name="tipSettingNotSupport">Временно не удается установить</string>
-    <string name="settingsAndRecommendation">Настройки &amp; Мои другие приложения</string>
     <string name="on">Включено</string>
     <string name="off">Отключено</string>
     <string name="shortcutBar">Ярлык</string>

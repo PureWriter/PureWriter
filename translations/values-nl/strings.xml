@@ -5,11 +5,9 @@
     <string name="about">Over | Gids</string>
     <string name="actionOkGoSettings">Nou, ga naar Instellingen</string>
     <string name="appPureMosaic">PureMosaic</string>
-    <string name="appRecommendationTitle">Aanbeveling</string>
     <string name="autoLock">Automatische vergrendeling</string>
     <string name="cancel">Annuleer</string>
     <string name="deleteObsoleteFiles">Verwijder verouderde bestanden</string>
-    <string name="clearThisPage">Verwijder deze pagina</string>
     <string name="contentTextSize">Inhoud tekst grootte</string>
     <string name="copyContent">Kopieer de inhoud</string>
     <string name="copyTheContentSuccessfully">De inhoud is succesvol gekopieerd</string>
@@ -30,11 +28,10 @@
     <string name="features">Kenmerken</string>
     <string name="format">Formaat</string>
     <string name="historyState">Opgeslagen record</string>
-    <string name="todayIs">Vandaag is</string>
     <string name="wordCountShort">Tellen</string>
     <string name="goOn">Ga verder</string>
     <string name="hasSavedToYourAlbum">Op je album opgeslagen</string>
-    <string name="hintDrawerHeader">Snelle, uitstekende ervaring, nooit inhoud verloren</string>
+    <string name="slogan">Snelle, uitstekende ervaring, nooit inhoud verloren</string>
     <string name="iconDesc">Het pictogram van Pure Writer is een tijdmachine\nDe tijdmachine zweeft naar voren.Wensen wensen kunnen ons ertoe brengen contact te maken met het verleden, na te denken over de toekomst …</string>
     <string name="history">Geschiedenis</string>
     <string name="iKnow">ik weet</string>
@@ -63,11 +60,9 @@
     <string name="sendContentTo">Stuur deze inhoud naar:</string>
     <string name="sendTextFailedForTooLarge">Uw tekst is te lang om direct naar andere Apps te worden verzonden. Het heeft de tekst al naar uw klembord gekopieerd</string>
     <string name="settings">instellingen</string>
-    <string name="settingsAndRecommendation">Instellingen &amp; Mijn andere apps</string>
     <string name="shortcutBar">Snelkoppeling</string>
     <string name="summaryPaid">Verworven: Pure Writer Pro</string>
     <string name="summaryPay">Ontgrendel geavanceerde functies</string>
-    <string name="tipDestroyArticleSuccessfully">Dit artikel is succesvol gewist en u kunt het terugvinden op de geschiedenispagina</string>
     <string name="tipFingerAuthFailed">Het vingerafdruk ontgrendelen, probeer het na 1 minuut nogmaals, het programma is op het punt om te stoppen …</string>
     <string name="tipFingerAuthRetry">Het vingerafdruk ontgrendeld, het resterende aantal retries: %d</string>
     <string name="tipIndent">Opmerking: het segmentatie-indentatie-instelling-item verandert de bestaande tekst niet</string>
@@ -75,7 +70,6 @@
     <string name="tipMessageStoragePermissionFirst">We hebben toestemming nodig om automatisch een back-up te maken van uw artikelen, om toestemming te vragen om te voorkomen dat uw artikelen verloren gaan.</string>
     <string name="tipMessageStoragePermissionToSettings">We hebben opslagvergunningen nodig om uw geschiedenis op te slaan. Ga naar de instellingenpagina om de toestemming handmatig te verlenen, anders kan de geschiedenisfunctie niet normaal worden gebruikt!</string>
     <string name="tipNeedFingerprint">Vingerafdruk ontgrendelen om te bekijken en te bewerken</string>
-    <string name="tipNoMoreAndLimitFormat">Niet meer, en we besparen slechts %d geschiedenissen</string>
     <string name="tipPermissionFailed">Toestemming haal mislukt en kan het record niet opslaan</string>
     <string name="tipPurchasedStatusFailed">Gekocht. Als de status niet wordt vernieuwd, probeer dan nogmaals op het Pro-item te klikken en trekt u uw geld nogmaals niet terug.</string>
     <string name="tipRequirePro">Moet Pure Writer Pro kopen</string>
@@ -83,7 +77,6 @@
     <string name="tipSettingNotSupport">Dit kan tijdelijk niet instellen. Binnenkort beschikbaar.</string>
     <string name="tipShouldSetupFingerprint">Maak eerst een vingerafdruk in systeeminstellingen!</string>
     <string name="tipShouldUnlock">Moet eerst ontgrendelen</string>
-    <string name="tipTitleLengthLimit">De titel ondersteunt maximaal 100 tekens</string>
     <string name="titleAndContentAreEmpty">Titel en inhoud zijn leeg</string>
     <string name="titleHint">Vul alstublieft een titel in</string>
     <string name="titleIntroCard">Gebruikt om iets te schrijven</string>

@@ -9,7 +9,7 @@
     <string name="editorTipAMenu">需要選取一段文字才能執行</string>
     <string name="editorHintContent">請輸入文章內容</string>
     <string name="titleHint">請輸入標題</string>
-    <string name="hintDrawerHeader">快速、良好體驗、永不遺失內容</string>
+    <string name="slogan">快速、良好體驗、永不遺失內容</string>
     <string name="iconDesc">純純寫作的圖標畫的是一個時光機\n時光機漂浮前進，願文字能夠帶我們連接過去，遙想未來…</string>
     <string name="share">傳送到應用程序</string>
     <string name="copyTitle">拷貝標題</string>
@@ -22,21 +22,16 @@
     <string name="failedContentIsEmpty">不能留空文章內容</string>
     <string name="copyTheTitleSuccessfully">成功拷貝標題</string>
     <string name="copyTheContentSuccessfully">成功拷貝文章內容</string>
-    <string name="tipDestroyArticleSuccessfully">成功清除文章。如果想要還原文章，您可以從歷史紀錄中還原</string>
     <string name="titleAndContentAreEmpty">標題和內容皆是空的</string>
-    <string name="clearThisPage">清除此頁面</string>
     <string name="copyContent">拷貝文章內容</string>
-    <string name="appRecommendationTitle">推薦應用程序</string>
     <string name="appPureMosaic">純純打碼</string>
     <string name="wordCountShort">字數</string>
     <string name="historyState">已儲存記錄</string>
-    <string name="todayIs">今天是</string>
     <string name="tipNeedFingerprint">需要指紋解鎖才能查看和編輯</string>
     <string name="empty">空的</string>
     <string name="untitled">無題</string>
     <string name="isRevertToThisFile">還原到此文件？</string>
     <string name="noMore">沒有更多啦！</string>
-    <string name="tipNoMoreAndLimitFormat">就這樣而已，我們目前只會保留 %d 個文件</string>
     <string name="goOn">繼續</string>
     <string name="reject">拒絕</string>
     <string name="titleIntroCard">寫 • 作</string>
@@ -49,7 +44,6 @@
     <string name="actionOkGoSettings">了解，去設置</string>
     <string name="tipFingerAuthRetry">指紋解鎖失敗，剩餘重試次數：%d</string>
     <string name="tipFingerAuthFailed">指紋解鎖失敗，請一分鐘後重試，程序即將退出…</string>
-    <string name="tipTitleLengthLimit">標題最多只支援 100 個字</string>
     <string name="tipRichText">純純寫作 致力於打造純粹並且良好的純文字書寫體驗，所以暫不打算支援 RTF 內容。目前您可能看到範例文件中有<b>粗體文字</b>，粗體屬於隱藏功能，暫時沒有開放，因為粗體無法在  TXT  文件中顯示，表示抱歉，請見諒！如果您有更好的建議，歡迎加入回報問題群組來告訴我，感謝支援！</string>
     <string name="settings">設置</string>
     <string name="tipIndent">注意：段落首行縮排設置項目更改不會改變已有的文件</string>
@@ -61,7 +55,6 @@
     <string name="dayNightMode">夜間模式</string>
     <string name="summaryPay">解鎖進階功能</string>
     <string name="tipSettingNotSupport">暫時不能設置此項目，未來版本即將支援</string>
-    <string name="settingsAndRecommendation">設置 &amp; 其他推薦應用程序</string>
     <string name="on">開啟</string>
     <string name="off">關閉</string>
     <string name="shortcutBar">輸入捷徑欄</string>

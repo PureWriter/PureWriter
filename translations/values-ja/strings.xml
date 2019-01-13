@@ -2,7 +2,7 @@
 <resources>
     <string name="pureWriter">Pure Writer</string>
     <string name="about">About | ガイド</string>
-    <string name="hintDrawerHeader">速く、優れた経験、決して失われたコンテンツ</string>
+    <string name="slogan">速く、優れた経験、決して失われたコンテンツ</string>
     <string name="editorTipAMenu">あなたは、テキストを選択する必要があります</string>
     <string name="redo">遣り直す</string>
     <string name="undo">アンドゥ</string>
@@ -19,21 +19,16 @@
     <string name="failedContentIsEmpty">失敗：コンテンツが空です</string>
     <string name="copyTheTitleSuccessfully">タイトルを正常にコピーしました</string>
     <string name="copyTheContentSuccessfully">コンテンツを正常にコピーしました</string>
-    <string name="tipDestroyArticleSuccessfully">この記事を正常に破棄し、履歴ページから元に戻すことができます</string>
     <string name="titleAndContentAreEmpty">タイトルと内容が空であります</string>
-    <string name="clearThisPage">Clear this page</string>
     <string name="copyContent">コンテンツをコピーする</string>
-    <string name="appRecommendationTitle">推奨</string>
     <string name="appPureMosaic">PureMosaic</string>
     <string name="wordCountShort">単語数</string>
     <string name="historyState">保存されました</string>
-    <string name="todayIs">今日</string>
     <string name="tipNeedFingerprint">表示と編集のために指紋を解除する必要があります</string>
     <string name="empty">空の</string>
     <string name="untitled">無題</string>
     <string name="isRevertToThisFile">このファイルに戻す？</string>
     <string name="noMore">もういや</string>
-    <string name="tipNoMoreAndLimitFormat">もうこれ以上 %d ヒストリーしか保存できません</string>
     <string name="goOn">続ける</string>
     <string name="reject">拒絶する</string>
     <string name="titleIntroCard">何かを書くのに使う</string>
@@ -45,7 +40,6 @@
     <string name="actionOkGoSettings">OK</string>
     <string name="tipFingerAuthRetry">失敗したロックを解除する指紋認証、再試行の残りの数：%d</string>
     <string name="tipFingerAuthFailed">指紋のロックを解除できませんでした.1分後にもう一度お試しください。プログラムが終了しようとしています…</string>
-    <string name="tipTitleLengthLimit">タイトルは最大 100 文字をサポートします</string>
     <string name="tipRichText">Pure Writerは、純粋で良好なプレーンテキストライティングエクスペリエンスを作成することを約束しているため、リッチテキストコンテンツをサポートすることは意図されていません。 現時点では、太字をTXTファイルで表現できないため、<b>太字</b>のテキストが表示されます。太字は非表示、非表示です。ごめんなさい、ご容赦ください！ より良い提案がある場合は、フィードバックグループに参加して、私に教えてください、あなたのサポートに感謝します！</string>
     <string name="settings">設定</string>
     <string name="tipIndent">注：セグメンテーションのインデント設定項目では、既存のテキストは変更されません</string>
@@ -57,7 +51,6 @@
     <string name="dayNightMode">ナイトモード</string>
     <string name="summaryPay">Get Pro features</string>
     <string name="tipSettingNotSupport">一時的にこれを設定することはできません。 近日公開。</string>
-    <string name="settingsAndRecommendation">設定とマイアプリ</string>
     <string name="on">オープン</string>
     <string name="off">クローズ</string>
     <string name="shortcutBar">ショートカットバー</string>

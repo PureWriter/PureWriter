@@ -3,7 +3,7 @@
     <string name="titleHint">Título</string>
     <string name="editorTipAMenu">Você precisará primeiro escolher algum texto</string>
     <string name="editorHintContent">Começar a escrever algum conteúdo…</string>
-    <string name="hintDrawerHeader">Rápido | Experiência Incrível | Nunca perca seu conteúdo</string>
+    <string name="slogan">Rápido | Experiência Incrível | Nunca perca seu conteúdo</string>
     <string name="undo">Desfazer</string>
     <string name="redo">Refazer</string>
     <string name="about">Sobre</string>
@@ -19,24 +19,19 @@
     <string name="failedContentIsEmpty">Conteúdo não pode estar vazio</string>
     <string name="copyTheTitleSuccessfully">Título copiado com sucesso!</string>
     <string name="copyTheContentSuccessfully">Conteúdo copiado com sucesso!</string>
-    <string name="tipDestroyArticleSuccessfully">Excluído com sucesso. Você pode recuperá-lo do Histórico se isto foi um acidente</string>
     <string name="titleAndContentAreEmpty">Título e Conteúdo estão vazios!</string>
-    <string name="clearThisPage">Limpar esta Página</string>
     <string name="copyContent">Copiar o Conteúdo</string>
-    <string name="appRecommendationTitle">Recomendação</string>
     <string name="appPureMosaic">Pure Mosaic</string>
     <string name="wordCountShort">Contador</string>
     <string name="wordCountLong">Contador de Palavras</string>
     <string name="wordCountOfCurrentArticle">Contagem Total de Palavras do Artigo Atual</string>
     <string name="floatingWordCount">Contador de Palavras Flutuante</string>
     <string name="historyState">Salvo</string>
-    <string name="todayIs">Hoje é</string>
     <string name="tipNeedFingerprint">Para visualizar e editar, por favor use sua impressão digital para desbloquear primeiro</string>
     <string name="empty">Vazio</string>
     <string name="untitled">Sem Título</string>
     <string name="isRevertToThisFile">Recuperar este documento?</string>
     <string name="noMore">Nada mais!</string>
-    <string name="tipNoMoreAndLimitFormat">Nada mais，iremos apenas salvar %d arquivo(s)</string>
     <string name="goOn">Continuar</string>
     <string name="reject">Recusar</string>
     <string name="titleIntroCard">Pure Writer</string>
@@ -48,12 +43,10 @@
     <string name="actionOkGoSettings">Ir para Configurações</string>
     <string name="tipFingerAuthRetry">Não foi possível reconhecer a impressão digital. Você tem %d tentativa(s) restante(s).</string>
     <string name="tipFingerAuthFailed">Impressão digital suspensa. Por favor, tente novamente em 1 minuto. Fechando Pure Writer…</string>
-    <string name="tipTitleLengthLimit">Título do texto limitado a 100 caracteres</string>
     <string name="tipRichText">Pure Writer tem como objetivo proporcionar aos usuários um ambiente de escrita minimalista, portanto não há planos para incluir o recurso de Texto Rico nos desenvolvimentos futuros. Você deve ter notado alguns <b>textos em negrito</b> na visualização, mas isso só acontece por causa de um recurso escondido --também, negrito não pode ser exibido em arquivos .txt. Desculpe! Se você tem sugestões melhores, entre em contanto comigo. Obrigado pelo suporte!</string>
     <string name="settings">Configurações</string>
-    <string name="settingsAndRecommendation">Configurações &amp; Outros aplicativos feitos por mim</string>
-    <string name="on">Ligado</string>
-    <string name="off">Desligado</string>
+    <string name="on">Ativado</string>
+    <string name="off">Desativado</string>
     <string name="shortcutBar">Barra de atalhos</string>
     <string name="insertBlankLinesWhenExporting">Adicionar linhas extras quando exportando to ao exportar</string>
     <string name="indent">Recuo</string>
@@ -69,8 +62,8 @@
     <string name="tipSettingNotSupport">Esta configuração ainda está em desenvolvimento.</string>
     <string-array name="nightModeEntries">
         <item>Automático</item>
-        <item>Modo noite LIGADO</item>
-        <item>Modo noite DESLIGADO</item>
+        <item>Modo noite Ativado</item>
+        <item>Modo noite Desativado</item>
     </string-array>
     <string name="promptShortcutTitle">Descrição do atalho (opcional)</string>
     <string name="promptShortcutContent">Conteúdo do atalho (obrigatório)</string>
@@ -122,7 +115,7 @@
         <item>Incluir todos os símbolos e texto</item>
     </string-array>
     <string name="fab">Botão de ação flutuante</string>
-    <string name="tipFab">Dica: Pressione durante um tempo o Botão de Início Flutuante para escondê-lo temporariamente</string>
+    <string name="tipFab">Dica: Pressione durante um tempo o Botão de ação Flutuante para escondê-lo temporariamente</string>
     <string name="tipCannotCreateNewWhenEmpty">Você não pode criar um novo artigo quando o título e o conteúdo estão ambos em branco! Mas você pode criar através do botão no canto superior direito no menu.</string>
     <string name="more">Mais</string>
     <string name="notSupportOpeningTheLink">Link não suportado</string>
@@ -226,7 +219,7 @@
     <string name="presetTitle1">Pure Writer - Conectando o Passado e o Futuro com Palavras</string>
     <string name="presetContent1">Pure Writer é um aplicativo de edição de texto rápido e confortável que previne você de perder seu trabalho. Ao rolar os comentários e as críticas na página da Google Play de Pure Writer, você poderá encontrar alguns grandes elogios para este aplicativo, como "Não há outro aplicativo melhor que este", "O aplicativo mais satisfatório", "Amo tanto este aplicativo", "Amor à primeira vista por esse aplicativo"… Como o único desenvolvedor de Pure Writer, os comentários foram especialmente gratificantes para mim. \nEm Junho de 2017, depois que eu passei por diversos editores de texto desconfortáveis, mal feitos e perdi meus preciosos arquivos de texto, eu estava determinado a desenvolver meu próprio aplicativo editor de texto que permitisse seus usuários escreverem a qualquer momento e em qualquer lugar em um ambiente cheio de recursos e confortável, sabendo disso, as palavras deles nunca irão desaparecer. Este aplicativo, como eu decidi, será desenvolvido com um perspectiva de um escritor. \nAntes de tudo isso, eu estava trabalhando meio período num software de edição de texto rico. Embora tenhamos colocado nossos corações nisso, o software não saiu do jeito que queríamos que ele fosse. Apesar disso, desenvolvi com sucesso alguns recursos exclusivos que são mais do que suficientes para o Pure Writer. \nE então Pure Writer nasceu. Desde o começo, Pure Writer tomou conta de aperfeiçoar cada linha e espaçamento de caracteres no Android. Esta é a funcionalidade especial que nenhum outro editor de texto para android conquistou, apenas Microsoft Word o fez. E ainda o tamanho do pacote do Microsoft Word é muito maior, dez vezes maior que o do Pure Writer.\nNão apenas isso, Pure Writer também oferece recursos especiais como "iniciar editor de texto na inicialização do aplicativo" e especialmente "Registros de Histórico". Como escritor, eu entendo que é de extrema importância ter um registro histórico - isso te permite focar-se na sua escrita enquanto lhe dá tranquilidade que você nunca, nunca perca o que você está escrevendo. Mesmo se seu celular se desligar do nada, Pure Writer ainda pode salvar seu conteúdo automaticamente. Dessa forma, todos os usuários podem começar ou parar de escrever quando quiserem em um confortável editor de texto com confiança. \nPara complementar, Pure Writer suporta "Atalhos de entrada" e "Ferramentas de Formatação", atalhos de entrada permite que usuários ponham suas próprias palavras na barra de atalhos, então eles poderão usá-las facilmente de novo e de novo; ferramentas de formatação ajudam os usuários a formatar seus textos rapidamente, espaçamento automático e organizando o texto por exemplo. \nNão apenas estas funcionalidades, muito esforço foi feito para aperfeiçoar o mais ínfimo detalhe no Pure Writer. Enquanto usar o Pure Writer,  você é capaz de esconder o teclado virtual simplesmente deslizando a tela, ponha o cursor aonde você exatamente o quer e ainda mantenha o artigo enquanto você esconde o teclado…  Se você fosse comparar o Pure Writer com os outros aplicativos de edição de texto, iria ver que o Pure Writer cuidou perfeitamente de todos os pequenos detalhes que eventualmente contribuem para um ambiente de escrita perfeito.\nPure Writer tem as ferramentas de edição que você precisa, por exemplo: recuo automático, exporte artigos como vários tipos de arquivos incluindo imagens, contador flutuante de palavras, cancelar, Markdown, temas para background e customizações, modo noite, criptografia biométrica, preenchimento automático de texto, compartilhamento e muito mais. Apesar de todos os recursos e detalhes, o Pure Writer ainda mantém seu estilo minimalista e segue as diretrizes do Material Design. Eu também fiz uma "Máquina do Tempo" para os usuários criarem notas e as manterem. O nome "Máquina do Tempo" foi inspirado no quadrinho Doraemon, com o significado de "Conectando o Passado e o Futuro com palavras" . \nAté hoje, o código base do Pure Writer tem recebido mais de mil commits e milhões de linhas mudadas. Embora o Pure Writer consuma quase todo o meu tempo livre, é sempre um alívio que mais e mais usuários estejam me dando um feedback positivo. Eu me conecto ativamente com os usuários do Pure Writer, coletando feedback e aperfeiçoando o aplicativo. Eu nunca me senti tão feliz pensando em como fazer algo a longo prazo que ajude outras pessoas. \nFinalmente, agradeço a todos os meus amigos que me ajudaram nesta jornada. Sem vocês, este aplicativo nunca estaria onde está hoje. Com este post, eu apresento as ideias originais do Pure Writer e todos os seus recursos especiais, e espero que mais pessoas ainda conheçam este aplicativo. Vamos torcer para que possamos deixar memórias maravilhosas para trás no tempo limitado que temos. Deixem nossas Palavras nos levarem ao passado, e nos fazerem imaginar o futuro.</string>
     <string name="presetTitle2">Pure Writer - Mecanismo de Proteção</string>
-    <string name="presetContent2">O atual mecanismo de proteção que Pure Writer tem é: \n1. O artigo será salvo assim que o conteúdo for alterado. Se isso falhar, Pure Writer notificará o usuário imediatamente. \n2. Pure Writer checará se seu conteúdo é salvo na base de dados a cada dois segundos. Se isso falhar, Pure Writer notificará o usuário imediatamente. \n3. Se o salvamento automático falhar, não será possível para os usuários saírem completamente do aplicativo. Pressionar o botão de saída neste momento é o mesmo que pressionar o botão Início sem parar completamente o aplicativo. Isso dará algum tempo para que o usuário consiga salvar manualmente seu conteúdo. \n4. Toda vez que o aplicativo estiver sendo executado em segundo plano ou encerrado, ele fará backup automaticamente do banco de dados inteiro se algum conteúdo for editado. O arquivo de backup pode ser acessado a qualquer momento. O backup será salvo junto com a versão anterior do backup para permitir que os usuários revertam o backup.\n5. Os recursos de registro de histórico e desfazer e refazer são fornecidos para todos os artigos.\n6. Há uma Lixeira para que exclusões acidentais não causem a perda do seus textos.\n7. Backups em Nuvem: Se Pure Writer estiver integrado com WebDAV, ele realizará o backup automaticamente de todo o conteúdo presente no banco de dados, incluindo os artigos, para a nuvem.</string>
+    <string name="presetContent2">O atual mecanismo de proteção que Pure Writer tem é: \n1. O artigo será salvo assim que o conteúdo for alterado. Se isso falhar, Pure Writer notificará o usuário imediatamente. \n2. Pure Writer checará se seu conteúdo é salvo na base de dados a cada dois segundos. Se isso falhar, Pure Writer notificará o usuário imediatamente. \n3. Se o salvamento automático falhar, não será possível para os usuários saírem completamente do aplicativo. Pressionar o botão de saída neste momento é o mesmo que pressionar o botão ação sem parar completamente o aplicativo. Isso dará algum tempo para que o usuário consiga salvar manualmente seu conteúdo. \n4. Toda vez que o aplicativo estiver sendo executado em segundo plano ou encerrado, ele fará backup automaticamente do banco de dados inteiro se algum conteúdo for editado. O arquivo de backup pode ser acessado a qualquer momento. O backup será salvo junto com a versão anterior do backup para permitir que os usuários revertam o backup.\n5. Os recursos de registro de histórico e desfazer e refazer são fornecidos para todos os artigos.\n6. Há uma Lixeira para que exclusões acidentais não causem a perda do seus textos.\n7. Backups em Nuvem: Se Pure Writer estiver integrado com WebDAV, ele realizará o backup automaticamente de todo o conteúdo presente no banco de dados, incluindo os artigos, para a nuvem.</string>
     <string name="presetTitle3">Pure Writer Pro</string>
     <string name="presetContent3">Se você gostou de utilizar o Pure Writer e deseja que seu desenvolvimento permaneça ativo, que tal contribuir com alguns dólares para encorajar o desenvolvedor?\nSeu suporte pode encorajar desenvolvedores independentes como eu a fazerem mais aplicativos úteis. \nPara contribuir, você pode pressionar o botão "Desbloquear Pro"  no canto superior direito da página de Configurações. Como agradecimento, você terá acesso aos recursos Pro como "Salvar como…" e "Background/Papéis de parede Customizado". \nPure Writer também irá melhorar graças ao seu apoio. Obrigado desde já! Se você tem alguma pergunta ou feedback para dar, por favor não hesite em me contactar via email: drakeet@drakeet.com</string>
     <string name="presetTitle4">Pure Writer - Políticas de Privacidade</string>
@@ -276,7 +269,7 @@
     <string name="signIn">Entrar</string>
     <string name="messageCancelFontFeature">Como há muitos problemas com a fonte interna do Pure Writer nas versões anteriores, incluindo o problema de desalinhamento do cursor, o Pure Writer decidiu não mais fornecer essa fonte e alterar o recurso de fontes. Eu sinto muito por isso. - O desenvolvedor do Pure Writer, Drakeet Xu</string>
     <string name="lockFallback">Se você não pode desbloqueá-lo o tempo todo, você pode ir para as configurações do sistema do seu telefone, remover todas as suas impressões digitais e reabrir o Pure Writer.</string>
-    <string name="smoothScrollerTitle">Animação de rolagem suave para clicar em uma linha de texto</string>
+    <string name="smoothScrollerTitle">Rolagem suave quando clicar numa linha</string>
     <string name="tipSmoothScrolling">Se essa opção estiver ativada, quando você clicar em uma linha do texto do conteúdo, a exibição de texto rolará suavemente até a linha focalizada, se necessário. Se esta opção estiver desligada, ela irá pular para essa linha em um instante.\nA animação de rolagem pode não funcionar bem em alguns dispositivos, portanto, desative essa opção se você se sentir preso.</string>
     <string name="defaultMessageUpdateApk">Esta é uma versão importante, por favor atualize para esta versão o mais rápido possível</string>
     <string name="readme">Você ativou o novo design do Material Design 2 do Pure Writer.\n\nMaterial Design 2 traz um novo papel de imersão em tela cheia e uma barra superior transparente para uma aparência mais fresca.\n\nNo entanto, ao mesmo tempo, pode haver muitos problemas com o novo design, portanto, esse é um recurso experimental do Pure Writer, que pode ter alguns problemas visuais na interface do usuário. Além disso, como autor do Pure Writer, eu prefiro o design original do Pure Writer, que é mais atraente e focado no conteúdo de texto, por isso esse recurso de design é realmente desenvolvido em resposta às fortes demandas de um pequeno número de usuários. Isso requer muitos custos extras de desenvolvimento, e não é fácil de fornecer, e como haverá dois projetos do Pure Writer agora, o trabalho dos desenvolvedores pode se multiplicar.\n\nPor causa disso, o Pure Writer X recomendará que você pague por isso, mas ainda pode ter muito tempo para experimentar e tomar uma decisão final de pagamento. Por favor, tente apoiá-lo. Se as estatísticas mostrarem que a proporção de usuários que estão dispostos a pagar é pequena, o desenvolvedor pode cancelar ou interromper a manutenção do Material Design 2. Depois de clicar no botão OK, você será considerado como concordante com esse conteúdo por padrão.\n\nObrigado a todos! Eu farei o meu melhor para fornecer um melhor e melhor escritor puro, por favor, aproveite!</string>

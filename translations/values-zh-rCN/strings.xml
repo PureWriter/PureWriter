@@ -3,22 +3,19 @@
     <string name="titleHint">请输入标题</string>
     <string name="editorTipAMenu">您需要选中一段文本才能操作</string>
     <string name="editorHintContent">请输入正文</string>
-    <string name="hintDrawerHeader">快速、优秀体验、永不丢失内容</string>
+    <string name="slogan">快速、优秀体验、永不丢失内容</string>
     <string name="iconDesc">纯纯写作的图标画的是一个时光机\n时光机漂浮前进，愿文字能够带我们连接过去，遥想未来…</string>
 
     <string name="undo">撤销</string>
     <string name="redo">重做</string>
     <string name="about">关于 | 帮助</string>
 
-    <string name="clearThisPage">清空本页</string>
     <string name="defaultContent">　　很高兴见到你！\n　　这是一个快速的纯文本编辑器，我们希望写作能够回到原本的样子：<b>纯粹、有安全感、随时、绝对不丢失内容、具备良好的写作体验。</b>\n　　纯纯写作实现了在 Android 上完美的行间距和段间距，它能够使您的文本看起来更加舒适，清晰。同时，它还实现了「快捷输入栏」和「格式化工具」，以及许多喜人的细节内容。\n　　最重要的，<b>在使用这个编辑器时，它将会保证您的内容永远不会丢失，除非您主动将它清空。否则即使误操作将文本删除，或瞬间断电，您仍然能够从历史记录或备份中将它恢复。</b>\n　　纯纯写作还在流畅体验上下了很多功夫，它拥有 完美的键盘响应逻辑。使用纯纯写作时，你能够往下拖动快捷输入栏来收起软键盘；能够点击文章某一行后，动态获得合适的光标焦点定位；能够在收起软键盘时，文章位置保持不动 … 许多这样的细节内容，当你对比使用其他编辑器项目时，你才会发现纯纯写作做得更加出色、流畅，细致入微。\n　　蕴繁于简。许多编辑器该有的功能，纯纯写作也都没有落下，比如 WebDAV 云备份、段首缩进、生成长图片、指纹加锁、Markdown、更换信纸、夜间模式、单词联想输入、打字机模式、撤销、字数统计 等等。但即使这样，纯纯写作仍然保持了简约的设计风格，遵循 Material Design 设计，并且它还有一个像是哆啦 A 梦 时光机 的图标，寓意着「文字能够连接过去，遥想未来」，也照应了纯纯写作特别提供的「历史记录」功能。\n　　您能够最快速度到达灵感页面，能够随时随地中断和继续写作，这些我们都已经为您做好了。\n　　令人感到安心，顺滑流畅的写作体验，如你所愿，这就是纯纯写作，请享受写作吧！</string>
     <string name="copyTitle">复制标题</string>
     <string name="copyContent">复制正文内容</string>
-    <string name="appRecommendationTitle">优质应用友情推荐</string>
     <string name="appPureMosaic">纯纯打码</string>
     <string name="wordCountShort">字数</string>
     <string name="historyState">已保存记录</string>
-    <string name="todayIs">今天是</string>
     <string name="tipNeedFingerprint">需要指纹解锁才能查看和编辑</string>
     <string name="share">发送到某个应用</string>
     <string name="lock">加密</string>
@@ -30,14 +27,12 @@
     <string name="failedContentIsEmpty">正文内容不能为空</string>
     <string name="copyTheTitleSuccessfully">复制标题成功</string>
     <string name="copyTheContentSuccessfully">复制正文成功</string>
-    <string name="tipDestroyArticleSuccessfully">清空本文成功。如果误操作，您可以从历史记录中恢复</string>
     <string name="titleAndContentAreEmpty">标题和内容都为空</string>
     <string name="titleIntroCard">写 • 作</string>
     <string name="empty">空</string>
     <string name="untitled">无题</string>
     <string name="isRevertToThisFile">恢复到这个文件？</string>
     <string name="noMore">没有更多啦！</string>
-    <string name="tipNoMoreAndLimitFormat">没有更多了，我们目前只会保留 %d 个文件</string>
     <string name="goOn">继续</string>
     <string name="reject">拒绝</string>
     <string name="defaultTitle">如你所愿</string>
@@ -48,7 +43,6 @@
     <string name="actionOkGoSettings">好，去设置</string>
     <string name="tipFingerAuthRetry">指纹解锁失败，剩余重试次数：%d</string>
     <string name="tipFingerAuthFailed">指纹解锁失败，请 1 分钟后重试，程序即将退出…</string>
-    <string name="tipTitleLengthLimit">标题最多支持 100 个字符</string>
     <string name="tipRichText">纯纯写作 致力于打造纯粹并且良好的纯文本书写体验，所以暂不打算支持富文本内容。目前您可能看到演示文本中带有<b>粗体文字</b>，粗体属于隐藏功能，暂没有开放，因为粗体无法在 TXT 文件中表达，表示抱歉，请见谅！如果您有更好的建议，欢迎加入反馈群来告诉我，感谢支持！</string>
     <string name="indent">段首缩进</string>
     <string name="format">格式</string>
@@ -61,7 +55,6 @@
     <string name="summaryPaid">已解锁高级功能</string>
     <string name="tipSettingNotSupport">暂不能设置此项，之后版本即将支持</string>
     <string name="settings">设置</string>
-    <string name="settingsAndRecommendation">设置 &amp; 我的其他 App</string>
     <string name="on">开启</string>
     <string name="off">关闭</string>
     <string name="shortcutBar">快捷输入栏</string>

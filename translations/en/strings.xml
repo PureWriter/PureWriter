@@ -5,8 +5,8 @@
     <string name="editorHintTitle" translatable="false">@string/titleHint</string>
     <string name="editorTipAMenu">You\'ll need to choose some text first</string>
     <string name="editorHintContent">Start writing some content…</string>
-    <string name="hintDrawerHeader">Fast | Awesome experience | Never lose your content</string>
-    <string name="iconDesc">The icon of Pure Writer is a time machine\nThe time machine is floating forward. Wishing words can take us to connect with the past and think about the future…</string>
+    <string name="slogan">Fast | Awesome experience | Never lose your content</string>
+    <string name="iconDesc">The icon of Pure Writer is a time machine\nThe time machine is floating forward. Wishing words can take us to connect with the past and future…</string>
     <string name="navigationDrawerOpen" translatable="false">Open navigation drawer</string>
     <string name="navigationDrawerClose" translatable="false">Close navigation drawer</string>
 
@@ -20,32 +20,26 @@
     <string name="lock">Lock</string>
     <string name="history">History</string>
     <string name="tipShouldUnlock">Please unlock first</string>
-    <string name="slogan" translatable="false">@string/hintDrawerHeader</string>
     <string name="tipShouldSetupFingerprint">Create a fingerprint in system Settings first!</string>
     <string name="sendContentTo">Send content to: </string>
     <string name="failedTitleIsEmpty">Title cannot be empty</string>
     <string name="failedContentIsEmpty">Content cannot be empty</string>
     <string name="copyTheTitleSuccessfully">Copied the title successfully!</string>
     <string name="copyTheContentSuccessfully">Copied the content successfully!</string>
-    <string name="tipDestroyArticleSuccessfully">Deleted successfully. You can recover it from History if this is accidental</string>
     <string name="titleAndContentAreEmpty">Title and content are empty!</string>
-    <string name="clearThisPage">Clear this page</string>
     <string name="copyContent">Copy the Content</string>
-    <string name="appRecommendationTitle">Recommendation</string>
     <string name="appPureMosaic">Pure Mosaic</string>
     <string name="wordCountShort">Count</string>
     <string name="wordCountLong">Word Count</string>
     <string name="wordCountOfCurrentArticle">Total Word Count of Current Article</string>
     <string name="floatingWordCount">Floating Word Count</string>
     <string name="historyState">Saved</string>
-    <string name="todayIs">Today is</string>
     <string name="tipNeedFingerprint">To view and edit, please use your fingerprint to unlock first</string>
     <string name="empty">Empty</string>
     <string name="untitled">Untitled</string>
     <string name="isRevertToThisFile">Recover this document?</string>
     <string name="formatWarningRevertFile" translatable="false">%s:\n\n%s</string>
     <string name="noMore">Nothing more!</string>
-    <string name="tipNoMoreAndLimitFormat">Nothing more，we\'ll only save %d files</string>
     <string name="goOn">Continue</string>
     <string name="reject">Refuse</string>
     <string name="titleIntroCard">Pure Writer</string>
@@ -59,10 +53,8 @@
     <string name="actionOkGoSettings">Go to Settings</string>
     <string name="tipFingerAuthRetry">Unable to recognize fingerprint. You have %d attempt(s) left.</string>
     <string name="tipFingerAuthFailed">Fingerprint suspended. Please try again in 1 minute. Exiting Pure Writer…</string>
-    <string name="tipTitleLengthLimit">Title text limited to 100 characters</string>
     <string name="tipRichText">Pure Writer aims to give users a minimalistic writing environment, so there are no plans to include the Rich Text feature in future developments. You might\'ve noticed some <b>bold text</b> in the preview, but that\'s because it\'s a hidden feature — also, boldface cannot be displayed in .txt files. Sorry! If you have better suggestions, do reach out to me. Thanks for your support!</string>
     <string name="settings">Settings</string>
-    <string name="settingsAndRecommendation">Settings &amp; Other apps by me</string>
     <string name="on">On</string>
     <string name="off">Off</string>
     <string name="shortcutBar">Shortcut bar</string>

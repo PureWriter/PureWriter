@@ -2,7 +2,7 @@
 <resources>
     <string name="pureWriter">Pure Writer</string>
     <string name="about">Acerca de | Guía</string>
-    <string name="hintDrawerHeader">Experiencia rápida, excelente, nunca perdió contenido</string>
+    <string name="slogan">Experiencia rápida, excelente, nunca perdió contenido</string>
     <string name="iconDesc">El icono de Pure Writer es una máquina del tiempo.\nLa máquina del tiempo está flotando hacia adelante. Desear palabras nos puede llevar a conectarnos con el pasado, pensar en el futuro…</string>
     <string name="editorTipAMenu">Es necesario seleccionar un texto</string>
     <string name="redo">Rehacer</string>
@@ -20,21 +20,16 @@
     <string name="failedContentIsEmpty">Falló: el contenido está vacío</string>
     <string name="copyTheTitleSuccessfully">Copiado el título correctamente</string>
     <string name="copyTheContentSuccessfully">Copiado el contenido correctamente</string>
-    <string name="tipDestroyArticleSuccessfully">Destruido este artículo con éxito, y se puede revertirlo de la página de historial</string>
     <string name="titleAndContentAreEmpty">Título y el contenido está vacía</string>
-    <string name="clearThisPage">Borrar esta página</string>
     <string name="copyContent">Copiar contenido</string>
-    <string name="appRecommendationTitle">Recomendación</string>
     <string name="appPureMosaic">PureMosaic</string>
     <string name="wordCountShort">Contar</string>
     <string name="historyState">Fichas conservadas</string>
-    <string name="todayIs">Hoy</string>
     <string name="tipNeedFingerprint">Desbloqueo de huellas dactilares para ver y editar</string>
     <string name="empty">Vacío</string>
     <string name="untitled">Sin título</string>
     <string name="isRevertToThisFile">Volver a este archivo?</string>
     <string name="noMore">No más</string>
-    <string name="tipNoMoreAndLimitFormat">No más, y sólo ahorramos %d historias</string>
     <string name="goOn">Seguir</string>
     <string name="reject">rechazar</string>
     <string name="titleIntroCard">Se utiliza para escribir cualquier cosa</string>
@@ -46,7 +41,6 @@
     <string name="actionOkGoSettings">OK</string>
     <string name="tipFingerAuthRetry">Huella digital para desbloquear falla, el número restante de reintentos: %d</string>
     <string name="tipFingerAuthFailed">No se pudo desbloquear la huella digital, intente de nuevo después de 1 minuto, el programa está a punto de salir…</string>
-    <string name="tipTitleLengthLimit">El título admite hasta 100 caracteres</string>
     <string name="tipRichText">Pure Writer se ha comprometido a crear una experiencia de escritura de texto plano pura y buena, por lo que no tiene la intención de apoyar el contenido de texto enriquecido. En este momento, puede ver el texto en la presentación con <b> texto en negrita </b>, negrita está oculta, no está abierta, porque negrita no se puede expresar en el archivo TXT, lo siento, perdóname! ¡Si usted tiene una mejor sugerencia, únase por favor al grupo de la reacción para decirme, gracias por su ayuda!</string>
     <string name="settings">Ajustes</string>
     <string name="tipIndent">Nota: El elemento de configuración de sangría de segmentación no cambiará el texto existente</string>
@@ -58,7 +52,6 @@
     <string name="dayNightMode">El modo nocturno</string>
     <string name="summaryPay">Desbloquear funciones avanzadas</string>
     <string name="tipSettingNotSupport">Temporalmente no puede establecer esto. Próximamente.</string>
-    <string name="settingsAndRecommendation">Ajustes &amp; Mis otras aplicaciones</string>
     <string name="on">abierto</string>
     <string name="off">cerca</string>
     <string name="shortcutBar">Barra de acceso directo</string>
