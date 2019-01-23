@@ -4,30 +4,30 @@
 
 另外，在未经允许或告知的情况下，纯纯写作也绝不会修改或读取您的剪贴板内容。
 
-纯纯写作申请了存储权限，仅仅用于导出文件和进行自动备份，除此之外，它不会在未经允许或告知的情况下读取或修改您外置存储中的任何文件。另外，您完全可以拒绝授予存储权限，只是这么做将会导致失去自动备份功能。
+纯纯写作申请了存储权限，仅仅用于导出文件和进行自动备份，除此之外，它不会在未经允许或告知的情况下读取或修改您外置存储中的任何文件。
 
-特别地，纯纯写作绝不会上传您的任何文章内容，但因为文章标题作为文件名可能产生错误，因此当因为您的文章标题导致了闪退错误时，纯纯写作将会获取您的文章标题，仅用于错误分析和修复问题。
+纯纯写作支持云备份，它会默认使用 HTTPS 加密传输你的数据库备份到你的 WebDAV 云盘，你的云备份只会存储于你设定的云盘，它们绝不会被上传到其它地方。
 
 ----
 
 ## 純純寫作 - 隱私政策 
 
-純純寫作非常重視用戶的隱私保護，它絕不會收集您的任何隱私內容。
+純純寫作非常重視使用者的隱私保護，它絕不會收集您的任何隱私內容。
 
-另外，在未經允許或告知的情況下，純純寫作也絕不會修改或讀取您的剪貼板內容。
+另外，在未經允許或告知的情況下，純純寫作也絕不會修改或讀取您的剪貼簿內容。
 
-純純寫作申請了存儲權限，僅僅用於導出文件和進行自動備份，除此之外，它不會在未經允許或告知的情況下讀取或修改您外置存儲中的任何文件。另外，您完全可以拒絕授予存儲權限，只是這麼做將會導致失去自動備份功能。
+純純寫作申請了存儲權限，僅僅用於匯出檔案和進行自動備份，除此之外，它不會在未經允許或告知的情況下讀取或修改您外部存儲中的任何檔案。
 
-特別地，純純寫作絕不會上傳您的任何文章內容，但因為文章標題作為檔案名可能產生錯誤，因此當因為您的文章標題導致了閃退錯誤時，純純寫作將會獲取您的文章標題，僅用於錯誤分析和修復問題。
+純純寫作支援雲備份，它會預設使用 HTTPS 加密傳輸你的資料庫備份到你的 WebDAV 雲端硬碟，你的雲備份只會存儲於你設定的雲端硬碟，它們絕不會被上傳到其它地方。
 
 ----
 
 ## Pure Writer - Privacy Policy
 
-Pure Writer pays great attention to the privacy of users, and it will never collect any of your private content.
+Pure Writer takes its users' privacy very seriously, it will never collect any of your private information. 
 
-In addition, Pure Writer will never modify or read your clipboard content without permission or notice.
+Also, it will not read or modify any content on your clipboard without first notifying you.
 
-Pure Writer has applied for storage permissions only for file export and automatic backup. In addition, it will not read or modify any files in your external storage without permission or notice, and you can completely refuse to grant storage permissions, but doing so will result in loss of automatic backup functionality.
+The storage permission that Pure Writer asked for is solely used for auto backup and save your files. Other than that, it will not read or modify any of your files in the storage without first notifying you.
 
-In particular, Pure Writer will never upload any of your articles, but because the title of the article as a file name may generate errors, Pure Writer will obtain your articles when the article title causes a crash error.
+Pure Writer supports cloud backup, which uses HTTPS encryption to transfer your database backups to your WebDAV cloud storage. Your cloud backups will only be stored in the cloud storage you set, and they will never be uploaded to other places.
