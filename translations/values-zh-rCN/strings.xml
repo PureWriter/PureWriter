@@ -222,7 +222,7 @@
     <string name="presetTitle3">关于纯纯写作高级版</string>
     <string name="presetContent3">如果你觉得 纯纯写作 很棒，希望它能继续坚持下去，可否愿意花一点点钱作为对于开发者的激励？ \n这能够使我们一直坚持好的方向、良心的产品，同时激励更多的独立开发者。 \n您可以点击右上角的设置页面进入「解锁纯纯写作高级版功能」，作为回报，付费后，您将获得「另存为」和「自定义稿纸背景」等进阶功能。 \n纯纯写作也将因为您的支持而能够不断更新、完善，非常感谢支持！ \n如果您有任何问题或需求，也可以通过邮件联系我：drakeet@drakeet.com</string>
     <string name="presetTitle4">纯纯写作 - 隐私政策</string>
-    <string name="presetContent4">纯纯写作非常重视用户的隐私保护，它绝不会收集您的任何隐私内容。\n另外，在未经允许或告知的情况下，纯纯写作也绝不会修改或读取您的剪贴板内容。\n纯纯写作申请了存储权限，仅仅用于导出文件和进行自动备份，除此之外，它不会在未经允许或告知的情况下读取或修改您外置存储中的任何文件。另外，您完全可以拒绝授予存储权限，只是这么做将会导致失去自动备份功能。\n特别地，纯纯写作绝不会上传您的任何文章内容，但因为文章标题作为文件名可能产生错误，因此当因为您的文章标题导致了闪退错误时，纯纯写作将会获取您的文章标题，仅用于错误分析和修复问题。</string>
+    <string name="presetContent4">纯纯写作非常重视用户的隐私保护，它绝不会收集您的任何隐私内容。\n另外，在未经允许或告知的情况下，纯纯写作也绝不会修改或读取您的剪贴板内容。\n纯纯写作申请了存储权限，仅仅用于导出文件和进行自动备份，除此之外，它不会在未经允许或告知的情况下读取或修改您外置存储中的任何文件。\n纯纯写作支持云备份，它会默认使用 HTTPS 加密传输你的数据库备份到你的 WebDAV 云盘，你的云备份只会存储于你设定的云盘，它们绝不会被上传到其它地方。</string>
     <string name="createAt">创建于</string>
     <string name="updatedAt">更新于</string>
     <string name="forcedBlackTextColor">强制黑色字体</string>
@@ -275,4 +275,15 @@
     <string name="insertCategoryBottomShort">在底部插入卷</string>
     <string name="insertCategoryBottomLong">在章节列表的底部插入新卷</string>
     <string name="pureWriterBBS">纯纯写作论坛</string>
+    <string name="replaceConfirmMessage">你确定要替换 %d 处内容吗？</string>
+    <string name="tipUndoReplace">如果替换后反悔：\n* 你可以进入纯纯写作 - 设置 - 备份 - 恢复备份，点击上一个备份恢复到替换之前的内容。\n* 如果你仅仅是替换了当前章节，则可以通过右上角菜单进入历史记录页面，恢复到替换之前的内容。</string>
+    <string name="findReplace">查找 &amp; 替换</string>
+    <string name="replace">替换</string>
+    <string name="find">查找</string>
+    <string name="currentChapter">当前章节</string>
+    <string name="currentBook">当前书</string>
+    <string name="ignoreCase">忽略大小写</string>
+    <string name="selectAll">全选</string>
+    <string name="backupRemarkForReplace">替换之前</string>
+    <string name="tipReplaceResult">已替换 %1$d 篇文章中共 %2$d 处内容</string>
 </resources>

@@ -224,7 +224,7 @@
     <string name="presetTitle3">關於純純寫作進階版</string>
     <string name="presetContent3">如果你覺得 純純寫作 很棒，希望它能繼續堅持下去，可否願意花一點點錢作為對於開發者的激勵？ \n這能夠使我們一直堅持好的方向、良心的產品，同時激勵更多的獨立開發者。 \n您可以點擊右上角的設定頁面進入「解鎖純純寫作進階版功能」，作為回報，付費後，您將獲得「另存為」和「自訂稿紙背景」等進階功能。 \n純純寫作也將因為您的支援而能夠不斷更新、完善，非常感謝支援！ \n如果您有任何問題或需求，也可以透過郵件聯繫我：drakeet@drakeet.com</string>
     <string name="presetTitle4">純純寫作 - 隱私政策</string>
-    <string name="presetContent4">純純寫作非常重視用戶的隱私保護，它絕不會收集您的任何隱私內容。\n另外，在未經允許或告知的情況下，純純寫作也絕不會修改或讀取您的剪貼板內容。\n純純寫作申請了存儲權限，僅僅用於導出文件和進行自動備份，除此之外，它不會在未經允許或告知的情況下讀取或修改您外置存儲中的任何文件。另外，您完全可以拒絕授予存儲權限，只是這麼做將會導致失去自動備份功能。\n特別地，純純寫作絕不會上傳您的任何文章內容，但因為文章標題作為檔案名可能產生錯誤，因此當因為您的文章標題導致了閃退錯誤時，純純寫作將會獲取您的文章標題，僅用於錯誤分析和修復問題。</string>
+    <string name="presetContent4">純純寫作非常重視使用者的隱私保護，它絕不會收集您的任何隱私內容。\n另外，在未經允許或告知的情況下，純純寫作也絕不會修改或讀取您的剪貼簿內容。\n純純寫作申請了存儲權限，僅僅用於匯出檔案和進行自動備份，除此之外，它不會在未經允許或告知的情況下讀取或修改您外部存儲中的任何檔案。\n純純寫作支援雲備份，它會預設使用 HTTPS 加密傳輸你的資料庫備份到你的 WebDAV 雲端硬碟，你的雲備份只會存儲於你設定的雲端硬碟，它們絕不會被上傳到其它地方。</string>
     <string name="createAt">建立於</string>
     <string name="updatedAt">更新於</string>
     <string name="forcedBlackTextColor">強制黑色字體</string>
@@ -277,4 +277,15 @@
     <string name="insertCategoryBottomShort">在底部插入卷</string>
     <string name="insertCategoryBottomLong">在章節列表的底部插入新卷</string>
     <string name="pureWriterBBS">純純寫作論壇</string>
+    <string name="findReplace">尋找 &amp; 取代</string>
+    <string name="replace">取代</string>
+    <string name="find">尋找</string>
+    <string name="currentChapter">目前章節</string>
+    <string name="currentBook">目前書</string>
+    <string name="ignoreCase">忽略大小寫</string>
+    <string name="selectAll">全選</string>
+    <string name="replaceConfirmMessage">你確定要取代 %d 處內容嗎？</string>
+    <string name="tipUndoReplace">如果取代後反悔：\n* 你可以進入純純寫作 - 設定 - 備份 - 恢復備份，點擊上一個備份恢復到取代之前的內容。\n* 如果你僅僅是取代了目前章節，則可以透過右上角選單進入歷史記錄頁面，恢復到取代之前的內容。</string>
+    <string name="backupRemarkForReplace">取代之前</string>
+    <string name="tipReplaceResult">已取代 %1$d 篇文章中共 %2$d 處內容</string>
 </resources>

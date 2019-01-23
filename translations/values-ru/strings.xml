@@ -218,7 +218,7 @@
     <string name="presetTitle3">Pure Writer Pro</string>
     <string name="presetContent3">If you enjoyed using Pure Writer and wish to have it actively developed, would you mind contributing a few bucks to encourage the developer?\nYour support can encourage independent developers like me to make more useful apps. \nTo contribute, you can press the "Unlock Pro" button in the top right corner of the Settings page. As a token of appreciation, you will be able to get Pro features like "Save as…" and "Custom background/Papers". \nPure Writer will also improve as a result of your support. Thanks in advance! If you have any questions or feedback, please do not hesitate to email me at drakeet@drakeet.com</string>
     <string name="presetTitle4">Pure Writer - Privacy Policy</string>
-    <string name="presetContent4">Pure Writer takes its users\' privacy very seriously, it will never collect any of your private information. \nAlso, it will not read or modify any content on your clipboard without first notifying you.\nThe storage permission that Pure Writer asked for is solely used for auto backup and save your files. Other than that, it will not read or modify any of your files in the storage without first notifying you. Despite that, you are completely free to deny the storage permission if needed, although doing so will also disable Pure Writer\'s auto backup feature. Pure Writer will never upload your content to other places, with an exception of sending an error or crash report to us for debugging and crash analysis purposes. The report will only contain the article\'s title and nothing else.</string>
+    <string name="presetContent4">Pure Writer takes its users\' privacy very seriously, it will never collect any of your private information. \nAlso, it will not read or modify any content on your clipboard without first notifying you.\nThe storage permission that Pure Writer asked for is solely used for auto backup and save your files. Other than that, it will not read or modify any of your files in the storage without first notifying you.\nPure Writer supports cloud backup, which uses HTTPS encryption to transfer your database backups to your WebDAV cloud storage. Your cloud backups will only be stored in the cloud storage you set, and they will never be uploaded to other places.</string>
     <string name="createAt">Создан в</string>
     <string name="updatedAt">Обновлено на</string>
     <string name="forcedBlackTextColor">Принудительный черный шрифт</string>
@@ -271,4 +271,15 @@
     <string name="insertCategoryBottomShort">Вставить категорию вниз</string>
     <string name="insertCategoryBottomLong">Вставьте новую категорию в конец списка глав</string>
     <string name="pureWriterBBS">Pure Writer BBS</string>
+    <string name="findReplace">Найти и заменить</string>
+    <string name="replace">замещать</string>
+    <string name="find">найти</string>
+    <string name="currentChapter">Текущая глава</string>
+    <string name="currentBook">Текущая книга</string>
+    <string name="ignoreCase">Игнорировать дело</string>
+    <string name="selectAll">Выбрать все</string>
+    <string name="replaceConfirmMessage">Вы уверены, что заменить выбранные %d мест?</string>
+    <string name="tipUndoReplace">Отменить:\n* Вы можете перейти к Pure Writer - Настройки - Резервное копирование - Восстановить резервную копию, нажмите на предыдущую резервную копию, чтобы восстановить предыдущее содержимое.\n* Если вы только что заменили текущую главу, вы можете перейти на страницу истории через верхнее правое меню и вернуться к предыдущему содержанию.</string>
+    <string name="backupRemarkForReplace">Перед-заменой</string>
+    <string name="tipReplaceResult">%2$d содержания в %1$d статьях были заменены</string>
 </resources>
