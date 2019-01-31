@@ -310,8 +310,8 @@
     <string name="currentBook">Livro atual</string>
     <string name="ignoreCase">Ignorar maiúsculas</string>
     <string name="selectAll">Selecionar tudo</string>
-    <string name="replaceConfirmMessage">Deseja substituir esta(s) %d palavra(s)?</string>
+    <string name="replaceConfirmMessage">%d palavra(s) selecionada(s). Substituir?</string>
     <string name="tipUndoReplace">DESFAZER:\n* Você pode ir em Pure Writer - Configurações - Backup - Restaurar backup, e tocar no backup anterior para desfazer as alterações recentes. \n* Se substituiu o capítulo atual, você pode ir no Histórico, localizado no menu do canto superior direito e reverter para o conteúdo anterior.</string>
     <string name="backupRemarkForReplace">Antes de substituir</string>
-    <string name="tipReplaceResult">%2$d palavra(s) em %1$d artigo(s) foi/foram substituída(s)</string>
+    <string name="tipReplaceResult">%2$d palavra(s) substituída(s) em %1$d artigo(s)</string>
 </resources>
