@@ -282,4 +282,7 @@
     <string name="tipUndoReplace">वापस लाएं:\n* आप सेटिंग्स पर जा सकते हैं - बैकअप - बैकअप पुनर्स्थापित करें, पिछले बैकअप पर क्लिक करके पिछली सामग्री को पुनर्स्थापित करें।\n* यदि आपने अभी वर्तमान अध्याय को प्रतिस्थापित किया है, तो आप शीर्ष दाएं मेनू के माध्यम से इतिहास पृष्ठ पर जा सकते हैं और पिछली सामग्री पर वापस लौट सकते हैं।</string>
     <string name="backupRemarkForReplace">सेपहलेबदलें</string>
     <string name="tipReplaceResult">%2$d लेखों में %1$d सामग्री को प्रतिस्थापित किया गया है</string>
+    <string name="title">शीर्षक</string>
+    <string name="content">सामग्री</string>
+    <string name="inverseAll">सब उलटा</string>
 </resources>

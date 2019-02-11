@@ -282,4 +282,7 @@
     <string name="tipUndoReplace">ongedaan maken:\n* U kunt gaan naar Instellingen - Back-up - Back-up herstellen, klik op de vorige back-up om de vorige inhoud te herstellen.\n* Als u zojuist het huidige hoofdstuk hebt vervangen, gaat u naar de pagina Geschiedenis via het menu rechtsboven en keert u terug naar de vorige inhoud.</string>
     <string name="backupRemarkForReplace">VóórVervangen</string>
     <string name="tipReplaceResult">%2$d inhoud in %1$d artikelen zijn vervangen</string>
+    <string name="title">Titel</string>
+    <string name="content">Inhoud</string>
+    <string name="inverseAll">Inverse All</string>
 </resources>

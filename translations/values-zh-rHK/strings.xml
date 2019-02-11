@@ -289,4 +289,7 @@
     <string name="tipUndoReplace">如果取代後反悔：\n* 你可以進入純純寫作 - 設定 - 備份 - 恢復備份，點擊上一個備份恢復到取代之前的內容。\n* 如果你僅僅是取代了目前章節，則可以透過右上角選單進入歷史記錄頁面，恢復到取代之前的內容。</string>
     <string name="backupRemarkForReplace">取代之前</string>
     <string name="tipReplaceResult">已取代 %1$d 篇文章中共 %2$d 處內容</string>
+    <string name="title">標題</string>
+    <string name="content">正文</string>
+    <string name="inverseAll">反選</string>
 </resources>

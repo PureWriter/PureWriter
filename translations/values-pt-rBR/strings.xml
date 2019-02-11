@@ -2,13 +2,10 @@
     <string name="pureWriter">Pure Writer</string>
     <string name="appNameDebug" translatable="false">纯纯写作 β</string>
     <string name="titleHint">Título</string>
-    <string name="editorHintTitle" translatable="false">@string/titleHint</string>
     <string name="editorTipAMenu">Você precisa primeiro selecionar algum texto</string>
     <string name="editorHintContent">Comece a escrever…</string>
     <string name="slogan">Rápido | Experiência Incrível | Nunca perca seu conteúdo</string>
     <string name="iconDesc">O ícone do Pure Writer é uma máquina do tempo\n Ela está flutuando enquanto avança, almejando que palavras possam nos conectar com o passado e com o futuro…</string>
-    <string name="navigationDrawerOpen" translatable="false">Open navigation drawer</string>
-    <string name="navigationDrawerClose" translatable="false">Close navigation drawer</string>
 
     <string name="undo">Desfazer</string>
     <string name="redo">Refazer</string>
@@ -44,7 +41,6 @@
     <string name="reject">Recusar</string>
     <string name="titleIntroCard">Pure Writer</string>
     <string name="defaultTitle">Como desejar</string>
-    <string name="adUnitIdLight" translatable="false">ca-app-pub-9494072807329103/7317154675</string>
 
     <string name="tipPermissionFailed">Permissão não concedida. O histórico não pode ser salvo.</string>
     <string name="titleStorePermissionFailed">Permissão de armazenamento negada</string>
@@ -82,7 +78,6 @@
     <string name="indentShort">Recuo</string>
     <string name="delete">Excluir</string>
     <string name="messageDeleteShortcut">Toque em OK para excluir este atalho</string>
-    <string name="linksCard" translatable="false">Pure Writer - Never Lose Content Editor\nhttps://medium.com/@drakeet/pure-writer-3-0-never-lost-content-editor-419fc75a6f9d\n\n纯纯写作 - 愿文字带我们穿越时光，连接过去，遥想未来\nhttps://writer.drakeet.com</string>
     <string name="features">Recursos</string>
     <string name="sendTextFailedForTooLarge">Seu texto é muito longo para ser enviado diretamente a outros aplicativos. O texto foi copiado para sua área de transferência</string>
     <string name="previewAndSaveAs">Visualizar | Salvar como…</string>
@@ -103,7 +98,6 @@
     <string name="autoLock">Bloqueio automático</string>
     <string name="enabled">Habilitado</string>
     <string name="appLinks">Links Android</string>
-    <string name="googlePlay" translatable="false">Google Play</string>
     <string name="titleOpenImportedFile">Detectamos que você abriu um arquivo externo, por favor selecione uma ação</string>
     <string name="copied">Copiado</string>
     <string name="sort">Tipo de classificação</string>
@@ -138,17 +132,6 @@
     <string name="formatterRemoveBreak">Remover todas as linhas em branco entre parágrafos</string>
     <string name="titleAsAWordForACount">Contar as palavras individualmente</string>
     <string name="trash">Lixeira</string>
-    <string name="fixedAppBarLayoutBehavior" translatable="false">com.drakeet.purewriter.widget.FixedAppBarLayoutBehavior</string>
-
-    <!--alipay-->
-    <string name="alipay" translatable="false">支付宝/微信/激活码</string>
-    <string name="active" translatable="false">激活</string>
-    <string name="alipayReadMe" translatable="false">使用支付宝购买 Pro 激活码，您需点击「<b>购买激活码</b>」按钮跳转到支付宝，并转账支付 <b>${RMB}</b> 元。\n\n<b>跳转支付宝后，会自动复制纯纯写作的支付宝账号 drakeet@qq.com 到您剪贴板，您需自行完成转账。</b>\n\n转账后纯纯写作将很快通过支付宝发送激活码给您，激活码永久有效，可换设备使用，但同一时间只能用于一个设备。</string>
-    <string name="alipayReadMe2" translatable="false">注：您也可加我的<b>微信</b>为好友进行支付，我的微信为 <b>drakeet</b>(点击可复制)。\n\n纯纯写作因您的支持而能够不停更新、完善，非常感谢您的支持！</string>
-    <string name="alipayReadMeInvalid" translatable="false">检查到您的激活码用于另外的设备，您需要重新在当前设备输入您的激活码才能恢复本设备的付费状态。</string>
-    <string name="alipayPay" translatable="false">购买激活码</string>
-    <string name="promptLicense" translatable="false">请输入激活码</string>
-
     <string name="papers">Planos de fundo</string>
     <string name="custom">Customizado</string>
     <string name="promptCustomPaper">Valor em RGB ou link URL de uma imagem</string>
@@ -167,15 +150,11 @@
     <string name="noHistory">Nenhum histórico encontrado</string>
     <string name="formatterRemoveIndent">Remover recuo</string>
     <string name="keepScreenOn">Manter a tela ligada</string>
-    <string name="titleGFMBreaks" translatable="false">GFM line breaks</string>
     <string name="gfmBreaksEnabled">Utilizar quebras de linha</string>
     <string name="gfmBreaksDisabled">Requer no mínimo duas quebras de linha para renderizar a nova linha</string>
-    <!--time machine-->
-    <string name="timeMachineHintInput" translatable="false">Message</string>
     <!--action-->
     <string name="wordCountOfThisBook">Contagem total</string>
     <string name="wordCountOfThisBookDescription">Contagem total de palavras para este livro</string>
-    <string name="debugRemoveLicense" translatable="false">RemoveLicense</string>
     <string name="timeMachineGuide">O que é isto? Você pode ver isto como uma janela de bate-papo ou um lugar para anotar suas ideias, ou até mesmo algo parecido com o Assistente da Google. Isto tem um nome especial, é chamado de “Máquina do tempo”. É um prazer te conhecer!</string>
     <string name="copyDate">Copiar data</string>
     <string name="defaultBook">Livro padrão</string>
@@ -292,7 +271,6 @@
     <string name="noInternetConnection">Sem conexão à Internet</string>
     <string name="cloudBackup">Backup de nuvem</string>
     <string name="cloudConnection">Tipo de conexão em nuvem</string>
-    <!--<string name="signIn" translatable="false">@string/common_signin_button_text</string>-->
     <string name="signIn">Entrar</string>
     <string name="messageCancelFontFeature">Como houveram muitos problemas com a fonte interna do Pure Writer nas versões anteriores, incluindo o problema de desalinhamento do cursor, o Pure Writer decidiu não mais fornecer essa fonte e nem o recurso de alteração de fonte. Eu sinto muito. - O desenvolvedor do Pure Writer, Drakeet Xu</string>
     <string name="lockFallback">Se você estiver cansado(a) de ter que desbloqueá-lo o tempo todo, você pode ir nas configurações do seu telefone, remover todas as suas impressões digitais e reabrir o Pure Writer.</string>
@@ -300,7 +278,6 @@
     <string name="tipSmoothScrolling">Se ativado, quando você tocar numa linha do texto, o foco pula suavemente, se necessário. Se desativado, ele pula para essa linha num instante.\nA animação de rolagem pode não funcionar bem em alguns dispositivos, portanto, desative esta opção se você estiver com problemas de performance.</string>
     <string name="defaultMessageUpdateApk">Esta é uma versão importante, por favor atualize para esta versão o mais rápido possível</string>
     <string name="readme">Você ativou o novo material design do Pure Writer.\n\nMaterial Design 2 traz um novo papel de imersão em tela cheia e uma barra superior transparente para uma aparência mais moderna.\n\nNo entanto, ao mesmo tempo, pode haver muitos problemas com o novo design, portanto, esse é um recurso experimental do Pure Writer, que pode causar alguns problemas visuais na interface do usuário. Além disso, como autor do Pure Writer, eu prefiro o design original do Pure Writer, que é mais atraente e focado no conteúdo do texto, esse recurso de design é desenvolvido em resposta às fortes demandas de um pequeno número de usuários. Isso requer muitos custos extras de desenvolvimento, e não é fácil de fornecer, e como haverá dois projetos do Pure Writer agora, o trabalho dos desenvolvedores pode se multiplicar.\n\nPor causa disso, o Pure Writer X recomendará que você pague por isso, mas ainda pode ter muito tempo para experimentar e tomar uma decisão final de pagamento. Por favor, tente apoiá-lo. Se as estatísticas mostrarem que a proporção de usuários que estão dispostos a pagar é pequena, o desenvolvedor pode cancelar ou interromper a manutenção do Material Design 2. Depois de tocar no botão OK, você será considerado como concordante com esse conteúdo por padrão.\n\nObrigado a todos! Eu farei o meu melhor para fornecer um Pure Writer cada vez melhor. Por favor, aproveite!</string>
-    <string name="materialDesign2" translatable="false">Material Design 2</string>
     <string name="lowFreeStorageSpaceWarning">Seu telefone tem apenas %d MB de armazenamento livre, o que pode fazer com que o Pure Writer não salve seus dados ou o backup falhe. Por favor, faça uma limpeza e deixe mais de 100 MB livres antes de usar o Pure Writer!</string>
     <string name="pureWriterBBS">Pure Writer BBS</string>
     <string name="findReplace">Localizar e Substituir</string>

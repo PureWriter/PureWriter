@@ -286,4 +286,7 @@
     <string name="selectAll">全选</string>
     <string name="backupRemarkForReplace">替换之前</string>
     <string name="tipReplaceResult">已替换 %1$d 篇文章中共 %2$d 处内容</string>
+    <string name="title">标题</string>
+    <string name="content">正文</string>
+    <string name="inverseAll">反选</string>
 </resources>

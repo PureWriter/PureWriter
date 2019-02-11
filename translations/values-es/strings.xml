@@ -282,4 +282,7 @@
     <string name="tipUndoReplace">Deshacer:\n* Puede ir a Pure Writer - Configuración - Copia de seguridad - Restaurar copia de seguridad, haga clic en la copia de seguridad anterior para restaurar el contenido anterior.\n* Si acaba de reemplazar el capítulo actual, puede ir a la página Historial a través del menú superior derecho y volver al contenido anterior.</string>
     <string name="backupRemarkForReplace">Antes-de-reemplazar</string>
     <string name="tipReplaceResult">Se han sustituido %2$d contenidos en %1$d artículos.</string>
+    <string name="title">Título</string>
+    <string name="content">Contenido</string>
+    <string name="inverseAll">Todo inverso</string>
 </resources>
