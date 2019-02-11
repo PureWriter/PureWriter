@@ -310,8 +310,11 @@
     <string name="currentBook">Current Book</string>
     <string name="ignoreCase">Ignore Case</string>
     <string name="selectAll">Select All</string>
+    <string name="inverseAll">Inverse All</string>
     <string name="replaceConfirmMessage">Are you sure to replace the selected %d place(s)?</string>
     <string name="tipUndoReplace">UNDO:\n* You can go to Pure Writer - Settings - Backup - Restore Backup, click on the previous backup to restore to the previous content.\n* If you just replaced the current chapter, you can go to the History page through the top right menu and revert to the previous content.</string>
     <string name="backupRemarkForReplace">BeforeReplace</string>
     <string name="tipReplaceResult">%2$d contents in %1$d articles have been replaced</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
 </resources>

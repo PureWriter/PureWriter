@@ -282,4 +282,7 @@
     <string name="tipUndoReplace">元に戻す：\n*あなたは、Pure Writer - 設定 - バックアップ - 復元バックアップへ行き、前のバックアップをクリックして前の内容に復元することができます。\n*現在の章を置き換えたばかりの場合は、右上のメニューから[履歴]ページに移動して前の内容に戻ることができます。</string>
     <string name="backupRemarkForReplace">交換する前に</string>
     <string name="tipReplaceResult">%1$d記事の%2$dコンテンツが置き換えられました</string>
+    <string name="title">タイトル</string>
+    <string name="content">コンテンツ</string>
+    <string name="inverseAll">すべて反転</string>
 </resources>

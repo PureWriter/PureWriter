@@ -282,4 +282,7 @@
     <string name="tipUndoReplace">Отменить:\n* Вы можете перейти к Pure Writer - Настройки - Резервное копирование - Восстановить резервную копию, нажмите на предыдущую резервную копию, чтобы восстановить предыдущее содержимое.\n* Если вы только что заменили текущую главу, вы можете перейти на страницу истории через верхнее правое меню и вернуться к предыдущему содержанию.</string>
     <string name="backupRemarkForReplace">Перед-заменой</string>
     <string name="tipReplaceResult">%2$d содержания в %1$d статьях были заменены</string>
+    <string name="title">заглавие</string>
+    <string name="content">содержание</string>
+    <string name="inverseAll">Инвертировать все</string>
 </resources>
