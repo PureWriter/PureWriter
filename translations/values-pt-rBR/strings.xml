@@ -1,5 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="pureWriter">Pure Writer</string>
+    <string name="appNameDebug" translatable="false">纯纯写作 β</string>
     <string name="titleHint">Título</string>
     <string name="editorTipAMenu">Você precisa primeiro selecionar algum texto</string>
     <string name="editorHintContent">Comece a escrever…</string>
@@ -34,11 +35,12 @@
     <string name="empty">Vazio</string>
     <string name="untitled">Sem título</string>
     <string name="isRevertToThisFile">Recuperar este documento?</string>
+    <string name="formatWarningRevertFile" translatable="false">%s:\n\n%s</string>
     <string name="noMore">Nada mais!</string>
     <string name="goOn">Continuar</string>
     <string name="reject">Recusar</string>
     <string name="titleIntroCard">Pure Writer</string>
-    <string name="defaultTitle">Como você deseja</string>
+    <string name="defaultTitle">Como desejar</string>
 
     <string name="tipPermissionFailed">Permissão não concedida. O histórico não pode ser salvo.</string>
     <string name="titleStorePermissionFailed">Permissão de armazenamento negada</string>
@@ -183,7 +185,7 @@
     <string name="plainText">Texto simples</string>
     <string name="tipHasNotPermissionWithAutoBackup">Tentativa de realizar o backup falhou porque a permissão para acessar o armazenamento foi negada.</string>
     <string name="hideTitleBarWhenPreviewingMarkdown">Ocultar barra de título ao visualizar Markdown</string>
-    <string name="privacyPolicy">Políticas de privacidadade</string>
+    <string name="privacyPolicy">Políticas de privacidade</string>
     <string name="beforeRestoringYourBackup">Antes de restaurar seu backup</string>
     <string name="trashDescription">Recuperar artigo(s) excluído(s)</string>
     <string name="messageDeleteArticlesDirectly">Excluir permanentemente este(s) artigo(s)</string>
@@ -273,7 +275,7 @@
     <string name="messageCancelFontFeature">Como houveram muitos problemas com a fonte interna do Pure Writer nas versões anteriores, incluindo o problema de desalinhamento do cursor, o Pure Writer decidiu não mais fornecer essa fonte e nem o recurso de alteração de fonte. Eu sinto muito. - O desenvolvedor do Pure Writer, Drakeet Xu</string>
     <string name="lockFallback">Se você estiver cansado(a) de ter que desbloqueá-lo o tempo todo, você pode ir nas configurações do seu telefone, remover todas as suas impressões digitais e reabrir o Pure Writer.</string>
     <string name="smoothScrollerTitle">Rolagem suave ao tocar numa linha do texto</string>
-    <string name="tipSmoothScrolling">Se ativado, quando você tocar numa linha do texto, o foco pula suavemente, se necessário. Se desativado, ela pula para essa linha num instante.\nA animação de rolagem pode não funcionar bem em alguns dispositivos, portanto, desative esta opção se você estiver com problemas de performance.</string>
+    <string name="tipSmoothScrolling">Se ativado, quando você tocar numa linha do texto, o foco pula suavemente, se necessário. Se desativado, ele pula para essa linha num instante.\nA animação de rolagem pode não funcionar bem em alguns dispositivos, portanto, desative esta opção se você estiver com problemas de performance.</string>
     <string name="defaultMessageUpdateApk">Esta é uma versão importante, por favor atualize para esta versão o mais rápido possível</string>
     <string name="readme">Você ativou o novo material design do Pure Writer.\n\nMaterial Design 2 traz um novo papel de imersão em tela cheia e uma barra superior transparente para uma aparência mais moderna.\n\nNo entanto, ao mesmo tempo, pode haver muitos problemas com o novo design, portanto, esse é um recurso experimental do Pure Writer, que pode causar alguns problemas visuais na interface do usuário. Além disso, como autor do Pure Writer, eu prefiro o design original do Pure Writer, que é mais atraente e focado no conteúdo do texto, esse recurso de design é desenvolvido em resposta às fortes demandas de um pequeno número de usuários. Isso requer muitos custos extras de desenvolvimento, e não é fácil de fornecer, e como haverá dois projetos do Pure Writer agora, o trabalho dos desenvolvedores pode se multiplicar.\n\nPor causa disso, o Pure Writer X recomendará que você pague por isso, mas ainda pode ter muito tempo para experimentar e tomar uma decisão final de pagamento. Por favor, tente apoiá-lo. Se as estatísticas mostrarem que a proporção de usuários que estão dispostos a pagar é pequena, o desenvolvedor pode cancelar ou interromper a manutenção do Material Design 2. Depois de tocar no botão OK, você será considerado como concordante com esse conteúdo por padrão.\n\nObrigado a todos! Eu farei o meu melhor para fornecer um Pure Writer cada vez melhor. Por favor, aproveite!</string>
     <string name="lowFreeStorageSpaceWarning">Seu telefone tem apenas %d MB de armazenamento livre, o que pode fazer com que o Pure Writer não salve seus dados ou o backup falhe. Por favor, faça uma limpeza e deixe mais de 100 MB livres antes de usar o Pure Writer!</string>
@@ -285,8 +287,8 @@
     <string name="currentBook">Livro atual</string>
     <string name="ignoreCase">Ignorar maiúsculas</string>
     <string name="selectAll">Selecionar tudo</string>
-    <string name="replaceConfirmMessage">Deseja substituir esta(s) %d palavra(s)?</string>
-    <string name="tipUndoReplace">DESFAZER:\n* Você pode ir em Pure Writer - Configurações - Backup - Restaurar backup, e tocar no backup anterior para desfazer as alterações recentes. \n* Se substituiu o capítulo atual, você pode ir no Histórico, localizado no menu do canto superior direito e reverter para o conteúdo anterior.</string>
+    <string name="replaceConfirmMessage">Substituir %d palavra(s)?</string>
+    <string name="tipUndoReplace">DESFAZER:\n* Você pode ir em Pure Writer - Configurações - Backup - Restaurar backup, e tocar no backup anterior para desfazer as alterações recentes. \n* Para desfazer alterações feitas no atual capítulo, vá ao Histórico no menu do canto superior direito e reverta as alterações feitas.</string>
     <string name="backupRemarkForReplace">Antes de substituir</string>
-    <string name="tipReplaceResult">%2$d palavra(s) em %1$d artigo(s) foi/foram substituída(s)</string>
+    <string name="tipReplaceResult">%2$d palavra(s) substituída(s) em %1$d artigo(s)</string>
 </resources>
