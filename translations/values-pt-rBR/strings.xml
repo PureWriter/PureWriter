@@ -292,5 +292,5 @@
     <string name="defaultFont">default</string>
     <string name="title">Título</string>
     <string name="content">Conteúdo</string>
-    <string name="inverseAll">Inverso Tudo</string>
+    <string name="inverseAll">Inverso tudo</string>
 </resources>
