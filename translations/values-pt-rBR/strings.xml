@@ -1,6 +1,5 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources>
     <string name="pureWriter">Pure Writer</string>
-    <string name="appNameDebug" translatable="false">纯纯写作 β</string>
     <string name="titleHint">Título</string>
     <string name="editorTipAMenu">Você precisa primeiro selecionar algum texto</string>
     <string name="editorHintContent">Comece a escrever…</string>
@@ -11,7 +10,7 @@
     <string name="redo">Refazer</string>
     <string name="about">Sobre | Ajuda</string>
 
-    <string name="defaultContent">Prazer em conhecê-lo(a)!\nEste é um editor de texto simples e rápido projetado para oferecer \"uma boa experiência de escrita\". O Pure Writer é minimalista e permite que você escreva o conteúdo do seu coração a qualquer hora, em qualquer lugar, sem temer perder seu conteúdo novamente.\nCom a linha Pure Writer e o recurso de espaçamento entre parágrafos, seu texto ficará mais claro e mais confortável de ler. Não só isso, mas também tem rolagem suave, deslizar para recolher teclado e muitos outros recursos interessantes.\nSimplicidade com complexidade oculta. Você pode criptografar seu trabalho com sua impressão digital, começar ou parar de escrever quando quiser e compartilhar seu conteúdo rapidamente com outros aplicativos.\nMais importante, a menos que você exclua manualmente, você nunca perderá seu trabalho enquanto estiver usando este editor de texto. Seja uma exclusão acidental ou um desligamento inesperado, você ainda poderá recuperá-lo através do histórico.\nMais recursos: Backup de nuvem do WebDAV, tema Material Design 2, Markdown, modo máquina de escrever, conversão de texto para imagem...\nÉ rápido e suave. Você pode parar e continuar a escrever a qualquer hora, em qualquer lugar.\nAproveite o Pure Writer.</string>
+    <string name="defaultContent">Prazer em conhecê-lo(a)!\nEste é um editor de texto simples e rápido projetado para oferecer \"uma boa experiência de escrita\". O Pure Writer é minimalista e permite que você escreva o conteúdo do seu coração a qualquer hora, em qualquer lugar, sem temer perder seu conteúdo novamente.\nCom a linha Pure Writer e o recurso de espaçamento entre parágrafos, seu texto ficará mais claro e mais confortável de ler. Não só isso, mas também tem rolagem suave, deslizar para recolher teclado e muitos outros recursos interessantes.\nSimplicidade com complexidade oculta. Você pode criptografar seu trabalho com sua impressão digital, começar ou parar de escrever quando quiser e compartilhar seu conteúdo rapidamente com outros aplicativos.\nMais importante, a menos que você exclua manualmente, você nunca perderá seu trabalho enquanto estiver usando este editor de texto. Seja uma exclusão acidental ou um desligamento inesperado, você ainda poderá recuperá-lo através do histórico.\nMais recursos: Backup de nuvem do WebDAV, tema Material Design 2, Markdown, modo máquina de escrever, conversão de texto para imagem…\nÉ rápido e suave. Você pode parar e continuar a escrever a qualquer hora, em qualquer lugar.\nAproveite o Pure Writer.</string>
     <string name="share">Compartilhar</string>
     <string name="copyTitle">Copiar o título</string>
     <string name="lock">Bloquear</string>
@@ -35,7 +34,6 @@
     <string name="empty">Vazio</string>
     <string name="untitled">Sem título</string>
     <string name="isRevertToThisFile">Recuperar este documento?</string>
-    <string name="formatWarningRevertFile" translatable="false">%s:\n\n%s</string>
     <string name="noMore">Nada mais!</string>
     <string name="goOn">Continuar</string>
     <string name="reject">Recusar</string>
@@ -291,4 +289,8 @@
     <string name="tipUndoReplace">DESFAZER:\n* Você pode ir em Pure Writer - Configurações - Backup - Restaurar backup, e tocar no backup anterior para desfazer as alterações recentes. \n* Para desfazer alterações feitas no atual capítulo, vá ao Histórico no menu do canto superior direito e reverta as alterações feitas.</string>
     <string name="backupRemarkForReplace">Antes de substituir</string>
     <string name="tipReplaceResult">%2$d palavra(s) substituída(s) em %1$d artigo(s)</string>
+    <string name="defaultFont">default</string>
+    <string name="title">Título</string>
+    <string name="content">Conteúdo</string>
+    <string name="inverseAll">Inverso Tudo</string>
 </resources>
