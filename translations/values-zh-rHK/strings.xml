@@ -292,4 +292,5 @@
     <string name="title">標題</string>
     <string name="content">正文</string>
     <string name="inverseAll">反選</string>
+    <string name="webDavAccountError">WebDAV 賬號訊息有誤，無法啟用雲備份</string>
 </resources>

@@ -289,4 +289,5 @@
     <string name="title">标题</string>
     <string name="content">正文</string>
     <string name="inverseAll">反选</string>
+    <string name="webDavAccountError">WebDAV 账号信息有误，无法启用云备份</string>
 </resources>
