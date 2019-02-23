@@ -76,7 +76,7 @@
     <string name="features">功能特性</string>
     <string name="sendTextFailedForTooLarge">您的文字過長，無法直接傳送到其他應用程式，已經轉而幫您把文字複製到您的剪貼簿了</string>
     <string name="hasSavedToYourAlbum">已儲存到您的相簿</string>
-    <string name="previewAndSaveAs">預覽 | 另存為…</string>
+    <string name="previewAndExport">預覽 | 另存為…</string>
     <string name="preview">預覽</string>
     <string name="tipRequirePro">該功能需要購買進階版</string>
     <string name="proReadMe">如果你覺得 純純寫作 很棒，希望它能繼續堅持開發下去，可否願意花一點點錢作為對於開發者的激勵？ \n\n這能夠使我們一直堅持好的方向，良心的產品，同時激勵更多的獨立開發者。 \n\n您可以點選「Google Play」按鈕，開啟 Google Play 支付功能。或者點選「支付寶」購買啟用碼。以作為回報，<b>付費後，將獲得「另存為」和「自訂稿紙背景」等進階功能，對於不斷更新的進階內容不再收費</b>。\n純純寫作因為您的支持而能夠不斷更新、完善，非常感謝您的支持！</string>
@@ -292,4 +292,7 @@
     <string name="content">正文</string>
     <string name="inverseAll">反選</string>
     <string name="webDavAccountError">WebDAV 帳號訊息有誤，無法啟用雲備份</string>
+    <string name="fileAlreadyExistsInDirectory">該文件已經存在於你的文件目錄中了</string>
+    <string name="overwrite">覆蓋</string>
+    <string name="doNotOverwrite">不覆蓋</string>
 </resources>

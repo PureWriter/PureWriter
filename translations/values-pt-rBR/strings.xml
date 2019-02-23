@@ -78,7 +78,7 @@
     <string name="messageDeleteShortcut">Toque em OK para excluir este atalho</string>
     <string name="features">Recursos</string>
     <string name="sendTextFailedForTooLarge">Seu texto é muito longo para ser enviado diretamente a outros aplicativos. O texto foi copiado para sua área de transferência</string>
-    <string name="previewAndSaveAs">Visualizar | Salvar como…</string>
+    <string name="previewAndExport">Visualizar | Exportar…</string>
     <string name="hasSavedToYourAlbum">Salvo no álbum</string>
     <string name="preview">Visualização</string>
     <string name="proReadMe">Se você acha o Pure Writer útil, e quer que eu continue o aprimorando, poderia contribuir com alguns dólares para o desenvolvedor?\n\nSeu apoio encoraja desenvolvedores independentes como eu a desenvolverem e trazerem mais aplicativos bem feitos para você. \n\nPara apoiar, você pode tocar no botão da Google Play. <b>Após contribuir, você receberá recursos Pro como "Salvar como...", "Plano de fundo customizado" e também futuras atualizações gratuitamente como agradecimento.</b>\nPor causa de apoiadores como você, Pure Writer esforça-se para ser melhor e manter-se atualizado. Enfim, obrigado pelo suporte! </string>
@@ -294,4 +294,7 @@
     <string name="content">Conteúdo</string>
     <string name="inverseAll">Inverter seleção</string>
     <string name="webDavAccountError">O conteúdo da sua conta WebDAV está incorreto, portanto, o backup na nuvem não pode ser ativado!</string>
+    <string name="fileAlreadyExistsInDirectory">Este arquivo já existe em seu diretório</string>
+    <string name="overwrite">Sobrescrever</string>
+    <string name="doNotOverwrite">Não sobrescreva</string>
 </resources>

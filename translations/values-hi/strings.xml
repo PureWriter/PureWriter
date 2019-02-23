@@ -74,7 +74,7 @@
     <string name="features">समारोह</string>
     <string name="sendTextFailedForTooLarge">आपके पाठ को एक अन्य ऐप्स पर सीधे भेजा जा सकता है। इससे पहले ही टेक्स्ट आपके क्लिपबोर्ड पर कॉपी किया गया है</string>
     <string name="hasSavedToYourAlbum">आपके एल्बम में सहेजे गए</string>
-    <string name="previewAndSaveAs">पूर्वावलोकन, के रूप रक्षित करें…</string>
+    <string name="previewAndExport">पूर्वावलोकन, निर्यात…</string>
     <string name="preview">पूर्वावलोकन</string>
     <string name="tipRequirePro">Need to buy Pure Writer Pro</string>
     <string name="proReadMe">यदि आपको लगता है कि शुद्ध लेखक महान है, और आशा करते हैं कि यह बेहतर हो सकता है, क्या डेवलपर के लिए प्रोत्साहन के रूप में थोड़ा पैसा खर्च करने को तैयार हैं?\n\nयह हमें अच्छी दिशा में रहना, विवेक उत्पादों को बनाने और अधिक स्वतंत्र डेवलपर्स को प्रेरित करने में सक्षम बनाता है।\n\nआप Google पे भुगतान को खोलने के लिए \"Google Play\" बटन पर क्लिक कर सकते हैं। वापसी के रूप में, शुद्ध लेखक विज्ञापन-मुक्त राज्य और आपके लिए सभी प्रो सामग्री प्रदान करेगा। बहुत बहुत धन्यवाद!</string>
@@ -286,4 +286,7 @@
     <string name="content">सामग्री</string>
     <string name="inverseAll">सब उलटा</string>
     <string name="webDavAccountError">आपका WebDAV खाता सामग्री गलत है, इसलिए क्लाउड बैकअप सक्षम नहीं किया जा सकता है!</string>
+    <string name="fileAlreadyExistsInDirectory">यह फ़ाइल आपकी निर्देशिका में पहले से मौजूद है</string>
+    <string name="overwrite">ओवरराइट करें</string>
+    <string name="doNotOverwrite">ओवरराइट न करें</string>
 </resources>

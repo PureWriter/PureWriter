@@ -74,7 +74,7 @@
     <string name="features">Особенности</string>
     <string name="sendTextFailedForTooLarge">Текст слишком длинный и не может быть отправлен: он будет скопирован в буфер обмена</string>
     <string name="hasSavedToYourAlbum">Сохранено в вашем альбоме</string>
-    <string name="previewAndSaveAs">Предпросмотр | Сохранить как…</string>
+    <string name="previewAndExport">Предпросмотр | Экспорт…</string>
     <string name="preview">Предпросмотр</string>
     <string name="tipRequirePro">Больше возможностей с Pure Writer Pro</string>
     <string name="proReadMe">Вам понравился Pure Writer, вы считаете его хорошим и верите в успех нашего проэкта? Тогда почему бы не поддержать нас? \n\nЭто позволит нам придерживаться верного и хорошего направления, а еще создавать качественные продукты и вдохновлять более независимых разработчиков.\n\nДостаточно лишь нажать кнопку «GOOGLE PLAY», чтобы открыть Google Play Payment. В качестве возврата Pure Writer предоставит вам контент без рекламы и все содержимое Pro. Большое вам спасибо!</string>
@@ -286,4 +286,7 @@
     <string name="content">содержание</string>
     <string name="inverseAll">Инвертировать все</string>
     <string name="webDavAccountError">Содержимое вашей учетной записи WebDAV неверно, поэтому облачное резервное копирование невозможно</string>
+    <string name="fileAlreadyExistsInDirectory">Этот файл уже существует в вашем каталоге</string>
+    <string name="overwrite">затирать</string>
+    <string name="doNotOverwrite">Не перезаписывать</string>
 </resources>

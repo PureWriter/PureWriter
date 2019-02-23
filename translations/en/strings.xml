@@ -85,7 +85,7 @@
     <string name="linksCard" translatable="false">Pure Writer - Never Lose Content Editor\nhttps://medium.com/@drakeet/pure-writer-3-0-never-lost-content-editor-419fc75a6f9d\n\n纯纯写作 - 愿文字带我们穿越时光，连接过去，遥想未来\nhttps://writer.drakeet.com</string>
     <string name="features">Features</string>
     <string name="sendTextFailedForTooLarge">Your text is too long to be sent directly to another Apps. It has already copied the text to your clipboard</string>
-    <string name="previewAndSaveAs">Preview | Save as…</string>
+    <string name="previewAndExport">Preview | Export…</string>
     <string name="hasSavedToYourAlbum">Saved to album</string>
     <string name="preview">Preview</string>
     <string name="proReadMe">If you feel that Pure Writer is helpful, and wish that it continues to develop, would you mind contributing a few bucks to the developer?\n\nYour support encourages independent developers like me to develop and bring more well-built apps to you. \n\nTo support, you can click on the Google Play button. <b>After contributing, you will receive Pro features such as "Save as", "Custom Paper / Background" and also future updates for free as a token of appreciation.</b>\nBecause of supporters like you, Pure Writer strives to be better and updated. Lastly, thanks for your support! </string>
@@ -318,4 +318,7 @@
     <string name="title">Title</string>
     <string name="content">Content</string>
     <string name="webDavAccountError">Your WebDAV account content is incorrect, so cloud backup cannot be enabled!</string>
+    <string name="fileAlreadyExistsInDirectory">This file already exists in your directory</string>
+    <string name="overwrite">Overwrite</string>
+    <string name="doNotOverwrite">Do not overwrite</string>
 </resources>

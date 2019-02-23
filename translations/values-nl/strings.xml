@@ -55,7 +55,7 @@
     <string name="promptShortcutContent">Inhoud (verplicht)</string>
     <string name="redo">opnieuw</string>
     <string name="reject">afwijzen</string>
-    <string name="previewAndSaveAs">Voorbeeld | Opslaan als…</string>
+    <string name="previewAndExport">Voorbeeld | Exporteren…</string>
     <string name="share">Aandeel</string>
     <string name="sendContentTo">Stuur deze inhoud naar:</string>
     <string name="sendTextFailedForTooLarge">Uw tekst is te lang om direct naar andere Apps te worden verzonden. Het heeft de tekst al naar uw klembord gekopieerd</string>
@@ -286,4 +286,7 @@
     <string name="content">Inhoud</string>
     <string name="inverseAll">Inverse All</string>
     <string name="webDavAccountError">De inhoud van uw WebDAV-account is onjuist, dus cloud-back-up kan niet worden ingeschakeld!</string>
+    <string name="fileAlreadyExistsInDirectory">Dit bestand bestaat al in je map</string>
+    <string name="overwrite">beschrijven</string>
+    <string name="doNotOverwrite">Niet overschrijven</string>
 </resources>
