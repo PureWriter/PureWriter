@@ -100,7 +100,7 @@
     <string name="backupNow">Nu backuppen</string>
     <string name="summaryBackupToLocal">Het back-upbestand wordt opgeslagen op het pad /sdcard/backups</string>
     <string name="restoreBackup">Back-up terugzetten</string>
-    <string name="summaryRestoreTheBackup">The backup file will be read from these paths: /sdcard/backups and /sdcard/backups/PureWriterAutoBackups and your WebDAV cloud disk</string>
+    <string name="summaryRestoreTheBackup">Backup file will be retrieved from /sdcard/backups, /sdcard/backups/PureWriterAutoBackups and your WebDAV or Dropbox</string>
     <string name="backupSuccessfully">Backup succesvol</string>
     <string name="restoreSuccessfully">Herstel de back-up met succes</string>
     <string name="tipBackupList">Het volgende is alle back-upbestanden, klik om de back-up te herstellen. \n<b>Als u back-ups wilt ontvangen van de WebDAV-cloud, moet u zich aanmelden bij uw WebDAV-account voordat u deze pagina opent!</b></string>
@@ -186,14 +186,14 @@
     <string name="bridgeUpload">Brug: Uploaden</string>
     <string name="bridgeDownload">Brug: Download</string>
     <string name="backupSettingTitle">Backup</string>
-    <string name="backupSettingSummary">Back-up, herstel, WebDAV</string>
+    <string name="backupSettingSummary">Back-up, herstel, Dropbox, WebDAV</string>
     <string name="syncNetwork">Cloud back-upnetwerk</string>
-    <string name="syncOnlyWifi">Automatic backup to WebDAV cloud disk is only allowed on Wi-Fi network</string>
-    <string name="syncAllNetworks">Automatic backup to WebDAV cloud disk on all networks</string>
+    <string name="syncOnlyWifi">Sync backup naar Cloud alleen wanneer Wi-Fi is actief</string>
+    <string name="syncAllNetworks">Sync backup naar Cloud op alle netwerken</string>
     <string name="webDavRootURL">WebDAV URL</string>
     <string name="webDavAccount">WebDAV Account</string>
     <string name="webDavPassword">WebDAV Password</string>
-    <string name="webDavAutoBackup">Auto backup to WebDAV cloud disk</string>
+    <string name="autoBackupToCloud">Auto backup to cloud storage</string>
     <string name="errorWebDavConfig">Your WebDAV configuration is incomplete or incorrect. Please modify the WebDAV configuration before attempting to upload</string>
     <string name="uploadSuccessful">Upload succesvol</string>
     <string name="fetchSuccessful">Download succesvol</string>
@@ -289,4 +289,7 @@
     <string name="fileAlreadyExistsInDirectory">Dit bestand bestaat al in je map</string>
     <string name="overwrite">beschrijven</string>
     <string name="doNotOverwrite">Niet overschrijven</string>
+    <string name="signOut">Afmelden</string>
+    <string name="changeAccount">Van account veranderen</string>
+    <string name="scrollToHideTopBar">Scrol om de bovenste balk te verbergen</string>
 </resources>

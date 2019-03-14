@@ -116,7 +116,7 @@
     <string name="summaryBackupToLocal">Backup file will be saved to /sdcard/backups</string>
     <string name="summaryBackupToCloud">Backup file will be saved to your cloud storage if set</string>
     <string name="restoreBackup">Restore backup</string>
-    <string name="summaryRestoreTheBackup">Backup file will be retrieved from /sdcard/backups, /sdcard/backups/PureWriterAutoBackups and your WebDAV</string>
+    <string name="summaryRestoreTheBackup">Backup file will be retrieved from /sdcard/backups, /sdcard/backups/PureWriterAutoBackups and your WebDAV or Dropbox</string>
     <string name="backupSuccessfully">Backup successfully</string>
     <string name="restoreSuccessfully">Backup restored successfully</string>
     <string name="tipBackupList">Here\'re your backup files. You can click to restore them.\n<b>If you wish to retrieve backup files from WebDAV, please login to your WebDAV account first!</b></string>
@@ -222,14 +222,14 @@
     <string name="bridgeUpload">Bridge: Upload</string>
     <string name="bridgeDownload">Bridge: Fetch</string>
     <string name="backupSettingTitle">Backup</string>
-    <string name="backupSettingSummary">Backup, Restore and WebDAV</string>
+    <string name="backupSettingSummary">Backup, Restore, Dropbox and WebDAV</string>
     <string name="syncNetwork">Cloud Backup</string>
-    <string name="syncOnlyWifi">Sync backup to WebDAV only when Wi-Fi is active</string>
-    <string name="syncAllNetworks">Sync backup to WebDAV on all networks</string>
+    <string name="syncOnlyWifi">Sync backup to Cloud only when Wi-Fi is active</string>
+    <string name="syncAllNetworks">Sync backup to Cloud on all networks</string>
     <string name="webDavRootURL">WebDAV URL</string>
     <string name="webDavAccount">WebDAV Account</string>
     <string name="webDavPassword">WebDAV Password</string>
-    <string name="webDavAutoBackup">Auto backup to WebDAV cloud</string>
+    <string name="autoBackupToCloud">Auto backup to cloud storage</string>
     <string name="errorWebDavConfig">Your WebDAV configuration is either incomplete or incorrect. Please modify the WebDAV configuration before attempting to upload</string>
     <string name="uploadSuccessful">Upload successful</string>
     <string name="fetchSuccessful">Fetch successful</string>
@@ -321,4 +321,7 @@
     <string name="fileAlreadyExistsInDirectory">This file already exists in your directory</string>
     <string name="overwrite">Overwrite</string>
     <string name="doNotOverwrite">Do not overwrite</string>
+    <string name="signOut">Sign out</string>
+    <string name="changeAccount">Change account</string>
+    <string name="scrollToHideTopBar">Scroll to hide the top bar</string>
 </resources>

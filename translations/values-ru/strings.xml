@@ -100,7 +100,7 @@
     <string name="backupNow">Быстрое резервное копирование</string>
     <string name="summaryBackupToLocal">Файл резервной копии будет сохранен в /sdcard/backups</string>
     <string name="restoreBackup">Восстановление резервной копии</string>
-    <string name="summaryRestoreTheBackup">The backup file will be read from these paths: /sdcard/backups and /sdcard/backups/PureWriterAutoBackups and your WebDAV cloud disk</string>
+    <string name="summaryRestoreTheBackup">Backup file will be retrieved from /sdcard/backups, /sdcard/backups/PureWriterAutoBackups and your WebDAV or Dropbox</string>
     <string name="backupSuccessfully">Резервирование успешно</string>
     <string name="restoreSuccessfully">Восстановление резервной копии успешно</string>
     <string name="tipBackupList">Ниже перечислены все файлы резервных копий, нажмите, чтобы восстановить резервную копию. \n<b>Если вы хотите получить резервные копии из облака WebDAV, перед тем, как войти на эту страницу, вы должны войти в свою учетную запись WebDAV!</b></string>
@@ -186,13 +186,13 @@
     <string name="bridgeUpload">Мост: Загрузить</string>
     <string name="bridgeDownload">Мост: Скачать</string>
     <string name="backupSettingTitle">Резервное копирование</string>
-    <string name="backupSettingSummary">Резервное копирование, восстановление, WebDAV</string>
+    <string name="backupSettingSummary">Резервное копирование, восстановление, Dropbox, WebDAV</string>
     <string name="syncNetwork">Сеть облачного резервного копирования</string>
-    <string name="syncOnlyWifi">Автоматическое резервное копирование на облачный диск WebDAV возможно только с включенным Wi-Fi</string>
-    <string name="syncAllNetworks">Авто резервное копирование в облачный диск WebDAV во всех сетях</string>
+    <string name="syncOnlyWifi">Sync backup to Cloud only when Wi-Fi is active</string>
+    <string name="syncAllNetworks">Sync backup to Cloud on all networks</string>
     <string name="webDavRootURL">WebDAV адрес</string>
     <string name="webDavAccount">WebDAV Акаунт</string>
-    <string name="webDavAutoBackup">Автоматическая резервная копия на WebDAV облако</string>
+    <string name="autoBackupToCloud">Автоматическая резервная копия на облако</string>
     <string name="webDavPassword">WebDAV пароль</string>
     <string name="errorWebDavConfig">Конфигурация WebDAV неполная или неверная. Измените конфигурацию перед загрузкой </string>
     <string name="uploadSuccessful">Загрузка выполнена</string>
@@ -289,4 +289,7 @@
     <string name="fileAlreadyExistsInDirectory">Этот файл уже существует в вашем каталоге</string>
     <string name="overwrite">затирать</string>
     <string name="doNotOverwrite">Не перезаписывать</string>
+    <string name="signOut">выход</string>
+    <string name="changeAccount">Изменить аккаунт</string>
+    <string name="scrollToHideTopBar">Прокрутите, чтобы скрыть верхнюю панель</string>
 </resources>

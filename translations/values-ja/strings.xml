@@ -99,7 +99,7 @@
     <string name="backupNow">今すぐバックアップする</string>
     <string name="summaryBackupToLocal">バックアップファイルはパス /sdcard/backups に保存されます。</string>
     <string name="restoreBackup">バックアップを復元</string>
-    <string name="summaryRestoreTheBackup">Backup file will be retrieved from /sdcard/backups, /sdcard/backups/PureWriterAutoBackups and your WebDAV</string>
+    <string name="summaryRestoreTheBackup">Backup file will be retrieved from /sdcard/backups, /sdcard/backups/PureWriterAutoBackups and your WebDAV or Dropbox</string>
     <string name="backupSuccessfully">バックアップが成功しました</string>
     <string name="restoreSuccessfully">バックアップを正常に復元する</string>
     <string name="tipBackupList">以下はすべてのバックアップファイルです：クリックしてバックアップを復元する。\n<b>WebDAVクラウドからバックアップを取得する場合は、このページに入る前にWebDAVアカウントにログインする必要があります。</b></string>
@@ -185,14 +185,14 @@
     <string name="bridgeUpload">ブリッジ: アップロード</string>
     <string name="bridgeDownload">ブリッジ: ダウンロード</string>
     <string name="backupSettingTitle">バックアップ(Backup)</string>
-    <string name="backupSettingSummary">バックアップ、復元、WebDAV</string>
+    <string name="backupSettingSummary">バックアップ、復元、Dropbox, WebDAV</string>
     <string name="syncNetwork">Cloud Backup</string>
-    <string name="syncOnlyWifi">Sync backup to WebDAV only when Wi-Fi is active</string>
-    <string name="syncAllNetworks">Sync backup to WebDAV on all networks</string>
+    <string name="syncOnlyWifi">Sync backup to Cloud only when Wi-Fi is active</string>
+    <string name="syncAllNetworks">Sync backup to Cloud on all networks</string>
     <string name="webDavRootURL">WebDAV URL</string>
     <string name="webDavAccount">WebDAV Account</string>
     <string name="webDavPassword">WebDAV Password</string>
-    <string name="webDavAutoBackup">Auto backup to WebDAV cloud</string>
+    <string name="autoBackupToCloud">Auto backup to cloud storage</string>
     <string name="errorWebDavConfig">Your WebDAV configuration is either incomplete or incorrect. Please modify the WebDAV configuration before attempting to upload</string>
     <string name="uploadSuccessful">アップロードに成功しました</string>
     <string name="fetchSuccessful">ダウンロードが成功しました</string>
@@ -289,4 +289,7 @@
     <string name="fileAlreadyExistsInDirectory">このファイルはあなたのディレクトリに既に存在します</string>
     <string name="overwrite">上書きする</string>
     <string name="doNotOverwrite">上書きしない</string>
+    <string name="signOut">サインアウト</string>
+    <string name="changeAccount">アカウントを変更</string>
+    <string name="scrollToHideTopBar">トップバーを隠すためにスクロール</string>
 </resources>

@@ -100,7 +100,7 @@
     <string name="backupNow">अब समर्थन देना</string>
     <string name="summaryBackupToLocal">बैकअप फ़ाइल को पथ /sdcard/backups पर सहेजा जाएगा</string>
     <string name="restoreBackup">बैकअप पुनर्स्थापित करें</string>
-    <string name="summaryRestoreTheBackup">The backup file will be read from these paths: /sdcard/backups and /sdcard/backups/PureWriterAutoBackups and your WebDAV cloud disk</string>
+    <string name="summaryRestoreTheBackup">Backup file will be retrieved from /sdcard/backups, /sdcard/backups/PureWriterAutoBackups and your WebDAV or Dropbox</string>
     <string name="backupSuccessfully">बैकअप सफल</string>
     <string name="restoreSuccessfully">सफलतापूर्वक बैकअप बहाल करें</string>
     <string name="tipBackupList">निम्नलिखित सभी बैकअप फ़ाइलें हैं, बैकअप को पुनर्स्थापित करने के लिए क्लिक करें. \n<b>यदि आप WebDAV क्लाउड से बैकअप प्राप्त करना चाहते हैं, तो आपको इस पृष्ठ को दर्ज करने से पहले अपने WebDAV खाते में लॉग इन करना चाहिए!</b></string>
@@ -186,14 +186,14 @@
     <string name="bridgeUpload">पुल: अपलोड</string>
     <string name="bridgeDownload">पुल: डाउनलोड</string>
     <string name="backupSettingTitle">बैकअप</string>
-    <string name="backupSettingSummary">बैकअप, पुनर्स्थापित, WebDAV</string>
+    <string name="backupSettingSummary">बैकअप, पुनर्स्थापित, Dropbox, WebDAV</string>
     <string name="syncNetwork">क्लाउड बैकअप नेटवर्क</string>
-    <string name="syncOnlyWifi">Automatic backup to WebDAV cloud disk is only allowed on Wi-Fi network</string>
-    <string name="syncAllNetworks">Automatic backup to WebDAV cloud disk on all networks</string>
+    <string name="syncOnlyWifi">Sync backup to Cloud only when Wi-Fi is active</string>
+    <string name="syncAllNetworks">Sync backup to Cloud on all networks</string>
     <string name="webDavRootURL">WebDAV URL</string>
     <string name="webDavAccount">WebDAV Account</string>
     <string name="webDavPassword">WebDAV Password</string>
-    <string name="webDavAutoBackup">Auto backup to WebDAV cloud disk</string>
+    <string name="autoBackupToCloud">Auto backup to cloud storage</string>
     <string name="errorWebDavConfig">Your WebDAV configuration is incomplete or incorrect. Please modify the WebDAV configuration before attempting to upload</string>
     <string name="uploadSuccessful">सफलतापूर्वक अपलोड हो गया</string>
     <string name="fetchSuccessful">डाउनलोड सफल</string>
@@ -289,4 +289,7 @@
     <string name="fileAlreadyExistsInDirectory">यह फ़ाइल आपकी निर्देशिका में पहले से मौजूद है</string>
     <string name="overwrite">ओवरराइट करें</string>
     <string name="doNotOverwrite">ओवरराइट न करें</string>
+    <string name="signOut">साइन आउट</string>
+    <string name="changeAccount">खाता बदलें</string>
+    <string name="scrollToHideTopBar">शीर्ष पट्टी को छिपाने के लिए स्क्रॉल करें</string>
 </resources>

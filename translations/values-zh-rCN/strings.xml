@@ -102,7 +102,7 @@
     <string name="backupNow">立即备份</string>
     <string name="summaryBackupToLocal">备份文件将被保存到 /sdcard/backups</string>
     <string name="restoreBackup">恢复备份</string>
-    <string name="summaryRestoreTheBackup">备份文件将从 /sdcard/backups 和 /sdcard/backups/PureWriterAutoBackups 和您的 WebDAV 云盘中读取</string>
+    <string name="summaryRestoreTheBackup">备份文件将从 /sdcard/backups 和 /sdcard/backups/PureWriterAutoBackups 和您的 WebDAV 或 Dropbox 云盘中读取</string>
     <string name="tipBackupList">以下是备份文件，点击即可恢复备份。\n<b>如果您想从 WebDAV 云端获取备份，应该先登录你的 WebDAV 账号后再进入此页面！</b></string>
     <string name="restoreSuccessfully">恢复备份成功</string>
     <string name="tipBackupNotExist">备份文件不存在，请将备份文件置于 /sdcard/backups 并重试</string>
@@ -187,14 +187,14 @@
     <string name="promptShortcutOrder">排序</string>
     <string name="editShortcut">编辑快捷输入项</string>
     <string name="backupSettingTitle">备份与云备份</string>
-    <string name="backupSettingSummary">备份、恢复、WebDAV、缩减数据库大小</string>
+    <string name="backupSettingSummary">备份、恢复、Dropbox、WebDAV、缩减数据库大小</string>
     <string name="syncNetwork">云备份网络</string>
-    <string name="syncOnlyWifi">只在 Wi-Fi 网络下才允许自动备份到 WebDAV 云盘</string>
-    <string name="syncAllNetworks">在所有网络下都允许自动备份到 WebDAV 云盘</string>
+    <string name="syncOnlyWifi">只在 Wi-Fi 网络下才允许自动备份到云盘</string>
+    <string name="syncAllNetworks">在所有网络下都允许自动备份到云盘</string>
     <string name="webDavRootURL">WebDAV 网址</string>
     <string name="webDavAccount">WebDAV 账号</string>
     <string name="webDavPassword">WebDAV 密码</string>
-    <string name="webDavAutoBackup">自动备份到 WebDAV 云盘</string>
+    <string name="autoBackupToCloud">自动备份到云盘</string>
     <string name="errorWebDavConfig">您的 WebDAV 配置不完整或不正确，请修改 WebDAV 配置后再尝试上传</string>
     <string name="uploadSuccessful">上传成功</string>
     <string name="fetchSuccessful">拉取成功</string>
@@ -260,7 +260,7 @@
     <string name="appEmbeddedFont">纯纯写作自带内嵌字体</string>
     <string name="noInternetConnection">没有网络连接</string>
     <string name="cloudBackup">云备份</string>
-    <string name="cloudConnection">云连接类型</string>
+    <string name="cloudConnection">云连接类型（点击此项可切换）</string>
     <string name="signIn">登录</string>
     <string name="backupToLocalNow">立即备份到本地存储空间</string>
     <string name="backupToCloudNow">立即备份到云端网盘</string>
@@ -293,4 +293,7 @@
     <string name="fileAlreadyExistsInDirectory">该文件已经存在于你的文件目录中了</string>
     <string name="overwrite">覆盖</string>
     <string name="doNotOverwrite">不覆盖</string>
+    <string name="signOut">登出</string>
+    <string name="changeAccount">更换帐号</string>
+    <string name="scrollToHideTopBar">滚动以隐藏顶栏</string>
 </resources>

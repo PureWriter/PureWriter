@@ -100,7 +100,7 @@
     <string name="backupNow">Copia ahora</string>
     <string name="summaryBackupToLocal">El archivo de copia de seguridad se guardará en la ruta /sdcard/backups</string>
     <string name="restoreBackup">Restaurar copia de seguridad</string>
-    <string name="summaryRestoreTheBackup">The backup file will be read from these paths: /sdcard/backups and /sdcard/backups/PureWriterAutoBackups and your WebDAV cloud disk</string>
+    <string name="summaryRestoreTheBackup">Backup file will be retrieved from /sdcard/backups, /sdcard/backups/PureWriterAutoBackups and your WebDAV or Dropbox</string>
     <string name="backupSuccessfully">Backup exitoso</string>
     <string name="restoreSuccessfully">Restaure la copia de seguridad con éxito</string>
     <string name="tipBackupList">A continuación se muestran todos los archivos de copia de seguridad, haga clic para restaurar la copia de seguridad. \n<b>Si desea obtener copias de seguridad de la nube WebDAV, ¡debe iniciar sesión en su cuenta WebDAV antes de ingresar a esta página!</b></string>
@@ -186,14 +186,14 @@
     <string name="bridgeUpload">Puente: Subir</string>
     <string name="bridgeDownload">Puente: Descargar</string>
     <string name="backupSettingTitle">Apoyo</string>
-    <string name="backupSettingSummary">Copia de seguridad, restaurar, WebDAV</string>
+    <string name="backupSettingSummary">Copia de seguridad, restaurar, Dropbox, WebDAV</string>
     <string name="syncNetwork">Red de respaldo en la nube</string>
-    <string name="syncOnlyWifi">Automatic backup to WebDAV cloud disk is only allowed on Wi-Fi network</string>
-    <string name="syncAllNetworks">Automatic backup to WebDAV cloud disk on all networks</string>
+    <string name="syncOnlyWifi">Sync backup to Cloud only when Wi-Fi is active</string>
+    <string name="syncAllNetworks">Sync backup to Cloud on all networks</string>
     <string name="webDavRootURL">WebDAV URL</string>
     <string name="webDavAccount">WebDAV Account</string>
     <string name="errorWebDavConfig">Your WebDAV configuration is incomplete or incorrect. Please modify the WebDAV configuration before attempting to upload</string>
-    <string name="webDavAutoBackup">Auto backup to WebDAV cloud disk</string>
+    <string name="autoBackupToCloud">Auto backup to cloud storage</string>
     <string name="webDavPassword">WebDAV Password</string>
     <string name="uploadSuccessful">Subida exitosa</string>
     <string name="fetchSuccessful">Descarga exitosa</string>
@@ -289,4 +289,7 @@
     <string name="fileAlreadyExistsInDirectory">Este archivo ya existe en su directorio.</string>
     <string name="overwrite">Exagerar</string>
     <string name="doNotOverwrite">No sobrescribir</string>
+    <string name="signOut">Desconectar</string>
+    <string name="changeAccount">Cambiar cuenta</string>
+    <string name="scrollToHideTopBar">Desplácese para ocultar la barra superior</string>
 </resources>

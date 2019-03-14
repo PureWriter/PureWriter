@@ -102,7 +102,7 @@
     <string name="backupNow">立即備份</string>
     <string name="summaryBackupToLocal">備份檔案將被儲存到 /sdcard/backups</string>
     <string name="restoreBackup">還原備份</string>
-    <string name="summaryRestoreTheBackup">備份檔案將從 /sdcard/backups 和 /sdcard/backups/PureWriterAutoBackups 和您的 WebDAV 雲端中讀取</string>
+    <string name="summaryRestoreTheBackup">備份檔案將從 /sdcard/backups 和 /sdcard/backups/PureWriterAutoBackups 和您的 WebDAV 或 Dropbox 雲端中讀取</string>
     <string name="backupSuccessfully">備份成功</string>
     <string name="restoreSuccessfully">還原備份成功</string>
     <string name="tipBackupList">以下是備份檔案，點擊即可恢復備份。\n<b>如果您想從 WebDAV 雲端獲取備份，應該先登入您的 WebDAV 賬號後再進入此頁面！</b></string>
@@ -191,7 +191,7 @@
     <string name="webDavRootURL">WebDAV 位址</string>
     <string name="webDavAccount">WebDAV 帳號</string>
     <string name="webDavPassword">WebDAV 密碼</string>
-    <string name="webDavAutoBackup">自動備份到 WebDAV 雲端</string>
+    <string name="autoBackupToCloud">自動備份到雲端</string>
     <string name="errorWebDavConfig">您的 WebDAV 設置不完整或不正確，請修改 WebDAV 設置後再嘗試上傳</string>
     <string name="uploadSuccessful">上傳成功</string>
     <string name="fetchSuccessful">拉取成功</string>
@@ -200,10 +200,10 @@
     <string name="bridgeUpload">雲端讀寫: 上傳</string>
     <string name="bridgeDownload">雲端讀寫: 拉取</string>
     <string name="backupSettingTitle">備份與雲端備份</string>
-    <string name="backupSettingSummary">備份、還原、WebDAV、精簡資料庫大小</string>
+    <string name="backupSettingSummary">備份、還原、Dropbox、WebDAV、精簡資料庫大小</string>
     <string name="syncNetwork">雲端備份網絡</string>
-    <string name="syncOnlyWifi">只在 Wi-Fi 網絡下才允許自動備份到 WebDAV 雲端</string>
-    <string name="syncAllNetworks">在所有網絡下都允許自動備份到 WebDAV 雲端</string>
+    <string name="syncOnlyWifi">只在 Wi-Fi 網絡下才允許自動備份到雲端</string>
+    <string name="syncAllNetworks">在所有網絡下都允許自動備份到雲端</string>
     <string name="typewriterMode">打字機模式</string>
     <string name="edit">修改</string>
     <string name="editBook">修改書籍</string>
@@ -296,4 +296,7 @@
     <string name="fileAlreadyExistsInDirectory">該文件已經存在於你的文件目錄中了</string>
     <string name="overwrite">覆蓋</string>
     <string name="doNotOverwrite">不覆蓋</string>
+    <string name="signOut">登出</string>
+    <string name="changeAccount">更換帳號</string>
+    <string name="scrollToHideTopBar">滾動以隱藏頂欄</string>
 </resources>
