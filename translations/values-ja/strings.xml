@@ -193,7 +193,8 @@
     <string name="webDavAccount">WebDAV Account</string>
     <string name="webDavPassword">WebDAV Password</string>
     <string name="autoBackupToCloud">Auto backup to cloud storage</string>
-    <string name="errorWebDavConfig">Your WebDAV configuration is either incomplete or incorrect. Please modify the WebDAV configuration before attempting to upload</string>
+    <string name="noWebDavConfigForUploading">WebDAVの設定が不完全か正しくありません。 アップロードする前にWebDAV設定を変更してください。</string>
+    <string name="noWebDavConfig">WebDAVの設定が不完全か正しくありません。</string>
     <string name="uploadSuccessful">アップロードに成功しました</string>
     <string name="fetchSuccessful">ダウンロードが成功しました</string>
     <string name="messageUpload">Pure Writer created a <b>fixed</b> file on your cloud disk. The file name is <b>PureWriter.txt</b>. You can click "OK" to upload your current article to this fixed file. Then you can edit this cloud file on other devices. When it changes, you can pull it down. \n\nDo you now want to overwrite the current article content to that cloud file?</string>
@@ -292,4 +293,7 @@
     <string name="signOut">サインアウト</string>
     <string name="changeAccount">アカウントを変更</string>
     <string name="scrollToHideTopBar">トップバーを隠すためにスクロール</string>
+    <string name="doNotOperate">その過程で記事を切り替えたり変更したりしないでください。</string>
+    <string name="aboutBackup">バックアップについて</string>
+    <string name="backupReadme">Pure Writerはローカルとクラウドのバックアップをサポートします。 ローカルバックアップはデフォルトで行われ、自動的に行われます。 Pure Writerを再インストールすると、[Pure Writer]  -  [設定]  -  [バックアップ]  -  [バックアップの復元]に移動して、ローカルバックアップを復元できます。\n\nただし、Pure Writerはデフォルトでクラウドバックアップを自動的に実行しません。 自動クラウドバックアップを有効にするには、すべての記事と設定をクラウドストレージにバックアップします。 バックアップ設定ページの上部にクラウドバックアップストレージとクラウドバックアップアカウントを設定する必要があります。\n\nPure WriterクラウドバックアップはDropboxとWebDAVをサポートします。\n\n<b>クラウドバックアップは、クラウドバックアップを設定しないと、電話を紛失したり、壊したり、ブラッシングしたり、工場でリセットしたりすると非常に重要です。貴重なクリエイティブコンテンツがすべて失われることになります。 クラウドバックアップを必ず設定してください。 </b></string>
 </resources>

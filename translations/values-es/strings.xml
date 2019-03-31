@@ -192,7 +192,8 @@
     <string name="syncAllNetworks">Sync backup to Cloud on all networks</string>
     <string name="webDavRootURL">WebDAV URL</string>
     <string name="webDavAccount">WebDAV Account</string>
-    <string name="errorWebDavConfig">Your WebDAV configuration is incomplete or incorrect. Please modify the WebDAV configuration before attempting to upload</string>
+    <string name="noWebDavConfigForUploading">Su configuración de WebDAV es incompleta o incorrecta. Por favor, modifique la configuración de WebDAV antes de subir.</string>
+    <string name="noWebDavConfig">Su configuración de WebDAV es incompleta o incorrecta.</string>
     <string name="autoBackupToCloud">Auto backup to cloud storage</string>
     <string name="webDavPassword">WebDAV Password</string>
     <string name="uploadSuccessful">Subida exitosa</string>
@@ -292,4 +293,7 @@
     <string name="signOut">Desconectar</string>
     <string name="changeAccount">Cambiar cuenta</string>
     <string name="scrollToHideTopBar">Desplácese para ocultar la barra superior</string>
+    <string name="doNotOperate">¡No cambies ni modifiques artículos en el proceso!</string>
+    <string name="aboutBackup">Acerca de la copia de seguridad</string>
+    <string name="backupReadme">Pure Writer soporta copias de seguridad locales y en la nube. Las copias de seguridad locales se realizan de forma predeterminada y son automáticas. Cuando reinstale Pure Writer, puede ir a Pure Writer - Configuración - Copia de seguridad - Restaurar copia de seguridad para restaurar su copia de seguridad local.\n\nSin embargo, Pure Writer no realiza automáticamente copias de seguridad en la nube de forma predeterminada. Para habilitar la copia de seguridad automática en la nube, haga una copia de seguridad de todos sus artículos y configuraciones en su almacenamiento en la nube. Debe configurar el almacenamiento de respaldo en la nube y la cuenta de respaldo en la nube en la parte superior de la página de configuración de respaldo.\n\nLa copia de seguridad en la nube de Pure Writer es compatible con Dropbox y WebDAV.\n\n<b>La copia de seguridad en la nube es muy importante, si no la configura, y si el teléfono se pierde, se rompe, se cepilla y se restablece la configuración de fábrica, ¡se perderá todo su valioso contenido creativo! Asegúrese de configurar una copia de seguridad en la nube. </b></string>
 </resources>

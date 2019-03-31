@@ -194,7 +194,8 @@
     <string name="webDavAccount">WebDAV Account</string>
     <string name="webDavPassword">WebDAV Password</string>
     <string name="autoBackupToCloud">Auto backup to cloud storage</string>
-    <string name="errorWebDavConfig">Your WebDAV configuration is incomplete or incorrect. Please modify the WebDAV configuration before attempting to upload</string>
+    <string name="noWebDavConfigForUploading">आपका WebDAV कॉन्फ़िगरेशन अधूरा या गलत है। कृपया अपलोड करने से पहले WebDAV कॉन्फ़िगरेशन को संशोधित करें।</string>
+    <string name="noWebDavConfig">आपका WebDAV कॉन्फ़िगरेशन अधूरा या गलत है।</string>
     <string name="uploadSuccessful">सफलतापूर्वक अपलोड हो गया</string>
     <string name="fetchSuccessful">डाउनलोड सफल</string>
     <string name="messageUpload">Pure Writer created a fixed file on your cloud disk. The file name is <b>PureWriter.txt</b>. You can click "OK" to upload the content of your current article to this fixed file. Then you can edit this cloud file on other devices. When it changes, you can pull it down. \n\nDo you now want to write the current article content to that cloud file?</string>
@@ -292,4 +293,7 @@
     <string name="signOut">साइन आउट</string>
     <string name="changeAccount">खाता बदलें</string>
     <string name="scrollToHideTopBar">शीर्ष पट्टी को छिपाने के लिए स्क्रॉल करें</string>
+    <string name="doNotOperate">प्रक्रिया में लेखों को स्विच या संशोधित न करें!</string>
+    <string name="aboutBackup">बैकअप के बारे में</string>
+    <string name="backupReadme">शुद्ध लेखक स्थानीय और क्लाउड बैकअप का समर्थन करता है। स्थानीय बैकअप डिफ़ॉल्ट रूप से किए जाते हैं और स्वचालित होते हैं। जब आप शुद्ध लेखक को पुनर्स्थापित करते हैं, तो आप अपने स्थानीय बैकअप को पुनर्स्थापित करने के लिए शुद्ध लेखक - सेटिंग्स - बैकअप - पुनर्स्थापना बैकअप पर जा सकते हैं।\n\nहालाँकि, शुद्ध लेखक डिफ़ॉल्ट रूप से स्वचालित रूप से क्लाउड बैकअप नहीं करता है। स्वचालित क्लाउड बैकअप को सक्षम करने के लिए, अपने सभी लेखों और कॉन्फ़िगरेशनों को अपने क्लाउड स्टोरेज में बैकअप करें। आपको बैकअप सेटिंग्स पृष्ठ के शीर्ष पर क्लाउड बैकअप स्टोरेज और क्लाउड बैकअप खाता सेट करना होगा।\n\nशुद्ध लेखक क्लाउड बैकअप Dropbox और WebDAV का समर्थन करता है।\n\n<b>क्लाउड बैकअप बहुत महत्वपूर्ण है, यदि आप क्लाउड बैकअप सेट नहीं करते हैं, और यदि फ़ोन खो जाता है, टूट जाता है, ब्रश किया जाता है, और फ़ैक्टरी रीसेट हो जाता है, तो इससे आपकी सभी मूल्यवान रचनात्मक सामग्री नष्ट हो जाएगी! क्लाउड बैकअप सेट करना सुनिश्चित करें। </b></string>
 </resources>

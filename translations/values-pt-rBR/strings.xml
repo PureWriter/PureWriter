@@ -207,7 +207,8 @@
     <string name="webDavAccount">Conta WebDAV</string>
     <string name="webDavPassword">Senha WebDAV</string>
     <string name="autoBackupToCloud">Backup automático para o armazenamento em nuvem</string>
-    <string name="errorWebDavConfig">Sua configuração WebDAV está incompleta ou incorreta. Por favor, modifique a configuração WebDAV antes de tentar realizar o envio</string>
+    <string name="noWebDavConfigForUploading">Sua configuração WebDAV está incompleta ou incorreta. Por favor, modifique a configuração WebDAV antes de tentar realizar o envio.</string>
+    <string name="noWebDavConfig">Sua configuração do WebDAV está incompleta ou incorreta.</string>
     <string name="uploadSuccessful">Enviado com sucesso!</string>
     <string name="fetchSuccessful">Baixado com sucesso!</string>
     <string name="messageUpload">Pure Writer criou um arquivo <b>fixo</b> no armazenamento de seu serviço de nuvem. O nome do arquivo é <b>PureWriter.txt</b>. Você pode tocar em "OK" para enviar seu artigo atual para este arquivo fixo. Podendo assim editar este arquivo da nuvem em outros aparelhos. Quando o fizer, você poderá excluí-lo. \n\nVocê quer sobrescrever o conteúdo atual do artigo para o arquivo da nuvem?</string>
@@ -300,4 +301,7 @@
     <string name="signOut">Sair</string>
     <string name="changeAccount">Mudar de conta</string>
     <string name="scrollToHideTopBar">Desloque-se para ocultar a barra superior</string>
+    <string name="doNotOperate">Não troque ou modifique artigos no processo!</string>
+    <string name="aboutBackup">Sobre backup</string>
+    <string name="backupReadme">O Pure Writer suporta backups locais e na nuvem. Os backups locais são feitos por padrão e são automáticos. Ao reinstalar o Pure Writer, você pode acessar o Pure Writer - Configurações - Backup - Restaurar backup para restaurar o backup local.\n\nNo entanto, o Pure Writer não executa automaticamente o backup na nuvem por padrão. Para ativar o backup automático na nuvem, faça backup de todos os seus artigos e configurações no seu armazenamento em nuvem. Você precisa definir o armazenamento de backup na nuvem e a conta de backup na nuvem na parte superior da página de configurações de backup.\n\nO backup em nuvem do Pure Writer suporta Dropbox e WebDAV.\n\n<b>O backup na nuvem é muito importante, se você não configurar o backup na nuvem, e se o telefone for perdido, quebrado, escovado e redefinido de fábrica, isso resultará na perda de todo o seu conteúdo criativo valioso! Certifique-se de configurar um backup na nuvem. </b></string>
 </resources>

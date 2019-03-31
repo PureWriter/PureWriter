@@ -48,7 +48,7 @@
 
     <string name="tipPermissionFailed">Permission isn\'t granted. History cannot be saved.</string>
     <string name="titleStorePermissionFailed">Storage permission denied</string>
-    <string name="tipMessageStoragePermissionFirst">Please give us the permission to access your storage. Pure Writer will only use it to auto backup your files to prevent you from losing them!</string>
+    <string name="tipMessageStoragePermissionFirst">Please give us permission to access your storage. Pure Writer will only use it to auto backup your files to prevent you from losing them!</string>
     <string name="tipMessageStoragePermissionToSettings">We need access to your storage to auto backup your files. Please grant the access manually in your device\'s Settings!</string>
     <string name="actionOkGoSettings">Go to Settings</string>
     <string name="tipFingerAuthRetry">Unable to recognize fingerprint. You have %d attempt(s) left.</string>
@@ -84,7 +84,7 @@
     <string name="messageDeleteShortcut">Click OK to delete this shortcut</string>
     <string name="linksCard" translatable="false">Pure Writer - Never Lose Content Editor\nhttps://medium.com/@drakeet/pure-writer-3-0-never-lost-content-editor-419fc75a6f9d\n\n纯纯写作 - 愿文字带我们穿越时光，连接过去，遥想未来\nhttps://writer.drakeet.com</string>
     <string name="features">Features</string>
-    <string name="sendTextFailedForTooLarge">Your text is too long to be sent directly to another Apps. It has already copied the text to your clipboard</string>
+    <string name="sendTextFailedForTooLarge">Your text is too long to be sent directly to other Apps. It has already copied the text to your clipboard</string>
     <string name="previewAndExport">Preview | Export…</string>
     <string name="hasSavedToYourAlbum">Saved to album</string>
     <string name="preview">Preview</string>
@@ -128,7 +128,7 @@
     </string-array>
     <string name="fab">Home Floating Action Button</string>
     <string name="tipFab">Tip: Long press the Home Floating Action Button to hide it temporarily</string>
-    <string name="tipCannotCreateNewWhenEmpty">Can\'t create new article when title and content are both blank! You can still create it through the button in the top right corner of the menu though.</string>
+    <string name="tipCannotCreateNewWhenEmpty">Can\'t create a new article when title and content are both blank! You can still create it through the button in the top right corner of the menu though.</string>
     <string name="more">More</string>
     <string name="notSupportOpeningTheLink">Link not supported</string>
     <string name="formatters">Formatters</string>
@@ -152,7 +152,7 @@
     <string name="papers">Papers</string>
     <string name="custom">Custom</string>
     <string name="promptCustomPaper">RGB value or image URL link</string>
-    <string name="readMeCustomPaper">Please insert a RGB value or an Image link, i.e. #000000 or https://unsplash.com/photos/x.jpg</string>
+    <string name="readMeCustomPaper">Please insert an RGB value or an Image link, i.e. #000000 or https://unsplash.com/photos/x.jpg</string>
     <string name="apply">Apply</string>
     <string name="defaultDark">Default dark</string>
     <string name="pureWhite">Pure white</string>
@@ -230,7 +230,8 @@
     <string name="webDavAccount">WebDAV Account</string>
     <string name="webDavPassword">WebDAV Password</string>
     <string name="autoBackupToCloud">Auto backup to cloud storage</string>
-    <string name="errorWebDavConfig">Your WebDAV configuration is either incomplete or incorrect. Please modify the WebDAV configuration before attempting to upload</string>
+    <string name="noWebDavConfigForUploading">Your WebDAV configuration is incomplete or incorrect. Please modify the WebDAV configuration before uploading.</string>
+    <string name="noWebDavConfig">Your WebDAV configuration is incomplete or incorrect.</string>
     <string name="uploadSuccessful">Upload successful</string>
     <string name="fetchSuccessful">Fetch successful</string>
     <string name="messageUpload">Pure Writer created a <b>fixed</b> file on your cloud disk. The file name is <b>PureWriter.txt</b>. You can click "OK" to upload your current article to this fixed file. Then you can edit this cloud file on other devices. When it changes, you can pull it down. \n\nDo you now want to overwrite the current article content to that cloud file?</string>
@@ -324,4 +325,8 @@
     <string name="signOut">Sign out</string>
     <string name="changeAccount">Change account</string>
     <string name="scrollToHideTopBar">Scroll to hide the top bar</string>
+    <string name="doNotOperate">Don\'t switch or modify articles in the process!</string>
+    <string name="forcedOffBadge" translatable="false">强制关闭云备份提醒小红点</string>
+    <string name="aboutBackup">About backup</string>
+    <string name="backupReadme">Pure Writer supports local and cloud backups. Local backups are done by default and are automatic. When you reinstall Pure Writer, you can go to Pure Writer - Settings - Backup - Restore Backup to restore your local backup.\n\nHowever, Pure Writer does not automatically perform cloud backup by default. To enable automatic cloud backup, backup all your articles and configurations to your cloud storage. You need to set the cloud backup storage and cloud backup account at the top of the backup settings page.\n\nPure Writer cloud backup supports Dropbox and WebDAV.\n\n<b>Cloud backup is very important, if you do not set up cloud backup, and if the phone is lost, broken, brushed, and factory reset, it will lead to the loss of all your valuable creative content! Be sure to set up a cloud backup.</b></string>
 </resources>

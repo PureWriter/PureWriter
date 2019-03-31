@@ -194,7 +194,8 @@
     <string name="webDavAccount">WebDAV Account</string>
     <string name="webDavPassword">WebDAV Password</string>
     <string name="autoBackupToCloud">Auto backup to cloud storage</string>
-    <string name="errorWebDavConfig">Your WebDAV configuration is incomplete or incorrect. Please modify the WebDAV configuration before attempting to upload</string>
+    <string name="noWebDavConfigForUploading">Uw WebDAV-configuratie is onvolledig of onjuist. Wijzig de WebDAV-configuratie voordat u uploadt.</string>
+    <string name="noWebDavConfig">Uw WebDAV-configuratie is onvolledig of onjuist.</string>
     <string name="uploadSuccessful">Upload succesvol</string>
     <string name="fetchSuccessful">Download succesvol</string>
     <string name="messageUpload">Pure Writer created a fixed file on your cloud disk. The file name is <b>PureWriter.txt</b>. You can click "OK" to upload the content of your current article to this fixed file. Then you can edit this cloud file on other devices. When it changes, you can pull it down. \n\nDo you now want to write the current article content to that cloud file?</string>
@@ -292,4 +293,7 @@
     <string name="signOut">Afmelden</string>
     <string name="changeAccount">Van account veranderen</string>
     <string name="scrollToHideTopBar">Scrol om de bovenste balk te verbergen</string>
+    <string name="doNotOperate">Wissel of wijzig geen artikelen in het proces!</string>
+    <string name="aboutBackup">Over back-up</string>
+    <string name="backupReadme">Pure Writer ondersteunt lokale en cloud-back-ups. Lokale back-ups worden standaard uitgevoerd en zijn automatisch. Wanneer u Pure Writer opnieuw installeert, gaat u naar Pure Writer - Instellingen - Back-up - Back-up terugzetten om uw lokale back-up te herstellen.\n\nPure Writer voert echter standaard niet automatisch een cloudback-up uit. Als u automatische cloudback-up wilt inschakelen, maakt u een back-up van al uw artikelen en configuraties in uw cloudopslag. U moet de cloud-back-upopslag en cloud-back-upaccount instellen bovenaan de pagina met back-upinstellingen.\n\nPure Writer cloudback-up ondersteunt Dropbox en WebDAV.\n\n<b>Cloudback-up is erg belangrijk, als u geen back-up van de cloud instelt en als de telefoon verloren gaat, defect raakt, geborsteld en teruggezet wordt naar de fabrieksinstellingen, zal dit leiden tot het verlies van al uw waardevolle creatieve inhoud! Zorg dat u een cloudback-up instelt. </b></string>
 </resources>
