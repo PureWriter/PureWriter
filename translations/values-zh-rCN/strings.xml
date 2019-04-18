@@ -297,7 +297,7 @@
     <string name="signOut">登出</string>
     <string name="changeAccount">更换帐号</string>
     <string name="scrollToHideTopBar">滚动以隐藏顶栏</string>
-    <string name="doNotOperate">請不要在此過程中切換或修改文章！</string>
+    <string name="doNotOperate">请不要在此过程中切换或修改文章！</string>
     <string name="aboutBackup">《用户须知：关于备份》</string>
     <string name="backupReadme">纯纯写作支持本地备份和云备份，本地备份是默认就会进行且自动的，当你重装纯纯写作后，可进入 纯纯写作 - 设置 - 备份 - 恢复备份 来恢复你本地备份。\n\n但是，纯纯写作<b>默认不会自动进行云备份</b>，若要启用自动云备份，将你的所有文章及配置项备份到云盘，你需要设置云备份空间和云备份账号，在 纯纯写作 - 设置 - 备份 页面顶部可选择云备份类型和设置<b>云备份账号</b>。\n\n纯纯写作云备份支持 WebDAV / 坚果云网盘和 Dropbox 网盘。\n\n<b>云备份非常重要，如果你不设置云备份，则万一手机丢了、坏了、刷机双清、恢复出厂设置，都将导致失去你的所有宝贵的创作内容！请务必设置云备份，万无一失。</b></string>
 </resources>
