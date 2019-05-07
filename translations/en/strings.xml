@@ -257,7 +257,6 @@
     <string name="updatedAt">Updated on</string>
     <string name="forcedBlackTextColor">Force Black Text Color</string>
     <string name="forcedWhiteTextColor">Force White Text Color</string>
-    <string name="paragraphSpacing">Paragraph Spacing</string>
     <string name="summaryExporting">Only available when Paragraph Spacing is on</string>
     <string name="lowProfile">Status bar focus mode</string>
     <string name="chapters">Chapters</string>
@@ -330,4 +329,8 @@
     <string name="badgeReadme" translatable="false">您可以在纯纯写作编辑器页面看到对于云备份的小红点，该小红点若是显示则表示<b>您没有配置云备份或者云备份无法连通</b>，如果您已设置云备份且可连通，则它会自动消失。\n\n之所以我们不得不这么做的原因是，很多用户自信地认为自己不需要云备份，但有一天手机丢了、突然坏了，又或者因为刷机、意外双清了，没有云备份只能后悔莫及。作为纯纯写作的开发者兼客服，我已经见过太多这样令人难过的事情了，很多用户甚至来信怪我为什么不强制让用户进行云备份，我非常理解因为辛苦写作的文章未能备份到云盘而皆数丢失的难过，所以也希望大家能够理解，谢谢！</string>
     <string name="aboutBackup">About backup</string>
     <string name="backupReadme">Pure Writer supports local and cloud backups. Local backups are done by default and are automatic. When you reinstall Pure Writer, you can go to Pure Writer - Settings - Backup - Restore Backup to restore your local backup.\n\nHowever, Pure Writer does not automatically perform cloud backup by default. To enable automatic cloud backup, backup all your articles and configurations to your cloud storage. You need to set the cloud backup storage and cloud backup account at the top of the backup settings page.\n\nPure Writer cloud backup supports Dropbox and WebDAV.\n\n<b>Cloud backup is very important, if you do not set up cloud backup, and if the phone is lost, broken, brushed, and factory reset, it will lead to the loss of all your valuable creative content! Be sure to set up a cloud backup.</b></string>
+    <string name="tipParagraphSpacingInMD">Paragraph spacing will not be enabled in Markdown mode</string>
+    <string name="lineSpacing">Line Spacing</string>
+    <string name="paragraphSpacing">Paragraph Spacing</string>
+    <string name="defaultX">Default</string>
 </resources>

@@ -300,4 +300,7 @@
     <string name="doNotOperate">請不要在此過程中切換或修改文章！</string>
     <string name="aboutBackup">《使用者須知：關於備份》</string>
     <string name="backupReadme">純純寫作支援本機備份和雲備份，本機備份是預設就會進行且自動的，當你重裝純純寫作後，可進入 純純寫作 - 設定 - 備份 - 復原備份 來復原你本機備份。\n\n但是，純純寫作<b>預設不會自動進行雲備份</b>，若要啟用自動雲備份，將你的所有文章及設定項備份到雲端硬碟，你需要設定雲備份空間和雲備份帳號，在 純純寫作 - 設定 - 備份 頁面頂部可選擇雲備份類型和設定<b>雲備份帳號</b>。\n\n純純寫作雲備份支援 WebDAV / 堅果雲端硬碟和 Dropbox 網路硬碟。\n\n<b>雲備份非常重要，如果你不設定雲備份，則萬一手機丟了、壞了、刷機雙清、復原出廠設定，都將導致失去你的所有寶貴的創作內容！請務必設定雲備份，萬無一失。</b></string>
+    <string name="lineSpacing">行間距</string>
+    <string name="tipParagraphSpacingInMD">Markdown 模式下不會啟用段落間距</string>
+    <string name="defaultX">預設</string>
 </resources>

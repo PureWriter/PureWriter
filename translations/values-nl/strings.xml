@@ -296,4 +296,7 @@
     <string name="doNotOperate">Wissel of wijzig geen artikelen in het proces!</string>
     <string name="aboutBackup">Over back-up</string>
     <string name="backupReadme">Pure Writer ondersteunt lokale en cloud-back-ups. Lokale back-ups worden standaard uitgevoerd en zijn automatisch. Wanneer u Pure Writer opnieuw installeert, gaat u naar Pure Writer - Instellingen - Back-up - Back-up terugzetten om uw lokale back-up te herstellen.\n\nPure Writer voert echter standaard niet automatisch een cloudback-up uit. Als u automatische cloudback-up wilt inschakelen, maakt u een back-up van al uw artikelen en configuraties in uw cloudopslag. U moet de cloud-back-upopslag en cloud-back-upaccount instellen bovenaan de pagina met back-upinstellingen.\n\nPure Writer cloudback-up ondersteunt Dropbox en WebDAV.\n\n<b>Cloudback-up is erg belangrijk, als u geen back-up van de cloud instelt en als de telefoon verloren gaat, defect raakt, geborsteld en teruggezet wordt naar de fabrieksinstellingen, zal dit leiden tot het verlies van al uw waardevolle creatieve inhoud! Zorg dat u een cloudback-up instelt. </b></string>
+    <string name="lineSpacing">Regelafstand</string>
+    <string name="tipParagraphSpacingInMD">Alinea-afstand wordt niet ingeschakeld in markdown-modus</string>
+    <string name="defaultX">Standaard</string>
 </resources>

@@ -304,4 +304,7 @@
     <string name="doNotOperate">Não troque ou modifique artigos no processo!</string>
     <string name="aboutBackup">Sobre backup</string>
     <string name="backupReadme">O Pure Writer suporta backups locais e na nuvem. Os backups locais são feitos por padrão e são automáticos. Ao reinstalar o Pure Writer, você pode acessar o Pure Writer - Configurações - Backup - Restaurar backup para restaurar o backup local.\n\nNo entanto, o Pure Writer não executa automaticamente o backup na nuvem por padrão. Para ativar o backup automático na nuvem, faça backup de todos os seus artigos e configurações no seu armazenamento em nuvem. Você precisa definir o armazenamento de backup na nuvem e a conta de backup na nuvem na parte superior da página de configurações de backup.\n\nO backup em nuvem do Pure Writer suporta Dropbox e WebDAV.\n\n<b>O backup na nuvem é muito importante, se você não configurar o backup na nuvem, e se o telefone for perdido, quebrado, escovado e redefinido de fábrica, isso resultará na perda de todo o seu conteúdo criativo valioso! Certifique-se de configurar um backup na nuvem. </b></string>
+    <string name="lineSpacing">Espaçamento entre linhas</string>
+    <string name="tipParagraphSpacingInMD">O espaçamento de parágrafos não será ativado no modo Markdown</string>
+    <string name="defaultX">Padrão</string>
 </resources>

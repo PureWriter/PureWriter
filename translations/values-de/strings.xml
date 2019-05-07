@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="pureWriter">Pure Writer</string>
-    <string name="defaultFont">default</string>
+    <string name="defaultFont">@android:string/cancel</string>
     <string name="titleHint">Titel</string>
     <string name="editorTipAMenu">Sie müssen zuerst einen Text auswählen</string>
     <string name="editorHintContent">Schreiben Sie einige Inhalte…</string>
@@ -288,4 +288,7 @@
     <string name="replaceConfirmMessage">Sind Sie sicher, die ausgewählten %d Plätze zu ersetzen?</string>
     <string name="tipUndoReplace">RÜCKGÄNGIG MACHEN:\n* Sie können zu Pure Writer gehen - Einstellungen - Sicherung - Sicherung wiederherstellen. Klicken Sie auf die vorherige Sicherung, um den vorherigen Inhalt wiederherzustellen.\n* Wenn Sie das aktuelle Kapitel gerade ersetzt haben, können Sie über das Menü oben rechts zur Verlaufsseite gehen und zum vorherigen Inhalt zurückkehren.</string>
     <string name="tipReplaceResult">%2$d Inhalte in %1$d Artikeln wurden ersetzt</string>
+    <string name="lineSpacing">Zeilenabstand</string>
+    <string name="tipParagraphSpacingInMD">Der Absatzabstand wird im Markdown-Modus nicht aktiviert</string>
+    <string name="defaultX">Standard</string>
 </resources>

@@ -296,4 +296,7 @@
     <string name="doNotOperate">その過程で記事を切り替えたり変更したりしないでください。</string>
     <string name="aboutBackup">バックアップについて</string>
     <string name="backupReadme">Pure Writerはローカルとクラウドのバックアップをサポートします。 ローカルバックアップはデフォルトで行われ、自動的に行われます。 Pure Writerを再インストールすると、[Pure Writer]  -  [設定]  -  [バックアップ]  -  [バックアップの復元]に移動して、ローカルバックアップを復元できます。\n\nただし、Pure Writerはデフォルトでクラウドバックアップを自動的に実行しません。 自動クラウドバックアップを有効にするには、すべての記事と設定をクラウドストレージにバックアップします。 バックアップ設定ページの上部にクラウドバックアップストレージとクラウドバックアップアカウントを設定する必要があります。\n\nPure WriterクラウドバックアップはDropboxとWebDAVをサポートします。\n\n<b>クラウドバックアップは、クラウドバックアップを設定しないと、電話を紛失したり、壊したり、ブラッシングしたり、工場でリセットしたりすると非常に重要です。貴重なクリエイティブコンテンツがすべて失われることになります。 クラウドバックアップを必ず設定してください。 </b></string>
+    <string name="lineSpacing">行間隔</string>
+    <string name="tipParagraphSpacingInMD">段落の間隔はMDモードでは有効になりません</string>
+    <string name="defaultX">既定</string>
 </resources>
