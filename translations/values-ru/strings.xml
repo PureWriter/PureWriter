@@ -199,7 +199,7 @@
     <string name="uploadSuccessful">Загрузка выполнена</string>
     <string name="fetchSuccessful">Успешно скачано</string>
     <string name="messageUpload">Pure Writer создал файл в облачном диске. Имя файла <b> PureWriter.txt </b>. Чтобы загрузить содержимое текущей статьи, нажмите ОК. Это даст вам возможность редактировать этот файл на других устройствах. \n\nХотите записать эту статью?</string>
-    <string name="typewriterMode">Typewriter Mode</string>
+    <string name="typewriterMode">Режим пишущей машинки</string>
     <string name="edit">редактировать</string>
     <string name="editBook">Редактировать книгу</string>
     <string name="shareText">推荐：纯纯写作，一个令人感到安心、拥有历史记录、多重防止文章丢失功能，和许多写作辅助的编辑器：https://writer.drakeet.com</string>
@@ -299,4 +299,11 @@
     <string name="lineSpacing">Межстрочный интервал</string>
     <string name="tipParagraphSpacingInMD">Интервал между абзацами не будет включен в режиме Markdown</string>
     <string name="defaultX">По умолчанию</string>
+    <string name="zoomIn">Приблизить</string>
+    <string name="zoomOut">Отдалить</string>
+    <string name="switchingBooksTooltip">Нажмите на название этой книги, чтобы переключить Книги</string>
+    <string name="scrollToTheCurrentArticle">Прокрутите к текущей статье</string>
+    <string name="allBooks">Все книги</string>
+    <string name="insertCategoryBelowShort">Вставьте категорию ниже</string>
+    <string name="insertCategoryBelowLong">Вставьте категорию под текущей статьей</string>
 </resources>

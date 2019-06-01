@@ -199,7 +199,7 @@
     <string name="uploadSuccessful">Upload succesvol</string>
     <string name="fetchSuccessful">Download succesvol</string>
     <string name="messageUpload">Pure Writer created a fixed file on your cloud disk. The file name is <b>PureWriter.txt</b>. You can click "OK" to upload the content of your current article to this fixed file. Then you can edit this cloud file on other devices. When it changes, you can pull it down. \n\nDo you now want to write the current article content to that cloud file?</string>
-    <string name="typewriterMode">Schrijfmachine modus</string>
+    <string name="typewriterMode">Typemachine modus</string>
     <string name="edit">Bewerk</string>
     <string name="editBook">Bewerk boek</string>
     <string name="shareText">推荐：纯纯写作，一个令人感到安心、拥有历史记录、多重防止文章丢失功能，和许多写作辅助的编辑器：https://writer.drakeet.com</string>
@@ -227,7 +227,7 @@
     <string name="paragraphSpacing">Alinea-afstand</string>
     <string name="summaryExporting">Alleen geldig als alinea-tussenruimte is ingeschakeld</string>
     <string name="lowProfile">Statusbalk focusmodus</string>
-    <string name="chapters">Chapters</string>
+    <string name="chapters">Hoofdstukken</string>
     <string name="sortTypeTitleUp">Titel oplopend</string>
     <string name="sortTypeTitleDown">Titel aflopend</string>
     <string name="sortByRank">Handmatig sorteren</string>
@@ -299,4 +299,11 @@
     <string name="lineSpacing">Regelafstand</string>
     <string name="tipParagraphSpacingInMD">Alinea-afstand wordt niet ingeschakeld in markdown-modus</string>
     <string name="defaultX">Standaard</string>
+    <string name="zoomIn">Inzoomen</string>
+    <string name="zoomOut">Uitzoomen</string>
+    <string name="switchingBooksTooltip">Klik op deze boektitel om tussen boeken te schakelen</string>
+    <string name="scrollToTheCurrentArticle">Ga naar geselecteerd</string>
+    <string name="allBooks">Alle boeken</string>
+    <string name="insertCategoryBelowShort">Voeg Categorie hieronder toe</string>
+    <string name="insertCategoryBelowLong">Voeg categorie toe onder het huidige artikel</string>
 </resources>

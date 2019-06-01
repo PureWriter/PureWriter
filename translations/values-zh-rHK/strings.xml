@@ -239,8 +239,12 @@
     <string name="markdownShortcutTip">您剛輸入了一個 Markdown 標記，它只在 Markdown 模式且進入預覽時才會有效。請問需幫您啟用 Markdown 模式嗎？</string>
     <string name="importedFileTooLargeToOpen">您的文件太大，無法打開</string>
     <string name="failed">失敗</string>
-    <string name="insertCategoryAboveShort">在目前之上插入卷</string>
-    <string name="insertCategoryAboveLong">在目前文章之上插入一卷條目</string>
+    <string name="insertCategoryAboveShort">在目前之<b>上</b>插入卷</string>
+    <string name="insertCategoryBelowShort">在目前之<b>下</b>插入卷</string>
+    <string name="insertCategoryAboveLong">在目前文章之<b>上</b>插入一卷條目</string>
+    <string name="insertCategoryBelowLong">在目前文章之<b>下</b>插入一卷條目</string>
+    <string name="insertCategoryBottomShort">在<b>底部</b>插入卷</string>
+    <string name="insertCategoryBottomLong">在章節列表的<b>底部</b>插入新卷</string>
     <string name="insertCategory">插入卷</string>
     <string name="editCategory">編輯卷</string>
     <string name="category">卷</string>
@@ -273,8 +277,6 @@
     <string name="defaultMessageUpdateApk">這是一個重要的版本，請儘快更新到這個版本</string>
     <string name="readme">您已開啟了純純寫作新的 Material Design 2 設計。\n\nMaterial Design 2 帶來了新的全螢幕沉浸稿紙和透明化頂欄，更加精緻多彩。\n\n但與此同時，新的設計可能存在諸多問題，因此這個特性作為純純寫作的一個實驗性功能，它可能存在一些 UI 視覺上的問題。另外，作為純純寫作的作者，相對來說，我更喜歡純純寫作預設原版設計，它更加耐看和令人專注文字內容，因此這個主題實際上是應少部分使用者強烈要求而特意開發的，它給開發者造出了額外的開發成本，能夠提供出來實屬不易，而且由於需要兼顧兩套設計和主題，開發者的工作可能會成倍增加。\n\n鑑於此，如果開啟 Material Design 2 後純純寫作將採用強制收費方式，但您仍然可以有許多時間去體驗並作出最終付費決定。請儘量支持它，如果經過統計發現最終願意付費的使用者比例很少，開發者可能會復原或停止提供 Material Design 2。您一旦開啟 Material Design 2，將視為預設同意此內容。\n\n謝謝大家！我會竭盡全力提供一個越來越好的純純寫作，請享用！</string>
     <string name="lowFreeStorageSpaceWarning">您的手機剩餘存儲空間已經只有 %d MB, 這可能導致純純寫作儲存或備份失敗，請務必清理留出 100 MB 以上空間後再使用純純寫作！</string>
-    <string name="insertCategoryBottomShort">在底部插入卷</string>
-    <string name="insertCategoryBottomLong">在章節列表的底部插入新卷</string>
     <string name="pureWriterBBS">純純寫作論壇</string>
     <string name="replaceConfirmMessage">你確定要取代 %d 處內容嗎？</string>
     <string name="tipUndoReplace">如果取代後反悔：\n* 你可以進入純純寫作 - 設定 - 備份 - 復原備份，點擊上一個備份復原到取代之前的內容。\n* 如果你僅僅是取代了目前章節，則可以透過右上角選單進入歷史記錄頁面，復原到取代之前的內容。</string>
@@ -303,4 +305,9 @@
     <string name="lineSpacing">行間距</string>
     <string name="tipParagraphSpacingInMD">Markdown 模式下不會啟用段落間距</string>
     <string name="defaultX">預設</string>
+    <string name="zoomIn">放大</string>
+    <string name="zoomOut">縮小</string>
+    <string name="switchingBooksTooltip">點擊此書名可以切換書籍</string>
+    <string name="scrollToTheCurrentArticle">滾動到當前文章</string>
+    <string name="allBooks">全部書</string>
 </resources>

@@ -198,7 +198,7 @@
     <string name="uploadSuccessful">アップロードに成功しました</string>
     <string name="fetchSuccessful">ダウンロードが成功しました</string>
     <string name="messageUpload">Pure Writer created a <b>fixed</b> file on your cloud disk. The file name is <b>PureWriter.txt</b>. You can click "OK" to upload your current article to this fixed file. Then you can edit this cloud file on other devices. When it changes, you can pull it down. \n\nDo you now want to overwrite the current article content to that cloud file?</string>
-    <string name="typewriterMode">Typewriter Mode</string>
+    <string name="typewriterMode">タイプライター</string>
     <string name="edit">編集</string>
     <string name="editBook">本の編集</string>
     <string name="shareText">推荐：纯纯写作，一个令人感到安心、拥有历史记录、多重防止文章丢失功能，和许多写作辅助的编辑器：https://writer.drakeet.com</string>
@@ -226,7 +226,7 @@
     <string name="paragraphSpacing">段落の間隔</string>
     <string name="summaryExporting">段落の間隔が有効な場合にのみ有効です</string>
     <string name="lowProfile">ステータスバーフォーカスモード</string>
-    <string name="chapters">チャプター</string>
+    <string name="chapters">チャプタ</string>
     <string name="sortTypeTitleUp">タイトルの昇順</string>
     <string name="sortTypeTitleDown">タイトルの降順</string>
     <string name="sortByRank">手動ソート</string>
@@ -299,4 +299,11 @@
     <string name="lineSpacing">行間隔</string>
     <string name="tipParagraphSpacingInMD">段落の間隔はMDモードでは有効になりません</string>
     <string name="defaultX">既定</string>
+    <string name="zoomIn">ズームイン</string>
+    <string name="zoomOut">ズームアウト</string>
+    <string name="switchingBooksTooltip">この本のタイトルをクリックして本を切り替えます</string>
+    <string name="scrollToTheCurrentArticle">現在の記事にスクロールする</string>
+    <string name="allBooks">すべての本</string>
+    <string name="insertCategoryBelowShort">下にカテゴリを挿入</string>
+    <string name="insertCategoryBelowLong">現在の記事の下にカテゴリを挿入</string>
 </resources>

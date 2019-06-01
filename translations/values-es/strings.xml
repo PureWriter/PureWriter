@@ -74,7 +74,7 @@
     <string name="features">Caracteristicas</string>
     <string name="sendTextFailedForTooLarge">Tu texto es demasiado largo para ser enviado directamente a otras aplicaciones, ya ha copiado el texto en tu portapapeles.</string>
     <string name="hasSavedToYourAlbum">Guardado en tu álbum</string>
-    <string name="previewAndExport">Vista previa|Exportar…</string>
+    <string name="previewAndExport">Vista previa | Exportar…</string>
     <string name="preview">Vista previa</string>
     <string name="tipRequirePro">Necesidad de comprar Pure Writer Pro</string>
     <string name="proReadMe">Si cree que Pure Writer es excelente y espera que pueda ser mejor, ¿está dispuesto a gastar un poco de dinero como incentivo para el desarrollador?\n\nEsto nos permite seguir la buena dirección, crear productos de conciencia e inspirar a más desarrolladores independientes.\n\nPuede hacer clic en el botón \"GOOGLE PLAY\" para abrir el pago de Google Pay. Como resultado, Pure Writer le brindará un estado sin anuncios y todos los contenidos de Pro. ¡Muchas gracias!</string>
@@ -199,7 +199,7 @@
     <string name="uploadSuccessful">Subida exitosa</string>
     <string name="fetchSuccessful">Descarga exitosa</string>
     <string name="messageUpload">Pure Writer created a fixed file on your cloud disk. The file name is <b>PureWriter.txt</b>. You can click "OK" to upload the content of your current article to this fixed file. Then you can edit this cloud file on other devices. When it changes, you can pull it down. \n\nDo you now want to write the current article content to that cloud file?</string>
-    <string name="typewriterMode">Typewriter Mode</string>
+    <string name="typewriterMode">Máquina de escribir</string>
     <string name="edit">Editar</string>
     <string name="editBook">Editar libro</string>
     <string name="shareText">推荐：纯纯写作，一个令人感到安心、拥有历史记录、多重防止文章丢失功能，和许多写作辅助的编辑器：https://writer.drakeet.com</string>
@@ -299,4 +299,11 @@
     <string name="lineSpacing">Espaciado entre líneas</string>
     <string name="tipParagraphSpacingInMD">El espacio entre párrafos no se habilitará en el modo Markdown</string>
     <string name="defaultX">Por defecto</string>
+    <string name="zoomIn">Acercar</string>
+    <string name="zoomOut">Alejar</string>
+    <string name="switchingBooksTooltip">Haga clic en el título de este libro para cambiar de Libros.</string>
+    <string name="scrollToTheCurrentArticle">Desplazarse al artículo actual</string>
+    <string name="allBooks">Todos los libros</string>
+    <string name="insertCategoryBelowShort">Insertar categoría debajo</string>
+    <string name="insertCategoryBelowLong">Insertar categoría debajo del artículo actual</string>
 </resources>

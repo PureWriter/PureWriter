@@ -199,7 +199,7 @@
     <string name="uploadSuccessful">सफलतापूर्वक अपलोड हो गया</string>
     <string name="fetchSuccessful">डाउनलोड सफल</string>
     <string name="messageUpload">Pure Writer created a fixed file on your cloud disk. The file name is <b>PureWriter.txt</b>. You can click "OK" to upload the content of your current article to this fixed file. Then you can edit this cloud file on other devices. When it changes, you can pull it down. \n\nDo you now want to write the current article content to that cloud file?</string>
-    <string name="typewriterMode">Typewriter Mode</string>
+    <string name="typewriterMode">टाइपराइटर</string>
     <string name="edit">संपादित करें</string>
     <string name="editBook">पुस्तक संपादित करें</string>
     <string name="shareText">推荐：纯纯写作，一个令人感到安心、拥有历史记录、多重防止文章丢失功能，和许多写作辅助的编辑器：https://writer.drakeet.com</string>
@@ -227,7 +227,7 @@
     <string name="paragraphSpacing">अनुच्छेद अंतरण</string>
     <string name="summaryExporting">पैराग्राफ स्पेसिंग सक्षम होने पर ही मान्य है</string>
     <string name="lowProfile">स्टेटस बार फोकस मोड</string>
-    <string name="chapters">अध्याय</string>
+    <string name="chapters">चैप्टर</string>
     <string name="sortTypeTitleUp">शीर्षक आरोही</string>
     <string name="sortTypeTitleDown">शीर्षक अवरोही</string>
     <string name="sortByRank">मैनुअल सॉर्टिंग</string>
@@ -299,4 +299,11 @@
     <string name="lineSpacing">पंक्ति रिक्ति</string>
     <string name="tipParagraphSpacingInMD">मार्किंग मोड में पैरा रिक्ति सक्षम नहीं होगी</string>
     <string name="defaultX">तयशुदा</string>
+    <string name="zoomIn">ज़ूम इन</string>
+    <string name="zoomOut">ज़ूम आउट करें</string>
+    <string name="switchingBooksTooltip">पुस्तकें स्विच करने के लिए इस पुस्तक शीर्षक पर क्लिक करें</string>
+    <string name="scrollToTheCurrentArticle">वर्तमान लेख तक स्क्रॉल करें</string>
+    <string name="allBooks">सभी किताबें</string>
+    <string name="insertCategoryBelowShort">नीचे श्रेणी डालें</string>
+    <string name="insertCategoryBelowLong">वर्तमान लेख के नीचे श्रेणी डालें</string>
 </resources>

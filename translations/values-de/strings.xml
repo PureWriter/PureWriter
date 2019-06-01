@@ -291,4 +291,11 @@
     <string name="lineSpacing">Zeilenabstand</string>
     <string name="tipParagraphSpacingInMD">Der Absatzabstand wird im Markdown-Modus nicht aktiviert</string>
     <string name="defaultX">Standard</string>
+    <string name="zoomIn">Heranzoomen</string>
+    <string name="zoomOut">Herauszoomen</string>
+    <string name="switchingBooksTooltip">Klicken Sie auf diesen Buchtitel, um zwischen Büchern zu wechseln</string>
+    <string name="scrollToTheCurrentArticle">Zum aktuellen Artikel blättern</string>
+    <string name="allBooks">Alle Bücher</string>
+    <string name="insertCategoryBelowShort">Kategorie unten einfügen</string>
+    <string name="insertCategoryBelowLong">Kategorie unterhalb des aktuellen Artikels einfügen</string>
 </resources>

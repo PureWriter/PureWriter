@@ -307,4 +307,11 @@
     <string name="lineSpacing">Espaçamento entre linhas</string>
     <string name="tipParagraphSpacingInMD">O espaçamento de parágrafos não será ativado no modo Markdown</string>
     <string name="defaultX">Padrão</string>
+    <string name="zoomIn">Aumentar zoom</string>
+    <string name="zoomOut">Diminuir zoom</string>
+    <string name="switchingBooksTooltip">Clique no título deste livro para mudar de livros</string>
+    <string name="scrollToTheCurrentArticle">Vá até o artigo atual</string>
+    <string name="allBooks">Todos os livros</string>
+    <string name="insertCategoryBelowShort">Inserir categoria abaixo</string>
+    <string name="insertCategoryBelowLong">Inserir categoria abaixo do artigo atual</string>
 </resources>

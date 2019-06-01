@@ -267,10 +267,12 @@
     <string name="markdownShortcutTip">You\'ve just inserted a Markdown, which will only take effect in Markdown Preview mode. Do you want to activate Markdown mode?</string>
     <string name="importedFileTooLargeToOpen">Imported file is too large, file opening failed</string>
     <string name="failed">Failed</string>
-    <string name="insertCategoryAboveShort">Insert category above</string>
-    <string name="insertCategoryAboveLong">Insert category above the current article</string>
-    <string name="insertCategoryBottomShort">Insert category to bottom</string>
-    <string name="insertCategoryBottomLong">Insert a new category to the bottom of the chapter list</string>
+    <string name="insertCategoryAboveShort">Insert category <b>above</b></string>
+    <string name="insertCategoryBelowShort">Insert category <b>below</b></string>
+    <string name="insertCategoryBottomShort">Insert category to <b>bottom</b></string>
+    <string name="insertCategoryAboveLong">Insert category <b>above</b> the current article</string>
+    <string name="insertCategoryBelowLong">Insert category <b>below</b> the current article</string>
+    <string name="insertCategoryBottomLong">Insert a new category to the <b>bottom</b> of the chapter list</string>
     <string name="insertCategory">Insert Category</string>
     <string name="editCategory">Edit Category</string>
     <string name="category">Category</string>
@@ -300,6 +302,7 @@
     <string name="tipSmoothScrolling">If this option is turned on, when you click on a line of the content text, the text view will scroll smoothly to the focused line if necessary. If this option is off, it will jump to that line in an instant. \nThe scrolling animation may not perform well on some devices, so turn off this option if you feel stuck.</string>
     <string name="defaultMessageUpdateApk">This is an important version, please update to this version as soon as possible</string>
     <string name="readme">You have turned on the new Material Design 2 design of Pure Writer.\n\nMaterial Design 2 brings a new full-screen immersion paper and a transparent top bar for a more fresh look.\n\nHowever, at the same time, there may be many problems with the new design, so this is an experimental feature of Pure Writer, which may have some UI visual problems. In addition, as the author of Pure Writer, I prefer the original Pure Writer design, which is more eye-catching and focused on text content, so this design feature is actually developed in response to the strong demands of a small number of users. It requires a lot of extra development costs, and it is not easy to provide, and since there will be two Pure Writer design now, the work of developers may multiply.\n\nBecause of this, Pure Writer will recommend you to pay for it, but you can still have a lot of time to experience and make a final payment decision. Please try to support it. If the statistics show that the proportion of users who are willing to pay is small, the developer may cancel or stop maintaining the Material Design 2. Once you click the OK, you will be deemed to agree to this content by default.\n\nThank you all! I will do my best to provide a better and better Pure Writer, please enjoy!</string>
+    <string name="materialDesign2Formatted" translatable="false"><b><i>Material Design 2</i></b></string>
     <string name="materialDesign2" translatable="false">Material Design 2</string>
     <string name="lowFreeStorageSpaceWarning">Your phone has only %d MB of free storage, which may cause Pure Writer to save or backup failed. Please clean up and leave more than 100 MB before using Pure Writer!</string>
     <string name="pureWriterBBS">Pure Writer BBS</string>
@@ -333,4 +336,9 @@
     <string name="lineSpacing">Line Spacing</string>
     <string name="paragraphSpacing">Paragraph Spacing</string>
     <string name="defaultX">Default</string>
+    <string name="zoomIn">Zoom in</string>
+    <string name="zoomOut">Zoom out</string>
+    <string name="switchingBooksTooltip">Click on this book title to switch Books</string>
+    <string name="scrollToTheCurrentArticle">Scroll to current article</string>
+    <string name="allBooks">All Books</string>
 </resources>
