@@ -10,7 +10,8 @@
     <string name="redo">重做</string>
     <string name="about">关于 | 帮助</string>
 
-    <string name="defaultContent">　　很高兴见到你！\n　　这是一个快速的纯文本编辑器，我们希望写作能够回到原本的样子：<b>纯粹、有安全感、随时、绝对不丢失内容、具备良好的写作体验。</b>\n　　纯纯写作实现了在 Android 上完美的行间距和段间距，它能够使您的文本看起来更加舒适，清晰。同时，它还实现了「快捷输入栏」和「格式化工具」，以及许多喜人的细节内容。\n　　最重要的，<b>在使用这个编辑器时，它将会保证您的内容永远不会丢失，除非您主动将它清空。否则即使误操作将文本删除，或瞬间断电，您仍然能够从历史记录或备份中将它恢复。</b>\n　　纯纯写作还在流畅体验上下了很多功夫，它拥有 完美的键盘响应逻辑。使用纯纯写作时，你能够往下拖动快捷输入栏来收起软键盘；能够点击文章某一行后，动态获得合适的光标焦点定位；能够在收起软键盘时，文章位置保持不动 … 许多这样的细节内容，当你对比使用其他编辑器项目时，你才会发现纯纯写作做得更加出色、流畅，细致入微。\n　　蕴繁于简。许多编辑器该有的功能，纯纯写作也都没有落下，比如 WebDAV 云备份、段首缩进、生成长图片、指纹加锁、Markdown、更换信纸、夜间模式、单词联想输入、打字机模式、撤销、字数统计 等等。但即使这样，纯纯写作仍然保持了简约的设计风格，遵循 Material Design 设计，并且它还有一个像是哆啦 A 梦 时光机 的图标，寓意着「文字能够连接过去，遥想未来」，也照应了纯纯写作特别提供的「历史记录」功能。\n　　您能够最快速度到达灵感页面，能够随时随地中断和继续写作，这些我们都已经为您做好了。\n　　令人感到安心，顺滑流畅的写作体验，如你所愿，这就是纯纯写作，请享受写作吧！</string>
+    <string name="clearThisContent"><b>清空</b>当前正文</string>
+    <string name="defaultContent">　　很高兴见到你！\n　　这是一个快速的纯文本编辑器，我们希望写作能够回到原本的样子：<b>纯粹、有安全感、随时、绝对不丢失内容、具备良好的写作体验。</b>\n　　纯纯写作实现了在 Android 上完美的行间距和段间距，它能够使您的文本看起来更加舒适、清晰。同时，它还实现了「快捷输入栏」和「格式化工具」，以及许多喜人的细节内容。\n　　最重要的，<b>在使用这个编辑器时，它将会保证您的内容永远不会丢失，除非您主动将它清空。否则即使误操作将文本删除，或瞬间断电，您仍然能够从历史记录或备份中将它恢复。</b>\n　　纯纯写作还在流畅体验上下了很多功夫，它拥有 完美的键盘响应逻辑。使用纯纯写作时，你能够往下拖动快捷输入栏来收起软键盘；能够点击文章某一行后，动态获得合适的光标焦点定位；能够在收起软键盘时，文章位置保持不动 … 许多这样的细节内容，当你对比使用其他编辑器项目时，你才会发现纯纯写作做得更加出色、流畅，细致入微。\n　　蕴繁于简。许多编辑器该有的功能，纯纯写作也都没有落下，比如 WebDAV 云备份、段首缩进、生成长图片、指纹加锁、Markdown、更换信纸、夜间模式、单词联想输入、打字机模式、撤销、字数统计 等等。但即使这样，纯纯写作仍然保持了简约的设计风格，遵循 Material Design 设计，并且它还有一个像是哆啦 A 梦 时光机 的图标，寓意着「文字能够连接过去，遥想未来」，也照应了纯纯写作特别提供的「历史记录」功能。\n　　您能够最快速度到达灵感页面，能够随时随地中断和继续写作，这些我们都已经为您做好了。\n　　令人感到安心，顺滑流畅的写作体验，如你所愿，这就是纯纯写作，请享受写作吧！</string>
     <string name="copyTitle">复制标题</string>
     <string name="copyContent">复制正文内容</string>
     <string name="appPureMosaic">纯纯打码</string>
@@ -48,7 +49,7 @@
     <string name="format">格式</string>
     <string name="tipIndent">注意：段首缩进设置项变更不会改变已有文本</string>
     <string name="explanation">说明</string>
-    <string name="tipInsertBlankLines">这个设置项如果开启，那么在复制或发送正文内容时，会自动在发出的文本中每一处换行后 插入一行空行，因为出了纯纯写作，就没有良好的段间距效果，所以以空行进行隔行。</string>
+    <string name="tipInsertBlankLines">这个设置项如果开启，那么在复制或发送正文内容时，会自动在发出的文本中每一处换行后 插入一行空行，因为在纯纯写作之外，就没有良好的段间距效果，所以以空行进行隔行。</string>
     <string name="deleteObsoleteFiles">删除旧版历史记录文件</string>
     <string name="dayNightMode">夜间模式</string>
     <string name="summaryPay">解锁高级功能</string>
@@ -98,13 +99,13 @@
     <string name="sortTypeCreatedTimeDown">创建时间新的排前</string>
     <string name="sort">排序规则</string>
     <string name="warningSavedFailed">文件自动保存失败，请复制您的全文，然后重启 App 查看是否丢失内容</string>
-    <string name="backupSuccessfully">备份成功</string>
+    <string name="backupSuccessful">备份成功</string>
     <string name="backupNow">立即备份</string>
     <string name="summaryBackupToLocal">备份文件将被保存到 /sdcard/backups</string>
     <string name="restoreBackup">恢复备份</string>
     <string name="summaryRestoreTheBackup">备份文件将从 /sdcard/backups 和 /sdcard/backups/PureWriterAutoBackups 和您的 WebDAV 或 Dropbox 云盘中读取</string>
     <string name="tipBackupList">以下是备份文件，点击即可恢复备份。\n<b>如果您想从 WebDAV 云端获取备份，应该先登录你的 WebDAV 账号后再进入此页面！</b></string>
-    <string name="restoreSuccessfully">恢复备份成功</string>
+    <string name="restoreSuccessful">恢复备份成功</string>
     <string name="tipBackupNotExist">备份文件不存在，请将备份文件置于 /sdcard/backups 并重试</string>
     <string name="wordCountMode">字数统计方式</string>
     <string-array name="wordCountModeEntries">
@@ -213,7 +214,7 @@
     <string name="floatingWordCount">悬浮字数统计</string>
     <string name="tipFloatingWordCountDisabled">关闭悬浮字数统计后，您将可以在时光机中获取字数统计。</string>
     <string name="reduceDatabaseSize">数据库文件瘦身 ，删除历史记录</string>
-    <string name="deleteSuccessfully">删除完成</string>
+    <string name="deleteSuccessful">删除完成</string>
     <string name="reduceDatabaseSizeMessage">删除所有文章的历史记录。\n只是删除历史记录，文章本身不会被删除。\n\n建议您在删除之前最好先进行一次备份。\n建议隔一段时间就进行一次数据库瘦身，即删除历史记录。</string>
     <string name="unlockPro">解锁高级版</string>
     <string name="presetTitle1">纯纯写作 - 愿文字带我们穿越时光，连接过去遥想未来</string>
@@ -310,4 +311,18 @@
     <string name="switchingBooksTooltip">点击此书名可以切换书籍</string>
     <string name="scrollToTheCurrentArticle">滚动到当前文章</string>
     <string name="allBooks">全部书</string>
+    <string name="outline">大纲</string>
+    <string name="outlines">大纲</string>
+    <string name="branchLine">支线</string>
+    <string name="brightLine">明线</string>
+    <string name="darkLine">暗线</string>
+    <string name="eventLine">事件线</string>
+    <string name="mainLine">主线</string>
+    <string name="relationship">人物联系</string>
+    <string name="draft">草稿</string>
+    <string name="needToManuallyRestartToTakeEffect">需要手动重启以生效</string>
+    <string name="spellChecker">拼写检查</string>
+    <string name="thisShortcutCannotBeEdited">这个快捷输入项无法被编辑</string>
+    <string name="createNewChapter">创建新章节</string>
+    <string name="currentText">当前正文</string>
 </resources>

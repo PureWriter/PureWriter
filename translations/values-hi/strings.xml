@@ -21,6 +21,7 @@
     <string name="copyTheTitleSuccessfully">शीर्षक सफलतापूर्वक कॉपी किया गया</string>
     <string name="copyTheContentSuccessfully">सामग्री सफलतापूर्वक कॉपी की गई</string>
     <string name="titleAndContentAreEmpty">शीर्षक और सामग्री रिक्त है</string>
+    <string name="clearThisContent">इस सामग्री को साफ़ करें</string>
     <string name="copyContent">सामग्री की प्रतिलिपि बनाएँ</string>
     <string name="appPureMosaic">PureMosaic</string>
     <string name="wordCountShort">"गिनती"</string>
@@ -101,8 +102,8 @@
     <string name="summaryBackupToLocal">बैकअप फ़ाइल को पथ /sdcard/backups पर सहेजा जाएगा</string>
     <string name="restoreBackup">बैकअप पुनर्स्थापित करें</string>
     <string name="summaryRestoreTheBackup">Backup file will be retrieved from /sdcard/backups, /sdcard/backups/PureWriterAutoBackups and your WebDAV or Dropbox</string>
-    <string name="backupSuccessfully">बैकअप सफल</string>
-    <string name="restoreSuccessfully">सफलतापूर्वक बैकअप बहाल करें</string>
+    <string name="backupSuccessful">बैकअप सफल</string>
+    <string name="restoreSuccessful">सफलतापूर्वक बैकअप बहाल करें</string>
     <string name="tipBackupList">निम्नलिखित सभी बैकअप फ़ाइलें हैं, बैकअप को पुनर्स्थापित करने के लिए क्लिक करें. \n<b>यदि आप WebDAV क्लाउड से बैकअप प्राप्त करना चाहते हैं, तो आपको इस पृष्ठ को दर्ज करने से पहले अपने WebDAV खाते में लॉग इन करना चाहिए!</b></string>
     <string name="tipBackupNotExist">बैकअप फ़ाइल मौजूद नहीं है कृपया /sdcard/backups में बैकअप फ़ाइल डालकर पुन: प्रयास करें</string>
     <string name="wordCountMode">शब्द गणना मोड</string>
@@ -209,7 +210,7 @@
     <string name="floatingWordCount">फ़्लोटिंग शब्द गिनती</string>
     <string name="tipFloatingWordCountDisabled">After you disable Word Count, you will be able to see it in TimeMachine.</string>
     <string name="reduceDatabaseSize">डेटाबेस आकार कम करें</string>
-    <string name="deleteSuccessfully">Deleted successfully</string>
+    <string name="deleteSuccessful">Deleted successfully</string>
     <string name="reduceDatabaseSizeMessage">सभी लेखों के सभी इतिहास हटाएं।\nबस इतिहास, लेख खुद को हटाया नहीं जाएगा।\n\nइससे पहले कि आप इसे हटाने से पहले बैकअप लेंगे।</string>
     <string name="unlockPro">Get Pro</string>
     <string name="presetTitle1">Pure Writer - Connecting the Past and Future with Words</string>
@@ -306,4 +307,18 @@
     <string name="allBooks">सभी किताबें</string>
     <string name="insertCategoryBelowShort">नीचे श्रेणी डालें</string>
     <string name="insertCategoryBelowLong">वर्तमान लेख के नीचे श्रेणी डालें</string>
+    <string name="branchLine">शाखा रेखा</string>
+    <string name="brightLine">चमकीली रेखा</string>
+    <string name="darkLine">डार्क लाइन</string>
+    <string name="eventLine">आयोजन</string>
+    <string name="mainLine">मेन लाइन</string>
+    <string name="outline">रूपरेखा</string>
+    <string name="outlines">रूपरेखा</string>
+    <string name="relationship">संबंध</string>
+    <string name="draft">प्रारूप</string>
+    <string name="needToManuallyRestartToTakeEffect">प्रभावी होने के लिए मैन्युअल रूप से पुनरारंभ करने की आवश्यकता है</string>
+    <string name="spellChecker">वर्तनी जाँच करनेवाला</string>
+    <string name="thisShortcutCannotBeEdited">इस शॉर्टकट को संपादित नहीं किया जा सकता है</string>
+    <string name="createNewChapter">एक नया अध्याय बनाएँ</string>
+    <string name="currentText">वर्तमान पाठ</string>
 </resources>

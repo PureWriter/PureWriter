@@ -8,6 +8,7 @@
     <string name="autoLock">Automatische vergrendeling</string>
     <string name="cancel">Annuleer</string>
     <string name="deleteObsoleteFiles">Verwijder verouderde bestanden</string>
+    <string name="clearThisContent">Wis deze inhoud</string>
     <string name="contentTextSize">Inhoud tekst grootte</string>
     <string name="copyContent">Kopieer de inhoud</string>
     <string name="copyTheContentSuccessfully">De inhoud is succesvol gekopieerd</string>
@@ -101,8 +102,8 @@
     <string name="summaryBackupToLocal">Het back-upbestand wordt opgeslagen op het pad /sdcard/backups</string>
     <string name="restoreBackup">Back-up terugzetten</string>
     <string name="summaryRestoreTheBackup">Backup file will be retrieved from /sdcard/backups, /sdcard/backups/PureWriterAutoBackups and your WebDAV or Dropbox</string>
-    <string name="backupSuccessfully">Backup succesvol</string>
-    <string name="restoreSuccessfully">Herstel de back-up met succes</string>
+    <string name="backupSuccessful">Back-up geslaagd</string>
+    <string name="restoreSuccessful">Herstel de back-up met succes</string>
     <string name="tipBackupList">Het volgende is alle back-upbestanden, klik om de back-up te herstellen. \n<b>Als u back-ups wilt ontvangen van de WebDAV-cloud, moet u zich aanmelden bij uw WebDAV-account voordat u deze pagina opent!</b></string>
     <string name="tipBackupNotExist">Het back-upbestand bestaat niet. Plaats het back-upbestand in /sdcard/backups en probeer het opnieuw</string>
     <string name="wordCountMode">Word telmodus</string>
@@ -209,7 +210,7 @@
     <string name="floatingWordCount">Floating Word Count</string>
     <string name="tipFloatingWordCountDisabled">After you disable Word Count, you will be able to see it in TimeMachine</string>
     <string name="reduceDatabaseSize">Verklein database grootte</string>
-    <string name="deleteSuccessfully">Met succes verwijderd</string>
+    <string name="deleteSuccessful">Met succes verwijderd</string>
     <string name="reduceDatabaseSizeMessage">Verwijder alle geschiedenis van alle artikelen.\nAlleen geschiedenis, het artikel zelf zal niet worden verwijderd.\n\nMaak een back-up voordat u deze verwijdert.</string>
     <string name="unlockPro">Get Pro</string>
     <string name="presetTitle1">Pure Writer - Connecting the Past and Future with Words</string>
@@ -306,4 +307,18 @@
     <string name="allBooks">Alle boeken</string>
     <string name="insertCategoryBelowShort">Voeg Categorie hieronder toe</string>
     <string name="insertCategoryBelowLong">Voeg categorie toe onder het huidige artikel</string>
+    <string name="branchLine">Aftaklijn</string>
+    <string name="brightLine">Heldere lijn</string>
+    <string name="darkLine">Donkere lijn</string>
+    <string name="eventLine">Evenementregel</string>
+    <string name="mainLine">Hoofdlijn</string>
+    <string name="relationship">Verwantschap</string>
+    <string name="outline">Schets</string>
+    <string name="outlines">Schets</string>
+    <string name="draft">Concept</string>
+    <string name="needToManuallyRestartToTakeEffect">Moet handmatig opnieuw worden gestart om van kracht te worden</string>
+    <string name="spellChecker">Spellingscontrole</string>
+    <string name="thisShortcutCannotBeEdited">Deze snelkoppeling kan niet worden bewerkt</string>
+    <string name="createNewChapter">Maak een nieuw hoofdstuk</string>
+    <string name="currentText">Huidige tekst</string>
 </resources>

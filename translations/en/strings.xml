@@ -27,6 +27,7 @@
     <string name="copyTheTitleSuccessfully">Copied the title successfully!</string>
     <string name="copyTheContentSuccessfully">Copied the content successfully!</string>
     <string name="titleAndContentAreEmpty">Title and content are empty!</string>
+    <string name="clearThisContent"><b>Clear</b> this content</string>
     <string name="copyContent">Copy the Content</string>
     <string name="appPureMosaic">Pure Mosaic</string>
     <string name="wordCountShort">Count</string>
@@ -117,8 +118,8 @@
     <string name="summaryBackupToCloud">Backup file will be saved to your cloud storage if set</string>
     <string name="restoreBackup">Restore backup</string>
     <string name="summaryRestoreTheBackup">Backup file will be retrieved from /sdcard/backups, /sdcard/backups/PureWriterAutoBackups and your WebDAV or Dropbox</string>
-    <string name="backupSuccessfully">Backup successfully</string>
-    <string name="restoreSuccessfully">Backup restored successfully</string>
+    <string name="backupSuccessful">Backup successful</string>
+    <string name="restoreSuccessful">Backup restored successfully</string>
     <string name="tipBackupList">Here\'re your backup files. You can click to restore them.\n<b>If you wish to retrieve backup files from WebDAV, please login to your WebDAV account first!</b></string>
     <string name="tipBackupNotExist">The backup file does not exist. Please place the backup file in /sdcard/backups and try again.</string>
     <string name="wordCountMode">Word count mode</string>
@@ -243,7 +244,7 @@
     <string name="shareMessage">If you enjoy using Pure Writer, please help us to spread the word! Click the Share button on the right to share this app with your friends. It\'ll mean a lot to us and the app as it improves because of your support. Thanks!\n\nTo find out more, please visit: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
     <string name="reduceDatabaseSize">Clear History to Reduce Database Size</string>
     <string name="reduceDatabaseSizeMessage">Delete History for all articles. \nNote: This will only delete the History records and NOT the article itself. \n\nYou are advised to backup proceeding to delete. \nYou are also advised to delete the History records occasionally to reduce the database size!</string>
-    <string name="deleteSuccessfully">Deleted successfully</string>
+    <string name="deleteSuccessful">Delete successful</string>
     <string name="unlockPro">Unlock Pro</string>
     <string name="presetTitle1">Pure Writer - Connecting the past and future with words</string>
     <string name="presetContent1">Pure Writer is a fast and comfortable text editing app that prevents you from losing your works. While scrolling the comments and reviews of Pure Writer in Google Play, you might find some high praises for this app like "There\'s no app better than this", "The most satisfying app", "Love this app so much", "Love at first sight for this app"… As the only developer for Pure Writer, the comments were especially gratifying for me. \nIn June 2017, after I went through countless uncomfortable, poorly done text editing products and lost my precious text files, I am determined to develop my own text editing app that allows its users to write anytime anywhere in a feature-filled and comfortable environment, knowing that their words will never disappear. This app, as I decided, will be developed with a writer\'s perspective. \nBefore all this, I was working part-time on a rich text editing software. Although we poured our hearts over it, the software did not turn out the way we wanted it to be. Despite that, I successfully developed some unique features that is more than enough for Pure Writer. \nAnd so Pure Writer is born. From the very beginning, Pure Writer took care of perfecting each line and character spacing on Android. This is the special feature that no other text editing android apps has achieved besides Microsoft Word. And yet the package size of Microsoft Word is more than ten times larger than Pure Writer\'s.\nNot only that, Pure Writer also provides special features like "launch text editor on app start" and especially "History records". As a writer myself, I understand the utmost importance of having a history record — it allows you to focus on your writing while giving you a peace of mind that you will never, ever lose what you are writing. Even if your phone shuts down suddenly without any notice, Pure Writer can still save your content automatically. This way, all users are able to start and stop writing whenever they wish in a comfortable text editor with confidence. \nIn addition to that, Pure Writer supports "Input Shortcuts" and "Formatting tools", input shortcuts allows users to set their own custom words into the shortcut bar, so that they can reuse it over and over again with ease; formatting tools help users to quickly format their text for example auto spacing and arranging. \nNot only these features, a lot of effort was put into perfecting the tiniest detail in Pure Writer. While using Pure Writer, you are able to hide the soft keyboard by simply swiping the screen, get the cursor to be exactly where you want it to be and also keep the article still while you hide the soft keyboard… If you were to compare Pure Writer to the other text editing apps, you will find that Pure Writer has perfectly taken care of all the small details that eventually contribute to a perfect writing environment.\nPure Writer has the editing tools you need for example: auto indentation, export article as various files including images, floating word count, canceling, Markdown, custom background themes, night mode, biometric encryption, text auto complete, sharing and much more. Despite all the features and details, Pure Writer still kept its minimalistic style and follows the Material Design guidelines. I also made a "Time Machine" for users to make small notes and keep them. The name "Time Machine" is taken from the comic, with the meaning of "Connecting the Past and Future with words". \nUntil today, Pure Writer\'s code base has received over one thousand commits and millions of lines changes. Although Pure Writer consumes almost all of my free time, it is always a relief that more and more users are giving me positive feedback. I actively connect with Pure Writer\'s users, collecting feedback and perfecting the app. I\'ve never felt happier at the thought of making something long term that helps other people. \nFinally, thank you to all my friends who helped me throughout this journey. Without you, this app would never be where it is today. With this post, I introduce you to the original ideas of Pure Writer and all of its special features, and hopefully more people would get to know it better. Let\'s hope that we are able to leave wonderful memories behind in the limited time we have. Let our Words take us back in time, and bring us to imagine the future.</string>
@@ -302,7 +303,7 @@
     <string name="tipSmoothScrolling">If this option is turned on, when you click on a line of the content text, the text view will scroll smoothly to the focused line if necessary. If this option is off, it will jump to that line in an instant. \nThe scrolling animation may not perform well on some devices, so turn off this option if you feel stuck.</string>
     <string name="defaultMessageUpdateApk">This is an important version, please update to this version as soon as possible</string>
     <string name="readme">You have turned on the new Material Design 2 design of Pure Writer.\n\nMaterial Design 2 brings a new full-screen immersion paper and a transparent top bar for a more fresh look.\n\nHowever, at the same time, there may be many problems with the new design, so this is an experimental feature of Pure Writer, which may have some UI visual problems. In addition, as the author of Pure Writer, I prefer the original Pure Writer design, which is more eye-catching and focused on text content, so this design feature is actually developed in response to the strong demands of a small number of users. It requires a lot of extra development costs, and it is not easy to provide, and since there will be two Pure Writer design now, the work of developers may multiply.\n\nBecause of this, Pure Writer will recommend you to pay for it, but you can still have a lot of time to experience and make a final payment decision. Please try to support it. If the statistics show that the proportion of users who are willing to pay is small, the developer may cancel or stop maintaining the Material Design 2. Once you click the OK, you will be deemed to agree to this content by default.\n\nThank you all! I will do my best to provide a better and better Pure Writer, please enjoy!</string>
-    <string name="materialDesign2Formatted" translatable="false"><b><i>Material Design 2</i></b></string>
+    <string name="materialDesign2Formatted" translatable="false"><b><i>Material Design 2　　</i></b></string>
     <string name="materialDesign2" translatable="false">Material Design 2</string>
     <string name="lowFreeStorageSpaceWarning">Your phone has only %d MB of free storage, which may cause Pure Writer to save or backup failed. Please clean up and leave more than 100 MB before using Pure Writer!</string>
     <string name="pureWriterBBS">Pure Writer BBS</string>
@@ -310,6 +311,7 @@
     <string name="replace">Replace</string>
     <string name="find">Find</string>
     <string name="currentChapter">Current Chapter</string>
+    <string name="currentText">Current Text</string>
     <string name="currentBook">Current Book</string>
     <string name="ignoreCase">Ignore Case</string>
     <string name="selectAll">Select All</string>
@@ -341,4 +343,17 @@
     <string name="switchingBooksTooltip">Click on this book title to switch Books</string>
     <string name="scrollToTheCurrentArticle">Scroll to current article</string>
     <string name="allBooks">All Books</string>
+    <string name="outlines">Outlines</string>
+    <string name="outline">Outline</string>
+    <string name="mainLine">Main Line</string>
+    <string name="branchLine">Branch Line</string>
+    <string name="relationship">Relationship</string>
+    <string name="eventLine">Event Line</string>
+    <string name="brightLine">Bright Line</string>
+    <string name="darkLine">Dark Line</string>
+    <string name="draft">Draft</string>
+    <string name="needToManuallyRestartToTakeEffect">Need to manually restart to take effect</string>
+    <string name="spellChecker">Spell checker</string>
+    <string name="thisShortcutCannotBeEdited">This shortcut cannot be edited</string>
+    <string name="createNewChapter">Create a new chapter</string>
 </resources>

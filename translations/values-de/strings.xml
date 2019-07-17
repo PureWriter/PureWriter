@@ -100,8 +100,8 @@
     <string name="summaryBackupToCloud">Sicherungsdateien werden in Ihrem Cloud-Speicher gespeichert, sofern festgelegt</string>
     <string name="restoreBackup">Backup wiederherstellen</string>
     <string name="summaryRestoreTheBackup">Die Sicherungsdatei wird von /sdcard/backups, /sdcard/backups/PureWriterAutoBackups und Ihrer WebDAV oder Dropbox abgerufen</string>
-    <string name="backupSuccessfully">Sicherung erfolgreich</string>
-    <string name="restoreSuccessfully">Sicherung erfolgreich wiederhergestellt</string>
+    <string name="backupSuccessful">Sicherung erfolgreich</string>
+    <string name="restoreSuccessful">Sicherung erfolgreich wiederhergestellt</string>
     <string name="tipBackupList">Hier sind Ihre Sicherungsdateien. Sie können klicken, um sie wiederherzustellen.\n<b>Wenn Sie Sicherungsdateien von WebDAV abrufen möchten, melden Sie sich bitte zuerst bei Ihrem WebDAV-Konto an! </b></string>
     <string name="tipBackupNotExist">Die Sicherungsdatei existiert nicht. Legen Sie die Sicherungsdatei in /sdcard/backups ab und versuchen Sie es erneut.</string>
     <string name="wordCountMode">Word-Count-Modus</string>
@@ -201,7 +201,7 @@
     <string name="shareText">Empfehlung: Pure Writer ist eine mit Funktionen ausgestattete Textbearbeitungs-App, die Ihnen mit seinen Funktionen ein beruhigendes Gefühl gibt: Verlaufsaufzeichnungen, mehrschichtiger Schutz, der den Verlust Ihrer wertvollen Inhalte verhindert, und eine komfortable Schreibumgebung. Weitere Informationen finden Sie hier: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
     <string name="tipFloatingWordCountDisabled">Nach dem Deaktivieren der Anzahl der Floating-Wörter können Sie immer noch die Gesamtzahl der Wörter in der Time Machine abrufen</string>
     <string name="reduceDatabaseSize">Löschen Sie den Verlauf, um die Datenbankgröße zu reduzieren</string>
-    <string name="deleteSuccessfully">Erfolgreich gelöscht</string>
+    <string name="deleteSuccessful">Erfolgreich gelöscht</string>
     <string name="unlockPro">Get Pro</string>
     <string name="presetTitle1">Pure Writer - Vergangenheit und Zukunft mit Worten verbinden</string>
     <string name="presetTitle2">Pure Writer - Schutzmechanismus</string>
@@ -298,4 +298,19 @@
     <string name="allBooks">Alle Bücher</string>
     <string name="insertCategoryBelowShort">Kategorie unten einfügen</string>
     <string name="insertCategoryBelowLong">Kategorie unterhalb des aktuellen Artikels einfügen</string>
+    <string name="branchLine">Zweiglinie</string>
+    <string name="brightLine">Helle Linie</string>
+    <string name="darkLine">Dunkle Linie</string>
+    <string name="eventLine">Ereignisse</string>
+    <string name="mainLine">Hauptstrecke</string>
+    <string name="outline">Skizzieren</string>
+    <string name="outlines">Skizzieren</string>
+    <string name="relationship">Beziehung</string>
+    <string name="draft">Entwurf</string>
+    <string name="clearThisContent">Löschen Sie diesen Inhalt</string>
+    <string name="needToManuallyRestartToTakeEffect">Müssen manuell neu starten, um wirksam zu werden</string>
+    <string name="spellChecker">Rechtschreibprüfung</string>
+    <string name="thisShortcutCannotBeEdited">Diese Verknüpfung kann nicht bearbeitet werden</string>
+    <string name="createNewChapter">Erstellen Sie ein neues Kapitel</string>
+    <string name="currentText">Aktueller Text</string>
 </resources>

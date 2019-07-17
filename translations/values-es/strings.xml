@@ -21,6 +21,7 @@
     <string name="copyTheTitleSuccessfully">Copiado el título correctamente</string>
     <string name="copyTheContentSuccessfully">Copiado el contenido correctamente</string>
     <string name="titleAndContentAreEmpty">Título y el contenido está vacía</string>
+    <string name="clearThisContent">Borrar este contenido</string>
     <string name="copyContent">Copiar contenido</string>
     <string name="appPureMosaic">PureMosaic</string>
     <string name="wordCountShort">Contar</string>
@@ -101,8 +102,8 @@
     <string name="summaryBackupToLocal">El archivo de copia de seguridad se guardará en la ruta /sdcard/backups</string>
     <string name="restoreBackup">Restaurar copia de seguridad</string>
     <string name="summaryRestoreTheBackup">Backup file will be retrieved from /sdcard/backups, /sdcard/backups/PureWriterAutoBackups and your WebDAV or Dropbox</string>
-    <string name="backupSuccessfully">Backup exitoso</string>
-    <string name="restoreSuccessfully">Restaure la copia de seguridad con éxito</string>
+    <string name="backupSuccessful">Backup exitoso</string>
+    <string name="restoreSuccessful">Restaure la copia de seguridad con éxito</string>
     <string name="tipBackupList">A continuación se muestran todos los archivos de copia de seguridad, haga clic para restaurar la copia de seguridad. \n<b>Si desea obtener copias de seguridad de la nube WebDAV, ¡debe iniciar sesión en su cuenta WebDAV antes de ingresar a esta página!</b></string>
     <string name="tipBackupNotExist">El archivo de copia de seguridad no existe. Coloque el archivo de copia de seguridad en /sdcard/backups y vuelva a intentarlo</string>
     <string name="wordCountMode">Modo de conteo de palabras</string>
@@ -209,7 +210,7 @@
     <string name="floatingWordCount">Floating Word Count</string>
     <string name="tipFloatingWordCountDisabled">Después de desactivar Word Count, podrá verlo en Time Machine.</string>
     <string name="reduceDatabaseSize">Reducir tamaño de la base de datos</string>
-    <string name="deleteSuccessfully">Borrado exitosamente</string>
+    <string name="deleteSuccessful">Borrado exitosamente</string>
     <string name="reduceDatabaseSizeMessage">Eliminar todo el historial de todos los artículos.\nSolo historia, el artículo en sí no será eliminado.\n\nSerá mejor que haga una copia de seguridad antes de eliminarla.</string>
     <string name="unlockPro">Obtener Pro</string>
     <string name="presetTitle1">Pure Writer - Connecting the Past and Future with Words</string>
@@ -306,4 +307,18 @@
     <string name="allBooks">Todos los libros</string>
     <string name="insertCategoryBelowShort">Insertar categoría debajo</string>
     <string name="insertCategoryBelowLong">Insertar categoría debajo del artículo actual</string>
+    <string name="branchLine">Ramal</string>
+    <string name="brightLine">Línea brillante</string>
+    <string name="darkLine">Línea oscura</string>
+    <string name="eventLine">Eventos</string>
+    <string name="mainLine">Linea principal</string>
+    <string name="outline">Esbozo</string>
+    <string name="outlines">Esbozo</string>
+    <string name="relationship">Relación</string>
+    <string name="draft">Borrador</string>
+    <string name="needToManuallyRestartToTakeEffect">Necesidad de reiniciar manualmente para tener efecto</string>
+    <string name="spellChecker">Corrector ortográfico</string>
+    <string name="thisShortcutCannotBeEdited">Este atajo no puede ser editado</string>
+    <string name="createNewChapter">Crear un nuevo capitulo</string>
+    <string name="currentText">Texto actual</string>
 </resources>

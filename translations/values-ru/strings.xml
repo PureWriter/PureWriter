@@ -21,6 +21,7 @@
     <string name="copyTheTitleSuccessfully">Название скопировано</string>
     <string name="copyTheContentSuccessfully">Содержимое скопировано</string>
     <string name="titleAndContentAreEmpty">Содержание и название отсутствуют</string>
+    <string name="clearThisContent">Очистить это содержание</string>
     <string name="copyContent">Скопировать содержимое</string>
     <string name="appPureMosaic">PureMosaic</string>
     <string name="wordCountShort">кол-во</string>
@@ -101,8 +102,8 @@
     <string name="summaryBackupToLocal">Файл резервной копии будет сохранен в /sdcard/backups</string>
     <string name="restoreBackup">Восстановление резервной копии</string>
     <string name="summaryRestoreTheBackup">Backup file will be retrieved from /sdcard/backups, /sdcard/backups/PureWriterAutoBackups and your WebDAV or Dropbox</string>
-    <string name="backupSuccessfully">Резервирование успешно</string>
-    <string name="restoreSuccessfully">Восстановление резервной копии успешно</string>
+    <string name="backupSuccessful">Резервирование успешно</string>
+    <string name="restoreSuccessful">Восстановление резервной копии успешно</string>
     <string name="tipBackupList">Ниже перечислены все файлы резервных копий, нажмите, чтобы восстановить резервную копию. \n<b>Если вы хотите получить резервные копии из облака WebDAV, перед тем, как войти на эту страницу, вы должны войти в свою учетную запись WebDAV!</b></string>
     <string name="tipBackupNotExist">Файл резервной копии не существует. Поместите файл в /sdcard/backups и повторите попытку</string>
     <string name="wordCountMode">Word count mode</string>
@@ -209,7 +210,7 @@
     <string name="floatingWordCount">Floating Word Count</string>
     <string name="tipFloatingWordCountDisabled">После отключения Word Count вы сможете увидеть его в Time Machine.</string>
     <string name="reduceDatabaseSize">Уменьшить размер базы данных</string>
-    <string name="deleteSuccessfully">Удалено успешно</string>
+    <string name="deleteSuccessful">Удалено успешно</string>
     <string name="reduceDatabaseSizeMessage">Удалите всю историю всех статей.\nПросто история, сама статья не будет удалена.\n\nВы должны сделать резервную копию, прежде чем удалять ее.</string>
     <string name="unlockPro">Get Pro</string>
     <string name="presetTitle1">Pure Writer - Connecting the Past and Future with Words</string>
@@ -306,4 +307,18 @@
     <string name="allBooks">Все книги</string>
     <string name="insertCategoryBelowShort">Вставьте категорию ниже</string>
     <string name="insertCategoryBelowLong">Вставьте категорию под текущей статьей</string>
+    <string name="branchLine">Ветка</string>
+    <string name="brightLine">Яркая Линия</string>
+    <string name="darkLine">Темная линия</string>
+    <string name="eventLine">События</string>
+    <string name="mainLine">Главная линия</string>
+    <string name="outline">Oчертание</string>
+    <string name="outlines">Oчертание</string>
+    <string name="relationship">Oтношения</string>
+    <string name="draft">Черновик</string>
+    <string name="needToManuallyRestartToTakeEffect">Нужно вручную перезагрузить, чтобы вступили в силу</string>
+    <string name="spellChecker">Программа проверки орфографии</string>
+    <string name="thisShortcutCannotBeEdited">Этот ярлык нельзя редактировать</string>
+    <string name="createNewChapter">Создать новую главу</string>
+    <string name="currentText">Текущий текст</string>
 </resources>

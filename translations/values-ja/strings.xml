@@ -20,6 +20,7 @@
     <string name="copyTheTitleSuccessfully">タイトルを正常にコピーしました</string>
     <string name="copyTheContentSuccessfully">コンテンツを正常にコピーしました</string>
     <string name="titleAndContentAreEmpty">タイトルと内容が空であります</string>
+    <string name="clearThisContent">このコンテンツを消去</string>
     <string name="copyContent">コンテンツをコピーする</string>
     <string name="appPureMosaic">PureMosaic</string>
     <string name="wordCountShort">単語数</string>
@@ -100,8 +101,8 @@
     <string name="summaryBackupToLocal">バックアップファイルはパス /sdcard/backups に保存されます。</string>
     <string name="restoreBackup">バックアップを復元</string>
     <string name="summaryRestoreTheBackup">Backup file will be retrieved from /sdcard/backups, /sdcard/backups/PureWriterAutoBackups and your WebDAV or Dropbox</string>
-    <string name="backupSuccessfully">バックアップが成功しました</string>
-    <string name="restoreSuccessfully">バックアップを正常に復元する</string>
+    <string name="backupSuccessful">バックアップ成功</string>
+    <string name="restoreSuccessful">バックアップを正常に復元する</string>
     <string name="tipBackupList">以下はすべてのバックアップファイルです：クリックしてバックアップを復元する。\n<b>WebDAVクラウドからバックアップを取得する場合は、このページに入る前にWebDAVアカウントにログインする必要があります。</b></string>
     <string name="tipBackupNotExist">バックアップファイルは存在しません。 バックアップファイルを /sdcard/backups に入れてもう一度お試しください</string>
     <string name="wordCountMode">単語数</string>
@@ -208,7 +209,7 @@
     <string name="floatingWordCount">Floating Word Count</string>
     <string name="tipFloatingWordCountDisabled">After turning off the floating word count, you will still be able to get the total word count in the Time Machine</string>
     <string name="reduceDatabaseSize">データベースサイズを縮小する</string>
-    <string name="deleteSuccessfully">Deleted successfully</string>
+    <string name="deleteSuccessful">Deleted successfully</string>
     <string name="reduceDatabaseSizeMessage">すべての記事のすべての履歴を削除します。\n歴史だけでは、記事自体は削除されません。\n\n削除する前にバックアップを作成することをお勧めします。\n\nEnglish: \nDelete all history of all articles. \nJust history, the article itself will not be deleted. \n\nYou\'d better make a backup before you delete it.</string>
     <string name="unlockPro">Unlock Pro</string>
     <string name="presetTitle1">Pure Writer - Connecting the Past and Future with Words</string>
@@ -306,4 +307,18 @@
     <string name="allBooks">すべての本</string>
     <string name="insertCategoryBelowShort">下にカテゴリを挿入</string>
     <string name="insertCategoryBelowLong">現在の記事の下にカテゴリを挿入</string>
+    <string name="branchLine">支線</string>
+    <string name="brightLine">輝線</string>
+    <string name="darkLine">暗線</string>
+    <string name="eventLine">イベント</string>
+    <string name="mainLine">本線</string>
+    <string name="outline">概要</string>
+    <string name="outlines">概要</string>
+    <string name="relationship">関係</string>
+    <string name="draft">下書き</string>
+    <string name="needToManuallyRestartToTakeEffect">有効にするには手動で再起動する必要があります</string>
+    <string name="spellChecker">スペルチェッカー</string>
+    <string name="thisShortcutCannotBeEdited">このショートカットは編集できません</string>
+    <string name="createNewChapter">新しい章を作る</string>
+    <string name="currentText">現在のテキスト</string>
 </resources>
