@@ -313,4 +313,8 @@
     <string name="thisShortcutCannotBeEdited">Diese Verknüpfung kann nicht bearbeitet werden</string>
     <string name="createNewChapter">Erstellen Sie ein neues Kapitel</string>
     <string name="currentText">Aktueller Text</string>
+    <string name="hideSoftKeyboard">Tastatur ausblenden</string>
+    <string name="transparentTopBar">Transparente obere Leiste</string>
+    <string name="transparentNavigationBarWarning">Dies ist eine experimentelle Funktion. Wenn es eingeschaltet ist, wird möglicherweise die Höhe der Bildschirmtastatur falsch überprüft, was dazu führen kann, dass die Shortcut-Leiste nicht angezeigt und der Text unscharf wird. Wenn Sie auf diese Probleme stoßen, deaktivieren Sie diese Option.</string>
+    <string name="transparentNavigationBar">Transparente Navigationsleiste</string>
 </resources>

@@ -356,4 +356,8 @@
     <string name="spellChecker">Spell checker</string>
     <string name="thisShortcutCannotBeEdited">This shortcut cannot be edited</string>
     <string name="createNewChapter">Create a new chapter</string>
+    <string name="hideSoftKeyboard">Hide keyboard</string>
+    <string name="transparentTopBar">Transparent top bar</string>
+    <string name="transparentNavigationBar">Transparent Navigation Bar</string>
+    <string name="transparentNavigationBarWarning">This is an experimental feature. When it is turned on, it may cause the soft keyboard height to be checked incorrectly, which may cause the Shortcut bar to be undisplayed and the text to be out of focus. If you encounter these problems, turn off this option.</string>
 </resources>

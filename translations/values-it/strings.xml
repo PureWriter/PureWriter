@@ -331,4 +331,8 @@
     <string name="tipParagraphSpacingInMD">La spaziatura dei paragrafi non sarà abilitata nella modalità Markdown</string>
     <string name="zoomIn">Ingrandire</string>
     <string name="zoomOut">Zoom indietro</string>
+    <string name="hideSoftKeyboard">Nascondi tastiera</string>
+    <string name="transparentTopBar">Barra superiore trasparente</string>
+    <string name="transparentNavigationBarWarning">Questa è una caratteristica sperimentale. Quando è acceso, potrebbe causare l\'errata verifica dell\'altezza della tastiera morbida, il che potrebbe causare la visualizzazione della barra dei collegamenti e la sfocatura del testo. Se si verificano questi problemi, disattivare questa opzione.</string>
+    <string name="transparentNavigationBar">Barra di navigazione trasparente</string>
 </resources>

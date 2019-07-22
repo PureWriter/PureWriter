@@ -321,4 +321,8 @@
     <string name="thisShortcutCannotBeEdited">इस शॉर्टकट को संपादित नहीं किया जा सकता है</string>
     <string name="createNewChapter">एक नया अध्याय बनाएँ</string>
     <string name="currentText">वर्तमान पाठ</string>
+    <string name="hideSoftKeyboard">कीबोर्ड छुपाएं</string>
+    <string name="transparentTopBar">पारदर्शी शीर्ष पट्टी</string>
+    <string name="transparentNavigationBarWarning">यह एक प्रायोगिक विशेषता है। जब इसे चालू किया जाता है, तो यह नरम कीबोर्ड की ऊँचाई को गलत तरीके से जाँच सकता है, जिससे शॉर्टकट बार को हटा दिया जा सकता है और पाठ ध्यान से बाहर हो सकता है। यदि आप इन समस्याओं का सामना करते हैं, तो इस विकल्प को बंद कर दें।</string>
+    <string name="transparentNavigationBar">पारदर्शी नेविगेशन बार</string>
 </resources>

@@ -321,4 +321,8 @@
     <string name="thisShortcutCannotBeEdited">Этот ярлык нельзя редактировать</string>
     <string name="createNewChapter">Создать новую главу</string>
     <string name="currentText">Текущий текст</string>
+    <string name="hideSoftKeyboard">Скрыть клавиатуру</string>
+    <string name="transparentTopBar">Прозрачная верхняя панель</string>
+    <string name="transparentNavigationBarWarning">Это экспериментальная особенность. Когда он включен, это может привести к неправильной проверке высоты программной клавиатуры, что может привести к тому, что панель быстрого доступа не будет отображаться и текст будет не в фокусе. Если вы столкнулись с этими проблемами, отключите эту опцию.</string>
+    <string name="transparentNavigationBar">Прозрачная панель навигации</string>
 </resources>

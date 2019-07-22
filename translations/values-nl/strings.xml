@@ -321,4 +321,8 @@
     <string name="thisShortcutCannotBeEdited">Deze snelkoppeling kan niet worden bewerkt</string>
     <string name="createNewChapter">Maak een nieuw hoofdstuk</string>
     <string name="currentText">Huidige tekst</string>
+    <string name="hideSoftKeyboard">Toetsenbord verbergen</string>
+    <string name="transparentTopBar">Transparante bovenste balk</string>
+    <string name="transparentNavigationBarWarning">Dit is een experimentele functie. Als het is ingeschakeld, kan dit ertoe leiden dat de hoogte van het zachte toetsenbord onjuist wordt gecontroleerd, waardoor de snelkoppelingsbalk niet wordt weergegeven en de tekst niet wordt scherpgesteld. Als u deze problemen ondervindt, schakelt u deze optie uit.</string>
+    <string name="transparentNavigationBar">Transparante navigatiebalk</string>
 </resources>

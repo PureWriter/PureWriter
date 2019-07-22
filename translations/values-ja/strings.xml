@@ -321,4 +321,8 @@
     <string name="thisShortcutCannotBeEdited">このショートカットは編集できません</string>
     <string name="createNewChapter">新しい章を作る</string>
     <string name="currentText">現在のテキスト</string>
+    <string name="hideSoftKeyboard">キーボードを隠す</string>
+    <string name="transparentTopBar">透明トップバー</string>
+    <string name="transparentNavigationBarWarning">これは実験的な機能です。 オンにすると、ソフトキーボードの高さが正しくチェックされず、ショートカットバーが表示されずにテキストのフォーカスが外れる可能性があります。 これらの問題が発生した場合は、このオプションを無効にしてください。</string>
+    <string name="transparentNavigationBar">透明なナビゲーションバー</string>
 </resources>

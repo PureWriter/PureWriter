@@ -321,4 +321,8 @@
     <string name="thisShortcutCannotBeEdited">Este atajo no puede ser editado</string>
     <string name="createNewChapter">Crear un nuevo capitulo</string>
     <string name="currentText">Texto actual</string>
+    <string name="hideSoftKeyboard">Ocultar teclado</string>
+    <string name="transparentTopBar">Barra superior transparente</string>
+    <string name="transparentNavigationBarWarning">Esta es una característica experimental. Cuando está activado, puede hacer que la altura del teclado suave se verifique incorrectamente, lo que puede hacer que la barra de accesos directos no se muestre y el texto esté desenfocado. Si encuentra estos problemas, desactive esta opción.</string>
+    <string name="transparentNavigationBar">Barra de navegación transparente</string>
 </resources>

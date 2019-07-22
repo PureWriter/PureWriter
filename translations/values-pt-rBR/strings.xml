@@ -329,4 +329,8 @@
     <string name="thisShortcutCannotBeEdited">Este atalho não pode ser editado</string>
     <string name="createNewChapter">Crie um novo capítulo</string>
     <string name="currentText">Texto atual</string>
+    <string name="hideSoftKeyboard">Ocultar teclado</string>
+    <string name="transparentTopBar">Barra superior transparente</string>
+    <string name="transparentNavigationBarWarning">Este é um recurso experimental. Quando está ligado, isso pode fazer com que a altura do teclado virtual seja verificada incorretamente, o que pode fazer com que a barra de atalhos não seja exibida e o texto fique fora de foco. Se você encontrar esses problemas, desative essa opção.</string>
+    <string name="transparentNavigationBar">Barra de navegação transparente</string>
 </resources>
