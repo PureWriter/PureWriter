@@ -126,6 +126,7 @@
     <string-array name="wordCountModeEntries">
         <item>Exclude spaces and line breaks</item>
         <item>Include all symbols and text</item>
+        <item><b>Exclude all punctuation</b>, spaces, and line breaks</item>
     </string-array>
     <string name="fab">Home Floating Action Button</string>
     <string name="tipFab">Tip: Long press the Home Floating Action Button to hide it temporarily</string>
@@ -360,4 +361,11 @@
     <string name="transparentTopBar">Transparent top bar</string>
     <string name="transparentNavigationBar">Transparent Navigation Bar</string>
     <string name="transparentNavigationBarWarning">This is an experimental feature. When it is turned on, it may cause the soft keyboard height to be checked incorrectly, which may cause the Shortcut bar to be undisplayed and the text to be out of focus. If you encounter these problems, turn off this option.</string>
+    <string name="titleAsAWordForACountSummary">When this item is turned on, the next Word Count Mode will be disabled. If you want to use the options in Word Count Mode, turn this off.</string>
+    <string name="customFont">Custom font</string>
+    <string name="customFontTip">Place the .ttf font file in the external storage directory <b>/Android/data/com.drakeet.purewriter</b> and restart Pure Writer to apply the font automatically. \nNote: There can only be one font file in this directory, and some font files (such as Google Sans) may cause the cursor to shift, please know!</string>
+    <string name="corruptBackupTip">The backup file is corrupt! Please try to restore other backups and choose the correct size and time backup!</string>
+    <string name="leftMargin">Left Margin</string>
+    <string name="rightMargin">Right Margin</string>
+    <string name="spacingsAndMargins">Spacings | Margins</string>
 </resources>

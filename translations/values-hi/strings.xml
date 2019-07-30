@@ -110,6 +110,7 @@
     <string-array name="wordCountModeEntries">
         <item>रिक्त स्थान और रेखा खंड को छोड़ दें</item>
         <item>सभी प्रतीकों और पाठ को शामिल करें</item>
+        <item>सभी विराम चिह्न, रिक्त स्थान, और पंक्ति विराम को छोड़ दें</item>
     </string-array>
     <string name="fab">होम फ्लोटिंग बटन</string>
     <string name="tipFab">युक्ति: होम पेज पर इसे लंबे समय तक दबाएं अस्थायी रूप से इसे छिपा सकता है</string>
@@ -325,4 +326,11 @@
     <string name="transparentTopBar">पारदर्शी शीर्ष पट्टी</string>
     <string name="transparentNavigationBarWarning">यह एक प्रायोगिक विशेषता है। जब इसे चालू किया जाता है, तो यह नरम कीबोर्ड की ऊँचाई को गलत तरीके से जाँच सकता है, जिससे शॉर्टकट बार को हटा दिया जा सकता है और पाठ ध्यान से बाहर हो सकता है। यदि आप इन समस्याओं का सामना करते हैं, तो इस विकल्प को बंद कर दें।</string>
     <string name="transparentNavigationBar">पारदर्शी नेविगेशन बार</string>
+    <string name="titleAsAWordForACountSummary">जब यह आइटम चालू हो जाता है, तो अगला शब्द गणना मोड अक्षम हो जाएगा। यदि आप वर्ड काउंट मोड में विकल्पों का उपयोग करना चाहते हैं, तो इसे बंद करें।</string>
+    <string name="customFont">कस्टम फ़ॉन्ट</string>
+    <string name="customFontTip">.Ttf फ़ॉन्ट फ़ाइल को बाहरी संग्रहण निर्देशिका <b>/Android/data/com.drakeet.purewriter</b> पर रखें और अपने आप फ़ॉन्ट लागू करने के लिए PureWriter को पुनरारंभ करें।\nनोट: इस निर्देशिका में केवल एक फ़ॉन्ट फ़ाइल हो सकती है, और कुछ फ़ॉन्ट फ़ाइलें (जैसे GoogleSans) कर्सर को स्थानांतरित करने का कारण बन सकती हैं, कृपया जान लें!</string>
+    <string name="corruptBackupTip">बैकअप फ़ाइल दूषित है! कृपया अन्य बैकअप को पुनर्स्थापित करने का प्रयास करें और सही आकार और समय बैकअप चुनें!</string>
+    <string name="leftMargin">बायां मार्जिन</string>
+    <string name="rightMargin">सही मार्जिन</string>
+    <string name="spacingsAndMargins">Spacings | मार्जिन</string>
 </resources>

@@ -109,6 +109,7 @@
     <string-array name="wordCountModeEntries">
         <item>スペースと改行を除外する</item>
         <item>すべてのシンボルとテキストを含める</item>
+        <item>句読点、スペース、および改行をすべて除外する</item>
     </string-array>
     <string name="fab">ホームフローティングボタン</string>
     <string name="tipFab">Tip: Long press the Home Floating Action Button to hide it temporarily</string>
@@ -325,4 +326,11 @@
     <string name="transparentTopBar">透明トップバー</string>
     <string name="transparentNavigationBarWarning">これは実験的な機能です。 オンにすると、ソフトキーボードの高さが正しくチェックされず、ショートカットバーが表示されずにテキストのフォーカスが外れる可能性があります。 これらの問題が発生した場合は、このオプションを無効にしてください。</string>
     <string name="transparentNavigationBar">透明なナビゲーションバー</string>
+    <string name="titleAsAWordForACountSummary">この項目をオンにすると、次のワードカウントモードは無効になります。 ワードカウントモードのオプションを使用したい場合は、これをオフにしてください。</string>
+    <string name="customFont">カスタムフォント</string>
+    <string name="customFontTip">.ttfフォントファイルを外部ストレージディレクトリ<b>/Android/data/com.drakeet.purewriter</b>に配置し、Pure Writerを再起動してフォントを自動的に適用します。 注：このディレクトリには1つのフォントファイルしか存在できず、一部のフォントファイル（GoogleSansなど）ではカーソルが移動することがあります。ご注意ください。</string>
+    <string name="corruptBackupTip">バックアップファイルが破損しています。 他のバックアップを復元して、正しいサイズと時間のバックアップを選択してください。</string>
+    <string name="leftMargin">左マージン</string>
+    <string name="rightMargin">右マージン</string>
+    <string name="spacingsAndMargins">スペース 余白</string>
 </resources>

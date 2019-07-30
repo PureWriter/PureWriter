@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="pureWriter">Pure Writer</string>
-    <string name="defaultFont">@android:string/cancel</string>
     <string name="titleHint">Titel</string>
     <string name="editorTipAMenu">Sie müssen zuerst einen Text auswählen</string>
     <string name="editorHintContent">Schreiben Sie einige Inhalte…</string>
@@ -317,4 +316,16 @@
     <string name="transparentTopBar">Transparente obere Leiste</string>
     <string name="transparentNavigationBarWarning">Dies ist eine experimentelle Funktion. Wenn es eingeschaltet ist, wird möglicherweise die Höhe der Bildschirmtastatur falsch überprüft, was dazu führen kann, dass die Shortcut-Leiste nicht angezeigt und der Text unscharf wird. Wenn Sie auf diese Probleme stoßen, deaktivieren Sie diese Option.</string>
     <string name="transparentNavigationBar">Transparente Navigationsleiste</string>
+    <string-array name="wordCountModeEntries">
+        <item>Leerzeichen und Zeilenumbrüche ausschließen</item>
+        <item>Schließen Sie alle Symbole und Text ein</item>
+        <item>Schließen Sie alle Satzzeichen, Leerzeichen und Zeilenumbrüche aus</item>
+    </string-array>
+    <string name="titleAsAWordForACountSummary">Wenn dieses Element aktiviert ist, wird der nächste Wortzählmodus deaktiviert. Wenn Sie die Optionen im Word Count-Modus verwenden möchten, deaktivieren Sie diese Option.</string>
+    <string name="customFont">Benutzerdefinierte Schriftart</string>
+    <string name="customFontTip">Platzieren Sie die .ttf-Schriftartdatei im externen Speicherverzeichnis <b>/Android/data/com.drakeet.purewriter</b> und starten Sie Pure Writer neu, um die Schriftart automatisch anzuwenden. Hinweis: In diesem Verzeichnis darf sich nur eine Schriftdatei befinden. Einige Schriftdateien (z. B. Google Sans) können dazu führen, dass sich der Cursor verschiebt.</string>
+    <string name="corruptBackupTip">Die Sicherungsdatei ist beschädigt! Bitte versuchen Sie, andere Backups wiederherzustellen und wählen Sie die richtige Größe und Zeit für das Backup!</string>
+    <string name="leftMargin">Linker Rand</string>
+    <string name="rightMargin">Rechter Rand</string>
+    <string name="spacingsAndMargins">Abstände | Ränder</string>
 </resources>

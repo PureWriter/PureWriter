@@ -110,6 +110,7 @@
     <string-array name="wordCountModeEntries">
         <item>Excluir espacios y salto de línea</item>
         <item>Incluye todos los símbolos y el texto</item>
+        <item>Excluir todos los signos de puntuación, espacios y saltos de línea.</item>
     </string-array>
     <string name="fab">Botón flotante de inicio</string>
     <string name="tipFab">Sugerencia: manténgala presionada en la página de inicio para ocultarla temporalmente</string>
@@ -325,4 +326,11 @@
     <string name="transparentTopBar">Barra superior transparente</string>
     <string name="transparentNavigationBarWarning">Esta es una característica experimental. Cuando está activado, puede hacer que la altura del teclado suave se verifique incorrectamente, lo que puede hacer que la barra de accesos directos no se muestre y el texto esté desenfocado. Si encuentra estos problemas, desactive esta opción.</string>
     <string name="transparentNavigationBar">Barra de navegación transparente</string>
+    <string name="titleAsAWordForACountSummary">Cuando este elemento está activado, se deshabilitará el siguiente modo de conteo de palabras. Si desea utilizar las opciones en el modo de conteo de palabras, desactive esta opción.</string>
+    <string name="customFont">Fuente personalizada</string>
+    <string name="customFontTip">Coloque el archivo de fuentes .ttf en el directorio de almacenamiento externo <b>/Android/data/com.drakeet.purewriter</b> y reinicie Pure Writer para aplicar la fuente automáticamente.\nNota: solo puede haber un archivo de fuente en este directorio, y algunos archivos de fuente (como GoogleSans) pueden hacer que el cursor se desplace, ¡por favor, sepa!</string>
+    <string name="corruptBackupTip">El archivo de copia de seguridad está dañado! ¡Intente restaurar otras copias de seguridad y elija la copia de seguridad de tamaño y tiempo correcta!</string>
+    <string name="leftMargin">Margen izquierdo</string>
+    <string name="rightMargin">Margen derecho</string>
+    <string name="spacingsAndMargins">Espaciamientos | Márgenes</string>
 </resources>

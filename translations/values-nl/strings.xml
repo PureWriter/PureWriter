@@ -110,6 +110,7 @@
     <string-array name="wordCountModeEntries">
         <item>Spaties en regeleinde uitsluiten</item>
         <item>Neem alle symbolen en tekst op</item>
+        <item>Sluit alle interpunctie, spaties en regeleinden uit</item>
     </string-array>
     <string name="fab">Start zwevende knop</string>
     <string name="tipFab">Tip: door lang op de startpagina te drukken, kunt u deze tijdelijk verbergen</string>
@@ -325,4 +326,11 @@
     <string name="transparentTopBar">Transparante bovenste balk</string>
     <string name="transparentNavigationBarWarning">Dit is een experimentele functie. Als het is ingeschakeld, kan dit ertoe leiden dat de hoogte van het zachte toetsenbord onjuist wordt gecontroleerd, waardoor de snelkoppelingsbalk niet wordt weergegeven en de tekst niet wordt scherpgesteld. Als u deze problemen ondervindt, schakelt u deze optie uit.</string>
     <string name="transparentNavigationBar">Transparante navigatiebalk</string>
+    <string name="titleAsAWordForACountSummary">Wanneer dit item is ingeschakeld, wordt de volgende Word Count-modus uitgeschakeld. Als u de opties in de modus Word Count wilt gebruiken, schakelt u dit uit.</string>
+    <string name="customFont">Aangepast lettertype</string>
+    <string name="customFontTip">Plaats het .ttf-lettertypebestand in de externe opslagmap <b>/Android/data/com.drakeet.purewriter</b> en start Pure Writer opnieuw om het lettertype automatisch toe te passen. Opmerking: er kan slechts één lettertypebestand in deze map staan en sommige lettertypebestanden (zoals Google Sans) kunnen ervoor zorgen dat de cursor verschuift, alsjeblieft!</string>
+    <string name="corruptBackupTip">Het back-upbestand is beschadigd! Probeer andere back-ups te herstellen en kies de juiste grootte en tijdback-up!</string>
+    <string name="leftMargin">Linkermarge</string>
+    <string name="rightMargin">Rechter marge</string>
+    <string name="spacingsAndMargins">Afstanden | marges</string>
 </resources>

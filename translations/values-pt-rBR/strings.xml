@@ -117,6 +117,7 @@
     <string-array name="wordCountModeEntries">
         <item>Ignorar espaços e quebras de linha</item>
         <item>Incluir todos os símbolos e texto</item>
+        <item>Excluir todas as pontuações, espaços e quebras de linha</item>
     </string-array>
     <string name="fab">Botão de ação flutuante</string>
     <string name="tipFab">Dica: Pressione durante um tempo o Botão de ação flutuante para ocultá-lo temporariamente</string>
@@ -290,7 +291,6 @@
     <string name="tipUndoReplace">DESFAZER:\n* Você pode ir em Pure Writer - Configurações - Backup - Restaurar backup, e tocar no backup anterior para desfazer as alterações recentes. \n* Para desfazer alterações feitas no atual capítulo, vá ao Histórico no menu do canto superior direito e reverta as alterações feitas.</string>
     <string name="backupRemarkForReplace">Antes de substituir</string>
     <string name="tipReplaceResult">%2$d palavra(s) substituída(s) em %1$d artigo(s)</string>
-    <string name="defaultFont">default</string>
     <string name="title">Título</string>
     <string name="content">Conteúdo</string>
     <string name="inverseAll">Inverter seleção</string>
@@ -333,4 +333,11 @@
     <string name="transparentTopBar">Barra superior transparente</string>
     <string name="transparentNavigationBarWarning">Este é um recurso experimental. Quando está ligado, isso pode fazer com que a altura do teclado virtual seja verificada incorretamente, o que pode fazer com que a barra de atalhos não seja exibida e o texto fique fora de foco. Se você encontrar esses problemas, desative essa opção.</string>
     <string name="transparentNavigationBar">Barra de navegação transparente</string>
+    <string name="titleAsAWordForACountSummary">Quando este item está ativado, o próximo modo de contagem de palavras será desativado. Se você quiser usar as opções no Word Count Mode, desative isso.</string>
+    <string name="customFont">Fonte personalizada</string>
+    <string name="customFontTip">Coloque o arquivo de fonte .ttf no diretório de armazenamento externo <b>/Android/data/com.drakeet.purewriter</b> e reinicie o Pure Writer para aplicar a fonte automaticamente. Nota: Só pode haver um arquivo de fonte nesse diretório, e alguns arquivos de fonte (como o GoogleSans) podem fazer com que o cursor mude, por favor, saiba!</string>
+    <string name="corruptBackupTip">O arquivo de backup está corrompido! Por favor, tente restaurar outros backups e escolha o tamanho correto e o backup de tempo!</string>
+    <string name="leftMargin">Margem esquerda</string>
+    <string name="rightMargin">Margem direita</string>
+    <string name="spacingsAndMargins">Espaçamentos | Margens</string>
 </resources>

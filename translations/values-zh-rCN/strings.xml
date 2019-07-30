@@ -107,10 +107,11 @@
     <string name="tipBackupList">以下是备份文件，点击即可恢复备份。\n<b>如果您想从 WebDAV 云端获取备份，应该先登录你的 WebDAV 账号后再进入此页面！</b></string>
     <string name="restoreSuccessful">恢复备份成功</string>
     <string name="tipBackupNotExist">备份文件不存在，请将备份文件置于 /sdcard/backups 并重试</string>
-    <string name="wordCountMode">字数统计方式</string>
+    <string name="wordCountMode">字数统计模式与<b>标点符号</b></string>
     <string-array name="wordCountModeEntries">
         <item>不包含空格与换行</item>
         <item>包含所有符号和文字</item>
+        <item><b>排除所有标点符号</b>、空格和换行符</item>
     </string-array>
     <string name="fab">首页浮动按钮</string>
     <string name="tipFab">提示：在首页长按它可以临时隐藏它</string>
@@ -329,4 +330,11 @@
     <string name="transparentTopBar">透明顶栏</string>
     <string name="transparentNavigationBarWarning">这是一个实验性特性，开启它之后，可能导致软键盘高度检查不正确，进而导致快捷输入栏无法显示和文本聚焦失常，如果遇到这些问题，请关闭此选项。</string>
     <string name="transparentNavigationBar">透明虚拟导航栏</string>
+    <string name="titleAsAWordForACountSummary">开启此项后，下一项「字数统计模式」将无效，如果想使用「字数统计模式」中的选项，请关闭此项。</string>
+    <string name="customFont">自定义字体</string>
+    <string name="customFontTip">请将 .ttf 字体文件置于外部存储目录 <b>/Android/data/com.drakeet.purewriter</b> 下，并重启纯纯写作即可自动应用该字体。\n注意：该目录下只能有一个字体文件，而且部分字体文件（如 Google Sans）可能导致光标偏移，请知悉！</string>
+    <string name="corruptBackupTip">该备份文件已损坏！请尝试恢复其它备份，选择正确体积和时间的备份！</string>
+    <string name="leftMargin">左边距</string>
+    <string name="rightMargin">右边距</string>
+    <string name="spacingsAndMargins">行间距 | 左右边距</string>
 </resources>

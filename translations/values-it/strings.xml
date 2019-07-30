@@ -118,6 +118,7 @@
     <string-array name="wordCountModeEntries">
         <item>Escludi spazi e interruzioni linea</item>
         <item>Includi tutti i simboli e testo</item>
+        <item>Escludere tutti i segni di punteggiatura, spazi e interruzioni di riga</item>
     </string-array>
     <string name="fab">Home Pulsante Azione Flottante</string>
     <string name="tipFab">Suggerimento: Effettua una pressione lunga sul bottone Home Pulsante Azione Flottante per nasconderlo temporaneamente</string>
@@ -312,7 +313,6 @@
     <string name="createNewChapter">Crea un nuovo capitolo</string>
     <string name="currentText">Testo corrente</string>
     <string name="darkLine">Buio</string>
-    <string name="defaultFont">default</string>
     <string name="defaultX">Predefinito</string>
     <string name="draft">Bozza</string>
     <string name="eventLine">Event Line</string>
@@ -335,4 +335,11 @@
     <string name="transparentTopBar">Barra superiore trasparente</string>
     <string name="transparentNavigationBarWarning">Questa è una caratteristica sperimentale. Quando è acceso, potrebbe causare l\'errata verifica dell\'altezza della tastiera morbida, il che potrebbe causare la visualizzazione della barra dei collegamenti e la sfocatura del testo. Se si verificano questi problemi, disattivare questa opzione.</string>
     <string name="transparentNavigationBar">Barra di navigazione trasparente</string>
+    <string name="titleAsAWordForACountSummary">Quando questa voce è attivata, la modalità di conteggio parole successiva verrà disabilitata. Se si desidera utilizzare le opzioni in Modalità conteggio parole, disattivare questa opzione.</string>
+    <string name="customFont">Carattere personalizzato</string>
+    <string name="customFontTip">Posizionare il file del carattere .ttf nella directory di archiviazione esterna <b>/Android/data/com.drakeet.purewriter</b> e riavviare Pure Writer per applicare automaticamente il carattere. Nota: in questa directory può esserci un solo file di font e alcuni file di font (come GoogleSans) possono far spostare il cursore, per favore, sappi!</string>
+    <string name="corruptBackupTip">Il file di backup è corrotto! Prova a ripristinare altri backup e scegli la dimensione e il tempo di backup corretti!</string>
+    <string name="leftMargin">Margine sinistro</string>
+    <string name="rightMargin">Margine destro</string>
+    <string name="spacingsAndMargins">Distanze | margini</string>
 </resources>

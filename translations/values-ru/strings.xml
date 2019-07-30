@@ -110,6 +110,7 @@
     <string-array name="wordCountModeEntries">
         <item>Исключить пробелы и разрывы строк</item>
         <item>Считать все символы</item>
+        <item>Исключить все знаки пунктуации, пробелы и переносы строк</item>
     </string-array>
     <string name="fab">Кнопка создания нового файла</string>
     <string name="tipFab">Совет: длительное нажатие на кнопку "+" может временно убрать ее с главного экрана</string>
@@ -325,4 +326,11 @@
     <string name="transparentTopBar">Прозрачная верхняя панель</string>
     <string name="transparentNavigationBarWarning">Это экспериментальная особенность. Когда он включен, это может привести к неправильной проверке высоты программной клавиатуры, что может привести к тому, что панель быстрого доступа не будет отображаться и текст будет не в фокусе. Если вы столкнулись с этими проблемами, отключите эту опцию.</string>
     <string name="transparentNavigationBar">Прозрачная панель навигации</string>
+    <string name="titleAsAWordForACountSummary">Когда этот элемент включен, следующий режим подсчета слов будет отключен. Если вы хотите использовать параметры в режиме Word Count, отключите это.</string>
+    <string name="customFont">Пользовательский шрифт</string>
+    <string name="customFontTip">Поместите файл шрифта .ttf в каталог внешнего хранилища <b>/Android/data/com.drakeet.purewriter</b> и перезапустите Pure Writer, чтобы автоматически применить шрифт. Примечание. В этом каталоге может быть только один файл шрифтов, а некоторые файлы шрифтов (например, GoogleSans) могут вызвать смещение курсора, пожалуйста, знайте!</string>
+    <string name="corruptBackupTip">Файл резервной копии поврежден! Пожалуйста, попробуйте восстановить другие резервные копии и выбрать правильный размер и время резервного копирования!</string>
+    <string name="leftMargin">Левое поле</string>
+    <string name="rightMargin">Правое поле</string>
+    <string name="spacingsAndMargins">Расстояния | Маржа</string>
 </resources>
