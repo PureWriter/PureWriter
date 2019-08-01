@@ -1,1 +1,10 @@
-{"code":1000009320,"name":"9.3.2","changelog":{"default":"New: Collapsable Category!\n新增 卷摺疊！—— 支援整體移動、跨越移動\nNew: Scroll to current Article\nNew: \"All Books\" scope for Find \u0026 Replace\nNew: \"Insert Category BELOW current Article\" menu\nNew: Scroll to hide the top bar setting (default: off)\nNew: Zoom out for Drawer\nNew settings: custom Line Spacing \u0026 Paragraph Spacing (In the 3rd shortcut tab)","zh":"新增 卷折叠！—— 支持整体移动、跨越移动\n新增「滚动到当前文章」按钮\n支持「全部书」范围的搜索/查找 \u0026 替换\n新增「在当前文章之下插入新卷」菜单\n恢复 侧栏动画\n新增 点击顶栏书名进行切换书籍\n新增「滚动以隐藏顶栏」设置项，默认关闭\n新增 行间距 和 段间距 自由调整设置项（在快捷输入板第三栏）","zh-HK":"新增 卷摺疊！—— 支援整體移動、跨越移動\n新增「滾動到目前文章」按鈕\n支援「全部書」範圍的搜尋/尋找 \u0026 取代\n新增「在目前文章之下插入新卷」選單\n復原 側欄動畫\n新增 點擊頂欄書名進行切換書籍\n新增「滾動以隱藏頂欄」設定項，預設關閉\n新增 行間距 和 段間距 自由調整設定項（在快捷輸入板第三欄）","zh-TW":"新增 卷摺疊！—— 支援整體移動、跨越移動\n新增「滾動到目前文章」按鈕\n支援「全部書」範圍的搜尋/尋找 \u0026 取代\n新增「在目前文章之下插入新卷」選單\n復原 側欄動畫\n新增 點擊頂欄書名進行切換書籍\n新增「滾動以隱藏頂欄」設定項，預設關閉\n新增 行間距 和 段間距 自由調整設定項（在快捷輸入板第三欄）"}}
+{
+  "code": 1000010320,
+  "name": "10.3.2",
+  "changelog": {
+    "default": "* Fix line spacing failure\n* New Left & Right Margin settings\n* New Custom Font setting\n* New word count mode: Exclude all punctuation\n* Outline Editor\n* Spell Checker setting\n* Adapt transparent navigation bar & Android Q Edge to Edge\n* \"Clear current content\" is back now\n* Add Italian & German translation\n* Solve problem of Find & Replace completely\n* Lots of detail optimization",
+    "zh": "* 修复 大纲行间距失效\n* 新增「左右边距调整」\n* 新增「自定义字体」\n* 新增「排除所有标点符号」字数统计模式\n* 新增「大纲/双编辑器」功能\n* 适配 Android Q Edge To Edge 和「透明导航栏」\n* 彻底解决「查找 & 替换」的旧有问题，并新增「收起软键盘」按钮\n* 切换书籍时，自动打开该书上次打开的文章\n* 支持「拼写检查」\n* 「清空当前正文」菜单项现已回归！\n* 移除侧栏中的条目加载动画，瞬间加载\n* 可在设置页面开启 Material Design 2 获得透明顶栏\n* 大量细节优化、改善细节处用户体验",
+    "zh-HK": "* 修復 大綱行間距失效\n* 新增「左右邊距調整」\n* 新增「自訂字體」\n* 新增「排除所有標點符號」字數統計模式\n* 新增「大綱/雙編輯器」功能\n* 適配 Android Q Edge To Edge 和「透明導航欄」\n* 徹底解決「尋找 & 取代」的舊有問題，並新增「收起軟鍵盤」按鈕\n* 切換書籍時，自動打開該書上次打開的文章\n* 支援「拼寫檢查」\n* 「清空檔前正文」選單項現已回歸！\n* 移除側欄中的條目載入動畫，瞬間載入\n* 可在設定頁面開啟 Material Design 2 獲得透明頂欄\n* 大量細節最佳化、改善細節處使用者體驗",
+    "zh-TW": "* 修復 大綱行間距失效\n* 新增「左右邊距調整」\n* 新增「自訂字體」\n* 新增「排除所有標點符號」字數統計模式\n* 新增「大綱/雙編輯器」功能\n* 適配 Android Q Edge To Edge 和「透明導航欄」\n* 徹底解決「尋找 & 取代」的舊有問題，並新增「收起軟鍵盤」按鈕\n* 切換書籍時，自動打開該書上次打開的文章\n* 支援「拼寫檢查」\n* 「清空檔前正文」選單項現已回歸！\n* 移除側欄中的條目載入動畫，瞬間載入\n* 可在設定頁面開啟 Material Design 2 獲得透明頂欄\n* 大量細節最佳化、改善細節處使用者體驗"
+  }
+}
