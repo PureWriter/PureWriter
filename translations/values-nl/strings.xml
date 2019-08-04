@@ -99,13 +99,13 @@
     <string name="sortTypeCreatedTimeDown">Gecreëerde tijd</string>
     <string name="warningSavedFailed">Bestand opgeslagen mislukt, kopieer de volledige tekst en start de app opnieuw om te zien of de inhoud ontbreekt</string>
     <string name="backupNow">Nu backuppen</string>
-    <string name="summaryBackupToLocal">Het back-upbestand wordt opgeslagen op het pad /sdcard/backups</string>
+    <string name="summaryBackupToLocal">Het back-upbestand wordt opgeslagen op het pad /backups</string>
     <string name="restoreBackup">Back-up terugzetten</string>
-    <string name="summaryRestoreTheBackup">Backup file will be retrieved from /sdcard/backups, /sdcard/backups/PureWriterAutoBackups and your WebDAV or Dropbox</string>
+    <string name="summaryRestoreTheBackup">Backup file will be retrieved from /backups, /backups/PureWriterAutoBackups and your WebDAV or Dropbox</string>
     <string name="backupSuccessful">Back-up geslaagd</string>
     <string name="restoreSuccessful">Herstel de back-up met succes</string>
-    <string name="tipBackupList">Het volgende is alle back-upbestanden, klik om de back-up te herstellen. \n<b>Als u back-ups wilt ontvangen van de WebDAV-cloud, moet u zich aanmelden bij uw WebDAV-account voordat u deze pagina opent!</b></string>
-    <string name="tipBackupNotExist">Het back-upbestand bestaat niet. Plaats het back-upbestand in /sdcard/backups en probeer het opnieuw</string>
+    <string name="tipBackupList">Het volgende is alle back-upbestanden, klik om de back-up te herstellen. \n<b>Als u back-ups wilt ontvangen van de Dropbox/WebDAV-cloud, moet u zich aanmelden bij uw Dropbox/WebDAV-account voordat u deze pagina opent!</b></string>
+    <string name="tipBackupNotExist">Het back-upbestand bestaat niet. Plaats het back-upbestand in /backups en probeer het opnieuw</string>
     <string name="wordCountMode">Word telmodus</string>
     <string-array name="wordCountModeEntries">
         <item>Spaties en regeleinde uitsluiten</item>
@@ -222,7 +222,7 @@
     <string name="presetContent3">If you enjoyed using Pure Writer and wish to have it actively developed, would you mind contributing a few bucks to encourage the developer?\nYour support can encourage independent developers like me to make more useful apps. \nTo contribute, you can press the "Unlock Pro" button in the top right corner of the Settings page. As a token of appreciation, you will be able to get Pro features like "Save as…" and "Custom background/Papers". \nPure Writer will also improve as a result of your support. Thanks in advance! If you have any questions or feedback, please do not hesitate to email me at drakeet@drakeet.com</string>
     <string name="presetTitle4">Pure Writer - Privacy Policy</string>
     <string name="presetContent4">Pure Writer takes its users\' privacy very seriously, it will never collect any of your private information. \nAlso, it will not read or modify any content on your clipboard without first notifying you.\nThe storage permission that Pure Writer asked for is solely used for auto backup and save your files. Other than that, it will not read or modify any of your files in the storage without first notifying you.\nPure Writer supports cloud backup, which uses HTTPS encryption to transfer your database backups to your WebDAV cloud storage. Your cloud backups will only be stored in the cloud storage you set, and they will never be uploaded to other places.</string>
-    <string name="createAt">Gemaakt bij</string>
+    <string name="createAt">Gemaakt om</string>
     <string name="updatedAt">Bijgewerkt om</string>
     <string name="forcedBlackTextColor">Geforceerd zwart lettertype</string>
     <string name="forcedWhiteTextColor">Geforceerd wit lettertype</string>
@@ -264,7 +264,6 @@
     <string name="backupToLocalNow">Maak nu een back-up naar lokale opslag</string>
     <string name="backupToCloudNow">Maak nu een back-up naar cloudopslag</string>
     <string name="summaryBackupToCloud">Back-upbestand wordt opgeslagen in uw cloudopslag indien ingesteld</string>
-    <string name="messageCancelFontFeature">Omdat er in eerdere versies veel problemen waren met het ingebouwde lettertype van Pure Writer, inclusief het probleem van cursoruitlijning, besloot Pure Writer dit lettertype en de functie voor het wijzigen van lettertypen niet langer te gebruiken. Het spijt me zo erg. — De ontwikkelaar van Pure Writer, Drakeet Xu</string>
     <string name="lockFallback">Als je het niet altijd kunt ontgrendelen, kun je naar de systeeminstellingen van je telefoon gaan, al je vingerafdrukken verwijderen en Pure Writer opnieuw openen.</string>
     <string name="smoothScrollerTitle">Soepele scrolanimatie om op een regel tekst te klikken</string>
     <string name="tipSmoothScrolling">Als deze optie is ingeschakeld en u klikt op een regel van de inhoudstekst, scrolt de tekstweergave zo nodig soepel naar de gerichte lijn. Als deze optie is uitgeschakeld, springt deze in een oogwenk naar die regel.\nDe scrolanimatie presteert mogelijk niet goed op sommige apparaten, dus schakel deze optie uit als u het gevoel heeft vast te zitten.</string>
@@ -333,4 +332,9 @@
     <string name="leftMargin">Linkermarge</string>
     <string name="rightMargin">Rechter marge</string>
     <string name="spacingsAndMargins">Afstanden | marges</string>
+    <string name="autoBackupAndCloudBackupGuide"><i>Cloud back-up tutorial</i></string>
+    <string name="bridgeSummary">Deze functie is zeer moeilijk te begrijpen en te gebruiken, het wordt afgeraden om deze in te schakelen.</string>
+    <string name="messageCancelBridgeFeature">Vanaf deze versie is de originele \"Bridge\" -functie standaard verborgen, omdat er elke dag veel gebruikersfeedbacks zijn die me vertellen dat ze niet weten wat deze functie betekent, het spijt me heel erg om je problemen te bezorgen! Maar tegelijkertijd heb ik ook veel tijd en energie besteed aan het reageren op deze feedbacks - ze hadden moeten worden gebruikt om dit product te ontwikkelen en te polijsten. Momenteel is deze functie dus standaard uitgeschakeld. Als u wilt en erop vertrouwt, kunt u onderaan de pagina met back-upinstellingen gaan en ziet u een optie om het te openen. Begrijp alsjeblieft, heel erg bedankt!</string>
+    <string name="followingBackupsAre">Hier volgen de back-ups voordat u de huidige versie installeert</string>
+    <string name="logInToWebDAVOrDropbox">Log in op WebDAV of Dropbox</string>
 </resources>

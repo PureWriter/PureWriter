@@ -101,12 +101,12 @@
     <string name="warningSavedFailed">文件自动保存失败，请复制您的全文，然后重启 App 查看是否丢失内容</string>
     <string name="backupSuccessful">备份成功</string>
     <string name="backupNow">立即备份</string>
-    <string name="summaryBackupToLocal">备份文件将被保存到 /sdcard/backups</string>
+    <string name="summaryBackupToLocal">备份文件将被保存到 /backups</string>
     <string name="restoreBackup">恢复备份</string>
-    <string name="summaryRestoreTheBackup">备份文件将从 /sdcard/backups 和 /sdcard/backups/PureWriterAutoBackups 和您的 WebDAV 或 Dropbox 云盘中读取</string>
-    <string name="tipBackupList">以下是备份文件，点击即可恢复备份。\n<b>如果您想从 WebDAV 云端获取备份，应该先登录你的 WebDAV 账号后再进入此页面！</b></string>
+    <string name="summaryRestoreTheBackup">备份文件将从 /backups 和 /backups/PureWriterAutoBackups 和您的 WebDAV 或 Dropbox 云盘中读取</string>
+    <string name="tipBackupList">以下是备份文件，点击即可恢复备份。\n<b>如果您想从 WebDAV/坚果云 云端获取备份，应该先登录你的 WebDAV/坚果云 账号后再进入此页面！</b></string>
     <string name="restoreSuccessful">恢复备份成功</string>
-    <string name="tipBackupNotExist">备份文件不存在，请将备份文件置于 /sdcard/backups 并重试</string>
+    <string name="tipBackupNotExist">备份文件不存在，请将备份文件置于 /backups 并重试</string>
     <string name="wordCountMode">字数统计模式与<b>标点符号</b></string>
     <string-array name="wordCountModeEntries">
         <item>不包含空格与换行</item>
@@ -272,7 +272,6 @@
     <string name="backupToLocalNow">立即备份到本地存储空间</string>
     <string name="backupToCloudNow">立即备份到云端网盘</string>
     <string name="summaryBackupToCloud">如果您已设置云备份，备份文件将存储到您的云端存储空间</string>
-    <string name="messageCancelFontFeature">由于之前的版本中，纯纯写作的内置字体存在很多问题，包括会引起光标错位问题，所以现在纯纯写作决定不再提供这个字体及更换字体功能了。这很令人难过，我对此非常抱歉。—— 纯纯写作开发者，Drakeet Xu</string>
     <string name="lockFallback">如果您始终无法解除锁定，您可以进入您的手机系统设置，移除您的所有指纹，然后重新打开纯纯写作即可。</string>
     <string name="smoothScrollerTitle">顺滑的聚焦文本行滚动动画</string>
     <string name="tipSmoothScrolling">如果开启这个选项，当你点击正文的某一行，若有必要，编辑器会顺滑地滚动页面到该行。如果这个选项关闭，则会瞬间跳跃到该行。\n滚动动画可能在一些设备上表现不佳，因此如果你感觉到卡顿，请关闭这个选项。</string>
@@ -337,4 +336,9 @@
     <string name="leftMargin">左边距</string>
     <string name="rightMargin">右边距</string>
     <string name="spacingsAndMargins">行间距 | 左右边距</string>
+    <string name="autoBackupAndCloudBackupGuide">《自动备份与云备份教程》</string>
+    <string name="bridgeSummary">这个功能非常难以理解和使用，不推荐启用它。</string>
+    <string name="messageCancelBridgeFeature">从这个版本开始，原有的「云读写」功能被默认隐藏了，因为每天有许多用户反馈告诉我他们不知道这个功能是什么意思，非常抱歉给大家带来困扰！但同时我也因为回复这些反馈花费了大量时间精力——它们本该用于开发和打磨这个产品。所以目前这个功能先默认关闭，如果你喜欢和依赖它，你可以进入备份设置页面底部，将可以看到一个选项来开启它。请谅解，非常感谢！</string>
+    <string name="followingBackupsAre">以下是安装当前版本之前的备份</string>
+    <string name="logInToWebDAVOrDropbox">登陆 WebDAV 或 Dropbox</string>
 </resources>

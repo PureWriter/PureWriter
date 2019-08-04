@@ -105,14 +105,14 @@
     <string name="backupNow">Backup agora</string>
     <string name="backupToLocalNow">Fazer backup para o armazenamento local agora</string>
     <string name="backupToCloudNow">Fazer backup para o armazenamento em nuvem agora</string>
-    <string name="summaryBackupToLocal">O arquivo de backup será salvo localmente em /sdcard/backups</string>
+    <string name="summaryBackupToLocal">O arquivo de backup será salvo localmente em /backups</string>
     <string name="summaryBackupToCloud">O arquivo de backup será salvo em seu serviço de armazenamento em nuvem se definido</string>
     <string name="restoreBackup">Restaurar backup</string>
-    <string name="summaryRestoreTheBackup">O arquivo de backup será recuperado de /sdcard/backups, /sdcard/backups/PureWriterAutoBackups e de WebDAV ou Dropbox</string>
+    <string name="summaryRestoreTheBackup">O arquivo de backup será recuperado de /backups, /backups/PureWriterAutoBackups e de WebDAV ou Dropbox</string>
     <string name="backupSuccessful">Backup feito com sucesso</string>
     <string name="restoreSuccessful">Backup recuperado com sucesso</string>
-    <string name="tipBackupList">Aqui estão seus arquivos de backup. Você pode tocar para restaurá-los.\n<b>Se você deseja recuperar arquivos de backup de WebDAV, por favor, faça o login na sua conta WebDAV primeiro!</b></string>
-    <string name="tipBackupNotExist">O arquivo de backup não existe. Por favor, mova o arquivo de backup para /sdcard/backups e tente novamente.</string>
+    <string name="tipBackupList">Aqui estão seus arquivos de backup. Você pode tocar para restaurá-los.\n<b>Se você deseja recuperar arquivos de backup de Dropbox/WebDAV, por favor, faça o login na sua conta Dropbox/WebDAV primeiro!</b></string>
+    <string name="tipBackupNotExist">O arquivo de backup não existe. Por favor, mova o arquivo de backup para /backups e tente novamente.</string>
     <string name="wordCountMode">Contagem de palavras</string>
     <string-array name="wordCountModeEntries">
         <item>Ignorar espaços e quebras de linha</item>
@@ -272,7 +272,6 @@
     <string name="cloudBackup">Backup de nuvem</string>
     <string name="cloudConnection">Tipo de conexão em nuvem</string>
     <string name="signIn">Entrar</string>
-    <string name="messageCancelFontFeature">Como houveram muitos problemas com a fonte interna do Pure Writer nas versões anteriores, incluindo o problema de desalinhamento do cursor, o Pure Writer decidiu não mais fornecer essa fonte e nem o recurso de alteração de fonte. Eu sinto muito. - O desenvolvedor do Pure Writer, Drakeet Xu</string>
     <string name="lockFallback">Se você estiver cansado(a) de ter que desbloqueá-lo o tempo todo, você pode ir nas configurações do seu telefone, remover todas as suas impressões digitais e reabrir o Pure Writer.</string>
     <string name="smoothScrollerTitle">Rolagem suave ao tocar numa linha do texto</string>
     <string name="tipSmoothScrolling">Se ativado, quando você tocar numa linha do texto, o foco pula suavemente, se necessário. Se desativado, ele pula para essa linha num instante.\nA animação de rolagem pode não funcionar bem em alguns dispositivos, portanto, desative esta opção se você estiver com problemas de performance.</string>
@@ -340,4 +339,9 @@
     <string name="leftMargin">Margem esquerda</string>
     <string name="rightMargin">Margem direita</string>
     <string name="spacingsAndMargins">Espaçamentos | Margens</string>
+    <string name="autoBackupAndCloudBackupGuide"><i>Tutorial de backup em nuvem</i></string>
+    <string name="bridgeSummary">Esse recurso é muito difícil de entender e usar, não é recomendável ativá-lo.</string>
+    <string name="messageCancelBridgeFeature">A partir desta versão, o recurso \"Bridge\" original fica oculto por padrão, porque há muitos feedbacks de usuários todos os dias dizendo que eles não sabem o que esse recurso significa, lamento muito trazer problemas para você! Mas, ao mesmo tempo, também passei muito tempo e energia respondendo a esses feedbacks - eles deveriam ter sido usados para desenvolver e aperfeiçoar esse produto. Então atualmente esse recurso está desativado por padrão. Se você gosta e confia nele, você pode ir para a parte inferior da página de configurações de backup e você verá uma opção para abri-lo. Por favor, entenda, muito obrigado!</string>
+    <string name="followingBackupsAre">A seguir estão os backups antes de instalar a versão atual</string>
+    <string name="logInToWebDAVOrDropbox">Faça o login no WebDAV ou no Dropbox</string>
 </resources>

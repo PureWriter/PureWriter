@@ -98,13 +98,13 @@
     <string name="sortTypeCreatedTimeDown">作成時刻</string>
     <string name="warningSavedFailed">ファイルを保存できませんでした。フルテキストをコピーしてから、アプリケーションを再起動してコンテンツが欠落していないか確認してください</string>
     <string name="backupNow">今すぐバックアップする</string>
-    <string name="summaryBackupToLocal">バックアップファイルはパス /sdcard/backups に保存されます。</string>
+    <string name="summaryBackupToLocal">バックアップファイルはパス /backups に保存されます。</string>
     <string name="restoreBackup">バックアップを復元</string>
-    <string name="summaryRestoreTheBackup">Backup file will be retrieved from /sdcard/backups, /sdcard/backups/PureWriterAutoBackups and your WebDAV or Dropbox</string>
+    <string name="summaryRestoreTheBackup">Backup file will be retrieved from /backups, /backups/PureWriterAutoBackups and your WebDAV or Dropbox</string>
     <string name="backupSuccessful">バックアップ成功</string>
     <string name="restoreSuccessful">バックアップを正常に復元する</string>
-    <string name="tipBackupList">以下はすべてのバックアップファイルです：クリックしてバックアップを復元する。\n<b>WebDAVクラウドからバックアップを取得する場合は、このページに入る前にWebDAVアカウントにログインする必要があります。</b></string>
-    <string name="tipBackupNotExist">バックアップファイルは存在しません。 バックアップファイルを /sdcard/backups に入れてもう一度お試しください</string>
+    <string name="tipBackupList">以下はすべてのバックアップファイルです：クリックしてバックアップを復元する。\n<b>Dropbox/WebDAVクラウドからバックアップを取得する場合は、このページに入る前にDropbox/WebDAVアカウントにログインする必要があります。</b></string>
+    <string name="tipBackupNotExist">バックアップファイルは存在しません。 バックアップファイルを /backups に入れてもう一度お試しください</string>
     <string name="wordCountMode">単語数</string>
     <string-array name="wordCountModeEntries">
         <item>スペースと改行を除外する</item>
@@ -263,7 +263,6 @@
     <string name="backupToLocalNow">今すぐローカルストレージにバックアップ</string>
     <string name="backupToCloudNow">今すぐクラウドストレージにバックアップ</string>
     <string name="summaryBackupToCloud">バックアップファイルは、設定されている場合はクラウドストレージに保存されます</string>
-    <string name="messageCancelFontFeature">Since there are a lot of problems with the built-in font of Pure Writer in previous versions, including the problem of cursor misalignment, Pure Writer decided no longer providing this font and changing fonts feature. I am so sorry about this. — The developer of Pure Writer, Drakeet Xu</string>
     <string name="lockFallback">いつもロックを解除できない場合は、お使いの携帯電話のシステム設定に行き、すべての指紋を削除して、Pure Writerを再度開くことができます。</string>
     <string name="smoothScrollerTitle">テキスト行をクリックするための滑らかなスクロールアニメーション</string>
     <string name="tipSmoothScrolling">このオプションをオンにすると、コンテンツテキストの行をクリックすると、必要に応じてテキストビューがスムーズにフォーカスされた行にスクロールします。 このオプションがオフの場合、瞬時にその行にジャンプします。\n一部のデバイスでスクロールアニメーションがうまく動作しないことがあるので、つまんでいる場合はこのオプションをオフにしてください。</string>
@@ -333,4 +332,9 @@
     <string name="leftMargin">左マージン</string>
     <string name="rightMargin">右マージン</string>
     <string name="spacingsAndMargins">スペース 余白</string>
+    <string name="autoBackupAndCloudBackupGuide"><i>クラウドバックアップチュートリアル</i></string>
+    <string name="bridgeSummary">この機能は理解して使うのが非常に難しいです、それを有効にすることはお勧めできません。</string>
+    <string name="messageCancelBridgeFeature">このバージョンから、オリジナルの \"ブリッジ\"機能はデフォルトで隠されています、なぜなら彼らがこの機能が何を意味するのかわからないと毎日私に言っている多くのユーザーフィードバックがあるからです。 しかし同時に、私はこれらのフィードバックに対応するために多くの時間とエネルギーを費やしました - それらはこの製品を開発し磨くために使われるべきでした。 そのため、現在この機能はデフォルトでオフになっています。 あなたがそれを好きでそれに頼っているなら、あなたはバックアップ設定ページの一番下に行くことができます、そしてあなたはそれを開くためのオプションを見るでしょう。 理解してください、ありがとうございました！</string>
+    <string name="followingBackupsAre">以下は、現在のバージョンをインストールする前のバックアップです。</string>
+    <string name="logInToWebDAVOrDropbox">WebDAVまたはDropboxにログイン</string>
 </resources>

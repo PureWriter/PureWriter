@@ -99,13 +99,13 @@
     <string name="sortTypeCreatedTimeDown">Время создания</string>
     <string name="warningSavedFailed">Не удалось сохранить файл, скопируйте полный текст и перезапустите приложение, чтобы узнать, отсутствует ли контент</string>
     <string name="backupNow">Быстрое резервное копирование</string>
-    <string name="summaryBackupToLocal">Файл резервной копии будет сохранен в /sdcard/backups</string>
+    <string name="summaryBackupToLocal">Файл резервной копии будет сохранен в /backups</string>
     <string name="restoreBackup">Восстановление резервной копии</string>
-    <string name="summaryRestoreTheBackup">Backup file will be retrieved from /sdcard/backups, /sdcard/backups/PureWriterAutoBackups and your WebDAV or Dropbox</string>
+    <string name="summaryRestoreTheBackup">Backup file will be retrieved from /backups, /backups/PureWriterAutoBackups and your WebDAV or Dropbox</string>
     <string name="backupSuccessful">Резервирование успешно</string>
     <string name="restoreSuccessful">Восстановление резервной копии успешно</string>
-    <string name="tipBackupList">Ниже перечислены все файлы резервных копий, нажмите, чтобы восстановить резервную копию. \n<b>Если вы хотите получить резервные копии из облака WebDAV, перед тем, как войти на эту страницу, вы должны войти в свою учетную запись WebDAV!</b></string>
-    <string name="tipBackupNotExist">Файл резервной копии не существует. Поместите файл в /sdcard/backups и повторите попытку</string>
+    <string name="tipBackupList">Ниже перечислены все файлы резервных копий, нажмите, чтобы восстановить резервную копию. \n<b>Если вы хотите получить резервные копии из облака Dropbox/WebDAV, перед тем, как войти на эту страницу, вы должны войти в свою учетную запись Dropbox/WebDAV!</b></string>
+    <string name="tipBackupNotExist">Файл резервной копии не существует. Поместите файл в /backups и повторите попытку</string>
     <string name="wordCountMode">Word count mode</string>
     <string-array name="wordCountModeEntries">
         <item>Исключить пробелы и разрывы строк</item>
@@ -223,7 +223,7 @@
     <string name="presetTitle4">Pure Writer - Privacy Policy</string>
     <string name="presetContent4">Pure Writer takes its users\' privacy very seriously, it will never collect any of your private information. \nAlso, it will not read or modify any content on your clipboard without first notifying you.\nThe storage permission that Pure Writer asked for is solely used for auto backup and save your files. Other than that, it will not read or modify any of your files in the storage without first notifying you.\nPure Writer supports cloud backup, which uses HTTPS encryption to transfer your database backups to your WebDAV cloud storage. Your cloud backups will only be stored in the cloud storage you set, and they will never be uploaded to other places.</string>
     <string name="createAt">Создан в</string>
-    <string name="updatedAt">Обновлено на</string>
+    <string name="updatedAt">Обновлено в</string>
     <string name="forcedBlackTextColor">Принудительный черный шрифт</string>
     <string name="forcedWhiteTextColor">Принудительный белый шрифт</string>
     <string name="paragraphSpacing">Интервал между абзацами</string>
@@ -264,7 +264,6 @@
     <string name="backupToLocalNow">Теперь резервное копирование на локальное хранилище</string>
     <string name="backupToCloudNow">Резервное копирование до облачного хранилища</string>
     <string name="summaryBackupToCloud">Резервный файл будет сохранен в вашем облачном хранилище, если он установлен</string>
-    <string name="messageCancelFontFeature">Поскольку в предыдущих версиях существует множество проблем со встроенным шрифтом Pure Writer, включая проблему смещения курсора, Pure Writer решил больше не предоставлять этот шрифт и изменять функцию шрифтов. Мне очень жаль об этом. — Разработчик Pure Writer, Drakeet Xu</string>
     <string name="lockFallback">Если вы не можете разблокировать его все время, вы можете перейти к настройкам системы телефона, удалить все свои отпечатки пальцев и снова открыть Pure Writer.</string>
     <string name="smoothScrollerTitle">Плавная анимация прокрутки для щелчка по строке текста</string>
     <string name="tipSmoothScrolling">Если эта опция включена, при нажатии на строку текста содержимого текстовое представление будет плавно прокручиваться к выделенной строке, если это необходимо. Если эта опция отключена, она мгновенно перейдет на эту строку.\nАнимация прокрутки может не работать на некоторых устройствах, поэтому отключите эту опцию, если вы застряли.</string>
@@ -333,4 +332,9 @@
     <string name="leftMargin">Левое поле</string>
     <string name="rightMargin">Правое поле</string>
     <string name="spacingsAndMargins">Расстояния | Маржа</string>
+    <string name="autoBackupAndCloudBackupGuide"><i>Облако резервного копирования учебник</i></string>
+    <string name="bridgeSummary">Эта функция очень сложна для понимания и использования, ее не рекомендуется включать.</string>
+    <string name="messageCancelBridgeFeature">В этой версии оригинальная функция «Мост» по умолчанию скрыта, потому что каждый день многие отзывы пользователей говорят мне, что они не знают, что означает эта функция, мне очень жаль доставлять вам неприятности! Но в то же время, я также потратил много времени и энергии, отвечая на эти отзывы - их следовало использовать для разработки и совершенствования этого продукта. Так что в настоящее время эта функция отключена по умолчанию. Если вам это нравится и вы полагаетесь на него, вы можете перейти к нижней части страницы настроек резервного копирования, и вы увидите вариант, чтобы открыть его. Пожалуйста, поймите, большое спасибо!</string>
+    <string name="followingBackupsAre">Ниже приведены резервные копии перед установкой текущей версии.</string>
+    <string name="logInToWebDAVOrDropbox">Войдите в WebDAV или Dropbox</string>
 </resources>

@@ -95,14 +95,14 @@
     <string name="backupNow">Jetzt sichern</string>
     <string name="backupToLocalNow">Jetzt im lokalen Speicher sichern</string>
     <string name="backupToCloudNow">Sichern Sie jetzt Ihren Cloud-Speicher</string>
-    <string name="summaryBackupToLocal">Sicherungsdateien werden in /sdcard/backups gespeichert</string>
+    <string name="summaryBackupToLocal">Sicherungsdateien werden in /backups gespeichert</string>
     <string name="summaryBackupToCloud">Sicherungsdateien werden in Ihrem Cloud-Speicher gespeichert, sofern festgelegt</string>
     <string name="restoreBackup">Backup wiederherstellen</string>
-    <string name="summaryRestoreTheBackup">Die Sicherungsdatei wird von /sdcard/backups, /sdcard/backups/PureWriterAutoBackups und Ihrer WebDAV oder Dropbox abgerufen</string>
+    <string name="summaryRestoreTheBackup">Die Sicherungsdatei wird von /backups, /backups/PureWriterAutoBackups und Ihrer WebDAV oder Dropbox abgerufen</string>
     <string name="backupSuccessful">Sicherung erfolgreich</string>
     <string name="restoreSuccessful">Sicherung erfolgreich wiederhergestellt</string>
-    <string name="tipBackupList">Hier sind Ihre Sicherungsdateien. Sie können klicken, um sie wiederherzustellen.\n<b>Wenn Sie Sicherungsdateien von WebDAV abrufen möchten, melden Sie sich bitte zuerst bei Ihrem WebDAV-Konto an! </b></string>
-    <string name="tipBackupNotExist">Die Sicherungsdatei existiert nicht. Legen Sie die Sicherungsdatei in /sdcard/backups ab und versuchen Sie es erneut.</string>
+    <string name="tipBackupList">Hier sind Ihre Sicherungsdateien. Sie können klicken, um sie wiederherzustellen.\n<b>Wenn Sie Sicherungsdateien von Dropbox/WebDAV abrufen möchten, melden Sie sich bitte zuerst bei Ihrem Dropbox/WebDAV-Konto an! </b></string>
+    <string name="tipBackupNotExist">Die Sicherungsdatei existiert nicht. Legen Sie die Sicherungsdatei in /backups ab und versuchen Sie es erneut.</string>
     <string name="wordCountMode">Word-Count-Modus</string>
     <string name="fab">Home Floating-Aktionstaste</string>
     <string name="tipFab">Tipp: Halten Sie die Home Floating-Aktionstaste gedrückt, um sie vorübergehend auszublenden</string>
@@ -206,8 +206,8 @@
     <string name="presetTitle2">Pure Writer - Schutzmechanismus</string>
     <string name="presetTitle3">Pure Writer Pro</string>
     <string name="presetTitle4">Pure Writer - Datenschutzbestimmungen</string>
-    <string name="createAt">Erstellt am</string>
-    <string name="updatedAt">Aktualisiert am</string>
+    <string name="createAt">Erstellt um</string>
+    <string name="updatedAt">Aktualisiert um</string>
     <string name="forcedBlackTextColor">Schwarze Textfarbe erzwingen</string>
     <string name="forcedWhiteTextColor">Erzwinge weiße Textfarbe</string>
     <string name="paragraphSpacing">Absatzabstand</string>
@@ -243,7 +243,6 @@
     <string name="cloudBackup">Datensicherung in der Cloud</string>
     <string name="cloudConnection">Cloud-Verbindungstyp</string>
     <string name="signIn">Einloggen</string>
-    <string name="messageCancelFontFeature">Da es in früheren Versionen viele Probleme mit der in Pure Writer integrierten Schriftart gab, einschließlich des Problems der falschen Ausrichtung des Cursors, entschied sich Pure Writer, diese Schriftart nicht mehr bereitzustellen und die Schriftart zu ändern. Das tut mir so leid. - Der Entwickler von Pure Writer, Drakeet Xu</string>
     <string name="lockFallback">Wenn Sie es nicht ständig entsperren können, können Sie die Systemeinstellungen Ihres Telefons aufrufen, alle Fingerabdrücke entfernen und Pure Writer erneut öffnen.</string>
     <string name="smoothScrollerTitle">Reibungslose Bildlaufanimation zum Klicken auf eine Textzeile</string>
     <string name="defaultMessageUpdateApk">Dies ist eine wichtige Version. Bitte aktualisieren Sie diese Version so bald wie möglich</string>
@@ -328,4 +327,9 @@
     <string name="leftMargin">Linker Rand</string>
     <string name="rightMargin">Rechter Rand</string>
     <string name="spacingsAndMargins">Abstände | Ränder</string>
+    <string name="autoBackupAndCloudBackupGuide"><i>Cloud-Backup-Tutorial</i></string>
+    <string name="bridgeSummary">Diese Funktion ist sehr schwer zu verstehen und zu verwenden. Es wird nicht empfohlen, sie zu aktivieren.</string>
+    <string name="messageCancelBridgeFeature">In dieser Version ist die ursprüngliche \"Bridge\" -Funktion standardmäßig ausgeblendet, da es täglich viele Benutzer-Feedbacks gibt, die mir sagen, dass sie nicht wissen, was diese Funktion bedeutet. Es tut mir sehr leid, dass ich Ihnen Probleme bereite! Gleichzeitig habe ich viel Zeit und Energie aufgewendet, um auf diese Rückmeldungen zu reagieren - sie hätten verwendet werden sollen, um dieses Produkt zu entwickeln und zu polieren. Daher ist diese Funktion derzeit standardmäßig deaktiviert. Wenn Sie möchten und darauf vertrauen, können Sie zum Ende der Seite mit den Sicherungseinstellungen gehen und eine Option zum Öffnen sehen. Bitte haben Sie Verständnis, vielen Dank!</string>
+    <string name="followingBackupsAre">Im Folgenden sind die Sicherungen vor der Installation der aktuellen Version aufgeführt</string>
+    <string name="logInToWebDAVOrDropbox">Melden Sie sich bei WebDAV oder Dropbox an</string>
 </resources>

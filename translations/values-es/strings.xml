@@ -99,13 +99,13 @@
     <string name="sortTypeCreatedTimeDown">Tiempo creado</string>
     <string name="warningSavedFailed">Error al guardar el archivo, copie el texto completo y luego reinicie la aplicación para ver si falta el contenido</string>
     <string name="backupNow">Copia ahora</string>
-    <string name="summaryBackupToLocal">El archivo de copia de seguridad se guardará en la ruta /sdcard/backups</string>
+    <string name="summaryBackupToLocal">El archivo de copia de seguridad se guardará en la ruta /backups</string>
     <string name="restoreBackup">Restaurar copia de seguridad</string>
-    <string name="summaryRestoreTheBackup">Backup file will be retrieved from /sdcard/backups, /sdcard/backups/PureWriterAutoBackups and your WebDAV or Dropbox</string>
+    <string name="summaryRestoreTheBackup">Backup file will be retrieved from /backups, /backups/PureWriterAutoBackups and your WebDAV or Dropbox</string>
     <string name="backupSuccessful">Backup exitoso</string>
     <string name="restoreSuccessful">Restaure la copia de seguridad con éxito</string>
-    <string name="tipBackupList">A continuación se muestran todos los archivos de copia de seguridad, haga clic para restaurar la copia de seguridad. \n<b>Si desea obtener copias de seguridad de la nube WebDAV, ¡debe iniciar sesión en su cuenta WebDAV antes de ingresar a esta página!</b></string>
-    <string name="tipBackupNotExist">El archivo de copia de seguridad no existe. Coloque el archivo de copia de seguridad en /sdcard/backups y vuelva a intentarlo</string>
+    <string name="tipBackupList">A continuación se muestran todos los archivos de copia de seguridad, haga clic para restaurar la copia de seguridad. \n<b>Si desea obtener copias de seguridad de la nube Dropbox/WebDAV, ¡debe iniciar sesión en su cuenta Dropbox/WebDAV antes de ingresar a esta página!</b></string>
+    <string name="tipBackupNotExist">El archivo de copia de seguridad no existe. Coloque el archivo de copia de seguridad en /backups y vuelva a intentarlo</string>
     <string name="wordCountMode">Modo de conteo de palabras</string>
     <string-array name="wordCountModeEntries">
         <item>Excluir espacios y salto de línea</item>
@@ -222,8 +222,8 @@
     <string name="presetContent3">If you enjoyed using Pure Writer and wish to have it actively developed, would you mind contributing a few bucks to encourage the developer?\nYour support can encourage independent developers like me to make more useful apps. \nTo contribute, you can press the "Unlock Pro" button in the top right corner of the Settings page. As a token of appreciation, you will be able to get Pro features like "Save as…" and "Custom background/Papers". \nPure Writer will also improve as a result of your support. Thanks in advance! If you have any questions or feedback, please do not hesitate to email me at drakeet@drakeet.com</string>
     <string name="presetTitle4">Pure Writer - Privacy Policy</string>
     <string name="presetContent4">Pure Writer takes its users\' privacy very seriously, it will never collect any of your private information. \nAlso, it will not read or modify any content on your clipboard without first notifying you.\nThe storage permission that Pure Writer asked for is solely used for auto backup and save your files. Other than that, it will not read or modify any of your files in the storage without first notifying you.\nPure Writer supports cloud backup, which uses HTTPS encryption to transfer your database backups to your WebDAV cloud storage. Your cloud backups will only be stored in the cloud storage you set, and they will never be uploaded to other places.</string>
-    <string name="createAt">Creado en</string>
-    <string name="updatedAt">Actualizado en</string>
+    <string name="createAt">Creado a las</string>
+    <string name="updatedAt">Actualizado a las</string>
     <string name="forcedBlackTextColor">Forced Black Fuente</string>
     <string name="forcedWhiteTextColor">Forced White Fuente</string>
     <string name="paragraphSpacing">Espaciado entre párrafos</string>
@@ -264,7 +264,6 @@
     <string name="backupToLocalNow">Copia de seguridad en el almacenamiento local ahora</string>
     <string name="backupToCloudNow">Copia de seguridad en el almacenamiento en la nube ahora</string>
     <string name="summaryBackupToCloud">El archivo de copia de seguridad se guardará en su almacenamiento en la nube si está configurado</string>
-    <string name="messageCancelFontFeature">Dado que hay muchos problemas con la fuente incorporada de Pure Writer en versiones anteriores, incluido el problema de desalineación del cursor, Pure Writer decidió no proporcionar esta fuente y cambiar la función de fuentes. Lo siento mucho por esto. — El desarrollador de Pure Writer, Drakeet Xu.</string>
     <string name="lockFallback">Si no puede desbloquearlo todo el tiempo, puede ir a la configuración del sistema de su teléfono, eliminar todas sus huellas digitales y volver a abrir Pure Writer.</string>
     <string name="smoothScrollerTitle">Animación de desplazamiento suave para hacer clic en una línea de texto</string>
     <string name="tipSmoothScrolling">Si esta opción está activada, al hacer clic en una línea del texto del contenido, la vista del texto se desplazará suavemente a la línea enfocada si es necesario. Si esta opción está desactivada, saltará a esa línea en un instante.\nEs posible que la animación de desplazamiento no tenga un buen rendimiento en algunos dispositivos, así que desactive esta opción si se siente bloqueado.</string>
@@ -333,4 +332,9 @@
     <string name="leftMargin">Margen izquierdo</string>
     <string name="rightMargin">Margen derecho</string>
     <string name="spacingsAndMargins">Espaciamientos | Márgenes</string>
+    <string name="autoBackupAndCloudBackupGuide"><i>Nube de copia de seguridad tutorial</i></string>
+    <string name="bridgeSummary">Esta característica es muy difícil de entender y usar, no se recomienda habilitarla.</string>
+    <string name="messageCancelBridgeFeature">De esta versión, la función original \"Bridge\" está oculta de forma predeterminada, ya que hay muchos comentarios de los usuarios todos los días que me dicen que no saben lo que significa esta función, ¡lamento molestarlos! Pero al mismo tiempo, también pasé mucho tiempo y energía respondiendo a estos comentarios, deberían haber sido utilizados para desarrollar y pulir este producto. Por lo tanto, actualmente esta función está desactivada de manera predeterminada. Si lo desea y confía en él, puede ir al final de la página de configuración de copia de seguridad y verá una opción para abrirlo. Por favor, comprenda, muchas gracias!</string>
+    <string name="followingBackupsAre">Las siguientes son las copias de seguridad antes de instalar la versión actual</string>
+    <string name="logInToWebDAVOrDropbox">Inicie sesión en WebDAV o Dropbox</string>
 </resources>
