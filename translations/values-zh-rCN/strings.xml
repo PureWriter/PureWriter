@@ -341,4 +341,5 @@
     <string name="messageCancelBridgeFeature">从这个版本开始，原有的「云读写」功能被默认隐藏了，因为每天有许多用户反馈告诉我他们不知道这个功能是什么意思，非常抱歉给大家带来困扰！但同时我也因为回复这些反馈花费了大量时间精力——它们本该用于开发和打磨这个产品。所以目前这个功能先默认关闭，如果你喜欢和依赖它，你可以进入备份设置页面底部，将可以看到一个选项来开启它。请谅解，非常感谢！</string>
     <string name="followingBackupsAre">以下是安装当前版本之前的备份</string>
     <string name="logInToWebDAVOrDropbox">登陆 WebDAV 或 Dropbox</string>
+    <string name="scrollToBottom">聚焦到文末</string>
 </resources>

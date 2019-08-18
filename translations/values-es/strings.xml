@@ -337,4 +337,5 @@
     <string name="messageCancelBridgeFeature">De esta versión, la función original \"Bridge\" está oculta de forma predeterminada, ya que hay muchos comentarios de los usuarios todos los días que me dicen que no saben lo que significa esta función, ¡lamento molestarlos! Pero al mismo tiempo, también pasé mucho tiempo y energía respondiendo a estos comentarios, deberían haber sido utilizados para desarrollar y pulir este producto. Por lo tanto, actualmente esta función está desactivada de manera predeterminada. Si lo desea y confía en él, puede ir al final de la página de configuración de copia de seguridad y verá una opción para abrirlo. Por favor, comprenda, muchas gracias!</string>
     <string name="followingBackupsAre">Las siguientes son las copias de seguridad antes de instalar la versión actual</string>
     <string name="logInToWebDAVOrDropbox">Inicie sesión en WebDAV o Dropbox</string>
+    <string name="scrollToBottom">Desplazarse hacia abajo</string>
 </resources>

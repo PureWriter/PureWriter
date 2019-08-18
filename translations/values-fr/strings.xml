@@ -345,4 +345,5 @@
     <string name="followingBackupsAre">Voici les sauvegardes avant d\'installer la version actuelle</string>
     <string name="logInToWebDAVOrDropbox">Connectez-vous à WebDAV ou Dropbox</string>
     <string name="messageCancelBridgeFeature">À partir de cette version, la fonctionnalité Bridge d\'origine est masquée par défaut, car de nombreux retours d\'utilisateurs me disent tous les jours qu\'ils ne savent pas ce que cette fonctionnalité signifie, je suis vraiment désolé de vous causer des problèmes! Mais en même temps, j\'ai également passé beaucoup de temps et d\'énergie à répondre à ces retours - ils auraient dû être utilisés pour développer et peaufiner ce produit. Donc, cette fonctionnalité est actuellement désactivée par défaut. Si vous le souhaitez et que vous vous y appuyez, vous pouvez aller au bas de la page des paramètres de sauvegarde et vous verrez une option pour l\'ouvrir. S\'il vous plaît comprendre, merci beaucoup!</string>
+    <string name="scrollToBottom">Défiler vers le bas</string>
 </resources>

@@ -342,4 +342,5 @@
     <string name="messageCancelBridgeFeature">Dari versi ini, fitur \"Bridge\" asli disembunyikan secara default, karena ada banyak umpan balik pengguna setiap hari yang mengatakan kepada saya bahwa mereka tidak tahu apa arti fitur ini, saya sangat menyesal membuat Anda kesulitan! Tetapi pada saat yang sama, saya juga menghabiskan banyak waktu dan energi untuk menanggapi umpan balik ini - mereka seharusnya digunakan untuk mengembangkan dan memoles produk ini. Jadi saat ini fitur ini dimatikan secara default. Jika Anda suka dan mengandalkannya, Anda bisa pergi ke bagian bawah halaman pengaturan cadangan dan Anda akan melihat opsi untuk membukanya. Tolong mengerti, terima kasih banyak!</string>
     <string name="followingBackupsAre">Berikut ini adalah cadangan sebelum menginstal versi saat ini</string>
     <string name="logInToWebDAVOrDropbox">Masuk ke WebDAV atau Dropbox</string>
+    <string name="scrollToBottom">Gulir ke bawah</string>
 </resources>

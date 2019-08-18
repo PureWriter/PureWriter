@@ -332,4 +332,5 @@
     <string name="messageCancelBridgeFeature">In dieser Version ist die ursprüngliche \"Bridge\" -Funktion standardmäßig ausgeblendet, da es täglich viele Benutzer-Feedbacks gibt, die mir sagen, dass sie nicht wissen, was diese Funktion bedeutet. Es tut mir sehr leid, dass ich Ihnen Probleme bereite! Gleichzeitig habe ich viel Zeit und Energie aufgewendet, um auf diese Rückmeldungen zu reagieren - sie hätten verwendet werden sollen, um dieses Produkt zu entwickeln und zu polieren. Daher ist diese Funktion derzeit standardmäßig deaktiviert. Wenn Sie möchten und darauf vertrauen, können Sie zum Ende der Seite mit den Sicherungseinstellungen gehen und eine Option zum Öffnen sehen. Bitte haben Sie Verständnis, vielen Dank!</string>
     <string name="followingBackupsAre">Im Folgenden sind die Sicherungen vor der Installation der aktuellen Version aufgeführt</string>
     <string name="logInToWebDAVOrDropbox">Melden Sie sich bei WebDAV oder Dropbox an</string>
+    <string name="scrollToBottom">Scrolle nach unten</string>
 </resources>

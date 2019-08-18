@@ -341,4 +341,5 @@
     <string name="messageCancelBridgeFeature">從這個版本開始，原有的「雲讀寫」功能被預設隱藏了，因為每天有許多使用者回饋告訴我他們不知道這個功能是什麼意思，非常抱歉給大家帶來困擾！但同時我也因為回復這些回饋花費了大量時間精力——它們本該用於開發和打磨這個產品。所以目前這個功能先預設關閉，如果你喜歡和依賴它，你可以進入備份設定頁面底部，將可以看到一個選項來開啟它。請諒解，非常感謝！</string>
     <string name="followingBackupsAre">以下是安裝目前版本之前的備份</string>
     <string name="logInToWebDAVOrDropbox">登入 WebDAV 或 Dropbox</string>
+    <string name="scrollToBottom">聚焦到文末</string>
 </resources>

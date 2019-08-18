@@ -89,7 +89,7 @@
     <string name="previewAndExport">Preview | Export…</string>
     <string name="hasSavedToYourAlbum">Saved to album</string>
     <string name="preview">Preview</string>
-    <string name="proReadMe">If you feel that Pure Writer is helpful, and wish that it continues to develop, would you mind contributing a few bucks to the developer?\n\nYour support encourages independent developers like me to develop and bring more well-built apps to you. \n\nTo support, you can click on the Google Play button. <b>After contributing, you will receive Pro features such as "Save as", "Custom Paper / Background" and also future updates for free as a token of appreciation.</b>\nBecause of supporters like you, Pure Writer strives to be better and updated. Lastly, thanks for your support! </string>
+    <string name="proReadMe">"If you feel that Pure Writer is helpful, and wish that it continues to develop, would you mind contributing a few bucks to the developer?\n\nYour support encourages independent developers like me to develop and bring more well-built apps to you. \n\nTo support, you can click on the Google Play button. <b>After contributing, you will receive Pro features such as Material Design 2, Outline, Export, Custom Paper / Background and also future updates for free as a token of appreciation.</b>\nBecause of supporters like you, Pure Writer strives to be better and updated. Lastly, thanks for your support! "</string>
     <string name="tipRequirePro">This is a Pro feature</string>
     <string name="ok">OK</string>
     <string name="cancel">Cancel</string>
@@ -120,7 +120,7 @@
     <string name="summaryRestoreTheBackup">Backup file will be retrieved from /backups, /backups/PureWriterAutoBackups and your WebDAV or Dropbox</string>
     <string name="backupSuccessful">Backup successful</string>
     <string name="restoreSuccessful">Backup restored successfully</string>
-    <string name="tipBackupList">Here\'re your backup files. You can click to restore them.\n<b>If you wish to retrieve backup files from Dropbox/WebDAV, please login to your Dropbox/WebDAV account first!</b></string>
+    <string name="tipBackupList">Here\'re your backup files. You can click to restore them.\n<b>If you wish to retrieve backup files from Dropbox/WebDAV, please log in to your Dropbox/WebDAV account first!</b></string>
     <string name="tipBackupNotExist">The backup file does not exist. Please place the backup file in /backups and try again.</string>
     <string name="wordCountMode">Word count mode</string>
     <string-array name="wordCountModeEntries">
@@ -372,4 +372,5 @@
     <string name="messageCancelBridgeFeature">From this version, the original \"Bridge\" feature is hidden by default, because there are many user feedbacks every day telling me that they don\'t know what this feature means, I am very sorry to bring you trouble! But at the same time, I also spent a lot of time and energy responding to these feedbacks - they should have been used to develop and polish this product. So currently this feature is turned off by default. If you like and rely on it, you can go to the bottom of the backup settings page and you will see an option to open it. Please understand, thank you very much!</string>
     <string name="followingBackupsAre">The following are the backups before installing the current version</string>
     <string name="logInToWebDAVOrDropbox">Log in to WebDAV or Dropbox</string>
+    <string name="scrollToBottom">Scroll to bottom</string>
 </resources>
