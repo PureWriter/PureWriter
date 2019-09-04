@@ -338,4 +338,5 @@
     <string name="followingBackupsAre">Ниже приведены резервные копии перед установкой текущей версии.</string>
     <string name="logInToWebDAVOrDropbox">Войдите в WebDAV или Dropbox</string>
     <string name="scrollToBottom">Прокрутить вниз</string>
+    <string name="titleTextSize">Размер шрифта заголовка</string>
 </resources>

@@ -343,4 +343,5 @@
     <string name="followingBackupsAre">Berikut ini adalah cadangan sebelum menginstal versi saat ini</string>
     <string name="logInToWebDAVOrDropbox">Masuk ke WebDAV atau Dropbox</string>
     <string name="scrollToBottom">Gulir ke bawah</string>
+    <string name="titleTextSize">Ukuran font judul</string>
 </resources>

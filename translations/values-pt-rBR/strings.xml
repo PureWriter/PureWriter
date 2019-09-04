@@ -345,4 +345,5 @@
     <string name="followingBackupsAre">A seguir estão os backups antes de instalar a versão atual</string>
     <string name="logInToWebDAVOrDropbox">Faça o login no WebDAV ou no Dropbox</string>
     <string name="scrollToBottom">Role para baixo</string>
+    <string name="titleTextSize">Tamanho da fonte do título</string>
 </resources>

@@ -342,4 +342,5 @@
     <string name="followingBackupsAre">以下是安裝當前版本之前的備份</string>
     <string name="logInToWebDAVOrDropbox">登陸 WebDAV 或 Dropbox</string>
     <string name="scrollToBottom">聚焦到文末</string>
+    <string name="titleTextSize">標題字號</string>
 </resources>

@@ -338,4 +338,5 @@
     <string name="followingBackupsAre">以下は、現在のバージョンをインストールする前のバックアップです。</string>
     <string name="logInToWebDAVOrDropbox">WebDAVまたはDropboxにログイン</string>
     <string name="scrollToBottom">下にスクロール</string>
+    <string name="titleTextSize">タイトルのフォントサイズ</string>
 </resources>
