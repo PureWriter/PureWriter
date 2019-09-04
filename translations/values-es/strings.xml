@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="pureWriter">Pure Writer</string>
-    <string name="appNameDebug" translatable="false">纯纯写作 β</string>
     <string name="titleHint">Títulos</string>
-    <string name="editorHintTitle" translatable="false">@string/titleHint</string>
     <string name="editorTipAMenu">Primero necesitas elegir un texto</string>
     <string name="editorHintContent">Empieza a escribir algo…</string>
     <string name="slogan">Rápido | Una experiencia increíble | Nunca pierdas tu contenido</string>
     <string name="iconDesc">El icono de Pure Writer es una máquina del tiempo\nLa máquina del tiempo está flotando hacia adelante. Deseando palabras, pueden conectarnos con el pasado y el futuro...</string>
-    <string name="navigationDrawerOpen" translatable="false">Abrir el cajón de navegación</string>
-    <string name="navigationDrawerClose" translatable="false">Cerrar el cajón de navegación</string>
-
     <string name="undo">Deshacer</string>
     <string name="redo">Rehacer</string>
     <string name="about">Acerca de | Ayuda</string>
-
     <string name="defaultContent">¡Un gusto en conocerte!\nEste es un editor de texto rápido y plano en lo que creemos que "una buena experiencia de escritura" debería ser. Pure Writer es <b>minimalista y eso te permite escribir en tu corazón contenido en cualquier momento, cualquier lugar y sin temor a perderlo nunca más.</b>\nCon Pure Writer función de espacio entre líneas y párrafos, tu texto será más claro y más cómodo de leer. No sólo eso, también tiene un desplazamiento suave, un deslizamiento hasta colapsar el teclado y muchas más funciones interesantes.\nLa simplicidad es una complejidad oculta. Puedes encriptar tu trabajo con tu huella digital, comenzar o dejar de escribir cuando lo desees y compartir tu contenido rápidamente en otras aplicaciones. Estás protegido.\nLo más importante, <b>al menos que lo elimines manualmente, nunca perderás tu trabajo mientras uses este editor. Ya sea una eliminado accidentalmente o un apagado inesperado, aún podrás recuperarlo del Historial.</b>\nMás fuciones: WebDAV con Copia de Seguridad en la nube, tema de Material Design 2, Markdown, modo de máquina de escribir, exportar como imagen de texto largo, Máquina del Tiempo…\nEs rápido y ligero. Puedes interrumpir tu escritura y continuarla en cualquier momento y lugar.\nDisfruta de Pure Writer.</string>
     <string name="share">SCompartir con otra aplicación</string>
     <string name="copyTitle">Copiar el título</string>
@@ -40,14 +34,11 @@
     <string name="empty">Vacío</string>
     <string name="untitled">Sin título</string>
     <string name="isRevertToThisFile">Recuperar este documento?</string>
-    <string name="formatWarningRevertFile" translatable="false">%s:\n\n%s</string>
     <string name="noMore">Nada más!</string>
     <string name="goOn">Continuar</string>
     <string name="reject">Rechazar</string>
     <string name="titleIntroCard">Pure Writer</string>
     <string name="defaultTitle">Como desees</string>
-    <string name="adUnitIdLight" translatable="false">ca-app-pub-9494072807329103/7317154675</string>
-
     <string name="tipPermissionFailed">Los permisos no han sido concedidos. El historial no podrá ser guardado.</string>
     <string name="titleStorePermissionFailed">El permiso de almacenamiento ha sido denegado</string>
     <string name="tipMessageStoragePermissionFirst">Por favor, habilita los permisos de almacenamiento. Pure Writer solo lo utilizará para hacer una Copia de Seguridad y no pierdas tus archivos</string>
@@ -84,7 +75,6 @@
     <string name="indentShort">Sangrar</string>
     <string name="delete">Eliminar</string>
     <string name="messageDeleteShortcut">Haz clic en ACEPTAR para eliminar este acceso direct</string>
-    <string name="linksCard" translatable="false">Pure Writer - Never Lose Content Editor\nhttps://medium.com/@drakeet/pure-writer-3-0-never-lost-content-editor-419fc75a6f9d\n\n纯纯写作 - 愿文字带我们穿越时光，连接过去，遥想未来\nhttps://writer.drakeet.com</string>
     <string name="features">Características</string>
     <string name="sendTextFailedForTooLarge">Tu texto es demasiado largo para enviarse a otras aplicaciones, por ello fue copiado en tu portapapeles.</string>
     <string name="previewAndExport">Vista previa | Exportar…</string>
@@ -105,7 +95,6 @@
     <string name="autoLock">Auto-bloqueo</string>
     <string name="enabled">Activado</string>
     <string name="appLinks">URLs Android</string>
-    <string name="googlePlay" translatable="false">Google Play</string>
     <string name="titleOpenImportedFile">Abriste un archivo externo, selecciona una acción</string>
     <string name="copied">Copiado</string>
     <string name="sort">Tipo de clasificación</string>
@@ -141,17 +130,6 @@
     <string name="formatterRemoveBreak">Eliminar todas las líneas en blanco entre los párrafos</string>
     <string name="titleAsAWordForACount">Contador de Palabras Individual</string>
     <string name="trash">Basura</string>
-    <string name="fixedAppBarLayoutBehavior" translatable="false">com.drakeet.purewriter.widget.FixedAppBarLayoutBehavior</string>
-
-    <!--alipay-->
-    <string name="alipay" translatable="false">支付宝/微信/激活码</string>
-    <string name="active" translatable="false">激活</string>
-    <string name="alipayReadMe" translatable="false">使用支付宝购买 Pro 激活码，您需点击「<b>购买激活码</b>」按钮跳转到支付宝，并转账支付 <b>${RMB}</b> 元。\n\n<b>跳转支付宝后，会自动复制纯纯写作的支付宝账号 drakeet@qq.com 到您剪贴板，您需自行完成转账。</b>\n\n转账后纯纯写作将很快通过支付宝发送激活码给您，激活码永久有效，可换设备使用，但同一时间只能用于一个设备。</string>
-    <string name="alipayReadMe2" translatable="false">注：您也可加我的<b>微信</b>为好友进行支付，我的微信为 <b>drakeet</b> (点击即可复制，注意前三个字母不是 dar 而是 <b>dr</b>a)。\n\n纯纯写作因您的支持而能够不停更新、完善，非常感谢您的支持！</string>
-    <string name="alipayReadMeInvalid" translatable="false">检查到您的激活码用于另外的设备，您需要重新在当前设备输入您的激活码才能恢复本设备的付费状态。</string>
-    <string name="alipayPay" translatable="false">购买激活码</string>
-    <string name="promptLicense" translatable="false">请输入激活码</string>
-
     <string name="papers">Pápeles </string>
     <string name="custom">Personalizado</string>
     <string name="promptCustomPaper">Valor RGB o URL de una imagen</string>
@@ -170,15 +148,10 @@
     <string name="noHistory">No se encontró un historial</string>
     <string name="formatterRemoveIndent">Eliminar sangría</string>
     <string name="keepScreenOn">Mantener la pantalla encendida</string>
-    <string name="titleGFMBreaks" translatable="false">GFM line breaks</string>
     <string name="gfmBreaksEnabled">Envuelva con un salto de línea</string>
     <string name="gfmBreaksDisabled">Requiere al menos dos saltos de línea para hacer la nueva línea</string>
-    <!--time machine-->
-    <string name="timeMachineHintInput" translatable="false">Message</string>
-    <!--action-->
     <string name="wordCountOfThisBook">Contador total</string>
     <string name="wordCountOfThisBookDescription">Contador total de Palabras de este Libros</string>
-    <string name="debugRemoveLicense" translatable="false">RemoveLicense</string>
     <string name="timeMachineGuide">¿Qué es esto? Podrías verlo como un chat o un lugar para registrar tus ideas, o incluso algo similar al Asistente de Google. Tiene un nombre especial que es "Máquina del Tiempo", ¡encantado de conocerte!</string>
     <string name="copyDate">Copiar fecha</string>
     <string name="defaultBook">Libros por defecto</string>
@@ -297,15 +270,12 @@
     <string name="noInternetConnection">No hay conexión a internet</string>
     <string name="cloudBackup">Copia de Seguridad en la nube</string>
     <string name="cloudConnection">Tipo de conexión a la nube</string>
-    <!--<string name="signIn" translatable="false">@string/common_signin_button_text</string>-->
     <string name="signIn">Registrarse</string>
     <string name="lockFallback">Si no puedes desbloquearlo todo el tiempo, puedes ir a la configuración del sistema de tu dispositivo móvil y eliminar todas tus huellas digitales, luego vuelve abrir Pure Writer.</string>
     <string name="smoothScrollerTitle">Animación de desplazamiento suave al hacer clic en una línea de texto</string>
     <string name="tipSmoothScrolling">Si esta opción está activada, cuando haces clic en una línea del texto del contenido, la vista del texto se desplazará suavemente a la línea enfocada si es necesario. Si esta opción está desactivada, saltará a esa línea en un instante.\nEs posible que la animación de desplazamiento no funcione bien en algunos dispositivos, así que desactiva esta opción si se siente atascada o infuncional.</string>
     <string name="defaultMessageUpdateApk">Esta es una versión importante, actualiza a esta versión lo antes posible</string>
     <string name="readme">Has activado el nuevo diseño de Material Design 2 de Pure Writer.\n\nMaterial Design 2 trae un nuevo papel de inmersión a pantalla completa y una barra superior transparente para una apariencia más fresca.\n\nSin embargo, al mismo tiempo, puede haber muchos problemas con el nuevo diseño, por lo que esta es una característica experimental de Pure Writer, que puede tener algunos problemas visuales de la Interfaz. Además, como autor de Pure Writer, prefiero el diseño original de Pure Writer, que es más llamativo y se centra en el contenido de texto, por lo que esta característica de diseño se desarrolla en respuesta a las fuertes demandas de un pequeño número de usuarios. Requiere muchos costos de desarrollo adicionales, y no es fácil de proporcionar, y dado que ahora habrá dos diseños de Pure Writer, el trabajo del desarrollador puede multiplicarse.\n\nDebido a esto, Pure Writer le recomienda que pague por ello, pero aún puede tener mucho tiempo para experimentar y tomar una decisión final de pago. Por favor, intenta apoyarlo. Si las estadísticas muestran que la proporción de usuarios que están dispuestos a pagar es pequeña, el desarrollador puede cancelar o dejar de mantener el Material Design 2. Una vez que haga clic en Aceptar, se considerará que aceptas este contenido de forma predeterminada.\n\n¡Gracias a todos! Haré todo lo posible para proporcionar un excelente Pure Writer.</string>
-    <string name="materialDesign2Formatted" translatable="false"><b><i>Material Design 2　　</i></b></string>
-    <string name="materialDesign2" translatable="false">Material Design 2</string>
     <string name="lowFreeStorageSpaceWarning">Tu teléfono tiene solo %d MB de almacenamiento libre, lo que puede hacer que Pure Writer se guarde o falle la Copia de Seguridad, ¡limpia y deja más de 100 MB antes de usar Pure Writer!</string>
     <string name="pureWriterBBS">Pure Writer BBS</string>
     <string name="findReplace">Encontrar &amp; Reemplazar</string>
@@ -331,8 +301,6 @@
     <string name="changeAccount">Cambiar cuenta</string>
     <string name="scrollToHideTopBar">Desplácese para ocultar la barra superior</string>
     <string name="doNotOperate">¡No cambies o modifiques archivos en el proceso!</string>
-    <string name="forcedOffBadge" translatable="false">关于云备份提醒小红点</string>
-    <string name="badgeReadme" translatable="false">您可以在纯纯写作编辑器页面看到对于云备份的小红点，该小红点若是显示则表示<b>您没有配置云备份或者云备份无法连通</b>，如果您已设置云备份且可连通，则它会自动消失。\n\n之所以我们不得不这么做的原因是，很多用户自信地认为自己不需要云备份，但有一天手机丢了、突然坏了，又或者因为刷机、意外双清了，没有云备份只能后悔莫及。作为纯纯写作的开发者兼客服，我已经见过太多这样令人难过的事情了，很多用户甚至来信怪我为什么不强制让用户进行云备份，我非常理解因为辛苦写作的文章未能备份到云盘而皆数丢失的难过，所以也希望大家能够理解，谢谢！</string>
     <string name="aboutBackup">Acerca de la Copia de Seguridad</string>
     <string name="backupReadme">Pure Writer admite Copias de Seguridad locales y en la nube. Las Copias de Seguridad locales se realizan de manera predeterminada y son automáticos. Cuando reinstale Pure Writer, puede ir a la Configuración - Copia de Seguridad - Restaurar la Copia de Seguridad para recuperar tu Copia local.\n\nSin embargo, Pure Writer no realiza automáticamente una Copia de Seguridad en la nube de forma predeterminada. Para habilitar la Copia de seguriad automática en la nube, Copia todos tus artículos y configuraciones en tu almacenamiento de la nube.\n\nPure Writer puede Copiar en la nube usando WebDAV o Dropbox.\n\n<b>La Copia en la nube es muy importante, si no la configuras y tu dispositivo móvil se pierde, se rompe, se restablece de fábrica o algo perjudicial, ¡se perderá todo tu valioso contenido creativo! Asegúrate de configurar una Copia de Seguridad en la nube.</b></string>
     <string name="tipParagraphSpacingInMD">El espaciado entre párrafos no se habilitará en el modo Markdown</string>
