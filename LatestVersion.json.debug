@@ -1,5 +1,5 @@
 {
-  "code": 1000013500,
+  "code": -1,
   "name": "13",
   "changelog": {
     "default": "* Add Title Font Size setting\n* Add SCROLL TO BOTTOM button to to focus on the end of the text\n* Move the \"Clear\" menu item to the bottom of the menu list to avoid mistake\n* New Left & Right Margin settings\n* New Custom Font setting\n* New word count mode: Exclude all punctuation\n* Outline Editor\n* Spell Checker setting\n* Adapt transparent navigation bar & Android Q Edge to Edge\n* \"Clear current content\" is back now\n* Add Italian & German translation\n* Solve problem of Find & Replace completely\n* Lots of detail optimization",
