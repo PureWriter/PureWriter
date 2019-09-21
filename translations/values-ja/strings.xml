@@ -338,5 +338,15 @@
     <string name="followingBackupsAre">以下は、現在のバージョンをインストールする前のバックアップです。</string>
     <string name="logInToWebDAVOrDropbox">WebDAVまたはDropboxにログイン</string>
     <string name="scrollToBottom">下にスクロール</string>
+    <string name="textColor">エディターのテキストの色</string>
+    <string name="customColorTipOnShortcutPad">ヒント：[設定]ページでエディターのテキストの色をカスタマイズできます。</string>
+    <string name="textColorSummary">注：用紙を切り替えると、テキストの色はデフォルトの色に自動的にリセットされます。</string>
     <string name="titleTextSize">タイトルのフォントサイズ</string>
+    <string name="restoreByThisBackup">このバックアップで復元しますか？</string>
+    <string name="restoreByThisBackupWithAppName">このバックアップで復元しますか？</string>
+    <string name="collapseAllCategories">すべてのカテゴリを折りたたむ</string>
+    <string name="showMore">もっと見る</string>
+    <string name="textColorAlpha">テキストの色の透明度</string>
+    <string name="tipNotSupportThisDesktopVersion">現在のモバイルとデスクトップのバージョンは一致せず、接続できません。 両方を最新バージョンに更新して、もう一度お試しください。</string>
+    <string name="createShortcutLabel">ショートカット</string>
 </resources>

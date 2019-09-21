@@ -14,7 +14,7 @@
     <string name="copyTitle">複製標題</string>
     <string name="copyContent">複製正文內容</string>
     <string name="clearThisContent"><b>清空</b>檔前正文</string>
-    <string name="appPureMosaic">純純打碼</string>
+    <string name="appPureMosaic">廣告:純純打碼</string>
     <string name="wordCountShort">字數</string>
     <string name="historyState">已儲存記錄</string>
     <string name="tipNeedFingerprint">需要指紋解鎖才能查看和編輯</string>
@@ -342,5 +342,21 @@
     <string name="followingBackupsAre">以下是安裝目前版本之前的備份</string>
     <string name="logInToWebDAVOrDropbox">登入 WebDAV 或 Dropbox</string>
     <string name="scrollToBottom">聚焦到文末</string>
+    <string name="textColor">編輯器字體顏色</string>
+    <string name="textColorSummary">須知：當切換稿紙後，字體顏色會自動復原到預設顏色。</string>
+    <string name="customColorTipOnShortcutPad">提示：在設定頁面可修改目前字體顏色</string>
     <string name="titleTextSize">標題字號</string>
+    <string name="restoreByThisBackup">透過此備份復原內容？</string>
+    <string name="restoreByThisBackupWithAppName">純純寫作: 透過此備份復原</string>
+    <string name="collapseAllCategories">收起所有卷</string>
+    <string name="showMore">顯示更多</string>
+    <string name="textColorAlpha">字體顏色透明度</string>
+    <string name="tipDesktopDialog">您需要從\nhttps://github.com/PureWriter/desktop/releases\n下載<b><i>純純寫作桌面版</i></b>。\n\n當手機與電腦<b>處於同一個 Wi-Fi 網路或熱點</b>時，打開桌面版後將其中的 IP 地址輸入於下方輸入欄中，即可與桌面版即時連接，雙向同步編輯目前文章。\n\n注意：目前純純寫作桌面版還處於非常初級階段，許多功能未完善，請您理解和靜待其後續更新。\n目前，您需自行請確保輸入的 IP 地址無誤，否則將無法連接成功且不會有明顯提示，若您發覺未連接成功，請自行斷開連接，重新輸入正確 IP 地址。</string>
+    <string name="tipNotSupportThisDesktopVersion">目前手機端和桌面端版本不匹配，無法連接，請各自更新到最新版後重試</string>
+    <string name="connect">連接</string>
+    <string name="connectDesktop">連接純純寫作桌面版</string>
+    <string name="connectionIsStopping">連接仍然在斷開中，請稍後重試！</string>
+    <string name="disconnectDesktop">斷開與桌面版的連接</string>
+    <string name="linksCard" translatable="false">純純寫作 - 願文字帶我們穿越時光，連接過去，遙想未來\nhttps://writer.drakeet.com</string>
+    <string name="createShortcutLabel">建立快捷輸入項</string>
 </resources>

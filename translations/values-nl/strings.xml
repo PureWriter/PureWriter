@@ -338,5 +338,15 @@
     <string name="followingBackupsAre">Hier volgen de back-ups voordat u de huidige versie installeert</string>
     <string name="logInToWebDAVOrDropbox">Log in op WebDAV of Dropbox</string>
     <string name="scrollToBottom">Scroll naar beneden</string>
+    <string name="textColor">Tekstkleur van Editor</string>
+    <string name="customColorTipOnShortcutPad">Tip: U kunt de tekstkleur van de editor aanpassen op de pagina Instellingen.</string>
+    <string name="textColorSummary">Opmerking: Wanneer u van papier wisselt, wordt de tekstkleur automatisch opnieuw ingesteld naar de standaardkleur.</string>
     <string name="titleTextSize">Titel lettergrootte</string>
+    <string name="restoreByThisBackup">Herstellen met deze back-up?</string>
+    <string name="restoreByThisBackupWithAppName">Herstellen met deze back-up?</string>
+    <string name="collapseAllCategories">Alle categorieën samenvouwen</string>
+    <string name="showMore">Meer weergeven</string>
+    <string name="textColorAlpha">Tekstkleur transparantie</string>
+    <string name="tipNotSupportThisDesktopVersion">De huidige mobiele en desktopversies komen niet overeen en kunnen niet worden verbonden. Werk beide bij naar de nieuwste versie en probeer het opnieuw.</string>
+    <string name="createShortcutLabel">Tekst snelkoppeling</string>
 </resources>

@@ -14,7 +14,7 @@
     <string name="defaultContent">　　很高兴见到你！\n　　这是一个快速的纯文本编辑器，我们希望写作能够回到原本的样子：<b>纯粹、有安全感、随时、绝对不丢失内容、具备良好的写作体验。</b>\n　　纯纯写作实现了在 Android 上完美的行间距和段间距，它能够使您的文本看起来更加舒适、清晰。同时，它还实现了「快捷输入栏」和「格式化工具」，以及许多喜人的细节内容。\n　　最重要的，<b>在使用这个编辑器时，它将会保证您的内容永远不会丢失，除非您主动将它清空。否则即使误操作将文本删除，或瞬间断电，您仍然能够从历史记录或备份中将它恢复。</b>\n　　纯纯写作还在流畅体验上下了很多功夫，它拥有完美的键盘响应逻辑。使用纯纯写作时，你能够往下拖动快捷输入栏来收起软键盘；能够点击文章某一行后，动态获得合适的光标焦点定位；能够在收起软键盘时，文章位置保持不动 … 许多这样的细节内容，当你对比使用其他编辑器项目时，你才会发现纯纯写作做得更加出色、流畅，细致入微。\n　　蕴繁于简。许多编辑器该有的功能，纯纯写作也都没有落下，比如 WebDAV 云备份、段首缩进、生成长图片、指纹加锁、Markdown、更换信纸、夜间模式、单词联想输入、打字机模式、撤销、字数统计 等等。但即使这样，纯纯写作仍然保持了简约的设计风格，遵循 Material Design 设计，并且它还有一个像是哆啦 A 梦 时光机 的图标，寓意着「文字能够连接过去，遥想未来」，也照应了纯纯写作特别提供的「历史记录」功能。\n　　您能够最快速度到达灵感页面，能够随时随地中断和继续写作，这些我们都已经为您做好了。\n　　令人感到安心，顺滑流畅的写作体验，如你所愿，这就是纯纯写作，请享受写作吧！</string>
     <string name="copyTitle">复制标题</string>
     <string name="copyContent">复制正文内容</string>
-    <string name="appPureMosaic">纯纯打码</string>
+    <string name="appPureMosaic">广告:纯纯打码</string>
     <string name="wordCountShort">字数</string>
     <string name="historyState">已保存记录</string>
     <string name="tipNeedFingerprint">需要指纹解锁才能查看和编辑</string>
@@ -342,5 +342,21 @@
     <string name="followingBackupsAre">以下是安装当前版本之前的备份</string>
     <string name="logInToWebDAVOrDropbox">登陆 WebDAV 或 Dropbox</string>
     <string name="scrollToBottom">聚焦到文末</string>
+    <string name="customColorTipOnShortcutPad">提示：在设置页面可修改当前字体颜色</string>
+    <string name="textColorSummary">须知：当切换稿纸后，字体颜色会自动恢复到默认颜色。</string>
+    <string name="textColor">编辑器字体颜色</string>
     <string name="titleTextSize">标题字号</string>
+    <string name="restoreByThisBackup">通过此备份恢复内容？</string>
+    <string name="restoreByThisBackupWithAppName">纯纯写作: 通过此备份恢复</string>
+    <string name="collapseAllCategories">收起所有卷</string>
+    <string name="showMore">显示更多</string>
+    <string name="textColorAlpha">字体颜色透明度</string>
+    <string name="tipNotSupportThisDesktopVersion">当前手机端和桌面端版本不匹配，无法连接，请各自更新到最新版后重试</string>
+    <string name="tipDesktopDialog">您需要从\nhttps://github.com/PureWriter/desktop/releases\n下载<b><i>纯纯写作桌面版</i></b>。\n\n当手机与电脑<b>处于同一个 Wi-Fi 网络或热点</b>时，打开桌面版后将其中的 IP 地址输入于下方输入栏中，即可与桌面版实时连接，双向同步编辑当前文章。\n\n注意：当前纯纯写作桌面版还处于非常初级阶段，许多功能未完善，请您理解和静待其后续更新。\n目前，您需自行请确保输入的 IP 地址无误，否则将无法连接成功且不会有明显提示，若您发觉未连接成功，请自行断开连接，重新输入正确 IP 地址。</string>
+    <string name="connect">连接</string>
+    <string name="connectDesktop">连接纯纯写作桌面版</string>
+    <string name="connectionIsStopping">连接仍然在断开中，请稍后重试！</string>
+    <string name="disconnectDesktop">断开与桌面版的连接</string>
+    <string name="linksCard" translatable="false">纯纯写作 - 愿文字带我们穿越时光，连接过去，遥想未来\nhttps://writer.drakeet.com</string>
+    <string name="createShortcutLabel">创建快捷输入项</string>
 </resources>

@@ -22,7 +22,7 @@
     <string name="copyTheContentSuccessfully">Der Inhalt wurde erfolgreich kopiert!</string>
     <string name="titleAndContentAreEmpty">Titel und Inhalt sind leer!</string>
     <string name="copyContent">Kopieren Sie den Inhalt</string>
-    <string name="appPureMosaic">Pure Mosaic</string>
+    <string name="appPureMosaic">AD:Pure Mosaic</string>
     <string name="wordCountShort">Anzahl</string>
     <string name="wordCountLong">Wortzahl</string>
     <string name="wordCountOfCurrentArticle">Gesamtzahl der Wörter des aktuellen Artikels</string>
@@ -333,5 +333,15 @@
     <string name="followingBackupsAre">Im Folgenden sind die Sicherungen vor der Installation der aktuellen Version aufgeführt</string>
     <string name="logInToWebDAVOrDropbox">Melden Sie sich bei WebDAV oder Dropbox an</string>
     <string name="scrollToBottom">Scrolle nach unten</string>
+    <string name="textColor">Textfarbe des Editors</string>
+    <string name="customColorTipOnShortcutPad">Tipp: Sie können die Textfarbe des Editors auf der Seite Einstellungen anpassen.</string>
+    <string name="textColorSummary">Hinweis: Wenn Sie das Papier wechseln, wird die Textfarbe automatisch auf die Standardfarbe zurückgesetzt.</string>
     <string name="titleTextSize">Schriftgröße des Titels</string>
+    <string name="restoreByThisBackup">Mit dieser Sicherung wiederherstellen?</string>
+    <string name="restoreByThisBackupWithAppName">Mit dieser Sicherung wiederherstellen?</string>
+    <string name="collapseAllCategories">Alle Kategorien reduzieren</string>
+    <string name="showMore">Mehr anzeigen</string>
+    <string name="textColorAlpha">Transparenz der Textfarbe</string>
+    <string name="tipNotSupportThisDesktopVersion">Die aktuellen Versionen für Mobilgeräte und Desktops stimmen nicht überein und können nicht verbunden werden. Bitte aktualisieren Sie beide auf die neueste Version und versuchen Sie es erneut.</string>
+    <string name="createShortcutLabel">Textverknüpfung</string>
 </resources>

@@ -25,7 +25,7 @@
     <string name="copyTheContentSuccessfully">Contenuto copiato con successo!</string>
     <string name="titleAndContentAreEmpty">Titolo e contenuto sono vuoti!</string>
     <string name="copyContent">Copia il Contenuto</string>
-    <string name="appPureMosaic">Pure Mosaic</string>
+    <string name="appPureMosaic">AD:Pure Mosaic</string>
     <string name="wordCountShort">Conta</string>
     <string name="wordCountLong">Conteggio Parole</string>
     <string name="wordCountOfCurrentArticle">Totale Numero Parole Articolo corrente</string>
@@ -347,5 +347,15 @@
     <string name="followingBackupsAre">Di seguito sono riportati i backup prima di installare la versione corrente</string>
     <string name="logInToWebDAVOrDropbox">Accedi a WebDAV o Dropbox</string>
     <string name="scrollToBottom">Scorri verso il basso</string>
+    <string name="textColor">Colore del testo dell\'editor</string>
+    <string name="customColorTipOnShortcutPad">Suggerimento: è possibile personalizzare il colore del testo dell\'editor nella pagina Impostazioni.</string>
+    <string name="textColorSummary">Nota: quando si cambia la carta, il colore del testo verrà automaticamente ripristinato al suo colore predefinito.</string>
     <string name="titleTextSize">Dimensione del carattere del titolo</string>
+    <string name="restoreByThisBackup">Ripristinare con questo backup?</string>
+    <string name="restoreByThisBackupWithAppName">Ripristinare con questo backup?</string>
+    <string name="collapseAllCategories">Comprimi tutte le categorie</string>
+    <string name="showMore">Mostra altro</string>
+    <string name="textColorAlpha">Trasparenza del colore del testo</string>
+    <string name="tipNotSupportThisDesktopVersion">Le attuali versioni mobili e desktop non corrispondono e non possono essere connesse. Aggiorna entrambi all\'ultima versione e riprova.</string>
+    <string name="createShortcutLabel">Scorciatoia di testo</string>
 </resources>

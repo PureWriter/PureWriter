@@ -29,7 +29,7 @@
     <string name="titleAndContentAreEmpty">Title and content are empty!</string>
     <string name="clearThisContent"><b>Clear</b> this content</string>
     <string name="copyContent">Copy the Content</string>
-    <string name="appPureMosaic">Pure Mosaic</string>
+    <string name="appPureMosaic">AD:Pure Mosaic</string>
     <string name="wordCountShort">Count</string>
     <string name="wordCountLong">Word Count</string>
     <string name="wordCountOfCurrentArticle">Total Word Count of Current Article</string>
@@ -83,7 +83,7 @@
     <string name="indentShort">Indent</string>
     <string name="delete">Delete</string>
     <string name="messageDeleteShortcut">Click OK to delete this shortcut</string>
-    <string name="linksCard" translatable="false">Pure Writer - Never Lose Content Editor\nhttps://medium.com/@drakeet/pure-writer-3-0-never-lost-content-editor-419fc75a6f9d\n\n纯纯写作 - 愿文字带我们穿越时光，连接过去，遥想未来\nhttps://writer.drakeet.com</string>
+    <string name="linksCard" translatable="false">Pure Writer - Never Lose Content Editor\nhttps://medium.com/@drakeet/pure-writer-3-0-never-lost-content-editor-419fc75a6f9d</string>
     <string name="features">Features</string>
     <string name="sendTextFailedForTooLarge">Your text is too long to be sent directly to other Apps. It has already copied the text to your clipboard</string>
     <string name="previewAndExport">Preview | Export…</string>
@@ -369,9 +369,24 @@
     <string name="spacingsAndMargins">Spacings | Margins</string>
     <string name="autoBackupAndCloudBackupGuide"><i>Cloud backup tutorial</i></string>
     <string name="bridgeSummary">This feature is very difficult to understand and use, it is not recommended to enable it.</string>
-    <string name="messageCancelBridgeFeature">From this version, the original \"Bridge\" feature is hidden by default, because there are many user feedbacks every day telling me that they don\'t know what this feature means, I am very sorry to bring you trouble! But at the same time, I also spent a lot of time and energy responding to these feedbacks - they should have been used to develop and polish this product. So currently this feature is turned off by default. If you like and rely on it, you can go to the bottom of the backup settings page and you will see an option to open it. Please understand, thank you very much!</string>
+    <string name="messageCancelBridgeFeature">From this version, the original \"Bridge\" feature is hidden by default, because there are many user feedback every day telling me that they don\'t know what this feature means, I am very sorry to bring you trouble! But at the same time, I also spent a lot of time and energy responding to these feedbacks - they should have been used to develop and polish this product. So currently this feature is turned off by default. If you like and rely on it, you can go to the bottom of the backup settings page and you will see an option to open it. Please understand, thank you very much!</string>
     <string name="followingBackupsAre">The following are the backups before installing the current version</string>
     <string name="logInToWebDAVOrDropbox">Log in to WebDAV or Dropbox</string>
     <string name="scrollToBottom">Scroll to bottom</string>
+    <string name="customColorTipOnShortcutPad">Tip: You can customize the text color of editor in the Settings page.</string>
+    <string name="textColor">Text color of Editor</string>
+    <string name="textColorSummary">Note: When you switch the Paper, the text color will be automatically reset to the default color.</string>
     <string name="titleTextSize">Title font size</string>
+    <string name="restoreByThisBackup">Restore by this backup?</string>
+    <string name="restoreByThisBackupWithAppName">PureWriter: Restore by this backup</string>
+    <string name="collapseAllCategories">Collapse all Categories</string>
+    <string name="showMore">Show more</string>
+    <string name="textColorAlpha">Text color alpha / transparency</string>
+    <string name="connectDesktop">Connect Desktop</string>
+    <string name="disconnectDesktop">Disconnect Desktop</string>
+    <string name="connect">Connect</string>
+    <string name="tipNotSupportThisDesktopVersion">The current mobile and desktop versions do not match and cannot be connected. Please update both to the latest version and try again.</string>
+    <string name="tipDesktopDialog">You need to download <b><i>Pure Writer Desktop</i></b> from https://github.com/PureWriter/desktop/releases\n\nWhen your mobile and computer are on <b>the same Wi-Fi network or hotspot</b>, open the desktop and enter the IP address in the input field below to connect to Pure Writer Desktop, then you can sync and edit the current article in real time and in both directions.\n\nNote: The current Pure Writer Desktop is still in its alpha / beta stage. Please understand and wait for its subsequent updates.\nAt present, you need to make sure that the IP address you entered is correct. Otherwise, you will not be able to connect successfully and there will be no obvious prompts. If you find that the connection is not successful, please disconnect and re-enter the correct IP address.</string>
+    <string name="connectionIsStopping">The connection is stopping, try again later!</string>
+    <string name="createShortcutLabel">Text Shortcut</string>
 </resources>

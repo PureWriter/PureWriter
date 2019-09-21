@@ -24,7 +24,7 @@
     <string name="titleAndContentAreEmpty">¡El título y el contenido están vacíos!</string>
     <string name="clearThisContent"><b>Eliminar</b> este contenido</string>
     <string name="copyContent">Copiar el contenido</string>
-    <string name="appPureMosaic">Pure Mosaic</string>
+    <string name="appPureMosaic">AD:Pure Mosaic</string>
     <string name="wordCountShort">Contador</string>
     <string name="wordCountLong">Contador de Palabras</string>
     <string name="wordCountOfCurrentArticle">Contador total de palabras del artículo actual</string>
@@ -343,4 +343,14 @@
     <string name="logInToWebDAVOrDropbox">Iniciar sesión en WebDAV o Dropbox</string>
     <string name="scrollToBottom">Desplazarse hacia abajo</string>
     <string name="titleTextSize">Tamaño de fuente del título</string>
+    <string name="restoreByThisBackup">Restaurar por esta copia de seguridad?</string>
+    <string name="restoreByThisBackupWithAppName">Restaurar por esta copia de seguridad?</string>
+    <string name="collapseAllCategories">Contraer todas las categorías</string>
+    <string name="textColor">Color del texto del editor</string>
+    <string name="customColorTipOnShortcutPad">Sugerencia: puede personalizar el color del texto del editor en la página Configuración.</string>
+    <string name="textColorSummary">Nota: Cuando cambie el Papel, el color del texto se restablecerá automáticamente a su color predeterminado.</string>
+    <string name="showMore">Mostrar más</string>
+    <string name="textColorAlpha">Transparencia de color del texto</string>
+    <string name="tipNotSupportThisDesktopVersion">Las versiones móviles y de escritorio actuales no coinciden y no se pueden conectar. Actualice ambos a la última versión e intente nuevamente.</string>
+    <string name="createShortcutLabel">Atajo de texto</string>
 </resources>

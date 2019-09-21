@@ -25,7 +25,7 @@
     <string name="titleAndContentAreEmpty">Judul dan konten kosong!</string>
     <string name="clearThisContent"><b>Bersihkan</b> konten ini</string>
     <string name="copyContent">Salin Konten</string>
-    <string name="appPureMosaic">Pure Mosaic</string>
+    <string name="appPureMosaic">AD:Pure Mosaic</string>
     <string name="wordCountShort">Hitung</string>
     <string name="wordCountLong">Jumlah kata</string>
     <string name="wordCountOfCurrentArticle">Jumlah Kata Total Artikel Saat Ini</string>
@@ -343,5 +343,15 @@
     <string name="followingBackupsAre">Berikut ini adalah cadangan sebelum menginstal versi saat ini</string>
     <string name="logInToWebDAVOrDropbox">Masuk ke WebDAV atau Dropbox</string>
     <string name="scrollToBottom">Gulir ke bawah</string>
+    <string name="textColor">Warna teks Editor</string>
+    <string name="customColorTipOnShortcutPad">Tip: Anda dapat menyesuaikan warna teks editor di halaman Pengaturan.</string>
+    <string name="textColorSummary">Catatan: Saat Anda mengganti Kertas, warna teks akan secara otomatis diatur ulang ke warna standarnya.</string>
     <string name="titleTextSize">Ukuran font judul</string>
+    <string name="restoreByThisBackup">Pulihkan dengan cadangan ini?</string>
+    <string name="restoreByThisBackupWithAppName">Pulihkan dengan cadangan ini?</string>
+    <string name="collapseAllCategories">Perkecil semua Kategori</string>
+    <string name="showMore">Show more</string>
+    <string name="textColorAlpha">Transparansi warna teks</string>
+    <string name="tipNotSupportThisDesktopVersion">Versi seluler dan desktop saat ini tidak cocok dan tidak dapat dihubungkan. Harap perbarui keduanya ke versi terbaru dan coba lagi.</string>
+    <string name="createShortcutLabel">Pintasan teks</string>
 </resources>

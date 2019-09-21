@@ -338,5 +338,15 @@
     <string name="followingBackupsAre">Ниже приведены резервные копии перед установкой текущей версии.</string>
     <string name="logInToWebDAVOrDropbox">Войдите в WebDAV или Dropbox</string>
     <string name="scrollToBottom">Прокрутить вниз</string>
+    <string name="textColor">Цвет текста редактора</string>
+    <string name="customColorTipOnShortcutPad">Совет: Вы можете настроить цвет текста редактора на странице настроек.</string>
+    <string name="textColorSummary">Примечание. При переключении бумаги цвет текста автоматически сбрасывается на цвет по умолчанию.</string>
     <string name="titleTextSize">Размер шрифта заголовка</string>
+    <string name="restoreByThisBackup">Восстановить по этой резервной копии?</string>
+    <string name="restoreByThisBackupWithAppName">Восстановить по этой резервной копии?</string>
+    <string name="collapseAllCategories">Свернуть все категории</string>
+    <string name="showMore">Показать ещё</string>
+    <string name="textColorAlpha">Прозрачность цвета текста</string>
+    <string name="tipNotSupportThisDesktopVersion">Текущие версии для мобильных и настольных компьютеров не совпадают и не могут быть подключены. Пожалуйста, обновите обе версии до последней и попробуйте снова.</string>
+    <string name="createShortcutLabel">Текстовый ярлык</string>
 </resources>

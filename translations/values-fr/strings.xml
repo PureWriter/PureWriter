@@ -25,7 +25,7 @@
     <string name="titleAndContentAreEmpty">Le titre et le contenu sont vides!</string>
     <string name="clearThisContent"><b>Vider</b> ce contenu</string>
     <string name="copyContent">Copier le contenu</string>
-    <string name="appPureMosaic">Pure Mosaic</string>
+    <string name="appPureMosaic">AD:Pure Mosaic</string>
     <string name="wordCountShort">Nombre</string>
     <string name="wordCountLong">Nombre de mots</string>
     <string name="wordCountOfCurrentArticle">Nombre de mots total de tous les articles</string>
@@ -346,5 +346,15 @@
     <string name="logInToWebDAVOrDropbox">Connectez-vous à WebDAV ou Dropbox</string>
     <string name="messageCancelBridgeFeature">À partir de cette version, la fonctionnalité Bridge d\'origine est masquée par défaut, car de nombreux retours d\'utilisateurs me disent tous les jours qu\'ils ne savent pas ce que cette fonctionnalité signifie, je suis vraiment désolé de vous causer des problèmes! Mais en même temps, j\'ai également passé beaucoup de temps et d\'énergie à répondre à ces retours - ils auraient dû être utilisés pour développer et peaufiner ce produit. Donc, cette fonctionnalité est actuellement désactivée par défaut. Si vous le souhaitez et que vous vous y appuyez, vous pouvez aller au bas de la page des paramètres de sauvegarde et vous verrez une option pour l\'ouvrir. S\'il vous plaît comprendre, merci beaucoup!</string>
     <string name="scrollToBottom">Défiler vers le bas</string>
+    <string name="textColor">Couleur du texte de l\'éditeur</string>
+    <string name="customColorTipOnShortcutPad">Conseil: Vous pouvez personnaliser la couleur du texte de l\'éditeur dans la page Paramètres.</string>
+    <string name="textColorSummary">Remarque: lorsque vous changez de papier, la couleur du texte revient automatiquement à sa couleur par défaut.</string>
     <string name="titleTextSize">Titre de la police</string>
+    <string name="restoreByThisBackup">Restaurer par cette sauvegarde?</string>
+    <string name="restoreByThisBackupWithAppName">Restaurer par cette sauvegarde?</string>
+    <string name="collapseAllCategories">Réduire tout Catégories</string>
+    <string name="showMore">Afficher plus</string>
+    <string name="textColorAlpha">Transparence des couleurs du texte</string>
+    <string name="tipNotSupportThisDesktopVersion">Les versions actuelles de mobile et de bureau ne correspondent pas et ne peuvent pas être connectées. Veuillez mettre à jour la version la plus récente et réessayer.</string>
+    <string name="createShortcutLabel">Raccourci texte</string>
 </resources>

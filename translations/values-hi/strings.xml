@@ -338,5 +338,15 @@
     <string name="followingBackupsAre">वर्तमान संस्करण को स्थापित करने से पहले निम्नलिखित बैकअप हैं</string>
     <string name="logInToWebDAVOrDropbox">WebDAV या ड्रॉपबॉक्स में लॉग इन करें</string>
     <string name="scrollToBottom">नीचे तक स्क्रॉल करें</string>
+    <string name="textColor">संपादक का पाठ रंग</string>
+    <string name="customColorTipOnShortcutPad">युक्ति: आप सेटिंग पृष्ठ में संपादक का टेक्स्ट रंग अनुकूलित कर सकते हैं।</string>
+    <string name="textColorSummary">ध्यान दें: जब आप पेपर स्विच करते हैं, तो टेक्स्ट का रंग अपने डिफ़ॉल्ट रंग पर स्वचालित रूप से रीसेट हो जाएगा।</string>
     <string name="titleTextSize">शीर्षक फ़ॉन्ट आकार</string>
+    <string name="restoreByThisBackup">इस बैकअप द्वारा पुनर्स्थापित करें?</string>
+    <string name="restoreByThisBackupWithAppName">PureWriter: इस बैकअप द्वारा पुनर्स्थापित करें?</string>
+    <string name="collapseAllCategories">सभी श्रेणियाँ संक्षिप्त करें</string>
+    <string name="showMore">अधिक दिखाएं</string>
+    <string name="textColorAlpha">पाठ रंग पारदर्शिता</string>
+    <string name="tipNotSupportThisDesktopVersion">वर्तमान मोबाइल और डेस्कटॉप संस्करण मेल नहीं खाते और कनेक्ट नहीं किए जा सकते। कृपया नवीनतम संस्करण में अपडेट करें और पुनः प्रयास करें।</string>
+    <string name="createShortcutLabel">पाठ शॉर्टकट</string>
 </resources>
