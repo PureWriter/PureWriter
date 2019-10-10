@@ -304,7 +304,7 @@
     <string name="scrollToHideTopBar">Scorri per nascondere la barra in alto</string>
     <string name="doNotOperate">Non cambiare o modificare articoli durante il processo!</string>
     <string name="aboutBackup">About backup</string>
-    <string name="backupReadme">Pure Writer supporta i backup locali e cloud. I backup locali vengono eseguiti per impostazione predefinita e sono automatici. Quando si reinstalla Pure Writer, e\' possibile accedere a Pure Writer - Impostazioni - Backup - Backup - Ripristina backup per ripristinare il backup locale.\n Tuttavia, Pure Writer non esegue automaticamente il backup nel cloud per impostazione predefinita. Per abilitare il backup automatico nel cloud, eseguire il backup di tutti i tuoi articoli e configurazioni nel tuo archivio cloud. e\' necessario impostare lo storage di backup nel cloud e l\'account di backup nel cloud nella parte superiore della pagina delle impostazioni di backup.\n\nPure Writer supporta Dropbox e WebDAV.\n\n<b>Il backup cloud e\' molto importante, se non si imposta il backup nel cloud e se il telefono viene perso, rotto, danneggiato, spazzolato e ripristinato in fabbrica, cio\' portera\' alla perdita di tutti i tuoi preziosi contenuti creativi! Assicuratevi di impostare un backup cloud.</b></string>
+    <string name="backupReadme">Pure Writer supporta il backup locale e cloud. Il backup locale è automatico. Quando si reinstalla Pure Writer, è possibile ripristinare tutti gli articoli mediante un backup.\n\nTuttavia, Pure Writer non esegue automaticamente i backup su cloud per impostazione predefinita. Per abilitare il backup su cloud, è necessario impostare un account di backup su cloud nella pagina Pure Writer - Impostazioni - Backup.\n\nIl backup cloud Pure Writer attualmente supporta l\'archiviazione cloud Dropbox e WebDAV.\n\n<b>Il backup su cloud è molto importante. Se non configuri un account di backup su cloud, perderai tutti i tuoi preziosi contenuti se questo dispositivo viene perso, rotto o ripristinato alle impostazioni di fabbrica! Assicurati di impostare un account di backup cloud!</b></string>
     <string name="allBooks">Tutti i libri</string>
     <string name="branchLine">Ramo</string>
     <string name="brightLine">Luce</string>
@@ -358,4 +358,14 @@
     <string name="textColorAlpha">Trasparenza del colore del testo</string>
     <string name="tipNotSupportThisDesktopVersion">Le attuali versioni mobili e desktop non corrispondono e non possono essere connesse. Aggiorna entrambi all\'ultima versione e riprova.</string>
     <string name="createShortcutLabel">Scorciatoia di testo</string>
+    <string name="cursorPositionForNewArticle">Posizione del cursore per il nuovo articolo</string>
+    <string name="undoValidTip">L\'area di input attualmente focalizzata non può più essere annullata, puoi provare a recuperare i tuoi contenuti dal menu Cronologia nell\'angolo in alto a destra.</string>
+    <string name="double11Title">11·11 metà prezzo (sconto del 50%)</string>
+    <string name="double11Message">Dal 10 al 12 novembre, l\'acquisto di PureWriter Pro può essere effettuato a metà prezzo. Grazie mille per il vostro sostegno!</string>
+    <string name="toDoCloudBackupButton">Vai a configurare un account di backup cloud</string>
+    <string name="ignoreCloudBackupCheckBox">Non voglio impostare un backup cloud, non ricordarmelo. Sono disposto a sopportare tutte le conseguenze di non avere un backup nel cloud, inclusa la perdita di tutti i miei preziosi articoli quando il telefono è rotto o perso o ripristinato perché non esiste un backup nel cloud!</string>
+    <string name="addChapterAboveThis">Aggiungi il capitolo sopra</string>
+    <string name="addChapterBelowThis">Aggiungi il capitolo seguente</string>
+    <string name="selectMore">Seleziona di più</string>
+    <string name="moveToOtherBook">Passa a un altro libro</string>
 </resources>

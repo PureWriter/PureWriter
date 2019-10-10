@@ -233,7 +233,7 @@
     <string name="paragraphSpacing">段间距</string>
     <string name="summaryExporting">仅在开启段间距时有效</string>
     <string name="lowProfile">状态栏专注模式</string>
-    <string name="chapters">章节</string>
+    <string name="chapters">篇章</string>
     <string name="sortTypeTitleUp">标题升序</string>
     <string name="sortTypeTitleDown">标题降序</string>
     <string name="sortByRank">手动排序顺序</string>
@@ -241,12 +241,12 @@
     <string name="markdownShortcutTip">您刚输入了一个 Markdown 标记，它只在 Markdown 模式且进入预览时才会有效。请问需帮您启用 Markdown 模式吗？</string>
     <string name="importedFileTooLargeToOpen">您的文件太大，无法打开</string>
     <string name="failed">失败</string>
-    <string name="insertCategoryAboveShort">在当前之<b>上</b>插入卷</string>
-    <string name="insertCategoryBelowShort">在当前之<b>下</b>插入卷</string>
+    <string name="insertCategoryAboveShort">在此之<b>上</b>插入卷</string>
+    <string name="insertCategoryBelowShort">在此之<b>下</b>插入卷</string>
     <string name="insertCategoryAboveLong">在当前文章之<b>上</b>插入一卷条目</string>
     <string name="insertCategoryBelowLong">在当前文章之<b>下</b>插入一卷条目</string>
     <string name="insertCategoryBottomShort">在<b>底部</b>插入卷</string>
-    <string name="insertCategoryBottomLong">在章节列表的<b>底部</b>插入新卷</string>
+    <string name="insertCategoryBottomLong">在篇章列表的<b>底部</b>插入新卷</string>
     <string name="insertCategory">插入卷</string>
     <string name="editCategory">编辑卷</string>
     <string name="category">卷</string>
@@ -280,11 +280,11 @@
     <string name="lowFreeStorageSpaceWarning">您的手机剩余存储空间已经只有 %d MB, 这可能导致纯纯写作保存或备份失败，请务必清理留出 100 MB 以上空间后再使用纯纯写作！</string>
     <string name="pureWriterBBS">纯纯写作论坛</string>
     <string name="replaceConfirmMessage">你确定要替换 %d 处内容吗？</string>
-    <string name="tipUndoReplace">如果替换后反悔：\n* 你可以进入纯纯写作 - 设置 - 备份 - 恢复备份，点击上一个备份恢复到替换之前的内容。\n* 如果你仅仅是替换了当前章节，则可以通过右上角菜单进入历史记录页面，恢复到替换之前的内容。</string>
+    <string name="tipUndoReplace">如果替换后反悔：\n* 你可以进入纯纯写作 - 设置 - 备份 - 恢复备份，点击上一个备份恢复到替换之前的内容。\n* 如果你仅仅是替换了当前篇章，则可以通过右上角菜单进入历史记录页面，恢复到替换之前的内容。</string>
     <string name="findReplace">查找 &amp; 替换</string>
     <string name="replace">替换</string>
     <string name="find">查找</string>
-    <string name="currentChapter">当前章节</string>
+    <string name="currentChapter">当前篇章</string>
     <string name="currentBook">当前书</string>
     <string name="ignoreCase">忽略大小写</string>
     <string name="selectAll">全选</string>
@@ -302,7 +302,7 @@
     <string name="scrollToHideTopBar">滚动以隐藏顶栏</string>
     <string name="doNotOperate">请不要在此过程中切换或修改文章！</string>
     <string name="aboutBackup">《用户须知：关于备份》</string>
-    <string name="backupReadme">纯纯写作支持本地备份和云备份，本地备份是默认就会进行且自动的，当你重装纯纯写作后，可进入 纯纯写作 - 设置 - 备份 - 恢复备份 来恢复你本地备份。\n\n但是，纯纯写作<b>默认不会自动进行云备份</b>，若要启用自动云备份，将你的所有文章及配置项备份到云盘，你需要设置云备份空间和云备份账号，在 纯纯写作 - 设置 - 备份 页面顶部可选择云备份类型和设置<b>云备份账号</b>。\n\n纯纯写作云备份支持 WebDAV / 坚果云网盘和 Dropbox 网盘。\n\n<b>云备份非常重要，如果你不设置云备份，则万一手机丢了、坏了、刷机双清、恢复出厂设置，都将导致失去你的所有宝贵的创作内容！请务必设置云备份，万无一失。</b></string>
+    <string name="backupReadme">纯纯写作支持本地备份和云备份，本地备份是自动进行的，当您重装纯纯写作后，可通过备份来恢复<b>所有文章和激活状态</b>。\n\n但是，纯纯写作<b>默认不会自动进行云备份</b>，若要启用自动云备份，<b>您需要设置云备份账号</b>，在 纯纯写作 - 设置 - 备份 页面可选择云备份类型和设置<b>云备份账号</b>。\n\n纯纯写作云备份支持 WebDAV / 坚果云网盘和 Dropbox 网盘。\n\n<b>云备份非常重要，若您不设置云备份，则万一手机丢了、坏了、刷机双清、恢复出厂设置，都将失去您所有宝贵的创作内容！请务必设置云备份，万无一失。</b></string>
     <string name="lineSpacing">行间距</string>
     <string name="tipParagraphSpacingInMD">Markdown 模式下不会启用段落间距</string>
     <string name="defaultX">默认</string>
@@ -323,7 +323,7 @@
     <string name="needToManuallyRestartToTakeEffect">需要手动重启以生效</string>
     <string name="spellChecker">拼写检查</string>
     <string name="thisShortcutCannotBeEdited">这个快捷输入项无法被编辑</string>
-    <string name="createNewChapter">创建新章节</string>
+    <string name="createNewChapter">创建新篇章</string>
     <string name="currentText">当前正文</string>
     <string name="hideSoftKeyboard">收起软键盘</string>
     <string name="transparentTopBar">透明顶栏</string>
@@ -352,11 +352,25 @@
     <string name="showMore">显示更多</string>
     <string name="textColorAlpha">字体颜色透明度</string>
     <string name="tipNotSupportThisDesktopVersion">当前手机端和桌面端版本不匹配，无法连接，请各自更新到最新版后重试</string>
-    <string name="tipDesktopDialog">您需要从\nhttps://github.com/PureWriter/desktop/releases\n下载<b><i>纯纯写作桌面版</i></b>。\n\n当手机与电脑<b>处于同一个 Wi-Fi 网络或热点</b>时，打开桌面版后将其中的 IP 地址输入于下方输入栏中，即可与桌面版实时连接，双向同步编辑当前文章。\n\n注意：当前纯纯写作桌面版还处于非常初级阶段，许多功能未完善，请您理解和静待其后续更新。\n目前，您需自行请确保输入的 IP 地址无误，否则将无法连接成功且不会有明显提示，若您发觉未连接成功，请自行断开连接，重新输入正确 IP 地址。</string>
+    <string name="desktopDialogGuide">您需要从\nhttps://writer.drakeet.com/desktop \n下载<b><i>纯纯写作桌面版 0.1.4 或以上版本</i></b>。\n\n当手机与电脑<b>处于同一个 Wi-Fi 网络或热点</b>时👈👈👈，打开桌面版后将以下的 IP 地址<b>输入于桌面版中的输入栏中</b>，即可与桌面版实时连接，双向同步编辑当前文章。</string>
+    <string name="desktopDialogNote">注意：当前纯纯写作桌面版还处于非常初级阶段，许多功能未完善，请您理解和静待其后续更新。\n* 若您看到<b>多行 IP 地址</b>，请逐一尝试连接它们。\n* Windows 版存放<b>路径中不能包含中文</b>目录，否则将会无法使用！</string>
     <string name="connect">连接</string>
     <string name="connectDesktop">连接纯纯写作桌面版</string>
     <string name="connectionIsStopping">连接仍然在断开中，请稍后重试！</string>
     <string name="disconnectDesktop">断开与桌面版的连接</string>
     <string name="linksCard" translatable="false">纯纯写作 - 愿文字带我们穿越时光，连接过去，遥想未来\nhttps://writer.drakeet.com</string>
     <string name="createShortcutLabel">创建快捷输入项</string>
+    <string name="cursorPositionForNewArticle">新文章的光标位置</string>
+    <string name="stop_waiting_connection">停止等待连接</string>
+    <string name="undoValidTip">当前聚焦的输入栏已无法再进一步「撤销」了，您可以尝试从右上角的「历史记录」菜单中恢复您的内容。</string>
+    <string name="desktopDisconnected">已断开连接桌面版</string>
+    <string name="desktopConnected">已成功连接桌面版</string>
+    <string name="double11Title">11·11 限时半价活动</string>
+    <string name="double11Message">在 11 月 10 日至 11 月 12 日期间购买纯纯写作高级版，<b>只需半价即可</b>。非常感谢支持！</string>
+    <string name="toDoCloudBackupButton">去设置云备份（云备份非常简单，一劳永逸，万无一失）</string>
+    <string name="ignoreCloudBackupCheckBox">我不想设置云备份，不要再提示我。我甘愿承受没有云备份带来的一切后果，包括因没有云备份而在手机坏掉或丢失或刷机时失去我所有的宝贵文章！</string>
+    <string name="addChapterAboveThis">在此之上插入新篇章</string>
+    <string name="addChapterBelowThis">在此之下插入新篇章</string>
+    <string name="selectMore">选择更多</string>
+    <string name="moveToOtherBook">移动到其他书</string>
 </resources>

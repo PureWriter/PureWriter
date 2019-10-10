@@ -269,12 +269,12 @@
     <string name="markdownShortcutTip">You\'ve just inserted a Markdown, which will only take effect in Markdown Preview mode. Do you want to activate Markdown mode?</string>
     <string name="importedFileTooLargeToOpen">Imported file is too large, file opening failed</string>
     <string name="failed">Failed</string>
-    <string name="insertCategoryAboveShort">Insert category <b>above</b></string>
-    <string name="insertCategoryBelowShort">Insert category <b>below</b></string>
-    <string name="insertCategoryBottomShort">Insert category to <b>bottom</b></string>
-    <string name="insertCategoryAboveLong">Insert category <b>above</b> the current article</string>
-    <string name="insertCategoryBelowLong">Insert category <b>below</b> the current article</string>
-    <string name="insertCategoryBottomLong">Insert a new category to the <b>bottom</b> of the chapter list</string>
+    <string name="insertCategoryAboveShort">Insert Category <b>above</b></string>
+    <string name="insertCategoryBelowShort">Insert Category <b>below</b></string>
+    <string name="insertCategoryBottomShort">Insert Category to <b>bottom</b></string>
+    <string name="insertCategoryAboveLong">Insert Category <b>above</b> the current article</string>
+    <string name="insertCategoryBelowLong">Insert Category <b>below</b> the current article</string>
+    <string name="insertCategoryBottomLong">Insert a new Category to the <b>bottom</b> of the chapter list</string>
     <string name="insertCategory">Insert Category</string>
     <string name="editCategory">Edit Category</string>
     <string name="category">Category</string>
@@ -333,7 +333,7 @@
     <string name="forcedOffBadge" translatable="false">关于云备份提醒小红点</string>
     <string name="badgeReadme" translatable="false">您可以在纯纯写作编辑器页面看到对于云备份的小红点，该小红点若是显示则表示<b>您没有配置云备份或者云备份无法连通</b>，如果您已设置云备份且可连通，则它会自动消失。\n\n之所以我们不得不这么做的原因是，很多用户自信地认为自己不需要云备份，但有一天手机丢了、突然坏了，又或者因为刷机、意外双清了，没有云备份只能后悔莫及。作为纯纯写作的开发者兼客服，我已经见过太多这样令人难过的事情了，很多用户甚至来信怪我为什么不强制让用户进行云备份，我非常理解因为辛苦写作的文章未能备份到云盘而皆数丢失的难过，所以也希望大家能够理解，谢谢！</string>
     <string name="aboutBackup">About backup</string>
-    <string name="backupReadme">Pure Writer supports local and cloud backups. Local backups are done by default and are automatic. When you reinstall Pure Writer, you can go to Pure Writer - Settings - Backup - Restore Backup to restore your local backup.\n\nHowever, Pure Writer does not automatically perform cloud backup by default. To enable automatic cloud backup, backup all your articles and configurations to your cloud storage. You need to set the cloud backup storage and cloud backup account at the top of the backup settings page.\n\nPure Writer cloud backup supports Dropbox and WebDAV.\n\n<b>Cloud backup is very important, if you do not set up cloud backup, and if the phone is lost, broken, brushed, and factory reset, it will lead to the loss of all your valuable creative content! Be sure to set up a cloud backup.</b></string>
+    <string name="backupReadme">Pure Writer supports local and cloud backup. Local backup is automatic. When you reinstall Pure Writer, <b>you can restore all your articles by Backup</b>.\n\nHowever, Pure Writer <b>does not automatically do Cloud Backups by default</b>. To enable Cloud Backup, <b>you need to set up a cloud backup account</b> on the Pure Writer - Settings - Backups page.\n\nPure Writer Cloud Backup currently supports Dropbox and WebDAV cloud storage.\n\n<b>Cloud Backup is very very important. If you don\'t set up a cloud backup account, you will lose all your valuable content if this device is lost, broken, or restored to factory settings! Be sure to set up a cloud backup account!</b></string>
     <string name="tipParagraphSpacingInMD">Paragraph spacing will not be enabled in Markdown mode</string>
     <string name="lineSpacing">Line Spacing</string>
     <string name="paragraphSpacing">Paragraph Spacing</string>
@@ -386,7 +386,21 @@
     <string name="disconnectDesktop">Disconnect Desktop</string>
     <string name="connect">Connect</string>
     <string name="tipNotSupportThisDesktopVersion">The current mobile and desktop versions do not match and cannot be connected. Please update both to the latest version and try again.</string>
-    <string name="tipDesktopDialog">You need to download <b><i>Pure Writer Desktop</i></b> from https://github.com/PureWriter/desktop/releases\n\nWhen your mobile and computer are on <b>the same Wi-Fi network or hotspot</b>, open the desktop and enter the IP address in the input field below to connect to Pure Writer Desktop, then you can sync and edit the current article in real time and in both directions.\n\nNote: The current Pure Writer Desktop is still in its alpha / beta stage. Please understand and wait for its subsequent updates.\nAt present, you need to make sure that the IP address you entered is correct. Otherwise, you will not be able to connect successfully and there will be no obvious prompts. If you find that the connection is not successful, please disconnect and re-enter the correct IP address.</string>
+    <string name="desktopDialogGuide">You need to download <b><i>Pure Writer Desktop 0.1.4 (or above)</i></b> from https://writer.drakeet.com/desktop_en \n\nWhen your mobile and computer are on <b>the same Wi-Fi network or hotspot👈👈👈</b>, open Desktop and enter the IP address below <b>into the input field of Desktop</b> to connect to Pure Writer, then you can sync and edit the current article in real time.</string>
+    <string name="desktopDialogNote">Note: Pure Writer Desktop is still in its alpha stage. Please understand and wait for its subsequent updates.\n* If you see <b>multiple lines of IP addresses</b>, try connecting them one by one.\n* Non-English characters <b>cannot</b> be included in the path where the <i>Windows</i> version is stored!</string>
     <string name="connectionIsStopping">The connection is stopping, try again later!</string>
     <string name="createShortcutLabel">Text Shortcut</string>
+    <string name="cursorPositionForNewArticle">Cursor position for new article</string>
+    <string name="stop_waiting_connection">Stop waiting for connections</string>
+    <string name="undoValidTip">The currently focused input area can no longer be undo again, you can try to recover your content from the History menu in the top right corner.</string>
+    <string name="desktopDisconnected">Desktop is disconnected</string>
+    <string name="desktopConnected">Desktop is connected</string>
+    <string name="double11Title">11·11 Half price (50% off)</string>
+    <string name="double11Message">From November 10 to November 12, purchasing the Pro of Pure Writer can be done at <b>half price</b>. Thank you very much for your support!</string>
+    <string name="toDoCloudBackupButton">Go to set up a cloud backup account</string>
+    <string name="ignoreCloudBackupCheckBox">I don\'t want to set up a cloud backup, don\'t remind me. I am willing to bear all the consequences of not having a cloud backup, including losing all my valuable articles when the phone is broken or lost or reset because there is no cloud backup!</string>
+    <string name="selectMore">Select more</string>
+    <string name="addChapterBelowThis">Add Chapter below</string>
+    <string name="addChapterAboveThis">Add Chapter above</string>
+    <string name="moveToOtherBook">Move to another Book</string>
 </resources>

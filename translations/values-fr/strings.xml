@@ -306,7 +306,7 @@
     <string name="scrollToHideTopBar">Scroller pour cacher la barre du haut</string>
     <string name="doNotOperate">Ne partez pas de l\'article et ne le modifiez pas pendant le processus!</string>
     <string name="aboutBackup">A propos des sauvegardes</string>
-    <string name="backupReadme">Pure Writer prend en charge les sauvegardes locales et dans le cloud. Les sauvegardes locales sont effectuées par défaut et sont automatiques. Lorsque vous réinstallez Pure Writer, vous pouvez aller dans Pure Writer - Paramètres - Sauvegarde - Restaurer la sauvegarde pour restaurer votre sauvegarde locale. \n\nToutefois, Pure Writer n\'effectue pas automatiquement la sauvegarde dans le cloud par défaut. Pour activer la sauvegarde automatique dans le cloud, sauvegardez tous vos articles et toutes vos configurations de votre stockage dans le cloud. Vous devez définir le stockage de sauvegarde et le compte de sauvegarde du cloud en haut de la page des paramètres de sauvegarde. \n\nLa sauvegarde dans le cloud Pure Writer prend en charge Dropbox et WebDAV.\n\n<b>La sauvegarde dans le cloud est très importante: si vous ne configurez pas cette sauvegarde, et si le téléphone est perdu, cassé, réinitialisé ou autre, cela entraînera la perte de tout votre précieux contenu créatif. Veillez à mettre en place une sauvegarde dans le cloud.</b></string>
+    <string name="backupReadme">Pure Writer prend en charge les sauvegardes locales et sur le cloud. La sauvegarde locale est automatique. Lorsque vous réinstallez Pure Writer, vous pouvez restaurer tous vos articles par une sauvegarde.\n\nCependant, Pure Writer ne fait pas automatiquement les sauvegardes dans le nuage par défaut. Pour activer la sauvegarde sur le cloud, vous devez configurer un compte de sauvegarde sur le cloud sur la page Pure Writer - Paramètres - Sauvegardes.\n\nLa sauvegarde en nuage Pure Writer prend actuellement en charge le stockage en nuage Dropbox et WebDAV.\n\n<b>La sauvegarde sur le cloud est très importante. Si vous ne configurez pas de compte de sauvegarde sur le cloud, vous perdrez tout votre contenu précieux si cet appareil est perdu, cassé ou restauré aux paramètres d\'usine! Assurez-vous de configurer un compte de sauvegarde sur le cloud! </b></string>
     <string name="tipParagraphSpacingInMD">Espacement Paragraphe ne sera pas activé en mode Markdow</string>
     <string name="lineSpacing">Espacement Lignes</string>
     <string name="paragraphSpacing">Espacement Paragraphes</string>
@@ -357,4 +357,14 @@
     <string name="textColorAlpha">Transparence des couleurs du texte</string>
     <string name="tipNotSupportThisDesktopVersion">Les versions actuelles de mobile et de bureau ne correspondent pas et ne peuvent pas être connectées. Veuillez mettre à jour la version la plus récente et réessayer.</string>
     <string name="createShortcutLabel">Raccourci texte</string>
+    <string name="cursorPositionForNewArticle">Position du curseur pour le nouvel article</string>
+    <string name="undoValidTip">La zone de saisie actuellement sélectionnée ne peut plus être annulée. Vous pouvez essayer de récupérer votre contenu à partir du menu Historique situé dans le coin supérieur droit.</string>
+    <string name="double11Title">11·11 Demi prix (50% de réduction)</string>
+    <string name="double11Message">Du 10 au 12 novembre, l\'achat du logiciel Pro of Pure Writer est possible à moitié prix. Merci beaucoup pour votre soutient!</string>
+    <string name="toDoCloudBackupButton">Aller à configurer un compte de sauvegarde sur le cloud</string>
+    <string name="ignoreCloudBackupCheckBox">Je ne veux pas mettre en place une sauvegarde sur le cloud, ne me le rappelez pas. Je suis prêt à supporter toutes les conséquences de ne pas avoir de sauvegarde dans le nuage, y compris la perte de tous mes objets de valeur lorsque le téléphone est cassé, perdu ou réinitialisé, car il n\'y a pas de sauvegarde dans le nuage!</string>
+    <string name="addChapterAboveThis">Ajouter un chapitre ci-dessus</string>
+    <string name="addChapterBelowThis">Ajouter un chapitre ci-dessous</string>
+    <string name="selectMore">Sélectionnez plus</string>
+    <string name="moveToOtherBook">Déplacer vers un autre livre</string>
 </resources>

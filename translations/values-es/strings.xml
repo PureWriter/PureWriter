@@ -302,7 +302,7 @@
     <string name="scrollToHideTopBar">Desplácese para ocultar la barra superior</string>
     <string name="doNotOperate">¡No cambies o modifiques archivos en el proceso!</string>
     <string name="aboutBackup">Acerca de la Copia de Seguridad</string>
-    <string name="backupReadme">Pure Writer admite Copias de Seguridad locales y en la nube. Las Copias de Seguridad locales se realizan de manera predeterminada y son automáticos. Cuando reinstale Pure Writer, puede ir a la Configuración - Copia de Seguridad - Restaurar la Copia de Seguridad para recuperar tu Copia local.\n\nSin embargo, Pure Writer no realiza automáticamente una Copia de Seguridad en la nube de forma predeterminada. Para habilitar la Copia de seguriad automática en la nube, Copia todos tus artículos y configuraciones en tu almacenamiento de la nube.\n\nPure Writer puede Copiar en la nube usando WebDAV o Dropbox.\n\n<b>La Copia en la nube es muy importante, si no la configuras y tu dispositivo móvil se pierde, se rompe, se restablece de fábrica o algo perjudicial, ¡se perderá todo tu valioso contenido creativo! Asegúrate de configurar una Copia de Seguridad en la nube.</b></string>
+    <string name="backupReadme">Pure Writer admite copias de seguridad locales y en la nube. La copia de seguridad local es automática. Cuando reinstala Pure Writer, puede restaurar todos sus artículos mediante una copia de seguridad.\n\nSin embargo, Pure Writer no realiza automáticamente copias de seguridad en la nube de forma predeterminada. Para habilitar la copia de seguridad en la nube, debe configurar una cuenta de copia de seguridad en la nube en la página Pure Writer - Configuración - Copias de seguridad.\n\nLa copia de seguridad en la nube Pure Writer actualmente es compatible con el almacenamiento en la nube de Dropbox y WebDAV.\n\n<b>La copia de seguridad en la nube es muy, muy importante. ¡Si no configura una cuenta de respaldo en la nube, perderá todo su valioso contenido si este dispositivo se pierde, se rompe o se restaura a la configuración de fábrica! ¡Asegúrese de configurar una cuenta de respaldo en la nube!</b></string>
     <string name="tipParagraphSpacingInMD">El espaciado entre párrafos no se habilitará en el modo Markdown</string>
     <string name="lineSpacing">Espaciado entre líneas</string>
     <string name="paragraphSpacing">Espaciado de párrafo</string>
@@ -353,4 +353,14 @@
     <string name="textColorAlpha">Transparencia de color del texto</string>
     <string name="tipNotSupportThisDesktopVersion">Las versiones móviles y de escritorio actuales no coinciden y no se pueden conectar. Actualice ambos a la última versión e intente nuevamente.</string>
     <string name="createShortcutLabel">Atajo de texto</string>
+    <string name="cursorPositionForNewArticle">Posición del cursor para un nuevo artículo</string>
+    <string name="undoValidTip">El área de entrada actualmente enfocada ya no se puede deshacer nuevamente, puede intentar recuperar su contenido desde el menú Historial en la esquina superior derecha.</string>
+    <string name="double11Title">11·11 Mitad de precio (50% de descuento)</string>
+    <string name="double11Message">Del 10 al 12 de noviembre, la compra de PureWriter Pro se puede hacer a mitad de precio. ¡Muchas gracias por tu apoyo!</string>
+    <string name="toDoCloudBackupButton">Ir a configurar una cuenta de respaldo en la nube</string>
+    <string name="ignoreCloudBackupCheckBox">No quiero configurar una copia de seguridad en la nube, no me lo recuerdes. Estoy dispuesto a soportar todas las consecuencias de no tener una copia de seguridad en la nube, incluida la pérdida de todos mis artículos valiosos cuando el teléfono se rompe, se pierde o se reinicia porque no hay copia de seguridad en la nube.</string>
+    <string name="addChapterAboveThis">Agregar capítulo arriba</string>
+    <string name="addChapterBelowThis">Agregar capítulo a continuación</string>
+    <string name="selectMore">Seleccione mas</string>
+    <string name="moveToOtherBook">Moverse a otro libro</string>
 </resources>

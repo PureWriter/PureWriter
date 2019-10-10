@@ -296,7 +296,7 @@
     <string name="scrollToHideTopBar">Scrol om de bovenste balk te verbergen</string>
     <string name="doNotOperate">Wissel of wijzig geen artikelen in het proces!</string>
     <string name="aboutBackup">Over back-up</string>
-    <string name="backupReadme">Pure Writer ondersteunt lokale en cloud-back-ups. Lokale back-ups worden standaard uitgevoerd en zijn automatisch. Wanneer u Pure Writer opnieuw installeert, gaat u naar Pure Writer - Instellingen - Back-up - Back-up terugzetten om uw lokale back-up te herstellen.\n\nPure Writer voert echter standaard niet automatisch een cloudback-up uit. Als u automatische cloudback-up wilt inschakelen, maakt u een back-up van al uw artikelen en configuraties in uw cloudopslag. U moet de cloud-back-upopslag en cloud-back-upaccount instellen bovenaan de pagina met back-upinstellingen.\n\nPure Writer cloudback-up ondersteunt Dropbox en WebDAV.\n\n<b>Cloudback-up is erg belangrijk, als u geen back-up van de cloud instelt en als de telefoon verloren gaat, defect raakt, geborsteld en teruggezet wordt naar de fabrieksinstellingen, zal dit leiden tot het verlies van al uw waardevolle creatieve inhoud! Zorg dat u een cloudback-up instelt. </b></string>
+    <string name="backupReadme">Pure Writer ondersteunt lokale en cloudback-up. Lokale back-up is automatisch. Wanneer u Pure Writer opnieuw installeert, kunt u al uw artikelen herstellen via Backup.\n\nPure Writer voert echter standaard niet automatisch Cloud Backups uit. Om Cloud Backup in te schakelen, moet u een cloudback-upaccount instellen op de pagina Pure Writer - Instellingen - Backups.\n\nPure Writer Cloud Backup ondersteunt momenteel Dropbox- en WebDAV-cloudopslag.\n\n<b>Cloud Backup is heel erg belangrijk. Als u geen cloudback-upaccount instelt, verliest u al uw waardevolle inhoud als dit apparaat is verloren, kapot of hersteld naar de fabrieksinstellingen! Zorg ervoor dat u een cloudback-upaccount instelt!</b></string>
     <string name="lineSpacing">Regelafstand</string>
     <string name="tipParagraphSpacingInMD">Alinea-afstand wordt niet ingeschakeld in markdown-modus</string>
     <string name="defaultX">Standaard</string>
@@ -349,4 +349,14 @@
     <string name="textColorAlpha">Tekstkleur transparantie</string>
     <string name="tipNotSupportThisDesktopVersion">De huidige mobiele en desktopversies komen niet overeen en kunnen niet worden verbonden. Werk beide bij naar de nieuwste versie en probeer het opnieuw.</string>
     <string name="createShortcutLabel">Tekst snelkoppeling</string>
+    <string name="cursorPositionForNewArticle">Cursorpositie voor nieuw artikel</string>
+    <string name="undoValidTip">Het huidige gerichte invoergebied kan niet meer ongedaan worden gemaakt, u kunt proberen uw inhoud te herstellen via het menu Geschiedenis in de rechterbovenhoek.</string>
+    <string name="double11Title">11·11 Halve prijs (50% korting)</string>
+    <string name="double11Message">Van 10 november tot 12 november kan de aanschaf van de Pro van Pure Writer worden gedaan voor de halve prijs. Heel erg bedankt voor je steun!</string>
+    <string name="toDoCloudBackupButton">Ga naar een cloudback-upaccount instellen</string>
+    <string name="ignoreCloudBackupCheckBox">Ik wil geen cloudback-up instellen, herinner me er niet aan. Ik ben bereid alle consequenties van het niet hebben van een cloudback-up te dragen, inclusief het verliezen van al mijn waardevolle artikelen als de telefoon kapot of verloren is of opnieuw ingesteld omdat er geen cloudback-up is!</string>
+    <string name="addChapterAboveThis">Voeg hoofdstuk hierboven toe</string>
+    <string name="addChapterBelowThis">Voeg hoofdstuk hieronder toe</string>
+    <string name="selectMore">Selecteer meer</string>
+    <string name="moveToOtherBook">Ga naar een ander boek</string>
 </resources>

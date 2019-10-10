@@ -303,7 +303,7 @@
     <string name="scrollToHideTopBar">Gulir untuk menyembunyikan bilah atas</string>
     <string name="doNotOperate">Jangan beralih atau memodifikasi artikel dalam proses!</string>
     <string name="aboutBackup">Tentang cadangan</string>
-    <string name="backupReadme">Pure Writer mendukung backup lokal dan cloud. Pencadangan lokal dilakukan secara default dan otomatis. Ketika Anda menginstal Pure Writer, Anda dapat pergi ke Pure Writer - Pengaturan - Cadangan - Kembalikan Cadangan untuk memulihkan cadangan lokal Anda.\n\nNamun, Pure Writer tidak secara otomatis melakukan backup cloud secara default. Untuk mengaktifkan pencadangan cloud otomatis, buat cadangan semua artikel dan konfigurasi Anda ke penyimpanan cloud Anda. Anda perlu mengatur penyimpanan cadangan cloud dan akun cadangan cloud di bagian atas halaman pengaturan cadangan.\n\nCadangan cloud Pure Writer mendukung Dropbox dan WebDAV.\n\n<b> Cadangan cloud sangat penting, jika Anda tidak mengatur cadangan cloud, dan jika ponsel hilang, rusak, disikat, dan reset pabrik, itu akan menyebabkan hilangnya semua konten kreatif Anda yang berharga! Pastikan untuk menyiapkan cadangan cloud. </b></string>
+    <string name="backupReadme">Pure Writer mendukung cadangan lokal dan cloud. Cadangan lokal otomatis. Saat Anda menginstal ulang Pure Writer, Anda dapat memulihkan semua artikel Anda dengan cadangan.\n\nNamun, Pure Writer tidak secara otomatis melakukan backup cloud secara default. Untuk mengaktifkan pencadangan cloud, Anda perlu mengatur akun pencadangan cloud pada halaman Pure Writer - Settings - Backups.\n\nCadangan cloud Pure Writer saat ini mendukung penyimpanan cloud Dropbox dan WebDAV.\n\n<b>Cadangan cloud sangat penting. Jika Anda tidak mengatur akun cadangan cloud, Anda akan kehilangan semua konten berharga Anda jika perangkat ini hilang, rusak, atau dikembalikan ke pengaturan pabrik! Pastikan untuk menyiapkan akun cadangan cloud!</b></string>
     <string name="tipParagraphSpacingInMD">Penempatan paragraf tidak akan diaktifkan dalam mode Penurunan harga</string>
     <string name="lineSpacing">Penspasian Baris</string>
     <string name="paragraphSpacing">Penempatan Paragraf</string>
@@ -354,4 +354,14 @@
     <string name="textColorAlpha">Transparansi warna teks</string>
     <string name="tipNotSupportThisDesktopVersion">Versi seluler dan desktop saat ini tidak cocok dan tidak dapat dihubungkan. Harap perbarui keduanya ke versi terbaru dan coba lagi.</string>
     <string name="createShortcutLabel">Pintasan teks</string>
+    <string name="cursorPositionForNewArticle">Posisi kursor untuk artikel baru</string>
+    <string name="undoValidTip">Area input yang saat ini difokuskan tidak dapat dibatalkan lagi, Anda dapat mencoba memulihkan konten Anda dari menu History di sudut kanan atas.</string>
+    <string name="double11Title">11·11 Harga setengah (diskon 50%)</string>
+    <string name="double11Message">Dari 10 November hingga 12 November, pembelian PureWriter Pro dapat dilakukan dengan setengah harga. Terimakasih atas dukunganmu!</string>
+    <string name="toDoCloudBackupButton">Pergi untuk mengatur akun cadangan cloud</string>
+    <string name="ignoreCloudBackupCheckBox">Saya tidak ingin mengatur cadangan cloud, jangan ingatkan saya. Saya bersedia menanggung semua konsekuensi dari tidak memiliki cadangan cloud, termasuk kehilangan semua artikel berharga saya ketika telepon rusak atau hilang atau diatur ulang karena tidak ada cadangan cloud!</string>
+    <string name="addChapterAboveThis">Tambahkan bab di atas</string>
+    <string name="addChapterBelowThis">Tambahkan bab di bawah ini</string>
+    <string name="selectMore">Pilih lebih banyak</string>
+    <string name="moveToOtherBook">Pindah ke buku lain</string>
 </resources>

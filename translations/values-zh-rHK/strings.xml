@@ -145,7 +145,7 @@
     <string name="gfmBreaksEnabled">支援以一個換行符換行</string>
     <string name="gfmBreaksDisabled">需要兩個換行才能真正在繪製時換行</string>
     <string name="wordCountOfThisBook">本書字數</string>
-    <string name="wordCountOfThisBookDescription">目前書籍所有章節字數</string>
+    <string name="wordCountOfThisBookDescription">目前書籍所有篇章字數</string>
     <string name="timeMachineGuide">這是甚麼？ 你可以理解成一個聊天視窗，也可以理解成一個臨時記錄內容的地方，或類似Google助手。實際上，它有一個專門的名字，叫「時光機」。 很高興見到你！</string>
     <string name="copyDate">複製日期</string>
     <string name="books">書籍</string>
@@ -232,7 +232,7 @@
     <string name="paragraphSpacing">段間距</string>
     <string name="summaryExporting">僅在開啟段間距時有效</string>
     <string name="lowProfile">狀態欄專注模式</string>
-    <string name="chapters">章節</string>
+    <string name="chapters">篇章</string>
     <string name="sortTypeTitleUp">標題升序</string>
     <string name="sortTypeTitleDown">標題降序</string>
     <string name="sortByRank">手動排序順序</string>
@@ -240,12 +240,12 @@
     <string name="markdownShortcutTip">您剛輸入了一個 Markdown 標記，它只在 Markdown 模式且進入預覽時才會有效。請問需幫您啟用 Markdown 模式嗎？</string>
     <string name="importedFileTooLargeToOpen">您的文件太大，無法打開</string>
     <string name="failed">失敗</string>
-    <string name="insertCategoryAboveShort">在目前之<b>上</b>插入卷</string>
-    <string name="insertCategoryBelowShort">在目前之<b>下</b>插入卷</string>
-    <string name="insertCategoryAboveLong">在目前文章之<b>上</b>插入一卷條目</string>
-    <string name="insertCategoryBelowLong">在目前文章之<b>下</b>插入一卷條目</string>
+    <string name="insertCategoryAboveShort">在此之<b>上</b>插入卷</string>
+    <string name="insertCategoryBelowShort">在此之<b>下</b>插入卷</string>
+    <string name="insertCategoryAboveLong">在目前文章之<b>上</b>插入卷條目</string>
+    <string name="insertCategoryBelowLong">在目前文章之<b>下</b>插入卷條目</string>
     <string name="insertCategoryBottomShort">在<b>底部</b>插入卷</string>
-    <string name="insertCategoryBottomLong">在章節列表的<b>底部</b>插入新卷</string>
+    <string name="insertCategoryBottomLong">在篇章列表的<b>底部</b>插入新卷</string>
     <string name="insertCategory">插入卷</string>
     <string name="editCategory">編輯卷</string>
     <string name="category">卷</string>
@@ -279,11 +279,11 @@
     <string name="lowFreeStorageSpaceWarning">您的手機剩餘存儲空間已經只有 %d MB, 這可能導致純純寫作儲存或備份失敗，請務必清理留出 100 MB 以上空間後再使用純純寫作！</string>
     <string name="pureWriterBBS">純純寫作論壇</string>
     <string name="replaceConfirmMessage">你確定要取代 %d 處內容嗎？</string>
-    <string name="tipUndoReplace">如果取代後反悔：\n* 你可以進入純純寫作 - 設定 - 備份 - 復原備份，點擊上一個備份復原到取代之前的內容。\n* 如果你僅僅是取代了目前章節，則可以透過右上角選單進入歷史記錄頁面，復原到取代之前的內容。</string>
+    <string name="tipUndoReplace">如果取代後反悔：\n* 你可以進入純純寫作 - 設定 - 備份 - 復原備份，點擊上一個備份復原到取代之前的內容。\n* 如果你僅僅是取代了目前篇章，則可以透過右上角選單進入歷史記錄頁面，復原到取代之前的內容。</string>
     <string name="findReplace">尋找 &amp; 取代</string>
     <string name="replace">取代</string>
     <string name="find">尋找</string>
-    <string name="currentChapter">目前章節</string>
+    <string name="currentChapter">目前篇章</string>
     <string name="currentBook">目前書</string>
     <string name="ignoreCase">忽略大小寫</string>
     <string name="selectAll">全選</string>
@@ -301,7 +301,7 @@
     <string name="scrollToHideTopBar">滾動以隱藏頂欄</string>
     <string name="doNotOperate">請不要在此過程中切換或修改文章！</string>
     <string name="aboutBackup">《使用者須知：關於備份》</string>
-    <string name="backupReadme">純純寫作支援本機備份和雲備份，本機備份是預設就會進行且自動的，當你重裝純純寫作後，可進入 純純寫作 - 設定 - 備份 - 復原備份 來復原你本機備份。\n\n但是，純純寫作<b>預設不會自動進行雲備份</b>，若要啟用自動雲備份，將你的所有文章及設定項備份到雲盤，你需要設定雲備份空間和雲備份賬號，在 純純寫作 - 設定 - 備份 頁面頂部可選擇雲備份類型和設定<b>雲備份賬號</b>。\n\n純純寫作雲備份支援 WebDAV / 堅果雲網盤和 Dropbox 網盤。\n\n<b>雲備份非常重要，如果你不設定雲備份，則萬一手機丟了、壞了、刷機雙清、復原出廠設定，都將導致失去你的所有寶貴的創作內容！請務必設定雲備份，萬無一失。</b></string>
+    <string name="backupReadme">純純寫作支持本地備份和雲備份，本地備份是自動進行的，當您重裝純純寫作後，<b>可通過備份來恢復所有文章和啟動狀態</b>。\n\n但是，純純寫作<b>默認不會自動進行雲備份</b>，若要啟用自動雲備份，<b>您需要設置雲備份賬號</b>，在 純純寫作 - 設置 - 備份 頁面可選擇雲備份類型和設置<b>雲備份賬號</b>。\n\n純純寫作雲備份支持 WebDAV / 堅果雲網盤和 Dropbox 網盤。\n\n<b>雲備份非常重要，若您不設置雲備份，則萬一手機丟了、壞了、刷機雙清、恢復出廠設置，都將失去您所有寶貴的創作內容！請務必設置雲備份，萬無一失。</b></string>
     <string name="lineSpacing">行間距</string>
     <string name="tipParagraphSpacingInMD">Markdown 模式下不會啟用段落間距</string>
     <string name="defaultX">預設</string>
@@ -323,7 +323,7 @@
     <string name="needToManuallyRestartToTakeEffect">需要手動重啟以生效</string>
     <string name="spellChecker">拼寫檢查</string>
     <string name="thisShortcutCannotBeEdited">這個快捷輸入項無法被編輯</string>
-    <string name="createNewChapter">建立新章節</string>
+    <string name="createNewChapter">建立新篇章</string>
     <string name="currentText">目前正文</string>
     <string name="hideSoftKeyboard">收起軟鍵盤</string>
     <string name="transparentTopBar">透明頂欄</string>
@@ -351,7 +351,8 @@
     <string name="collapseAllCategories">收起所有卷</string>
     <string name="showMore">顯示更多</string>
     <string name="textColorAlpha">字體顏色透明度</string>
-    <string name="tipDesktopDialog">您需要從\nhttps://github.com/PureWriter/desktop/releases\n下載<b><i>純純寫作桌面版</i></b>。\n\n當手機與電腦<b>處於同一個 Wi-Fi 網絡或熱點</b>時，打開桌面版後將其中的 IP 地址輸入於下方輸入欄中，即可與桌面版實時連接，雙向同步編輯當前文章。\n\n注意：當前純純寫作桌面版還處於非常初級階段，許多功能未完善，請您理解和靜待其後續更新。\n目前，您需自行請確保輸入的 IP 地址無誤，否則將無法連接成功且不會有明顯提示，若您發覺未連接成功，請自行斷開連接，重新輸入正確 IP 地址。</string>
+    <string name="desktopDialogGuide">您需要從\nhttps://writer.drakeet.com/desktop_zh \n下載<b><i>純純寫作桌面版 0.1.4 或以上版本</i></b>。\n\n當手機與電腦<b>處於同一個 Wi-Fi 網絡或熱點</b>時👈👈👈，打開桌面版後將以下的 IP 地址<b>輸入於桌面版中的輸入欄中</b>，即可與桌面版實時連接，雙向同步編輯當前文章。</string>
+    <string name="desktopDialogNote">注意：當前純純寫作桌面版還處於非常初級階段，許多功能未完善，請您理解和靜待其後續更新。\n* 若您看到<b>多行 IP 地址</b>，請逐一嘗試連接它們。\n* Windows 版存放<b>路徑中不能包含中文</b>目錄，否則將會無法使用！</string>
     <string name="tipNotSupportThisDesktopVersion">當前手機端和桌面端版本不匹配，無法連接，請各自更新到最新版後重試</string>
     <string name="connect">連接</string>
     <string name="connectDesktop">連接純純寫作桌面版</string>
@@ -359,4 +360,17 @@
     <string name="disconnectDesktop">斷開與桌面版的連接</string>
     <string name="linksCard" translatable="false">純純寫作 - 願文字帶我們穿越時光，連接過去，遙想未來\nhttps://writer.drakeet.com</string>
     <string name="createShortcutLabel">創建快捷輸入項</string>
+    <string name="cursorPositionForNewArticle">新文章的光標位置</string>
+    <string name="stop_waiting_connection">停止等待連接</string>
+    <string name="undoValidTip">當前聚焦的輸入欄已無法再進一步「撤銷」了，您可以嘗試從右上角的「歷史記錄」菜單中恢復您的內容。</string>
+    <string name="desktopConnected">已成功連接桌面版</string>
+    <string name="desktopDisconnected">已斷開連接桌面版</string>
+    <string name="double11Title">11·11 限時半價活動</string>
+    <string name="double11Message">在 11 月 10 日至 11 月 12 日期間購買純純寫作高級版，<b>只要半價即可</b>。非常感謝支持！</string>
+    <string name="toDoCloudBackupButton">去設置雲備份（雲備份非常簡單，一勞永逸，萬無一失）</string>
+    <string name="ignoreCloudBackupCheckBox">我不想設置雲備份，不要再提示我。我甘願承受沒有雲備份帶來的一切後果，包括因沒有雲備份而在手機壞掉或丟失或刷機時失去我所有的寶貴文章！</string>
+    <string name="addChapterAboveThis">在此之上插入新篇章</string>
+    <string name="addChapterBelowThis">在此之下插入新篇章</string>
+    <string name="selectMore">選擇更多</string>
+    <string name="moveToOtherBook">移動到其他書</string>
 </resources>

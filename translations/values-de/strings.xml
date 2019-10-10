@@ -148,7 +148,7 @@
     <string name="name">Name</string>
     <string name="optionalDescription">Beschreibung (optional)</string>
     <string name="createBookForDialogButton">Buch erstellen</string>
-    <string name="backupReadme">Pure Writer unterstützt lokale und Cloud-Sicherungen. Lokale Sicherungen werden standardmäßig durchgeführt und erfolgen automatisch. Wenn Sie Pure Writer erneut installieren, können Sie zu Pure Writer - Einstellungen - Sicherung - Sicherung wiederherstellen gehen, um die lokale Sicherung wiederherzustellen.\n\nPure Writer führt jedoch standardmäßig keine Cloud-Sicherung automatisch durch. Um die automatische Cloud-Sicherung zu aktivieren, sichern Sie alle Ihre Artikel und Konfigurationen in Ihrem Cloud-Speicher. Sie müssen das Cloud-Backup-Speicher- und Cloud-Backup-Konto oben auf der Seite mit den Backup-Einstellungen festlegen.\n\nDas Cloud-Backup von Pure Writer unterstützt Dropbox und WebDAV.\n\n<b>Cloud-Backup ist sehr wichtig. Wenn Sie kein Cloud-Backup einrichten, und wenn das Telefon verloren geht, kaputt ist, gelöscht wird und das Gerät auf Werkseinstellungen zurückgesetzt wird, gehen alle Ihre wertvollen kreativen Inhalte verloren! Richten Sie unbedingt ein Cloud-Backup ein. </b></string>
+    <string name="backupReadme">Pure Writer unterstützt lokale und Cloud-Backups. Die lokale Sicherung erfolgt automatisch. Wenn Sie Pure Writer neu installieren, können Sie alle Ihre Artikel durch ein Backup wiederherstellen.\n\nPure Writer führt jedoch standardmäßig keine automatischen Cloud-Sicherungen durch. Um die Cloud-Sicherung zu aktivieren, müssen Sie auf der Seite Pure Writer - Einstellungen - Sicherungen ein Cloud-Sicherungskonto einrichten.\n\nPure Writer Cloud Backup unterstützt derzeit Dropbox- und WebDAV-Cloud-Speicher.\n\n<b>Cloud-Backup ist sehr, sehr wichtig. Wenn Sie kein Cloud-Backup-Konto einrichten, verlieren Sie alle Ihre wertvollen Inhalte, wenn dieses Gerät verloren geht, kaputt geht oder auf die Werkseinstellungen zurückgesetzt wird! Richten Sie unbedingt ein Cloud-Sicherungskonto ein! </b></string>
     <string name="tipRichText">Pure Writer zielt darauf ab, Benutzern eine minimalistische Schreibumgebung zu bieten. Daher ist nicht beabsichtigt, die Rich Text-Funktion in zukünftige Entwicklungen einzubeziehen. Möglicherweise haben Sie in der Vorschau einen <b>fetten Text</b> bemerkt, dies ist jedoch eine versteckte Funktion. Fettdruck kann nicht in TXT-Dateien angezeigt werden. Es tut uns leid! Wenn Sie bessere Vorschläge haben, wenden Sie sich an mich. Danke für deine Unterstützung!</string>
     <string name="openSourceLicenses">Open Source Lizenzen</string>
     <string name="cannotDelete">Kann nicht gelöscht werden</string>
@@ -344,4 +344,14 @@
     <string name="textColorAlpha">Transparenz der Textfarbe</string>
     <string name="tipNotSupportThisDesktopVersion">Die aktuellen Versionen für Mobilgeräte und Desktops stimmen nicht überein und können nicht verbunden werden. Bitte aktualisieren Sie beide auf die neueste Version und versuchen Sie es erneut.</string>
     <string name="createShortcutLabel">Textverknüpfung</string>
+    <string name="cursorPositionForNewArticle">Cursorposition für neuen Artikel</string>
+    <string name="undoValidTip">Der aktuell fokussierte Eingabebereich kann nicht mehr rückgängig gemacht werden. Sie können versuchen, Ihren Inhalt über das Menü Verlauf in der oberen rechten Ecke wiederherzustellen.</string>
+    <string name="double11Title">11·11 Halber Preis (50% Rabatt)</string>
+    <string name="double11Message">Vom 10. bis 12. November kann der Pro of Pure Writer zum halben Preis erworben werden. Vielen Dank für deine Unterstützung!</string>
+    <string name="toDoCloudBackupButton">Gehen Sie, um ein Cloud-Sicherungskonto einzurichten</string>
+    <string name="ignoreCloudBackupCheckBox">Ich möchte kein Cloud-Backup einrichten, erinnere mich nicht daran. Ich bin bereit, alle Konsequenzen eines fehlenden Cloud-Backups zu tragen, einschließlich des Verlusts aller meiner wertvollen Artikel, wenn das Telefon kaputt geht oder verloren geht oder zurückgesetzt wird, weil es kein Cloud-Backup gibt!</string>
+    <string name="addChapterAboveThis">Fügen Sie das obige Kapitel hinzu</string>
+    <string name="addChapterBelowThis">Füge folgendes Kapitel hinzu</string>
+    <string name="selectMore">Wählen Sie mehr</string>
+    <string name="moveToOtherBook">Wechseln Sie zu einem anderen Buch</string>
 </resources>
