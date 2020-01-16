@@ -9,7 +9,7 @@
     <string name="undo">Undo</string>
     <string name="redo">Redo</string>
     <string name="about">Über | Hilfe</string>
-    <string name="share">Aktie</string>
+    <string name="share">Teilen</string>
     <string name="copyTitle">Kopieren Sie den Titel</string>
     <string name="lock">Sperren</string>
     <string name="history">Geschichte</string>
@@ -211,7 +211,7 @@
     <string name="forcedBlackTextColor">Schwarze Textfarbe erzwingen</string>
     <string name="forcedWhiteTextColor">Erzwinge weiße Textfarbe</string>
     <string name="paragraphSpacing">Absatzabstand</string>
-    <string name="summaryExporting">Nur verfügbar, wenn der Absatzabstand aktiviert ist</string>
+    <string name="onlyAvailableWhenParagraphOn">Nur verfügbar, wenn der Absatzabstand aktiviert ist</string>
     <string name="lowProfile">Statusleiste Fokusmodus</string>
     <string name="chapters">Kapitel</string>
     <string name="sortTypeTitleUp">Titel sortieren A - Z</string>
@@ -354,4 +354,86 @@
     <string name="addChapterBelowThis">Füge folgendes Kapitel hinzu</string>
     <string name="selectMore">Wählen Sie mehr</string>
     <string name="moveToOtherBook">Wechseln Sie zu einem anderen Buch</string>
+    <string name="autoInsertBlankLineWhenWrapping">Fügen Sie beim Umbruch automatisch eine Leerzeile ein</string>
+    <string name="paragraphSpacingSettingSummary">Superlanger Text erzielt eine bessere Leistung, wenn der Absatzabstand deaktiviert ist</string>
+    <string name="onlyAvailableWhenParagraphOff">Nur verfügbar, wenn der Absatzabstand deaktiviert ist</string>
+    <string name="markdownAsDefault">Verwenden Sie Markdown als Standardmodus für neue Artikel</string>
+    <string name="needToPayForMarkdownRenderer">Dies ist die Markdown-Schnellvorschau-Seite, auf der Sie für die Verwendung von Pure Writer Pro bezahlen müssen.</string>
+    <string name="fabContextCreateNewAfterCurrent">Fügen Sie nach dem aktuellen Artikel einen neuen Artikel ein</string>
+    <string name="fabContextCreateNewAtTheBottom">Fügen Sie einen neuen Artikel am Ende der Artikelliste ein</string>
+    <string name="fabContextHideFabUntilNextStart">Blenden Sie diese Schaltfläche bis zum nächsten Start aus</string>
+    <string name="signedIn">Angemeldet</string>
+    <string name="notSignedIn">Nicht angemeldet</string>
+    <string name="latex">LaTeX</string>
+    <string name="syntaxHighlighting">Syntax-Hervorhebung</string>
+    <string name="forgetPassword">Passwort vergessen?</string>
+    <string name="emailAddress">E-Mail-Adresse</string>
+    <string name="password">Passwort</string>
+    <string name="nightMode">Nachtmodus</string>
+    <string name="unlimitedWords">Unbegrenzte Wörter</string>
+    <string name="customPapers">Benutzerdefinierte Papiere\nEmpfindlich, immersiv</string>
+    <string name="markdownQuickPreview">Markdown-Schnellvorschau</string>
+    <string name="exportToPicMdTxt">Als Langbild / md / txt exportieren</string>
+    <string name="materialDesign2ThemeWithLineBreak">Thema von Material Design 2</string>
+    <string name="neverLost">Nie verloren</string>
+    <string name="veryVerySmooth">Sehr geschmeidig und flüssig</string>
+    <string name="supportParagraphSpacing">Absatzabstand</string>
+    <string name="keyboardStateRestoring">Wiederherstellung des Tastaturstatus</string>
+    <string name="greatCursorFocus">Großartiger Cursor-Fokus</string>
+    <string name="crazyUpdateBetterAndBetter">Bleib auf dem Laufenden, besser und besser</string>
+    <string name="moreAdvantagesOfPureWriter">Weitere Vorteile von Pure Writer</string>
+    <string name="account">Konto</string>
+    <string name="privilegeOfPureWriterPro">Privileg von Pure Writer Pro</string>
+    <string name="messageCustomFontAndPro">Überprüft, ob Sie die benutzerdefinierte Schriftart verwenden, für die Pure Writer Pro erforderlich ist. Sie können auf OK klicken, um Pure Writer Pro und erweiterte Funktionen zu erhalten, oder auf klicken, um die benutzerdefinierte Schriftart abzubrechen (wird beim nächsten Start wirksam).</string>
+    <string name="messageNeedToPay">Dies ist eine Pro-Funktion. Sie müssen für Pure Writer Pro bezahlen, bevor Sie es verwenden können. Klicken Sie auf OK, um alle erweiterten Funktionen von Pure Writer Pro kennenzulernen. Mit Pure Writer Pro können Sie alle erweiterten Funktionen nutzen.</string>
+    <string name="notYetActivated">Noch nicht aktiviert</string>
+    <string name="notYetActivatedOrExpired">Nicht aktiviert oder abgelaufen</string>
+    <string name="ProIntroductionMarkdown"><![CDATA[
+        #### Benutzerdefinierte Papiere
+
+        Sie können ein Bild in Ihrem Mobiltelefon oder ein entferntes Bild als Papier und Hintergrund für Ihren Editor frei wählen:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/0.webp)
+
+        #### Markdown-Schnellvorschau ✨
+
+        Sie können die Editor-Seite **horizontal** streichen, um schnell auf die Markdown-Schnellvorschau-Seite zuzugreifen:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/1.webp)
+
+        #### Export als Langtext-Bild / MD / TXT-Datei
+
+        Sie können Artikel als Langtextbilder oder als .md .txt-Dateien exportieren:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/2.webp)
+
+        #### Buch exportieren
+
+        Sie finden diese Option im oberen Menü der linken Schublade. Sie hilft Ihnen dabei, den gesamten Kapitelinhalt in einer einfachen Textdatei zusammenzuführen:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/3.webp)
+
+        #### Ersatz finden
+
+        Sie können Zielschlüsselwörter in jedem Artikel finden und sie in Stapeln ersetzen:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/4.webp)
+
+        #### Material Design 2 Theme
+
+        Wenn das Material Design 2-Thema aktiviert ist, erhalten Sie eine transparente obere Leiste, die nicht mehr rein schwarz ist, und Sie können eine immersivere und schönere Benutzeroberfläche erhalten:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
+
+        #### Gliederung
+
+        Sie können den Gliederungseditor im oberen Überlaufmenü des Editors aufrufen, und es gibt viele voreingestellte Gliederungselemente:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/6.webp)
+    ]]></string>
+    <string name="buyPureWriterPro">Kaufen Sie Pure Writer Pro</string>
+    <string name="tipMarkdownQuickPreview">Streichen Sie horizontal zur nächsten Seite, um eine Schnellvorschau für Markdowns zu erhalten</string>
+    <string name="expiresOn">Gültig bis:</string>
+    <string name="lifetime">Unbegrenzt</string>
+    <string name="proExpired">Pro abgelaufen</string>
 </resources>

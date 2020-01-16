@@ -236,7 +236,7 @@
     <string name="updatedAt">Mis à jour à</string>
     <string name="forcedBlackTextColor">Forcer la couleur du texte en noir</string>
     <string name="forcedWhiteTextColor">Forcer la couleur du texte en blanc</string>
-    <string name="summaryExporting">Seulement disponible quand Espacement Paragraphe est activé</string>
+    <string name="onlyAvailableWhenParagraphOn">Seulement disponible quand Espacement Paragraphe est activé</string>
     <string name="lowProfile">Mode de mise au point de la barre d\'état</string>
     <string name="chapters">Chapitres</string>
     <string name="sortTypeTitleUp">Trier par Titre A - Z</string>
@@ -367,4 +367,86 @@
     <string name="addChapterBelowThis">Ajouter un chapitre ci-dessous</string>
     <string name="selectMore">Sélectionnez plus</string>
     <string name="moveToOtherBook">Déplacer vers un autre livre</string>
+    <string name="autoInsertBlankLineWhenWrapping">Insérer une ligne vierge automatiquement lors de l\'emballage</string>
+    <string name="paragraphSpacingSettingSummary">Le texte très long obtiendra de meilleures performances lorsque l\'espacement des paragraphes est désactivé</string>
+    <string name="onlyAvailableWhenParagraphOff">Disponible uniquement lorsque l\'espacement des paragraphes est désactivé</string>
+    <string name="markdownAsDefault">Utiliser Markdown comme mode par défaut pour les nouveaux articles</string>
+    <string name="needToPayForMarkdownRenderer">Ceci est la page Aperçu rapide de Markdown, qui nécessite que vous payiez pour que Pure Writer Pro l’utilise.</string>
+    <string name="fabContextCreateNewAfterCurrent">Insérer un nouvel article après l\'article actuel</string>
+    <string name="fabContextCreateNewAtTheBottom">Insérer un nouvel article au bas de la liste d\'articles</string>
+    <string name="fabContextHideFabUntilNextStart">Cacher ce bouton jusqu\'au prochain lancement</string>
+    <string name="signedIn">Connecté</string>
+    <string name="notSignedIn">Non connecté</string>
+    <string name="latex">LaTeX</string>
+    <string name="syntaxHighlighting">Mise en évidence de la syntaxe</string>
+    <string name="forgetPassword">Mot de passe oublié ?</string>
+    <string name="emailAddress">Adresse e-mail</string>
+    <string name="password">Mot de passe</string>
+    <string name="nightMode">Mode nuit</string>
+    <string name="unlimitedWords">Mots illimités</string>
+    <string name="customPapers">Papiers personnalisés\nDélicat, immersif</string>
+    <string name="markdownQuickPreview">Aperçu rapide de Markdown</string>
+    <string name="exportToPicMdTxt">Exporter en tant qu\'image longue / md / txt</string>
+    <string name="materialDesign2ThemeWithLineBreak">Thème Material Design 2</string>
+    <string name="neverLost">Jamais perdu</string>
+    <string name="veryVerySmooth">Très lisse et fluide</string>
+    <string name="supportParagraphSpacing">Espacement des paragraphes</string>
+    <string name="keyboardStateRestoring">Restauration de l\'état du clavier</string>
+    <string name="greatCursorFocus">Grande mise au point du curseur</string>
+    <string name="crazyUpdateBetterAndBetter">Continuez à mettre à jour, de mieux en mieux</string>
+    <string name="moreAdvantagesOfPureWriter">Plus d\'avantages de Pure Writer</string>
+    <string name="account">Compte</string>
+    <string name="privilegeOfPureWriterPro">Privilège de Pure Writer Pro</string>
+    <string name="messageCustomFontAndPro">Vérifiez que vous utilisez la police personnalisée, qui nécessite Pure Writer Pro. Vous pouvez cliquer sur OK pour obtenir Pure Writer Pro et des fonctionnalités plus avancées, ou cliquer sur pour annuler la police personnalisée (prendra effet au prochain lancement).</string>
+    <string name="messageNeedToPay">Ceci est une fonctionnalité Pro. Vous devez payer Pure Writer Pro avant de pouvoir l\'utiliser. Cliquez sur OK pour en savoir plus sur toutes les fonctionnalités avancées de Pure Writer Pro. Lorsque vous obtenez Pure Writer Pro, vous pouvez utiliser toutes les fonctionnalités avancées.</string>
+    <string name="notYetActivated">Pas encore activé</string>
+    <string name="notYetActivatedOrExpired">Non activé ou expiré</string>
+    <string name="ProIntroductionMarkdown"><![CDATA[
+        #### Papiers personnalisés
+
+        Vous pouvez choisir librement une image dans votre téléphone portable ou une image distante comme papier et arrière-plan pour votre éditeur:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/0.webp)
+
+        #### Aperçu rapide de Markdown ✨
+
+        Vous pouvez faire glisser la page de l\'éditeur **horizontalement** pour accéder rapidement à la page d\'aperçu rapide Markdown:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/1.webp)
+
+        #### Exporter en tant qu\'image texte longue / fichier md / txt
+
+        Vous pouvez exporter des articles sous forme d\'images texte longues ou de fichiers .md .txt:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/2.webp)
+
+        #### Exporter le livre
+
+        Vous pouvez trouver cette option dans le menu supérieur du tiroir de gauche, elle vous aidera à fusionner tout le contenu du chapitre dans un fichier texte brut:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/3.webp)
+
+        #### Rechercher et remplacer
+
+        Vous pouvez trouver des mots clés cibles dans n'importe quel article et les remplacer par lots:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/4.webp)
+
+        #### Thème Material Design 2
+
+        Lorsque le thème Material Design 2 est activé, vous obtiendrez une barre supérieure transparente, qui n'est plus du noir pur, et vous pouvez obtenir une interface utilisateur plus immersive et plus belle:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
+
+        #### Contour
+
+        Vous pouvez entrer dans l'éditeur de contour dans le menu de débordement supérieur de l'éditeur, et il existe de nombreux éléments de contour prédéfinis:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/6.webp)
+    ]]></string>
+    <string name="buyPureWriterPro">Acheter Pure Writer Pro</string>
+    <string name="tipMarkdownQuickPreview">Balayez horizontalement vers la page suivante pour un aperçu rapide de Markdown</string>
+    <string name="expiresOn">Date d\'expiration :</string>
+    <string name="lifetime">A vie</string>
+    <string name="proExpired">Pro expiré</string>
 </resources>

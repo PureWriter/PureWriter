@@ -204,8 +204,6 @@
     <string name="typewriterMode">Режим пишущей машинки</string>
     <string name="edit">редактировать</string>
     <string name="editBook">Редактировать книгу</string>
-    <string name="shareText">推荐：纯纯写作，一个令人感到安心、拥有历史记录、多重防止文章丢失功能，和许多写作辅助的编辑器：https://writer.drakeet.com</string>
-    <string name="shareMessage">如果你喜欢和支持纯纯写作，请帮忙点击右侧的分享按钮与你的朋友推荐这个应用，这对于它来说意义重大，纯纯写作将因为你的支持而能够变得更好，并不断开发、完善下去，非常感谢！\n\n了解更多关于纯纯写作：https://writer.drakeet.com</string>
     <string name="wordCountLong">Количество слов</string>
     <string name="wordCountOfCurrentArticle">Количество слов в текущей статье</string>
     <string name="floatingWordCount">Floating Word Count</string>
@@ -227,7 +225,7 @@
     <string name="forcedBlackTextColor">Принудительный черный шрифт</string>
     <string name="forcedWhiteTextColor">Принудительный белый шрифт</string>
     <string name="paragraphSpacing">Интервал между абзацами</string>
-    <string name="summaryExporting">Действителен только в том случае, если интервал между абзацами включен</string>
+    <string name="onlyAvailableWhenParagraphOn">Действителен только в том случае, если интервал между абзацами включен</string>
     <string name="lowProfile">Режим фокусировки строки состояния</string>
     <string name="chapters">Главы</string>
     <string name="sortTypeTitleUp">Заголовок по возрастанию</string>
@@ -352,11 +350,93 @@
     <string name="cursorPositionForNewArticle">Положение курсора для новой статьи</string>
     <string name="undoValidTip">Сфокусированная область ввода больше не может быть отменена снова, вы можете попытаться восстановить свой контент из меню «История» в верхнем правом углу.</string>
     <string name="double11Title">11·11 Половина цены (скидка 50%)</string>
-    <string name="double11Message">С 10 по 12 ноября можно приобрести PureWriter Pro за полцены. Большое спасибо за вашу помощь!</string>
+    <string name="double11Message">С 10 по 12 ноября можно приобрести Pure Writer Pro за полцены. Большое спасибо за вашу помощь!</string>
     <string name="toDoCloudBackupButton">Перейти к настройке учетной записи резервного копирования в облаке</string>
     <string name="ignoreCloudBackupCheckBox">Я не хочу создавать облачную резервную копию, не напоминай мне. Я готов нести все последствия отсутствия облачной резервной копии, включая потерю всех моих ценных статей, когда телефон сломан, утерян или сброшен, потому что нет резервной копии в облаке!</string>
     <string name="addChapterAboveThis">Добавить главу выше</string>
     <string name="addChapterBelowThis">Добавить главу ниже</string>
     <string name="selectMore">Выберите больше</string>
     <string name="moveToOtherBook">Перейти к другой книге</string>
+    <string name="autoInsertBlankLineWhenWrapping">Вставьте пустую строку автоматически при переносе</string>
+    <string name="paragraphSpacingSettingSummary">Сверхдлинный текст будет иметь лучшую производительность, если расстояние между абзацами отключено</string>
+    <string name="onlyAvailableWhenParagraphOff">Доступно только при отключенном интервале абзаца</string>
+    <string name="markdownAsDefault">Используйте Markdown в качестве режима по умолчанию для новых статей</string>
+    <string name="needToPayForMarkdownRenderer">Это страница быстрого предварительного просмотра уценки, которая требует от вас оплаты за использование Pure Writer Pro.</string>
+    <string name="fabContextCreateNewAfterCurrent">Вставьте новую статью после текущей статьи</string>
+    <string name="fabContextCreateNewAtTheBottom">Вставьте новую статью внизу списка статей</string>
+    <string name="fabContextHideFabUntilNextStart">Скрыть эту кнопку до следующего запуска</string>
+    <string name="signedIn">Вход выполнен</string>
+    <string name="notSignedIn">Ошибка входа</string>
+    <string name="latex">LaTeX</string>
+    <string name="syntaxHighlighting">Подсветка синтаксиса</string>
+    <string name="forgetPassword">Забыли пароль?</string>
+    <string name="emailAddress">Адрес электронной почты</string>
+    <string name="password">Пароль</string>
+    <string name="nightMode">Ночной режим</string>
+    <string name="unlimitedWords">Неограниченное количество слов</string>
+    <string name="customPapers">Пользовательские документы</string>
+    <string name="markdownQuickPreview">Markdown быстрый предварительный просмотр</string>
+    <string name="exportToPicMdTxt">Экспортировать как длинное изображение / .md / .txt</string>
+    <string name="materialDesign2ThemeWithLineBreak">Material Design 2 тема</string>
+    <string name="neverLost">Никогда не терял</string>
+    <string name="veryVerySmooth">Очень гладко и свободно</string>
+    <string name="supportParagraphSpacing">Интервал между абзацами</string>
+    <string name="keyboardStateRestoring">Восстановление состояния клавиатуры</string>
+    <string name="greatCursorFocus">Отличная фокусировка курсора</string>
+    <string name="crazyUpdateBetterAndBetter">Продолжайте обновляться, лучше и лучше</string>
+    <string name="moreAdvantagesOfPureWriter">Больше преимуществ Pure Writer</string>
+    <string name="account">Аккаунт</string>
+    <string name="privilegeOfPureWriterPro">Привилегия Pure Writer Pro</string>
+    <string name="messageCustomFontAndPro">Проверено, что вы используете пользовательский шрифт, для которого требуется Pure Writer Pro. Вы можете нажать OK, чтобы получить Pure Writer Pro и другие расширенные функции, или нажать, чтобы отменить пользовательский шрифт (вступит в силу при следующем запуске).</string>
+    <string name="messageNeedToPay">Это Pro функция. Вам нужно заплатить за Pure Writer Pro, прежде чем вы сможете его использовать. Нажмите OK, чтобы узнать обо всех расширенных функциях PureWriterPro. Когда вы получаете Pure Writer Pro, вы можете использовать все расширенные функции.</string>
+    <string name="notYetActivated">Еще не активирован</string>
+    <string name="notYetActivatedOrExpired">Не активирован или просрочен</string>
+    <string name="ProIntroductionMarkdown"><![CDATA[
+        #### Пользовательские документы
+
+        Вы можете свободно выбрать изображение на своем мобильном телефоне или удаленное изображение в качестве бумаги и фона для вашего редактора:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/0.webp)
+
+        #### Markdown быстрый предварительный просмотр ✨
+
+        Вы можете провести страницу редактора по горизонтали для быстрого доступа к странице быстрого просмотра Markdown:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/1.webp)
+
+        #### Экспорт в виде длинного текстового изображения / файла MD / TXT
+
+        Вы можете экспортировать статьи в виде длинных текстовых изображений или файлов .md .txt:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/2.webp)
+
+        #### Экспорт книги
+
+        Вы можете найти эту опцию в верхнем меню левого ящика, она поможет вам объединить все содержимое главы в простой текстовый файл:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/3.webp)
+
+        #### Найти и заменить
+
+        Вы можете найти целевые ключевые слова в любой статье и заменить их партиями:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/4.webp)
+
+        #### Material Design 2 тема
+
+        Когда тема Material Design 2 включена, вы получите прозрачную верхнюю панель, которая больше не является чисто черной, и вы можете получить более захватывающий и красивый пользовательский интерфейс:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
+
+        #### Контур
+
+        Вы можете войти в редактор Outline в верхнем меню переполнения редактора, и есть много предустановленных элементов структуры:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/6.webp)
+    ]]></string>
+    <string name="buyPureWriterPro">Купить Pure Writer Pro</string>
+    <string name="tipMarkdownQuickPreview">Проведите по горизонтали на следующую страницу для быстрого предварительного просмотра Markdown</string>
+    <string name="expiresOn">Срок действия:</string>
+    <string name="lifetime">Пожизненно</string>
+    <string name="proExpired">Pro истек</string>
 </resources>

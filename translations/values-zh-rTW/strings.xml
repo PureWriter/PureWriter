@@ -1,5 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="pureWriter">純純寫作</string>
+    <string name="pureWriterPro">純純寫作 Pro</string>
     <string name="titleHint">請輸入標題</string>
     <string name="editorTipAMenu">您需要選中一段文字才能操作</string>
     <string name="editorHintContent">請輸入正文</string>
@@ -13,7 +14,7 @@
     <string name="defaultContent">　　很高興見到你！\n　　這是一個快速的純文字編輯器，我們希望寫作能夠回到原本的樣子：<b>純粹、有安全感、隨時、絕對不遺失內容、具備良好的寫作體驗。</b>\n　　純純寫作實現了在 Android 上完美的行間距和段間距，它能夠使您的文字看起來更加舒適、清晰。同時，它還實現了「快捷輸入欄」和「格式化工具」，以及許多喜人的細節內容。\n　　最重要的，<b>在使用這個編輯器時，它將會保證您的內容永遠不會遺失，除非您主動將它清空。否則即使誤操作將文字刪除，或瞬間斷電，您仍然能夠從歷史記錄或備份中將它復原。</b>\n　　純純寫作還在流暢體驗上下了很多功夫，它擁有完美的鍵盤響應邏輯。使用純純寫作時，你能夠往下拖動快捷輸入欄來收起軟鍵盤；能夠點擊文章某一行後，動態獲得合適的游標焦點定位；能夠在收起軟鍵盤時，文章位置保持不動 … 許多這樣的細節內容，當你對比使用其他編輯器項目時，你才會發現純純寫作做得更加出色、流暢，細緻入微。\n　　蘊繁於簡。許多編輯器該有的功能，純純寫作也都沒有落下，比如 WebDAV 雲備份、段首縮排、生成長圖片、指紋加鎖、Markdown、更換信紙、夜間模式、單詞聯想輸入、打字機模式、復原、字數統計 等等。但即使這樣，純純寫作仍然保持了簡約的設計風格，遵循 Material Design 設計，並且它還有一個像是哆啦 A 夢 時光機 的圖示，寓意著「文字能夠連接過去，遙想未來」，也照應了純純寫作特別提供的「歷史記錄」功能。\n　　您能夠最快速度到達靈感頁面，能夠隨時隨地中斷和繼續寫作，這些我們都已經為您做好了。\n　　令人感到安心，順滑流暢的寫作體驗，如你所願，這就是純純寫作，請享受寫作吧！</string>
     <string name="copyTitle">複製標題</string>
     <string name="copyContent">複製正文內容</string>
-    <string name="clearThisContent"><b>清空</b>檔前正文</string>
+    <string name="clearThisContent"><b>清空</b>目前正文</string>
     <string name="appPureMosaic">廣告:純純打碼</string>
     <string name="wordCountShort">字數</string>
     <string name="historyState">已儲存記錄</string>
@@ -231,7 +232,7 @@
     <string name="forcedBlackTextColor">強制黑色字體</string>
     <string name="forcedWhiteTextColor">強制白色字體</string>
     <string name="paragraphSpacing">段間距</string>
-    <string name="summaryExporting">僅在開啟段間距時有效</string>
+    <string name="onlyAvailableWhenParagraphOn">僅在開啟段間距時有效</string>
     <string name="lowProfile">狀態欄專注模式</string>
     <string name="chapters">篇章</string>
     <string name="sortTypeTitleUp">標題升序</string>
@@ -373,4 +374,97 @@
     <string name="addChapterBelowThis">在此之下插入新篇章</string>
     <string name="selectMore">選擇更多</string>
     <string name="moveToOtherBook">移動到其他書</string>
+    <string name="autoInsertBlankLineWhenWrapping">換行時自動插入空行</string>
+    <string name="paragraphSpacingSettingSummary">關閉段間距後，對於超長文本將獲得更好的性能</string>
+    <string name="onlyAvailableWhenParagraphOff">僅在關閉段間距時有效</string>
+    <string name="markdownAsDefault">Markdown 作為新建文章默認模式</string>
+    <string name="needToPayForMarkdownRenderer">這是 Markdown 快捷預覽頁面，它需要您付費獲得純純寫作進階版才能使用。</string>
+    <string name="fabContextCreateNewAfterCurrent">在當前文章之後插入新文章</string>
+    <string name="fabContextCreateNewAtTheBottom">在文章列表底部插入新文章</string>
+    <string name="fabContextHideFabUntilNextStart">隱藏這個按鈕直到下次啟動</string>
+    <string name="signedIn">已登入</string>
+    <string name="notSignedIn">尚未登入</string>
+    <string name="latex">LaTeX</string>
+    <string name="syntaxHighlighting">MD 程式碼高亮</string>
+    <string name="forgetPassword">忘記密碼?</string>
+    <string name="emailAddress">電子郵件地址</string>
+    <string name="password">密碼</string>
+    <string name="nightMode">夜間模式</string>
+    <string name="unlimitedWords">無限字數</string>
+    <string name="neverLost">從未遺失</string>
+    <string name="supportParagraphSpacing">獨家支援段間距</string>
+    <string name="keyboardStateRestoring">鍵盤狀態復原</string>
+    <string name="greatCursorFocus">精妙的游標聚焦</string>
+    <string name="crazyUpdateBetterAndBetter">瘋狂開發，越來越好</string>
+    <string name="moreAdvantagesOfPureWriter">更多純純寫作的優勢</string>
+    <string name="account">帳號</string>
+    <string name="privilegeOfPureWriterPro">純純寫作 Pro 特權介紹</string>
+    <string name="signUpOrSignIn">註冊或登入</string>
+    <string name="emailAddressIsEmptyOrIllegal">信箱地址為空或不合法</string>
+    <string name="passwordMustBeAtLeast6Characters">密碼長度不能少於 6 位</string>
+    <string name="helperTextForNewAccount">這是一個全新帳號，如果最終確定，我們將為您註冊它</string>
+    <string name="notYetActivated">尚未激活</string>
+    <string name="notYetActivatedOrExpired">尚未激活或已過期</string>
+    <string name="requiresAtLeast6Characters">需要至少六位字符</string>
+    <string name="customPapers">自訂稿紙\n精緻、沉浸</string>
+    <string name="markdownQuickPreview">Markdown 快捷預覽\n橫向滑動編輯器即可預覽</string>
+    <string name="exportToPicMdTxt">另存為、匯出為長圖片、md、txt</string>
+    <string name="materialDesign2ThemeWithLineBreak">Material Design 2\n主題</string>
+    <string name="veryVerySmooth">非常非常順滑流暢</string>
+    <string name="helperTextForRegisteredAccount">這個帳號已註冊，如果最終確定，我們將為你登入它</string>
+    <string name="messageCustomFontAndPro">檢查到您正在使用「自訂字體」功能，該功能需要付費獲得純純寫作 Pro 才能使用，您可以點擊確定來獲得純純寫作 Pro 以及更多進階版功能，或者點擊取消自訂字體（下次啟動時生效）。</string>
+    <string name="signingInIsInvalid">登入失效</string>
+    <string name="verificationCode">驗證碼</string>
+    <string name="emailOrPasswordIsIncorrect">信箱或密碼不正確</string>
+    <string name="messageNeedToPay">這是進階版功能，您需要先<b>登入</b>或付費獲得純純寫作 Pro 才能使用它，點擊確定即可了解純純寫作所有進階版功能。\n\n當您獲得純純寫作 Pro 後，您可以使用所有的進階版功能。</string>
+    <string name="license">激活碼</string>
+    <string name="ProIntroductionMarkdown"><![CDATA[
+        #### 自訂稿紙
+
+        您可以自由選擇您手機中的圖片或網路圖片作為稿紙，賞心悅目，更加精緻美觀：
+
+        ![圖片](https://gitee.com/PureWriter/resources/raw/master/pro/0.webp)
+
+        #### Markdown 快捷預覽 ✨
+
+        您可以**左右滑動編輯器**頁面來快速進入 Markdown 預覽頁面：
+
+        ![圖片](https://gitee.com/PureWriter/resources/raw/master/pro/1.webp)
+
+        #### 另存為長圖片 / md / txt 文件
+
+        您可以將文章另存為長圖片或 .md .txt 文件：
+
+        ![圖片](https://gitee.com/PureWriter/resources/raw/master/pro/2.webp)
+
+        #### 合併成書匯出
+
+        您可以在側欄文章列表頂部選單中找到這個選項，它將幫助您合併所有章節內容到一個純文字文件中：
+
+        ![圖片](https://gitee.com/PureWriter/resources/raw/master/pro/3.webp)
+
+        #### 尋找 & 取代
+
+        您可以在任意範圍內尋找目標關鍵字，並批次取代它們：
+
+        ![圖片](https://gitee.com/PureWriter/resources/raw/master/pro/4.webp)
+
+        #### Material Design 2 主題
+
+        開啟 Material Design 2 主題後，您將獲得透明化的頂欄，它不再是純黑色的，這可以獲得更加沉浸式的精美 UI：
+
+        ![圖片](https://gitee.com/PureWriter/resources/raw/master/pro/5.webp)
+
+        #### 大綱
+
+        在編輯器右上角選單中可以進入大綱編輯器頁面，並且有許多預置的大綱項目：
+
+        ![圖片](https://gitee.com/PureWriter/resources/raw/master/pro/6.webp)
+    ]]></string>
+    <string name="messageThankYouForYourSupport">您的支援能夠讓純純寫作更好地堅持開發下去，使我們一直堅持好的方向，良心的產品，同時激勵更多的獨立開發者。\n\n純純寫作因為您的支援而能夠不斷更新、完善，非常感謝！</string>
+    <string name="buyPureWriterPro"><b>購買純純寫作</b> Pro</string>
+    <string name="tipMarkdownQuickPreview">橫向劃動到下一個頁面\n可以進行 Markdown 快捷預覽</string>
+    <string name="expiresOn">到期日</string>
+    <string name="lifetime">有效期至永久</string>
+    <string name="proExpired">會員已過期</string>
 </resources>

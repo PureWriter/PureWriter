@@ -1,5 +1,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="pureWriter">纯纯写作</string>
+    <string name="pureWriterPro">纯纯写作 Pro</string>
+    <string name="titleForTimeMachineHeart">公众号</string>
     <string name="titleHint">请输入标题</string>
     <string name="editorTipAMenu">您需要选中一段文本才能操作</string>
     <string name="editorHintContent">请输入正文</string>
@@ -231,7 +233,8 @@
     <string name="forcedBlackTextColor">强制黑色字体</string>
     <string name="forcedWhiteTextColor">强制白色字体</string>
     <string name="paragraphSpacing">段间距</string>
-    <string name="summaryExporting">仅在开启段间距时有效</string>
+    <string name="onlyAvailableWhenParagraphOn">仅在开启段间距时有效</string>
+    <string name="onlyAvailableWhenParagraphOff">仅在关闭段间距时有效</string>
     <string name="lowProfile">状态栏专注模式</string>
     <string name="chapters">篇章</string>
     <string name="sortTypeTitleUp">标题升序</string>
@@ -373,4 +376,97 @@
     <string name="addChapterBelowThis">在此之下插入新篇章</string>
     <string name="selectMore">选择更多</string>
     <string name="moveToOtherBook">移动到其他书</string>
+    <string name="paragraphSpacingSettingSummary">关闭段间距后，对于超长文本将获得更好的性能</string>
+    <string name="autoInsertBlankLineWhenWrapping">换行时自动插入空行</string>
+    <string name="markdownAsDefault">Markdown 作为新建文章默认模式</string>
+    <string name="needToPayForMarkdownRenderer">这是 Markdown 快捷预览页面，它需要您付费获得纯纯写作高级版才能使用。</string>
+    <string name="fabContextCreateNewAfterCurrent">在当前文章之后插入新文章</string>
+    <string name="fabContextCreateNewAtTheBottom">在文章列表底部插入新文章</string>
+    <string name="fabContextHideFabUntilNextStart">隐藏这个按钮直到下次启动</string>
+    <string name="license">激活码</string>
+    <string name="ProIntroductionMarkdown"><![CDATA[
+        #### 自定义稿纸
+
+        您可以自由选择您手机中的图片或网络图片作为稿纸，赏心悦目，更加精致美观：
+
+        ![图片](https://gitee.com/PureWriter/resources/raw/master/pro/0.webp)
+
+        #### Markdown 快捷预览 ✨
+
+        您可以**左右滑动编辑器**页面来快速进入 Markdown 预览页面：
+
+        ![图片](https://gitee.com/PureWriter/resources/raw/master/pro/1.webp)
+
+        #### 另存为长图片 / md / txt 文件
+
+        您可以将文章另存为长图片或 .md .txt 文件：
+
+        ![图片](https://gitee.com/PureWriter/resources/raw/master/pro/2.webp)
+
+        #### 合并成书导出
+
+        您可以在侧栏文章列表顶部菜单中找到这个选项，它将帮助您合并所有章节内容到一个纯文本文件中：
+
+        ![图片](https://gitee.com/PureWriter/resources/raw/master/pro/3.webp)
+
+        #### 查找 & 替换
+
+        您可以在任意范围内查找目标关键词，并批量替换它们：
+
+        ![图片](https://gitee.com/PureWriter/resources/raw/master/pro/4.webp)
+
+        #### Material Design 2 主题
+
+        开启 Material Design 2 主题后，您将获得透明化的顶栏，它不再是纯黑色的，这可以获得更加沉浸式的精美 UI：
+
+        ![图片](https://gitee.com/PureWriter/resources/raw/master/pro/5.webp)
+
+        #### 大纲
+
+        在编辑器右上角菜单中可以进入大纲编辑器页面，并且有许多预置的大纲项目：
+
+        ![图片](https://gitee.com/PureWriter/resources/raw/master/pro/6.webp)
+    ]]></string>
+    <string name="unlimitedWords">无限字数</string>
+    <string name="neverLost">从未丢失</string>
+    <string name="supportParagraphSpacing">独家支持段间距</string>
+    <string name="keyboardStateRestoring">键盘状态恢复</string>
+    <string name="greatCursorFocus">精妙的光标聚焦</string>
+    <string name="crazyUpdateBetterAndBetter">疯狂开发，越来越好</string>
+    <string name="moreAdvantagesOfPureWriter">更多纯纯写作的优势</string>
+    <string name="account">账号</string>
+    <string name="privilegeOfPureWriterPro">纯纯写作 Pro 特权介绍</string>
+    <string name="messageThankYouForYourSupport">您的支持能够让纯纯写作更好地坚持开发下去，使我们一直坚持好的方向，良心的产品，同时激励更多的独立开发者。\n\n纯纯写作因为您的支持而能够不断更新、完善，非常感谢！</string>
+    <string name="signUpOrSignIn">注册或登录</string>
+    <string name="emailAddressIsEmptyOrIllegal">邮箱地址为空或不合法</string>
+    <string name="passwordMustBeAtLeast6Characters">密码长度不能少于 6 位</string>
+    <string name="helperTextForNewAccount">这是一个全新账号，如果最终确定，我们将为您注册它</string>
+    <string name="forgetPassword">忘记密码?</string>
+    <string name="noteCreateAccount">* 您可在此页面输入账号密码进行注册或登录\n\n* 若为注册，<b>请确保您的邮箱地址准确性并归属于您</b>！若填写有误，日后您将无法修改密码。\n\n* 这是纯纯写作专属账号，目前仅用于绑定您的付费状态。若您需要云备份，需额外配置您的云备份账号。</string>
+    <string name="latex">LaTeX 公式</string>
+    <string name="notSignedIn">尚未登录</string>
+    <string name="notYetActivated">尚未激活</string>
+    <string name="notYetActivatedOrExpired">尚未激活或已过期</string>
+    <string name="requiresAtLeast6Characters">需要至少六位字符</string>
+    <string name="signedIn">登录成功！</string>
+    <string name="syntaxHighlighting">MD 代码高亮</string>
+    <string name="emailAddress">电子邮箱地址</string>
+    <string name="password">密码</string>
+    <string name="nightMode">夜间模式</string>
+    <string name="customPapers">自定义稿纸\n精致、沉浸</string>
+    <string name="markdownQuickPreview">Markdown 快捷预览\n横向滑动编辑器即可预览</string>
+    <string name="exportToPicMdTxt">另存为、导出为长图片、md、txt</string>
+    <string name="materialDesign2ThemeWithLineBreak">Material Design 2\n主题</string>
+    <string name="veryVerySmooth">非常非常顺滑流畅</string>
+    <string name="helperTextForRegisteredAccount">这个账号已注册，如果最终确定，我们将为你登录它</string>
+    <string name="messageCustomFontAndPro">检查到您正在使用「自定义字体」功能，该功能需要付费获得纯纯写作 Pro 才能使用，您可以点击确定来获得纯纯写作 Pro 以及更多高级版功能，或者点击取消自定义字体（下次启动时生效）。</string>
+    <string name="messageNeedToPay">这是高级版功能，您需要先<b>登录</b>或付费获得纯纯写作 Pro 才能使用它，点击确定即可了解纯纯写作所有高级版功能。\n\n当您获得纯纯写作 Pro 后，您可以使用所有的高级版功能。</string>
+    <string name="signingInIsInvalid">登录失效</string>
+    <string name="verificationCode">验证码</string>
+    <string name="emailOrPasswordIsIncorrect">邮箱或密码不正确</string>
+    <string name="buyPureWriterPro"><b>购买纯纯写作</b> Pro</string>
+    <string name="tipMarkdownQuickPreview">横向划动到下一个页面\n可以进行 Markdown 快捷预览</string>
+    <string name="lifetime">有效期至永久</string>
+    <string name="proExpired">会员已过期</string>
+    <string name="expiresOn">有效期至</string>
 </resources>

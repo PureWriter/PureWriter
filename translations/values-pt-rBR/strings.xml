@@ -236,7 +236,7 @@
     <string name="forcedBlackTextColor">Texto preto</string>
     <string name="forcedWhiteTextColor">Texto branco</string>
     <string name="paragraphSpacing">Espaçamento de parágrafo</string>
-    <string name="summaryExporting">Disponível somente enquanto o espaçamento de parágrafo estiver ativo</string>
+    <string name="onlyAvailableWhenParagraphOn">Disponível somente enquanto o espaçamento de parágrafo estiver ativo</string>
     <string name="lowProfile">Barra de status limitada</string>
     <string name="chapters">Capítulos</string>
     <string name="sortTypeTitleUp">Ordem alfabética</string>
@@ -366,4 +366,20 @@
     <string name="addChapterBelowThis">Adicionar capítulo abaixo</string>
     <string name="selectMore">Selecione mais</string>
     <string name="moveToOtherBook">Mover para outro livro</string>
+    <string name="autoInsertBlankLineWhenWrapping">Inserir uma linha em branco automaticamente ao quebrar</string>
+    <string name="paragraphSpacingSettingSummary">O texto super longo terá melhor desempenho quando o Espaçamento entre parágrafos estiver desativado</string>
+    <string name="onlyAvailableWhenParagraphOff">Disponível apenas quando o espaçamento de parágrafos está desativado</string>
+    <string name="markdownAsDefault">Use Markdown como o modo padrão para novos artigos</string>
+    <string name="needToPayForMarkdownRenderer">Esta é a página Visualização rápida do Markdown, que exige que você pague pelo Pure Writer Pro para usá-lo.</string>
+    <string name="fabContextCreateNewAfterCurrent">Inserir um novo artigo após o artigo atual</string>
+    <string name="fabContextCreateNewAtTheBottom">Inserir um novo artigo na parte inferior da lista de artigos</string>
+    <string name="fabContextHideFabUntilNextStart">Ocultar este botão até o próximo lançamento</string>
+    <string name="signedIn">Conectado</string>
+    <string name="notSignedIn">Você não fez login</string>
+    <string name="latex">LaTeX</string>
+    <string name="syntaxHighlighting">Realce de sintaxe</string>
+    <string name="forgetPassword">Esqueceu o código?</string>
+    <string name="emailAddress">Endereço de e-mail</string>
+    <string name="password">Senha</string>
+    <string name="nightMode">Modo Noturno</string>
 </resources>

@@ -234,7 +234,7 @@
     <string name="updatedAt">Diperbarui pada</string>
     <string name="forcedBlackTextColor">Paksa Warna Teks Hitam</string>
     <string name="forcedWhiteTextColor">Paksa Warna Teks Putih</string>
-    <string name="summaryExporting">Hanya tersedia saat Penempatan Paragraf aktif</string>
+    <string name="onlyAvailableWhenParagraphOn">Hanya tersedia saat Penempatan Paragraf aktif</string>
     <string name="lowProfile">Mode fokus bilah status</string>
     <string name="chapters">Bab</string>
     <string name="sortTypeTitleUp">Sortir Judul A - Z</string>
@@ -364,4 +364,86 @@
     <string name="addChapterBelowThis">Tambahkan bab di bawah ini</string>
     <string name="selectMore">Pilih lebih banyak</string>
     <string name="moveToOtherBook">Pindah ke buku lain</string>
+    <string name="autoInsertBlankLineWhenWrapping">Masukkan garis kosong secara otomatis saat membungkus</string>
+    <string name="paragraphSpacingSettingSummary">Teks super panjang akan mendapatkan kinerja yang lebih baik ketika Penempatan Paragraph dimatikan</string>
+    <string name="onlyAvailableWhenParagraphOff">Hanya tersedia saat Penjelajahan Paragraf dimatikan</string>
+    <string name="markdownAsDefault">Gunakan Penurunan harga sebagai mode default untuk item baru</string>
+    <string name="needToPayForMarkdownRenderer">Ini adalah halaman Pratinjau Cepat Penurunan Harga, yang mengharuskan Anda membayar untuk Pure Writer Pro untuk menggunakannya.</string>
+    <string name="fabContextCreateNewAfterCurrent">Masukkan artikel baru setelah artikel saat ini</string>
+    <string name="fabContextCreateNewAtTheBottom">Masukkan artikel baru di bagian bawah daftar artikel</string>
+    <string name="fabContextHideFabUntilNextStart">Sembunyikan tombol ini sampai awal berikutnya</string>
+    <string name="signedIn">Sudah masuk</string>
+    <string name="notSignedIn">Belum login</string>
+    <string name="latex">LaTeX</string>
+    <string name="syntaxHighlighting">Penyorotan sintaksis</string>
+    <string name="forgetPassword">Lupa Kata Sandi?</string>
+    <string name="emailAddress">Alamat email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="nightMode">Mode malam</string>
+    <string name="unlimitedWords">Kata-kata yang tidak terbatas</string>
+    <string name="customPapers">Makalah Kustom\nDelicate, Immersive</string>
+    <string name="markdownQuickPreview">Pratinjau cepat Markdown</string>
+    <string name="exportToPicMdTxt">Ekspor sepanjang gambar / md / txt</string>
+    <string name="materialDesign2ThemeWithLineBreak">Tema Material Design 2</string>
+    <string name="neverLost">Tidak pernah hilang</string>
+    <string name="veryVerySmooth">Sangat lancar dan lancar</string>
+    <string name="supportParagraphSpacing">Penempatan paragraf</string>
+    <string name="keyboardStateRestoring">Pemulihan kondisi keyboard</string>
+    <string name="greatCursorFocus">Fokus kursor hebat</string>
+    <string name="crazyUpdateBetterAndBetter">Terus memperbarui, lebih baik dan lebih baik</string>
+    <string name="moreAdvantagesOfPureWriter">Lebih banyak keuntungan dari Pure Writer</string>
+    <string name="account">Akun</string>
+    <string name="privilegeOfPureWriterPro">Hak Istimewa Pure Writer Pro</string>
+    <string name="messageCustomFontAndPro">Diperiksa bahwa Anda menggunakan Font Kustom, yang memerlukan Pure Writer Pro. Anda dapat mengklik OK untuk mendapatkan Pure Writer Pro dan fitur yang lebih canggih, atau klik untuk membatalkan Font Kustom (akan berlaku pada peluncuran berikutnya).</string>
+    <string name="messageNeedToPay">Ini adalah fitur Pro. Anda harus membayar untuk Pure Writer Pro sebelum dapat menggunakannya. Klik OK untuk mempelajari tentang semua fitur canggih Pure Writer Pro. Ketika Anda mendapatkan Pure Writer Pro, Anda dapat menggunakan semua fitur canggih.</string>
+    <string name="notYetActivated">Belum diaktifkan</string>
+    <string name="notYetActivatedOrExpired">Tidak diaktifkan atau kedaluwarsa</string>
+    <string name="ProIntroductionMarkdown"><![CDATA[
+        #### Makalah Kustom
+
+        Anda dapat dengan bebas memilih gambar di ponsel Anda atau gambar jarak jauh sebagai kertas dan latar belakang untuk editor Anda:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/0.webp)
+
+        #### Pratinjau cepat Markdown ✨
+
+        Anda dapat menggesek halaman editor secara **horizontal** untuk dengan cepat mengakses halaman pratinjau cepat Markdown:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/1.webp)
+
+        #### Ekspor sebagai file gambar / md / txt teks panjang
+
+        Anda dapat mengekspor artikel sebagai gambar teks panjang atau file .md .txt:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/2.webp)
+
+        #### Buku Ekspor
+
+        Anda dapat menemukan opsi ini di menu atas laci kiri, ini akan membantu Anda menggabungkan semua konten bab menjadi file teks biasa:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/3.webp)
+
+        #### Temukan & Ganti
+
+        Anda dapat menemukan kata kunci target dalam artikel apa pun dan menggantinya dalam batch:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/4.webp)
+
+        #### Material Design 2 Tema
+
+        Wanneer het thema Material Design 2 is ingeschakeld, krijgt u een transparante bovenste balk, die niet langer puur zwart is, en krijgt u een meer meeslepende en mooie gebruikersinterface:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
+
+        #### Garis besar
+
+        Anda dapat memasukkan editor Outline di menu overflow editor, dan ada banyak item outet yang telah ditetapkan:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/6.webp)
+    ]]></string>
+    <string name="buyPureWriterPro">Beli Pure Writer Pro</string>
+    <string name="tipMarkdownQuickPreview">Geser secara horizontal ke halaman berikutnya untuk pratinjau cepat Markdown</string>
+    <string name="expiresOn">Kedaluwarsa pada:</string>
+    <string name="lifetime">Seumur hidup</string>
+    <string name="proExpired">Pro kedaluwarsa</string>
 </resources>

@@ -233,7 +233,7 @@
     <string name="updatedAt">Actualizado el</string>
     <string name="forcedBlackTextColor">Forzar color de texto a negro</string>
     <string name="forcedWhiteTextColor">Forzar color de texto a blanco</string>
-    <string name="summaryExporting">Solo disponible cuando el espacio entre párrafos está activado</string>
+    <string name="onlyAvailableWhenParagraphOn">Solo disponible cuando el espacio entre párrafos está activado</string>
     <string name="lowProfile">Modo de enfoque de la barra de estado</string>
     <string name="chapters">Capítulos</string>
     <string name="sortTypeTitleUp">Ordenar título A - Z</string>
@@ -363,4 +363,86 @@
     <string name="addChapterBelowThis">Agregar capítulo a continuación</string>
     <string name="selectMore">Seleccione mas</string>
     <string name="moveToOtherBook">Moverse a otro libro</string>
+    <string name="autoInsertBlankLineWhenWrapping">Inserte una línea en blanco automáticamente al envolver</string>
+    <string name="paragraphSpacingSettingSummary">El texto súper largo obtendrá un mejor rendimiento cuando el espacio entre párrafos esté desactivado</string>
+    <string name="onlyAvailableWhenParagraphOff">Solo disponible cuando el espacio entre párrafos está desactivado</string>
+    <string name="markdownAsDefault">Use Markdown como el modo predeterminado para nuevos artículos</string>
+    <string name="needToPayForMarkdownRenderer">Esta es la página de Vista previa rápida de Markdown, que requiere que pague por Pure Writer Pro para usarla.</string>
+    <string name="fabContextCreateNewAfterCurrent">Insertar un nuevo artículo después del artículo actual</string>
+    <string name="fabContextCreateNewAtTheBottom">Inserte un nuevo artículo al final de la lista de artículos</string>
+    <string name="fabContextHideFabUntilNextStart">Ocultar este botón hasta el próximo lanzamiento</string>
+    <string name="signedIn">Sesión iniciada</string>
+    <string name="notSignedIn">Sesión no iniciada</string>
+    <string name="latex">LaTeX</string>
+    <string name="syntaxHighlighting">Resaltado de sintaxis</string>
+    <string name="forgetPassword">¿Has olvidado la contraseña?</string>
+    <string name="emailAddress">Dirección de correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="nightMode">Modo nocturno</string>
+    <string name="unlimitedWords">Palabras ilimitadas</string>
+    <string name="customPapers">Papeles personalizados\nDelicado, inmersivo</string>
+    <string name="markdownQuickPreview">Vista previa rápida de Markdown</string>
+    <string name="exportToPicMdTxt">Exportar como imagen larga / .md / .txt</string>
+    <string name="materialDesign2ThemeWithLineBreak">Material Design 2 theme</string>
+    <string name="neverLost">Nunca perdió</string>
+    <string name="veryVerySmooth">Muy suave y fluido</string>
+    <string name="supportParagraphSpacing">Espacio entre párrafos</string>
+    <string name="keyboardStateRestoring">Restauración del estado del teclado</string>
+    <string name="greatCursorFocus">Gran enfoque del cursor</string>
+    <string name="crazyUpdateBetterAndBetter">Sigue actualizando, mejor y mejor</string>
+    <string name="moreAdvantagesOfPureWriter">Más ventajas de Pure Writer</string>
+    <string name="account">Cuenta</string>
+    <string name="privilegeOfPureWriterPro">Privilegio de pura Writer Pro</string>
+    <string name="messageCustomFontAndPro">Comprueba que estás utilizando la fuente personalizada, que requiere Pure Writer Pro. Puede hacer clic en Aceptar para obtener Pure Writer Pro y características más avanzadas, o hacer clic para cancelar Fuente personalizada (entrará en vigencia en el próximo lanzamiento).</string>
+    <string name="messageNeedToPay">Esta es una característica Pro. Debe pagar Pure Writer Pro antes de poder usarlo. Haga clic en Aceptar para conocer todas las funciones avanzadas de Pure Writer Pro. Cuando obtienes Pure Writer Pro, puedes usar todas las funciones avanzadas.</string>
+    <string name="notYetActivated">Aún no activado</string>
+    <string name="notYetActivatedOrExpired">No activado o caducado</string>
+    <string name="ProIntroductionMarkdown"><![CDATA[
+        #### Papeles personalizados
+
+        Puede elegir libremente una imagen en su teléfono móvil o una imagen remota como papel y fondo para su editor:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/0.webp)
+
+        #### Vista previa rápida de Markdown ✨
+
+        Puede deslizar la página del editor **horizontalmente** para acceder rápidamente a la página de vista previa rápida Markdown:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/1.webp)
+
+        #### Exportar como archivo de imagen de texto largo / md / txt
+
+        Puede exportar artículos como imágenes de texto largas o archivos .md .txt:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/2.webp)
+
+        #### Exportar libro
+
+        Puede encontrar esta opción en el menú superior del cajón izquierdo, lo ayudará a combinar todo el contenido del capítulo en un archivo de texto sin formato:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/3.webp)
+
+        #### Buscar y reemplazar
+
+        Puede encontrar palabras clave de destino en cualquier artículo y reemplazarlas en lotes:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/4.webp)
+
+        #### Material Design 2 Theme
+
+        Cuando el tema Material Design 2 está habilitado, obtendrá una barra superior transparente, que ya no es negro puro, y puede obtener una IU más inmersiva y hermosa:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
+
+        #### contorno
+
+        Puede ingresar al editor de esquema en el menú superior de desbordamiento del editor, y hay muchos elementos de esquema preestablecidos:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/6.webp)
+    ]]></string>
+    <string name="buyPureWriterPro">Comprar Pure Writer Pro</string>
+    <string name="tipMarkdownQuickPreview">Deslice horizontalmente a la página siguiente para obtener una vista previa rápida de Markdown</string>
+    <string name="expiresOn">Fecha de caducidad:</string>
+    <string name="lifetime">De por vida</string>
+    <string name="proExpired">Pro expiró</string>
 </resources>

@@ -204,8 +204,6 @@
     <string name="typewriterMode">टाइपराइटर</string>
     <string name="edit">संपादित करें</string>
     <string name="editBook">पुस्तक संपादित करें</string>
-    <string name="shareText">推荐：纯纯写作，一个令人感到安心、拥有历史记录、多重防止文章丢失功能，和许多写作辅助的编辑器：https://writer.drakeet.com</string>
-    <string name="shareMessage">如果你喜欢和支持纯纯写作，请帮忙点击右侧的分享按钮与你的朋友推荐这个应用，这对于它来说意义重大，纯纯写作将因为你的支持而能够变得更好，并不断开发、完善下去，非常感谢！\n\n了解更多关于纯纯写作：https://writer.drakeet.com</string>
     <string name="wordCountLong">शब्द गणना</string>
     <string name="wordCountOfCurrentArticle">वर्तमान लेख की शब्द गणना</string>
     <string name="floatingWordCount">फ़्लोटिंग शब्द गिनती</string>
@@ -227,7 +225,7 @@
     <string name="forcedBlackTextColor">जबरदस्त काला फ़ॉन्ट</string>
     <string name="forcedWhiteTextColor">जबरदस्त सफेद फ़ॉन्ट</string>
     <string name="paragraphSpacing">अनुच्छेद अंतरण</string>
-    <string name="summaryExporting">पैराग्राफ स्पेसिंग सक्षम होने पर ही मान्य है</string>
+    <string name="onlyAvailableWhenParagraphOn">पैराग्राफ स्पेसिंग सक्षम होने पर ही मान्य है</string>
     <string name="lowProfile">स्टेटस बार फोकस मोड</string>
     <string name="chapters">चैप्टर</string>
     <string name="sortTypeTitleUp">शीर्षक आरोही</string>
@@ -343,7 +341,7 @@
     <string name="textColorSummary">ध्यान दें: जब आप पेपर स्विच करते हैं, तो टेक्स्ट का रंग अपने डिफ़ॉल्ट रंग पर स्वचालित रूप से रीसेट हो जाएगा।</string>
     <string name="titleTextSize">शीर्षक फ़ॉन्ट आकार</string>
     <string name="restoreByThisBackup">इस बैकअप द्वारा पुनर्स्थापित करें?</string>
-    <string name="restoreByThisBackupWithAppName">PureWriter: इस बैकअप द्वारा पुनर्स्थापित करें?</string>
+    <string name="restoreByThisBackupWithAppName">Pure Writer: इस बैकअप द्वारा पुनर्स्थापित करें?</string>
     <string name="collapseAllCategories">सभी श्रेणियाँ संक्षिप्त करें</string>
     <string name="showMore">अधिक दिखाएं</string>
     <string name="textColorAlpha">पाठ रंग पारदर्शिता</string>
@@ -359,4 +357,86 @@
     <string name="addChapterBelowThis">नीचे अध्याय जोड़ें</string>
     <string name="selectMore">और चुनें</string>
     <string name="moveToOtherBook">किसी अन्य पुस्तक में ले जाएं</string>
+    <string name="autoInsertBlankLineWhenWrapping">रैप करते समय अपने आप को एक खाली लाइन डालें</string>
+    <string name="paragraphSpacingSettingSummary">पैरा रिक्ति को बंद कर देने पर सुपर लंबे पाठ को बेहतर प्रदर्शन मिलेगा</string>
+    <string name="onlyAvailableWhenParagraphOff">पैरा रिक्ति बंद होने पर ही उपलब्ध है</string>
+    <string name="markdownAsDefault">नए लेखों के लिए डिफ़ॉल्ट मोड के रूप में Markdown का उपयोग करें</string>
+    <string name="needToPayForMarkdownRenderer">यह Markdown त्वरित पूर्वावलोकन पृष्ठ है, जिसका उपयोग करने के लिए आपको Pure Writer Pro के लिए भुगतान करना होगा।</string>
+    <string name="fabContextCreateNewAfterCurrent">वर्तमान लेख के बाद एक नया लेख डालें</string>
+    <string name="fabContextCreateNewAtTheBottom">लेख सूची के नीचे एक नया लेख डालें</string>
+    <string name="fabContextHideFabUntilNextStart">अगले लॉन्च तक इस बटन को छिपाएं</string>
+    <string name="signedIn">साइन इन किया गया</string>
+    <string name="notSignedIn">प्रवेश नहीं किया है</string>
+    <string name="latex">LaTeX</string>
+    <string name="syntaxHighlighting">वाक्य - विन्यास पर प्रकाश डालना</string>
+    <string name="forgetPassword">पासवर्ड भूल गए?</string>
+    <string name="emailAddress">ईमेल पता</string>
+    <string name="password">पासवर्ड</string>
+    <string name="nightMode">नाइट मोड</string>
+    <string name="unlimitedWords">असीमित शब्द</string>
+    <string name="customPapers">कस्टम पेपर्स\nनाजुक, इमर्सिव</string>
+    <string name="markdownQuickPreview">Markdown त्वरित पूर्वावलोकन\nपूर्वावलोकन करने के लिए क्षैतिज स्वाइप संपादक</string>
+    <string name="exportToPicMdTxt">लंबी छवि / .md / .txt के रूप में निर्यात करें</string>
+    <string name="materialDesign2ThemeWithLineBreak">Material Design 2 विषय</string>
+    <string name="neverLost">कभी नहीं खोया</string>
+    <string name="veryVerySmooth">बहुत चिकनी और धाराप्रवाह</string>
+    <string name="supportParagraphSpacing">पैरा रिक्ति</string>
+    <string name="keyboardStateRestoring">कीबोर्ड राज्य बहाल</string>
+    <string name="greatCursorFocus">महान कर्सर फोकस</string>
+    <string name="crazyUpdateBetterAndBetter">अद्यतन, बेहतर और बेहतर रखें</string>
+    <string name="moreAdvantagesOfPureWriter">Pure Writer के अधिक फायदे</string>
+    <string name="account">खाता</string>
+    <string name="privilegeOfPureWriterPro">Pure Writer Pro का विशेषाधिकार</string>
+    <string name="messageCustomFontAndPro">जाँच की कि आप कस्टम फ़ॉन्ट का उपयोग कर रहे हैं, जिसके लिए Pure Writer Pro की आवश्यकता है। आप Pure Writer Pro और अधिक उन्नत सुविधाएँ प्राप्त करने के लिए ओके पर क्लिक कर सकते हैं, या कस्टम फ़ॉन्ट को रद्द करने के लिए क्लिक कर सकते हैं (अगले लॉन्च में प्रभावी होगा)।</string>
+    <string name="messageNeedToPay">यह एक प्रो फीचर है। उपयोग करने से पहले आपको Pure Writer Pro के लिए भुगतान करना होगा। Pure Writer Pro की सभी उन्नत सुविधाओं के बारे में जानने के लिए ठीक क्लिक करें। जब आपको शुद्ध लेखक प्रो मिलता है, तो आप सभी उन्नत सुविधाओं का उपयोग कर सकते हैं।</string>
+    <string name="notYetActivated">अभी तक सक्रिय नहीं है</string>
+    <string name="notYetActivatedOrExpired">सक्रिय या समाप्त नहीं हुआ</string>
+    <string name="ProIntroductionMarkdown"><![CDATA[
+        #### कस्टम पेपर्स
+
+        आप स्वतंत्र रूप से अपने मोबाइल फोन में एक तस्वीर या अपने संपादक के लिए कागज और पृष्ठभूमि के रूप में एक दूरस्थ तस्वीर चुन सकते हैं:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/0.webp)
+
+        #### Markdown त्वरित पूर्वावलोकन ✨
+
+        आप Markdown क्विक प्रीव्यू पेज को तुरंत एक्सेस करने के लिए क्षैतिज रूप से संपादक पृष्ठ को स्वाइप कर सकते हैं:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/1.webp)
+
+        #### लंबी पाठ छवि / md / txt फ़ाइल के रूप में निर्यात करें
+
+        आप लेखों को लंबी पाठ छवियों या .md .txt फ़ाइलों के रूप में निर्यात कर सकते हैं:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/2.webp)
+
+        #### एक्सपोर्ट बुक
+
+        आप बाईं दराज के शीर्ष मेनू में इस विकल्प को पा सकते हैं, यह आपको सभी अध्याय सामग्री को एक सादे पाठ फ़ाइल में विलय करने में मदद करेगा:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/3.webp)
+
+        #### खोजें और बदलें
+
+        आप किसी भी लेख में लक्ष्य कीवर्ड पा सकते हैं और उन्हें बैचों में बदल सकते हैं:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/4.webp)
+
+        #### Material Design 2 विषय
+
+        जब Material Design 2 विषय को सक्षम किया जाता है, तो आपको एक पारदर्शी टॉप बार मिलेगा, जो अब शुद्ध काला नहीं है, और आप अधिक immersive और सुंदर UI प्राप्त कर सकते हैं:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
+
+        #### रेखांकित करें
+
+        आप संपादक के शीर्ष अतिप्रवाह मेनू में रूपरेखा संपादक में प्रवेश कर सकते हैं, और कई पूर्व निर्धारित रूपरेखा आइटम हैं:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/6.webp)
+    ]]></string>
+    <string name="buyPureWriterPro">Buy Pure Writer Pro</string>
+    <string name="tipMarkdownQuickPreview">Markdown त्वरित पूर्वावलोकन के लिए अगले पृष्ठ पर क्षैतिज रूप से स्वाइप करें</string>
+    <string name="expiresOn">समय समाप्ति दिनांक:</string>
+    <string name="lifetime">लाइफटाइम</string>
+    <string name="proExpired">Pro समाप्त हो गया</string>
 </resources>

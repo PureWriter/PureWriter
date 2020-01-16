@@ -204,8 +204,6 @@
     <string name="typewriterMode">Typemachine modus</string>
     <string name="edit">Bewerk</string>
     <string name="editBook">Bewerk boek</string>
-    <string name="shareText">推荐：纯纯写作，一个令人感到安心、拥有历史记录、多重防止文章丢失功能，和许多写作辅助的编辑器：https://writer.drakeet.com</string>
-    <string name="shareMessage">如果你喜欢和支持纯纯写作，请帮忙点击右侧的分享按钮与你的朋友推荐这个应用，这对于它来说意义重大，纯纯写作将因为你的支持而能够变得更好，并不断开发、完善下去，非常感谢！\n\n了解更多关于纯纯写作：https://writer.drakeet.com</string>
     <string name="wordCountLong">Aantal woorden</string>
     <string name="wordCountOfCurrentArticle">Word-telling van het huidige artikel</string>
     <string name="floatingWordCount">Floating Word Count</string>
@@ -227,7 +225,7 @@
     <string name="forcedBlackTextColor">Geforceerd zwart lettertype</string>
     <string name="forcedWhiteTextColor">Geforceerd wit lettertype</string>
     <string name="paragraphSpacing">Alinea-afstand</string>
-    <string name="summaryExporting">Alleen geldig als alinea-tussenruimte is ingeschakeld</string>
+    <string name="onlyAvailableWhenParagraphOn">Alleen geldig als alinea-tussenruimte is ingeschakeld</string>
     <string name="lowProfile">Statusbalk focusmodus</string>
     <string name="chapters">Hoofdstukken</string>
     <string name="sortTypeTitleUp">Titel oplopend</string>
@@ -359,4 +357,88 @@
     <string name="addChapterBelowThis">Voeg hoofdstuk hieronder toe</string>
     <string name="selectMore">Selecteer meer</string>
     <string name="moveToOtherBook">Ga naar een ander boek</string>
+    <string name="autoInsertBlankLineWhenWrapping">Voeg automatisch een lege regel in tijdens het inpakken</string>
+    <string name="paragraphSpacingSettingSummary">Superlange tekst krijgt betere prestaties wanneer Alinea-afstand is uitgeschakeld</string>
+    <string name="onlyAvailableWhenParagraphOff">Alleen beschikbaar wanneer Alinea-afstand is uitgeschakeld</string>
+    <string name="markdownAsDefault">Gebruik Markdown als standaardmodus voor nieuwe artikelen</string>
+    <string name="needToPayForMarkdownRenderer">Dit is de Markdown Quick Preview-pagina, waarvoor u moet betalen voor Pure Writer Pro om het te gebruiken.</string>
+    <string name="fabContextCreateNewAfterCurrent">Voeg een nieuw artikel in na het huidige artikel</string>
+    <string name="fabContextCreateNewAtTheBottom">Voeg een nieuw artikel in onderaan de artikellijst</string>
+    <string name="fabContextHideFabUntilNextStart">Verberg deze knop tot de volgende lancering</string>
+    <string name="signedIn">Ingelogd</string>
+    <string name="notSignedIn">Niet ingelogd</string>
+    <string name="latex">LaTeX</string>
+    <string name="syntaxHighlighting">Syntaxis markeren</string>
+    <string name="forgetPassword">Wachtwoord vergeten?</string>
+    <string name="emailAddress">E-mailadres</string>
+    <string name="password">Wachtwoord</string>
+    <string name="nightMode">Nachtmodus</string>
+    <string name="unlimitedWords">Onbeperkte woorden</string>
+    <string name="shareText">Aanbeveling: Pure Writer is een met tekst gevulde tekstbewerkingsapp die u gemoedsrust biedt met zijn functies: geschiedenisrecords, meerlagige bescherming die voorkomt dat u uw kostbare inhoud verliest, en ook een comfortabele schrijfomgeving. Lees hier meer: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
+    <string name="shareMessage">Als u Pure Writer graag gebruikt, help ons dan om het verder te verspreiden! Klik op de knop Delen aan de rechterkant om deze app met je vrienden te delen. Het zal veel voor ons en de app betekenen omdat het verbetert vanwege uw steun. Bedankt!\n\nGa voor meer informatie naar: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
+    <string name="customPapers">Aangepaste papieren\nDelicaat, meeslepend</string>
+    <string name="markdownQuickPreview">Markdown snel voorbeeld</string>
+    <string name="exportToPicMdTxt">Exporteer als lange afbeelding / md / txt</string>
+    <string name="materialDesign2ThemeWithLineBreak">Material Design 2 thema</string>
+    <string name="neverLost">Nooit verloren</string>
+    <string name="veryVerySmooth">Zeer soepel en vloeiend</string>
+    <string name="supportParagraphSpacing">Alinea-afstand</string>
+    <string name="keyboardStateRestoring">Toetsenbordstatus herstellen</string>
+    <string name="greatCursorFocus">Geweldige cursorfocus</string>
+    <string name="crazyUpdateBetterAndBetter">Blijf updaten, beter en beter</string>
+    <string name="moreAdvantagesOfPureWriter">Meer voordelen van Pure Writer</string>
+    <string name="account">Account</string>
+    <string name="privilegeOfPureWriterPro">Privilege van Pure Writer Pro</string>
+    <string name="messageCustomFontAndPro">Gecontroleerd dat u het aangepaste lettertype gebruikt, waarvoor Pure Writer Pro vereist is. U kunt op OK klikken om Pure Writer Pro en meer geavanceerde functies te krijgen, of klikken om Aangepast lettertype te annuleren (wordt van kracht bij de volgende lancering).</string>
+    <string name="messageNeedToPay">Dit is een Pro-functie. U moet Pure Writer Pro betalen voordat u het kunt gebruiken. Klik op OK voor meer informatie over alle geavanceerde functies van Pure Writer Pro. Wanneer u Pure Writer Pro krijgt, kunt u alle geavanceerde functies gebruiken.</string>
+    <string name="notYetActivated">Nog niet geactiveerd</string>
+    <string name="notYetActivatedOrExpired">Niet geactiveerd of verlopen</string>
+    <string name="ProIntroductionMarkdown"><![CDATA[
+        #### Aangepaste papieren
+
+        U kunt een afbeelding op uw mobiele telefoon of een afbeelding op afstand vrij kiezen als papier en achtergrond voor uw editor:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/0.webp)
+
+        #### Markdown snel voorbeeld ✨
+
+        U kunt de editorpagina **horizontaal** vegen om snel toegang te krijgen tot de Markdown-snelvoorbeeldpagina:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/1.webp)
+
+        #### Exporteer als lange tekstafbeelding / md / txt-bestand
+
+        U kunt artikelen exporteren als lange tekstafbeeldingen of .md .txt-bestanden:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/2.webp)
+
+        #### Boek exporteren
+
+        U vindt deze optie in het bovenste menu van de linkerlade, het helpt u alle hoofdstukinhoud samen te voegen in een tekstbestand:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/3.webp)
+
+        #### Zoeken en vervangen
+
+        U kunt in elk artikel doelsleutelwoorden vinden en deze in batches vervangen:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/4.webp)
+
+        #### Materiaalontwerp 2 Thema
+
+        Wanneer het thema Material Design 2 is ingeschakeld, krijgt u een transparante bovenste balk, die niet langer puur zwart is, en krijgt u een meer meeslepende en mooie gebruikersinterface:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
+
+        #### Schets
+
+        U kunt de overzichtseditor openen in het bovenste overloopmenu van de editor en er zijn veel vooraf ingestelde overzichtsitems:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/6.webp)
+    ]]></string>
+    <string name="buyPureWriterPro">Koop Pure Writer Pro</string>
+    <string name="tipMarkdownQuickPreview">Veeg horizontaal naar de volgende pagina voor een snel voorbeeld van Markdown</string>
+    <string name="expiresOn">Verloopt op:</string>
+    <string name="lifetime">Levenslang</string>
+    <string name="proExpired">Pro verlopen</string>
 </resources>

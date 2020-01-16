@@ -1,5 +1,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="pureWriter">Pure Writer</string>
+    <string name="pureWriterPro" translatable="false">Pure Writer Pro</string>
+    <string name="titleForTimeMachineHeart" translatable="false">@string/pureWriter</string>
     <string name="appNameDebug" translatable="false">纯纯写作 β</string>
     <string name="titleHint">Title</string>
     <string name="editorHintTitle" translatable="false">@string/titleHint</string>
@@ -143,6 +145,8 @@
     <string name="fixedAppBarLayoutBehavior" translatable="false">com.drakeet.purewriter.widget.FixedAppBarLayoutBehavior</string>
 
     <!--alipay-->
+    <string name="trueAlipay" translatable="false">支付宝支付</string>
+    <string name="trueWeChatPay" translatable="false">微信支付</string>
     <string name="alipay" translatable="false">支付宝/微信/激活码</string>
     <string name="active" translatable="false">激活</string>
     <string name="alipayReadMe" translatable="false">使用支付宝购买 Pro 激活码，您需点击「<b>购买激活码</b>」按钮跳转到支付宝，并转账支付 <b>${RMB}</b> 元。\n\n<b>跳转支付宝后，会自动复制纯纯写作的支付宝账号 drakeet@qq.com 到您剪贴板，您需自行完成转账。</b>\n\n转账后纯纯写作将很快通过支付宝发送激活码给您，激活码永久有效，可换设备使用，但同一时间只能用于一个设备。</string>
@@ -169,7 +173,7 @@
     <string name="noHistory">No history found</string>
     <string name="formatterRemoveIndent">Remove indentation</string>
     <string name="keepScreenOn">Keep screen on</string>
-    <string name="titleGFMBreaks" translatable="false">GFM line breaks</string>
+    <string name="titleGFMBreaks" translatable="false">GFM line breaks / Soft break adds new line</string>
     <string name="gfmBreaksEnabled">Wrap with a line break</string>
     <string name="gfmBreaksDisabled">Require at least two line breaks to render the newline</string>
     <!--time machine-->
@@ -259,7 +263,8 @@
     <string name="updatedAt">Updated at</string>
     <string name="forcedBlackTextColor">Force Black Text Color</string>
     <string name="forcedWhiteTextColor">Force White Text Color</string>
-    <string name="summaryExporting">Only available when Paragraph Spacing is on</string>
+    <string name="onlyAvailableWhenParagraphOn">Only available when Paragraph Spacing is ON</string>
+    <string name="onlyAvailableWhenParagraphOff">Only available when Paragraph Spacing is OFF</string>
     <string name="lowProfile">Status bar focus mode</string>
     <string name="chapters">Chapters</string>
     <string name="sortTypeTitleUp">Sort Title A - Z</string>
@@ -378,7 +383,7 @@
     <string name="textColorSummary">Note: When you switch the Paper, the text color will be automatically reset to the default color.</string>
     <string name="titleTextSize">Title font size</string>
     <string name="restoreByThisBackup">Restore by this backup?</string>
-    <string name="restoreByThisBackupWithAppName">PureWriter: Restore by this backup</string>
+    <string name="restoreByThisBackupWithAppName">Pure Writer: Restore by this backup</string>
     <string name="collapseAllCategories">Collapse all Categories</string>
     <string name="showMore">Show more</string>
     <string name="textColorAlpha">Text color alpha / transparency</string>
@@ -403,4 +408,99 @@
     <string name="addChapterBelowThis">Add Chapter below</string>
     <string name="addChapterAboveThis">Add Chapter above</string>
     <string name="moveToOtherBook">Move to another Book</string>
+    <string name="paragraphSpacingSettingSummary">Super long text will get better performance when Paragraph Spacing is turned OFF</string>
+    <string name="autoInsertBlankLineWhenWrapping">Insert a blank line automatically when wrapping</string>
+    <string name="markdownAsDefault">Markdown as the default mode for new articles</string>
+    <string name="needToPayForMarkdownRenderer">This is the Markdown Quick Preview page, which requires you to pay for Pure Writer Pro to use it.</string>
+    <string name="fabContextCreateNewAfterCurrent">Insert a new article after the current article</string>
+    <string name="fabContextCreateNewAtTheBottom">Insert a new article at the bottom of the article list</string>
+    <string name="fabContextHideFabUntilNextStart">Hide this button until the next launch</string>
+    <string name="license">License</string>
+    <string name="customPapers">Custom Papers\nDelicate, Immersive</string>
+    <string name="markdownQuickPreview">Markdown Quick Preview</string>
+    <string name="exportToPicMdTxt">Export as long image/md/txt</string>
+    <string name="materialDesign2ThemeWithLineBreak">Material Design 2\ntheme</string>
+    <string name="ProIntroductionMarkdown"><![CDATA[
+        #### Custom Papers
+
+        You can freely choose a picture in your mobile phone or a remote picture as the paper and background for your editor:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/0.webp)
+
+        #### Markdown Quick Preview ✨
+
+        You can **swipe the editor page horizontally** to quickly access the Markdown Quick Preview page:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/1.webp)
+
+        #### Export as long text image / md / txt file
+
+        You can export articles as long text images or .md .txt files:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/2.webp)
+
+        #### Export Book
+
+        You can find this option in the top menu of the left drawer, it will help you merge all chapter content into a plain text file:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/3.webp)
+
+        #### Find & Replace
+
+        You can find target keywords in any article and replace them in batches:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/4.webp)
+
+        #### Material Design 2 Theme
+
+        When the Material Design 2 theme is enabled, you will get a transparent top bar, which is no longer pure black, and you can get a more immersive and beautiful UI:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
+
+        #### Outline
+
+        You can enter the Outline editor in the top overflow menu of the editor, and there are many preset outline items:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/6.webp)
+    ]]></string>
+    <string name="unlimitedWords">Unlimited words</string>
+    <string name="neverLost">Never lost</string>
+    <string name="veryVerySmooth">Very very smooth</string>
+    <string name="nightMode">Night mode</string>
+    <string name="supportParagraphSpacing">Paragraph Spacing</string>
+    <string name="keyboardStateRestoring">Keyboard state restoring</string>
+    <string name="greatCursorFocus">Great cursor focus</string>
+    <string name="crazyUpdateBetterAndBetter">Crazy update, better and better</string>
+    <string name="moreAdvantagesOfPureWriter">More advantages of Pure Writer</string>
+    <string name="account">Account</string>
+    <string name="privilegeOfPureWriterPro">Privilege of Pure Writer Pro</string>
+    <string name="messageThankYouForYourSupport">Your support will make Pure Writer be better developed, keep us to make extraordinary products, while motivating more independent developers. \n\nPure Writer can be continuously updated and improved because of your support. Thank you very much!</string>
+    <string name="emailAddress">Email address</string>
+    <string name="password">Password</string>
+    <string name="noteCreateAccount" translatable="false">* 您可在此页面输入账号密码进行注册或登录\n\n* 若为注册，<b>请确保您的邮箱地址准确性并归属于您</b>！因为若填写有误，日后您将无法修改密码。\n\n* 这是纯纯写作专属账号，目前仅用于绑定您的付费状态。若您需要云备份，需额外配置您的云备份账号。</string>
+    <string name="signUpOrSignIn">Sign Up / Sign In</string>
+    <string name="emailAddressIsEmptyOrIllegal">Email address is empty or illegal</string>
+    <string name="passwordMustBeAtLeast6Characters">Password must be at least 6 characters</string>
+    <string name="helperTextForNewAccount">This is a new account, we will register it for you</string>
+    <string name="helperTextForRegisteredAccount">This account is registered, we will sign it in for you</string>
+    <string name="forgetPassword">Forget password?</string>
+    <string name="latex">LaTeX formula</string>
+    <string name="syntaxHighlighting">Syntax highlighting</string>
+    <string name="notSignedIn">Not signed in</string>
+    <string name="requiresAtLeast6Characters">Requires at least 6 characters</string>
+    <string name="signedIn">Signed in</string>
+    <string name="emailOrPasswordIsIncorrect">The email or password is incorrect</string>
+    <string name="messageCustomFontAndPro">Checked that you are using the "Custom Font", which requires Pure Writer Pro. You can click OK to get Pure Writer Pro and more advanced features, or click to cancel Custom Font (will take effect in next launching).</string>
+    <string name="hasReadProReadme" translatable="false">已了解并同意《<u>会员须知</u>》</string>
+    <string name="messageNeedToPay">This is a Pro feature. You need to pay for Pure Writer Pro before you can use it. Click OK to learn about all the advanced features of Pure Writer Pro. When you get Pure Writer Pro, you can use all the advanced features.</string>
+    <string name="notYetActivated">Not yet activated</string>
+    <string name="notYetActivatedOrExpired">Not activated or expired</string>
+    <string name="signingInIsInvalid">Signing In is invalid</string>
+    <string name="messageSigningInIsInvalid" translatable="false">因您在其他设备上登录超过限数（或因为刷机导致设备 ID 变更）或密码变更，当前设备已经失去激活并自动退出登录。\n如果要重新激活此设备，您需要重新登录。</string>
+    <string name="verificationCode">Verification code</string>
+    <string name="buyPureWriterPro">Buy Pure Writer Pro</string>
+    <string name="tipMarkdownQuickPreview">Swipe horizontally to the next page\nfor Markdown Quick Preview</string>
+    <string name="lifetime">LIFETIME</string>
+    <string name="proExpired">Pro Expired</string>
+    <string name="expiresOn">Expires on:</string>
 </resources>

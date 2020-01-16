@@ -203,8 +203,6 @@
     <string name="typewriterMode">タイプライター</string>
     <string name="edit">編集</string>
     <string name="editBook">本の編集</string>
-    <string name="shareText">推荐：纯纯写作，一个令人感到安心、拥有历史记录、多重防止文章丢失功能，和许多写作辅助的编辑器：https://writer.drakeet.com</string>
-    <string name="shareMessage">如果你喜欢和支持纯纯写作，请帮忙点击右侧的分享按钮与你的朋友推荐这个应用，这对于它来说意义重大，纯纯写作将因为你的支持而能够变得更好，并不断开发、完善下去，非常感谢！\n\n了解更多关于纯纯写作：https://writer.drakeet.com</string>
     <string name="wordCountLong">単語数</string>
     <string name="wordCountOfCurrentArticle">現在の記事の単語数</string>
     <string name="floatingWordCount">Floating Word Count</string>
@@ -226,7 +224,7 @@
     <string name="forcedBlackTextColor">強制黒色フォント</string>
     <string name="forcedWhiteTextColor">強制白色フォント</string>
     <string name="paragraphSpacing">段落の間隔</string>
-    <string name="summaryExporting">段落の間隔が有効な場合にのみ有効です</string>
+    <string name="onlyAvailableWhenParagraphOn">段落の間隔が有効な場合にのみ有効です</string>
     <string name="lowProfile">ステータスバーフォーカスモード</string>
     <string name="chapters">チャプタ</string>
     <string name="sortTypeTitleUp">タイトルの昇順</string>
@@ -359,4 +357,86 @@
     <string name="addChapterBelowThis">下に章を追加</string>
     <string name="selectMore">さらに選択</string>
     <string name="moveToOtherBook">別の本に移動する</string>
+    <string name="autoInsertBlankLineWhenWrapping">ラッピング時に自動的に空白行を挿入します</string>
+    <string name="paragraphSpacingSettingSummary">段落間隔をオフにすると、スーパーロングテキストのパフォーマンスが向上します。</string>
+    <string name="onlyAvailableWhenParagraphOff">段落間隔がオフの場合のみ使用可能</string>
+    <string name="markdownAsDefault">新しい記事のデフォルトモードとしてMarkdownを使用する</string>
+    <string name="needToPayForMarkdownRenderer">これは、Markdownクイックプレビューページです。このページを使用するには、Pure Writer Proに料金を支払う必要があります。</string>
+    <string name="fabContextCreateNewAfterCurrent">現在の記事の後に新しい記事を挿入する</string>
+    <string name="fabContextCreateNewAtTheBottom">記事リストの下部に新しい記事を挿入します</string>
+    <string name="fabContextHideFabUntilNextStart">次の起動までこのボタンを非表示にします</string>
+    <string name="signedIn">ログインしました</string>
+    <string name="notSignedIn">ログインしていません</string>
+    <string name="latex">LaTeX</string>
+    <string name="syntaxHighlighting">構文の強調表示</string>
+    <string name="forgetPassword">パスワードをお忘れですか?</string>
+    <string name="emailAddress">メールアドレス</string>
+    <string name="password">パスワード</string>
+    <string name="nightMode">夜間モード</string>
+    <string name="unlimitedWords">無制限の単語</string>
+    <string name="customPapers">カスタムペーパー\n綺麗な</string>
+    <string name="markdownQuickPreview">Markdownクイックプレビュー\nプレビューする水平スワイプエディター</string>
+    <string name="exportToPicMdTxt">長い画像/.md/.txtとしてエクスポート</string>
+    <string name="materialDesign2ThemeWithLineBreak">Material Design 2テーマ</string>
+    <string name="neverLost">失われたことはありません</string>
+    <string name="veryVerySmooth">非常に滑らかで流fluent</string>
+    <string name="supportParagraphSpacing">段落間隔</string>
+    <string name="keyboardStateRestoring">キーボード状態の復元</string>
+    <string name="greatCursorFocus">素晴らしいカーソルフォーカス</string>
+    <string name="crazyUpdateBetterAndBetter">更新を続け、より良く</string>
+    <string name="moreAdvantagesOfPureWriter">Pure Writerのその他の利点</string>
+    <string name="account">アカウント</string>
+    <string name="privilegeOfPureWriterPro">Pure Writer Proの特権</string>
+    <string name="messageCustomFontAndPro">Pure Writer Proを必要とするカスタムフォントを使用していることを確認しました。 [OK]をクリックしてPure Writer Proおよびより高度な機能を取得するか、クリックしてカスタムフォントをキャンセルします（次回の起動時に有効になります）。</string>
+    <string name="messageNeedToPay">これはProの機能です。 Pure Writer Proを使用する前に料金を支払う必要があります。 [OK]をクリックして、PureWriterProのすべての高度な機能について学習します。 Pure Writer Proを入手すると、すべての高度な機能を使用できます。</string>
+    <string name="notYetActivated">まだ有効化されていません</string>
+    <string name="notYetActivatedOrExpired">アクティブ化されていないか、期限切れです</string>
+    <string name="ProIntroductionMarkdown"><![CDATA[
+        #### カスタムペーパー
+
+        編集者の紙と背景として、携帯電話の画像またはリモートの画像を自由に選択できます：
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/0.webp)
+
+        #### Markdownクイックプレビュー ✨
+
+        エディターページを**水平**にスワイプして、Markdownクイックプレビューページにすばやくアクセスできます：
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/1.webp)
+
+        #### 長いテキスト画像/ md / txtファイルとしてエクスポート
+
+        長いテキスト画像または.md .txtファイルとして記事をエクスポートできます：
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/2.webp)
+
+        #### エクスポートブック
+
+        このオプションは、左側の引き出しのトップメニューにあります。すべてのチャプターコンテンツをプレーンテキストファイルにマージするのに役立ちます：
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/3.webp)
+
+        #### 検索と置換
+
+        任意の記事でターゲットキーワードを見つけて、バッチで置き換えることができます：
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/4.webp)
+
+        #### Material Design 2 テーマ
+
+        Material Design 2テーマを有効にすると、透明なトップバーが表示されます。これは純粋な黒ではなく、より没入感のある美しいUIを取得できます。
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
+
+        #### 概要
+
+        エディターのトップオーバーフローメニューでアウトラインエディターに入ることができ、多くのプリセットアウトラインアイテムがあります：
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/6.webp)
+    ]]></string>
+    <string name="buyPureWriterPro">Pure Writer Proを購入する</string>
+    <string name="tipMarkdownQuickPreview">Markdownクイックプレビューの次のページに水平にスワイプします</string>
+    <string name="expiresOn">失効日</string>
+    <string name="lifetime">永久に有効です</string>
+    <string name="proExpired">Proの有効期限が切れました</string>
 </resources>
