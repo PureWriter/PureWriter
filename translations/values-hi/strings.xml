@@ -362,8 +362,8 @@
     <string name="onlyAvailableWhenParagraphOff">पैरा रिक्ति बंद होने पर ही उपलब्ध है</string>
     <string name="markdownAsDefault">नए लेखों के लिए डिफ़ॉल्ट मोड के रूप में Markdown का उपयोग करें</string>
     <string name="needToPayForMarkdownRenderer">यह Markdown त्वरित पूर्वावलोकन पृष्ठ है, जिसका उपयोग करने के लिए आपको Pure Writer Pro के लिए भुगतान करना होगा।</string>
-    <string name="fabContextCreateNewAfterCurrent">वर्तमान लेख के बाद एक नया लेख डालें</string>
-    <string name="fabContextCreateNewAtTheBottom">लेख सूची के नीचे एक नया लेख डालें</string>
+    <string name="fabContextCreateNewAfterCurrent">वर्तमान लेख के बाद नया लेख</string>
+    <string name="fabContextCreateNewAtTheBottom">लेख सूची के नीचे नया लेख</string>
     <string name="fabContextHideFabUntilNextStart">अगले लॉन्च तक इस बटन को छिपाएं</string>
     <string name="signedIn">साइन इन किया गया</string>
     <string name="notSignedIn">प्रवेश नहीं किया है</string>
@@ -439,4 +439,8 @@
     <string name="expiresOn">समय समाप्ति दिनांक:</string>
     <string name="lifetime">लाइफटाइम</string>
     <string name="proExpired">Pro समाप्त हो गया</string>
+    <string name="useLegacyRender">विरासत रेंडरर का उपयोग करें</string>
+    <string name="changelog">बदलाव का</string>
+    <string name="fabContextReadOnlyMode">पढ़ें- केवल मोड</string>
+    <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">वर्तमान श्रेणी के निचले भाग में नया लेख</string>
 </resources>

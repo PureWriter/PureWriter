@@ -362,8 +362,8 @@
     <string name="onlyAvailableWhenParagraphOff">段落間隔がオフの場合のみ使用可能</string>
     <string name="markdownAsDefault">新しい記事のデフォルトモードとしてMarkdownを使用する</string>
     <string name="needToPayForMarkdownRenderer">これは、Markdownクイックプレビューページです。このページを使用するには、Pure Writer Proに料金を支払う必要があります。</string>
-    <string name="fabContextCreateNewAfterCurrent">現在の記事の後に新しい記事を挿入する</string>
-    <string name="fabContextCreateNewAtTheBottom">記事リストの下部に新しい記事を挿入します</string>
+    <string name="fabContextCreateNewAfterCurrent">現在の記事の後の 新しい記事</string>
+    <string name="fabContextCreateNewAtTheBottom">記事リストの下部にある 新しい記事</string>
     <string name="fabContextHideFabUntilNextStart">次の起動までこのボタンを非表示にします</string>
     <string name="signedIn">ログインしました</string>
     <string name="notSignedIn">ログインしていません</string>
@@ -439,4 +439,8 @@
     <string name="expiresOn">失効日</string>
     <string name="lifetime">永久に有効です</string>
     <string name="proExpired">Proの有効期限が切れました</string>
+    <string name="useLegacyRender">レガシーレンダラーを使用する</string>
+    <string name="changelog">変更ログ</string>
+    <string name="fabContextReadOnlyMode">読み取り専用モード</string>
+    <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">現在のカテゴリの下部にある 新しい記事</string>
 </resources>

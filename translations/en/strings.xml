@@ -412,8 +412,9 @@
     <string name="autoInsertBlankLineWhenWrapping">Insert a blank line automatically when wrapping</string>
     <string name="markdownAsDefault">Markdown as the default mode for new articles</string>
     <string name="needToPayForMarkdownRenderer">This is the Markdown Quick Preview page, which requires you to pay for Pure Writer Pro to use it.</string>
-    <string name="fabContextCreateNewAfterCurrent">Insert a new article after the current article</string>
-    <string name="fabContextCreateNewAtTheBottom">Insert a new article at the bottom of the article list</string>
+    <string name="fabContextCreateNewAfterCurrent">New article after the current article</string>
+    <string name="fabContextCreateNewAtTheBottom">New article at the bottom of the article list</string>
+    <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">New article at the bottom of current Category</string>
     <string name="fabContextHideFabUntilNextStart">Hide this button until the next launch</string>
     <string name="license">License</string>
     <string name="customPapers">Custom Papers\nDelicate, Immersive</string>
@@ -503,4 +504,7 @@
     <string name="lifetime">LIFETIME</string>
     <string name="proExpired">Pro Expired</string>
     <string name="expiresOn">Expires on:</string>
+    <string name="useLegacyRender">Use legacy renderer</string>
+    <string name="changelog">Changelog</string>
+    <string name="fabContextReadOnlyMode">Read-only mode</string>
 </resources>

@@ -379,8 +379,8 @@
     <string name="onlyAvailableWhenParagraphOff">僅在關閉段間距時有效</string>
     <string name="markdownAsDefault">Markdown 作為新建文章默認模式</string>
     <string name="needToPayForMarkdownRenderer">這是 Markdown 快捷預覽頁面，它需要您付費獲得純純寫作進階版才能使用。</string>
-    <string name="fabContextCreateNewAfterCurrent">在當前文章之後插入新文章</string>
-    <string name="fabContextCreateNewAtTheBottom">在文章列表底部插入新文章</string>
+    <string name="fabContextCreateNewAfterCurrent">在 目前文章之後 插入新文章</string>
+    <string name="fabContextCreateNewAtTheBottom">在 文章列表底部 插入新文章</string>
     <string name="fabContextHideFabUntilNextStart">隱藏這個按鈕直到下次啟動</string>
     <string name="signedIn">已登入</string>
     <string name="notSignedIn">尚未登入</string>
@@ -461,10 +461,13 @@
 
         ![圖片](https://gitee.com/PureWriter/resources/raw/master/pro/6.webp)
     ]]></string>
-    <string name="messageThankYouForYourSupport">您的支援能夠讓純純寫作更好地堅持開發下去，使我們一直堅持好的方向，良心的產品，同時激勵更多的獨立開發者。\n\n純純寫作因為您的支援而能夠不斷更新、完善，非常感謝！</string>
+    <string name="messageThankYouForYourSupport">\"遇到喜歡的東西就把它買下來，錢並不是真的花掉了，只是換一種方式，陪伴在你身邊…\"😋\n\n同時，您的支援能夠讓純純寫作更好地堅持開發下去，使我們一直堅持好的方向，良心的產品，並且激勵更多的獨立開發者。\n\n純純寫作因為您的支援而能夠不斷更新、完善，非常感謝！</string>
     <string name="buyPureWriterPro"><b>購買純純寫作</b> Pro</string>
     <string name="tipMarkdownQuickPreview">橫向劃動到下一個頁面\n可以進行 Markdown 快捷預覽</string>
     <string name="expiresOn">到期日</string>
     <string name="lifetime">有效期至永久</string>
     <string name="proExpired">會員已過期</string>
+    <string name="changelog">更新日誌</string>
+    <string name="fabContextReadOnlyMode">唯讀模式</string>
+    <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">在 目前卷末尾 插入新文章</string>
 </resources>

@@ -362,8 +362,8 @@
     <string name="onlyAvailableWhenParagraphOff">Alleen beschikbaar wanneer Alinea-afstand is uitgeschakeld</string>
     <string name="markdownAsDefault">Gebruik Markdown als standaardmodus voor nieuwe artikelen</string>
     <string name="needToPayForMarkdownRenderer">Dit is de Markdown Quick Preview-pagina, waarvoor u moet betalen voor Pure Writer Pro om het te gebruiken.</string>
-    <string name="fabContextCreateNewAfterCurrent">Voeg een nieuw artikel in na het huidige artikel</string>
-    <string name="fabContextCreateNewAtTheBottom">Voeg een nieuw artikel in onderaan de artikellijst</string>
+    <string name="fabContextCreateNewAfterCurrent">Nieuw artikel na het huidige artikel</string>
+    <string name="fabContextCreateNewAtTheBottom">Nieuw artikel onderaan de artikellijst</string>
     <string name="fabContextHideFabUntilNextStart">Verberg deze knop tot de volgende lancering</string>
     <string name="signedIn">Ingelogd</string>
     <string name="notSignedIn">Niet ingelogd</string>
@@ -441,4 +441,8 @@
     <string name="expiresOn">Verloopt op:</string>
     <string name="lifetime">Levenslang</string>
     <string name="proExpired">Pro verlopen</string>
+    <string name="useLegacyRender">Gebruik oudere renderer</string>
+    <string name="changelog">Changelog</string>
+    <string name="fabContextReadOnlyMode">Alleen-lezen modus</string>
+    <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Nieuw artikel onderaan de huidige categorie</string>
 </resources>

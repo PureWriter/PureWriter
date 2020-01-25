@@ -362,8 +362,8 @@
     <string name="onlyAvailableWhenParagraphOff">Доступно только при отключенном интервале абзаца</string>
     <string name="markdownAsDefault">Используйте Markdown в качестве режима по умолчанию для новых статей</string>
     <string name="needToPayForMarkdownRenderer">Это страница быстрого предварительного просмотра уценки, которая требует от вас оплаты за использование Pure Writer Pro.</string>
-    <string name="fabContextCreateNewAfterCurrent">Вставьте новую статью после текущей статьи</string>
-    <string name="fabContextCreateNewAtTheBottom">Вставьте новую статью внизу списка статей</string>
+    <string name="fabContextCreateNewAfterCurrent">Новая статья после текущей статьи</string>
+    <string name="fabContextCreateNewAtTheBottom">Новая статья внизу списка статей</string>
     <string name="fabContextHideFabUntilNextStart">Скрыть эту кнопку до следующего запуска</string>
     <string name="signedIn">Вход выполнен</string>
     <string name="notSignedIn">Ошибка входа</string>
@@ -439,4 +439,8 @@
     <string name="expiresOn">Срок действия:</string>
     <string name="lifetime">Пожизненно</string>
     <string name="proExpired">Pro истек</string>
+    <string name="useLegacyRender">Использовать устаревший рендер</string>
+    <string name="changelog">Изменения</string>
+    <string name="fabContextReadOnlyMode">Режим только для чтения</string>
+    <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Новая статья внизу текущей категории</string>
 </resources>

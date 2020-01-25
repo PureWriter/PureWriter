@@ -179,7 +179,7 @@
     <string name="mode">模式</string>
     <string name="tipHasNotPermissionWithAutoBackup">尝试自动备份失败，因为您没有给予纯纯写作存储权限</string>
     <string name="hideTitleBarWhenPreviewingMarkdown">预览 Markdown 时隐藏标题栏</string>
-    <string name="privacyPolicy">隐私政策</string>
+    <string name="privacyPolicy">《隐私政策》和《用户协议》</string>
     <string name="beforeRestoringYourBackup">恢复备份之前</string>
     <string name="trashDescription">找回您删除的文章</string>
     <string name="messageDeleteArticlesDirectly">直接删除这些文章</string>
@@ -380,8 +380,9 @@
     <string name="autoInsertBlankLineWhenWrapping">换行时自动插入空行</string>
     <string name="markdownAsDefault">Markdown 作为新建文章默认模式</string>
     <string name="needToPayForMarkdownRenderer">这是 Markdown 快捷预览页面，它需要您付费获得纯纯写作高级版才能使用。</string>
-    <string name="fabContextCreateNewAfterCurrent">在当前文章之后插入新文章</string>
-    <string name="fabContextCreateNewAtTheBottom">在文章列表底部插入新文章</string>
+    <string name="fabContextCreateNewAfterCurrent">在 当前文章之后 插入新文章</string>
+    <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">在 当前卷末尾 插入新文章</string>
+    <string name="fabContextCreateNewAtTheBottom">在 文章列表底部 插入新文章</string>
     <string name="fabContextHideFabUntilNextStart">隐藏这个按钮直到下次启动</string>
     <string name="license">激活码</string>
     <string name="ProIntroductionMarkdown"><![CDATA[
@@ -436,7 +437,7 @@
     <string name="moreAdvantagesOfPureWriter">更多纯纯写作的优势</string>
     <string name="account">账号</string>
     <string name="privilegeOfPureWriterPro">纯纯写作 Pro 特权介绍</string>
-    <string name="messageThankYouForYourSupport">您的支持能够让纯纯写作更好地坚持开发下去，使我们一直坚持好的方向，良心的产品，同时激励更多的独立开发者。\n\n纯纯写作因为您的支持而能够不断更新、完善，非常感谢！</string>
+    <string name="messageThankYouForYourSupport">\"遇到喜欢的东西就把它买下来，钱并不是真的花掉了，只是换一种方式，陪伴在你身边…\"😋\n\n同时，您的支持能够让纯纯写作更好地坚持开发下去，使我们一直坚持好的方向，良心的产品，并且激励更多的独立开发者。\n\n纯纯写作因为您的支持而能够不断更新、完善，非常感谢！</string>
     <string name="signUpOrSignIn">注册或登录</string>
     <string name="emailAddressIsEmptyOrIllegal">邮箱地址为空或不合法</string>
     <string name="passwordMustBeAtLeast6Characters">密码长度不能少于 6 位</string>
@@ -469,4 +470,7 @@
     <string name="lifetime">有效期至永久</string>
     <string name="proExpired">会员已过期</string>
     <string name="expiresOn">有效期至</string>
+    <string name="useLegacyRender">使用旧版渲染器</string>
+    <string name="changelog">更新日志</string>
+    <string name="fabContextReadOnlyMode">只读模式</string>
 </resources>

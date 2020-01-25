@@ -359,8 +359,8 @@
     <string name="onlyAvailableWhenParagraphOff">Nur verfügbar, wenn der Absatzabstand deaktiviert ist</string>
     <string name="markdownAsDefault">Verwenden Sie Markdown als Standardmodus für neue Artikel</string>
     <string name="needToPayForMarkdownRenderer">Dies ist die Markdown-Schnellvorschau-Seite, auf der Sie für die Verwendung von Pure Writer Pro bezahlen müssen.</string>
-    <string name="fabContextCreateNewAfterCurrent">Fügen Sie nach dem aktuellen Artikel einen neuen Artikel ein</string>
-    <string name="fabContextCreateNewAtTheBottom">Fügen Sie einen neuen Artikel am Ende der Artikelliste ein</string>
+    <string name="fabContextCreateNewAfterCurrent">Neuer Artikel nach dem aktuellen Artikel</string>
+    <string name="fabContextCreateNewAtTheBottom">Neuer Artikel am Ende der Artikelliste</string>
     <string name="fabContextHideFabUntilNextStart">Blenden Sie diese Schaltfläche bis zum nächsten Start aus</string>
     <string name="signedIn">Angemeldet</string>
     <string name="notSignedIn">Nicht angemeldet</string>
@@ -436,4 +436,8 @@
     <string name="expiresOn">Gültig bis:</string>
     <string name="lifetime">Unbegrenzt</string>
     <string name="proExpired">Pro abgelaufen</string>
+    <string name="useLegacyRender">Verwenden Sie den Legacy-Renderer</string>
+    <string name="changelog">Änderungsprotokoll</string>
+    <string name="fabContextReadOnlyMode">Nur-Lese-Modus</string>
+    <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Neuer Artikel am Ende der aktuellen Kategorie</string>
 </resources>

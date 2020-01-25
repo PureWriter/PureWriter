@@ -11,11 +11,11 @@
     <string name="redo">Ripristina</string>
     <string name="about">Informazioni su… | Aiuto</string>
 
-    <string name="defaultContent">Salve! Hai tra le mani un editor rapido di testo in chiaro progettato avendo in mente quello che noi crediamo debba essere \"una buona esperienza di scrittura\". Pure Writer:<b>puoi considerarlo minimalista, ti permette di scrivere il contenuto essenziale in qualsiasi momento, ovunque e senza temere di perdere mai il tuo contenuto.</b>\nCon la funzione di spaziatura delle righe e dei paragrafi di Pure Writer\n, il tuo testo risulta ora  chiaro e maggiormente comodo da leggere. Non solo, ma ha anche uno scorrimento fluido, una tastiera a scorrimento e molte altre caratteristiche interessanti.\nPure Writer incarna la semplicita\', ossia una complessita\' nascosta. Potrai inoltre criptare il tuo lavoro tramite le tue impronte digitali, iniziare o smettere di scrivere quando desideri, condividere i tuoi contenuti rapidamente con altre applicazioni.\nCosa fondamentale, <b>a meno che tu non lo cancelli in modo esplicito (ossia manualmente), non perderai mai il tuo lavoro durante l\'utilizzo di questo editor di testo. Che si tratti di una cancellazione accidentale o di un arresto inaspettato, sarete ancora in grado di recuperarlo dalla cronologia.</b>\nAltre caratteristiche: WebDAV backup tramite Cloud, tema Material Design 2, Markdown, modalita\' macchina da scrivere, esportazione come immagine di testo lunga, Time Machine....\nSara\' tranquillamente possibile interrompere e continuare a scrivere in qualsiasi momento, ovunque tu sia.\nDivertiti utilizzando Pure Writer.</string>
+    <string name="defaultContent">Gentile utilizzatore, ti diamo il benvenuto nella nostra applicazione. \nNelle tue mani hai un editor di testo progettato avendo in mente quella che noi crediamo debba essere “una buona esperienza di scrittura”.\nPure Writer è un editor minimalista che ti permetterà di organizzare il contenuto in una forma essenziale senza temere di perdere alcunché.\nCon la nostra funzione di spaziatura delle righe e dei paragrafi il testo risulta ora più chiaro e comodo da leggere. \nAbbiamo migliorato anche lo scorrimento del testo che ora appare fluido e senza intoppi. A supporto di una scrittura ancora più coinvolgente troverai anche una splendida tastiera a scomparsa, e molte altre caratteristiche interessanti seguiranno nei prossimi aggiornamenti.\nSe lo vorrai, potrai inoltre criptare il tuo lavoro e accedere a esso mediante le tue impronte digitali, iniziare o smettere di scrivere quando lo desideri, come pure condividere i tuoi contenuti esternamente verso altre applicazioni.\nQuestione non meno importante, se si esclude un tuo esplicito intervento nell’eliminare in modo permanente un manoscritto (ovvero intenzionalmente), non perderai mai nessun dato durante l\'utilizzo di questo editor: che si tratti di una cancellazione accidentale o di un arresto inaspettato sarai ancora in grado di ripristinarlo dallo storico che, ricordo, potrai consultare quando vuoi.\nPure Writer incarna la semplicità, ovvero una complessità ben nascosta.\nAltre caratteristiche: \nWebDAV backup tramite Cloud, tema Material Design 2, Markdown, modalità ‘macchina da scrivere’, esportazione come immagine di testo lunga, Macchina del tempo, ecc.\nCon Pure Writer è possibile interrompere una sessione di scrittura e riprenderla in un momento successivo, ovunque tu sia.\nLibera la mente da preoccupazioni: esprimi le tue migliori idee e dai vita al tuo prossimo best seller. Al resto pensiamo noi.\nDivertiti utilizzando Pure Writer.</string>
     <string name="share">Condividi con altra App</string>
     <string name="copyTitle">Copia il Titolo</string>
     <string name="lock">Blocca</string>
-    <string name="history">Storia</string>
+    <string name="history">Storico</string>
     <string name="tipShouldUnlock">Per favore, disigilla prima</string>
     <string name="tipShouldSetupFingerprint">Creare prima una impronta digitale tramite le impostazioni di sistema!</string>
     <string name="sendContentTo">Invia contenuto a: </string>
@@ -123,7 +123,7 @@
     <string name="fab">Home Pulsante Azione Flottante</string>
     <string name="tipFab">Suggerimento: Effettua una pressione lunga sul bottone Home Pulsante Azione Flottante per nasconderlo temporaneamente</string>
     <string name="tipCannotCreateNewWhenEmpty">Non posso creare un nuovo articolo quando sia titolo che contenuto sono entrambi vuoti! Puoi crearli attraverso il bottone (angolo a destra in alto) del menu.</string>
-    <string name="more">Ancora</string>
+    <string name="more">La nostra esperienza</string>
     <string name="notSupportOpeningTheLink">Collegamento non supportato</string>
     <string name="formatters">Formattatori</string>
     <string name="formatterSpace">Includi uno spazio tra le parole cinesi e quelle inglesi</string>
@@ -261,7 +261,7 @@
     <string name="exportBook">Esporta questo Libro</string>
     <string name="needManualSortingTitle">Occorre che cambi a ordinamento manuale per utilizzare questa caratteristica</string>
     <string name="needManualSortingMessage">Vuoi cambiare i settaggi a \"Ordinamento Manuale\"?</string>
-    <string name="doubleClickToExit">Effettua doppio click con il tasto Indietro kper uscire da Pure Writer</string>
+    <string name="doubleClickToExit">Effettua doppio click con il tasto Indietro per uscire da Pure Writer</string>
     <string name="doubleClickToExitTip">Premi ancora INDIETRO per uscire</string>
     <string name="markdownCheckBoxTip">Questa opzione e\' per la funzione Markdown. Dopo averla controllata, la spaziatura e l\'indentazione dei paragrafi perderanno il loro effetto. Se non si ha familiarita\' con Markdown, si consiglia di non selezionare questa casella.\n\n\nMarkdown e\' un linguaggio di markup con sintassi di formattazione del testo normale. E\' possibile cercare online per "Markdown" se siete interessati.</string>
     <string name="unlockValidityPeriod">Auto-blocco Periodo Validita\'</string>
@@ -281,14 +281,14 @@
     <string name="readme">Hai attivato il nuovo design Material Design 2 di Pure Writer.\n\nMaterial Design 2 porta una nuova visione ad immersione a schermo intero ed una barra superiore trasparente per un look piu\' fresco.\n\n\nTuttavia, allo stesso tempo, ci possono essere molti problemi con il nuovo design, quindi questa e\' una caratteristica sperimentale di Pure Writer, che puo\' avere alcuni problemi visivi dell\'interfaccia utente. Inoltre, come autore di Pure Writer, preferisco il design originale Pure Writer, che e\' piu\' accattivante e focalizzato sui contenuti testuali, quindi questa caratteristica di design e\' in realta\' sviluppata in risposta alle forti richieste di un piccolo numero di utenti. Richiede un sacco di costi di sviluppo extra, e non e\' facile da fornire, e dal momento che ci saranno due Pure Writer design ora, il lavoro degli sviluppatori puo\' moltiplicarsi.\n\n\n Per questo motivo, Pure Writer vi consigliera\' di pagare per questo, ma si puo\' ancora avere un sacco di tempo per sperimentare e prendere una decisione di pagamento finale. Si prega di provare a sostenerlo. Se le statistiche mostrano che la percentuale di utenti che sono disposti a pagare e\' piccola, lo sviluppatore puo\' annullare o smettere di mantenere il Material Design 2. Una volta cliccato il pulsante OK, sarete considerati d\'accordo su questo contenuto per impostazione predefinita.\n\n\n\nGrazie a tutti voi! Faro\' del mio meglio per fornire un Pure Writer sempre migliore, per favore divertitevi!</string>
     <string name="lowFreeStorageSpaceWarning">Il tuo telefono ha solamente %d MB di spazio libero, come conseguenza Pure Writer potrebbe fallire nel salvataggio e durante la fase di backup. Si prega di pulire e lasciare piu\' di 100 MB prima di utilizzare Pure Writer!</string>
     <string name="pureWriterBBS">Pure Writer BBS</string>
-    <string name="findReplace">Trova &amp; Rimpiazza</string>
-    <string name="replace">Rimpiazza</string>
+    <string name="findReplace">Trova &amp; Sostituisci</string>
+    <string name="replace">Sostituisci</string>
     <string name="find">Trova</string>
     <string name="currentChapter">Capitolo Corrente</string>
     <string name="currentBook">Libro Corrente</string>
     <string name="ignoreCase">Ignora Maiuscolo_Minuscolo</string>
     <string name="selectAll">Seleziona Tutto</string>
-    <string name="inverseAll">Inverso Tutto</string>
+    <string name="inverseAll">Inverti tutto</string>
     <string name="replaceConfirmMessage">Sei certo di rimpiazzare le %d parti selezionate?</string>
     <string name="tipUndoReplace">ANNULLA:\n* Puoi andare su Pure Writer - Settaggi - Backup - Ripristina Backup, fare click sul precedente backup per ripristinare al precedente contenuto.\n* Se semplicemente rimpiazzi il presente capitolo, puoi andare nella pagina Cronologia attraverso il menu in alto a destra e tornare indietro al precedente contenuto.</string>
     <string name="backupRemarkForReplace">PrimaDelRimpiazzo</string>
@@ -373,8 +373,8 @@
     <string name="onlyAvailableWhenParagraphOff">Disponibile solo quando Spaziatura paragrafi è disattivata</string>
     <string name="markdownAsDefault">Usa Markdown come modalità predefinita per i nuovi articoli</string>
     <string name="needToPayForMarkdownRenderer">Questa è la pagina Anteprima rapida Markdown, che richiede di pagare per l\'utilizzo di Pure Writer Pro.</string>
-    <string name="fabContextCreateNewAfterCurrent">Inserisci un nuovo articolo dopo l\'articolo corrente</string>
-    <string name="fabContextCreateNewAtTheBottom">Inserisci un nuovo articolo in fondo all\'elenco degli articoli</string>
+    <string name="fabContextCreateNewAfterCurrent">Nuovo articolo dopo l\'articolo corrente</string>
+    <string name="fabContextCreateNewAtTheBottom">Nuovo articolo in fondo all\'elenco degli articoli</string>
     <string name="fabContextHideFabUntilNextStart">Nascondi questo pulsante fino al prossimo lancio</string>
     <string name="signedIn">Accesso eseguito</string>
     <string name="notSignedIn">Accesso non effettuato</string>
@@ -450,4 +450,8 @@
     <string name="expiresOn">Scade il:</string>
     <string name="lifetime">A vita</string>
     <string name="proExpired">Pro scaduto</string>
+    <string name="useLegacyRender">Usa il renderer legacy</string>
+    <string name="changelog">Changelog</string>
+    <string name="fabContextReadOnlyMode">Modalità di sola lettura</string>
+    <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Nuovo articolo in fondo all\'attuale categoria</string>
 </resources>

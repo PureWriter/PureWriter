@@ -369,8 +369,8 @@
     <string name="onlyAvailableWhenParagraphOff">Hanya tersedia saat Penjelajahan Paragraf dimatikan</string>
     <string name="markdownAsDefault">Gunakan Penurunan harga sebagai mode default untuk item baru</string>
     <string name="needToPayForMarkdownRenderer">Ini adalah halaman Pratinjau Cepat Penurunan Harga, yang mengharuskan Anda membayar untuk Pure Writer Pro untuk menggunakannya.</string>
-    <string name="fabContextCreateNewAfterCurrent">Masukkan artikel baru setelah artikel saat ini</string>
-    <string name="fabContextCreateNewAtTheBottom">Masukkan artikel baru di bagian bawah daftar artikel</string>
+    <string name="fabContextCreateNewAfterCurrent">Artikel baru setelah artikel saat ini</string>
+    <string name="fabContextCreateNewAtTheBottom">Artikel baru di bagian bawah daftar artikel</string>
     <string name="fabContextHideFabUntilNextStart">Sembunyikan tombol ini sampai awal berikutnya</string>
     <string name="signedIn">Sudah masuk</string>
     <string name="notSignedIn">Belum login</string>
@@ -446,4 +446,8 @@
     <string name="expiresOn">Kedaluwarsa pada:</string>
     <string name="lifetime">Seumur hidup</string>
     <string name="proExpired">Pro kedaluwarsa</string>
+    <string name="useLegacyRender">Gunakan penyaji lama</string>
+    <string name="changelog">Changelog</string>
+    <string name="fabContextReadOnlyMode">Mode hanya baca</string>
+    <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Artikel baru di bagian bawah Kategori saat ini</string>
 </resources>
