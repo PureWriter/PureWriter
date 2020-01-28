@@ -473,4 +473,6 @@
     <string name="useLegacyRender">使用旧版渲染器</string>
     <string name="changelog">更新日志</string>
     <string name="fabContextReadOnlyMode">只读模式</string>
+    <string name="needOpenArticleFirst">您需要先打开一篇文章才能使用此选项</string>
+    <string name="tipForLongPressFab">提示: 长按 ㊉ 按钮可以获得更多新建文章菜单和只读模式</string>
 </resources>

@@ -440,4 +440,6 @@
     <string name="changelog">Änderungsprotokoll</string>
     <string name="fabContextReadOnlyMode">Nur-Lese-Modus</string>
     <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Neuer Artikel am Ende der aktuellen Kategorie</string>
+    <string name="tipForLongPressFab">Tipp: Halten Sie die Taste ㊉ gedrückt, um weitere neue Artikelmenüelemente und den schreibgeschützten Modus aufzurufen</string>
+    <string name="needOpenArticleFirst">Sie müssen zuerst einen Artikel öffnen, um diese Option nutzen zu können</string>
 </resources>

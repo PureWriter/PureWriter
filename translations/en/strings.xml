@@ -416,6 +416,7 @@
     <string name="fabContextCreateNewAtTheBottom">New article at the bottom of the article list</string>
     <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">New article at the bottom of current Category</string>
     <string name="fabContextHideFabUntilNextStart">Hide this button until the next launch</string>
+    <string name="fabContextHideFabTemporarily">Hide the main floating button temporarily</string>
     <string name="license">License</string>
     <string name="customPapers">Custom Papers\nDelicate, Immersive</string>
     <string name="markdownQuickPreview">Markdown Quick Preview</string>
@@ -507,4 +508,6 @@
     <string name="useLegacyRender">Use legacy renderer</string>
     <string name="changelog">Changelog</string>
     <string name="fabContextReadOnlyMode">Read-only mode</string>
+    <string name="needOpenArticleFirst">You need to open an article first to use this option</string>
+    <string name="tipForLongPressFab">Tip: Long press the ㊉ button for more new article menu items and Read-only mode</string>
 </resources>

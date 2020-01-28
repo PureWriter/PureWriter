@@ -445,4 +445,6 @@
     <string name="changelog">Changelog</string>
     <string name="fabContextReadOnlyMode">Alleen-lezen modus</string>
     <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Nieuw artikel onderaan de huidige categorie</string>
+    <string name="tipForLongPressFab">Tip: Druk lang op de ㊉-knop voor meer nieuwe artikelmenu-items en de modus Alleen-lezen</string>
+    <string name="needOpenArticleFirst">U moet eerst een artikel openen om deze optie te gebruiken</string>
 </resources>
