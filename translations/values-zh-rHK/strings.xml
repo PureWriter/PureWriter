@@ -471,5 +471,10 @@
     <string name="fabContextReadOnlyMode">只讀模式</string>
     <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">在 當前卷末尾 插入新文章</string>
     <string name="needOpenArticleFirst">您需要先打開一篇文章才能使用此選項</string>
-    <string name="tipForLongPressFab">提示: 長按 ㊉ 按鈕可以獲得更多新建文章菜單和只讀模式</string>
+    <string name="tipForLongPressFab">提示: 長按 ㊉ 按鈕可以獲得\n更多新建文章菜單和只讀模式</string>
+    <string name="restoreArticleScrollPosition">恢復文章滾動停留位置</string>
+    <string name="savedStateModeAuto">自動（最後編輯的文章下次打開一定會恢復；非最後編輯的文章，若距離上次打開時間在一週內，則恢復，否則回到頂部）</string>
+    <string name="savedStateModeEnableAll">無論如何，對所有文章啟用</string>
+    <string name="savedStateModeDisableAll">無論如何，對所有文章禁用</string>
+    <string name="summaryScrollToBottom">是否在首頁顯示這個按鈕</string>
 </resources>

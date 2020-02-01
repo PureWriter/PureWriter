@@ -443,6 +443,8 @@
     <string name="changelog">Изменения</string>
     <string name="fabContextReadOnlyMode">Режим только для чтения</string>
     <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Новая статья внизу текущей категории</string>
-    <string name="tipForLongPressFab">Совет. Длительно нажмите кнопку ㊉, чтобы открыть новые пункты меню и режим «Только чтение».</string>
+    <string name="tipForLongPressFab">Совет. Длительно нажмите кнопку ㊉, \nчтобы открыть новые пункты меню и режим «Только чтение».</string>
     <string name="needOpenArticleFirst">Вы должны сначала открыть статью, чтобы использовать эту опцию</string>
+    <string name="restoreArticleScrollPosition">Восстановить позицию прокрутки статьи</string>
+    <string name="summaryScrollToBottom">Показывать ли эту кнопку в редакторе</string>
 </resources>

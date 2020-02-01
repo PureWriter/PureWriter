@@ -474,5 +474,10 @@
     <string name="changelog">更新日志</string>
     <string name="fabContextReadOnlyMode">只读模式</string>
     <string name="needOpenArticleFirst">您需要先打开一篇文章才能使用此选项</string>
-    <string name="tipForLongPressFab">提示: 长按 ㊉ 按钮可以获得更多新建文章菜单和只读模式</string>
+    <string name="tipForLongPressFab">提示: 长按 ㊉ 按钮可以获得\n更多新建文章菜单和只读模式</string>
+    <string name="savedStateModeAuto">自动（最后编辑的文章下次打开一定会恢复；非最后编辑的文章，若距离上次打开时间在一周内，则恢复，否则回到顶部）</string>
+    <string name="savedStateModeEnableAll">无论如何，对所有文章启用</string>
+    <string name="savedStateModeDisableAll">无论如何，对所有文章禁用</string>
+    <string name="restoreArticleScrollPosition">恢复文章滚动停留位置</string>
+    <string name="summaryScrollToBottom">是否在主页显示这个按钮</string>
 </resources>

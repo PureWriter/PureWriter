@@ -443,6 +443,8 @@
     <string name="changelog">変更ログ</string>
     <string name="fabContextReadOnlyMode">読み取り専用モード</string>
     <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">現在のカテゴリの下部にある 新しい記事</string>
-    <string name="tipForLongPressFab">ヒント：新しい記事メニュー項目と読み取り専用モードを使用するには、㊉ボタンを長押しします</string>
+    <string name="tipForLongPressFab">ヒント：新しい記事メニュー項目と読み取り\n専用モードを使用するには、㊉ボタンを長押しします</string>
     <string name="needOpenArticleFirst">このオプションを使用するには、まず記事を開く必要があります</string>
+    <string name="restoreArticleScrollPosition">記事のスクロール位置を復元する</string>
+    <string name="summaryScrollToBottom">このボタンをエディターに表示するかどうか</string>
 </resources>

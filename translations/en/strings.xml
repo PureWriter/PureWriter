@@ -509,5 +509,10 @@
     <string name="changelog">Changelog</string>
     <string name="fabContextReadOnlyMode">Read-only mode</string>
     <string name="needOpenArticleFirst">You need to open an article first to use this option</string>
-    <string name="tipForLongPressFab">Tip: Long press the ㊉ button for more new article menu items and Read-only mode</string>
+    <string name="tipForLongPressFab">Tip: Long press the ㊉ button for \nmore new article menu items and Read-only mode</string>
+    <string name="restoreArticleScrollPosition">Restore article scroll position</string>
+    <string name="savedStateModeAuto">Auto (the last edited article will be restored next time; non-last edited article will be restored if it is within one week from the last open time, otherwise it will return to the top)</string>
+    <string name="savedStateModeEnableAll">Anyway, enabled for all articles</string>
+    <string name="savedStateModeDisableAll">Anyway, disabled for all articles</string>
+    <string name="summaryScrollToBottom">Whether to show this button on the editor</string>
 </resources>

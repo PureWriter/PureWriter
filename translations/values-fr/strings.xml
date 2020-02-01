@@ -453,6 +453,8 @@
     <string name="changelog">Changelog</string>
     <string name="fabContextReadOnlyMode">Mode lecture seule</string>
     <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Nouvel article au bas de la catégorie actuelle</string>
-    <string name="tipForLongPressFab">Astuce: appuyez longuement sur le bouton ㊉ pour plus de nouveaux éléments de menu d\'article et le mode lecture seule</string>
+    <string name="tipForLongPressFab">Astuce: appuyez longuement sur le bouton ㊉ pour \nplus de nouveaux éléments de menu d\'article et le mode lecture seule</string>
     <string name="needOpenArticleFirst">Vous devez d\'abord ouvrir un article pour utiliser cette option</string>
+    <string name="restoreArticleScrollPosition">Restaurer la position de défilement de l\'article</string>
+    <string name="summaryScrollToBottom">Afficher ou non ce bouton sur l\'éditeur</string>
 </resources>

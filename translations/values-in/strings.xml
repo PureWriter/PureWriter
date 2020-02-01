@@ -450,6 +450,8 @@
     <string name="changelog">Changelog</string>
     <string name="fabContextReadOnlyMode">Mode hanya baca</string>
     <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Artikel baru di bagian bawah Kategori saat ini</string>
-    <string name="tipForLongPressFab">Tip: Tekan lama tombol ㊉ untuk lebih banyak item menu artikel baru dan mode Baca-saja</string>
+    <string name="tipForLongPressFab">Tip: Tekan lama tombol ㊉ untuk lebih \nbanyak item menu artikel baru dan mode Baca-saja</string>
     <string name="needOpenArticleFirst">Anda harus membuka artikel terlebih dahulu untuk menggunakan opsi ini</string>
+    <string name="restoreArticleScrollPosition">Kembalikan posisi gulir artikel</string>
+    <string name="summaryScrollToBottom">Apakah akan menampilkan tombol ini pada editor</string>
 </resources>
