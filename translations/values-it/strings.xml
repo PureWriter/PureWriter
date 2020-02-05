@@ -458,4 +458,7 @@
     <string name="needOpenArticleFirst">È necessario aprire prima un articolo per utilizzare questa opzione</string>
     <string name="restoreArticleScrollPosition">Ripristina posizione di scorrimento articolo</string>
     <string name="summaryScrollToBottom">Se mostrare questo pulsante sull\'editor</string>
+    <string name="cloudBackupFailed">Backup cloud non riuscito</string>
+    <string name="dropboxBackupFailed">Backup di Dropbox non riuscito, prova ad accedere nuovamente al tuo account Dropbox nelle impostazioni di backup su cloud di Pure Writer</string>
+    <string name="dropboxBackupFailedDueToInsufficientSpace">Backup del cloud non riuscito: Dropbox esaurisce lo spazio</string>
 </resources>

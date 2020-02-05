@@ -447,4 +447,7 @@
     <string name="needOpenArticleFirst">このオプションを使用するには、まず記事を開く必要があります</string>
     <string name="restoreArticleScrollPosition">記事のスクロール位置を復元する</string>
     <string name="summaryScrollToBottom">このボタンをエディターに表示するかどうか</string>
+    <string name="cloudBackupFailed">クラウドバックアップに失敗しました</string>
+    <string name="dropboxBackupFailed">Dropboxバックアップに失敗しました。PureWriterクラウドバックアップ設定でDropboxアカウントに再ログインしてください。</string>
+    <string name="dropboxBackupFailedDueToInsufficientSpace">クラウドバックアップに失敗しました：Dropboxの容量が不足しています</string>
 </resources>

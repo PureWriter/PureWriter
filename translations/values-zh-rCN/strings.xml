@@ -195,7 +195,8 @@
     <string name="syncNetwork">云备份网络</string>
     <string name="syncOnlyWifi">只在 Wi-Fi 网络下才允许自动备份到云盘</string>
     <string name="syncAllNetworks">在所有网络下都允许自动备份到云盘</string>
-    <string name="webDavRootURL">WebDAV 网址</string>
+    <string name="tipJianguoyunURL">💡 提示：如果是坚果云，您可以在「WebDAV 网址」一栏中直接填入「坚果云」三个字即可</string>
+    <string name="webDavRootURL">WebDAV <b>网址</b></string>
     <string name="webDavAccount">WebDAV 账号</string>
     <string name="webDavPassword">WebDAV 密码</string>
     <string name="autoBackupToCloud">自动备份到云盘</string>
@@ -480,4 +481,7 @@
     <string name="savedStateModeDisableAll">无论如何，对所有文章禁用</string>
     <string name="restoreArticleScrollPosition">恢复文章滚动停留位置</string>
     <string name="summaryScrollToBottom">是否在主页显示这个按钮</string>
+    <string name="cloudBackupFailed">云备份失败，可能的原因：\n* 如果您在下方看到 timeout 字样，说明当前网络连接超时，请检查网络后重新打开纯纯写作即可自动重新备份\n* 如果您的云存储空间满了，或者本月上传流量用完了，这也将导致备份失败，请去检查它再重试 \n* 如果一切操作都无法解决，请尝试在纯纯写作云备份页面退出您的云备份账号并重新登录它\n\n具体报错信息</string>
+    <string name="dropboxBackupFailed">您的 Dropbox 云备份失败，请尝试在纯纯写作云备份页面退出您的 Dropbox 账号并重新登录它</string>
+    <string name="dropboxBackupFailedDueToInsufficientSpace">云备份失败：Dropbox 空间不足</string>
 </resources>

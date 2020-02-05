@@ -454,4 +454,7 @@
     <string name="needOpenArticleFirst">Anda harus membuka artikel terlebih dahulu untuk menggunakan opsi ini</string>
     <string name="restoreArticleScrollPosition">Kembalikan posisi gulir artikel</string>
     <string name="summaryScrollToBottom">Apakah akan menampilkan tombol ini pada editor</string>
+    <string name="cloudBackupFailed">Cadangan cloud gagal</string>
+    <string name="dropboxBackupFailed">Pencadangan Dropbox gagal, coba masuk kembali ke akun Dropbox Anda di Pengaturan pencadangan cloud Pure Writer</string>
+    <string name="dropboxBackupFailedDueToInsufficientSpace">Pencadangan cloud gagal: Dropbox kehabisan ruang</string>
 </resources>

@@ -232,7 +232,7 @@
     <string name="syncNetwork">Cloud Backup</string>
     <string name="syncOnlyWifi">Sync backup to Cloud only when Wi-Fi is active</string>
     <string name="syncAllNetworks">Sync backup to Cloud on all networks</string>
-    <string name="webDavRootURL">WebDAV URL</string>
+    <string name="webDavRootURL">WebDAV <b>URL</b></string>
     <string name="webDavAccount">WebDAV Account</string>
     <string name="webDavPassword">WebDAV Password</string>
     <string name="autoBackupToCloud">Auto backup to cloud storage</string>
@@ -515,4 +515,9 @@
     <string name="savedStateModeEnableAll">Anyway, enabled for all articles</string>
     <string name="savedStateModeDisableAll">Anyway, disabled for all articles</string>
     <string name="summaryScrollToBottom">Whether to show this button on the editor</string>
+    <string name="verificationCodeHelperText" translatable="false">注意：验证码邮件可能被您的邮箱服务加入垃圾箱，若持续没有收到，请检查您的邮箱垃圾箱。</string>
+    <string name="cloudBackupFailed">Cloud backup failed</string>
+    <string name="dropboxBackupFailed">Dropbox backup failed, please try to re-login to your Dropbox account on Pure Writer cloud backup Setting</string>
+    <string name="tipJianguoyunURL">Please fill in the following three contents</string>
+    <string name="dropboxBackupFailedDueToInsufficientSpace">Cloud backup failed: Dropbox runs out of space</string>
 </resources>

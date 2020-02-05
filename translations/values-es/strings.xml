@@ -453,4 +453,7 @@
     <string name="needOpenArticleFirst">Primero debes abrir un artículo para usar esta opción</string>
     <string name="restoreArticleScrollPosition">Restaurar posición de desplazamiento del artículo</string>
     <string name="summaryScrollToBottom">Si se muestra este botón en el editor</string>
+    <string name="cloudBackupFailed">La copia de seguridad en la nube falló</string>
+    <string name="dropboxBackupFailed">Falló la copia de seguridad de Dropbox, intente volver a iniciar sesión en su cuenta de Dropbox en la configuración de copia de seguridad en la nube de Pure Writer</string>
+    <string name="dropboxBackupFailedDueToInsufficientSpace">Error en la copia de seguridad en la nube: Dropbox se queda sin espacio</string>
 </resources>

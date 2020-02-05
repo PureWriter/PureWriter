@@ -447,4 +447,7 @@
     <string name="needOpenArticleFirst">इस विकल्प का उपयोग करने के लिए आपको पहले एक लेख खोलने की आवश्यकता है</string>
     <string name="restoreArticleScrollPosition">लेख स्क्रॉल स्थिति पुनर्स्थापित करें</string>
     <string name="summaryScrollToBottom">क्या यह बटन संपादक को दिखाना है</string>
+    <string name="cloudBackupFailed">क्लाउड बैकअप विफल</string>
+    <string name="dropboxBackupFailed">ड्रॉपबॉक्स बैकअप विफल हुआ, कृपया Pure Writer क्लाउड बैकअप सेटिंग पर अपने ड्रॉपबॉक्स खाते में फिर से लॉगिन करें</string>
+    <string name="dropboxBackupFailedDueToInsufficientSpace">क्लाउड बैकअप विफल: Dropbox अंतरिक्ष से बाहर चलाता है</string>
 </resources>

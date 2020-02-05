@@ -449,4 +449,7 @@
     <string name="needOpenArticleFirst">U moet eerst een artikel openen om deze optie te gebruiken</string>
     <string name="restoreArticleScrollPosition">Schuif de positie van de artikelrol terug</string>
     <string name="summaryScrollToBottom">Of deze knop in de editor moet worden weergegeven</string>
+    <string name="cloudBackupFailed">Cloudback-up mislukt</string>
+    <string name="dropboxBackupFailed">Dropbox-back-up mislukt, probeer opnieuw in te loggen op uw Dropbox-account op Pure Writer cloud back-upinstelling</string>
+    <string name="dropboxBackupFailedDueToInsufficientSpace">Cloudback-up mislukt: Dropbox heeft onvoldoende ruimte</string>
 </resources>

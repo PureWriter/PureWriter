@@ -444,4 +444,7 @@
     <string name="needOpenArticleFirst">Sie müssen zuerst einen Artikel öffnen, um diese Option nutzen zu können</string>
     <string name="restoreArticleScrollPosition">Stellen Sie die Bildlaufposition des Artikels wieder her</string>
     <string name="summaryScrollToBottom">Gibt an, ob diese Schaltfläche im Editor angezeigt werden soll</string>
+    <string name="cloudBackupFailed">Cloud-Backup fehlgeschlagen</string>
+    <string name="dropboxBackupFailed">Dropbox-Sicherung fehlgeschlagen. Versuchen Sie, sich in den Pure Writer-Cloud-Sicherungseinstellungen erneut bei Ihrem Dropbox-Konto anzumelden</string>
+    <string name="dropboxBackupFailedDueToInsufficientSpace">Cloud-Backup fehlgeschlagen: Dropbox verfügt nicht über genügend Speicherplatz</string>
 </resources>

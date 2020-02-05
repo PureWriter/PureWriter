@@ -194,7 +194,8 @@
     <string name="syncNetwork">雲備份網路</string>
     <string name="syncOnlyWifi">只在 Wi-Fi 網路下才允許自動備份到雲端硬碟</string>
     <string name="syncAllNetworks">在所有網路下都允許自動備份到雲端硬碟</string>
-    <string name="webDavRootURL">WebDAV 網址</string>
+    <string name="tipJianguoyunURL">💡 提示：如果是堅果雲，您可以在「WebDAV 網址」一欄中直接填入「堅果雲」三個字即可</string>
+    <string name="webDavRootURL">WebDAV <b>網址</b></string>
     <string name="webDavAccount">WebDAV 帳號</string>
     <string name="webDavPassword">WebDAV 密碼</string>
     <string name="autoBackupToCloud">自動備份到雲端硬碟</string>
@@ -477,4 +478,7 @@
     <string name="savedStateModeEnableAll">無論如何，對所有文章啟用</string>
     <string name="savedStateModeDisableAll">無論如何，對所有文章禁用</string>
     <string name="summaryScrollToBottom">是否在首頁顯示這個按鈕</string>
+    <string name="cloudBackupFailed">雲備份失敗，可能的原因：\n* 如果您在下方看到 timeout 字樣，說明目前網路連接超時，請檢查網路後重新打開純純寫作即可自動重新備份\n* 如果您的雲端儲存空間滿了，或者本月上傳流量用完了，這也將導致備份失敗，請去檢查它再重試 \n* 如果一切操作都無法解決，請嘗試在純純寫作雲備份頁面退出您的雲備份帳號並重新登入它\n\n具體報錯訊息</string>
+    <string name="dropboxBackupFailed">您的 Dropbox 雲備份失敗，請嘗試在純純寫作雲備份頁面退出您的 Dropbox 帳號並重新登入它</string>
+    <string name="dropboxBackupFailedDueToInsufficientSpace">雲備份失敗：Dropbox 空間不足</string>
 </resources>

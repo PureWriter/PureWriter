@@ -447,4 +447,7 @@
     <string name="needOpenArticleFirst">Вы должны сначала открыть статью, чтобы использовать эту опцию</string>
     <string name="restoreArticleScrollPosition">Восстановить позицию прокрутки статьи</string>
     <string name="summaryScrollToBottom">Показывать ли эту кнопку в редакторе</string>
+    <string name="cloudBackupFailed">Ошибка резервного копирования в облаке</string>
+    <string name="dropboxBackupFailed">Ошибка резервного копирования Dropbox. Попробуйте заново войти в свою учетную запись Dropbox в облачном хранилище Pure Writer.</string>
+    <string name="dropboxBackupFailedDueToInsufficientSpace">Ошибка резервного копирования в облаке: в Dropbox не хватает места</string>
 </resources>
