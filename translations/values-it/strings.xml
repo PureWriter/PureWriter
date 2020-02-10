@@ -303,7 +303,7 @@
     <string name="changeAccount">Cambia account</string>
     <string name="scrollToHideTopBar">Scorri per nascondere la barra in alto</string>
     <string name="doNotOperate">Non cambiare o modificare articoli durante il processo!</string>
-    <string name="aboutBackup">About backup</string>
+    <string name="aboutBackup"><b>About backup</b></string>
     <string name="backupReadme">Pure Writer supporta il backup locale e cloud. Il backup locale è automatico. Quando si reinstalla Pure Writer, è possibile ripristinare tutti gli articoli mediante un backup.\n\nTuttavia, Pure Writer non esegue automaticamente i backup su cloud per impostazione predefinita. Per abilitare il backup su cloud, è necessario impostare un account di backup su cloud nella pagina Pure Writer - Impostazioni - Backup.\n\nIl backup cloud Pure Writer attualmente supporta l\'archiviazione cloud Dropbox e WebDAV.\n\n<b>Il backup su cloud è molto importante. Se non configuri un account di backup su cloud, perderai tutti i tuoi preziosi contenuti se questo dispositivo viene perso, rotto o ripristinato alle impostazioni di fabbrica! Assicurati di impostare un account di backup cloud!</b></string>
     <string name="allBooks">Tutti i libri</string>
     <string name="branchLine">Ramo</string>
@@ -325,7 +325,7 @@
     <string name="relationship">Relazione</string>
     <string name="scrollToTheCurrentArticle">Scorri fino all\'articolo corrente</string>
     <string name="spellChecker">Correttore ortografico</string>
-    <string name="switchingBooksTooltip">Clicca su questo titolo del libro per cambiare libri</string>
+    <string name="switchingBooksTooltip">Suggerimento: facendo clic sul titolo del libro in alto sarà possibile cambiare libro</string>
     <string name="thisShortcutCannotBeEdited">Questo collegamento non può essere modificato</string>
     <string name="tipParagraphSpacingInMD">La spaziatura dei paragrafi non sarà abilitata nella modalità Markdown</string>
     <string name="zoomIn">Ingrandire</string>

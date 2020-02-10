@@ -293,14 +293,14 @@
     <string name="changeAccount">アカウントを変更</string>
     <string name="scrollToHideTopBar">トップバーを隠すためにスクロール</string>
     <string name="doNotOperate">その過程で記事を切り替えたり変更したりしないでください。</string>
-    <string name="aboutBackup">バックアップについて</string>
+    <string name="aboutBackup"><b>バックアップについて</b></string>
     <string name="backupReadme">Pure Writerは、ローカルバックアップとクラウドバックアップをサポートしています。 ローカルバックアップは自動です。 Pure Writerを再インストールすると、バックアップによってすべての記事を復元できます。\n\nただし、Pure Writerはデフォルトでクラウドバックアップを自動的に行いません。 クラウドバックアップを有効にするには、Pure Writer-設定-バックアップページでクラウドバックアップアカウントを設定する必要があります。\n\n現在、Pure Writerクラウドバックアップは、DropboxおよびWebDAVクラウドストレージをサポートしています。\n\n<b>クラウドバックアップは非常に重要です。 クラウドバックアップアカウントを設定していない場合、このデバイスを紛失、破損、または工場出荷時の設定に復元すると、貴重なコンテンツがすべて失われます。 必ずクラウドバックアップアカウントを設定してください！</b></string>
     <string name="lineSpacing">行間隔</string>
     <string name="tipParagraphSpacingInMD">段落の間隔はMDモードでは有効になりません</string>
     <string name="defaultX">既定</string>
     <string name="zoomIn">ズームイン</string>
     <string name="zoomOut">ズームアウト</string>
-    <string name="switchingBooksTooltip">この本のタイトルをクリックして本を切り替えます</string>
+    <string name="switchingBooksTooltip">ヒント：上部の本のタイトルをクリックすると、本を切り替えることができます</string>
     <string name="scrollToTheCurrentArticle">現在の記事にスクロールする</string>
     <string name="allBooks">すべての本</string>
     <string name="insertCategoryBelowShort">下にカテゴリを挿入</string>

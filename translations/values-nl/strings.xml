@@ -293,14 +293,14 @@
     <string name="changeAccount">Van account veranderen</string>
     <string name="scrollToHideTopBar">Scrol om de bovenste balk te verbergen</string>
     <string name="doNotOperate">Wissel of wijzig geen artikelen in het proces!</string>
-    <string name="aboutBackup">Over back-up</string>
+    <string name="aboutBackup"><b>Over back-up</b></string>
     <string name="backupReadme">Pure Writer ondersteunt lokale en cloudback-up. Lokale back-up is automatisch. Wanneer u Pure Writer opnieuw installeert, kunt u al uw artikelen herstellen via Backup.\n\nPure Writer voert echter standaard niet automatisch Cloud Backups uit. Om Cloud Backup in te schakelen, moet u een cloudback-upaccount instellen op de pagina Pure Writer - Instellingen - Backups.\n\nPure Writer Cloud Backup ondersteunt momenteel Dropbox- en WebDAV-cloudopslag.\n\n<b>Cloud Backup is heel erg belangrijk. Als u geen cloudback-upaccount instelt, verliest u al uw waardevolle inhoud als dit apparaat is verloren, kapot of hersteld naar de fabrieksinstellingen! Zorg ervoor dat u een cloudback-upaccount instelt!</b></string>
     <string name="lineSpacing">Regelafstand</string>
     <string name="tipParagraphSpacingInMD">Alinea-afstand wordt niet ingeschakeld in markdown-modus</string>
     <string name="defaultX">Standaard</string>
     <string name="zoomIn">Inzoomen</string>
     <string name="zoomOut">Uitzoomen</string>
-    <string name="switchingBooksTooltip">Klik op deze boektitel om tussen boeken te schakelen</string>
+    <string name="switchingBooksTooltip">Tip: als u bovenaan op de boektitel klikt, kunt u tussen boeken schakelen</string>
     <string name="scrollToTheCurrentArticle">Ga naar geselecteerd</string>
     <string name="allBooks">Alle boeken</string>
     <string name="insertCategoryBelowShort">Voeg Categorie hieronder toe</string>

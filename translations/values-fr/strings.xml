@@ -305,7 +305,7 @@
     <string name="changeAccount">Changer de compte</string>
     <string name="scrollToHideTopBar">Scroller pour cacher la barre du haut</string>
     <string name="doNotOperate">Ne partez pas de l\'article et ne le modifiez pas pendant le processus!</string>
-    <string name="aboutBackup">A propos des sauvegardes</string>
+    <string name="aboutBackup"><b>A propos des sauvegardes</b></string>
     <string name="backupReadme">Pure Writer prend en charge les sauvegardes locales et sur le cloud. La sauvegarde locale est automatique. Lorsque vous réinstallez Pure Writer, vous pouvez restaurer tous vos articles par une sauvegarde.\n\nCependant, Pure Writer ne fait pas automatiquement les sauvegardes dans le nuage par défaut. Pour activer la sauvegarde sur le cloud, vous devez configurer un compte de sauvegarde sur le cloud sur la page Pure Writer - Paramètres - Sauvegardes.\n\nLa sauvegarde en nuage Pure Writer prend actuellement en charge le stockage en nuage Dropbox et WebDAV.\n\n<b>La sauvegarde sur le cloud est très importante. Si vous ne configurez pas de compte de sauvegarde sur le cloud, vous perdrez tout votre contenu précieux si cet appareil est perdu, cassé ou restauré aux paramètres d\'usine! Assurez-vous de configurer un compte de sauvegarde sur le cloud! </b></string>
     <string name="tipParagraphSpacingInMD">Espacement Paragraphe ne sera pas activé en mode Markdow</string>
     <string name="lineSpacing">Espacement Lignes</string>
@@ -313,7 +313,7 @@
     <string name="defaultX">Défaut</string>
     <string name="zoomIn">Zoom</string>
     <string name="zoomOut">Dézoom</string>
-    <string name="switchingBooksTooltip">Cliquer sur le titre du livre pour changer de livre</string>
+    <string name="switchingBooksTooltip">Astuce: en cliquant sur le titre du livre en haut, vous pourrez changer de livre</string>
     <string name="scrollToTheCurrentArticle">Descendre jusqu\'à l\'article actif</string>
     <string name="allBooks">Tous les livres</string>
     <string name="outlines">Contexte</string>

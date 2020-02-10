@@ -302,7 +302,7 @@
     <string name="changeAccount">Ganti akun</string>
     <string name="scrollToHideTopBar">Gulir untuk menyembunyikan bilah atas</string>
     <string name="doNotOperate">Jangan beralih atau memodifikasi artikel dalam proses!</string>
-    <string name="aboutBackup">Tentang cadangan</string>
+    <string name="aboutBackup"><b>Tentang cadangan</b></string>
     <string name="backupReadme">Pure Writer mendukung cadangan lokal dan cloud. Cadangan lokal otomatis. Saat Anda menginstal ulang Pure Writer, Anda dapat memulihkan semua artikel Anda dengan cadangan.\n\nNamun, Pure Writer tidak secara otomatis melakukan backup cloud secara default. Untuk mengaktifkan pencadangan cloud, Anda perlu mengatur akun pencadangan cloud pada halaman Pure Writer - Settings - Backups.\n\nCadangan cloud Pure Writer saat ini mendukung penyimpanan cloud Dropbox dan WebDAV.\n\n<b>Cadangan cloud sangat penting. Jika Anda tidak mengatur akun cadangan cloud, Anda akan kehilangan semua konten berharga Anda jika perangkat ini hilang, rusak, atau dikembalikan ke pengaturan pabrik! Pastikan untuk menyiapkan akun cadangan cloud!</b></string>
     <string name="tipParagraphSpacingInMD">Penempatan paragraf tidak akan diaktifkan dalam mode Penurunan harga</string>
     <string name="lineSpacing">Penspasian Baris</string>
@@ -310,7 +310,7 @@
     <string name="defaultX">Default</string>
     <string name="zoomIn">Perbesar</string>
     <string name="zoomOut">Perkecil</string>
-    <string name="switchingBooksTooltip">Klik pada judul buku ini untuk beralih Buku</string>
+    <string name="switchingBooksTooltip">Tip: Mengklik judul buku di bagian atas akan dapat berganti buku</string>
     <string name="scrollToTheCurrentArticle">Gulir ke artikel saat ini</string>
     <string name="allBooks">Semua Buku</string>
     <string name="outlines">Garis besar</string>

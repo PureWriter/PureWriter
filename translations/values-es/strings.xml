@@ -301,7 +301,7 @@
     <string name="changeAccount">Cambiar cuenta</string>
     <string name="scrollToHideTopBar">Desplácese para ocultar la barra superior</string>
     <string name="doNotOperate">¡No cambies o modifiques archivos en el proceso!</string>
-    <string name="aboutBackup">Acerca de la Copia de Seguridad</string>
+    <string name="aboutBackup"><b>Acerca de la Copia de Seguridad</b></string>
     <string name="backupReadme">Pure Writer admite copias de seguridad locales y en la nube. La copia de seguridad local es automática. Cuando reinstala Pure Writer, puede restaurar todos sus artículos mediante una copia de seguridad.\n\nSin embargo, Pure Writer no realiza automáticamente copias de seguridad en la nube de forma predeterminada. Para habilitar la copia de seguridad en la nube, debe configurar una cuenta de copia de seguridad en la nube en la página Pure Writer - Configuración - Copias de seguridad.\n\nLa copia de seguridad en la nube Pure Writer actualmente es compatible con el almacenamiento en la nube de Dropbox y WebDAV.\n\n<b>La copia de seguridad en la nube es muy, muy importante. ¡Si no configura una cuenta de respaldo en la nube, perderá todo su valioso contenido si este dispositivo se pierde, se rompe o se restaura a la configuración de fábrica! ¡Asegúrese de configurar una cuenta de respaldo en la nube!</b></string>
     <string name="tipParagraphSpacingInMD">El espaciado entre párrafos no se habilitará en el modo Markdown</string>
     <string name="lineSpacing">Espaciado entre líneas</string>
@@ -309,7 +309,7 @@
     <string name="defaultX">Por defecto</string>
     <string name="zoomIn">Aumentar el enfoque</string>
     <string name="zoomOut">Disminuir el enfoque</string>
-    <string name="switchingBooksTooltip">Haga clic en el título de este Libros para cambiar de Libross</string>
+    <string name="switchingBooksTooltip">Consejo: Al hacer clic en el título del libro en la parte superior, podrás cambiar de libro.</string>
     <string name="scrollToTheCurrentArticle">Desplazarse al artículo actual</string>
     <string name="allBooks">Todos los Libross</string>
     <string name="outlines">Esquemas</string>

@@ -293,14 +293,14 @@
     <string name="changeAccount">Изменить аккаунт</string>
     <string name="scrollToHideTopBar">Прокрутите, чтобы скрыть верхнюю панель</string>
     <string name="doNotOperate">Не переключайте и не изменяйте статьи в процессе!</string>
-    <string name="aboutBackup">О резервном копировании</string>
+    <string name="aboutBackup"><b>О резервном копировании</b></string>
     <string name="backupReadme">Pure Writer поддерживает локальное и облачное резервное копирование. Локальное резервное копирование происходит автоматически. Когда вы переустанавливаете Pure Writer, вы можете восстановить все ваши статьи из резервной копии.\n\nОднако Pure Writer не выполняет автоматическое резервное копирование в облаке по умолчанию. Чтобы включить облачное резервное копирование, необходимо настроить учетную запись резервного копирования в облаке на странице Pure Writer - Настройки - Резервные копии.\n\nОблачное резервное копирование Pure Writer в настоящее время поддерживает облачные хранилища Dropbox и WebDAV.\n\n<b>Облачное резервное копирование очень и очень важно. Если вы не настроите учетную запись резервного копирования в облачном хранилище, вы потеряете весь свой ценный контент, если это устройство будет утеряно, сломано или восстановлено до заводских настроек! Обязательно настройте учетную запись резервного копирования в облаке!</b></string>
     <string name="lineSpacing">Межстрочный интервал</string>
     <string name="tipParagraphSpacingInMD">Интервал между абзацами не будет включен в режиме Markdown</string>
     <string name="defaultX">По умолчанию</string>
     <string name="zoomIn">Приблизить</string>
     <string name="zoomOut">Отдалить</string>
-    <string name="switchingBooksTooltip">Нажмите на название этой книги, чтобы переключить Книги</string>
+    <string name="switchingBooksTooltip">Совет: нажав на название книги вверху, можно будет переключать книги.</string>
     <string name="scrollToTheCurrentArticle">Прокрутите к текущей статье</string>
     <string name="allBooks">Все книги</string>
     <string name="insertCategoryBelowShort">Вставьте категорию ниже</string>

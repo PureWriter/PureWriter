@@ -302,14 +302,14 @@
     <string name="changeAccount">更換帳號</string>
     <string name="scrollToHideTopBar">滾動以隱藏頂欄</string>
     <string name="doNotOperate">請不要在此過程中切換或修改文章！</string>
-    <string name="aboutBackup">《使用者須知：關於備份》</string>
+    <string name="aboutBackup"><b>《使用者須知：關於備份》</b></string>
     <string name="backupReadme">純純寫作支持本地備份和雲備份，本地備份是自動進行的，當您重裝純純寫作後，<b>可通過備份來恢復所有文章和啟動狀態</b>。\n\n但是，純純寫作<b>默認不會自動進行雲備份</b>，若要啟用自動雲備份，<b>您需要設置雲備份賬號</b>，在 純純寫作 - 設置 - 備份 頁面可選擇雲備份類型和設置<b>雲備份賬號</b>。\n\n純純寫作雲備份支持 WebDAV / 堅果雲網盤和 Dropbox 網盤。\n\n<b>雲備份非常重要，若您不設置雲備份，則萬一手機丟了、壞了、刷機雙清、恢復出廠設置，都將失去您所有寶貴的創作內容！請務必設置雲備份，萬無一失。</b></string>
     <string name="lineSpacing">行間距</string>
     <string name="tipParagraphSpacingInMD">Markdown 模式下不會啟用段落間距</string>
     <string name="defaultX">預設</string>
     <string name="zoomIn">放大</string>
     <string name="zoomOut">縮小</string>
-    <string name="switchingBooksTooltip">點擊此書名可以切換書籍</string>
+    <string name="switchingBooksTooltip">提示：單擊頂部的書名將可以切換書</string>
     <string name="scrollToTheCurrentArticle">滾動到當前文章</string>
     <string name="allBooks">全部書</string>
     <string name="outline">大綱</string>

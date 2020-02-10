@@ -293,14 +293,14 @@
     <string name="changeAccount">खाता बदलें</string>
     <string name="scrollToHideTopBar">शीर्ष पट्टी को छिपाने के लिए स्क्रॉल करें</string>
     <string name="doNotOperate">प्रक्रिया में लेखों को स्विच या संशोधित न करें!</string>
-    <string name="aboutBackup">बैकअप के बारे में</string>
+    <string name="aboutBackup"><b>बैकअप के बारे में</b></string>
     <string name="backupReadme">PureWriter स्थानीय और क्लाउड बैकअप का समर्थन करता है। स्थानीय बैकअप स्वचालित है। जब आप PureWriter को पुनर्स्थापित करते हैं, तो आप बैकअप द्वारा अपने सभी लेखों को पुनर्स्थापित कर सकते हैं।\n\nहालाँकि, PureWriter डिफ़ॉल्ट रूप से क्लाउड बैकअप स्वचालित रूप से नहीं करता है। क्लाउड बैकअप को सक्षम करने के लिए, आपको PureWriter - Settings - Backups पेज पर क्लाउड बैकअप अकाउंट सेट करना होगा।\n\nPureWriter क्लाउड बैकअप वर्तमान में ड्रॉपबॉक्स और WebDAV क्लाउड स्टोरेज का समर्थन करता है।\n\n<b>क्लाउड बैकअप बहुत महत्वपूर्ण है। यदि आप क्लाउड बैकअप खाता सेट नहीं करते हैं, तो यह उपकरण खो जाने, टूटने, या फ़ैक्टरी सेटिंग्स पर पुनर्स्थापित होने पर आप अपनी सभी मूल्यवान सामग्री खो देंगे! क्लाउड बैकअप खाता सेट करना सुनिश्चित करें!</b></string>
     <string name="lineSpacing">पंक्ति रिक्ति</string>
     <string name="tipParagraphSpacingInMD">मार्किंग मोड में पैरा रिक्ति सक्षम नहीं होगी</string>
     <string name="defaultX">तयशुदा</string>
     <string name="zoomIn">ज़ूम इन</string>
     <string name="zoomOut">ज़ूम आउट करें</string>
-    <string name="switchingBooksTooltip">पुस्तकें स्विच करने के लिए इस पुस्तक शीर्षक पर क्लिक करें</string>
+    <string name="switchingBooksTooltip">टिप: शीर्ष पर पुस्तक शीर्षक पर क्लिक करने से पुस्तकें स्विच हो सकेंगी</string>
     <string name="scrollToTheCurrentArticle">वर्तमान लेख तक स्क्रॉल करें</string>
     <string name="allBooks">सभी किताबें</string>
     <string name="insertCategoryBelowShort">नीचे श्रेणी डालें</string>

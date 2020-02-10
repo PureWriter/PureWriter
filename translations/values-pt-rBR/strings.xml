@@ -301,14 +301,14 @@
     <string name="changeAccount">Mudar de conta</string>
     <string name="scrollToHideTopBar">Desloque-se para ocultar a barra superior</string>
     <string name="doNotOperate">Não troque ou modifique artigos no processo!</string>
-    <string name="aboutBackup">Sobre backup</string>
+    <string name="aboutBackup"><b>Sobre backup</b></string>
     <string name="backupReadme">O Pure Writer suporta backup local e na nuvem. O backup local é automático. Ao reinstalar o Pure Writer, você pode restaurar todos os seus artigos por um backup.\n\nNo entanto, o Pure Writer não faz backups em nuvem automaticamente por padrão. Para habilitar o backup na nuvem, você precisa configurar uma conta de backup na nuvem na página Pure Writer - Configurações - Backups.\n\nAtualmente, o backup em nuvem do Pure Writer suporta armazenamento em nuvem Dropbox e WebDAV.\n\n<b>O backup na nuvem é muito, muito importante. Se você não configurar uma conta de backup na nuvem, perderá todo o seu conteúdo valioso se este dispositivo for perdido, danificado ou restaurado para as configurações de fábrica! Certifique-se de configurar uma conta de backup na nuvem!</b></string>
     <string name="lineSpacing">Espaçamento entre linhas</string>
     <string name="tipParagraphSpacingInMD">O espaçamento de parágrafos não será ativado no modo Markdown</string>
     <string name="defaultX">Padrão</string>
     <string name="zoomIn">Aumentar zoom</string>
     <string name="zoomOut">Diminuir zoom</string>
-    <string name="switchingBooksTooltip">Clique no título deste livro para mudar de livros</string>
+    <string name="switchingBooksTooltip">Dica: clicar no título do livro na parte superior poderá mudar de livro</string>
     <string name="scrollToTheCurrentArticle">Vá até o artigo atual</string>
     <string name="allBooks">Todos os livros</string>
     <string name="insertCategoryBelowShort">Inserir categoria abaixo</string>

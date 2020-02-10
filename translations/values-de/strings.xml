@@ -268,7 +268,7 @@
     <string name="changeAccount">Account wechseln</string>
     <string name="scrollToHideTopBar">Scrollen Sie, um die obere Leiste auszublenden</string>
     <string name="doNotOperate">Artikel nicht umstellen oder verändern!</string>
-    <string name="aboutBackup">Über die Sicherung</string>
+    <string name="aboutBackup"><b>Über die Sicherung</b></string>
     <string name="defaultContent">Freut mich, dich kennenzulernen!\nDies ist ein schneller Klartext-Editor, mit dem wir glauben, dass "eine gute Schreiberfahrung" sein sollte. Pure Writer ist <b>minimalistisch und ermöglicht es Ihnen, jederzeit und überall nach Herzenslust zu schreiben, ohne befürchten zu müssen, dass Sie Ihren Inhalt jemals wieder verlieren. </b>\nMit dem Zeilen- und Absatzabstand von Pure Writer wird Ihr Text klarer und angenehmer lesbar. Nicht nur das, es verfügt auch über ein reibungsloses Scrollen, eine Tastatur zum Einklappen und viele weitere aufregende Funktionen.\nEinfachheit ist verborgene Komplexität. Sie können Ihre Arbeit mit Ihrem Fingerabdruck verschlüsseln, mit dem Schreiben beginnen oder aufhören, wann immer Sie möchten, und Ihre Inhalte schnell für andere Apps freigeben.\nAm wichtigsten ist, <b>wenn Sie es nicht manuell löschen, verlieren Sie niemals Ihre Arbeit, während Sie diesen Texteditor verwenden. Sei es ein versehentliches Löschen oder ein unerwartetes Herunterfahren, Sie können es trotzdem aus dem Verlauf wiederherstellen. </b>\nWeitere Funktionen: WebDAV-Cloud-Backup, Material Design 2-Design, Markdown, Schreibmaschinenmodus, Exportieren als Langtextbild, Time Machine…\nEs ist schnell und reibungslos. Sie können jederzeit und überall unterbrechen und weiter schreiben.\nViel Spaß mit Pure Writer.</string>
     <string name="proReadMe">Wenn Sie das Gefühl haben, dass Pure Writer hilfreich ist und sich wünscht, dass sich das Programm weiterentwickelt, würden Sie etwas dagegen haben, dem Entwickler ein paar Dollar zu geben?\n\nIhre Unterstützung ermutigt unabhängige Entwickler wie mich, besser entwickelte Apps für Sie zu entwickeln und bereitzustellen.\n\nUm zu unterstützen, können Sie auf die Google Play-Schaltfläche klicken. <b>Nach dem Beitragen erhalten Sie kostenlose Pro-Funktionen wie Speichern unter, Benutzerdefiniertes Papier / Hintergrund und zukünftige Updates als Zeichen der Wertschätzung. </b>\nAufgrund von Unterstützern wie Ihnen ist Pure Writer bestrebt, besser und auf dem neuesten Stand zu sein. Vielen Dank für Ihre Unterstützung!</string>
     <string name="messageUpload">Pure Writer hat eine feste Datei auf Ihrer Cloud-Festplatte erstellt. Der Dateiname lautet <b>PureWriter.txt</b>. Sie können auf OK klicken, um Ihren aktuellen Artikel in diese feste Datei hochzuladen. Dann können Sie diese Cloud-Datei auf anderen Geräten bearbeiten. Wenn es sich ändert, können Sie es herunterziehen.\n\nMöchten Sie jetzt den aktuellen Artikelinhalt in dieser Cloud-Datei überschreiben?</string>
@@ -291,7 +291,7 @@
     <string name="defaultX">Standard</string>
     <string name="zoomIn">Heranzoomen</string>
     <string name="zoomOut">Herauszoomen</string>
-    <string name="switchingBooksTooltip">Klicken Sie auf diesen Buchtitel, um zwischen Büchern zu wechseln</string>
+    <string name="switchingBooksTooltip">Tipp: Wenn Sie oben auf den Buchtitel klicken, können Sie zwischen Büchern wechseln</string>
     <string name="scrollToTheCurrentArticle">Zum aktuellen Artikel blättern</string>
     <string name="allBooks">Alle Bücher</string>
     <string name="insertCategoryBelowShort">Kategorie unten einfügen</string>

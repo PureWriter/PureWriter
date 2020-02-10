@@ -337,7 +337,7 @@
     <string name="doNotOperate">Don\'t switch or modify articles in the process!</string>
     <string name="forcedOffBadge" translatable="false">关于云备份提醒小红点</string>
     <string name="badgeReadme" translatable="false">您可以在纯纯写作编辑器页面看到对于云备份的小红点，该小红点若是显示则表示<b>您没有配置云备份或者云备份无法连通</b>，如果您已设置云备份且可连通，则它会自动消失。\n\n之所以我们不得不这么做的原因是，很多用户自信地认为自己不需要云备份，但有一天手机丢了、突然坏了，又或者因为刷机、意外双清了，没有云备份只能后悔莫及。作为纯纯写作的开发者兼客服，我已经见过太多这样令人难过的事情了，很多用户甚至来信怪我为什么不强制让用户进行云备份，我非常理解因为辛苦写作的文章未能备份到云盘而皆数丢失的难过，所以也希望大家能够理解，谢谢！</string>
-    <string name="aboutBackup">About backup</string>
+    <string name="aboutBackup"><b>About backup</b></string>
     <string name="backupReadme">Pure Writer supports local and cloud backup. Local backup is automatic. When you reinstall Pure Writer, <b>you can restore all your articles by Backup</b>.\n\nHowever, Pure Writer <b>does not automatically do Cloud Backups by default</b>. To enable Cloud Backup, <b>you need to set up a cloud backup account</b> on the Pure Writer - Settings - Backups page.\n\nPure Writer Cloud Backup currently supports Dropbox and WebDAV cloud storage.\n\n<b>Cloud Backup is very very important. If you don\'t set up a cloud backup account, you will lose all your valuable content if this device is lost, broken, or restored to factory settings! Be sure to set up a cloud backup account!</b></string>
     <string name="tipParagraphSpacingInMD">Paragraph spacing will not be enabled in Markdown mode</string>
     <string name="lineSpacing">Line Spacing</string>
@@ -345,7 +345,7 @@
     <string name="defaultX">Default</string>
     <string name="zoomIn">Zoom in</string>
     <string name="zoomOut">Zoom out</string>
-    <string name="switchingBooksTooltip">Click on this book title to switch Books</string>
+    <string name="switchingBooksTooltip">Tip: Clicking the book title at the top will be able to switch Books</string>
     <string name="scrollToTheCurrentArticle">Scroll to current article</string>
     <string name="allBooks">All Books</string>
     <string name="outlines">Outlines</string>

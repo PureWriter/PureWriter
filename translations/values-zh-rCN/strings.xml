@@ -305,14 +305,14 @@
     <string name="changeAccount">更换帐号</string>
     <string name="scrollToHideTopBar">滚动以隐藏顶栏</string>
     <string name="doNotOperate">请不要在此过程中切换或修改文章！</string>
-    <string name="aboutBackup">《用户须知：关于备份》</string>
+    <string name="aboutBackup"><b>《用户须知：关于备份》</b></string>
     <string name="backupReadme">纯纯写作支持本地备份和云备份，本地备份是自动进行的，当您重装纯纯写作后，可通过备份来恢复<b>所有文章和激活状态</b>。\n\n但是，纯纯写作<b>默认不会自动进行云备份</b>，若要启用自动云备份，<b>您需要设置云备份账号</b>，在 纯纯写作 - 设置 - 备份 页面可选择云备份类型和设置<b>云备份账号</b>。\n\n纯纯写作云备份支持 WebDAV / 坚果云网盘和 Dropbox 网盘。\n\n<b>云备份非常重要，若您不设置云备份，则万一手机丢了、坏了、刷机双清、恢复出厂设置，都将失去您所有宝贵的创作内容！请务必设置云备份，万无一失。</b></string>
     <string name="lineSpacing">行间距</string>
     <string name="tipParagraphSpacingInMD">Markdown 模式下不会启用段落间距</string>
     <string name="defaultX">默认</string>
     <string name="zoomIn">放大</string>
     <string name="zoomOut">缩小</string>
-    <string name="switchingBooksTooltip">点击此书名可以切换书籍</string>
+    <string name="switchingBooksTooltip">提示：点击在顶部的书名将能够切换书籍</string>
     <string name="scrollToTheCurrentArticle">滚动到当前文章</string>
     <string name="allBooks">全部书</string>
     <string name="outline">大纲</string>
