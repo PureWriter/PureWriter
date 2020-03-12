@@ -356,7 +356,7 @@
   <string name="showMore">显示更多</string>
   <string name="textColorAlpha">字体颜色透明度</string>
   <string name="tipNotSupportThisDesktopVersion">当前手机端和桌面端版本不匹配，无法连接，请各自更新到最新版后重试</string>
-  <string name="desktopDialogGuide">您需要从\nhttps://writer.drakeet.com/desktop \n下载<b><i>纯纯写作桌面版 0.1.4 或以上版本</i></b>。\n\n当手机与电脑<b>处于同一个 Wi-Fi 网络或热点</b>时👈👈👈，打开桌面版后将以下的 IP 地址<b>输入于桌面版中的输入栏中</b>，即可与桌面版实时连接，双向同步编辑当前文章。</string>
+  <string name="desktopDialogGuide">您需要从\nhttps://writer.drakeet.com/desktop \n下载<b><i>纯纯写作桌面版 0.2 或以上版本</i></b>。\n\n当手机与电脑<b>处于同一个 Wi-Fi 网络或热点</b>时👈👈👈，打开桌面版后将以下的 IP 地址<b>输入于桌面版中的输入栏中</b>，即可与桌面版实时连接，双向同步编辑当前文章。</string>
   <string name="desktopDialogNote">注意：当前纯纯写作桌面版还处于非常初级阶段，许多功能未完善，请您理解和静待其后续更新。\n* 若您看到<b>多行 IP 地址</b>，请逐一尝试连接它们。\n* Windows 版存放<b>路径中不能包含中文</b>目录，否则将会无法使用！</string>
   <string name="connect">连接</string>
   <string name="connectDesktop">连接纯纯写作桌面版</string>
@@ -428,6 +428,16 @@
         在编辑器右上角菜单中可以进入大纲编辑器页面，并且有许多预置的大纲项目：
 
         ![图片](https://gitee.com/PureWriter/resources/raw/master/pro/6.webp)
+
+        #### 纯纯写作 桌面版
+
+        ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/PureWriterDesktop.webp)
+
+        你可以在纯纯写作主页顶部的云图标菜单 ☁️ 里找到 纯纯写作桌面版 的下载链接和连接桌面版。
+
+        当前，纯纯写作桌面版仍然还在 alpha 阶段，它十分初级，只提供了与手机双向实时瞬间同步写作功能。
+
+        开发桌面版需要花费巨大的精力和时间，而且纯纯写作计划在之后重新实现一个完整的更好的桌面版。您的支持将会是我们巨大的动力，非常感谢！
     ]]></string>
   <string name="unlimitedWords">无限字数</string>
   <string name="neverLost">从未丢失</string>
@@ -489,4 +499,9 @@
   <string name="imageDesc">图片描述（可不填）</string>
   <string name="width">宽度</string>
   <string name="insertMarkdownImage">插入 Markdown 图片</string>
+  <string name="youNeedToSignInAgain">您需要重新登录</string>
+  <string name="pureWriterDesktop">纯纯写作\n桌面版</string>
+  <string name="moreAndBetter">越来越多\n越来越好</string>
+  <string name="clickBottomAddNewBlankLine">点击编辑器底部空白区域自动插入空行</string>
+  <string name="summaryClickBottomAddNewBlankLine">如果最后一行不是空行，则当点击编辑器底部空白区域时，自动在文末插入一新的空行并聚焦。</string>
 </resources>

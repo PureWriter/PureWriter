@@ -433,6 +433,16 @@
         エディターのトップオーバーフローメニューでアウトラインエディターに入ることができ、多くのプリセットアウトラインアイテムがあります：
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/6.webp)
+
+        #### Pure Writer Desktop
+
+        ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
+
+        Pure Writer Desktop を取得し、メインエディターの上部にあるクラウドアイコン☁️から接続できます。
+
+        現在、Pure Writer Desktop はまだアルファ段階にあります。 基本的なリアルタイム接続と同期編集のみを提供できます。
+
+        私は多くの時間とエネルギーを費やしました、そしてあなたのサポートは私たちがそれを完璧でより良くするのを助けます。
     ]]></string>
   <string name="buyPureWriterPro">Pure Writer Proを購入する</string>
   <string name="tipMarkdownQuickPreview">Markdownクイックプレビューの次のページに水平にスワイプします</string>
@@ -455,4 +465,7 @@
   <string name="imageDesc">画像の説明（オプション）</string>
   <string name="width">幅</string>
   <string name="insertMarkdownImage">Markdown 画像を挿入</string>
+  <string name="moreAndBetter">より良く</string>
+  <string name="clickBottomAddNewBlankLine">空白行を挿入するために底部領域をクリックしてください</string>
+  <string name="summaryClickBottomAddNewBlankLine">最後の行が空白行でない場合、エディターの下部にある空白領域をクリックすると、テキストの最後に新しい空白行が自動的に挿入され、フォーカスされます。</string>
 </resources>

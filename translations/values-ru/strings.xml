@@ -433,6 +433,16 @@
         Вы можете войти в редактор Outline в верхнем меню переполнения редактора, и есть много предустановленных элементов структуры:
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/6.webp)
+
+        #### Pure Writer Desktop
+
+        ![Рабочий стол Pure Writer](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
+
+        Вы можете получить Pure Writer Desktop и подключиться к нему с помощью значка облака ☁️ в верхней части главного редактора.
+
+        В настоящее время Pure Writer Desktop все еще находится в стадии альфа. Он может обеспечить только базовое соединение в реальном времени и синхронное редактирование.
+
+        Это заняло у меня много времени и сил, и ваша поддержка поможет нам сделать его совершеннее и лучше.
     ]]></string>
   <string name="buyPureWriterPro">Купить Pure Writer Pro</string>
   <string name="tipMarkdownQuickPreview">Проведите по горизонтали на следующую страницу для быстрого предварительного просмотра Markdown</string>
@@ -455,4 +465,7 @@
   <string name="imageDesc">Описание изображения (необязательно)</string>
   <string name="width">ширина</string>
   <string name="insertMarkdownImage">Вставить Markdown изображение</string>
+  <string name="moreAndBetter">Больше и лучше</string>
+  <string name="clickBottomAddNewBlankLine">Нажмите на нижнюю область, чтобы вставить пустую строку</string>
+  <string name="summaryClickBottomAddNewBlankLine">Если последняя строка не является пустой строкой, при щелчке пустой области в нижней части редактора новая пустая строка будет автоматически вставлена в конец текста и выделена.</string>
 </resources>

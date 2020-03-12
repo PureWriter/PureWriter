@@ -440,6 +440,16 @@
         Anda dapat memasukkan editor Outline di menu overflow editor, dan ada banyak item outet yang telah ditetapkan:
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/6.webp)
+
+        #### Pure Writer Desktop
+
+        ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
+
+        Anda bisa mendapatkan Pure Writer Desktop dan menyambungkannya melalui ikon cloud ☁️ di bagian atas Editor utama.
+
+        Saat ini, Pure Writer Desktop masih dalam tahap alpha. Itu hanya dapat memberikan koneksi real-time dasar dan pengeditan sinkron.
+
+        Butuh banyak waktu dan energi, dan dukungan Anda akan membantu kami menjadikannya sempurna dan lebih baik.
     ]]></string>
   <string name="buyPureWriterPro">Beli Pure Writer Pro</string>
   <string name="tipMarkdownQuickPreview">Geser secara horizontal ke halaman berikutnya untuk pratinjau cepat Markdown</string>
@@ -462,4 +472,7 @@
   <string name="imageDesc">Deskripsi gambar (opsional)</string>
   <string name="width">lebar</string>
   <string name="insertMarkdownImage">Masukkan gambar Markdown</string>
+  <string name="moreAndBetter">Lebih banyak dan lebih baik</string>
+  <string name="clickBottomAddNewBlankLine">Klik area bawah untuk memasukkan garis kosong</string>
+  <string name="summaryClickBottomAddNewBlankLine">Jika baris terakhir bukan baris kosong, ketika Anda mengklik area kosong di bagian bawah editor, baris kosong baru akan secara otomatis dimasukkan di akhir teks dan fokus.</string>
 </resources>

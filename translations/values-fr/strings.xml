@@ -443,6 +443,16 @@
         Vous pouvez entrer dans l'éditeur de contour dans le menu de débordement supérieur de l'éditeur, et il existe de nombreux éléments de contour prédéfinis:
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/6.webp)
+
+        #### Pure Writer Desktop
+
+        ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
+
+        Vous pouvez obtenir Pure Writer Desktop et vous y connecter via l'icône cloud ☁️ en haut de l'éditeur principal.
+
+        À l'heure actuelle, Pure Writer Desktop est toujours au stade alpha. Il ne peut fournir qu'une connexion de base en temps réel et une édition synchrone.
+
+        Cela m'a pris beaucoup de temps et d'énergie, et votre soutien nous aidera à le rendre parfait et meilleur.
     ]]></string>
   <string name="buyPureWriterPro">Acheter Pure Writer Pro</string>
   <string name="tipMarkdownQuickPreview">Balayez horizontalement vers la page suivante pour un aperçu rapide de Markdown</string>
@@ -465,4 +475,7 @@
   <string name="imageDesc">Description de l\'image (facultative)</string>
   <string name="width">largeur</string>
   <string name="insertMarkdownImage">Insérer une image Markdown</string>
+  <string name="moreAndBetter">Plus et mieux</string>
+  <string name="clickBottomAddNewBlankLine">Cliquez sur la zone inférieure pour insérer une ligne vierge</string>
+  <string name="summaryClickBottomAddNewBlankLine">Si la dernière ligne n\'est pas une ligne vierge, lorsque vous cliquez sur la zone vide au bas de l\'éditeur, une nouvelle ligne vierge sera automatiquement insérée à la fin du texte et mise au point.</string>
 </resources>

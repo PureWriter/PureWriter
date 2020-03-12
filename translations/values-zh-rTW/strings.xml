@@ -353,7 +353,7 @@
   <string name="collapseAllCategories">收起所有卷</string>
   <string name="showMore">顯示更多</string>
   <string name="textColorAlpha">字體顏色透明度</string>
-  <string name="desktopDialogGuide">您需要從\nhttps://writer.drakeet.com/desktop_zh \n下載<b><i>純純寫作桌面版 0.1.4 或以上版本</i></b>。\n\n當手機與電腦<b>處於同一個 Wi-Fi 網路或熱點</b>時👈👈👈，打開桌面版後將以下的 IP 地址<b>輸入於桌面版中的輸入欄中</b>，即可與桌面版即時連線，雙向同步編輯目前文章。</string>
+  <string name="desktopDialogGuide">您需要從\nhttps://writer.drakeet.com/desktop_zh \n下載<b><i>純純寫作桌面版 0.2 或以上版本</i></b>。\n\n當手機與電腦<b>處於同一個 Wi-Fi 網路或熱點</b>時👈👈👈，打開桌面版後將以下的 IP 地址<b>輸入於桌面版中的輸入欄中</b>，即可與桌面版即時連線，雙向同步編輯目前文章。</string>
   <string name="desktopDialogNote">注意：目前純純寫作桌面版還處於非常初級階段，許多功能未完善，請您理解和靜待其後續更新。\n* 若您看到<b>多行 IP 地址</b>，請逐一嘗試連線它們。\n* Windows 版存放<b>路徑中不能包含中文</b>目錄，否則將會無法使用！</string>
   <string name="tipNotSupportThisDesktopVersion">目前手機端和桌面端版本不匹配，無法連接，請各自更新到最新版後重試</string>
   <string name="connect">連接</string>
@@ -461,6 +461,16 @@
         在編輯器右上角選單中可以進入大綱編輯器頁面，並且有許多預置的大綱項目：
 
         ![圖片](https://gitee.com/PureWriter/resources/raw/master/pro/6.webp)
+
+        #### 純純寫作 桌面版
+
+        ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/PureWriterDesktop.webp)
+
+        你可以在純純寫作首頁頂部的雲圖示選單 ☁️ 裡找到 純純寫作桌面版 的下載連結和連接桌面版。
+
+        目前，純純寫作桌面版仍然還在 alpha 階段，它十分初級，只提供了與手機雙向即時瞬間同步寫作功能。
+
+        開發桌面版需要花費巨大的精力和時間，而且純純寫作計劃在之後重新實現一個完整的更好的桌面版。您的支援將會是我們巨大的動力，非常感謝！
     ]]></string>
   <string name="messageThankYouForYourSupport">\"遇到喜歡的東西就把它買下來，錢並不是真的花掉了，只是換一種方式，陪伴在你身邊…\"😋\n\n同時，您的支援能夠讓純純寫作更好地堅持開發下去，使我們一直堅持好的方向，良心的產品，並且激勵更多的獨立開發者。\n\n純純寫作因為您的支援而能夠不斷更新、完善，非常感謝！</string>
   <string name="buyPureWriterPro"><b>購買純純寫作</b> Pro</string>
@@ -486,4 +496,8 @@
   <string name="imageDesc">圖片描述（可不填）</string>
   <string name="width">寬度</string>
   <string name="insertMarkdownImage">插入 Markdown 圖片</string>
+  <string name="pureWriterDesktop">純純寫作\n桌面版</string>
+  <string name="moreAndBetter">越來越多\n越來越好</string>
+  <string name="clickBottomAddNewBlankLine">點擊編輯器底部空白區域自動插入空行</string>
+  <string name="summaryClickBottomAddNewBlankLine">如果最後一行不是空行，則當點擊編輯器底部空白區域時，自動在文末插入一新的空行並聚焦。</string>
 </resources>

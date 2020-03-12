@@ -435,6 +435,16 @@
         U kunt de overzichtseditor openen in het bovenste overloopmenu van de editor en er zijn veel vooraf ingestelde overzichtsitems:
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/6.webp)
+
+        #### Pure Writer Desktop
+
+        ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
+
+        U kunt Pure Writer Desktop verkrijgen en er verbinding mee maken via het cloud-pictogram ☁️ bovenaan de hoofdeditor.
+
+        Momenteel bevindt de Pure Writer Desktop zich nog in het alpha-stadium. Het kan alleen basis realtime verbinding en synchrone bewerking bieden.
+
+        Het heeft me veel tijd en energie gekost en jouw steun zal ons helpen om het perfect en beter te maken.
     ]]></string>
   <string name="buyPureWriterPro">Koop Pure Writer Pro</string>
   <string name="tipMarkdownQuickPreview">Veeg horizontaal naar de volgende pagina voor een snel voorbeeld van Markdown</string>
@@ -457,4 +467,7 @@
   <string name="imageDesc">Afbeeldingsbeschrijving (optioneel)</string>
   <string name="width">breedte</string>
   <string name="insertMarkdownImage">Markdown-afbeelding invoegen</string>
+  <string name="moreAndBetter">Meer en beter</string>
+  <string name="clickBottomAddNewBlankLine">Klik op het onderste gebied om een lege regel in te voegen</string>
+  <string name="summaryClickBottomAddNewBlankLine">Als de laatste regel geen lege regel is en u op het lege gebied onderaan de editor klikt, wordt er automatisch een nieuwe lege regel ingevoegd aan het einde van de tekst en wordt deze scherpgesteld.</string>
 </resources>

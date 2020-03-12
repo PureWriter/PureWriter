@@ -433,6 +433,16 @@
         आप संपादक के शीर्ष अतिप्रवाह मेनू में रूपरेखा संपादक में प्रवेश कर सकते हैं, और कई पूर्व निर्धारित रूपरेखा आइटम हैं:
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/6.webp)
+
+        #### PureWriterDesktop
+
+        ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
+
+        आप Pure Writer Desktop प्राप्त कर सकते हैं और मुख्य संपादक के शीर्ष पर क्लाउड आइकन r के माध्यम से इसे कनेक्ट कर सकते हैं। ☁️
+
+        वर्तमान में, Pure Writer Desktop अभी भी अल्फा चरण में है। यह केवल बुनियादी वास्तविक समय कनेक्शन और तुल्यकालिक संपादन प्रदान कर सकता है।
+
+        मुझे बहुत समय और ऊर्जा मिली, और आपका समर्थन हमें इसे सही और बेहतर बनाने में मदद करेगा।
     ]]></string>
   <string name="buyPureWriterPro">Buy Pure Writer Pro</string>
   <string name="tipMarkdownQuickPreview">Markdown त्वरित पूर्वावलोकन के लिए अगले पृष्ठ पर क्षैतिज रूप से स्वाइप करें</string>
@@ -455,4 +465,7 @@
   <string name="imageDesc">छवि विवरण (वैकल्पिक)</string>
   <string name="width">चौड़ाई</string>
   <string name="insertMarkdownImage">Markdown छवि डालें</string>
+  <string name="moreAndBetter">अधिक और बेहतर</string>
+  <string name="clickBottomAddNewBlankLine">रिक्त क्षेत्र सम्मिलित करने के लिए नीचे के क्षेत्र पर क्लिक करें</string>
+  <string name="summaryClickBottomAddNewBlankLine">यदि अंतिम पंक्ति एक रिक्त रेखा नहीं है, जब आप संपादक के तल पर रिक्त क्षेत्र पर क्लिक करते हैं, तो पाठ के अंत में एक नई रिक्त पंक्ति स्वचालित रूप से डाली जाएगी और ध्यान केंद्रित किया जाएगा।</string>
 </resources>

@@ -29,7 +29,7 @@
   <string name="wordCountShort">Conta</string>
   <string name="wordCountLong">Conteggio Parole</string>
   <string name="wordCountOfCurrentArticle">Totale Numero Parole Articolo corrente</string>
-  <string name="floatingWordCount">Conteggio Paolore Flottante</string>
+  <string name="floatingWordCount">Conteggio parole flottante</string>
   <string name="historyState">Salvato</string>
   <string name="tipNeedFingerprint">Per vedere ed editare: utilizza la tua impronta digitale per sbloccare!</string>
   <string name="empty">Vuoto</string>
@@ -444,6 +444,16 @@
         È possibile accedere all'editor dei contorni nel menu di overflow in alto dell'editor e ci sono molti elementi predefiniti per i contorni:
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/6.webp)
+
+        #### Pure Writer Desktop
+
+        ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
+
+        Puoi ottenere Pure Writer Desktop e connetterti tramite l'icona del cloud ☁️ nella parte superiore dell'editor principale.
+
+        Al momento, Pure Writer Desktop è ancora in fase alpha. Può solo fornire la connessione in tempo reale di base e la modifica sincrona.
+
+        Mi ci è voluto molto tempo ed energia e il tuo supporto ci aiuterà a renderlo perfetto e migliore.
     ]]></string>
   <string name="buyPureWriterPro">Acquista Pure Writer Pro</string>
   <string name="tipMarkdownQuickPreview">Scorri in orizzontale alla pagina successiva per l\'anteprima rapida di Markdown</string>
@@ -466,4 +476,7 @@
   <string name="imageDesc">Descrizione dell\'immagine (opzionale)</string>
   <string name="width">larghezza</string>
   <string name="insertMarkdownImage">Inserisci immagine Markdown</string>
+  <string name="moreAndBetter">Di più e meglio</string>
+  <string name="clickBottomAddNewBlankLine">Fare clic sull\'area inferiore per inserire una linea vuota</string>
+  <string name="summaryClickBottomAddNewBlankLine">Se l\'ultima riga non è una riga vuota, quando si fa clic sull\'area vuota nella parte inferiore dell\'editor, una nuova riga vuota verrà automaticamente inserita alla fine del testo e focalizzata.</string>
 </resources>

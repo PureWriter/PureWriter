@@ -430,6 +430,16 @@
         Sie können den Gliederungseditor im oberen Überlaufmenü des Editors aufrufen, und es gibt viele voreingestellte Gliederungselemente:
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/6.webp)
+
+        #### Pure Writer Desktop
+
+        ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
+
+        Sie können Pure Writer Desktop herunterladen und über das Cloud-Symbol ☁️ oben im Haupteditor eine Verbindung herstellen.
+
+        Derzeit befindet sich das Pure Writer Desktop noch im Alpha-Stadium. Es kann nur eine grundlegende Echtzeitverbindung und synchrone Bearbeitung bereitstellen.
+
+        Ich habe viel Zeit und Energie gebraucht und Ihre Unterstützung wird uns helfen, es perfekt und besser zu machen.
     ]]></string>
   <string name="buyPureWriterPro">Kaufen Sie Pure Writer Pro</string>
   <string name="tipMarkdownQuickPreview">Streichen Sie horizontal zur nächsten Seite, um eine Schnellvorschau für Markdowns zu erhalten</string>
@@ -452,4 +462,7 @@
   <string name="imageDesc">Bildbeschreibung (optional)</string>
   <string name="width">Breite</string>
   <string name="insertMarkdownImage">Markdown-Bild einfügen</string>
+  <string name="moreAndBetter">Mehr und besser</string>
+  <string name="clickBottomAddNewBlankLine">Klicken Sie auf den unteren Bereich, um eine Leerzeile einzufügen</string>
+  <string name="summaryClickBottomAddNewBlankLine">Wenn die letzte Zeile keine leere Zeile ist und Sie auf den leeren Bereich am unteren Rand des Editors klicken, wird am Ende des Textes automatisch eine neue leere Zeile eingefügt und fokussiert.</string>
 </resources>

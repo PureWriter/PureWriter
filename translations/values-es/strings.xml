@@ -439,6 +439,16 @@
         Puede ingresar al editor de esquema en el menú superior de desbordamiento del editor, y hay muchos elementos de esquema preestablecidos:
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/6.webp)
+
+        #### Pure Writer Desktop
+
+        ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
+
+        Puede obtener Pure Writer Desktop y conectarse a él a través del icono de la nube ☁️ en la parte superior del Editor principal.
+
+        En la actualidad, Pure Writer Desktop todavía está en la etapa alfa. Solo puede proporcionar conexión básica en tiempo real y edición sincrónica.
+
+        Me llevó mucho tiempo y energía, y su apoyo nos ayudará a hacerlo perfecto y mejor.
     ]]></string>
   <string name="buyPureWriterPro">Comprar Pure Writer Pro</string>
   <string name="tipMarkdownQuickPreview">Deslice horizontalmente a la página siguiente para obtener una vista previa rápida de Markdown</string>
@@ -461,4 +471,7 @@
   <string name="imageDesc">Descripción de la imagen (opcional)</string>
   <string name="width">anchura</string>
   <string name="insertMarkdownImage">Insertar imagen de Markdown</string>
+  <string name="moreAndBetter">Mas y mejor</string>
+  <string name="clickBottomAddNewBlankLine">Haga clic en el área inferior para insertar una línea en blanco.</string>
+  <string name="summaryClickBottomAddNewBlankLine">Si la última línea no es una línea en blanco, cuando hace clic en el área en blanco en la parte inferior del editor, se insertará automáticamente una nueva línea en blanco al final del texto y se enfocará.</string>
 </resources>
