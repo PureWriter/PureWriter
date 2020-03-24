@@ -74,7 +74,7 @@
   <string name="features">特徴</string>
   <string name="sendTextFailedForTooLarge">あなたのテキストが長すぎるともう一つのアプリに直接送られる。それは、すでにあなたのクリップボードにテキストをコピー</string>
   <string name="hasSavedToYourAlbum">Saved to your album</string>
-  <string name="previewAndExport">Preview | Export…</string>
+  <string name="previewAndExport">Preview &amp; Export…</string>
   <string name="preview">プレビュー</string>
   <string name="tipRequirePro">This is a Pro feature</string>
   <string name="proReadMe">PureWriterが素晴らしいと思って、それがより良くなることを願ったら、開発者のインセンティブとして少しのお金を費やしたいですか？\n\nこれにより、私たちは良い方向に固執し、良心の製品を作り、より多くの独立した開発者を鼓舞することができます。\n\n「GOOGLE PLAY」ボタンをクリックすると、Google Pay Paymentを開くことができます。返品として、Pure Writerは広告なしの状態とすべてのProコンテンツを提供します。ありがとうございました！</string>
@@ -468,4 +468,9 @@
   <string name="moreAndBetter">より良く</string>
   <string name="clickBottomAddNewBlankLine">空白行を挿入するために底部領域をクリックしてください</string>
   <string name="summaryClickBottomAddNewBlankLine">最後の行が空白行でない場合、エディターの下部にある空白領域をクリックすると、テキストの最後に新しい空白行が自動的に挿入され、フォーカスされます。</string>
+  <string name="deleteCompletely">完全に削除</string>
+  <string name="openArticleListAfterSwitchingBooks">書籍を切り替えた後に記事リストを開く</string>
+  <string name="regex">正規表現 (Regex)</string>
+  <string name="searchArticles">記事を検索する / 記事にすばやくジャンプする</string>
+  <string name="searchTip">ヒント：複数のキーワードを入力して改行で検索できますが、結果では最初のキーワードのみが強調表示されます。</string>
 </resources>

@@ -77,7 +77,7 @@
   <string name="messageDeleteShortcut">Haz clic en ACEPTAR para eliminar este acceso direct</string>
   <string name="features">Características</string>
   <string name="sendTextFailedForTooLarge">Tu texto es demasiado largo para enviarse a otras aplicaciones, por ello fue copiado en tu portapapeles.</string>
-  <string name="previewAndExport">Vista previa | Exportar…</string>
+  <string name="previewAndExport">Vista previa &amp; Exportar…</string>
   <string name="hasSavedToYourAlbum">Guardado en el álbum</string>
   <string name="preview">Vista previa</string>
   <string name="proReadMe">"Si crees que Pure Writer es útil y deseas que continúe desarrollándose, ¿Te importaría contribuir unos pocos dólares al desarrollador?\n\nTu apoyo alienta a los desarrolladores independientes como yo a crear y traer más aplicaciones bien construidas para ti. \n\nPara apoyar, puedes dar clic en el botón de Google Play. <b>Después de contribuir, recibirás las características Pro como: Material Design 2, Esquema, Exportación, Papel / Fondo personalizado, y también futuras actualizaciones gratis como muestra de agradecimiento.</b>\nGracias a gente que apoya, Pure Writer se esfuerza para estar mejor y actualizado. Por último, ¡gracias por tu apoyo!"</string>
@@ -335,7 +335,7 @@
   <string name="corruptBackupTip">¡El archivo de la Copia de Seguridad está corrupto! Intenta restaurar otra Copia y elige el tamaño y la hora correctos.</string>
   <string name="leftMargin">Margen izquierdo</string>
   <string name="rightMargin">Margen derecho</string>
-  <string name="spacingsAndMargins">Espacios | Márgenes</string>
+  <string name="spacingsAndMargins">Espacios &amp; Márgenes</string>
   <string name="autoBackupAndCloudBackupGuide"><i>Tutorial de la Copia de Seguridad en la nube</i></string>
   <string name="bridgeSummary">Esta característica es muy difícil de entender y usar, no se recomienda habilitarla.</string>
   <string name="messageCancelBridgeFeature">Desde esta versión, la función original "Puente" está oculta por defecto, ya que hay muchos comentarios de los usuarios que no entienden lo que significa esta función, ¡lamento molestarlos! Pero al mismo tiempo, dí mucho tiempo y energía para responder a estos comentarios, que deberían haber sido utilizados para desarrollar y pulir este producto, por lo tanto, actualmente esta función está desactivada por defecto. Si lo deseas y confías en esta función, puedes ir al final de la página de configuración de la Copia de Seguridad y verás una opción para abrirla. Por favor, compréndelo, gracias!</string>
@@ -474,4 +474,8 @@
   <string name="moreAndBetter">Mas y mejor</string>
   <string name="clickBottomAddNewBlankLine">Haga clic en el área inferior para insertar una línea en blanco.</string>
   <string name="summaryClickBottomAddNewBlankLine">Si la última línea no es una línea en blanco, cuando hace clic en el área en blanco en la parte inferior del editor, se insertará automáticamente una nueva línea en blanco al final del texto y se enfocará.</string>
+  <string name="deleteCompletely">Eliminar completamente</string>
+  <string name="openArticleListAfterSwitchingBooks">Abrir lista de artículos después de cambiar libros</string>
+  <string name="searchArticles">Buscar artículos / Saltar a artículos rápidamente</string>
+  <string name="searchTip">Sugerencia: puede ingresar varias palabras clave para buscar por saltos de línea, pero solo la primera palabra clave se resaltará en los resultados.</string>
 </resources>

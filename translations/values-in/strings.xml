@@ -79,7 +79,7 @@
   <string name="messageDeleteShortcut">Klik OK untuk menghapus pintasan ini</string>
   <string name="features">fitur</string>
   <string name="sendTextFailedForTooLarge">Teks Anda terlalu panjang untuk dikirim langsung ke Aplikasi lain. Sudah menyalin teks ke clipboard Anda</string>
-  <string name="previewAndExport">Pratinjau | Ekspor…</string>
+  <string name="previewAndExport">Pratinjau &amp; Ekspor…</string>
   <string name="hasSavedToYourAlbum">Disimpan ke album</string>
   <string name="preview">Pratinjau</string>
   <string name="proReadMe">Jika Anda merasa bahwa Pure Writer bermanfaat, dan berharap itu terus berkembang, maukah Anda berkontribusi sedikit demi sedikit kepada pengembang?\n\nDukungan Anda mendorong pengembang independen seperti saya untuk mengembangkan dan menghadirkan lebih banyak aplikasi yang dibangun dengan baik untuk Anda.\n\nUntuk mendukung, Anda dapat mengklik tombol Google Play. <b> Setelah berkontribusi, Anda akan menerima fitur Pro seperti Save as, Custom Paper / Background dan juga pembaruan di masa mendatang secara gratis sebagai tanda penghargaan. </b>\nKarena para pendukung seperti Anda, Pure Writer berusaha untuk menjadi lebih baik dan diperbarui. Terakhir, terima kasih atas dukungan Anda!</string>
@@ -336,7 +336,7 @@
   <string name="corruptBackupTip">File cadangan rusak! Silakan coba untuk memulihkan cadangan lain dan pilih ukuran dan waktu cadangan yang benar!</string>
   <string name="leftMargin">Margin Kiri</string>
   <string name="rightMargin">Margin kanan</string>
-  <string name="spacingsAndMargins">Jarak | Margin</string>
+  <string name="spacingsAndMargins">Jarak &amp; Margin</string>
   <string name="autoBackupAndCloudBackupGuide"><i>Tutorial pencadangan cloud</i></string>
   <string name="bridgeSummary">Fitur ini sangat sulit dimengerti dan digunakan, tidak disarankan untuk mengaktifkannya.</string>
   <string name="messageCancelBridgeFeature">Dari versi ini, fitur \"Bridge\" asli disembunyikan secara default, karena ada banyak umpan balik pengguna setiap hari yang mengatakan kepada saya bahwa mereka tidak tahu apa arti fitur ini, saya sangat menyesal membuat Anda kesulitan! Tetapi pada saat yang sama, saya juga menghabiskan banyak waktu dan energi untuk menanggapi umpan balik ini - mereka seharusnya digunakan untuk mengembangkan dan memoles produk ini. Jadi saat ini fitur ini dimatikan secara default. Jika Anda suka dan mengandalkannya, Anda bisa pergi ke bagian bawah halaman pengaturan cadangan dan Anda akan melihat opsi untuk membukanya. Tolong mengerti, terima kasih banyak!</string>
@@ -475,4 +475,8 @@
   <string name="moreAndBetter">Lebih banyak dan lebih baik</string>
   <string name="clickBottomAddNewBlankLine">Klik area bawah untuk memasukkan garis kosong</string>
   <string name="summaryClickBottomAddNewBlankLine">Jika baris terakhir bukan baris kosong, ketika Anda mengklik area kosong di bagian bawah editor, baris kosong baru akan secara otomatis dimasukkan di akhir teks dan fokus.</string>
+  <string name="deleteCompletely">Hapus sepenuhnya</string>
+  <string name="openArticleListAfterSwitchingBooks">Buka daftar artikel setelah berganti buku</string>
+  <string name="searchArticles">Cari artikel / Langsung ke artikel dengan cepat</string>
+  <string name="searchTip">Kiat: Anda dapat memasukkan beberapa kata kunci untuk mencari berdasarkan jeda baris, tetapi hanya kata kunci pertama yang akan disorot dalam hasil.</string>
 </resources>

@@ -56,7 +56,7 @@
   <string name="promptShortcutContent">Inhoud (verplicht)</string>
   <string name="redo">opnieuw</string>
   <string name="reject">afwijzen</string>
-  <string name="previewAndExport">Voorbeeld | Exporteren…</string>
+  <string name="previewAndExport">Voorbeeld &amp; Exporteren…</string>
   <string name="share">Aandeel</string>
   <string name="sendContentTo">Stuur deze inhoud naar:</string>
   <string name="sendTextFailedForTooLarge">Uw tekst is te lang om direct naar andere Apps te worden verzonden. Het heeft de tekst al naar uw klembord gekopieerd</string>
@@ -329,7 +329,7 @@
   <string name="corruptBackupTip">Het back-upbestand is beschadigd! Probeer andere back-ups te herstellen en kies de juiste grootte en tijdback-up!</string>
   <string name="leftMargin">Linkermarge</string>
   <string name="rightMargin">Rechter marge</string>
-  <string name="spacingsAndMargins">Afstanden | marges</string>
+  <string name="spacingsAndMargins">Afstanden &amp; marges</string>
   <string name="autoBackupAndCloudBackupGuide"><i>Cloud back-up tutorial</i></string>
   <string name="bridgeSummary">Deze functie is zeer moeilijk te begrijpen en te gebruiken, het wordt afgeraden om deze in te schakelen.</string>
   <string name="messageCancelBridgeFeature">Vanaf deze versie is de originele \"Bridge\" -functie standaard verborgen, omdat er elke dag veel gebruikersfeedbacks zijn die me vertellen dat ze niet weten wat deze functie betekent, het spijt me heel erg om je problemen te bezorgen! Maar tegelijkertijd heb ik ook veel tijd en energie besteed aan het reageren op deze feedbacks - ze hadden moeten worden gebruikt om dit product te ontwikkelen en te polijsten. Momenteel is deze functie dus standaard uitgeschakeld. Als u wilt en erop vertrouwt, kunt u onderaan de pagina met back-upinstellingen gaan en ziet u een optie om het te openen. Begrijp alsjeblieft, heel erg bedankt!</string>
@@ -470,4 +470,8 @@
   <string name="moreAndBetter">Meer en beter</string>
   <string name="clickBottomAddNewBlankLine">Klik op het onderste gebied om een lege regel in te voegen</string>
   <string name="summaryClickBottomAddNewBlankLine">Als de laatste regel geen lege regel is en u op het lege gebied onderaan de editor klikt, wordt er automatisch een nieuwe lege regel ingevoegd aan het einde van de tekst en wordt deze scherpgesteld.</string>
+  <string name="deleteCompletely">Volledig verwijderen</string>
+  <string name="openArticleListAfterSwitchingBooks">Open artikelenlijst na het wisselen van boeken</string>
+  <string name="searchArticles">Zoek artikelen / Ga snel naar artikelen</string>
+  <string name="searchTip">Tip: u kunt meerdere trefwoorden invoeren om te zoeken op regeleinden, maar alleen het eerste zoekwoord wordt gemarkeerd in de resultaten.</string>
 </resources>

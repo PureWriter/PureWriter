@@ -69,7 +69,7 @@
   <string name="messageDeleteShortcut">Klicken Sie auf OK, um diese Verknüpfung zu löschen</string>
   <string name="features">Eigenschaften</string>
   <string name="sendTextFailedForTooLarge">Ihr Text ist zu lang, um direkt an andere Apps gesendet zu werden. Der Text wurde bereits in Ihre Zwischenablage kopiert.</string>
-  <string name="previewAndExport">Vorschau | Export…</string>
+  <string name="previewAndExport">Vorschau &amp; Export…</string>
   <string name="hasSavedToYourAlbum">In Album gespeichert</string>
   <string name="preview">Vorschau</string>
   <string name="tipRequirePro">Dies ist eine Pro-Funktion</string>
@@ -326,7 +326,7 @@
   <string name="corruptBackupTip">Die Sicherungsdatei ist beschädigt! Bitte versuchen Sie, andere Backups wiederherzustellen und wählen Sie die richtige Größe und Zeit für das Backup!</string>
   <string name="leftMargin">Linker Rand</string>
   <string name="rightMargin">Rechter Rand</string>
-  <string name="spacingsAndMargins">Abstände | Ränder</string>
+  <string name="spacingsAndMargins">Abstände &amp; Ränder</string>
   <string name="autoBackupAndCloudBackupGuide"><i>Cloud-Backup-Tutorial</i></string>
   <string name="bridgeSummary">Diese Funktion ist sehr schwer zu verstehen und zu verwenden. Es wird nicht empfohlen, sie zu aktivieren.</string>
   <string name="messageCancelBridgeFeature">In dieser Version ist die ursprüngliche \"Bridge\" -Funktion standardmäßig ausgeblendet, da es täglich viele Benutzer-Feedbacks gibt, die mir sagen, dass sie nicht wissen, was diese Funktion bedeutet. Es tut mir sehr leid, dass ich Ihnen Probleme bereite! Gleichzeitig habe ich viel Zeit und Energie aufgewendet, um auf diese Rückmeldungen zu reagieren - sie hätten verwendet werden sollen, um dieses Produkt zu entwickeln und zu polieren. Daher ist diese Funktion derzeit standardmäßig deaktiviert. Wenn Sie möchten und darauf vertrauen, können Sie zum Ende der Seite mit den Sicherungseinstellungen gehen und eine Option zum Öffnen sehen. Bitte haben Sie Verständnis, vielen Dank!</string>
@@ -465,4 +465,8 @@
   <string name="moreAndBetter">Mehr und besser</string>
   <string name="clickBottomAddNewBlankLine">Klicken Sie auf den unteren Bereich, um eine Leerzeile einzufügen</string>
   <string name="summaryClickBottomAddNewBlankLine">Wenn die letzte Zeile keine leere Zeile ist und Sie auf den leeren Bereich am unteren Rand des Editors klicken, wird am Ende des Textes automatisch eine neue leere Zeile eingefügt und fokussiert.</string>
+  <string name="deleteCompletely">Vollständig löschen</string>
+  <string name="openArticleListAfterSwitchingBooks">Öffnen Sie die Artikelliste, nachdem Sie die Bücher gewechselt haben</string>
+  <string name="searchArticles">Artikel suchen / Schnell zu Artikeln springen</string>
+  <string name="searchTip">Tipp: Sie können mehrere Schlüsselwörter eingeben, um nach Zeilenumbrüchen zu suchen. In den Ergebnissen wird jedoch nur das erste Schlüsselwort hervorgehoben.</string>
 </resources>

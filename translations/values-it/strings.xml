@@ -79,7 +79,7 @@
   <string name="messageDeleteShortcut">Fare clic su OK per eliminare questo collegamento.</string>
   <string name="features">Caratteristiche</string>
   <string name="sendTextFailedForTooLarge">Il testo e\' troppo lungo per essere inviato direttamente ad altre applicazioni. Ha gia\' copiato il testo negli appunti</string>
-  <string name="previewAndExport">Anteprima | Esportazione…</string>
+  <string name="previewAndExport">Anteprima &amp; Esportazione…</string>
   <string name="hasSavedToYourAlbum">Salvato in album</string>
   <string name="preview">Anteprima</string>
   <string name="proReadMe">Se ritenete che Pure Writer sia utile e desiderate che continui lo sviluppo, vi dispiacerebbe contribuire qualche dollaro allo sviluppatore?\n\nIl vostro supporto incoraggia gli sviluppatori indipendenti come me a sviluppare e presentare applicazioni costruite meglio. \n\nPer il supporto, e\' possibile fare clic sul pulsante Google Play.<b>Dopo aver contribuito, riceverai gratuitamente, come ad esempio "Salva con nome", "Sfondo personalizzato" e anche gli aggiornamenti futuri come segno di apprezzamento.</b>\nGrazie a sostenitori come te, Pure Writer si sforza di essere migliore e aggiornato. Infine, grazie per il vostro sostegno! </string>
@@ -340,7 +340,7 @@
   <string name="corruptBackupTip">Il file di backup è corrotto! Prova a ripristinare altri backup e scegli la dimensione e il tempo di backup corretti!</string>
   <string name="leftMargin">Margine sinistro</string>
   <string name="rightMargin">Margine destro</string>
-  <string name="spacingsAndMargins">Distanze | margini</string>
+  <string name="spacingsAndMargins">Distanze &amp; margini</string>
   <string name="autoBackupAndCloudBackupGuide"><i>Tutorial per il backup su cloud</i></string>
   <string name="bridgeSummary">Questa funzione è molto difficile da capire e da usare, non è consigliabile abilitarla.</string>
   <string name="messageCancelBridgeFeature">Da questa versione, la funzione originale \"Bridge\" è nascosta per impostazione predefinita, perché ogni giorno ci sono molti feedback degli utenti che mi dicono che non sanno cosa significhi questa funzione, mi dispiace molto darti problemi! Allo stesso tempo, ho anche dedicato molto tempo ed energie a rispondere a questi feedback: avrebbero dovuto essere usati per sviluppare e lucidare questo prodotto. Quindi attualmente questa funzione è disattivata per impostazione predefinita. Se ti piace e fai affidamento su di esso, puoi andare in fondo alla pagina delle impostazioni di backup e vedrai un\'opzione per aprirlo. Per favore capisci, grazie mille!</string>
@@ -479,4 +479,8 @@
   <string name="moreAndBetter">Di più e meglio</string>
   <string name="clickBottomAddNewBlankLine">Fare clic sull\'area inferiore per inserire una linea vuota</string>
   <string name="summaryClickBottomAddNewBlankLine">Se l\'ultima riga non è una riga vuota, quando si fa clic sull\'area vuota nella parte inferiore dell\'editor, una nuova riga vuota verrà automaticamente inserita alla fine del testo e focalizzata.</string>
+  <string name="deleteCompletely">Elimina completamente</string>
+  <string name="openArticleListAfterSwitchingBooks">Apri l\'elenco degli articoli dopo aver cambiato libro</string>
+  <string name="searchArticles">Cerca articoli / Vai rapidamente agli articoli</string>
+  <string name="searchTip">Suggerimento: è possibile inserire più parole chiave per la ricerca per interruzioni di riga, ma solo la prima parola chiave verrà evidenziata nei risultati.</string>
 </resources>

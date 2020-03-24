@@ -79,7 +79,7 @@
   <string name="features">功能特性</string>
   <string name="sendTextFailedForTooLarge">您的文本太长，无法直接发送到其他 App，已经转而帮您把文本复制到您的剪贴板了</string>
   <string name="hasSavedToYourAlbum">已保存到您的相册</string>
-  <string name="previewAndExport">预览 | 另存为…</string>
+  <string name="previewAndExport">预览 &amp; 另存为…</string>
   <string name="tipRequirePro">该功能需要购买高级版</string>
   <string name="proReadMe">如果您觉得 纯纯写作 很棒，希望它能更好地坚持开发下去，可否愿意花一点点钱作为对于开发者的激励？\n\n这能够使我们一直坚持好的方向，良心的产品，同时激励更多的独立开发者。\n\n您可以点击「Google Play」按钮，开启 Google Pay 支付。或者点击「支付宝」购买激活码。作为回报，<b>付费后，将获得「另存为」和「自定义稿纸背景」等高级功能，对于不断更新的高级内容不再收费</b>。\n纯纯写作因为您的支持而能够不断更新、完善，非常感谢您的支持！</string>
   <string name="preview">预览</string>
@@ -339,7 +339,7 @@
   <string name="corruptBackupTip">该备份文件已损坏！请尝试恢复其它备份，选择正确体积和时间的备份！</string>
   <string name="leftMargin">左边距</string>
   <string name="rightMargin">右边距</string>
-  <string name="spacingsAndMargins">行间距 | 左右边距</string>
+  <string name="spacingsAndMargins">行间距 &amp; 左右边距</string>
   <string name="autoBackupAndCloudBackupGuide">《自动备份与云备份教程》</string>
   <string name="bridgeSummary">这个功能非常难以理解和使用，不推荐启用它。</string>
   <string name="messageCancelBridgeFeature">从这个版本开始，原有的「云读写」功能被默认隐藏了，因为每天有许多用户反馈告诉我他们不知道这个功能是什么意思，非常抱歉给大家带来困扰！但同时我也因为回复这些反馈花费了大量时间精力——它们本该用于开发和打磨这个产品。所以目前这个功能先默认关闭，如果你喜欢和依赖它，你可以进入备份设置页面底部，将可以看到一个选项来开启它。请谅解，非常感谢！</string>
@@ -504,4 +504,9 @@
   <string name="moreAndBetter">越来越多\n越来越好</string>
   <string name="clickBottomAddNewBlankLine">点击编辑器底部空白区域自动插入空行</string>
   <string name="summaryClickBottomAddNewBlankLine">如果最后一行不是空行，则当点击编辑器底部空白区域时，自动在文末插入一新的空行并聚焦。</string>
+  <string name="deleteCompletely">彻底删除</string>
+  <string name="openArticleListAfterSwitchingBooks">切换书籍后打开侧栏文章列表</string>
+  <string name="searchArticles">搜索文章 / 快速跳转到某文章</string>
+  <string name="searchTip">提示: 可通过换行输入多个关键词联合搜索，但结果中仅高亮首个关键词</string>
+  <string name="regex">正则表达式</string>
 </resources>

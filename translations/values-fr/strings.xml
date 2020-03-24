@@ -79,7 +79,7 @@
   <string name="messageDeleteShortcut">Cliquer sur OK pour supprimer ce raccourci</string>
   <string name="features">Fonctionnalités</string>
   <string name="sendTextFailedForTooLarge">Votre texte est trop long pour être envoyé directement dans d\'autres applications. Le texte a déjà été copié dans le presse-papier</string>
-  <string name="previewAndExport">Aperçu | Exporter…</string>
+  <string name="previewAndExport">Aperçu &amp; Exporter…</string>
   <string name="hasSavedToYourAlbum">Sauvegardé dans l\'album</string>
   <string name="preview">Aperçu</string>
   <string name="proReadMe">Si vous trouvez Pure Writer pratique, et espérez qu\'il continue d\'être développé, pourriez-vous penser à contribuer en faisant un don au développeur?\n\nVotre support encourage les développeurs indépendants comme moi à développer et à créer plus d\'applications bien construites. Pour me supporter, vous pouvez cliquer sur le bouton Google Play. <b>Après avoir contribué, vous recevrez plusieurs fonctionnalités pro comme "Enregistrer sous", "Fond personnalisé" et aussi de futures mises à jour gratuites en gage de reconnaissance.</b>\nGrâce à des supporters comme vous, Pure Writer s\'efforce d\'être meilleur jour après jour. Merci pour votre soutien!</string>
@@ -339,7 +339,7 @@
   <string name="corruptBackupTip">Le fichier de sauvegarde est corrompu! Essayez de restaurer d\'autres sauvegardes et choisissez la bonne taille et la bonne heure de sauvegarde!</string>
   <string name="leftMargin">Marge de gauche</string>
   <string name="rightMargin">Marge de droite</string>
-  <string name="spacingsAndMargins">Espacements | Marges</string>
+  <string name="spacingsAndMargins">Espacements &amp; Marges</string>
   <string name="autoBackupAndCloudBackupGuide"><i>Tutoriel de sauvegarde sur le cloud</i></string>
   <string name="bridgeSummary">Cette fonctionnalité est très difficile à comprendre et à utiliser, il est déconseillé de l\'activer.</string>
   <string name="followingBackupsAre">Voici les sauvegardes avant d\'installer la version actuelle</string>
@@ -478,4 +478,8 @@
   <string name="moreAndBetter">Plus et mieux</string>
   <string name="clickBottomAddNewBlankLine">Cliquez sur la zone inférieure pour insérer une ligne vierge</string>
   <string name="summaryClickBottomAddNewBlankLine">Si la dernière ligne n\'est pas une ligne vierge, lorsque vous cliquez sur la zone vide au bas de l\'éditeur, une nouvelle ligne vierge sera automatiquement insérée à la fin du texte et mise au point.</string>
+  <string name="deleteCompletely">Supprimer complètement</string>
+  <string name="openArticleListAfterSwitchingBooks">Ouvrir la liste d\'articles après avoir changé de livre</string>
+  <string name="searchArticles">Rechercher des articles / Accéder rapidement aux articles</string>
+  <string name="searchTip">Conseil: vous pouvez saisir plusieurs mots clés pour effectuer une recherche par saut de ligne, mais seul le premier mot clé sera mis en surbrillance dans les résultats.</string>
 </resources>

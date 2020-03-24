@@ -78,7 +78,7 @@
   <string name="messageDeleteShortcut">Toque em OK para excluir este atalho</string>
   <string name="features">Recursos</string>
   <string name="sendTextFailedForTooLarge">Seu texto é muito longo para ser enviado diretamente a outros aplicativos. O texto foi copiado para sua área de transferência</string>
-  <string name="previewAndExport">Visualizar | Exportar…</string>
+  <string name="previewAndExport">Visualizar &amp; Exportar…</string>
   <string name="hasSavedToYourAlbum">Salvo no álbum</string>
   <string name="preview">Visualização</string>
   <string name="proReadMe">Se você acha o Pure Writer útil, e quer que eu continue o aprimorando, poderia contribuir com alguns dólares para o desenvolvedor?\n\nSeu apoio encoraja desenvolvedores independentes como eu a desenvolverem e trazerem mais aplicativos bem feitos para você. \n\nPara apoiar, você pode tocar no botão da Google Play. <b>Após contribuir, você receberá recursos Pro como "Salvar como...", "Plano de fundo customizado" e também futuras atualizações gratuitamente como agradecimento.</b>\nPor causa de apoiadores como você, Pure Writer esforça-se para ser melhor e manter-se atualizado. Enfim, obrigado pelo suporte! </string>
@@ -338,7 +338,7 @@
   <string name="corruptBackupTip">O arquivo de backup está corrompido! Por favor, tente restaurar outros backups e escolha o tamanho correto e o backup de tempo!</string>
   <string name="leftMargin">Margem esquerda</string>
   <string name="rightMargin">Margem direita</string>
-  <string name="spacingsAndMargins">Espaçamentos | Margens</string>
+  <string name="spacingsAndMargins">Espaçamentos &amp; Margens</string>
   <string name="autoBackupAndCloudBackupGuide"><i>Tutorial de backup em nuvem</i></string>
   <string name="bridgeSummary">Esse recurso é muito difícil de entender e usar, não é recomendável ativá-lo.</string>
   <string name="messageCancelBridgeFeature">A partir desta versão, o recurso \"Bridge\" original fica oculto por padrão, porque há muitos feedbacks de usuários todos os dias dizendo que eles não sabem o que esse recurso significa, lamento muito trazer problemas para você! Mas, ao mesmo tempo, também passei muito tempo e energia respondendo a esses feedbacks - eles deveriam ter sido usados para desenvolver e aperfeiçoar esse produto. Então atualmente esse recurso está desativado por padrão. Se você gosta e confia nele, você pode ir para a parte inferior da página de configurações de backup e você verá uma opção para abri-lo. Por favor, entenda, muito obrigado!</string>

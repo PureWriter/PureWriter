@@ -88,7 +88,7 @@
   <string name="linksCard" translatable="false">Pure Writer - Never Lose Content Editor\nhttps://medium.com/@drakeet/pure-writer-3-0-never-lost-content-editor-419fc75a6f9d</string>
   <string name="features">Features</string>
   <string name="sendTextFailedForTooLarge">Your text is too long to be sent directly to other Apps. It has already copied the text to your clipboard</string>
-  <string name="previewAndExport">Preview | Export…</string>
+  <string name="previewAndExport">Preview &amp; Export…</string>
   <string name="hasSavedToYourAlbum">Saved to album</string>
   <string name="preview">Preview</string>
   <string name="proReadMe">"If you feel that Pure Writer is helpful, and wish that it continues to develop, would you mind contributing a few bucks to the developer?\n\nYour support encourages independent developers like me to develop and bring more well-built apps to you. \n\nTo support, you can click on the Google Play button. <b>After contributing, you will receive Pro features such as Material Design 2, Outline, Export, Custom Paper / Background and also future updates for free as a token of appreciation.</b>\nBecause of supporters like you, Pure Writer strives to be better and updated. Lastly, thanks for your support! "</string>
@@ -371,7 +371,7 @@
   <string name="corruptBackupTip">The backup file is corrupt! Please try to restore other backups and choose the correct size and time backup!</string>
   <string name="leftMargin">Left Margin</string>
   <string name="rightMargin">Right Margin</string>
-  <string name="spacingsAndMargins">Spacings | Margins</string>
+  <string name="spacingsAndMargins">Spacings &amp; Margins</string>
   <string name="autoBackupAndCloudBackupGuide"><i>Cloud backup tutorial</i></string>
   <string name="bridgeSummary">This feature is very difficult to understand and use, it is not recommended to enable it.</string>
   <string name="messageCancelBridgeFeature">From this version, the original \"Bridge\" feature is hidden by default, because there are many user feedback every day telling me that they don\'t know what this feature means, I am very sorry to bring you trouble! But at the same time, I also spent a lot of time and energy responding to these feedbacks - they should have been used to develop and polish this product. So currently this feature is turned off by default. If you like and rely on it, you can go to the bottom of the backup settings page and you will see an option to open it. Please understand, thank you very much!</string>
@@ -540,4 +540,9 @@
   <string name="moreAndBetter">More and better</string>
   <string name="clickBottomAddNewBlankLine">Click Bottom to insert a blank line</string>
   <string name="summaryClickBottomAddNewBlankLine">If the last line is not a blank line, when click the blank area at the bottom of the editor, a new blank line will be automatically inserted at the end of the text and focused.</string>
+  <string name="deleteCompletely">Delete completely</string>
+  <string name="openArticleListAfterSwitchingBooks">Open article list after switching books</string>
+  <string name="searchArticles">Search Articles / Jump to Articles quickly</string>
+  <string name="searchTip">Tip: You can enter multiple keywords to search by line breaks, but only the first keyword will be highlighted in the results.</string>
+  <string name="regex">Regex</string>
 </resources>
