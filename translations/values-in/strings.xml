@@ -33,7 +33,6 @@
   <string name="historyState">Disimpan</string>
   <string name="tipNeedFingerprint">Untuk melihat dan mengedit, silakan gunakan sidik jari Anda untuk membuka kunci terlebih dahulu</string>
   <string name="empty">Kosong</string>
-  <string name="untitled">Tanpa judul</string>
   <string name="isRevertToThisFile">Pulihkan dokumen ini?</string>
   <string name="noMore">Tidak ada lagi!</string>
   <string name="goOn">Terus</string>

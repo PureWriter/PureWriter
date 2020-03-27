@@ -22,7 +22,6 @@
   <string name="editorHintContent">Vul alstublieft de tekst in</string>
   <string name="editorTipAMenu">U moet een tekst selecteren die u wilt gebruiken</string>
   <string name="empty">Leeg</string>
-  <string name="untitled">Untitled</string>
   <string name="explanation">Uitleg</string>
   <string name="failedContentIsEmpty">Mislukt: de inhoud is leeg</string>
   <string name="failedTitleIsEmpty">Mislukt: de titel is leeg</string>

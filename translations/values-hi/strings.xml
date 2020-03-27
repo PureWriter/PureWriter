@@ -28,7 +28,6 @@
   <string name="historyState">सहेजा गया</string>
   <string name="tipNeedFingerprint">देखने और संपादित करने के लिए फिंगरप्रिंट अनलॉक की आवश्यकता है</string>
   <string name="empty">खाली</string>
-  <string name="untitled">शीर्षकहीन</string>
   <string name="isRevertToThisFile">इस फाइल में वापस लौटें?</string>
   <string name="noMore">अब और नहीं</string>
   <string name="goOn">जारी रखें</string>

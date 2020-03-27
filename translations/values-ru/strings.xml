@@ -28,7 +28,6 @@
   <string name="historyState">Сохраненные документы</string>
   <string name="tipNeedFingerprint">Нужен отпечаток для просмотра и редактирования</string>
   <string name="empty">Пусто</string>
-  <string name="untitled">Без названия</string>
   <string name="isRevertToThisFile">Вернуться к этому файлу?</string>
   <string name="noMore">Больше нет</string>
   <string name="goOn">Продолжить</string>

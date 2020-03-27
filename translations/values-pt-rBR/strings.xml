@@ -32,7 +32,6 @@
   <string name="historyState">Salvo</string>
   <string name="tipNeedFingerprint">Para visualizar e editar, por favor use sua impressão digital para desbloquear primeiro</string>
   <string name="empty">Vazio</string>
-  <string name="untitled">Sem título</string>
   <string name="isRevertToThisFile">Recuperar este documento?</string>
   <string name="noMore">Nada mais!</string>
   <string name="goOn">Continuar</string>

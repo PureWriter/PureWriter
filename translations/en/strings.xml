@@ -39,7 +39,7 @@
   <string name="historyState">Saved</string>
   <string name="tipNeedFingerprint">To view and edit, please use your fingerprint to unlock first</string>
   <string name="empty">Empty</string>
-  <string name="untitled">Untitled</string>
+  <string name="untitled" translatable="false">@android:string/untitled</string>
   <string name="isRevertToThisFile">Recover this document?</string>
   <string name="formatWarningRevertFile" translatable="false">%s:\n\n%s</string>
   <string name="noMore">Nothing more!</string>
@@ -357,7 +357,7 @@
   <string name="brightLine">Bright Line</string>
   <string name="darkLine">Dark Line</string>
   <string name="draft">Draft</string>
-  <string name="needToManuallyRestartToTakeEffect">Need to manually restart to take effect</string>
+  <string name="needToManuallyRestartToTakeEffect">Need to restart to take effect</string>
   <string name="spellChecker">Spell checker</string>
   <string name="thisShortcutCannotBeEdited">This shortcut cannot be edited</string>
   <string name="createNewChapter">Create a new chapter</string>

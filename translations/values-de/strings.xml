@@ -30,7 +30,6 @@
   <string name="historyState">Gerettet</string>
   <string name="tipNeedFingerprint">Verwenden Sie zum Anzeigen und Bearbeiten zuerst Ihren Fingerabdruck, um die Sperre aufzuheben</string>
   <string name="empty">Leeren</string>
-  <string name="untitled">Ohne Titel</string>
   <string name="isRevertToThisFile">Dieses Dokument wiederherstellen?</string>
   <string name="noMore">Nichts mehr!</string>
   <string name="goOn">Fortsetzen</string>

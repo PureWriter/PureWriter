@@ -32,7 +32,6 @@
   <string name="historyState">Guardado</string>
   <string name="tipNeedFingerprint">Por favor, desbloquea con tu huella digital para ver y editar</string>
   <string name="empty">Vacío</string>
-  <string name="untitled">Sin título</string>
   <string name="isRevertToThisFile">Recuperar este documento?</string>
   <string name="noMore">Nada más!</string>
   <string name="goOn">Continuar</string>

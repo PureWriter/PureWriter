@@ -33,7 +33,6 @@
   <string name="historyState">Sauvegardé</string>
   <string name="tipNeedFingerprint">Pour voir et éditer vos textes, utilisez d\'abord votre empreinte digitale pour les décrypter</string>
   <string name="empty">Vide</string>
-  <string name="untitled">Sans titre</string>
   <string name="isRevertToThisFile">Récupérer ce document?</string>
   <string name="noMore">Plus de contenu!</string>
   <string name="goOn">Continuer</string>

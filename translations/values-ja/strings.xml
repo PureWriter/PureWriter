@@ -27,7 +27,6 @@
   <string name="historyState">保存されました</string>
   <string name="tipNeedFingerprint">表示と編集のために指紋を解除する必要があります</string>
   <string name="empty">空の</string>
-  <string name="untitled">無題</string>
   <string name="isRevertToThisFile">このファイルに戻す？</string>
   <string name="noMore">もういや</string>
   <string name="goOn">続ける</string>
