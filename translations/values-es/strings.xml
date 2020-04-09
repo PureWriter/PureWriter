@@ -275,7 +275,7 @@
   <string name="tipSmoothScrolling">Si esta opción está activada, cuando haces clic en una línea del texto del contenido, la vista del texto se desplazará suavemente a la línea enfocada si es necesario. Si esta opción está desactivada, saltará a esa línea en un instante.\nEs posible que la animación de desplazamiento no funcione bien en algunos dispositivos, así que desactiva esta opción si se siente atascada o infuncional.</string>
   <string name="defaultMessageUpdateApk">Esta es una versión importante, actualiza a esta versión lo antes posible</string>
   <string name="readme">Has activado el nuevo diseño de Material Design 2 de Pure Writer.\n\nMaterial Design 2 trae un nuevo papel de inmersión a pantalla completa y una barra superior transparente para una apariencia más fresca.\n\nSin embargo, al mismo tiempo, puede haber muchos problemas con el nuevo diseño, por lo que esta es una característica experimental de Pure Writer, que puede tener algunos problemas visuales de la Interfaz. Además, como autor de Pure Writer, prefiero el diseño original de Pure Writer, que es más llamativo y se centra en el contenido de texto, por lo que esta característica de diseño se desarrolla en respuesta a las fuertes demandas de un pequeño número de usuarios. Requiere muchos costos de desarrollo adicionales, y no es fácil de proporcionar, y dado que ahora habrá dos diseños de Pure Writer, el trabajo del desarrollador puede multiplicarse.\n\nDebido a esto, Pure Writer le recomienda que pague por ello, pero aún puede tener mucho tiempo para experimentar y tomar una decisión final de pago. Por favor, intenta apoyarlo. Si las estadísticas muestran que la proporción de usuarios que están dispuestos a pagar es pequeña, el desarrollador puede cancelar o dejar de mantener el Material Design 2. Una vez que haga clic en Aceptar, se considerará que aceptas este contenido de forma predeterminada.\n\n¡Gracias a todos! Haré todo lo posible para proporcionar un excelente Pure Writer.</string>
-  <string name="lowFreeStorageSpaceWarning">Tu teléfono tiene solo %d MB de almacenamiento libre, lo que puede hacer que Pure Writer se guarde o falle la Copia de Seguridad, ¡limpia y deja más de 100 MB antes de usar Pure Writer!</string>
+  <string name="lowFreeStorageSpaceWarning">Tu teléfono tiene solo %1$d MB de almacenamiento libre, lo que puede hacer que Pure Writer se guarde o falle la Copia de Seguridad, ¡limpia y deja más de %2$d MB antes de usar Pure Writer!</string>
   <string name="pureWriterBBS">Pure Writer BBS</string>
   <string name="findReplace">Encontrar &amp; Reemplazar</string>
   <string name="replace">Reemplazar</string>
@@ -334,7 +334,7 @@
   <string name="corruptBackupTip">¡El archivo de la Copia de Seguridad está corrupto! Intenta restaurar otra Copia y elige el tamaño y la hora correctos.</string>
   <string name="leftMargin">Margen izquierdo</string>
   <string name="rightMargin">Margen derecho</string>
-  <string name="spacingsAndMargins">Espacios &amp; Márgenes</string>
+  <string name="spacingsAndMargins">Espacios\nMárgenes</string>
   <string name="autoBackupAndCloudBackupGuide"><i>Tutorial de la Copia de Seguridad en la nube</i></string>
   <string name="bridgeSummary">Esta característica es muy difícil de entender y usar, no se recomienda habilitarla.</string>
   <string name="messageCancelBridgeFeature">Desde esta versión, la función original "Puente" está oculta por defecto, ya que hay muchos comentarios de los usuarios que no entienden lo que significa esta función, ¡lamento molestarlos! Pero al mismo tiempo, dí mucho tiempo y energía para responder a estos comentarios, que deberían haber sido utilizados para desarrollar y pulir este producto, por lo tanto, actualmente esta función está desactivada por defecto. Si lo deseas y confías en esta función, puedes ir al final de la página de configuración de la Copia de Seguridad y verás una opción para abrirla. Por favor, compréndelo, gracias!</string>
@@ -477,4 +477,7 @@
   <string name="openArticleListAfterSwitchingBooks">Abrir lista de artículos después de cambiar libros</string>
   <string name="searchArticles">Buscar artículos / Saltar a artículos rápidamente</string>
   <string name="searchTip">Sugerencia: puede ingresar varias palabras clave para buscar por saltos de línea, pero solo la primera palabra clave se resaltará en los resultados.</string>
+  <string name="duplicate">Duplicada</string>
+  <string name="lowCloudFreeStorageSpaceWarning">Su %1$s tiene solo %2$d MB de almacenamiento gratuito, lo que puede hacer que Pure Writer guarde o falle la copia de seguridad en la nube. ¡Limpie y deje más de %3$d MB antes de usar Pure Writer!</string>
+  <string name="unlimitedStorage">Almacenamiento ilimitado</string>
 </resources>

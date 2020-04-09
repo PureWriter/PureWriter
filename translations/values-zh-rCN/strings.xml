@@ -119,7 +119,7 @@
   <string name="tipCannotCreateNewWhenEmpty">标题和内容都为空时不能创建新文章，若您执意要创建，可通过右上角菜单中的选项进行创建</string>
   <string name="more">更多</string>
   <string name="notSupportOpeningTheLink">不支持打开该链接</string>
-  <string name="formatters">格式化选项</string>
+  <string name="formatters">格式化选项\n一键排版</string>
   <string name="formatterSpace">在中英文之间插入空格</string>
   <string name="formatterIndent">在段首插入缩进</string>
   <string name="formatterRemoveIndent">去除段首缩进</string>
@@ -280,7 +280,7 @@
   <string name="tipSmoothScrolling">如果开启这个选项，当你点击正文的某一行，若有必要，编辑器会顺滑地滚动页面到该行。如果这个选项关闭，则会瞬间跳跃到该行。\n滚动动画可能在一些设备上表现不佳，因此如果你感觉到卡顿，请关闭这个选项。</string>
   <string name="defaultMessageUpdateApk">这是一个重要的版本，请尽快更新到这个版本</string>
   <string name="readme">您已开启了纯纯写作新的 Material Design 2 设计。\n\nMaterial Design 2 带来了新的全屏沉浸稿纸和透明化顶栏，更加精致多彩。\n\n但与此同时，新的设计可能存在诸多问题，因此这个特性作为纯纯写作的一个实验性功能，它可能存在一些 UI 视觉上的问题。另外，作为纯纯写作的作者，相对来说，我更喜欢纯纯写作默认原版设计，它更加耐看和令人专注文本内容，因此这个主题实际上是应少部分用户强烈要求而特意开发的，它给开发者造出了额外的开发成本，能够提供出来实属不易，而且由于需要兼顾两套设计和主题，开发者的工作可能会成倍增加。\n\n鉴于此，如果开启 Material Design 2 后纯纯写作将采用强制收费方式，但您仍然可以有许多时间去体验并作出最终付费决定。请尽量支持它，如果经过统计发现最终愿意付费的用户比例很少，开发者可能会撤销或停止提供 Material Design 2。您一旦开启 Material Design 2，将视为默认同意此内容。\n\n谢谢大家！我会竭尽全力提供一个越来越好的纯纯写作，请享用！</string>
-  <string name="lowFreeStorageSpaceWarning">您的手机剩余存储空间已经只有 %d MB, 这可能导致纯纯写作保存或备份失败，请务必清理留出 100 MB 以上空间后再使用纯纯写作！</string>
+  <string name="lowFreeStorageSpaceWarning">您的手机剩余存储空间已经只有 %1$d MB, 这可能导致纯纯写作保存或备份失败，请务必清理留出 %2$d MB 以上空间后再使用纯纯写作！</string>
   <string name="pureWriterBBS">纯纯写作论坛</string>
   <string name="replaceConfirmMessage">你确定要替换 %d 处内容吗？</string>
   <string name="tipUndoReplace">如果替换后反悔：\n* 你可以进入纯纯写作 - 设置 - 备份 - 恢复备份，点击上一个备份恢复到替换之前的内容。\n* 如果你仅仅是替换了当前篇章，则可以通过右上角菜单进入历史记录页面，恢复到替换之前的内容。</string>
@@ -338,7 +338,7 @@
   <string name="corruptBackupTip">该备份文件已损坏！请尝试恢复其它备份，选择正确体积和时间的备份！</string>
   <string name="leftMargin">左边距</string>
   <string name="rightMargin">右边距</string>
-  <string name="spacingsAndMargins">行间距 &amp; 左右边距</string>
+  <string name="spacingsAndMargins">行间距\n左右边距</string>
   <string name="autoBackupAndCloudBackupGuide">《自动备份与云备份教程》</string>
   <string name="bridgeSummary">这个功能非常难以理解和使用，不推荐启用它。</string>
   <string name="messageCancelBridgeFeature">从这个版本开始，原有的「云读写」功能被默认隐藏了，因为每天有许多用户反馈告诉我他们不知道这个功能是什么意思，非常抱歉给大家带来困扰！但同时我也因为回复这些反馈花费了大量时间精力——它们本该用于开发和打磨这个产品。所以目前这个功能先默认关闭，如果你喜欢和依赖它，你可以进入备份设置页面底部，将可以看到一个选项来开启它。请谅解，非常感谢！</string>
@@ -508,4 +508,9 @@
   <string name="searchArticles">搜索文章 / 快速跳转到某文章</string>
   <string name="searchTip">提示: 可通过换行输入多个关键词联合搜索，但结果中仅高亮首个关键词</string>
   <string name="regex">正则表达式</string>
+  <string name="duplicate">创建副本</string>
+  <string name="scrollToHideWordCount">滚动以隐藏「字数统计」</string>
+  <string name="tipGoogleDriveAppScope">提示：由于 Google Drive 应用私有目录对用户不可见，因此「云读写」将自动关闭。</string>
+  <string name="lowCloudFreeStorageSpaceWarning">您的 %1$s 只有 %2$d MB 的可用存储空间，这可能会导致纯纯写作无法进行云备份。 请清理并保留 %3$d MB 以上的云盘空间！</string>
+  <string name="unlimitedStorage">无限存储</string>
 </resources>

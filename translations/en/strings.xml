@@ -310,7 +310,8 @@
   <string name="readme">You have turned on the new Material Design 2 design of Pure Writer.\n\nMaterial Design 2 brings a new full-screen immersion paper and a transparent top bar for a more fresh look.\n\nHowever, at the same time, there may be many problems with the new design, so this is an experimental feature of Pure Writer, which may have some UI visual problems. In addition, as the author of Pure Writer, I prefer the original Pure Writer design, which is more eye-catching and focused on text content, so this design feature is actually developed in response to the strong demands of a small number of users. It requires a lot of extra development costs, and it is not easy to provide, and since there will be two Pure Writer design now, the work of developers may multiply.\n\nBecause of this, Pure Writer will recommend you to pay for it, but you can still have a lot of time to experience and make a final payment decision. Please try to support it. If the statistics show that the proportion of users who are willing to pay is small, the developer may cancel or stop maintaining the Material Design 2. Once you click the OK, you will be deemed to agree to this content by default.\n\nThank you all! I will do my best to provide a better and better Pure Writer, please enjoy!</string>
   <string name="materialDesign2Formatted" translatable="false"><b><i>Material Design 2　　</i></b></string>
   <string name="materialDesign2" translatable="false">Material Design 2</string>
-  <string name="lowFreeStorageSpaceWarning">Your phone has only %d MB of free storage, which may cause Pure Writer to save or backup failed. Please clean up and leave more than 100 MB before using Pure Writer!</string>
+  <string name="lowFreeStorageSpaceWarning">Your phone has only %1$d MB of free storage, which may cause Pure Writer to save or backup failed. Please clean up and leave more than %2$d MB before using Pure Writer!</string>
+  <string name="lowCloudFreeStorageSpaceWarning">Your %1$s has only %2$d MB of free storage, which may cause Pure Writer to save or backup to cloud failed. Please clean up and leave more than %3$d MB before using Pure Writer!</string>
   <string name="pureWriterBBS">Pure Writer BBS</string>
   <string name="findReplace">Find &amp; Replace</string>
   <string name="replace">Replace</string>
@@ -334,6 +335,7 @@
   <string name="signOut">Sign out</string>
   <string name="changeAccount">Change account</string>
   <string name="scrollToHideTopBar">Scroll to hide the top bar</string>
+  <string name="scrollToHideWordCount">Scroll to hide the Word Count</string>
   <string name="doNotOperate">Don\'t switch or modify articles in the process!</string>
   <string name="forcedOffBadge" translatable="false">关于云备份提醒小红点</string>
   <string name="badgeReadme" translatable="false">您可以在纯纯写作编辑器页面看到对于云备份的小红点，该小红点若是显示则表示<b>您没有配置云备份或者云备份无法连通</b>，如果您已设置云备份且可连通，则它会自动消失。\n\n之所以我们不得不这么做的原因是，很多用户自信地认为自己不需要云备份，但有一天手机丢了、突然坏了，又或者因为刷机、意外双清了，没有云备份只能后悔莫及。作为纯纯写作的开发者兼客服，我已经见过太多这样令人难过的事情了，很多用户甚至来信怪我为什么不强制让用户进行云备份，我非常理解因为辛苦写作的文章未能备份到云盘而皆数丢失的难过，所以也希望大家能够理解，谢谢！</string>
@@ -371,7 +373,7 @@
   <string name="corruptBackupTip">The backup file is corrupt! Please try to restore other backups and choose the correct size and time backup!</string>
   <string name="leftMargin">Left Margin</string>
   <string name="rightMargin">Right Margin</string>
-  <string name="spacingsAndMargins">Spacings &amp; Margins</string>
+  <string name="spacingsAndMargins">Spacings\nMargins</string>
   <string name="autoBackupAndCloudBackupGuide"><i>Cloud backup tutorial</i></string>
   <string name="bridgeSummary">This feature is very difficult to understand and use, it is not recommended to enable it.</string>
   <string name="messageCancelBridgeFeature">From this version, the original \"Bridge\" feature is hidden by default, because there are many user feedback every day telling me that they don\'t know what this feature means, I am very sorry to bring you trouble! But at the same time, I also spent a lot of time and energy responding to these feedbacks - they should have been used to develop and polish this product. So currently this feature is turned off by default. If you like and rely on it, you can go to the bottom of the backup settings page and you will see an option to open it. Please understand, thank you very much!</string>
@@ -545,4 +547,7 @@
   <string name="searchArticles">Search Articles / Jump to Articles quickly</string>
   <string name="searchTip">Tip: You can enter multiple keywords to search by line breaks, but only the first keyword will be highlighted in the results.</string>
   <string name="regex">Regex</string>
+  <string name="duplicate">Duplicate</string>
+  <string name="tipGoogleDriveAppScope">Tip: Since the app private directory of Google Drive is not visible to users, the Bridge function will be automatically disabled.</string>
+  <string name="unlimitedStorage">Unlimited storage</string>
 </resources>

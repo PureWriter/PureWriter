@@ -278,7 +278,7 @@
   <string name="tipSmoothScrolling">Se questa opzione risulta attiva, quando clicchi su una linea del contenuto del testo, La vista del testo scorrera\' fluidamente verso la linea focheggiata, se necessario. Se questa opzione viene invece disabilitata, saltera\' in modo istantaneo a quella linea. \nL\'animazione di scrolling potreebbe non funzionare bene su alcuni device, quindi spegnila se ti senti bloccato.</string>
   <string name="defaultMessageUpdateApk">Questa versione e1\' importante, si prega di effettuare un aggiornamento al piu\' presto possibile</string>
   <string name="readme">Hai attivato il nuovo design Material Design 2 di Pure Writer.\n\nMaterial Design 2 porta una nuova visione ad immersione a schermo intero ed una barra superiore trasparente per un look piu\' fresco.\n\n\nTuttavia, allo stesso tempo, ci possono essere molti problemi con il nuovo design, quindi questa e\' una caratteristica sperimentale di Pure Writer, che puo\' avere alcuni problemi visivi dell\'interfaccia utente. Inoltre, come autore di Pure Writer, preferisco il design originale Pure Writer, che e\' piu\' accattivante e focalizzato sui contenuti testuali, quindi questa caratteristica di design e\' in realta\' sviluppata in risposta alle forti richieste di un piccolo numero di utenti. Richiede un sacco di costi di sviluppo extra, e non e\' facile da fornire, e dal momento che ci saranno due Pure Writer design ora, il lavoro degli sviluppatori puo\' moltiplicarsi.\n\n\n Per questo motivo, Pure Writer vi consigliera\' di pagare per questo, ma si puo\' ancora avere un sacco di tempo per sperimentare e prendere una decisione di pagamento finale. Si prega di provare a sostenerlo. Se le statistiche mostrano che la percentuale di utenti che sono disposti a pagare e\' piccola, lo sviluppatore puo\' annullare o smettere di mantenere il Material Design 2. Una volta cliccato il pulsante OK, sarete considerati d\'accordo su questo contenuto per impostazione predefinita.\n\n\n\nGrazie a tutti voi! Faro\' del mio meglio per fornire un Pure Writer sempre migliore, per favore divertitevi!</string>
-  <string name="lowFreeStorageSpaceWarning">Il tuo telefono ha solamente %d MB di spazio libero, come conseguenza Pure Writer potrebbe fallire nel salvataggio e durante la fase di backup. Si prega di pulire e lasciare piu\' di 100 MB prima di utilizzare Pure Writer!</string>
+  <string name="lowFreeStorageSpaceWarning">Il tuo telefono ha solamente %1$d MB di spazio libero, come conseguenza Pure Writer potrebbe fallire nel salvataggio e durante la fase di backup. Si prega di pulire e lasciare piu\' di %2$d MB prima di utilizzare Pure Writer!</string>
   <string name="pureWriterBBS">Pure Writer BBS</string>
   <string name="findReplace">Trova &amp; Sostituisci</string>
   <string name="replace">Sostituisci</string>
@@ -339,7 +339,7 @@
   <string name="corruptBackupTip">Il file di backup è corrotto! Prova a ripristinare altri backup e scegli la dimensione e il tempo di backup corretti!</string>
   <string name="leftMargin">Margine sinistro</string>
   <string name="rightMargin">Margine destro</string>
-  <string name="spacingsAndMargins">Distanze &amp; margini</string>
+  <string name="spacingsAndMargins">Distanze\nmargini</string>
   <string name="autoBackupAndCloudBackupGuide"><i>Tutorial per il backup su cloud</i></string>
   <string name="bridgeSummary">Questa funzione è molto difficile da capire e da usare, non è consigliabile abilitarla.</string>
   <string name="messageCancelBridgeFeature">Da questa versione, la funzione originale \"Bridge\" è nascosta per impostazione predefinita, perché ogni giorno ci sono molti feedback degli utenti che mi dicono che non sanno cosa significhi questa funzione, mi dispiace molto darti problemi! Allo stesso tempo, ho anche dedicato molto tempo ed energie a rispondere a questi feedback: avrebbero dovuto essere usati per sviluppare e lucidare questo prodotto. Quindi attualmente questa funzione è disattivata per impostazione predefinita. Se ti piace e fai affidamento su di esso, puoi andare in fondo alla pagina delle impostazioni di backup e vedrai un\'opzione per aprirlo. Per favore capisci, grazie mille!</string>
@@ -482,4 +482,7 @@
   <string name="openArticleListAfterSwitchingBooks">Apri l\'elenco degli articoli dopo aver cambiato libro</string>
   <string name="searchArticles">Cerca articoli / Vai rapidamente agli articoli</string>
   <string name="searchTip">Suggerimento: è possibile inserire più parole chiave per la ricerca per interruzioni di riga, ma solo la prima parola chiave verrà evidenziata nei risultati.</string>
+  <string name="duplicate">Duplicare</string>
+  <string name="lowCloudFreeStorageSpaceWarning">%1$s ha solo %2$d MB di spazio di archiviazione gratuito, il che può causare il fallimento del backup o del backup di Pure Writer sul cloud. Si prega di ripulire e lasciare più di %3$d MB prima di utilizzare Pure Writer!</string>
+  <string name="unlimitedStorage">Memoria illimitata</string>
 </resources>

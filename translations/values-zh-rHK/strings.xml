@@ -117,7 +117,7 @@
   <string name="tipCannotCreateNewWhenEmpty">標題和內容都為空時不能建立新文章，若您執意要建立，可透過右上角選單中的選項進行建立</string>
   <string name="more">更多</string>
   <string name="notSupportOpeningTheLink">不支援打開該鏈接</string>
-  <string name="formatters">格式化選項</string>
+  <string name="formatters">格式化選項\n一鍵排版</string>
   <string name="formatterSpace">在中英文之間插入空格</string>
   <string name="formatterIndent">在段首插入縮排</string>
   <string name="formatterRemoveIndent">去除段首縮排</string>
@@ -277,7 +277,7 @@
   <string name="tipSmoothScrolling">如果開啟這個選項，當你點擊正文的某一行，若有必要，編輯器會順滑地滾動頁面到該行。如果這個選項關閉，則會瞬間跳躍到該行。\n滾動動畫可能在一些裝置上表現不佳，因此如果你感覺到卡頓，請關閉這個選項。</string>
   <string name="defaultMessageUpdateApk">這是一個重要的版本，請儘快更新到這個版本</string>
   <string name="readme">您已開啟了純純寫作新的 Material Design 2 設計。\n\nMaterial Design 2 帶來了新的全螢幕沉浸稿紙和透明化頂欄，更加精緻多彩。\n\n但與此同時，新的設計可能存在諸多問題，因此這個特性作為純純寫作的一個實驗性功能，它可能存在一些 UI 視覺上的問題。另外，作為純純寫作的作者，相對來說，我更喜歡純純寫作預設原版設計，它更加耐看和令人專注文字內容，因此這個主題實際上是應少部分使用者強烈要求而特意開發的，它給開發者造出了額外的開發成本，能夠提供出來實屬不易，而且由於需要兼顧兩套設計和主題，開發者的工作可能會成倍增加。\n\n鑑於此，如果開啟 Material Design 2 後純純寫作將採用強制收費方式，但您仍然可以有許多時間去體驗並作出最終付費決定。請儘量支持它，如果經過統計發現最終願意付費的使用者比例很少，開發者可能會復原或停止提供 Material Design 2。您一旦開啟 Material Design 2，將視為預設同意此內容。\n\n謝謝大家！我會竭盡全力提供一個越來越好的純純寫作，請享用！</string>
-  <string name="lowFreeStorageSpaceWarning">您的手機剩餘存儲空間已經只有 %d MB, 這可能導致純純寫作儲存或備份失敗，請務必清理留出 100 MB 以上空間後再使用純純寫作！</string>
+  <string name="lowFreeStorageSpaceWarning">您的手機剩餘存儲空間已經只有 %1$d MB, 這可能導致純純寫作儲存或備份失敗，請務必清理留出 %2$d MB 以上空間後再使用純純寫作！</string>
   <string name="pureWriterBBS">純純寫作論壇</string>
   <string name="replaceConfirmMessage">你確定要取代 %d 處內容嗎？</string>
   <string name="tipUndoReplace">如果取代後反悔：\n* 你可以進入純純寫作 - 設定 - 備份 - 復原備份，點擊上一個備份復原到取代之前的內容。\n* 如果你僅僅是取代了目前篇章，則可以透過右上角選單進入歷史記錄頁面，復原到取代之前的內容。</string>
@@ -336,7 +336,7 @@
   <string name="corruptBackupTip">該備份文件已損壞！請嘗試恢復其他備份，選擇正確體積和時間的備份！</string>
   <string name="leftMargin">左邊距</string>
   <string name="rightMargin">右邊距</string>
-  <string name="spacingsAndMargins">行間距 &amp; 左右邊距</string>
+  <string name="spacingsAndMargins">行間距\n左右邊距</string>
   <string name="autoBackupAndCloudBackupGuide">《自動備份與雲備份教學》</string>
   <string name="bridgeSummary">這個功能非常難以理解和使用，不推薦啟用它。</string>
   <string name="messageCancelBridgeFeature">從這個版本開始，原有的「雲讀寫」功能被默認隱藏了，因為每天有許多用戶反饋告訴我他們不知道這個功能是甚麼意思，非常抱歉給大家帶來困擾！但同時我也因為回復這些反饋花費了大量時間精力——它們本該用於開發和打磨這個產品。所以目前這個功能先默認關閉，如果你喜歡和依賴它，你可以進入備份設置頁面底部，將可以看到一個選項來開啟它。請諒解，非常感謝！</string>
@@ -503,4 +503,9 @@
   <string name="regex">正則表達式</string>
   <string name="searchArticles">搜索文章 / 快速跳轉到某文章</string>
   <string name="searchTip">提示: 可通過換行輸入多個關鍵詞聯合搜索，但結果中僅高亮首個關鍵詞</string>
+  <string name="duplicate">創建副本</string>
+  <string name="scrollToHideWordCount">滾動以隱藏「字數統計」</string>
+  <string name="tipGoogleDriveAppScope">提示：由於 Google Drive 應用私有目錄對用戶不可見，因此「雲讀寫」將自動關閉。</string>
+  <string name="lowCloudFreeStorageSpaceWarning">您的 %1$s 只有 %2$d MB 的可用存儲空間，這可能會導致純純寫作無法進行雲備份。 請清理並保留 %3$d MB 以上的雲盤空間！</string>
+  <string name="unlimitedStorage">無限存儲</string>
 </resources>

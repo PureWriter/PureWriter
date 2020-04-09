@@ -279,7 +279,7 @@
   <string name="tipSmoothScrolling">Si cette option est activée, quand vous cliquerez sur une ligne dans votre texte, celui-ci défilera de manière fluide juqu\'à la ligne indiquée. Si cette option est désactivée, le texte sautera immédiatement jusqu\'à la ligne indiquée (sans animation). \nL\'animation de défilement peut ne pas bien marcher sur certains appareils, donc désactivez cette option si vous remarquez des bugs ou des ralentissements après son activation.</string>
   <string name="defaultMessageUpdateApk">Ceci est une version importante, veuillez mettre à jour l\'application le plus tôt possible</string>
   <string name="readme">Vous avez activé le nouveau design Material Design 2 de Pure Writer. Material Design 2 apporte un nouveau fond immersif plein écran et une barre supérieure transparente pour une apparence plus récente. Cependant, en même temps, il peut y avoir beaucoup de problèmes/bugs avec le nouveau design, c\'est donc une fonctionnalité expérimentale de Pure Writer, qui peut avoir quelques incohérences visuelles d\'interface. De plus, en tant qu\'auteur de Pure Writer, je préfère son design original, qui est plus accrocheur et plus axé sur le contenu textuel, de sorte que cette fonctionnalité de design est en fait développée en réponse aux fortes exigences d\'un petit nombre d\'utilisateurs. Cela demande beaucoup de coûts de développement supplémentaires, ce qui n\'est pas facile à fournir. De plus, étant donné qu\'il y aura deux designs de Pure Writer maintenant, le travail des développeurs risque de se multiplier. Pour cette raison, Pure Writer vous demandera de payer pour cette apparence. Vous pourrez cependant toujours avoir du temps pour expérimenter et prendre une décision finale considérant le paiement. S\'il vous plaît, essayez de le soutenir. Si les statistiques montrent que la proportion d\'utilisateurs disposés à payer est faible, nous annulerons ou cesserons de maintenir le Material Design 2. Une fois que vous cliquez sur le bouton OK, vous serez enregistré être d\'accord pour mettre ce contenu par défaut. Merci à vous tous! Je ferai de mon mieux pour vous fournir un Pure Writer de plus en plus performant.</string>
-  <string name="lowFreeStorageSpaceWarning">Votre téléphone a seulement %d MB de stockage de libre, ce qui explique peut-être pourquoi Pure Writer est incapable d\'enregistrer et de sauvegarder vos fichiers. Veuillez nettoyer votre stockage et libérer plus de 100 MB avant d\'utiliser Pure Writer!</string>
+  <string name="lowFreeStorageSpaceWarning">Votre téléphone a seulement %1$d MB de stockage de libre, ce qui explique peut-être pourquoi Pure Writer est incapable d\'enregistrer et de sauvegarder vos fichiers. Veuillez nettoyer votre stockage et libérer plus de %2$d MB avant d\'utiliser Pure Writer!</string>
   <string name="pureWriterBBS">Pure Writer BBS</string>
   <string name="findReplace">Trouver &amp; Remplacer</string>
   <string name="replace">Remplacer</string>
@@ -338,7 +338,7 @@
   <string name="corruptBackupTip">Le fichier de sauvegarde est corrompu! Essayez de restaurer d\'autres sauvegardes et choisissez la bonne taille et la bonne heure de sauvegarde!</string>
   <string name="leftMargin">Marge de gauche</string>
   <string name="rightMargin">Marge de droite</string>
-  <string name="spacingsAndMargins">Espacements &amp; Marges</string>
+  <string name="spacingsAndMargins">Espacements\nMarges</string>
   <string name="autoBackupAndCloudBackupGuide"><i>Tutoriel de sauvegarde sur le cloud</i></string>
   <string name="bridgeSummary">Cette fonctionnalité est très difficile à comprendre et à utiliser, il est déconseillé de l\'activer.</string>
   <string name="followingBackupsAre">Voici les sauvegardes avant d\'installer la version actuelle</string>
@@ -481,4 +481,7 @@
   <string name="openArticleListAfterSwitchingBooks">Ouvrir la liste d\'articles après avoir changé de livre</string>
   <string name="searchArticles">Rechercher des articles / Accéder rapidement aux articles</string>
   <string name="searchTip">Conseil: vous pouvez saisir plusieurs mots clés pour effectuer une recherche par saut de ligne, mais seul le premier mot clé sera mis en surbrillance dans les résultats.</string>
+  <string name="duplicate">Dupliquer</string>
+  <string name="lowCloudFreeStorageSpaceWarning">Votre %1$s ne dispose que de %2$d Mo d\'espace de stockage gratuit, ce qui peut entraîner l\'échec de la sauvegarde ou de la sauvegarde de Pure Writer dans le cloud. Veuillez nettoyer et laisser plus de %3$d Mo avant d\'utiliser Pure Writer!</string>
+  <string name="unlimitedStorage">Stockage illimité</string>
 </resources>

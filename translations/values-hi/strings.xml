@@ -266,7 +266,7 @@
   <string name="tipSmoothScrolling">यदि यह विकल्प चालू है, तो जब आप सामग्री टेक्स्ट की एक पंक्ति पर क्लिक करते हैं, तो टेक्स्ट दृश्य आसानी से केंद्रित लाइन पर स्क्रॉल करेगा। यदि यह विकल्प बंद है, तो वह तुरंत उस पंक्ति पर कूद जाएगा।\nस्क्रॉलिंग एनीमेशन कुछ उपकरणों पर अच्छा प्रदर्शन नहीं कर सकता है, इसलिए अगर आप अटक जाते हैं तो इस विकल्प को बंद कर दें।</string>
   <string name="defaultMessageUpdateApk">यह एक महत्वपूर्ण संस्करण है, कृपया जितनी जल्दी हो सके इस संस्करण को अपडेट करें।</string>
   <string name="readme">You have turned on the new Material Design 2 design of Pure Writer.\n\nMaterial Design 2 brings a new full-screen immersion paper and a transparent top bar for a more fresh look.\n\nHowever, at the same time, there may be many problems with the new design, so this is an experimental feature of Pure Writer, which may have some UI visual problems. In addition, as the author of Pure Writer, I prefer the original Pure Writer design, which is more eye-catching and focused on text content, so this design feature is actually developed in response to the strong demands of a small number of users. It requires a lot of extra development costs, and it is not easy to provide, and since there will be two Pure Writer design now, the work of developers may multiply.\n\nBecause of this, Pure Writer will recommend you to pay for it, but you can still have a lot of time to experience and make a final payment decision. Please try to support it. If the statistics show that the proportion of users who are willing to pay is small, the developer may cancel or stop maintaining the Material Design 2. Once you click the OK, you will be deemed to agree to this content by default.\n\nThank you all! I will do my best to provide a better and better Pure Writer, please enjoy!</string>
-  <string name="lowFreeStorageSpaceWarning">आपके फ़ोन में केवल %d MB मुफ्त स्टोरेज है, जो कि शुद्ध लेखक को बचाने या बैकअप में विफल हो सकता है। कृपया शुद्ध लेखक का उपयोग करने से पहले 100 MB से अधिक की सफाई करें और छोड़ दें!</string>
+  <string name="lowFreeStorageSpaceWarning">आपके फ़ोन में केवल %1$d MB मुफ्त स्टोरेज है, जो कि शुद्ध लेखक को बचाने या बैकअप में विफल हो सकता है। कृपया शुद्ध लेखक का उपयोग करने से पहले %2$d MB से अधिक की सफाई करें और छोड़ दें!</string>
   <string name="insertCategoryBottomShort">नीचे से श्रेणी डालें</string>
   <string name="insertCategoryBottomLong">अध्याय सूची के नीचे एक नई श्रेणी डालें</string>
   <string name="pureWriterBBS">Pure Writer BBS</string>
@@ -328,7 +328,7 @@
   <string name="corruptBackupTip">बैकअप फ़ाइल दूषित है! कृपया अन्य बैकअप को पुनर्स्थापित करने का प्रयास करें और सही आकार और समय बैकअप चुनें!</string>
   <string name="leftMargin">बायां मार्जिन</string>
   <string name="rightMargin">सही मार्जिन</string>
-  <string name="spacingsAndMargins">Spacings &amp; मार्जिन</string>
+  <string name="spacingsAndMargins">Spacings\nमार्जिन</string>
   <string name="autoBackupAndCloudBackupGuide"><i>क्लाउड बैकअप ट्यूटोरियल</i></string>
   <string name="bridgeSummary">यह सुविधा समझना और उपयोग करना बहुत मुश्किल है, इसे सक्षम करने के लिए अनुशंसित नहीं है।</string>
   <string name="messageCancelBridgeFeature">इस संस्करण से, मूल \"ब्रिज\" सुविधा डिफ़ॉल्ट रूप से छिपी हुई है, क्योंकि हर दिन कई उपयोगकर्ता फीडबैक मुझे बता रहे हैं कि वे नहीं जानते कि इस सुविधा का क्या मतलब है, मुझे आपको परेशानी लाने के लिए बहुत खेद है! लेकिन साथ ही, मैंने इन प्रतिक्रियाओं का जवाब देने में बहुत समय और ऊर्जा खर्च की - उन्हें इस उत्पाद को विकसित करने और चमकाने के लिए इस्तेमाल किया जाना चाहिए था। इसलिए वर्तमान में यह सुविधा डिफ़ॉल्ट रूप से बंद है। यदि आप इसे पसंद करते हैं और इस पर भरोसा करते हैं, तो आप बैकअप सेटिंग्स पृष्ठ के निचले भाग में जा सकते हैं और आपको इसे खोलने का विकल्प दिखाई देगा। कृपया समझें, बहुत-बहुत धन्यवाद!</string>
@@ -471,4 +471,7 @@
   <string name="openArticleListAfterSwitchingBooks">किताबें बदलने के बाद लेख सूची खोलें</string>
   <string name="searchArticles">लेख खोजें / जल्दी से लेख पर जाएं</string>
   <string name="searchTip">टिप: आप लाइन ब्रेक द्वारा खोज करने के लिए कई कीवर्ड दर्ज कर सकते हैं, लेकिन परिणामों में केवल पहले कीवर्ड को हाइलाइट किया जाएगा।</string>
+  <string name="duplicate">डुप्लिकेट</string>
+  <string name="lowCloudFreeStorageSpaceWarning">आपके %1$s में केवल %2$d MB मुफ्त स्टोरेज है, जो क्लाउड को बचाने या बैकअप में विफल होने का कारण शुद्ध लेखक हो सकता है। कृपया शुद्ध करें और Pure Writer का उपयोग करने से पहले %3$d MB से अधिक छोड़ दें!</string>
+  <string name="unlimitedStorage">असीमित भंडारण</string>
 </resources>
