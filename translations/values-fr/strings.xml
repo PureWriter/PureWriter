@@ -108,10 +108,10 @@
   <string name="summaryBackupToLocal">La sauvegarde sera enregistrée dans /backups</string>
   <string name="summaryBackupToCloud">La sauvegarde sera enregistrée dans votre espace cloud (si celui-ci a été défini)</string>
   <string name="restoreBackup">Restaurer à partir d\'une sauvegarde</string>
-  <string name="summaryRestoreTheBackup">Le fichier de sauvegarde sera récupéré à partir de /backups, /backups/PureWriterAutoBackups et votre WebDAV ou Dropbox</string>
+  <string name="summaryRestoreTheBackup">Le fichier de sauvegarde sera récupéré à partir de /backups, /backups/PureWriterAutoBackups et votre WebDAV ou Dropbox ou GoogleDrive</string>
   <string name="backupSuccessful">Sauvegarde réussie</string>
   <string name="restoreSuccessful">Restauration réussie</string>
-  <string name="tipBackupList">Vos fichiers de sauvegarde sont ici. Vous pouvez cliquer pour les restaurer.\n<b>Si vous souhaitez récupérer des fichiers de sauvegarde venant de WebDAV, veuillez vous connectez à votre compte WebDAV d\'abord!</b></string>
+  <string name="tipBackupList">Vos fichiers de sauvegarde sont ici. Vous pouvez cliquer pour les restaurer.\n<b>Si vous souhaitez récupérer des fichiers de sauvegarde venant de WebDAV/Dropbox/GoogleDrive, veuillez vous connectez à votre compte WebDAV/Dropbox/GoogleDrive d\'abord!</b></string>
   <string name="tipBackupNotExist">Le fichier de sauvegarde n\'existe pas. Veuillez placer le fichier /backups et réessayez.</string>
   <string name="wordCountMode">Mode comptage de mots</string>
   <string-array name="wordCountModeEntries">
@@ -342,7 +342,7 @@
   <string name="autoBackupAndCloudBackupGuide"><i>Tutoriel de sauvegarde sur le cloud</i></string>
   <string name="bridgeSummary">Cette fonctionnalité est très difficile à comprendre et à utiliser, il est déconseillé de l\'activer.</string>
   <string name="followingBackupsAre">Voici les sauvegardes avant d\'installer la version actuelle</string>
-  <string name="logInToWebDAVOrDropbox">Connectez-vous à WebDAV ou Dropbox</string>
+  <string name="logInToCloudStorage">Connectez-vous au stockage cloud</string>
   <string name="messageCancelBridgeFeature">À partir de cette version, la fonctionnalité Bridge d\'origine est masquée par défaut, car de nombreux retours d\'utilisateurs me disent tous les jours qu\'ils ne savent pas ce que cette fonctionnalité signifie, je suis vraiment désolé de vous causer des problèmes! Mais en même temps, j\'ai également passé beaucoup de temps et d\'énergie à répondre à ces retours - ils auraient dû être utilisés pour développer et peaufiner ce produit. Donc, cette fonctionnalité est actuellement désactivée par défaut. Si vous le souhaitez et que vous vous y appuyez, vous pouvez aller au bas de la page des paramètres de sauvegarde et vous verrez une option pour l\'ouvrir. S\'il vous plaît comprendre, merci beaucoup!</string>
   <string name="scrollToBottom">Défiler vers le bas</string>
   <string name="textColor">Couleur du texte de l\'éditeur</string>

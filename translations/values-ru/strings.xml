@@ -100,10 +100,10 @@
   <string name="backupNow">Быстрое резервное копирование</string>
   <string name="summaryBackupToLocal">Файл резервной копии будет сохранен в /backups</string>
   <string name="restoreBackup">Восстановление резервной копии</string>
-  <string name="summaryRestoreTheBackup">Backup file will be retrieved from /backups, /backups/PureWriterAutoBackups and your WebDAV or Dropbox</string>
+  <string name="summaryRestoreTheBackup">Backup file will be retrieved from /backups, /backups/PureWriterAutoBackups and your WebDAV or Dropbox or GoogleDrive</string>
   <string name="backupSuccessful">Резервирование успешно</string>
   <string name="restoreSuccessful">Восстановление резервной копии успешно</string>
-  <string name="tipBackupList">Ниже перечислены все файлы резервных копий, нажмите, чтобы восстановить резервную копию. \n<b>Если вы хотите получить резервные копии из облака Dropbox/WebDAV, перед тем, как войти на эту страницу, вы должны войти в свою учетную запись Dropbox/WebDAV!</b></string>
+  <string name="tipBackupList">Ниже перечислены все файлы резервных копий, нажмите, чтобы восстановить резервную копию. \n<b>Если вы хотите получить резервные копии из облака Dropbox / GoogleDrive / WebDAV, перед тем, как войти на эту страницу, вы должны войти в свою учетную запись Dropbox / GoogleDrive / WebDAV!</b></string>
   <string name="tipBackupNotExist">Файл резервной копии не существует. Поместите файл в /backups и повторите попытку</string>
   <string name="wordCountMode">Word count mode</string>
   <string-array name="wordCountModeEntries">
@@ -333,7 +333,7 @@
   <string name="bridgeSummary">Эта функция очень сложна для понимания и использования, ее не рекомендуется включать.</string>
   <string name="messageCancelBridgeFeature">В этой версии оригинальная функция «Мост» по умолчанию скрыта, потому что каждый день многие отзывы пользователей говорят мне, что они не знают, что означает эта функция, мне очень жаль доставлять вам неприятности! Но в то же время, я также потратил много времени и энергии, отвечая на эти отзывы - их следовало использовать для разработки и совершенствования этого продукта. Так что в настоящее время эта функция отключена по умолчанию. Если вам это нравится и вы полагаетесь на него, вы можете перейти к нижней части страницы настроек резервного копирования, и вы увидите вариант, чтобы открыть его. Пожалуйста, поймите, большое спасибо!</string>
   <string name="followingBackupsAre">Ниже приведены резервные копии перед установкой текущей версии.</string>
-  <string name="logInToWebDAVOrDropbox">Войдите в WebDAV или Dropbox</string>
+  <string name="logInToCloudStorage">Войдите в облачное хранилище</string>
   <string name="scrollToBottom">Прокрутить вниз</string>
   <string name="textColor">Цвет текста редактора</string>
   <string name="customColorTipOnShortcutPad">Совет: Вы можете настроить цвет текста редактора на странице настроек.</string>

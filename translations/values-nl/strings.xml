@@ -100,10 +100,10 @@
   <string name="backupNow">Nu backuppen</string>
   <string name="summaryBackupToLocal">Het back-upbestand wordt opgeslagen op het pad /backups</string>
   <string name="restoreBackup">Back-up terugzetten</string>
-  <string name="summaryRestoreTheBackup">Backup file will be retrieved from /backups, /backups/PureWriterAutoBackups and your WebDAV or Dropbox</string>
+  <string name="summaryRestoreTheBackup">Backup file will be retrieved from /backups, /backups/PureWriterAutoBackups and your WebDAV or Dropbox or GoogleDrive</string>
   <string name="backupSuccessful">Back-up geslaagd</string>
   <string name="restoreSuccessful">Herstel de back-up met succes</string>
-  <string name="tipBackupList">Het volgende is alle back-upbestanden, klik om de back-up te herstellen. \n<b>Als u back-ups wilt ontvangen van de Dropbox/WebDAV-cloud, moet u zich aanmelden bij uw Dropbox/WebDAV-account voordat u deze pagina opent!</b></string>
+  <string name="tipBackupList">Het volgende is alle back-upbestanden, klik om de back-up te herstellen. \n<b>Als u back-ups wilt ontvangen van de Dropbox/GoogleDrive/WebDAV-cloud, moet u zich aanmelden bij uw Dropbox/GoogleDrive/WebDAV-account voordat u deze pagina opent!</b></string>
   <string name="tipBackupNotExist">Het back-upbestand bestaat niet. Plaats het back-upbestand in /backups en probeer het opnieuw</string>
   <string name="wordCountMode">Word telmodus</string>
   <string-array name="wordCountModeEntries">
@@ -333,7 +333,7 @@
   <string name="bridgeSummary">Deze functie is zeer moeilijk te begrijpen en te gebruiken, het wordt afgeraden om deze in te schakelen.</string>
   <string name="messageCancelBridgeFeature">Vanaf deze versie is de originele \"Bridge\" -functie standaard verborgen, omdat er elke dag veel gebruikersfeedbacks zijn die me vertellen dat ze niet weten wat deze functie betekent, het spijt me heel erg om je problemen te bezorgen! Maar tegelijkertijd heb ik ook veel tijd en energie besteed aan het reageren op deze feedbacks - ze hadden moeten worden gebruikt om dit product te ontwikkelen en te polijsten. Momenteel is deze functie dus standaard uitgeschakeld. Als u wilt en erop vertrouwt, kunt u onderaan de pagina met back-upinstellingen gaan en ziet u een optie om het te openen. Begrijp alsjeblieft, heel erg bedankt!</string>
   <string name="followingBackupsAre">Hier volgen de back-ups voordat u de huidige versie installeert</string>
-  <string name="logInToWebDAVOrDropbox">Log in op WebDAV of Dropbox</string>
+  <string name="logInToCloudStorage">Log in op cloudopslag</string>
   <string name="scrollToBottom">Scroll naar beneden</string>
   <string name="textColor">Tekstkleur van Editor</string>
   <string name="customColorTipOnShortcutPad">Tip: U kunt de tekstkleur van de editor aanpassen op de pagina Instellingen.</string>

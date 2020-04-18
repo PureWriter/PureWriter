@@ -100,10 +100,10 @@
   <string name="backupNow">अब समर्थन देना</string>
   <string name="summaryBackupToLocal">बैकअप फ़ाइल को पथ /backups पर सहेजा जाएगा</string>
   <string name="restoreBackup">बैकअप पुनर्स्थापित करें</string>
-  <string name="summaryRestoreTheBackup">Backup file will be retrieved from /backups, /backups/PureWriterAutoBackups and your WebDAV or Dropbox</string>
+  <string name="summaryRestoreTheBackup">Backup file will be retrieved from /backups, /backups/PureWriterAutoBackups and your WebDAV or Dropbox or GoogleDrive</string>
   <string name="backupSuccessful">बैकअप सफल</string>
   <string name="restoreSuccessful">सफलतापूर्वक बैकअप बहाल करें</string>
-  <string name="tipBackupList">निम्नलिखित सभी बैकअप फ़ाइलें हैं, बैकअप को पुनर्स्थापित करने के लिए क्लिक करें. \n<b>यदि आप Dropbox/WebDAV क्लाउड से बैकअप प्राप्त करना चाहते हैं, तो आपको इस पृष्ठ को दर्ज करने से पहले अपने Dropbox/WebDAV खाते में लॉग इन करना चाहिए!</b></string>
+  <string name="tipBackupList">निम्नलिखित सभी बैकअप फ़ाइलें हैं, बैकअप को पुनर्स्थापित करने के लिए क्लिक करें. \n<b>यदि आप Dropbox/WebDAV/GoogleDrive क्लाउड से बैकअप प्राप्त करना चाहते हैं, तो आपको इस पृष्ठ को दर्ज करने से पहले अपने Dropbox/WebDAV/GoogleDrive खाते में लॉग इन करना चाहिए!</b></string>
   <string name="tipBackupNotExist">बैकअप फ़ाइल मौजूद नहीं है कृपया /backups में बैकअप फ़ाइल डालकर पुन: प्रयास करें</string>
   <string name="wordCountMode">शब्द गणना मोड</string>
   <string-array name="wordCountModeEntries">
@@ -333,7 +333,7 @@
   <string name="bridgeSummary">यह सुविधा समझना और उपयोग करना बहुत मुश्किल है, इसे सक्षम करने के लिए अनुशंसित नहीं है।</string>
   <string name="messageCancelBridgeFeature">इस संस्करण से, मूल \"ब्रिज\" सुविधा डिफ़ॉल्ट रूप से छिपी हुई है, क्योंकि हर दिन कई उपयोगकर्ता फीडबैक मुझे बता रहे हैं कि वे नहीं जानते कि इस सुविधा का क्या मतलब है, मुझे आपको परेशानी लाने के लिए बहुत खेद है! लेकिन साथ ही, मैंने इन प्रतिक्रियाओं का जवाब देने में बहुत समय और ऊर्जा खर्च की - उन्हें इस उत्पाद को विकसित करने और चमकाने के लिए इस्तेमाल किया जाना चाहिए था। इसलिए वर्तमान में यह सुविधा डिफ़ॉल्ट रूप से बंद है। यदि आप इसे पसंद करते हैं और इस पर भरोसा करते हैं, तो आप बैकअप सेटिंग्स पृष्ठ के निचले भाग में जा सकते हैं और आपको इसे खोलने का विकल्प दिखाई देगा। कृपया समझें, बहुत-बहुत धन्यवाद!</string>
   <string name="followingBackupsAre">वर्तमान संस्करण को स्थापित करने से पहले निम्नलिखित बैकअप हैं</string>
-  <string name="logInToWebDAVOrDropbox">WebDAV या ड्रॉपबॉक्स में लॉग इन करें</string>
+  <string name="logInToCloudStorage">क्लाउड स्टोरेज में लॉग इन करें</string>
   <string name="scrollToBottom">नीचे तक स्क्रॉल करें</string>
   <string name="textColor">संपादक का पाठ रंग</string>
   <string name="customColorTipOnShortcutPad">युक्ति: आप सेटिंग पृष्ठ में संपादक का टेक्स्ट रंग अनुकूलित कर सकते हैं।</string>

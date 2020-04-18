@@ -103,8 +103,8 @@
   <string name="backupNow">立即備份</string>
   <string name="summaryBackupToLocal">備份文件將被儲存到 /backups</string>
   <string name="restoreBackup">復原備份</string>
-  <string name="summaryRestoreTheBackup">備份文件將從 /backups 和 /backups/PureWriterAutoBackups 和您的 WebDAV 或 Dropbox 雲端硬碟中讀取</string>
-  <string name="tipBackupList">以下是備份文件，點擊即可復原備份。\n<b>如果您想從 Dropbox/WebDAV 雲端獲取備份，應該先登入你的 Dropbox/WebDAV 帳號後再進入此頁面！</b></string>
+  <string name="summaryRestoreTheBackup">備份文件將從 /backups 和 /backups/PureWriterAutoBackups 和您的 GoogleDrive 或 WebDAV 或 Dropbox 雲端硬碟中讀取</string>
+  <string name="tipBackupList">以下是備份文件，點擊即可復原備份。\n<b>如果您想從 GoogleDrive/Dropbox/WebDAV 雲端獲取備份，應該先登入你的 GoogleDrive/Dropbox/WebDAV 帳號後再進入此頁面！</b></string>
   <string name="restoreSuccessful">復原備份成功</string>
   <string name="tipBackupNotExist">備份文件不存在，請將備份文件置於 /backups 並重試</string>
   <string name="wordCountMode">字數統計模式與<b>標點符號</b></string>
@@ -341,7 +341,7 @@
   <string name="bridgeSummary">這個功能非常難以理解和使用，不推薦啟用它。</string>
   <string name="messageCancelBridgeFeature">從這個版本開始，原有的「雲讀寫」功能被預設隱藏了，因為每天有許多使用者回饋告訴我他們不知道這個功能是什麼意思，非常抱歉給大家帶來困擾！但同時我也因為回復這些回饋花費了大量時間精力——它們本該用於開發和打磨這個產品。所以目前這個功能先預設關閉，如果你喜歡和依賴它，你可以進入備份設定頁面底部，將可以看到一個選項來開啟它。請諒解，非常感謝！</string>
   <string name="followingBackupsAre">以下是安裝目前版本之前的備份</string>
-  <string name="logInToWebDAVOrDropbox">登入 WebDAV 或 Dropbox</string>
+  <string name="logInToCloudStorage">登入 WebDAV, Dropbox 或 GoogleDrive</string>
   <string name="scrollToBottom">聚焦到文末</string>
   <string name="textColor">編輯器字體顏色</string>
   <string name="textColorSummary">須知：當切換稿紙後，字體顏色會自動復原到預設顏色。</string>
@@ -352,7 +352,7 @@
   <string name="collapseAllCategories">收起所有卷</string>
   <string name="showMore">顯示更多</string>
   <string name="textColorAlpha">字體顏色透明度</string>
-  <string name="desktopDialogGuide">您需要從\nhttps://writer.drakeet.com/desktop_zh \n下載<b><i>純純寫作桌面版 0.2 或以上版本</i></b>。\n\n當手機與電腦<b>處於同一個 Wi-Fi 網路或熱點</b>時👈👈👈，打開桌面版後將以下的 IP 地址<b>輸入於桌面版中的輸入欄中</b>，即可與桌面版即時連線，雙向同步編輯目前文章。</string>
+  <string name="desktopDialogGuide">您需要從\nhttps://writer.drakeet.com/desktop_zh \n下載<b><i>純純寫作桌面版 0.2.2 或以上版本</i></b>。\n\n當手機與電腦<b>處於同一個 Wi-Fi 網路或熱點</b>時👈👈👈，打開桌面版後將以下的 IP 地址<b>輸入於桌面版中的輸入欄中</b>，即可與桌面版即時連線，雙向同步編輯目前文章。</string>
   <string name="desktopDialogNote">注意：目前純純寫作桌面版還處於非常初級階段，許多功能未完善，請您理解和靜待其後續更新。\n* 若您看到<b>多行 IP 地址</b>，請逐一嘗試連線它們。\n* Windows 版存放<b>路徑中不能包含中文</b>目錄，否則將會無法使用！</string>
   <string name="tipNotSupportThisDesktopVersion">目前手機端和桌面端版本不匹配，無法連接，請各自更新到最新版後重試</string>
   <string name="connect">連接</string>

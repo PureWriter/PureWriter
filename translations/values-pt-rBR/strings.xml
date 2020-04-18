@@ -10,7 +10,7 @@
   <string name="redo">Refazer</string>
   <string name="about">Sobre | Ajuda</string>
 
-  <string name="defaultContent">Prazer em conhecê-lo(a)!\nEste é um editor de texto simples e rápido projetado para oferecer \"uma boa experiência de escrita\". O Pure Writer é minimalista e permite que você escreva o conteúdo do seu coração a qualquer hora, em qualquer lugar, sem temer perder seu conteúdo novamente.\nCom a linha Pure Writer e o recurso de espaçamento entre parágrafos, seu texto ficará mais claro e mais confortável de ler. Não só isso, mas também tem rolagem suave, deslizar para recolher teclado e muitos outros recursos interessantes.\nSimplicidade com complexidade oculta. Você pode criptografar seu trabalho com sua impressão digital, começar ou parar de escrever quando quiser e compartilhar seu conteúdo rapidamente com outros aplicativos.\nMais importante, a menos que você exclua manualmente, você nunca perderá seu trabalho enquanto estiver usando este editor de texto. Seja uma exclusão acidental ou um desligamento inesperado, você ainda poderá recuperá-lo através do histórico.\nMais recursos: Backup de nuvem do WebDAV, tema Material Design 2, Markdown, modo máquina de escrever, conversão de texto para imagem…\nÉ rápido e suave. Você pode parar e continuar a escrever a qualquer hora, em qualquer lugar.\nAproveite o Pure Writer.</string>
+  <string name="defaultContent">Prazer em conhecê-lo(a)!\nEis um editor de texto simples e rápido projetado para oferecer \"uma boa experiência de escrita\". O Pure Writer é minimalista e permite-lhe escrever o que vem do seu coração a qualquer hora e em qualquer lugar, sem temer perdê-las novamente.\nCom a linha Pure Writer e o recurso de espaçamento entre parágrafos, seus textos ficarão mais claros e mais confortáveis de se ler. Não só isso, mas também há rolagem suave, deslize para recolher o teclado e muitos outros recursos interessantes.\nSimplicidade com complexidade oculta. Você pode criptografar seu trabalho com sua impressão digital, começar ou parar de escrever quando quiser e compartilhar seu conteúdo rapidamente com outros aplicativos.\nMais importante, a menos que você exclua manualmente, você nunca perderá seu trabalho enquanto estiver usando este editor de texto. Seja uma exclusão acidental ou um desligamento inesperado, você ainda poderá recuperá-lo através do histórico.\nMais recursos: Backup de nuvem do WebDAV, tema Material Design 2, Markdown, modo Máquina de Escrever, conversão de texto para imagem…\nÉ rápido e suave. Você pode parar e continuar a escrever a qualquer hora, em qualquer lugar.\nAproveite o Pure Writer.</string>
   <string name="share">Compartilhar</string>
   <string name="copyTitle">Copiar o título</string>
   <string name="lock">Bloquear</string>
@@ -55,7 +55,7 @@
   <string name="indent">Recuo</string>
   <string name="format">Formatar</string>
   <string name="contentTextSize">Tamanho da fonte do conteúdo</string>
-  <string name="iKnow">Eu sei</string>
+  <string name="iKnow">Entendido</string>
   <string name="tipIndent">Nota: A função Recuo não vai afetar o texto já existente</string>
   <string name="explanation">Explicação</string>
   <string name="tipInsertBlankLines">Enquanto esta configuração estiver ativada, uma linha extra vai ser adicionada em cada parágrafo quando o texto for copiado ou compartilhado. Como este espaçamento entre parágrafos especial é fornecido apenas pelo Pure Writer, linhas extras são necessárias para ter o mesmo efeito em outros aplicativos.</string>
@@ -77,10 +77,10 @@
   <string name="messageDeleteShortcut">Toque em OK para excluir este atalho</string>
   <string name="features">Recursos</string>
   <string name="sendTextFailedForTooLarge">Seu texto é muito longo para ser enviado diretamente a outros aplicativos. O texto foi copiado para sua área de transferência</string>
-  <string name="previewAndExport">Visualizar &amp; Exportar…</string>
+  <string name="previewAndExport">Visualizar\nExportar…</string>
   <string name="hasSavedToYourAlbum">Salvo no álbum</string>
   <string name="preview">Visualização</string>
-  <string name="proReadMe">Se você acha o Pure Writer útil, e quer que eu continue o aprimorando, poderia contribuir com alguns dólares para o desenvolvedor?\n\nSeu apoio encoraja desenvolvedores independentes como eu a desenvolverem e trazerem mais aplicativos bem feitos para você. \n\nPara apoiar, você pode tocar no botão da Google Play. <b>Após contribuir, você receberá recursos Pro como "Salvar como...", "Plano de fundo customizado" e também futuras atualizações gratuitamente como agradecimento.</b>\nPor causa de apoiadores como você, Pure Writer esforça-se para ser melhor e manter-se atualizado. Enfim, obrigado pelo suporte! </string>
+  <string name="proReadMe">Se você acha o Pure Writer útil e quer que eu continue o aprimorando, poderia contribuir com alguns dólares para o desenvolvedor?\n\nSeu apoio encoraja desenvolvedores independentes como eu a desenvolverem e trazerem mais aplicativos bem feitos para você. \n\nPara apoiar, você pode tocar no botão da Google Play. <b>Após contribuir, você receberá recursos Pro como "Salvar como...", "Fundo customizado" e futuras atualizações como agradecimento.</b>\nPor causa de apoiadores como você, Pure Writer esforça-se para ser melhor e manter-se atualizado. Enfim, obrigado pelo suporte! </string>
   <string name="tipRequirePro">Este é um recurso Pro</string>
   <string name="ok">OK</string>
   <string name="cancel">Cancelar</string>
@@ -89,8 +89,8 @@
   <string name="summaryPaid">Pro ativado</string>
   <string name="labelUpdate">Uma nova versão do Pure Writer está disponível: %1$s</string>
   <string name="update">Atualizar</string>
-  <string name="messageDeleteArticlesToTrash">Tem certeza que quer excluir este(s) artigo(s) e o(s) enviar para a lixeira?</string>
-  <string name="tipPurchasedStatusFailed">Adquirido. Se o status da compra não atualizou, por favor, tente tocar no item Pro novamente (você não será cobrado(a) duas vezes fazendo isto)</string>
+  <string name="messageDeleteArticlesToTrash">Tem certeza de que deseja excluir este(s) artigo(s) e enviá-lo(s) para a lixeira?</string>
+  <string name="tipPurchasedStatusFailed">Adquirido. Se o status da compra não atualizou, por favor, tente tocar no item Pro novamente (você não será cobrado(a) outra vez)</string>
   <string name="createNew">Criar novo artigo</string>
   <string name="autoLock">Bloqueio automático</string>
   <string name="enabled">Habilitado</string>
@@ -102,15 +102,15 @@
   <string name="sortTypeCreatedTimeDown">Último criado</string>
   <string name="warningSavedFailed">Falha ao tentar salvar artigo. Por favor, copie seu conteúdo e tente reiniciar o aplicativo para checar se algum conteúdo foi perdido.</string>
   <string name="backupNow">Backup agora</string>
-  <string name="backupToLocalNow">Fazer backup para o armazenamento local agora</string>
-  <string name="backupToCloudNow">Fazer backup para o armazenamento em nuvem agora</string>
+  <string name="backupToLocalNow">Fazer backup para armazenamento local agora</string>
+  <string name="backupToCloudNow">Fazer backup para armazenamento em nuvem agora</string>
   <string name="summaryBackupToLocal">O arquivo de backup será salvo localmente em /backups</string>
   <string name="summaryBackupToCloud">O arquivo de backup será salvo em seu serviço de armazenamento em nuvem se definido</string>
   <string name="restoreBackup">Restaurar backup</string>
-  <string name="summaryRestoreTheBackup">O arquivo de backup será recuperado de /backups, /backups/PureWriterAutoBackups e de WebDAV ou Dropbox</string>
+  <string name="summaryRestoreTheBackup">O arquivo de backup será recuperado de /backups, /backups/PureWriterAutoBackups e de WebDAV ou Dropbox ou GoogleDrive</string>
   <string name="backupSuccessful">Backup feito com sucesso</string>
   <string name="restoreSuccessful">Backup recuperado com sucesso</string>
-  <string name="tipBackupList">Aqui estão seus arquivos de backup. Você pode tocar para restaurá-los.\n<b>Se você deseja recuperar arquivos de backup de Dropbox/WebDAV, por favor, faça o login na sua conta Dropbox/WebDAV primeiro!</b></string>
+  <string name="tipBackupList">Aqui estão seus arquivos de backup. Você pode tocar para restaurá-los.\n<b>Se você deseja recuperar arquivos de backup de GoogleDrive/Dropbox/WebDAV, por favor, faça o login na sua conta GoogleDrive/Dropbox/WebDAV primeiro!</b></string>
   <string name="tipBackupNotExist">O arquivo de backup não existe. Por favor, mova o arquivo de backup para /backups e tente novamente.</string>
   <string name="wordCountMode">Contagem de palavras</string>
   <string-array name="wordCountModeEntries">
@@ -130,8 +130,8 @@
   <string name="formatterRemoveBreak">Remover todas as linhas em branco entre parágrafos</string>
   <string name="titleAsAWordForACount">Contar as palavras individualmente</string>
   <string name="trash">Lixeira</string>
-  <string name="papers">Planos de fundo</string>
-  <string name="custom">Customizado</string>
+  <string name="papers">Fundos</string>
+  <string name="custom">Personalizado</string>
   <string name="promptCustomPaper">Valor em RGB ou link URL de uma imagem</string>
   <string name="readMeCustomPaper">Por favor, insira um valor em RGB ou um link de uma imagem, ex.: #000000 ou https://unsplash.com/photos/x.jpg</string>
   <string name="apply">Aplicar</string>
@@ -143,7 +143,7 @@
   <string name="summaryAutoBackup">Todos os seus artigos automaticamente realizarão backups quando o aplicativo for fechado. Apenas os 25 arquivos mais recentes realizarão backup.</string>
   <string name="migratingData">Migração de dados</string>
   <string name="autoBackup">Backup automático</string>
-  <string name="summaryDeleteObsoleteFiles">Estamos usando diretórios privados para armazenar todo o seu conteúdo. Toque para excluir versões antigas dos arquivos de histórico deixados no seu SD Card</string>
+  <string name="summaryDeleteObsoleteFiles">Estamos utilizando diretórios privados para armazenar todo o seu conteúdo. Toque para excluir versões antigas dos arquivos de histórico deixados no seu SD Card</string>
   <string name="tipArticleDeleting">Excluindo artigo(s), todas as ações estão temporariamente desabilitadas</string>
   <string name="noHistory">Nenhum histórico encontrado</string>
   <string name="formatterRemoveIndent">Remover recuo</string>
@@ -168,9 +168,9 @@
   <string name="cannotDeleteNotEmptyBook">O livro não está vazio. Para excluí-lo, por favor primeiramente exclua os artigos que estão dentro dele individualmente.</string>
   <string name="move">Mover</string>
   <string name="moveTo">Mover para</string>
-  <string name="timeMachine">Máquina do tempo</string>
-  <string name="listFirst">Abrir os capítulos na inicialização</string>
-  <string name="booksFirst">Abrir os livros na inicialização</string>
+  <string name="timeMachine">Time Machine</string>
+  <string name="listFirst">Abrir capítulos na inicialização</string>
+  <string name="booksFirst">Abrir livros na inicialização</string>
   <string name="language">Idioma</string>
   <string name="followSystem">Idioma do sistema</string>
   <string name="localPicture">Imagem local</string>
@@ -179,8 +179,9 @@
   <string name="picture">Imagem</string>
   <string name="saved">Salvo</string>
   <string name="sendTo">Enviar para</string>
-  <string name="mode">Modo</string>
-  <string name="plainText">Texto simples</string>
+  <!-- string "mode" has been deleted -->
+  <!-- Temporary removal, TODO -->
+  <!-- <string name="plainText">Modo texto simples</string> -->
   <string name="tipHasNotPermissionWithAutoBackup">Tentativa de realizar o backup falhou porque a permissão para acessar o armazenamento foi negada.</string>
   <string name="hideTitleBarWhenPreviewingMarkdown">Ocultar barra de título ao visualizar Markdown</string>
   <string name="privacyPolicy">Políticas de privacidade</string>
@@ -192,7 +193,7 @@
     <item quantity="one">Tem certeza que deseja excluir esta %d mensagem?</item>
     <item quantity="other">Tem certeza que deseja excluir estas %d mensagens?</item>
   </plurals>
-  <string name="tipLandscapeOrientation">Por favor, utilize um teclado externo no modo paisagem</string>
+  <string name="tipLandscapeOrientation">Por favor, utilize um teclado externo no modo Paisagem</string>
   <string name="promptShortcutOrder">Ordem</string>
   <string name="editShortcut">Editar atalho de texto</string>
   <string name="fixedSync">Sincronizar</string>
@@ -223,18 +224,18 @@
   <string name="deleteSuccessful">Excluído(s) com sucesso</string>
   <string name="unlockPro">Desbloquear Pro</string>
   <string name="presetTitle1">Pure Writer - Conectando o passado e o futuro com palavras</string>
-  <string name="presetContent1">Pure Writer é um aplicativo de edição de texto rápido e confortável que previne você de perder seu trabalho. Ao checar os comentários e as críticas na página da Google Play de Pure Writer, você poderá encontrar alguns grandes elogios para este aplicativo, como "Não há outro aplicativo melhor que este", "O aplicativo mais satisfatório", "Amo tanto este aplicativo", "Amor à primeira vista por esse aplicativo"… Sendo o único desenvolvedor de Pure Writer, os comentários foram especialmente gratificantes para mim. \nEm Junho de 2017, depois de passar por diversos editores de texto desconfortáveis e mal feitos e perder meus preciosos arquivos de texto, eu estava determinado a desenvolver meu próprio aplicativo editor de texto que permitisse a seus usuários escreverem a qualquer momento e em qualquer lugar em um ambiente cheio de recursos e conforto, sabendo disso, as palavras deles nunca irão desaparecer. Este aplicativo, como eu decidi, será desenvolvido com uma perspectiva de um escritor. \nAntes de tudo isso, eu estava trabalhando meio período num software de edição de texto rico. Embora tenhamos colocado nossos corações no projeto, o software não saiu do jeito que queríamos que ele fosse. Apesar disso, desenvolvi com sucesso alguns recursos exclusivos que são mais do que suficientes para o Pure Writer. \nE então Pure Writer nasceu. Desde o começo, Pure Writer tomou conta de aperfeiçoar cada linha e espaçamento de caracteres no Android. Esta é a funcionalidade especial que nenhum outro editor de texto para android conquistou, apenas Microsoft Word o fez. E ainda o tamanho do pacote do Microsoft Word é muito maior, dez vezes maior que o do Pure Writer.\nNão apenas isso, Pure Writer também oferece recursos especiais como "iniciar editor de texto na inicialização do aplicativo" e especialmente "Registros de Histórico". Como escritor, eu entendo que é de extrema importância ter um registro histórico - isso te permite focar na sua escrita enquanto lhe dá tranquilidade que você nunca, nunca perca o que você está escrevendo. Mesmo se seu celular se desligar do nada, Pure Writer ainda pode salvar seu conteúdo automaticamente. Dessa forma, todos os usuários podem começar ou parar de escrever quando quiserem em um confortável editor de texto com confiança. \nPara complementar, Pure Writer suporta "Atalhos de entrada" e "Ferramentas de Formatação", atalhos de entrada permite que usuários ponham suas próprias palavras na barra de atalhos, então eles poderão usá-las facilmente várias vezes; ferramentas de formatação ajudam os usuários a formatar seus textos rapidamente, com o espaçamento automático e organizando o texto, por exemplo. \nNão apenas estas funcionalidades, muito esforço foi feito para aperfeiçoar o mais ínfimo detalhe no Pure Writer. Enquanto usar o Pure Writer,  você é capaz de ocultar o teclado virtual simplesmente deslizando a tela, ponha o cursor aonde você exatamente o quer e ainda mantenha o artigo enquanto você esconde o teclado…  Se você fosse comparar o Pure Writer com os outros aplicativos de edição de texto, iria ver que o Pure Writer cuidou perfeitamente de todos os pequenos detalhes que eventualmente contribuem para um ambiente de escrita perfeito.\nPure Writer tem as ferramentas de edição que você precisa, por exemplo: recuo automático, exporte artigos como vários tipos de arquivos incluindo imagens, contador flutuante de palavras, cancelar, Markdown, temas para plano de fundo e customizações, modo noturno, criptografia biométrica, preenchimento automático de texto, compartilhamento e muito mais. Apesar de todos os recursos e detalhes, o Pure Writer ainda mantém seu estilo minimalista e segue as diretrizes do Material Design. Eu também fiz uma "Máquina do Tempo" para os usuários criarem notas e as manterem. O nome "Máquina do Tempo" foi inspirado no quadrinho Doraemon, com o significado de "Conectando o Passado e o Futuro com palavras" . \nAté hoje, o código base do Pure Writer tem recebido mais de mil commits e milhões de linhas mudadas. Embora o Pure Writer consuma quase todo o meu tempo livre, é sempre um alívio saber que mais e mais usuários estejam me dando feedback positivo. Eu me conecto ativamente com os usuários do Pure Writer, coletando feedback e aperfeiçoando o aplicativo. Eu nunca me senti tão feliz pensando em como fazer algo a longo prazo que ajude outras pessoas. \nFinalmente, agradeço a todos os meus amigos que me ajudaram nesta jornada. Sem vocês, este aplicativo nunca estaria onde está hoje. Com este post, eu apresento as ideias originais do Pure Writer e todos os seus recursos especiais, e espero que mais pessoas ainda conheçam este aplicativo. Vamos torcer para que possamos deixar memórias maravilhosas para trás no tempo limitado que temos. Deixem nossas palavras nos levarem ao passado, e nos fazerem imaginar o futuro.</string>
+  <string name="presetContent1">O Pure Writer é um aplicativo de edição de texto rápido e confortável que previne você de perder seu trabalho, seus textos. Ao checar os comentários e as críticas na página da Google Play do Pure Writer, você encontrará grandes elogios para este aplicativo, como "Não há outro aplicativo melhor que este", "O aplicativo mais satisfatório", "Amo tanto este aplicativo", "Amor à primeira vista por esse aplicativo" etc. Como único desenvolvedor do Pure Writer, os comentários foram especialmente gratificantes para mim. \nEm Junho de 2017, depois de passar por diversos editores de texto desconfortáveis e mal feitos e perder meus preciosos arquivos de texto, eu estava determinado a desenvolver meu próprio editor, que permitisse a seus usuários escreverem a qualquer momento e em qualquer lugar em um ambiente cheio de recursos e conforto, sabendo disso, as palavras deles nunca irão desaparecer. Este aplicativo, como decidi, será desenvolvido com uma perspectiva de um escritor. \nAntes de tudo isso, eu estava trabalhando meio período num software de edição de texto rico. Embora tenhamos colocado nossos corações no projeto, o software não saiu do jeito que queríamos. Contudo, desenvolvi com sucesso alguns recursos exclusivos que são mais do que suficientes para o Pure Writer. \nE então Pure Writer nasceu. Desde o começo, ele toma conta de aperfeiçoar cada linha e espaçamento de caracteres no Android. Esta é a funcionalidade especial que nenhum outro editor de texto para android conquistou, exceto o Microsoft Word. Mas o tamanho do Microsoft Word é muito maior: dez vezes maior que o do Pure Writer.\nAlém disso, Pure Writer também oferece recursos especiais, tais como "iniciar editor na inicialização do aplicativo" e, em especial, "Histórico". Como escritor, entendo que é de extrema importância ter um histórico – isso permite focar na escrita enquanto garante que nunca, nunca perca o que você está escrevendo. Mesmo se seu celular se desligar do nada, o Pure Writer salva seu conteúdo. Dessa forma, com confiança, todos os usuários podem começar ou parar de escrever quando quiserem em um confortável editor de texto. \nPara complementar, o Pure Writer suporta "Atalhos" e "Formatação": os atalhos permitem que usuários ponham suas próprias palavras na barra de atalhos e assim possam usá-las facilmente várias vezes, já a formatação ajuda os usuários a formatar seus textos rapidamente, com o espaço automático e organizando o texto, por exemplo. \nE não acaba pot aquiz pois muito esforço foi feito para aperfeiçoar o mais ínfimo detalhe no Pure Writer. Enquanto usá-lo, você é capaz de ocultar o teclado virtual simplesmente deslizando a tela: ponha o cursor onde você o quer e ainda mantenha o artigo enquanto você esconde o teclado…  Se você fosse comparar este editor com os outros aplicativos de edição de texto, veria que o ele cuida perfeitamente de todos os pequenos detalhes que eventualmente contribuem para um ambiente de escrita perfeito.\nO Pure Writer possui as ferramentas de edição que você precisa, tais como: identação automática, exportação de artigos como vários tipos de arquivos (incluindo imagens), contador flutuante de palavras, cancelar, Markdown, temas para fundos e customizações, modo noturno, criptografia biométrica, preenchimento automático de texto, compartilhamento e muito mais. Apesar de todos os recursos e detalhes, o Pure Writer ainda mantém seu estilo minimalista e segue as diretrizes do Material Design. Eu também fiz uma "Máquina do Tempo" para os usuários criarem notas e manterem-nas. O nome "Máquina do Tempo" foi inspirado no quadrinho Doraemon, com o significado de "Conectando o Passado ao Futuro com palavras" . \nAté hoje, o código base do Pure Writer já recebeu mais de mil commits e milhões de linhas mudadas. Embora o Pure Writer consuma quase todo o meu tempo livre, é sempre um alívio saber que mais e mais usuários estejam me dando feedback positivo. Eu me conecto ativamente com os usuários do Pure Writer, coletando feedback e aperfeiçoando o aplicativo. Eu nunca me senti tão feliz pensando em como fazer algo a longo prazo que ajude outras pessoas. \nFinalmente, agradeço a todos os meus amigos que me ajudaram nesta jornada. Sem vocês, este aplicativo nunca estaria onde está hoje. Com este post, eu apresento as ideias originais do Pure Writer e todos os seus recursos especiais, e espero que ainda mais pessoas conheçam este aplicativo. Vamos torcer para que possamos deixar memórias maravilhosas para trás, no tempo limitado que temos. Que nossas palavras nos levem ao passado e nos façam imaginar o futuro.</string>
   <string name="presetTitle2">Pure Writer - Mecanismo de proteção</string>
-  <string name="presetContent2">O atual mecanismo de proteção que Pure Writer possui: \n1. O artigo será salvo assim que o conteúdo for alterado. Se isso falhar, Pure Writer notificará o usuário imediatamente. \n2. Pure Writer checará se seu conteúdo é salvo na base de dados a cada dois segundos. Se isso falhar, Pure Writer notificará o usuário imediatamente. \n3. Se o salvamento automático falhar, não será possível para os usuários saírem completamente do aplicativo. Pressionar o botão de saída neste momento é o mesmo que pressionar o botão Início, sem parar completamente o aplicativo. Isso dará algum tempo para que o usuário consiga salvar manualmente seu conteúdo. \n4. Toda vez que o aplicativo estiver sendo executado em segundo plano ou encerrado, ele fará backup automaticamente do banco de dados inteiro se algum conteúdo for editado. O arquivo de backup pode ser acessado a qualquer momento. O backup será salvo junto com a versão anterior do backup para permitir que os usuários revertam o backup.\n5. Os recursos de registro de histórico e desfazer e refazer são fornecidos para todos os artigos.\n6. Há uma Lixeira para que exclusões acidentais não causem a perda de seus textos.\n7. Backups em nuvem: Se Pure Writer estiver integrado com WebDAV, ele realizará o backup automaticamente de todo o conteúdo presente no banco de dados para a nuvem, incluindo os artigos.</string>
+  <string name="presetContent2">O atual mecanismo de proteção que Pure Writer possui: \n1. O artigo será salvo assim que o conteúdo for alterado. Se isso falhar, Pure Writer notificará o usuário imediatamente. \n2. Pure Writer checará se seu conteúdo é salvo na base de dados a cada dois segundos. Se isso falhar, Pure Writer notificará o usuário imediatamente. \n3. Se o salvamento automático falhar, não será possível para os usuários saírem completamente do aplicativo. Pressionar o botão de saída neste momento é o mesmo que pressionar o botão Início, sem parar completamente o aplicativo. Isso dará algum tempo para que o usuário consiga salvar manualmente seu conteúdo. \n4. Toda vez que o aplicativo estiver sendo executado em segundo plano ou for encerrado, fará backup automaticamente do banco de dados inteiro se algo for editado. O arquivo de backup pode ser acessado a qualquer momento. O backup será salvo junto com a versão anterior do backup para permitir que os usuários revertam o backup.\n5. Os recursos de registro de histórico e desfazer e refazer são fornecidos para todos os artigos.\n6. Há uma Lixeira para que exclusões acidentais não causem a perda de seus textos.\n7. Backups na nuvem: Se Pure Writer estiver integrado com WebDAV, realizará o backup automaticamente de todo o conteúdo presente no banco de dados para a nuvem, incluindo os artigos.</string>
   <string name="presetTitle3">Pure Writer Pro</string>
-  <string name="presetContent3">Se você gostou de utilizar o Pure Writer e deseja que seu desenvolvimento permaneça ativo, que tal contribuir com alguns dólares para encorajar o desenvolvedor?\nSeu suporte pode encorajar desenvolvedores independentes como eu a fazerem mais aplicativos úteis. \nPara contribuir, você pode pressionar o botão "Desbloquear Pro"  no canto superior direito na aba "Configurações". Como agradecimento, você terá acesso aos recursos Pro como "Salvar como…" e "Planos de fundo customizados". \nPure Writer também irá melhorar graças ao seu apoio. Obrigado desde já! Se você tem alguma pergunta ou feedback para dar, por favor não hesite em me contactar via email: drakeet@drakeet.com</string>
-  <string name="presetTitle4">Pure Writer - Políticas de Privacidade</string>
-  <string name="presetContent4">Pure Writer leva muito a sério a privacidade de seus usuários, nunca irá coletar suas informações pessoais. \nTambém, não irá ler ou modificar qualquer conteúdo presente na sua área de transferência sem primeiramente notificá-lo(a).\nA permissão de armazenamento que Pure Writer pede que o conceda é apenas usada para backups automáticos e para salvar seus arquivos. Outra que não seja essa, não irá ler ou modificar qualquer um dos seus arquivos armazenados sem primeiramente notificá-lo(a). Apesar disso, você está totalmente livre para negar a permissão de armazenamento, se necessário, embora isso também desative o recurso de backup automático do Pure Writer. Pure Writer nunca irá enviar seu conteúdo para outros lugares, com exceção do envio de um erro ou relatório de falha para fins de depuração e análise. O relatório conterá apenas o título do artigo e nada mais.</string>
-  <string name="createAt">Criado em</string>
-  <string name="updatedAt">Atualizado em</string>
+  <string name="presetContent3">Se você gostou de utilizar o Pure Writer e deseja que seu desenvolvimento permaneça ativo, que tal contribuir com alguns dólares para encorajar o desenvolvedor?\nSeu suporte pode encorajar desenvolvedores independentes como eu a fazerem mais aplicativos úteis. \nPara contribuir, você pode tocar em "Desbloquear Pro" no canto superior direito na aba "Configurações". Como agradecimento, você terá acesso aos recursos Pro como "Salvar como…" e "Fundo Customizados". \nPure Writer também melhorará graças a seu apoio. Obrigado desde já! Se tiver alguma pergunta ou feedback para dar, por favor não hesite em me contactar via email: drakeet@drakeet.com</string>
+  <string name="presetTitle4">Pure Writer – Políticas de Privacidade</string>
+  <string name="presetContent4">Pure Writer leva muito a sério a privacidade de seus usuários e nunca coletará informações pessoais. \nTampouco lerá ou modificará qualquer conteúdo presente na sua área de transferência sem antes notificá-lo(a).\nA permissão de armazenamento que Pure Writer requisita é usada somente para backups automáticos e para salvar seus arquivos. Apesar disso, sinta-se livre para negá-la, embora isso desative o recurso de backup automático. O app nunca enviará seu conteúdo para outros lugares, com exceção de relatórios de falhas para fins de depuração e análise. O relatório conterá apenas o título do artigo e nada mais.</string>
+  <string name="createAt">Criado</string>
+  <string name="updatedAt">Atualizado</string>
   <string name="forcedBlackTextColor">Texto preto</string>
   <string name="forcedWhiteTextColor">Texto branco</string>
-  <string name="paragraphSpacing">Espaçamento de parágrafo</string>
+  <string name="paragraphSpacing">Espaço de parágrafo</string>
   <string name="onlyAvailableWhenParagraphOn">Disponível somente enquanto o espaçamento de parágrafo estiver ativo</string>
   <string name="lowProfile">Barra de status limitada</string>
   <string name="chapters">Capítulos</string>
@@ -242,13 +243,13 @@
   <string name="sortTypeTitleDown">Ordem alfabética reversa</string>
   <string name="sortByRank">Ordem manual</string>
   <string name="modifyRanks"><i><b>Ordenar manualmente</b></i></string>
-  <string name="markdownShortcutTip">Você acabou de inserir um Markdown, que só terá efeito no modo de visualização Markdown. Deseja ativar o modo Markdown?</string>
-  <string name="importedFileTooLargeToOpen">O arquivo importado é muito grande, falha ao tentar abri-lo</string>
-  <string name="failed">Falhou</string>
+  <string name="markdownShortcutTip">Você acabou de inserir um Markdown, que só terá efeito no modo de visualização Markdown. Deseja ativá-lo?</string>
+  <string name="importedFileTooLargeToOpen">Arquivo importado extenso, falha ao tentar abri-lo</string>
+  <string name="failed">Falha</string>
   <string name="insertCategoryAboveShort">Inserir categoria acima</string>
   <string name="insertCategoryAboveLong">Inserir categoria acima do artigo atual</string>
   <string name="insertCategoryBottomShort">Inserir categoria abaixo</string>
-  <string name="insertCategoryBottomLong">Inserir uma nova categoria abaixo da lista de capítulos.</string>
+  <string name="insertCategoryBottomLong">Inserir categoria abaixo da lista de capítulos.</string>
   <string name="insertCategory">Inserir categoria</string>
   <string name="editCategory">Editar categoria</string>
   <string name="category">Categoria</string>
@@ -258,25 +259,25 @@
   <string name="exportBook">Exportar este livro</string>
   <string name="needManualSortingTitle">Precisa alternar para classificação manual para usar este recurso</string>
   <string name="needManualSortingMessage">Você deseja alterar as configurações para "Classificação Manual"?</string>
-  <string name="doubleClickToExit">Toque duas vezes na tecla Voltar para sair do aplicativo</string>
+  <string name="doubleClickToExit">Tocar duas vezes "Voltar" para sair do aplicativo</string>
   <string name="doubleClickToExitTip">Toque em Voltar novamente para sair</string>
-  <string name="markdownCheckBoxTip">Esta opção é para o recurso Markdown. Ao ser ativada, o espaçamento e o recuo dos parágrafos perderão o efeito. Se você não estiver familiarizado com o Markdown, é recomendável não marcar esta caixa.\n\nMarkdown é uma linguagem de marcação com a sintaxe de formatação de texto simples. Você pode pesquisar online por "Markdown" se estiver interessado(a).</string>
+  <string name="markdownCheckBoxTip">Esta opção é para o recurso Markdown. Ao ser ativada, o espaçamento e a identação dos parágrafos perderão o efeito. Se você não estiver familiarizado com o Markdown, é recomendável não marcar esta caixa.\n\nO Markdown é uma linguagem de marcação com a sintaxe de formatação de texto simples. Você pode pesquisar online por "Markdown" se estiver interessado(a).</string>
   <string name="unlockValidityPeriod">Período de Validade de Bloqueio Automático</string>
   <string name="unlockValidityPeriodSummary">%s\nNota: Se você pressionar o botão Voltar para sair do aplicativo, ele será bloqueado na próxima vez</string>
-  <string name="lockImmediatelyIfAway">Bloqueie imediatamente se eu estiver ausente</string>
-  <string name="lockIfAwayMoreThan3Minutes">Bloqueie se ausente por mais de 3 minutos</string>
+  <string name="lockImmediatelyIfAway">Bloquear imediatamente se eu estiver ausente</string>
+  <string name="lockIfAwayMoreThan3Minutes">Bloquear se ausente por mais de 3 minutos</string>
   <string name="font">Fonte</string>
-  <string name="appEmbeddedFont">Fonte incorporada do aplicativo</string>
+  <string name="appEmbeddedFont">Fonte incorporada ao aplicativo</string>
   <string name="noInternetConnection">Sem conexão à Internet</string>
-  <string name="cloudBackup">Backup de nuvem</string>
+  <string name="cloudBackup">Backup em nuvem</string>
   <string name="cloudConnection">Tipo de conexão em nuvem</string>
   <string name="signIn">Entrar</string>
   <string name="lockFallback">Se você estiver cansado(a) de ter que desbloqueá-lo o tempo todo, você pode ir nas configurações do seu telefone, remover todas as suas impressões digitais e reabrir o Pure Writer.</string>
   <string name="smoothScrollerTitle">Rolagem suave ao tocar numa linha do texto</string>
   <string name="tipSmoothScrolling">Se ativado, quando você tocar numa linha do texto, o foco pula suavemente, se necessário. Se desativado, ele pula para essa linha num instante.\nA animação de rolagem pode não funcionar bem em alguns dispositivos, portanto, desative esta opção se você estiver com problemas de performance.</string>
   <string name="defaultMessageUpdateApk">Esta é uma versão importante, por favor atualize para esta versão o mais rápido possível</string>
-  <string name="readme">Você ativou o novo material design do Pure Writer.\n\nMaterial Design 2 traz um novo papel de imersão em tela cheia e uma barra superior transparente para uma aparência mais moderna.\n\nNo entanto, ao mesmo tempo, pode haver muitos problemas com o novo design, portanto, esse é um recurso experimental do Pure Writer, que pode causar alguns problemas visuais na interface do usuário. Além disso, como autor do Pure Writer, eu prefiro o design original do Pure Writer, que é mais atraente e focado no conteúdo do texto, esse recurso de design é desenvolvido em resposta às fortes demandas de um pequeno número de usuários. Isso requer muitos custos extras de desenvolvimento, e não é fácil de fornecer, e como haverá dois projetos do Pure Writer agora, o trabalho dos desenvolvedores pode se multiplicar.\n\nPor causa disso, o Pure Writer recomendará que você pague por isso, mas ainda pode ter muito tempo para experimentar e tomar uma decisão final de pagamento. Por favor, tente apoiá-lo. Se as estatísticas mostrarem que a proporção de usuários que estão dispostos a pagar é pequena, o desenvolvedor pode cancelar ou interromper a manutenção do Material Design 2. Depois de tocar no botão OK, você será considerado como concordante com esse conteúdo por padrão.\n\nObrigado a todos! Eu farei o meu melhor para fornecer um Pure Writer cada vez melhor. Por favor, aproveite!</string>
-  <string name="lowFreeStorageSpaceWarning">Seu telefone tem apenas %1$d MB de armazenamento livre, o que pode fazer com que o Pure Writer não salve seus dados ou o backup falhe. Por favor, faça uma limpeza e deixe mais de %2$d MB livres antes de usar o Pure Writer!</string>
+  <string name="readme">Você ativou o novo material design do Pure Writer.\n\nMaterial Design 2 traz um novo papel de imersão em tela cheia e uma barra de status transparente para uma aparência mais moderna.\n\nNo entanto, pode haver muitos problemas com o novo design por esse ser um recurso experimental, que pode causar alguns problemas visuais na interface do usuário. Além disso, como autor do Pure Writer, eu prefiro o design original, que é mais atraente e focado no conteúdo. Esse recurso experimental de design é desenvolvido em resposta às fortes demandas de um pequeno número de usuários. Isso requer muitos custos extras de desenvolvimento e não é fácil de fornecer. Como haverá dois projetos do Pure Writer agora, o trabalho dos desenvolvedores pode se multiplicar.\n\nPor causa disso, o Pure Writer recomendará que você pague por isso, mas ainda pode ter muito tempo para experimentar e tomar uma decisão final de pagamento. Por favor, se possível, apoie-nos! Se as estatísticas mostrarem que a proporção de usuários dispostos a pagar é pequena, o desenvolvedor pode cancelar ou interromper a manutenção do Material Design 2.  Ao tocar em OK, você mantém essa opção por padrão.\n\nObrigado a todos! Eu farei o meu melhor para fornecer um Pure Writer cada vez melhor. Por favor, aproveite!</string>
+  <string name="lowFreeStorageSpaceWarning">Seu dispositivo tem apenas %1$d MB de armazenamento livre, o que pode fazer com que o Pure Writer não salve seus dados ou o backup falhe. Por favor, faça uma limpeza e deixe mais de %2$d MB livres antes de usar o Pure Writer!</string>
   <string name="pureWriterBBS">Pure Writer BBS</string>
   <string name="findReplace">Localizar e Substituir</string>
   <string name="replace">Substituir</string>
@@ -292,23 +293,23 @@
   <string name="title">Título</string>
   <string name="content">Conteúdo</string>
   <string name="inverseAll">Inverter seleção</string>
-  <string name="webDavAccountError">O conteúdo da sua conta WebDAV está incorreto, portanto, o backup na nuvem não pode ser ativado!</string>
+  <string name="webDavAccountError">O conteúdo da sua conta WebDAV está incorreto, backup na nuvem não pode ser ativado!</string>
   <string name="fileAlreadyExistsInDirectory">Este arquivo já existe em seu diretório</string>
-  <string name="overwrite">Sobrescrever</string>
-  <string name="doNotOverwrite">Não sobrescreva</string>
+  <string name="overwrite">Substituir</string>
+  <string name="doNotOverwrite">Não substituir</string>
   <string name="signOut">Sair</string>
   <string name="changeAccount">Mudar de conta</string>
-  <string name="scrollToHideTopBar">Desloque-se para ocultar a barra superior</string>
+  <string name="scrollToHideTopBar">Desloque-se para ocultar a barra de status</string>
   <string name="doNotOperate">Não troque ou modifique artigos no processo!</string>
   <string name="aboutBackup"><b>Sobre backup</b></string>
-  <string name="backupReadme">O Pure Writer suporta backup local e na nuvem. O backup local é automático. Ao reinstalar o Pure Writer, você pode restaurar todos os seus artigos por um backup.\n\nNo entanto, o Pure Writer não faz backups em nuvem automaticamente por padrão. Para habilitar o backup na nuvem, você precisa configurar uma conta de backup na nuvem na página Pure Writer - Configurações - Backups.\n\nAtualmente, o backup em nuvem do Pure Writer suporta armazenamento em nuvem Dropbox e WebDAV.\n\n<b>O backup na nuvem é muito, muito importante. Se você não configurar uma conta de backup na nuvem, perderá todo o seu conteúdo valioso se este dispositivo for perdido, danificado ou restaurado para as configurações de fábrica! Certifique-se de configurar uma conta de backup na nuvem!</b></string>
+  <string name="backupReadme">O Pure Writer suporta backup local e na nuvem. O backup local é automático. Ao reinstalar o Pure Writer, você pode restaurar todos os seus artigos por um backup.\n\nNo entanto, o Pure Writer não faz backups para a nuvem automaticamente por padrão. Para habilitar o backup na nuvem, você precisa configurar uma conta de backup na nuvem em Pure Writer - Configurações - Backups.\n\nAtualmente, o backup em nuvem do Pure Writer suporta armazenamento em nuvem Dropbox e WebDAV.\n\n<b>O backup na nuvem é muito, muito importante. Se você não configurar uma conta de backup na nuvem, perderá todos os seus conteúdos valiosos se este dispositivo for perdido, danificado ou formatado! Certifique-se de configurar uma conta de backup na nuvem!</b></string>
   <string name="lineSpacing">Espaçamento entre linhas</string>
-  <string name="tipParagraphSpacingInMD">O espaçamento de parágrafos não será ativado no modo Markdown</string>
+  <string name="tipParagraphSpacingInMD">O Espaçamento de Parágrafos não será ativado no Modo Markdown</string>
   <string name="defaultX">Padrão</string>
   <string name="zoomIn">Aumentar zoom</string>
   <string name="zoomOut">Diminuir zoom</string>
-  <string name="switchingBooksTooltip">Dica: clicar no título do livro na parte superior poderá mudar de livro</string>
-  <string name="scrollToTheCurrentArticle">Vá até o artigo atual</string>
+  <string name="switchingBooksTooltip">Dica: clique no título do livro na parte superior para mudar de livro</string>
+  <string name="scrollToTheCurrentArticle">Ir até artigo atual</string>
   <string name="allBooks">Todos os livros</string>
   <string name="insertCategoryBelowShort">Inserir categoria abaixo</string>
   <string name="insertCategoryBelowLong">Inserir categoria abaixo do artigo atual</string>
@@ -328,54 +329,177 @@
   <string name="createNewChapter">Crie um novo capítulo</string>
   <string name="currentText">Texto atual</string>
   <string name="hideSoftKeyboard">Ocultar teclado</string>
-  <string name="transparentTopBar">Barra superior transparente</string>
-  <string name="transparentNavigationBarWarning">Este é um recurso experimental. Quando está ligado, isso pode fazer com que a altura do teclado virtual seja verificada incorretamente, o que pode fazer com que a barra de atalhos não seja exibida e o texto fique fora de foco. Se você encontrar esses problemas, desative essa opção.</string>
+  <string name="transparentTopBar">Barra de status transparente</string>
+  <string name="transparentNavigationBarWarning">Este é um recurso experimental. Quando está ligado, pode fazer com que a altura do teclado virtual seja verificada incorretamente, o que pode fazer com que a barra de atalhos não seja exibida e o texto fique fora de foco. Caso isso ocorra, desative essa opção.</string>
   <string name="transparentNavigationBar">Barra de navegação transparente</string>
-  <string name="titleAsAWordForACountSummary">Quando este item está ativado, o próximo modo de contagem de palavras será desativado. Se você quiser usar as opções no Word Count Mode, desative isso.</string>
+  <string name="titleAsAWordForACountSummary">Quando este item está ativado, o próximo Contador de Palavras é desativado. Se você quiser usar as opções no Contador de Palavras, desative isto.</string>
   <string name="customFont">Fonte personalizada</string>
-  <string name="customFontTip">Coloque o arquivo de fonte .ttf no diretório de armazenamento externo <b>/Android/data/com.drakeet.purewriter</b> e reinicie o Pure Writer para aplicar a fonte automaticamente. Nota: Só pode haver um arquivo de fonte nesse diretório, e alguns arquivos de fonte (como o GoogleSans) podem fazer com que o cursor mude, por favor, saiba!</string>
-  <string name="corruptBackupTip">O arquivo de backup está corrompido! Por favor, tente restaurar outros backups e escolha o tamanho correto e o backup de tempo!</string>
+  <string name="customFontTip">Coloque o arquivo de fonte .ttf no diretório de armazenamento externo <b>/Android/data/com.drakeet.purewriter</b> e reinicie o Pure Writer para aplicar a fonte. Nota: Só pode haver um arquivo de fonte no diretório, e alguns arquivos de fonte (como o Google Sans) podem fazer com que o cursor se mova. Por favor, saiba!</string>
+  <string name="corruptBackupTip">Arquivo de backup corrompido! Por favor, tente restaurar outro backup, escolhendo o tempo e o tamanho correto dele!</string>
   <string name="leftMargin">Margem esquerda</string>
   <string name="rightMargin">Margem direita</string>
-  <string name="spacingsAndMargins">Espaçamentos\nMargens</string>
+  <string name="spacingsAndMargins">Espaços e margens</string>
   <string name="autoBackupAndCloudBackupGuide"><i>Tutorial de backup em nuvem</i></string>
-  <string name="bridgeSummary">Esse recurso é muito difícil de entender e usar, não é recomendável ativá-lo.</string>
-  <string name="messageCancelBridgeFeature">A partir desta versão, o recurso \"Bridge\" original fica oculto por padrão, porque há muitos feedbacks de usuários todos os dias dizendo que eles não sabem o que esse recurso significa, lamento muito trazer problemas para você! Mas, ao mesmo tempo, também passei muito tempo e energia respondendo a esses feedbacks - eles deveriam ter sido usados para desenvolver e aperfeiçoar esse produto. Então atualmente esse recurso está desativado por padrão. Se você gosta e confia nele, você pode ir para a parte inferior da página de configurações de backup e você verá uma opção para abri-lo. Por favor, entenda, muito obrigado!</string>
-  <string name="followingBackupsAre">A seguir estão os backups antes de instalar a versão atual</string>
-  <string name="logInToWebDAVOrDropbox">Faça o login no WebDAV ou no Dropbox</string>
-  <string name="scrollToBottom">Role para baixo</string>
+  <string name="bridgeSummary">Este recurso é muito difícil de entender e utilizar, logo não recomenda-se ativá-lo.</string>
+  <string name="messageCancelBridgeFeature">A partir desta versão, o recurso \"Bridge\" original fica oculto por padrão, pois há muitos feedbacks de usuários todos os dias dizendo que não sabem o que tal recurso significa. Lamento muito lhes trazer problemas! Contudo também passei muito tempo e despendi muita energia respondendo a esses feedbacks – que deveriam ter sido usados para desenvolver e aperfeiçoar o produto. Então atualmente esse recurso está desativado por padrão. Se você gosta e confia nele, pode ir para a parte inferior da página de Configurações de Backup e ver a opção para abri-lo. Por favor, entenda. Muito obrigado!</string>
+  <string name="followingBackupsAre">Abaixo estão os backups realizados em versões anteriores</string>
+  <string name="logInToCloudStorage">Faça login no armazenamento em nuvem</string>
+  <string name="scrollToBottom">Descer</string>
   <string name="textColor">Cor do texto do editor</string>
-  <string name="customColorTipOnShortcutPad">Dica: você pode personalizar a cor do texto do editor na página Configurações.</string>
-  <string name="textColorSummary">Nota: Quando você troca o papel, a cor do texto é automaticamente redefinida para a cor padrão.</string>
+  <string name="customColorTipOnShortcutPad">Dica: Você pode alterar a cor do texto nas Configurações.</string>
+  <string name="textColorSummary">Nota: Quando mudar o fundo, a cor do texto será automaticamente redefinida.</string>
   <string name="titleTextSize">Tamanho da fonte do título</string>
-  <string name="restoreByThisBackup">Restaurar por este backup?</string>
-  <string name="restoreByThisBackupWithAppName">Restaurar por este backup?</string>
-  <string name="collapseAllCategories">Recolher todas as categorias</string>
+  <string name="restoreByThisBackup">Restaurar este backup?</string>
+  <string name="restoreByThisBackupWithAppName">Pure Writer: restaurar este backup</string>
+  <string name="collapseAllCategories">Minimizar todas as categorias</string>
   <string name="showMore">Mostrar mais</string>
-  <string name="textColorAlpha">Transparência da cor do texto</string>
-  <string name="tipNotSupportThisDesktopVersion">As versões atuais para dispositivos móveis e computadores não correspondem e não podem ser conectadas. Atualize para a versão mais recente e tente novamente.</string>
-  <string name="createShortcutLabel">Atalho de texto</string>
-  <string name="cursorPositionForNewArticle">Posição do cursor para novo artigo</string>
-  <string name="undoValidTip">A área de entrada atualmente focada não pode mais ser desfeita novamente. Você pode tentar recuperar seu conteúdo no menu Histórico, no canto superior direito.</string>
-  <string name="double11Title">11·11 Metade do preço (50% de desconto)</string>
-  <string name="double11Message">De 10 a 12 de novembro, a compra do PureWriter Pro pode ser feita pela metade do preço. Muito obrigado pelo seu apoio!</string>
-  <string name="toDoCloudBackupButton">Vá para configurar uma conta de backup na nuvem</string>
-  <string name="ignoreCloudBackupCheckBox">Não quero configurar um backup na nuvem, não me lembre. Estou disposto a suportar todas as conseqüências de não ter um backup na nuvem, incluindo a perda de todos os meus artigos valiosos quando o telefone estiver quebrado, perdido ou redefinido, porque não há backup na nuvem!</string>
-  <string name="addChapterAboveThis">Adicionar capítulo acima</string>
-  <string name="addChapterBelowThis">Adicionar capítulo abaixo</string>
-  <string name="selectMore">Selecione mais</string>
-  <string name="moveToOtherBook">Mover para outro livro</string>
-  <string name="autoInsertBlankLineWhenWrapping">Inserir uma linha em branco automaticamente ao quebrar</string>
-  <string name="paragraphSpacingSettingSummary">O texto super longo terá melhor desempenho quando o Espaçamento entre parágrafos estiver desativado</string>
-  <string name="onlyAvailableWhenParagraphOff">Disponível apenas quando o espaçamento de parágrafos está desativado</string>
-  <string name="markdownAsDefault">Use Markdown como o modo padrão para novos artigos</string>
-  <string name="needToPayForMarkdownRenderer">Esta é a página Visualização rápida do Markdown, que exige que você pague pelo Pure Writer Pro para usá-lo.</string>
+  <string name="textColorAlpha">Cor de texo alfa / transparência</string>
+  <string name="tipNotSupportThisDesktopVersion">As versões atuais do dispositivo móvel e a do PC diferem e não podem ser conectadas. Por favor, atualize ambas para a versão mais recente e tente novamente.</string>
+  <string name="createShortcutLabel">Atalho</string>
+  <string name="cursorPositionForNewArticle">Posição do cursor ao criar um novo artigo</string>
+  <string name="undoValidTip">A atual área focada já não pode ser desfeita, tente recuperar seu conteúdo pelo menu Histórico localizado no canto superior direito.</string>
+  <string name="toDoCloudBackupButton">Realizar backup na nuvem</string>
+  <string name="ignoreCloudBackupCheckBox">Não desejo fazer backup na nuvem, não me lembre desta possibilidade. Estou disposto a lidar com todas as consequências de não ter um backup na nuvem, incluindo perder todos os meus valiosos artigos quando o dispositivo for danificado, perdido ou formatado!</string>
+  <string name="addChapterAboveThis">Adicionar Capítulo acima</string>
+  <string name="addChapterBelowThis">Adicionar Capítulo abaixo</string>
+  <string name="selectMore">Selecionar mais</string>
+  <string name="moveToOtherBook">Mover para outro Livro</string>
+  <string name="autoInsertBlankLineWhenWrapping">Inserir linha em branco ao pular parágrafo</string>
+  <string name="paragraphSpacingSettingSummary">Os textos longos têm melhor desempenho quando o Espaçamento entre Parágrafos está desativado</string>
+  <string name="onlyAvailableWhenParagraphOff">Disponível apenas quando o Espaçamento de Parágrafos está desativado</string>
+  <string name="markdownAsDefault">Markdown como padrão para novos artigos</string>
+  <string name="needToPayForMarkdownRenderer">Esta é a página de Visualização Rápida do Markdown, função exclusiva do Pure Writer Pro.</string>
   <string name="signedIn">Conectado</string>
-  <string name="notSignedIn">Você não fez login</string>
   <string name="latex">LaTeX</string>
   <string name="syntaxHighlighting">Realce de sintaxe</string>
-  <string name="forgetPassword">Esqueceu o código?</string>
   <string name="emailAddress">Endereço de e-mail</string>
   <string name="password">Senha</string>
   <string name="nightMode">Modo Noturno</string>
+  <string name="connectDesktop">Conectar Desktop</string>
+  <string name="desktopDialogGuide">Você precisa baixar o <b><i>Pure Writer Desktop 0.2.2 (ou superior)</i></b> em https://writer.drakeet.com/desktop_en \n\nQuando seu dispositivo móvel e seu PC estiverem na <b>mesma rede Wi-Fi ou roteador</b>, abra o desktop e insira o endereço IP abaixo <b>na caixa de entrada</b> para conectar ao Pure Writer, assim você será capaz de sincronizar e editar o artigo atual em tempo real.</string>
+  <string name="disconnectDesktop">Desconectar Desktop</string>
+  <string name="connect">Conectar</string>
+  <string name="desktopDialogNote">Nota: o Pure Writer Desktop ainda está em estágio alfa. Por favor, entenda e aguarde novas atualizações. \n* Se você ver <b>múltiplas linhas de endereços IPs</b>, tente conectá-los um por um.\n* Caracteres não ingleses <b>não podem</b> ser inseridos onde a versão do <i>Windows</i> está armazenada!</string>
+  <string name="connectionIsStopping">A conexão está oscilando, por favor tente novamente mais tarde!</string>
+  <string name="stop_waiting_connection">Interromper busca por conexões</string>
+  <string name="desktopDisconnected">Desktop desconectado</string>
+  <string name="desktopConnected">Desktop conectado</string>
+  <string name="fabContextCreateNewAfterCurrent">Novo artigo após o atual</string>
+  <string name="fabContextCreateNewAtTheBottom">Novo artigo abaixo da lista de artigos</string>
+  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Novo artigo abaixo da categoria atual</string>
+  <string name="fabContextHideFabUntilNextStart">Ocultar este botão até reiniciar app</string>
+  <string name="fabContextHideFabTemporarily">Ocultar botão flutuante temporariamente</string>
+  <string name="license">Licença</string>
+  <string name="customPapers">Fundos personalizados</string>
+  <string name="markdownQuickPreview">Pré-visualização Markdown</string>
+  <string name="exportToPicMdTxt">Exportar como imagem/md/txt</string>
+  <string name="materialDesign2ThemeWithLineBreak">Material Design 2\ntema</string>
+  <string name="ProIntroductionMarkdown"><![CDATA[
+        #### Fundos Personalizados
+
+        Escolha uma imagem de seu dispositivo ou uma da internet como fundo para seu editor:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/0.webp)
+
+        #### Pré-visualização rápida Markdown ✨
+
+        **Deslize horizontalmente a página de edição** para acessar rapidamente o modo de Pré-Visualização Markdown:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/1.webp)
+
+        #### Exportar como imagem / md / txt
+
+        Exporte os artigos como imagens ou arquivos .md ou .txt:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/2.webp)
+
+        #### Exportar Livro
+
+        Encontre esta opção no topo do menu da gaveta esquerda, ele ajudar-te-á a unir todos os capítulos num só arquivo de texto:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/3.webp)
+
+        #### Pesquisar & Substituir
+
+        Pesquise por palavras em qualquer artigo e substitua-as de uma só vez:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/4.webp)
+
+        #### Tema Material Design 2
+
+        Quando o tema Material Design 2 está ativado, você tem uma barra transparente no topo, a qual já não é preto puro, e você pode ter uma UI mais elegante e imersiva:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
+
+        #### Esboço
+
+        Introduza o editor de Esboço no topo do menu de edição. Lá há vários itens relacionados a esboço:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/6.webp)
+
+        #### Pure Writer Desktop
+
+        ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
+
+        Encontre o recurso Pure Writer Desktop e conecte-se ao Desktop pelo ícone da nuvem ☁️¸ no topo do editor principal.
+
+        Atualmente, o Desktop ainda está em estágio alfa, portanto só oferece básica conexão em tempo real e edição sincronizada.
+
+        Investi bastante tempo e energia nisso e seu suporte nos ajudará a torná-lo perfeito e ainda melhor.
+    ]]></string>
+  <string name="unlimitedWords">Palavras ilimitadas</string>
+  <string name="neverLost">Nunca perca nada</string>
+  <string name="veryVerySmooth">Super-leve</string>
+  <string name="supportParagraphSpacing">Espaço entre parágrafos</string>
+  <string name="keyboardStateRestoring">Retornar teclado ao estado anterior</string>
+  <string name="greatCursorFocus">Ótimo foco de cursor</string>
+  <string name="crazyUpdateBetterAndBetter">Atualização "pra arrebentar a boca do balão", cada vez melhor</string>
+  <string name="moreAdvantagesOfPureWriter">Outras vantagens do Pure Writer</string>
+  <string name="account">Conta</string>
+  <string name="privilegeOfPureWriterPro">Privilégios do Pure Writer Pro</string>
+  <string name="messageThankYouForYourSupport">Seu apoio torna o Pure Writer melhor e ajuda-nos a fazer produtos extraordinários, enquanto motiva mais desenvolvedores independentes. \n\nO Pure Writer pode ser continuamente atualizado e incrementado com seu suporte. Muito obrigado!</string>
+  <string name="signUpOrSignIn">Inscreva-se / Entrar</string>
+  <string name="emailAddressIsEmptyOrIllegal">Endereço de e-mail inválido ou ilegal</string>
+  <string name="passwordMustBeAtLeast6Characters">A senha deve conter no mínimo 6 caracteres</string>
+  <string name="helperTextForNewAccount">Esta conta é nova, registrá-la-emos para você.</string>
+  <string name="helperTextForRegisteredAccount">/Esta conta está registrada, conectá-la-emos para você</string>
+  <string name="forgetPassword">Esqueceu a senha?</string>
+  <string name="notSignedIn">Não conectado</string>
+  <string name="requiresAtLeast6Characters">Necessário no mínimo 6 caracteres</string>
+  <string name="emailOrPasswordIsIncorrect">E-mail ou senha incorreto(a)</string>
+  <string name="messageCustomFontAndPro">Você está usando uma "Fonte Personalizada", que requer o Pure Writer Pro. Toque em OK para adquirir esta e outras funções, ou toque para cancelar a Fonte Personalizada (terá efeito na próxima reiniciação).</string>
+  <string name="messageNeedToPay">Esta função é Pro. Você precisa adquirir o Pure Writer Pro para poder usá-la. Toque em OK para saber tudo sobre as funções avançadas dele. Quando você adquiri-lo, poderá usar todas essas funções.</string>
+  <string name="notYetActivated">Ainda não ativado</string>
+  <string name="notYetActivatedOrExpired">Não ativado ou expirado</string>
+  <string name="signingInIsInvalid">Conexão inválida</string>
+  <string name="verificationCode">Código de verificação</string>
+  <string name="buyPureWriterPro">Adquira o Pure Writer Pro</string>
+  <string name="tipMarkdownQuickPreview">Deslize horizontalmente para a próxima página\na fim de pré-visualizar o texto em Markdown</string>
+  <string name="lifetime">VITALÍCIO</string>
+  <string name="proExpired">Pro Expirado</string>
+  <string name="expiresOn">Expira:</string>
+  <string name="useLegacyRender">Utilizar renderizador clássico</string>
+  <string name="changelog">Novidades</string>
+  <string name="fabContextReadOnlyMode">Modo Leitura</string>
+  <string name="needOpenArticleFirst">Necessário abrir um artigo para usar esta opção</string>
+  <string name="tipForLongPressFab">Dica:Toque e segure o botão ãŠ‰ para \nmais itens do menu para novos artigos e Modo Leitura</string>
+  <string name="restoreArticleScrollPosition">Recuperar posição da barra de rolagem no artigo</string>
+  <string name="savedStateModeAuto">Automático (o último artigo editado será restaurado na próxima vez. Os demais serão restaurados até uma semana desde a data de acesso ou retornarão ao topo)</string>
+  <string name="savedStateModeEnableAll">Ainda assim, ativado para todos os artigos</string>
+  <string name="savedStateModeDisableAll">Ainda assim, desativado para todos os artigos</string>
+  <string name="summaryScrollToBottom">Exibir ou não este botão no editor</string>
+  <string name="cloudBackupFailed">Erro ao fazer backup na nuvem</string>
+  <string name="dropboxBackupFailed">Erro no backup do Dropbox, por favor tente reconectar-se à sua conta nas configurações de backup do Pure Writer</string>
+  <string name="tipJianguoyunURL">Por favor, preencha os três espaços seguintes</string>
+  <string name="dropboxBackupFailedDueToInsufficientSpace">O backup na nuvem falhou: Dropbox cheio</string>
+  <string name="tipImageDialog">Por favor, insira o endereço da imagem abaixo. \nOu você pode tocar em \"Imagem Local\" abaixo para selecionar uma imagem de seu dispositivo e conseguir o link local para a mesma.</string>
+  <string name="imageUrl">URL da imagem</string>
+  <string name="imageDesc">Descrição da imagem (opcional)</string>
+  <string name="width">Largura</string>
+  <string name="insertMarkdownImage">Inserir imagem em Markdown</string>
+  <string name="youNeedToSignInAgain">Você precisa reconectar-se novamente</string>
+  <string name="pureWriterDesktop">Pure Writer\nDesktop</string>
+  <string name="moreAndBetter">Mais e melhor</string>
+  <string name="clickBottomAddNewBlankLine">Toque no botão para inserir uma linha</string>
+  <string name="summaryClickBottomAddNewBlankLine">Se a última linha não estiver em branco, quando tocar na área em branco abaixo do editor, uma nova linha será inserida e focalizada no final do texto.</string>
 </resources>

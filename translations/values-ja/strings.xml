@@ -99,10 +99,10 @@
   <string name="backupNow">今すぐバックアップする</string>
   <string name="summaryBackupToLocal">バックアップファイルはパス /backups に保存されます。</string>
   <string name="restoreBackup">バックアップを復元</string>
-  <string name="summaryRestoreTheBackup">Backup file will be retrieved from /backups, /backups/PureWriterAutoBackups and your WebDAV or Dropbox</string>
+  <string name="summaryRestoreTheBackup">Backup file will be retrieved from /backups, /backups/PureWriterAutoBackups and your GoogleDrive or WebDAV or Dropbox</string>
   <string name="backupSuccessful">バックアップ成功</string>
   <string name="restoreSuccessful">バックアップを正常に復元する</string>
-  <string name="tipBackupList">以下はすべてのバックアップファイルです：クリックしてバックアップを復元する。\n<b>Dropbox/WebDAVクラウドからバックアップを取得する場合は、このページに入る前にDropbox/WebDAVアカウントにログインする必要があります。</b></string>
+  <string name="tipBackupList">以下はすべてのバックアップファイルです：クリックしてバックアップを復元する。\n<b>GoogleDrive/Dropbox/WebDAVクラウドからバックアップを取得する場合は、このページに入る前にGoogleDrive/Dropbox/WebDAVアカウントにログインする必要があります。</b></string>
   <string name="tipBackupNotExist">バックアップファイルは存在しません。 バックアップファイルを /backups に入れてもう一度お試しください</string>
   <string name="wordCountMode">単語数</string>
   <string-array name="wordCountModeEntries">
@@ -333,7 +333,7 @@
   <string name="bridgeSummary">この機能は理解して使うのが非常に難しいです、それを有効にすることはお勧めできません。</string>
   <string name="messageCancelBridgeFeature">このバージョンから、オリジナルの \"ブリッジ\"機能はデフォルトで隠されています、なぜなら彼らがこの機能が何を意味するのかわからないと毎日私に言っている多くのユーザーフィードバックがあるからです。 しかし同時に、私はこれらのフィードバックに対応するために多くの時間とエネルギーを費やしました - それらはこの製品を開発し磨くために使われるべきでした。 そのため、現在この機能はデフォルトでオフになっています。 あなたがそれを好きでそれに頼っているなら、あなたはバックアップ設定ページの一番下に行くことができます、そしてあなたはそれを開くためのオプションを見るでしょう。 理解してください、ありがとうございました！</string>
   <string name="followingBackupsAre">以下は、現在のバージョンをインストールする前のバックアップです。</string>
-  <string name="logInToWebDAVOrDropbox">WebDAVまたはDropboxにログイン</string>
+  <string name="logInToCloudStorage">クラウドストレージにログイン</string>
   <string name="scrollToBottom">下にスクロール</string>
   <string name="textColor">エディターのテキストの色</string>
   <string name="customColorTipOnShortcutPad">ヒント：[設定]ページでエディターのテキストの色をカスタマイズできます。</string>

@@ -106,10 +106,10 @@
   <string name="summaryBackupToLocal">El archivo de la Copia de Seguridad será guardado en /backups</string>
   <string name="summaryBackupToCloud">El archivo de la Copia de Seguridad se guardará en el almacenamiento de la nube en caso de que esté configurado.</string>
   <string name="restoreBackup">Restaurar la Copia de Seguridad</string>
-  <string name="summaryRestoreTheBackup">El archivo de la Copia de Seguridad será recuperado de /backups, /backups/PureWriterAutoBackups y de WebDAV o Dropbox</string>
+  <string name="summaryRestoreTheBackup">El archivo de la Copia de Seguridad será recuperado de /backups, /backups/PureWriterAutoBackups y de WebDAV o Dropbox/GoogleDrive</string>
   <string name="backupSuccessful">La Copia de Seguridad fue exitosa</string>
   <string name="restoreSuccessful">La Copia de Seguridad fue restaurada exitosamente</string>
-  <string name="tipBackupList">Aquí estarán tus archivos de las Copias de Seguridad. Puedes hacer clic para restaurarlos.\n<b>Si deseas recuperar las Copias de Seguridad de Dropbox o WebDAV, primero inicia sesión en tu cuenta de WebDAV o Dropbox.</b></string>
+  <string name="tipBackupList">Aquí estarán tus archivos de las Copias de Seguridad. Puedes hacer clic para restaurarlos.\n<b>Si deseas recuperar las Copias de Seguridad de Dropbox o WebDAV o GoogleDrive, primero inicia sesión en tu cuenta de WebDAV o Dropbox o GoogleDrive.</b></string>
   <string name="tipBackupNotExist">No existe un archivo de la Copia de Seguridad. Por favor, mueve la Copia de Seguridad a la carpeta /backups e inténtalo de nuevo.</string>
   <string name="wordCountMode">Modo de Contador de Palabras</string>
   <string-array name="wordCountModeEntries">
@@ -339,7 +339,7 @@
   <string name="bridgeSummary">Esta característica es muy difícil de entender y usar, no se recomienda habilitarla.</string>
   <string name="messageCancelBridgeFeature">Desde esta versión, la función original "Puente" está oculta por defecto, ya que hay muchos comentarios de los usuarios que no entienden lo que significa esta función, ¡lamento molestarlos! Pero al mismo tiempo, dí mucho tiempo y energía para responder a estos comentarios, que deberían haber sido utilizados para desarrollar y pulir este producto, por lo tanto, actualmente esta función está desactivada por defecto. Si lo deseas y confías en esta función, puedes ir al final de la página de configuración de la Copia de Seguridad y verás una opción para abrirla. Por favor, compréndelo, gracias!</string>
   <string name="followingBackupsAre">Lo siguiente son Copias de Seguridad anteriores al instalar la versión actual</string>
-  <string name="logInToWebDAVOrDropbox">Iniciar sesión en WebDAV o Dropbox</string>
+  <string name="logInToCloudStorage">Inicie sesión en el almacenamiento en la nube</string>
   <string name="scrollToBottom">Desplazarse hacia abajo</string>
   <string name="titleTextSize">Tamaño de fuente del título</string>
   <string name="restoreByThisBackup">Restaurar por esta copia de seguridad?</string>

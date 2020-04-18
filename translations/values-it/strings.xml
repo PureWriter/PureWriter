@@ -108,10 +108,10 @@
   <string name="summaryBackupToLocal">File di Backup file in salvataggio su /backups</string>
   <string name="summaryBackupToCloud">File di Backup file in salvataggio su memoria cloud storage, se impostata</string>
   <string name="restoreBackup">Recupero backup</string>
-  <string name="summaryRestoreTheBackup">Backup in recupero da /backups, /backups/PureWriterAutoBackups e sul vostro WebDAV o su Dropbox</string>
+  <string name="summaryRestoreTheBackup">Backup in recupero da /backups, /backups/PureWriterAutoBackups e sul vostro WebDAV o su Dropbox o su GoogleDrive</string>
   <string name="backupSuccessful">Effettuato Backup con successo</string>
   <string name="restoreSuccessful">Effettuato recuero del Backup con successo</string>
-  <string name="tipBackupList">Qui ci sono i vostri file di backup. Puoi fare click per recuperarli\n<b>Se desideri recuperare i file backup da Dropbox/WebDAV, effettua prima il login al tuo Dropbox/WebDAV!</b></string>
+  <string name="tipBackupList">Qui ci sono i vostri file di backup. Puoi fare click per recuperarli\n<b>Se desideri recuperare i file backup da Dropbox / GoogleDrive / WebDAV, effettua prima il login al tuo Dropbox / GoogleDrive / WebDAV!</b></string>
   <string name="tipBackupNotExist">Il file di backup non esiste. Pregasi posizionare il file di backup nella directory /backups e riprovare nuovamente.</string>
   <string name="wordCountMode">Modo conteggio parole</string>
   <string-array name="wordCountModeEntries">
@@ -344,7 +344,7 @@
   <string name="bridgeSummary">Questa funzione è molto difficile da capire e da usare, non è consigliabile abilitarla.</string>
   <string name="messageCancelBridgeFeature">Da questa versione, la funzione originale \"Bridge\" è nascosta per impostazione predefinita, perché ogni giorno ci sono molti feedback degli utenti che mi dicono che non sanno cosa significhi questa funzione, mi dispiace molto darti problemi! Allo stesso tempo, ho anche dedicato molto tempo ed energie a rispondere a questi feedback: avrebbero dovuto essere usati per sviluppare e lucidare questo prodotto. Quindi attualmente questa funzione è disattivata per impostazione predefinita. Se ti piace e fai affidamento su di esso, puoi andare in fondo alla pagina delle impostazioni di backup e vedrai un\'opzione per aprirlo. Per favore capisci, grazie mille!</string>
   <string name="followingBackupsAre">Di seguito sono riportati i backup prima di installare la versione corrente</string>
-  <string name="logInToWebDAVOrDropbox">Accedi a WebDAV o Dropbox</string>
+  <string name="logInToCloudStorage">Accedi al cloud storage</string>
   <string name="scrollToBottom">Scorri verso il basso</string>
   <string name="textColor">Colore del testo dell\'editor</string>
   <string name="customColorTipOnShortcutPad">Suggerimento: è possibile personalizzare il colore del testo dell\'editor nella pagina Impostazioni.</string>

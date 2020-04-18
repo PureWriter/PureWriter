@@ -108,10 +108,10 @@
   <string name="summaryBackupToLocal">File cadangan akan disimpan ke /backup</string>
   <string name="summaryBackupToCloud">File cadangan akan disimpan ke penyimpanan cloud Anda jika diatur</string>
   <string name="restoreBackup">Kembalikan cadangan</string>
-  <string name="summaryRestoreTheBackup">File cadangan akan diambil dari /backup, /backups /PureWriterAutoBackups dan WebDAV atau Dropbox Anda</string>
+  <string name="summaryRestoreTheBackup">File cadangan akan diambil dari /backup, /backups /PureWriterAutoBackups dan WebDAV atau Dropbox atau GoogleDrive Anda</string>
   <string name="backupSuccessful">Pencadangan berhasil</string>
   <string name="restoreSuccessful">Cadangan berhasil dipulihkan</string>
-  <string name="tipBackupList">Ini file cadangan Anda. Anda dapat mengklik untuk memulihkannya.\n<b>Jika Anda ingin mengambil file cadangan dari Dropbox / WebDAV, silakan masuk ke akun Dropbox / WebDAV Anda terlebih dahulu!</b></string>
+  <string name="tipBackupList">Ini file cadangan Anda. Anda dapat mengklik untuk memulihkannya.\n<b>Jika Anda ingin mengambil file cadangan dari Dropbox / WebDAV / GoogleDrive, silakan masuk ke akun Dropbox / WebDAV / GoogleDrive Anda terlebih dahulu!</b></string>
   <string name="tipBackupNotExist">File cadangan tidak ada. Harap tempatkan file cadangan di /backup dan coba lagi.</string>
   <string name="wordCountMode">Mode penghitungan kata</string>
   <string-array name="wordCountModeEntries">
@@ -340,7 +340,7 @@
   <string name="bridgeSummary">Fitur ini sangat sulit dimengerti dan digunakan, tidak disarankan untuk mengaktifkannya.</string>
   <string name="messageCancelBridgeFeature">Dari versi ini, fitur \"Bridge\" asli disembunyikan secara default, karena ada banyak umpan balik pengguna setiap hari yang mengatakan kepada saya bahwa mereka tidak tahu apa arti fitur ini, saya sangat menyesal membuat Anda kesulitan! Tetapi pada saat yang sama, saya juga menghabiskan banyak waktu dan energi untuk menanggapi umpan balik ini - mereka seharusnya digunakan untuk mengembangkan dan memoles produk ini. Jadi saat ini fitur ini dimatikan secara default. Jika Anda suka dan mengandalkannya, Anda bisa pergi ke bagian bawah halaman pengaturan cadangan dan Anda akan melihat opsi untuk membukanya. Tolong mengerti, terima kasih banyak!</string>
   <string name="followingBackupsAre">Berikut ini adalah cadangan sebelum menginstal versi saat ini</string>
-  <string name="logInToWebDAVOrDropbox">Masuk ke WebDAV atau Dropbox</string>
+  <string name="logInToCloudStorage">Masuk ke penyimpanan cloud</string>
   <string name="scrollToBottom">Gulir ke bawah</string>
   <string name="textColor">Warna teks Editor</string>
   <string name="customColorTipOnShortcutPad">Tip: Anda dapat menyesuaikan warna teks editor di halaman Pengaturan.</string>

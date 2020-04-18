@@ -97,10 +97,10 @@
   <string name="summaryBackupToLocal">Sicherungsdateien werden in /backups gespeichert</string>
   <string name="summaryBackupToCloud">Sicherungsdateien werden in Ihrem Cloud-Speicher gespeichert, sofern festgelegt</string>
   <string name="restoreBackup">Backup wiederherstellen</string>
-  <string name="summaryRestoreTheBackup">Die Sicherungsdatei wird von /backups, /backups/PureWriterAutoBackups und Ihrer WebDAV oder Dropbox abgerufen</string>
+  <string name="summaryRestoreTheBackup">Die Sicherungsdatei wird von /backups, /backups/PureWriterAutoBackups und Ihrer GoogleDrive oder WebDAV oder Dropbox abgerufen</string>
   <string name="backupSuccessful">Sicherung erfolgreich</string>
   <string name="restoreSuccessful">Sicherung erfolgreich wiederhergestellt</string>
-  <string name="tipBackupList">Hier sind Ihre Sicherungsdateien. Sie können klicken, um sie wiederherzustellen.\n<b>Wenn Sie Sicherungsdateien von Dropbox/WebDAV abrufen möchten, melden Sie sich bitte zuerst bei Ihrem Dropbox/WebDAV-Konto an! </b></string>
+  <string name="tipBackupList">Hier sind Ihre Sicherungsdateien. Sie können klicken, um sie wiederherzustellen.\n<b>Wenn Sie Sicherungsdateien von GoogleDrive/Dropbox/WebDAV abrufen möchten, melden Sie sich bitte zuerst bei Ihrem GoogleDrive/Dropbox/WebDAV-Konto an! </b></string>
   <string name="tipBackupNotExist">Die Sicherungsdatei existiert nicht. Legen Sie die Sicherungsdatei in /backups ab und versuchen Sie es erneut.</string>
   <string name="wordCountMode">Word-Count-Modus</string>
   <string name="fab">Home Floating-Aktionstaste</string>
@@ -330,7 +330,7 @@
   <string name="bridgeSummary">Diese Funktion ist sehr schwer zu verstehen und zu verwenden. Es wird nicht empfohlen, sie zu aktivieren.</string>
   <string name="messageCancelBridgeFeature">In dieser Version ist die ursprüngliche \"Bridge\" -Funktion standardmäßig ausgeblendet, da es täglich viele Benutzer-Feedbacks gibt, die mir sagen, dass sie nicht wissen, was diese Funktion bedeutet. Es tut mir sehr leid, dass ich Ihnen Probleme bereite! Gleichzeitig habe ich viel Zeit und Energie aufgewendet, um auf diese Rückmeldungen zu reagieren - sie hätten verwendet werden sollen, um dieses Produkt zu entwickeln und zu polieren. Daher ist diese Funktion derzeit standardmäßig deaktiviert. Wenn Sie möchten und darauf vertrauen, können Sie zum Ende der Seite mit den Sicherungseinstellungen gehen und eine Option zum Öffnen sehen. Bitte haben Sie Verständnis, vielen Dank!</string>
   <string name="followingBackupsAre">Im Folgenden sind die Sicherungen vor der Installation der aktuellen Version aufgeführt</string>
-  <string name="logInToWebDAVOrDropbox">Melden Sie sich bei WebDAV oder Dropbox an</string>
+  <string name="logInToCloudStorage">Melden Sie sich beim Cloud-Speicher an</string>
   <string name="scrollToBottom">Scrolle nach unten</string>
   <string name="textColor">Textfarbe des Editors</string>
   <string name="customColorTipOnShortcutPad">Tipp: Sie können die Textfarbe des Editors auf der Seite Einstellungen anpassen.</string>
