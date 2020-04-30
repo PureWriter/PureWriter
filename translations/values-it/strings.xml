@@ -485,4 +485,17 @@
   <string name="duplicate">Duplicare</string>
   <string name="lowCloudFreeStorageSpaceWarning">%1$s ha solo %2$d MB di spazio di archiviazione gratuito, il che può causare il fallimento del backup o del backup di Pure Writer sul cloud. Si prega di ripulire e lasciare più di %3$d MB prima di utilizzare Pure Writer!</string>
   <string name="unlimitedStorage">Memoria illimitata</string>
+  <string name="noteDateTimeShortcut"><![CDATA[
+        Inoltre, puoi anche inserire variabili di ora e data, impostando digitando `${<format>}` nella prima casella di input sopra, dove `<format>` deve essere sostituito con il formato data / ora, ad esempio:
+
+        `${yyyy-MM-dd HH:mm}` genererà:
+         `2020-04-01 21:43`
+
+        `${yyyy-M-d hh:mm}` genererà:
+        `2020-4-1 09:43`
+
+        (È possibile premere a lungo per selezionare e copiare gli esempi precedenti per provare)
+
+        Puoi anche controllare la tabella in questa [pagina del documento](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) per ulteriori identificatori di formato e combinazioni gratuite.
+    ]]></string>
 </resources>

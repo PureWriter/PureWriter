@@ -475,4 +475,17 @@
   <string name="duplicate">複製</string>
   <string name="lowCloudFreeStorageSpaceWarning">%1$sには%2$d MBの無料ストレージしかないため、Pure Writerが保存したり、クラウドへのバックアップが失敗したりする可能性があります。 Pure Writerを使用する前に、クリーンアップして%3$d MB以上残してください。</string>
   <string name="unlimitedStorage">無制限のストレージ</string>
+  <string name="noteDateTimeShortcut"><![CDATA[
+        さらに、時間と日付の変数を挿入することもできます。上の最初の入力ボックスに `${<format>}` と入力して設定します。ここで、`<format>` は日付/時刻形式に置き換える必要があります。次に例を示します。
+
+        `${yyyy-MM-dd HH:mm}` は以下を生成します：
+        `2020-04-01 21:43`
+
+        `${yyyy-M-d hh:mm}` は以下を生成します：
+        `2020-4-1 09:43`
+
+        （長押しして、上記の例を選択してコピーしてみてください）
+
+        この[ドキュメントページ](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html)の表で、形式指定子と自由な組み合わせを確認することもできます。
+    ]]></string>
 </resources>

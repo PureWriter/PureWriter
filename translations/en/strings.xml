@@ -550,4 +550,17 @@
   <string name="duplicate">Duplicate</string>
   <string name="tipGoogleDriveAppScope">Tip: Since the app private directory of Google Drive is not visible to users, the Bridge function will be automatically disabled.</string>
   <string name="unlimitedStorage">Unlimited storage</string>
+  <string name="noteDateTimeShortcut"><![CDATA[
+        In addition, you can also insert time and date variables, set by entering `$ {<format>}` in the first input box above, where `<format>` needs to be replaced with date/time format, for example:
+
+        `${yyyy-MM-dd HH:mm}` will generate:
+        `2020-04-01 21:43`
+
+        `${yyyy-M-d hh:mm}` will generate:
+        `2020-4-1 09:43`
+
+        (You can **long press** to select and copy the above examples to try)
+
+        You can also check the **table** in this [document page] (https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) for more **format specifier** and free combination.
+    ]]></string>
 </resources>

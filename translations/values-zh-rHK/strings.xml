@@ -508,4 +508,17 @@
   <string name="tipGoogleDriveAppScope">提示：由於 Google Drive 應用私有目錄對用戶不可見，因此「雲讀寫」將自動關閉。</string>
   <string name="lowCloudFreeStorageSpaceWarning">您的 %1$s 只有 %2$d MB 的可用存儲空間，這可能會導致純純寫作無法進行雲備份。 請清理並保留 %3$d MB 以上的雲盤空間！</string>
   <string name="unlimitedStorage">無限存儲</string>
+  <string name="noteDateTimeShortcut"><![CDATA[
+        另外，您還可以插入時間和日期變量，通過在上面第一個輸入框中輸入 `${<format>}` 來設置，其中的 `<format>` 需要替換成時間格式，例如：
+
+        `${yyyy-MM-dd HH:mm}` 將會生成：
+        `2020-04-01 21:43`
+
+        `${yyyy-M-d hh:mm}` 將會生成：
+        `2020-4-1 09:43`
+
+        (可以 **長按** 複製以上示例進行嘗試；另外，大小寫是敏感的)
+
+        您也可以通過查閱這個 [文檔頁面](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) 中的 **表格** 來獲取更多 **時間格式符** 並自由組合。
+    ]]></string>
 </resources>

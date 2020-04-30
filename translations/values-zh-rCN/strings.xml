@@ -438,6 +438,19 @@
 
         开发桌面版需要花费巨大的精力和时间，而且纯纯写作计划在之后重新实现一个完整的更好的桌面版。您的支持将会是我们巨大的动力，非常感谢！
     ]]></string>
+  <string name="noteDateTimeShortcut"><![CDATA[
+        另外，您还可以插入时间和日期变量，通过在上面第一个输入框中输入 `${<format>}` 来设置，其中的 `<format>` 需要替换成时间格式，例如：
+
+        `${yyyy-MM-dd HH:mm}` 将会生成：
+        `2020-04-01 21:43`
+
+        `${yyyy-M-d hh:mm}` 将会生成：
+        `2020-4-1 09:43`
+
+        (可以 **长按** 复制以上示例进行尝试；另外，大小写是敏感的)
+
+        您也可以通过查阅这个 [文档页面](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) 中的 **表格** 来获取更多 **时间格式符** 并自由组合。
+    ]]></string>
   <string name="unlimitedWords">无限字数</string>
   <string name="neverLost">从未丢失</string>
   <string name="supportParagraphSpacing">独家支持段间距</string>

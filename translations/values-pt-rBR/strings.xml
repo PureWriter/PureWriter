@@ -502,4 +502,17 @@
   <string name="moreAndBetter">Mais e melhor</string>
   <string name="clickBottomAddNewBlankLine">Toque no botão para inserir uma linha</string>
   <string name="summaryClickBottomAddNewBlankLine">Se a última linha não estiver em branco, quando tocar na área em branco abaixo do editor, uma nova linha será inserida e focalizada no final do texto.</string>
+  <string name="noteDateTimeShortcut"><![CDATA[
+        Além disso, você também pode inserir variáveis de hora e data, definidas digitando `${<formato>}` na primeira caixa de entrada acima, onde `<formato>` precisa ser substituído pelo formato data/hora, por exemplo:
+
+        `${yyyy-MM-dd HH:mm}` irá gerar:
+        `2020-04-01 21:43`
+
+        `${yyyy-M-d hh:mm}` irá gerar:
+        `2020-4-1 09:43`
+
+        (Você pode **long press** para selecionar e copiar os exemplos acima para tentar)
+
+        Você também pode verificar a **tabela** neste [página do documento](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) para mais **format specifier** e combinação livre.
+    ]]></string>
 </resources>
