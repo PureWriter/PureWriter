@@ -478,10 +478,9 @@
   <string name="lifetime">有效期至永久</string>
   <string name="proExpired">會員已過期</string>
   <string name="changelog">更新日誌</string>
-  <string name="fabContextReadOnlyMode">唯讀模式</string>
+  <string name="advancedReadOnlyMode">進階唯讀模式</string>
   <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">在 目前卷末尾 插入新文章</string>
   <string name="needOpenArticleFirst">您需要先打開一篇文章才能使用此選項</string>
-  <string name="tipForLongPressFab">提示: 長按 ㊉ 按鈕可以獲得\n更多建立文章選單和唯讀模式</string>
   <string name="restoreArticleScrollPosition">復原文章滾動停留位置</string>
   <string name="savedStateModeAuto">自動（最後編輯的文章下次打開一定會復原；非最後編輯的文章，若距離上次打開時間在一週內，則復原，否則回到頂部）</string>
   <string name="savedStateModeEnableAll">無論如何，對所有文章啟用</string>
@@ -521,4 +520,8 @@
 
         您也可以透過查閱這個 [文件頁面](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) 中的 **表格** 來獲取更多 **時間格式符** 並自由組合。
     ]]></string>
+  <string name="read">查看</string>
+  <string name="introductionOfReadOnlyMode">* 當軟鍵盤收起時，需要雙擊才能置入游標並進入編輯模式。\n* 當軟鍵盤顯示時，只需要單擊即可編輯或修改游標位置。</string>
+  <string name="messageReadOnlyModeAndPro">這個「進階唯讀模式」需要純純寫作 Pro，你可以點擊確定進入純純寫作 Pro 介紹頁面和獲取更多進階版功能，或者點擊取消（將在下次啟動後自動取消「進階唯讀模式」）。</string>
+  <string name="doNotRemindAgain">不再提示</string>
 </resources>

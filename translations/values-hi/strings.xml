@@ -275,7 +275,7 @@
   <string name="find">खोज</string>
   <string name="currentChapter">वर्तमान अध्याय</string>
   <string name="currentBook">वर्तमान पुस्तक</string>
-  <string name="ignoreCase">मामले की अनदेखी करें</string>
+  <string name="ignoreCase">केस नज़रअंदाज़ करें</string>
   <string name="selectAll">सभी का चयन करे</string>
   <string name="replaceConfirmMessage">क्या आप चयनित %d स्थानों को बदलना सुनिश्चित कर रहे हैं?</string>
   <string name="tipUndoReplace">वापस लाएं:\n* आप सेटिंग्स पर जा सकते हैं - बैकअप - बैकअप पुनर्स्थापित करें, पिछले बैकअप पर क्लिक करके पिछली सामग्री को पुनर्स्थापित करें।\n* यदि आपने अभी वर्तमान अध्याय को प्रतिस्थापित किया है, तो आप शीर्ष दाएं मेनू के माध्यम से इतिहास पृष्ठ पर जा सकते हैं और पिछली सामग्री पर वापस लौट सकते हैं।</string>
@@ -450,9 +450,8 @@
   <string name="proExpired">Pro समाप्त हो गया</string>
   <string name="useLegacyRender">विरासत रेंडरर का उपयोग करें</string>
   <string name="changelog">बदलाव का</string>
-  <string name="fabContextReadOnlyMode">पढ़ें- केवल मोड</string>
+  <string name="advancedReadOnlyMode">उन्नत केवल पढ़ने के लिए मोड</string>
   <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">वर्तमान श्रेणी के निचले भाग में नया लेख</string>
-  <string name="tipForLongPressFab">युक्ति: अधिक नए लेख मेनू आइटम और केवल-पढ़ने के लिए ㊉ बटन दबाएँ</string>
   <string name="needOpenArticleFirst">इस विकल्प का उपयोग करने के लिए आपको पहले एक लेख खोलने की आवश्यकता है</string>
   <string name="restoreArticleScrollPosition">लेख स्क्रॉल स्थिति पुनर्स्थापित करें</string>
   <string name="summaryScrollToBottom">क्या यह बटन संपादक को दिखाना है</string>
@@ -487,4 +486,8 @@
 
          अधिक प्रारूप विनिर्देशक और मुक्त संयोजन के लिए आप इस [दस्तावेज़ पृष्ठ](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) में तालिका भी देख सकते हैं।
     ]]></string>
+  <string name="read">पढ़ें</string>
+  <string name="introductionOfReadOnlyMode">* जब सॉफ्ट कीबोर्ड बंद हो जाता है, तो कर्सर रखने और एडिट मोड दर्ज करने के लिए डबल-क्लिक की आवश्यकता होती है।\n* जब सॉफ्ट कीबोर्ड दिखाया जाता है, तो कर्सर की स्थिति को एक क्लिक से संपादित या संशोधित किया जा सकता है।</string>
+  <string name="messageReadOnlyModeAndPro">उन्नत रीड-ओनली मोड के लिए Pure Writer Pro की आवश्यकता होती है। आप Pure Writer Pro और अधिक उन्नत सुविधाओं को प्राप्त करने के लिए ओके पर क्लिक कर सकते हैं, या अगले लॉन्चिंग के बाद इसे स्वचालित रूप से रद्द करने के लिए रद्द करें पर क्लिक करें।</string>
+  <string name="doNotRemindAgain">फिर से याद न दिलाएं</string>
 </resources>

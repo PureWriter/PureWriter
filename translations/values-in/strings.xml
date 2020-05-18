@@ -284,7 +284,7 @@
   <string name="currentChapter">Bab Saat Ini</string>
   <string name="currentText">Teks Saat Ini</string>
   <string name="currentBook">Buku saat ini</string>
-  <string name="ignoreCase">Abaikan Kasus</string>
+  <string name="ignoreCase">Abaikan huruf besar-kecil</string>
   <string name="selectAll">Pilih Semua</string>
   <string name="inverseAll">Balikkan Semua</string>
   <string name="replaceConfirmMessage">Apakah Anda yakin akan mengganti %d tempat yang dipilih?</string>
@@ -457,9 +457,8 @@
   <string name="proExpired">Pro kedaluwarsa</string>
   <string name="useLegacyRender">Gunakan penyaji lama</string>
   <string name="changelog">Changelog</string>
-  <string name="fabContextReadOnlyMode">Mode hanya baca</string>
+  <string name="advancedReadOnlyMode">Mode hanya baca lanjutan</string>
   <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Artikel baru di bagian bawah Kategori saat ini</string>
-  <string name="tipForLongPressFab">Tip: Tekan lama tombol ㊉ untuk lebih \nbanyak item menu artikel baru dan mode Baca-saja</string>
   <string name="needOpenArticleFirst">Anda harus membuka artikel terlebih dahulu untuk menggunakan opsi ini</string>
   <string name="restoreArticleScrollPosition">Kembalikan posisi gulir artikel</string>
   <string name="summaryScrollToBottom">Apakah akan menampilkan tombol ini pada editor</string>
@@ -494,4 +493,8 @@
 
         Anda juga dapat memeriksa tabel di [halaman dokumen](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) ini untuk lebih banyak penentu format dan kombinasi gratis.
     ]]></string>
+  <string name="read">Baca</string>
+  <string name="introductionOfReadOnlyMode">* Ketika keyboard lunak ditutup, klik dua kali diperlukan untuk menempatkan kursor dan masuk ke mode edit.\n* Ketika keyboard lunak ditampilkan, posisi kursor dapat diedit atau dimodifikasi dengan satu klik.</string>
+  <string name="messageReadOnlyModeAndPro">Mode Hanya Baca Tingkat Lanjut memerlukan Pure Writer Pro. Anda dapat mengklik OK untuk mendapatkan Pure Writer Pro dan fitur yang lebih canggih, atau klik Batal untuk secara otomatis membatalkannya setelah peluncuran berikutnya.</string>
+  <string name="doNotRemindAgain">Jangan diingatkan lagi</string>
 </resources>

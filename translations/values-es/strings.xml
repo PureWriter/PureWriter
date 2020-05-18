@@ -283,7 +283,7 @@
   <string name="currentChapter">Capítulo actual</string>
   <string name="currentText">Texto actual</string>
   <string name="currentBook">Libros actual</string>
-  <string name="ignoreCase">Ignorar caso</string>
+  <string name="ignoreCase">Ignorar mayúsculas</string>
   <string name="selectAll">Seleccionar todo</string>
   <string name="inverseAll">Todo inverso</string>
   <string name="replaceConfirmMessage">¿Estás seguro de reemplazar los seleccionados %d lugares?</string>
@@ -391,7 +391,7 @@
   <string name="crazyUpdateBetterAndBetter">Sigue actualizando, mejor y mejor</string>
   <string name="moreAdvantagesOfPureWriter">Más ventajas de Pure Writer</string>
   <string name="account">Cuenta</string>
-  <string name="privilegeOfPureWriterPro">Privilegio de pura Writer Pro</string>
+  <string name="privilegeOfPureWriterPro">Privilegio de Pure Writer Pro</string>
   <string name="messageCustomFontAndPro">Comprueba que estás utilizando la fuente personalizada, que requiere Pure Writer Pro. Puede hacer clic en Aceptar para obtener Pure Writer Pro y características más avanzadas, o hacer clic para cancelar Fuente personalizada (entrará en vigencia en el próximo lanzamiento).</string>
   <string name="messageNeedToPay">Esta es una característica Pro. Debe pagar Pure Writer Pro antes de poder usarlo. Haga clic en Aceptar para conocer todas las funciones avanzadas de Pure Writer Pro. Cuando obtienes Pure Writer Pro, puedes usar todas las funciones avanzadas.</string>
   <string name="notYetActivated">Aún no activado</string>
@@ -456,9 +456,8 @@
   <string name="proExpired">Pro expiró</string>
   <string name="useLegacyRender">Usar el procesador heredado</string>
   <string name="changelog">Registro de cambios</string>
-  <string name="fabContextReadOnlyMode">Modo de solo lectura</string>
+  <string name="advancedReadOnlyMode">Modo avanzado de solo lectura</string>
   <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Nuevo artículo al final de la categoría actual</string>
-  <string name="tipForLongPressFab">Consejo: mantenga presionado el botón ㊉ para ver más elementos \nnuevos del menú del artículo y el modo de solo lectura</string>
   <string name="needOpenArticleFirst">Primero debes abrir un artículo para usar esta opción</string>
   <string name="restoreArticleScrollPosition">Restaurar posición de desplazamiento del artículo</string>
   <string name="summaryScrollToBottom">Si se muestra este botón en el editor</string>
@@ -493,4 +492,8 @@
 
         También puede consultar la **tabla** en esta [página del documento](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) para obtener más **especificador de formato** y combinación gratuita.
     ]]></string>
+  <string name="read">Leer</string>
+  <string name="introductionOfReadOnlyMode">* Cuando se cierra el teclado blando, es necesario hacer doble clic para colocar el cursor y entrar en el modo de edición.\n* Cuando se muestra el teclado blando, la posición del cursor puede editarse o modificarse con un solo clic.</string>
+  <string name="messageReadOnlyModeAndPro">El modo avanzado de solo lectura requiere Pure Writer Pro. Puede hacer clic en Aceptar para obtener Pure Writer Pro y características más avanzadas, o hacer clic en Cancelar para cancelarlo automáticamente después del próximo lanzamiento.</string>
+  <string name="doNotRemindAgain">No lo recuerdes de nuevo</string>
 </resources>

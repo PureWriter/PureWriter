@@ -461,9 +461,8 @@
   <string name="proExpired">Pro scaduto</string>
   <string name="useLegacyRender">Usa il renderer legacy</string>
   <string name="changelog">Changelog</string>
-  <string name="fabContextReadOnlyMode">Modalità di sola lettura</string>
+  <string name="advancedReadOnlyMode">Modalità di sola lettura avanzata</string>
   <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Nuovo articolo in fondo all\'attuale categoria</string>
-  <string name="tipForLongPressFab">Suggerimento: premere a lungo il pulsante ㊉ per \nulteriori nuovi elementi del menu articolo e modalità di sola lettura</string>
   <string name="needOpenArticleFirst">È necessario aprire prima un articolo per utilizzare questa opzione</string>
   <string name="restoreArticleScrollPosition">Ripristina posizione di scorrimento articolo</string>
   <string name="summaryScrollToBottom">Se mostrare questo pulsante sull\'editor</string>
@@ -498,4 +497,8 @@
 
         Puoi anche controllare la tabella in questa [pagina del documento](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) per ulteriori identificatori di formato e combinazioni gratuite.
     ]]></string>
+  <string name="read">Leggere</string>
+  <string name="introductionOfReadOnlyMode">* Quando la tastiera software è chiusa, è necessario fare doppio clic per posizionare il cursore e accedere alla modalità di modifica.\n* Quando viene visualizzata la tastiera virtuale, la posizione del cursore può essere modificata o modificata con un solo clic.</string>
+  <string name="messageReadOnlyModeAndPro">La modalità di sola lettura avanzata richiede Pure Writer Pro. È possibile fare clic su OK per ottenere Pure Writer Pro e funzionalità più avanzate oppure fare clic su Annulla per annullarlo automaticamente dopo il successivo avvio.</string>
+  <string name="doNotRemindAgain">Non ricordare più</string>
 </resources>

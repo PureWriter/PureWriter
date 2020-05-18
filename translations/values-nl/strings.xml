@@ -275,7 +275,7 @@
   <string name="find">Vind</string>
   <string name="currentChapter">Huidig hoofdstuk</string>
   <string name="currentBook">Huidig boek</string>
-  <string name="ignoreCase">Negeer zaak</string>
+  <string name="ignoreCase">Negeer hoofdletters</string>
   <string name="selectAll">Selecteer alles</string>
   <string name="replaceConfirmMessage">Weet je zeker dat je de geselecteerde %d plaatsen moet vervangen?</string>
   <string name="tipUndoReplace">ongedaan maken:\n* U kunt gaan naar Instellingen - Back-up - Back-up herstellen, klik op de vorige back-up om de vorige inhoud te herstellen.\n* Als u zojuist het huidige hoofdstuk hebt vervangen, gaat u naar de pagina Geschiedenis via het menu rechtsboven en keert u terug naar de vorige inhoud.</string>
@@ -452,9 +452,8 @@
   <string name="proExpired">Pro verlopen</string>
   <string name="useLegacyRender">Gebruik oudere renderer</string>
   <string name="changelog">Changelog</string>
-  <string name="fabContextReadOnlyMode">Alleen-lezen modus</string>
+  <string name="advancedReadOnlyMode">Geavanceerde alleen-lezen modus</string>
   <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Nieuw artikel onderaan de huidige categorie</string>
-  <string name="tipForLongPressFab">Tip: Druk lang op de ㊉-knop voor \nmeer nieuwe artikelmenu-items en de modus Alleen-lezen</string>
   <string name="needOpenArticleFirst">U moet eerst een artikel openen om deze optie te gebruiken</string>
   <string name="restoreArticleScrollPosition">Schuif de positie van de artikelrol terug</string>
   <string name="summaryScrollToBottom">Of deze knop in de editor moet worden weergegeven</string>
@@ -489,4 +488,8 @@
 
         U kunt ook de tabel op deze [documentpagina](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) raadplegen voor meer formaatspecificatie en gratis combinatie.
     ]]></string>
+  <string name="read">Lees</string>
+  <string name="introductionOfReadOnlyMode">* Als het soft-toetsenbord is gesloten, is dubbelklikken vereist om de cursor te plaatsen en de bewerkingsmodus te openen.\n* Als het soft-toetsenbord wordt weergegeven, kan de cursorpositie met een enkele klik worden bewerkt of gewijzigd.</string>
+  <string name="messageReadOnlyModeAndPro">Voor de geavanceerde modus Alleen-lezen is Pure Writer Pro vereist. U kunt op OK klikken om Pure Writer Pro en meer geavanceerde functies te krijgen, of op Annuleren om het automatisch te annuleren na de volgende lancering.</string>
+  <string name="doNotRemindAgain">Herinner het niet opnieuw</string>
 </resources>

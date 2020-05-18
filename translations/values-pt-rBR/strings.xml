@@ -480,9 +480,8 @@
   <string name="expiresOn">Expira:</string>
   <string name="useLegacyRender">Utilizar renderizador clássico</string>
   <string name="changelog">Novidades</string>
-  <string name="fabContextReadOnlyMode">Modo Leitura</string>
+  <string name="advancedReadOnlyMode">Modo avançado somente leitura</string>
   <string name="needOpenArticleFirst">Necessário abrir um artigo para usar esta opção</string>
-  <string name="tipForLongPressFab">Dica:Toque e segure o botão ãŠ‰ para \nmais itens do menu para novos artigos e Modo Leitura</string>
   <string name="restoreArticleScrollPosition">Recuperar posição da barra de rolagem no artigo</string>
   <string name="savedStateModeAuto">Automático (o último artigo editado será restaurado na próxima vez. Os demais serão restaurados até uma semana desde a data de acesso ou retornarão ao topo)</string>
   <string name="savedStateModeEnableAll">Ainda assim, ativado para todos os artigos</string>
@@ -515,4 +514,8 @@
 
         Você também pode verificar a **tabela** neste [página do documento](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) para mais **format specifier** e combinação livre.
     ]]></string>
+  <string name="read">Leia</string>
+  <string name="introductionOfReadOnlyMode">* Quando o teclado soft é fechado, é necessário um duplo clique para colocar o cursor e entrar no modo de edição.\n* Quando o teclado suave é mostrado, a posição do cursor pode ser editada ou modificada com um único clique.</string>
+  <string name="messageReadOnlyModeAndPro">O modo avançado somente leitura requer o Pure Writer Pro. Você pode clicar em OK para obter o Pure Writer Pro e recursos mais avançados, ou clicar em Cancelar para cancelá-lo automaticamente após o próximo lançamento.</string>
+  <string name="doNotRemindAgain">Não lembre de novo</string>
 </resources>

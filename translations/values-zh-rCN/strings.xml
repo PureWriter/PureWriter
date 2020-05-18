@@ -495,9 +495,8 @@
   <string name="expiresOn">有效期至</string>
   <string name="useLegacyRender">使用旧版渲染器</string>
   <string name="changelog">更新日志</string>
-  <string name="fabContextReadOnlyMode">只读模式</string>
+  <string name="advancedReadOnlyMode">高级只读模式</string>
   <string name="needOpenArticleFirst">您需要先打开一篇文章才能使用此选项</string>
-  <string name="tipForLongPressFab">提示: 长按 ㊉ 按钮可以获得\n更多新建文章菜单和只读模式</string>
   <string name="savedStateModeAuto">自动（最后编辑的文章下次打开一定会恢复；非最后编辑的文章，若距离上次打开时间在一周内，则恢复，否则回到顶部）</string>
   <string name="savedStateModeEnableAll">无论如何，对所有文章启用</string>
   <string name="savedStateModeDisableAll">无论如何，对所有文章禁用</string>
@@ -526,4 +525,8 @@
   <string name="tipGoogleDriveAppScope">提示：由于 Google Drive 应用私有目录对用户不可见，因此「云读写」将自动关闭。</string>
   <string name="lowCloudFreeStorageSpaceWarning">您的 %1$s 只有 %2$d MB 的可用存储空间，这可能会导致纯纯写作无法进行云备份。 请清理并保留 %3$d MB 以上的云盘空间！</string>
   <string name="unlimitedStorage">无限存储</string>
+  <string name="read">查看</string>
+  <string name="introductionOfReadOnlyMode">* 当软键盘收起时，需要双击才能置入光标并进入编辑模式。\n* 当软键盘显示时，只需要单击即可编辑或修改光标位置。</string>
+  <string name="messageReadOnlyModeAndPro">这个「高级只读模式」需要纯纯写作 Pro，你可以点击确定进入纯纯写作 Pro 介绍页面和获取更多高级版功能，或者点击取消（将在下次启动后自动取消「高级只读模式」）。</string>
+  <string name="doNotRemindAgain">不再提示</string>
 </resources>

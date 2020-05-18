@@ -253,7 +253,7 @@
   <string name="find">Finden</string>
   <string name="currentChapter">Aktuelles Kapitel</string>
   <string name="currentBook">Aktuelles Buch</string>
-  <string name="ignoreCase">Fall ignorieren</string>
+  <string name="ignoreCase">Groß-/Kleinschreibung ignorieren</string>
   <string name="selectAll">Wählen Sie Alle</string>
   <string name="backupRemarkForReplace">VorDemErsetzen</string>
   <string name="title">Titel</string>
@@ -447,9 +447,8 @@
   <string name="proExpired">Pro abgelaufen</string>
   <string name="useLegacyRender">Verwenden Sie den Legacy-Renderer</string>
   <string name="changelog">Änderungsprotokoll</string>
-  <string name="fabContextReadOnlyMode">Nur-Lese-Modus</string>
+  <string name="advancedReadOnlyMode">Erweiterte Nur-Lese-Modus</string>
   <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Neuer Artikel am Ende der aktuellen Kategorie</string>
-  <string name="tipForLongPressFab">Tipp: Halten Sie die Taste ㊉ gedrückt, \num weitere neue Artikelmenüelemente und den schreibgeschützten Modus aufzurufen</string>
   <string name="needOpenArticleFirst">Sie müssen zuerst einen Artikel öffnen, um diese Option nutzen zu können</string>
   <string name="restoreArticleScrollPosition">Stellen Sie die Bildlaufposition des Artikels wieder her</string>
   <string name="summaryScrollToBottom">Gibt an, ob diese Schaltfläche im Editor angezeigt werden soll</string>
@@ -484,4 +483,8 @@
 
         Sie können auch die **Tabelle** auf dieser [Dokumentseite](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) auf weitere **Formatbezeichner** und kostenlose Kombinationen überprüfen.
     ]]></string>
+  <string name="read">Lesen</string>
+  <string name="introductionOfReadOnlyMode">* Wenn die Softtastatur geschlossen ist, ist ein Doppelklick erforderlich, um den Cursor zu platzieren und den Bearbeitungsmodus aufzurufen.\n* Wenn die Softtastatur angezeigt wird, kann die Cursorposition mit einem einzigen Klick bearbeitet oder geändert werden.</string>
+  <string name="messageReadOnlyModeAndPro">Für den erweiterten schreibgeschützten Modus ist Pure Writer Pro erforderlich. Sie können auf OK klicken, um Pure Writer Pro und erweiterte Funktionen zu erhalten, oder auf Abbrechen klicken, um es nach dem nächsten Start automatisch abzubrechen.</string>
+  <string name="doNotRemindAgain">Erinnere dich nicht noch einmal</string>
 </resources>

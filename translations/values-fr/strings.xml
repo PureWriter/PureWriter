@@ -287,7 +287,7 @@
   <string name="currentChapter">Chapitre actif</string>
   <string name="currentText">Texte actif</string>
   <string name="currentBook">Livre actif</string>
-  <string name="ignoreCase">Ignorer le cas</string>
+  <string name="ignoreCase">Ignorer la casse</string>
   <string name="selectAll">Sélectionner tout</string>
   <string name="inverseAll">Inverser tout</string>
   <string name="replaceConfirmMessage">Êtes-vous sûrs de remplacer le(s) %d endroit(s) sélectionnés?</string>
@@ -460,9 +460,8 @@
   <string name="proExpired">Pro expiré</string>
   <string name="useLegacyRender">Utiliser le rendu hérité</string>
   <string name="changelog">Changelog</string>
-  <string name="fabContextReadOnlyMode">Mode lecture seule</string>
+  <string name="advancedReadOnlyMode">Mode avancé en lecture seule</string>
   <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Nouvel article au bas de la catégorie actuelle</string>
-  <string name="tipForLongPressFab">Astuce: appuyez longuement sur le bouton ㊉ pour \nplus de nouveaux éléments de menu d\'article et le mode lecture seule</string>
   <string name="needOpenArticleFirst">Vous devez d\'abord ouvrir un article pour utiliser cette option</string>
   <string name="restoreArticleScrollPosition">Restaurer la position de défilement de l\'article</string>
   <string name="summaryScrollToBottom">Afficher ou non ce bouton sur l\'éditeur</string>
@@ -497,4 +496,8 @@
 
         Vous pouvez également consulter le **tableau** dans cette [page de document](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) pour plus de **spécificateur de format** et une combinaison gratuite.
     ]]></string>
+  <string name="read">Lis</string>
+  <string name="introductionOfReadOnlyMode">* Lorsque le clavier virtuel est fermé, un double-clic est nécessaire pour placer le curseur et passer en mode édition.\n* Lorsque le clavier virtuel est affiché, la position du curseur peut être éditée ou modifiée en un seul clic.</string>
+  <string name="messageReadOnlyModeAndPro">Le mode avancé en lecture seule nécessite Pure Writer Pro. Vous pouvez cliquer sur OK pour obtenir Pure Writer Pro et des fonctionnalités plus avancées, ou cliquez sur Annuler pour l\'annuler automatiquement après le prochain lancement.</string>
+  <string name="doNotRemindAgain">Ne me rappelle plus</string>
 </resources>

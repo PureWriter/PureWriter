@@ -505,6 +505,8 @@
   <string name="signedIn">Signed in</string>
   <string name="emailOrPasswordIsIncorrect">The email or password is incorrect</string>
   <string name="messageCustomFontAndPro">Checked that you are using the "Custom Font", which requires Pure Writer Pro. You can click OK to get Pure Writer Pro and more advanced features, or click to cancel Custom Font (will take effect in next launching).</string>
+  <string name="introductionOfReadOnlyMode">* When the soft keyboard is closed, double-clicking is required to place the cursor and enter edit mode.\n* When the soft keyboard is shown, the cursor position can be edited or modified with a single click.</string>
+  <string name="messageReadOnlyModeAndPro">The Advanced Read-only Mode requires Pure Writer Pro. You can click OK to get Pure Writer Pro and more advanced features, or click Cancel to automatically cancel it after the next launching.</string>
   <string name="hasReadProReadme" translatable="false">已了解并同意《<u>会员须知</u>》</string>
   <string name="messageNeedToPay">This is a Pro feature. You need to pay for Pure Writer Pro before you can use it. Click OK to learn about all the advanced features of Pure Writer Pro. When you get Pure Writer Pro, you can use all the advanced features.</string>
   <string name="notYetActivated">Not yet activated</string>
@@ -519,9 +521,8 @@
   <string name="expiresOn">Expires on:</string>
   <string name="useLegacyRender">Use legacy renderer</string>
   <string name="changelog">Changelog</string>
-  <string name="fabContextReadOnlyMode">Read-only mode</string>
+  <string name="advancedReadOnlyMode">Advanced read-only mode</string>
   <string name="needOpenArticleFirst">You need to open an article first to use this option</string>
-  <string name="tipForLongPressFab">Tip: Long press the ㊉ button for \nmore new article menu items and Read-only mode</string>
   <string name="restoreArticleScrollPosition">Restore article scroll position</string>
   <string name="savedStateModeAuto">Auto (the last edited article will be restored next time; non-last edited article will be restored if it is within one week from the last open time, otherwise it will return to the top)</string>
   <string name="savedStateModeEnableAll">Anyway, enabled for all articles</string>
@@ -563,4 +564,6 @@
 
         You can also check the **table** in this [document page] (https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) for more **format specifier** and free combination.
     ]]></string>
+    <string name="read">Read</string>
+  <string name="doNotRemindAgain">Don\'t remind again</string>
 </resources>

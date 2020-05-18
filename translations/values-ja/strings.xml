@@ -275,7 +275,7 @@
   <string name="find">検索</string>
   <string name="currentChapter">現在の章</string>
   <string name="currentBook">現在の本</string>
-  <string name="ignoreCase">ケースを無視</string>
+  <string name="ignoreCase">大文字/小文字を無視</string>
   <string name="selectAll">すべて選択</string>
   <string name="replaceConfirmMessage">選択した%dか所を置き換えますか？</string>
   <string name="tipUndoReplace">元に戻す：\n*あなたは、Pure Writer - 設定 - バックアップ - 復元バックアップへ行き、前のバックアップをクリックして前の内容に復元することができます。\n*現在の章を置き換えたばかりの場合は、右上のメニューから[履歴]ページに移動して前の内容に戻ることができます。</string>
@@ -387,7 +387,7 @@
   <string name="account">アカウント</string>
   <string name="privilegeOfPureWriterPro">Pure Writer Proの特権</string>
   <string name="messageCustomFontAndPro">Pure Writer Proを必要とするカスタムフォントを使用していることを確認しました。 [OK]をクリックしてPure Writer Proおよびより高度な機能を取得するか、クリックしてカスタムフォントをキャンセルします（次回の起動時に有効になります）。</string>
-  <string name="messageNeedToPay">これはProの機能です。 Pure Writer Proを使用する前に料金を支払う必要があります。 [OK]をクリックして、PureWriterProのすべての高度な機能について学習します。 Pure Writer Proを入手すると、すべての高度な機能を使用できます。</string>
+  <string name="messageNeedToPay">これはProの機能です。 Pure Writer Proを使用する前に料金を支払う必要があります。 [OK]をクリックして、Pure Writer Proのすべての高度な機能について学習します。 Pure Writer Proを入手すると、すべての高度な機能を使用できます。</string>
   <string name="notYetActivated">まだ有効化されていません</string>
   <string name="notYetActivatedOrExpired">アクティブ化されていないか、期限切れです</string>
   <string name="ProIntroductionMarkdown"><![CDATA[
@@ -450,9 +450,8 @@
   <string name="proExpired">Proの有効期限が切れました</string>
   <string name="useLegacyRender">レガシーレンダラーを使用する</string>
   <string name="changelog">変更ログ</string>
-  <string name="fabContextReadOnlyMode">読み取り専用モード</string>
+  <string name="advancedReadOnlyMode">高度な読み取り専用モード</string>
   <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">現在のカテゴリの下部にある 新しい記事</string>
-  <string name="tipForLongPressFab">ヒント：新しい記事メニュー項目と読み取り\n専用モードを使用するには、㊉ボタンを長押しします</string>
   <string name="needOpenArticleFirst">このオプションを使用するには、まず記事を開く必要があります</string>
   <string name="restoreArticleScrollPosition">記事のスクロール位置を復元する</string>
   <string name="summaryScrollToBottom">このボタンをエディターに表示するかどうか</string>
@@ -488,4 +487,8 @@
 
         この[ドキュメントページ](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html)の表で、形式指定子と自由な組み合わせを確認することもできます。
     ]]></string>
+  <string name="read">読んだ</string>
+  <string name="introductionOfReadOnlyMode">※ソフトキーボードを閉じた状態で、カーソルを合わせて編集モードに入るにはダブルクリックが必要です。\n*ソフトキーボードが表示されているときは、カーソル位置をワンクリックで編集または変更できます。</string>
+  <string name="messageReadOnlyModeAndPro">高度な読み取り専用モードにはPure Writer Proが必要です。 [OK]をクリックしてPure Writer Proおよびより高度な機能を取得するか、[キャンセル]をクリックして次の起動後に自動的にキャンセルすることができます。</string>
+  <string name="doNotRemindAgain">もう思い出させないで</string>
 </resources>

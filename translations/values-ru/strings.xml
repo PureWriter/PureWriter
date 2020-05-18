@@ -275,7 +275,7 @@
   <string name="find">найти</string>
   <string name="currentChapter">Текущая глава</string>
   <string name="currentBook">Текущая книга</string>
-  <string name="ignoreCase">Игнорировать дело</string>
+  <string name="ignoreCase">без учёта регистра</string>
   <string name="selectAll">Выбрать все</string>
   <string name="replaceConfirmMessage">Вы уверены, что заменить выбранные %d мест?</string>
   <string name="tipUndoReplace">Отменить:\n* Вы можете перейти к Pure Writer - Настройки - Резервное копирование - Восстановить резервную копию, нажмите на предыдущую резервную копию, чтобы восстановить предыдущее содержимое.\n* Если вы только что заменили текущую главу, вы можете перейти на страницу истории через верхнее правое меню и вернуться к предыдущему содержанию.</string>
@@ -387,7 +387,7 @@
   <string name="account">Аккаунт</string>
   <string name="privilegeOfPureWriterPro">Привилегия Pure Writer Pro</string>
   <string name="messageCustomFontAndPro">Проверено, что вы используете пользовательский шрифт, для которого требуется Pure Writer Pro. Вы можете нажать OK, чтобы получить Pure Writer Pro и другие расширенные функции, или нажать, чтобы отменить пользовательский шрифт (вступит в силу при следующем запуске).</string>
-  <string name="messageNeedToPay">Это Pro функция. Вам нужно заплатить за Pure Writer Pro, прежде чем вы сможете его использовать. Нажмите OK, чтобы узнать обо всех расширенных функциях PureWriterPro. Когда вы получаете Pure Writer Pro, вы можете использовать все расширенные функции.</string>
+  <string name="messageNeedToPay">Это Pro функция. Вам нужно заплатить за Pure Writer Pro, прежде чем вы сможете его использовать. Нажмите OK, чтобы узнать обо всех расширенных функциях Pure Writer Pro. Когда вы получаете Pure Writer Pro, вы можете использовать все расширенные функции.</string>
   <string name="notYetActivated">Еще не активирован</string>
   <string name="notYetActivatedOrExpired">Не активирован или просрочен</string>
   <string name="ProIntroductionMarkdown"><![CDATA[
@@ -450,9 +450,8 @@
   <string name="proExpired">Pro истек</string>
   <string name="useLegacyRender">Использовать устаревший рендер</string>
   <string name="changelog">Изменения</string>
-  <string name="fabContextReadOnlyMode">Режим только для чтения</string>
+  <string name="advancedReadOnlyMode">Расширенный режим только для чтения</string>
   <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Новая статья внизу текущей категории</string>
-  <string name="tipForLongPressFab">Совет. Длительно нажмите кнопку ㊉, \nчтобы открыть новые пункты меню и режим «Только чтение».</string>
   <string name="needOpenArticleFirst">Вы должны сначала открыть статью, чтобы использовать эту опцию</string>
   <string name="restoreArticleScrollPosition">Восстановить позицию прокрутки статьи</string>
   <string name="summaryScrollToBottom">Показывать ли эту кнопку в редакторе</string>
@@ -474,4 +473,8 @@
   <string name="duplicate">Дублированный</string>
   <string name="lowCloudFreeStorageSpaceWarning">Ваш %1$s имеет только %2$d МБ свободного хранилища, что может привести к тому, что Pure Writer сохранит данные или произойдет сбой резервного копирования в облако. Пожалуйста, очистите и оставьте больше %3$d МБ перед использованием Pure Writer!</string>
   <string name="unlimitedStorage">Неограниченное хранилище</string>
+  <string name="read">Читать</string>
+  <string name="introductionOfReadOnlyMode">* Когда софт-клавиатура закрыта, необходимо дважды щелкнуть мышью, чтобы поместить курсор и войти в режим редактирования.\n* При отображении софт-клавиатуры позицию курсора можно редактировать или изменять одним щелчком мыши.</string>
+  <string name="messageReadOnlyModeAndPro">Расширенный режим только для чтения требует Pure Writer Pro. Вы можете нажать OK, чтобы получить Pure Writer Pro и другие расширенные функции, или нажать Отмена, чтобы автоматически отменить его после следующего запуска.</string>
+  <string name="doNotRemindAgain">Не напоминай снова</string>
 </resources>
