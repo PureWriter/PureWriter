@@ -488,7 +488,13 @@
         この[ドキュメントページ](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html)の表で、形式指定子と自由な組み合わせを確認することもできます。
     ]]></string>
   <string name="read">読んだ</string>
-  <string name="introductionOfReadOnlyMode">※ソフトキーボードを閉じた状態で、カーソルを合わせて編集モードに入るにはダブルクリックが必要です。\n*ソフトキーボードが表示されているときは、カーソル位置をワンクリックで編集または変更できます。</string>
+  <string name="introductionOfReadOnlyMode">* カーソルが表示されていない場合は、ダブルクリックしてカーソルを配置し、編集モードにする必要があります。\n* カーソルが表示されている場合は、ワンクリックでテキストの編集や修正が可能です。\n* カーソルが表示されている状態で、Back キーを押すとカーソルが非表示になり、読み取り専用モードになります。</string>
   <string name="messageReadOnlyModeAndPro">高度な読み取り専用モードにはPure Writer Proが必要です。 [OK]をクリックしてPure Writer Proおよびより高度な機能を取得するか、[キャンセル]をクリックして次の起動後に自動的にキャンセルすることができます。</string>
   <string name="doNotRemindAgain">もう思い出させないで</string>
+  <string name="fabOverflowModeSingleClick">シングルクリックでポップアップメニューを開き、メニューで記事を作成することを選択できます</string>
+  <string name="fabOverflowModeLongPress">シングルクリックで直接記事を作成し、長押ししてポップアップメニューを開きます</string>
+  <string name="homeFab">ホームフローティングアクションボタンモード</string>
+  <string name="safeMode">セーフモード</string>
+  <string name="summarySafeMode">このアプリがバックグラウンドまたは最近のタスクリストページに入ると、このアプリのコンテンツは不明瞭または非表示になります。 このアイテムをオンにすると、アプリ内のスクリーンショットも禁止されます</string>
+  <string name="pressBackToClearCursor">カーソルが非表示になり、読み取り専用モードになります</string>
 </resources>

@@ -515,7 +515,13 @@
         Você também pode verificar a **tabela** neste [página do documento](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) para mais **format specifier** e combinação livre.
     ]]></string>
   <string name="read">Leia</string>
-  <string name="introductionOfReadOnlyMode">* Quando o teclado soft é fechado, é necessário um duplo clique para colocar o cursor e entrar no modo de edição.\n* Quando o teclado suave é mostrado, a posição do cursor pode ser editada ou modificada com um único clique.</string>
+  <string name="introductionOfReadOnlyMode">* Quando o cursor não está visível, é necessário clicar duas vezes para colocar o cursor e entrar no modo de edição\n* Quando o cursor estiver visível, o texto pode ser editado ou modificado com um único clique\n* Quando o cursor estiver visível, você pode pressionar a tecla Voltar para ocultar o cursor e entrar no modo somente leitura</string>
   <string name="messageReadOnlyModeAndPro">O modo avançado somente leitura requer o Pure Writer Pro. Você pode clicar em OK para obter o Pure Writer Pro e recursos mais avançados, ou clicar em Cancelar para cancelá-lo automaticamente após o próximo lançamento.</string>
   <string name="doNotRemindAgain">Não lembre de novo</string>
+  <string name="homeFab">Botão de Ação Flutuante Home Modo</string>
+  <string name="fabOverflowModeSingleClick">Clique uma vez para abrir o menu pop-up, e você pode optar por criar um artigo no menu</string>
+  <string name="fabOverflowModeLongPress">Clique um único clique para criar um artigo diretamente, e pressione por muito tempo para abrir o menu pop-up</string>
+  <string name="safeMode">Modo Seguro</string>
+  <string name="summarySafeMode">Quando este aplicativo entrar na página de fundo ou da lista de tarefas recente, o conteúdo deste aplicativo será obscurecido ou escondido; quando este item for ligado, screenshots no aplicativo também serão proibidos</string>
+  <string name="pressBackToClearCursor">Cursor é escondido e inserido no modo somente leitura</string>
 </resources>

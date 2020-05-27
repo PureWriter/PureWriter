@@ -493,7 +493,13 @@
         También puede consultar la **tabla** en esta [página del documento](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) para obtener más **especificador de formato** y combinación gratuita.
     ]]></string>
   <string name="read">Leer</string>
-  <string name="introductionOfReadOnlyMode">* Cuando se cierra el teclado blando, es necesario hacer doble clic para colocar el cursor y entrar en el modo de edición.\n* Cuando se muestra el teclado blando, la posición del cursor puede editarse o modificarse con un solo clic.</string>
+  <string name="introductionOfReadOnlyMode">* Cuando el cursor no está visible, se requiere un doble clic para colocar el cursor y entrar en el modo de edición\n* Cuando el cursor es visible, el texto puede ser editado o modificado con un solo clic\n* Cuando el cursor está visible, puede pulsar la tecla Back para ocultar el cursor y entrar en el modo de sólo lectura</string>
   <string name="messageReadOnlyModeAndPro">El modo avanzado de solo lectura requiere Pure Writer Pro. Puede hacer clic en Aceptar para obtener Pure Writer Pro y características más avanzadas, o hacer clic en Cancelar para cancelarlo automáticamente después del próximo lanzamiento.</string>
   <string name="doNotRemindAgain">No lo recuerdes de nuevo</string>
+  <string name="fabOverflowModeSingleClick">Haga un solo clic para abrir el menú emergente y puede elegir crear un artículo en el menú</string>
+  <string name="fabOverflowModeLongPress">Haga un solo clic para crear un artículo directamente y mantenga presionado para abrir el menú emergente</string>
+  <string name="homeFab">Modo de botón de acción flotante de inicio</string>
+  <string name="safeMode">Modo seguro</string>
+  <string name="summarySafeMode">Cuando esta aplicación ingrese a la página de fondo o lista de tareas recientes, el contenido de esta aplicación estará oculto u oculto; cuando este elemento está activado, las capturas de pantalla en la aplicación también estarán prohibidas</string>
+  <string name="pressBackToClearCursor">El cursor está oculto y entró en modo de solo lectura</string>
 </resources>

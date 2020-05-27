@@ -521,7 +521,13 @@
         您也可以透過查閱這個 [文件頁面](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) 中的 **表格** 來獲取更多 **時間格式符** 並自由組合。
     ]]></string>
   <string name="read">查看</string>
-  <string name="introductionOfReadOnlyMode">* 當軟鍵盤收起時，需要雙擊才能置入游標並進入編輯模式。\n* 當軟鍵盤顯示時，只需要單擊即可編輯或修改游標位置。</string>
+  <string name="introductionOfReadOnlyMode">* 當游標不可見時，需要雙擊編輯器才能置入游標並進入編輯模式\n* 當游標可見時，無論如何，只需單擊即可編輯或修改游標位置\n* 當游標可見時 同時 軟鍵盤已收起，可以按「返回鍵」來隱藏游標並進入唯讀模式</string>
   <string name="messageReadOnlyModeAndPro">這個「進階唯讀模式」需要純純寫作 Pro，你可以點擊確定進入純純寫作 Pro 介紹頁面和獲取更多進階版功能，或者點擊取消（將在下次啟動後自動取消「進階唯讀模式」）。</string>
   <string name="doNotRemindAgain">不再提示</string>
+  <string name="homeFab">首頁右下角懸浮按鈕</string>
+  <string name="fabOverflowModeSingleClick">單擊打開二級選單，在二級選單中可選擇建立文章，避免誤觸</string>
+  <string name="fabOverflowModeLongPress">單擊即可直接建立文章，而長按才打開二級選單</string>
+  <string name="safeMode">安全模式</string>
+  <string name="summarySafeMode">當純純寫作進入後台或最近任務列表頁面，模糊化其頁面內容；開啟此項後將同時禁止在應用內截圖</string>
+  <string name="pressBackToClearCursor">已隱藏游標並進入唯讀模式</string>
 </resources>

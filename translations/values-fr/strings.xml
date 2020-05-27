@@ -497,7 +497,13 @@
         Vous pouvez également consulter le **tableau** dans cette [page de document](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) pour plus de **spécificateur de format** et une combinaison gratuite.
     ]]></string>
   <string name="read">Lis</string>
-  <string name="introductionOfReadOnlyMode">* Lorsque le clavier virtuel est fermé, un double-clic est nécessaire pour placer le curseur et passer en mode édition.\n* Lorsque le clavier virtuel est affiché, la position du curseur peut être éditée ou modifiée en un seul clic.</string>
+  <string name="introductionOfReadOnlyMode">* Lorsque le curseur n\'est pas visible, un double-clic est nécessaire pour placer le curseur et passer en mode édition\n* Lorsque le curseur est visible, le texte peut être édité ou modifié d\'un simple clic\n* Lorsque le curseur est visible, vous pouvez appuyer sur la touche Retour pour le masquer et passer en mode lecture seule</string>
   <string name="messageReadOnlyModeAndPro">Le mode avancé en lecture seule nécessite Pure Writer Pro. Vous pouvez cliquer sur OK pour obtenir Pure Writer Pro et des fonctionnalités plus avancées, ou cliquez sur Annuler pour l\'annuler automatiquement après le prochain lancement.</string>
   <string name="doNotRemindAgain">Ne me rappelle plus</string>
+  <string name="fabOverflowModeSingleClick">Un simple clic pour ouvrir le menu contextuel et vous pouvez choisir de créer un article dans le menu</string>
+  <string name="fabOverflowModeLongPress">Un simple clic pour créer un article directement et un appui long pour ouvrir le menu contextuel</string>
+  <string name="homeFab">Mode bouton d\'action flottant à domicile</string>
+  <string name="safeMode">Mode sécurisé</string>
+  <string name="summarySafeMode">Lorsque cette application entre en arrière-plan ou sur la page de la liste des tâches récentes, le contenu de cette application sera masqué ou masqué; lorsque cet élément est activé, les captures d\'écran de l\'application seront également interdites</string>
+  <string name="pressBackToClearCursor">Le curseur est masqué et est entré en mode lecture seule</string>
 </resources>

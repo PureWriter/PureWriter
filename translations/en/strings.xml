@@ -505,7 +505,7 @@
   <string name="signedIn">Signed in</string>
   <string name="emailOrPasswordIsIncorrect">The email or password is incorrect</string>
   <string name="messageCustomFontAndPro">Checked that you are using the "Custom Font", which requires Pure Writer Pro. You can click OK to get Pure Writer Pro and more advanced features, or click to cancel Custom Font (will take effect in next launching).</string>
-  <string name="introductionOfReadOnlyMode">* When the soft keyboard is closed, double-clicking is required to place the cursor and enter edit mode.\n* When the soft keyboard is shown, the cursor position can be edited or modified with a single click.</string>
+  <string name="introductionOfReadOnlyMode">* When the cursor is NOT visible, double-clicking is required to place the cursor and enter edit mode\n* When the cursor is visible, the text can be edited or modified with a single click any way\n* When the cursor is visible, you can press the Back key to hide the cursor and enter Read-only mode</string>
   <string name="messageReadOnlyModeAndPro">The Advanced Read-only Mode requires Pure Writer Pro. You can click OK to get Pure Writer Pro and more advanced features, or click Cancel to automatically cancel it after the next launching.</string>
   <string name="hasReadProReadme" translatable="false">已了解并同意《<u>会员须知</u>》</string>
   <string name="messageNeedToPay">This is a Pro feature. You need to pay for Pure Writer Pro before you can use it. Click OK to learn about all the advanced features of Pure Writer Pro. When you get Pure Writer Pro, you can use all the advanced features.</string>
@@ -566,4 +566,10 @@
     ]]></string>
     <string name="read">Read</string>
   <string name="doNotRemindAgain">Don\'t remind again</string>
+  <string name="homeFab">Home Floating Action button Mode</string>
+  <string name="fabOverflowModeSingleClick">Single-click to open the pop-up menu, and you can choose to create an article in the menu</string>
+  <string name="fabOverflowModeLongPress">Single-click to create an article directly, and long press to open the pop-up menu</string>
+  <string name="safeMode">Safe mode</string>
+  <string name="summarySafeMode">When this App enters the background or recent task list page, the content of this App will be obscured or hidden; when this item is turned on, screenshots in the App will also be prohibited</string>
+  <string name="pressBackToClearCursor">Cursor is hidden and entered Read-only mode</string>
 </resources>

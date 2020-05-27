@@ -489,7 +489,13 @@
         U kunt ook de tabel op deze [documentpagina](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) raadplegen voor meer formaatspecificatie en gratis combinatie.
     ]]></string>
   <string name="read">Lees</string>
-  <string name="introductionOfReadOnlyMode">* Als het soft-toetsenbord is gesloten, is dubbelklikken vereist om de cursor te plaatsen en de bewerkingsmodus te openen.\n* Als het soft-toetsenbord wordt weergegeven, kan de cursorpositie met een enkele klik worden bewerkt of gewijzigd.</string>
+  <string name="introductionOfReadOnlyMode">* Wanneer de cursor niet zichtbaar is, moet u dubbelklikken om de cursor te plaatsen en naar de bewerkingsmodus te gaan.\n* Wanneer de cursor zichtbaar is, kan de tekst met een enkele klik worden bewerkt of gewijzigd.\n* Wanneer de cursor zichtbaar is, kunt u op de toets Terug drukken om de cursor te verbergen en naar de alleen-lezen-modus te gaan.</string>
   <string name="messageReadOnlyModeAndPro">Voor de geavanceerde modus Alleen-lezen is Pure Writer Pro vereist. U kunt op OK klikken om Pure Writer Pro en meer geavanceerde functies te krijgen, of op Annuleren om het automatisch te annuleren na de volgende lancering.</string>
   <string name="doNotRemindAgain">Herinner het niet opnieuw</string>
+  <string name="fabOverflowModeSingleClick">Eén keer klikken om het pop-upmenu te openen en u kunt ervoor kiezen om een artikel in het menu te maken</string>
+  <string name="fabOverflowModeLongPress">Eén keer klikken om rechtstreeks een artikel te maken en lang indrukken om het pop-upmenu te openen</string>
+  <string name="homeFab">Home zwevende actieknopmodus</string>
+  <string name="safeMode">Veilige modus</string>
+  <string name="summarySafeMode">Wanneer deze app de achtergrond of recente takenlijstpagina betreedt, wordt de inhoud van deze app verduisterd of verborgen; wanneer dit item is ingeschakeld, zijn screenshots in de app ook verboden</string>
+  <string name="pressBackToClearCursor">Cursor is verborgen en komt in de alleen-lezen modus</string>
 </resources>

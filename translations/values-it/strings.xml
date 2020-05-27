@@ -498,7 +498,13 @@
         Puoi anche controllare la tabella in questa [pagina del documento](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) per ulteriori identificatori di formato e combinazioni gratuite.
     ]]></string>
   <string name="read">Leggere</string>
-  <string name="introductionOfReadOnlyMode">* Quando la tastiera software è chiusa, è necessario fare doppio clic per posizionare il cursore e accedere alla modalità di modifica.\n* Quando viene visualizzata la tastiera virtuale, la posizione del cursore può essere modificata o modificata con un solo clic.</string>
+  <string name="introductionOfReadOnlyMode">* Quando il cursore non è visibile, è necessario fare doppio clic per posizionare il cursore e accedere alla modalità di modifica\n* Quando il cursore è visibile, il testo può essere modificato o modificato con un solo clic\n* Quando il cursore è visibile, è possibile premere il tasto Indietro per nascondere il cursore e accedere alla modalità di sola lettura</string>
   <string name="messageReadOnlyModeAndPro">La modalità di sola lettura avanzata richiede Pure Writer Pro. È possibile fare clic su OK per ottenere Pure Writer Pro e funzionalità più avanzate oppure fare clic su Annulla per annullarlo automaticamente dopo il successivo avvio.</string>
   <string name="doNotRemindAgain">Non ricordare più</string>
+  <string name="fabOverflowModeSingleClick">Fai clic singolo per aprire il menu a comparsa e puoi scegliere di creare un articolo nel menu</string>
+  <string name="fabOverflowModeLongPress">Fai clic singolo per creare direttamente un articolo e premi a lungo per aprire il menu a comparsa</string>
+  <string name="homeFab">Modalità pulsante di azione mobile home</string>
+  <string name="safeMode">Modalità provvisoria</string>
+  <string name="summarySafeMode">Quando questa App entra in background o nella pagina dell\'elenco delle attività recenti, il contenuto di questa App verrà oscurato o nascosto; quando questa voce è attiva, anche gli screenshot nell\'app saranno proibiti</string>
+  <string name="pressBackToClearCursor">Il cursore è nascosto ed è entrato in modalità di sola lettura</string>
 </resources>

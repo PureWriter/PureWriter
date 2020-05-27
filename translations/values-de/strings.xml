@@ -484,7 +484,13 @@
         Sie können auch die **Tabelle** auf dieser [Dokumentseite](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) auf weitere **Formatbezeichner** und kostenlose Kombinationen überprüfen.
     ]]></string>
   <string name="read">Lesen</string>
-  <string name="introductionOfReadOnlyMode">* Wenn die Softtastatur geschlossen ist, ist ein Doppelklick erforderlich, um den Cursor zu platzieren und den Bearbeitungsmodus aufzurufen.\n* Wenn die Softtastatur angezeigt wird, kann die Cursorposition mit einem einzigen Klick bearbeitet oder geändert werden.</string>
+  <string name="introductionOfReadOnlyMode">* Wenn der Cursor nicht sichtbar ist, ist ein Doppelklick erforderlich, um den Cursor zu platzieren und in den Bearbeitungsmodus zu gelangen.\n* Wenn der Cursor sichtbar ist, kann der Text mit einem einzigen Klick bearbeitet oder geändert werden.\n* Wenn der Cursor sichtbar ist, können Sie die Zurück-Taste drücken, um den Cursor auszublenden und den Nur-Lese-Modus zu aktivieren.</string>
   <string name="messageReadOnlyModeAndPro">Für den erweiterten schreibgeschützten Modus ist Pure Writer Pro erforderlich. Sie können auf OK klicken, um Pure Writer Pro und erweiterte Funktionen zu erhalten, oder auf Abbrechen klicken, um es nach dem nächsten Start automatisch abzubrechen.</string>
   <string name="doNotRemindAgain">Erinnere dich nicht noch einmal</string>
+  <string name="fabOverflowModeSingleClick">Klicken Sie einmal, um das Popup-Menü zu öffnen, und Sie können einen Artikel im Menü erstellen</string>
+  <string name="fabOverflowModeLongPress">Klicken Sie einmal, um einen Artikel direkt zu erstellen, und drücken Sie lange, um das Popup-Menü zu öffnen</string>
+  <string name="homeFab">Home Floating Action Button-Modus</string>
+  <string name="safeMode">Abgesicherter Modus</string>
+  <string name="summarySafeMode">Wenn diese App den Hintergrund oder die Seite mit den letzten Aufgabenlisten aufruft, wird der Inhalt dieser App verdeckt oder ausgeblendet. Wenn dieses Element aktiviert ist, sind auch Screenshots in der App verboten</string>
+  <string name="pressBackToClearCursor">Der Cursor ist ausgeblendet und wechselt in den schreibgeschützten Modus</string>
 </resources>
