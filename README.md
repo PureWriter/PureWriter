@@ -10,4 +10,6 @@ https://writer.drakeet.com/backups_zh
 
 https://writer.drakeet.com/backups_en
 
+Telegram Channel: https://t.me/PureWriter
+
 All right reserved.
