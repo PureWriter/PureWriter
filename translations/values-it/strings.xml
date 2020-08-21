@@ -507,4 +507,14 @@
   <string name="safeMode">Modalità provvisoria</string>
   <string name="summarySafeMode">Quando questa App entra in background o nella pagina dell\'elenco delle attività recenti, il contenuto di questa App verrà oscurato o nascosto; quando questa voce è attiva, anche gli screenshot nell\'app saranno proibiti</string>
   <string name="pressBackToClearCursor">Il cursore è nascosto ed è entrato in modalità di sola lettura</string>
+  <string name="cursorJoyTutorial">Tenere premuto questo pulsante e muovere il dito per controllare il movimento del cursore</string>
+  <string name="tipBlueInputBox">Suggerimento: dopo aver inserito, premere il tasto Invio ⏎ per saltare fuori dalla casella di input blu</string>
+  <string name="defaultShorcut1">\"\"</string>
+  <string name="textShortcut">Scorciatoia di testo</string>
+  <string name="copyCurrent">Copia il testo completo selezionato o corrente</string>
+  <string name="formatterAction">Formato</string>
+  <string name="scrollToTop">Scorri in alto</string>
+  <string name="orSelectShortcutFunction">Oppure seleziona la funzione</string>
+  <string name="joyNotSupportTitleNow">Questa funzione non è attualmente supportata nel titolo</string>
+  <string name="blueInputBox">Casella di input blu</string>
 </resources>

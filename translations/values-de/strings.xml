@@ -493,4 +493,14 @@
   <string name="safeMode">Abgesicherter Modus</string>
   <string name="summarySafeMode">Wenn diese App den Hintergrund oder die Seite mit den letzten Aufgabenlisten aufruft, wird der Inhalt dieser App verdeckt oder ausgeblendet. Wenn dieses Element aktiviert ist, sind auch Screenshots in der App verboten</string>
   <string name="pressBackToClearCursor">Der Cursor ist ausgeblendet und wechselt in den schreibgeschützten Modus</string>
+  <string name="cursorJoyTutorial">Halten Sie diese Taste gedrückt und bewegen Sie Ihren Finger, um die Cursorbewegung zu steuern</string>
+  <string name="tipBlueInputBox">Tipp: Drücken Sie nach der Eingabe die Eingabetaste ⏎, um aus dem blauen Eingabefeld zu springen</string>
+  <string name="defaultShorcut1">\"\"</string>
+  <string name="textShortcut">Textverknüpfung</string>
+  <string name="copyCurrent">Kopieren Sie den ausgewählten oder aktuellen Volltext</string>
+  <string name="formatterAction">Format</string>
+  <string name="scrollToTop">Scrolle nach oben</string>
+  <string name="orSelectShortcutFunction">Oder Funktion auswählen</string>
+  <string name="joyNotSupportTitleNow">Diese Funktion wird derzeit im Titel nicht unterstützt</string>
+  <string name="blueInputBox">Blaues Eingabefeld</string>
 </resources>

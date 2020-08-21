@@ -535,4 +535,18 @@
   <string name="safeMode">安全模式</string>
   <string name="summarySafeMode">当纯纯写作进入后台或最近任务列表页面，模糊化其页面内容；开启此项后将同时禁止在应用内截图</string>
   <string name="pressBackToClearCursor">已隐藏光标并进入只读模式</string>
+  <string name="PureWriterManual">《纯纯写作使用手册》</string>
+  <string name="cursorJoyTutorial">按住这个按钮移动手指\n可控制光标移动</string>
+  <string name="tipBlueInputBox">提示：输入完成后，按回车键 ⏎ 可跳出蓝色的填充框</string>
+  <string name="defaultShorcut1">“”</string>
+  <string name="defaultShorcut2">「」</string>
+  <string name="defaultShorcut3">（）</string>
+  <string name="copyCurrent">复制选择的文本或当前全文</string>
+  <string name="textShortcut">文字快捷输入项</string>
+  <string name="formatterAction">一键排版</string>
+  <string name="scrollToTop">聚焦到顶部</string>
+  <string name="orSelectShortcutFunction">或选择快捷功能</string>
+  <string name="cursorJoy">移动光标</string>
+  <string name="joyNotSupportTitleNow">该选项目前仅支持在正文中使用</string>
+  <string name="blueInputBox">蓝色填字框</string>
 </resources>

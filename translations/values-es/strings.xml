@@ -502,4 +502,14 @@
   <string name="safeMode">Modo seguro</string>
   <string name="summarySafeMode">Cuando esta aplicación ingrese a la página de fondo o lista de tareas recientes, el contenido de esta aplicación estará oculto u oculto; cuando este elemento está activado, las capturas de pantalla en la aplicación también estarán prohibidas</string>
   <string name="pressBackToClearCursor">El cursor está oculto y entró en modo de solo lectura</string>
+  <string name="cursorJoyTutorial">Mantenga presionado este botón y mueva su dedo para controlar el movimiento del cursor</string>
+  <string name="tipBlueInputBox">Consejo: Después de introducir los datos, pulse la tecla Intro ⏎ para salir del cuadro de entrada azul.</string>
+  <string name="defaultShorcut1">\"\"</string>
+  <string name="textShortcut">Atajo de texto</string>
+  <string name="copyCurrent">Copiar texto completo seleccionado o actual</string>
+  <string name="formatterAction">Formato</string>
+  <string name="scrollToTop">Vuelve al comienzo</string>
+  <string name="orSelectShortcutFunction">O seleccione la función de atajo</string>
+  <string name="joyNotSupportTitleNow">Actualmente, esta función no es compatible con el título.</string>
+  <string name="blueInputBox">Caja de entrada azul</string>
 </resources>

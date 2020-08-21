@@ -498,4 +498,14 @@
   <string name="safeMode">Veilige modus</string>
   <string name="summarySafeMode">Wanneer deze app de achtergrond of recente takenlijstpagina betreedt, wordt de inhoud van deze app verduisterd of verborgen; wanneer dit item is ingeschakeld, zijn screenshots in de app ook verboden</string>
   <string name="pressBackToClearCursor">Cursor is verborgen en komt in de alleen-lezen modus</string>
+  <string name="cursorJoyTutorial">Houd deze knop ingedrukt en beweeg uw vinger om de cursorbeweging te besturen</string>
+  <string name="tipBlueInputBox">Tip: druk na het invoeren op Enter ⏎ om uit het blauwe invoervak te springen</string>
+  <string name="defaultShorcut1">\"\"</string>
+  <string name="textShortcut">Tekstsnelkoppeling</string>
+  <string name="copyCurrent">Kopieer geselecteerde of huidige volledige tekst</string>
+  <string name="formatterAction">Formaat</string>
+  <string name="scrollToTop">Scroll naar boven</string>
+  <string name="orSelectShortcutFunction">Of selecteer een functie</string>
+  <string name="joyNotSupportTitleNow">Deze functie wordt momenteel niet ondersteund in de titel</string>
+  <string name="blueInputBox">Blauw invoerveld</string>
 </resources>

@@ -503,4 +503,14 @@
   <string name="safeMode">Mode aman</string>
   <string name="summarySafeMode">Ketika Aplikasi ini memasuki latar belakang atau halaman daftar tugas terbaru, konten Aplikasi ini akan dikaburkan atau disembunyikan; saat item ini dinyalakan, tangkapan layar di App juga akan dilarang</string>
   <string name="pressBackToClearCursor">Kursor disembunyikan dan masuk ke mode baca-saja</string>
+  <string name="cursorJoyTutorial">Tahan tombol ini dan gerakkan jari Anda untuk mengontrol gerakan kursor</string>
+  <string name="tipBlueInputBox">Tip: Setelah memasukkan, tekan tombol Enter ⏎ untuk melompat keluar dari kotak input biru</string>
+  <string name="defaultShorcut1">\"\"</string>
+  <string name="textShortcut">Pintasan Teks</string>
+  <string name="copyCurrent">Salin teks lengkap yang dipilih atau saat ini</string>
+  <string name="formatterAction">Format</string>
+  <string name="scrollToTop">Gulir ke atas</string>
+  <string name="orSelectShortcutFunction">Atau pilih fungsi pintasan</string>
+  <string name="joyNotSupportTitleNow">Fitur ini saat ini tidak didukung dalam judul</string>
+  <string name="blueInputBox">Kotak masukan biru</string>
 </resources>

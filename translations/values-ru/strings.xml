@@ -483,4 +483,15 @@
   <string name="safeMode">Безопасный режим</string>
   <string name="summarySafeMode">Когда это приложение входит в фоновую страницу или страницу со списком недавних задач, содержимое этого приложения будет скрыто или скрыто; когда этот пункт включен, скриншоты в приложении также будут запрещены</string>
   <string name="pressBackToClearCursor">Курсор скрыт и находится в режиме только для чтения</string>
+  <string name="cursorJoyTutorial">Удерживайте эту кнопку и двигайте пальцем для управления движением курсора</string>
+  <string name="tipBlueInputBox">Совет: После ввода нажмите клавишу Enter ⏎, чтобы выпрыгнуть из синего поля ввода.</string>
+  <string name="defaultShorcut1">\"\"</string>
+  <string name="defaultShorcut2">«»</string>
+  <string name="textShortcut">Текстовый ярлык</string>
+  <string name="copyCurrent">Копировать выделенный или текущий полный текст</string>
+  <string name="formatterAction">Формат</string>
+  <string name="scrollToTop">Пролистать наверх</string>
+  <string name="orSelectShortcutFunction">Или выберите функцию</string>
+  <string name="joyNotSupportTitleNow">Эта функция в настоящее время не поддерживается в названии</string>
+  <string name="blueInputBox">Синее поле ввода</string>
 </resources>

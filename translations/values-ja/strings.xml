@@ -497,4 +497,16 @@
   <string name="safeMode">セーフモード</string>
   <string name="summarySafeMode">このアプリがバックグラウンドまたは最近のタスクリストページに入ると、このアプリのコンテンツは不明瞭または非表示になります。 このアイテムをオンにすると、アプリ内のスクリーンショットも禁止されます</string>
   <string name="pressBackToClearCursor">カーソルが非表示になり、読み取り専用モードになります</string>
+  <string name="cursorJoyTutorial">このボタンを押したまま指を動かして、カーソルの動きを制御します</string>
+  <string name="tipBlueInputBox">ヒント：入力後、Enter ⏎ キーpressを押すと、青色の入力ボックスからジャンプします</string>
+  <string name="defaultShorcut1">『』</string>
+  <string name="defaultShorcut2">「」</string>
+  <string name="defaultShorcut3">（）</string>
+  <string name="textShortcut">テキストショートカット</string>
+  <string name="copyCurrent">選択したテキストまたは現在の全文をコピーする</string>
+  <string name="formatterAction">フォーマット</string>
+  <string name="scrollToTop">トップにスクロールします</string>
+  <string name="orSelectShortcutFunction">または機能を選択</string>
+  <string name="joyNotSupportTitleNow">この機能は現在タイトルではサポートされていません</string>
+  <string name="blueInputBox">青い入力ボックス</string>
 </resources>

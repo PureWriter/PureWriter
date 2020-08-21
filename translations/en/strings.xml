@@ -380,6 +380,7 @@
   <string name="followingBackupsAre">The following are the backups before installing the current version</string>
   <string name="logInToCloudStorage">Log in to cloud storage</string>
   <string name="scrollToBottom">Scroll to bottom</string>
+  <string name="scrollToTop">Scroll to top</string>
   <string name="customColorTipOnShortcutPad">Tip: You can customize the text color of editor in the Settings page.</string>
   <string name="textColor">Text color of Editor</string>
   <string name="textColorSummary">Note: When you switch the Paper, the text color will be automatically reset to the default color.</string>
@@ -512,7 +513,7 @@
   <string name="notYetActivated">Not yet activated</string>
   <string name="notYetActivatedOrExpired">Not activated or expired</string>
   <string name="signingInIsInvalid">Signing In is invalid</string>
-  <string name="messageSigningInIsInvalid" translatable="false">因您在其他设备上登录超过限数（或因为刷机导致设备 ID 变更）或密码变更，当前设备已经失去激活并自动退出登录。\n如果要重新激活此设备，您需要重新登录。</string>
+  <string name="messageSigningInIsInvalid" translatable="false">因您在其他设备上登录超过限数（或因为刷机导致设备 ID 变更）或密码变更，又或者因为您刚进行了恢复备份操作。因此，当前设备已经失去激活并自动退出登录。\n\n如果要重新激活此设备，您需要重新登录。</string>
   <string name="verificationCode">Verification code</string>
   <string name="buyPureWriterPro">Buy Pure Writer Pro</string>
   <string name="tipMarkdownQuickPreview">Swipe horizontally to the next page\nfor Markdown Quick Preview</string>
@@ -572,4 +573,17 @@
   <string name="safeMode">Safe mode</string>
   <string name="summarySafeMode">When this App enters the background or recent task list page, the content of this App will be obscured or hidden; when this item is turned on, screenshots in the App will also be prohibited</string>
   <string name="pressBackToClearCursor">Cursor is hidden and entered Read-only mode</string>
+  <string name="PureWriterManual">Pure Writer manual</string>
+  <string name="cursorJoyTutorial">Hold this button and move your finger\nto control cursor movement</string>
+  <string name="tipBlueInputBox">Tip: After inputting, press the Enter key ⏎ to jump out of the blue input box</string>
+  <string name="defaultShorcut1">\"\"</string>
+  <string name="defaultShorcut2">null</string>
+  <string name="defaultShorcut3">()</string>
+  <string name="cursorJoy">Cursor Joy-Con</string>
+  <string name="textShortcut">Text Shortcut</string>
+  <string name="copyCurrent">Copy selected or current full text</string>
+  <string name="formatterAction">Format</string>
+  <string name="orSelectShortcutFunction">Or select shortcut function</string>
+  <string name="joyNotSupportTitleNow">The feature is currently not supported in the title</string>
+  <string name="blueInputBox">Blue input box</string>
 </resources>

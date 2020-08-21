@@ -496,4 +496,14 @@
   <string name="safeMode">सुरक्षित मोड</string>
   <string name="summarySafeMode">जब यह ऐप पृष्ठभूमि या हालिया कार्य सूची पृष्ठ में प्रवेश करता है, तो इस ऐप की सामग्री अस्पष्ट या छिपी होगी; जब यह आइटम चालू होता है, तो ऐप में स्क्रीनशॉट भी निषिद्ध होंगे</string>
   <string name="pressBackToClearCursor">कर्सर केवल पढ़ने के लिए मोड में छिपा और दर्ज किया गया है</string>
+  <string name="cursorJoyTutorial">इस बटन को पकड़ें और कर्सर की गति को नियंत्रित करने के लिए अपनी उंगली को हिलाएं</string>
+  <string name="tipBlueInputBox">युक्ति: इनपुट करने के बाद, नीले इनपुट बॉक्स से बाहर निकलने के लिए Enter ⏎ कुंजी दबाएं</string>
+  <string name="defaultShorcut1">\"\"</string>
+  <string name="textShortcut">पाठ शॉर्टकट</string>
+  <string name="copyCurrent">चयनित या वर्तमान पूर्ण पाठ की प्रतिलिपि बनाएँ</string>
+  <string name="formatterAction">स्वरूप</string>
+  <string name="scrollToTop">शीर्ष तक स्क्रॉल करें</string>
+  <string name="orSelectShortcutFunction">या शॉर्टकट फ़ंक्शन का चयन करें</string>
+  <string name="joyNotSupportTitleNow">यह सुविधा वर्तमान में शीर्षक में समर्थित नहीं है</string>
+  <string name="blueInputBox">ब्लू इनपुट बॉक्स</string>
 </resources>
