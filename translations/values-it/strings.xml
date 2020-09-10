@@ -434,13 +434,13 @@
 
         #### Tema di Material Design 2
 
-        Quando il tema di Material Design 2 è abilitato, otterrai una barra superiore trasparente, che non è più nero puro, e puoi ottenere un'interfaccia utente più coinvolgente e bella:
+        Quando il tema di Material Design 2 è abilitato, otterrai una barra superiore trasparente, che non è più nero puro, e puoi ottenere un\'interfaccia utente più coinvolgente e bella:
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
 
         #### Schema
 
-        È possibile accedere all'editor dei contorni nel menu di overflow in alto dell'editor e ci sono molti elementi predefiniti per i contorni:
+        È possibile accedere all\'editor dei contorni nel menu di overflow in alto dell\'editor e ci sono molti elementi predefiniti per i contorni:
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/6.webp)
 
@@ -448,7 +448,7 @@
 
         ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
 
-        Puoi ottenere Pure Writer Desktop e connetterti tramite l'icona del cloud ☁️ nella parte superiore dell'editor principale.
+        Puoi ottenere Pure Writer Desktop e connetterti tramite l\'icona del cloud ☁️ nella parte superiore dell\'editor principale.
 
         Al momento, Pure Writer Desktop è ancora in fase alpha. Può solo fornire la connessione in tempo reale di base e la modifica sincrona.
 
@@ -517,4 +517,5 @@
   <string name="orSelectShortcutFunction">Oppure seleziona la funzione</string>
   <string name="joyNotSupportTitleNow">Questa funzione non è attualmente supportata nel titolo</string>
   <string name="blueInputBox">Casella di input blu</string>
+  <string name="editorMarkdownSyncScrolling">Sincronizza lo scorrimento per Editor ⇋ Markdown</string>
 </resources>

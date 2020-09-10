@@ -549,4 +549,5 @@
   <string name="cursorJoy">移动光标</string>
   <string name="joyNotSupportTitleNow">该选项目前仅支持在正文中使用</string>
   <string name="blueInputBox">蓝色填字框</string>
+  <string name="editorMarkdownSyncScrolling">编辑器 ⇋ Markdown 双向同步滚动</string>
 </resources>

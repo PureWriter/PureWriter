@@ -512,4 +512,5 @@
   <string name="orSelectShortcutFunction">O seleccione la función de atajo</string>
   <string name="joyNotSupportTitleNow">Actualmente, esta función no es compatible con el título.</string>
   <string name="blueInputBox">Caja de entrada azul</string>
+  <string name="editorMarkdownSyncScrolling">Desplazamiento de sincronización para Editor ⇋ Markdown</string>
 </resources>

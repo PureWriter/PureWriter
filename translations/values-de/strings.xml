@@ -503,4 +503,5 @@
   <string name="orSelectShortcutFunction">Oder Funktion auswählen</string>
   <string name="joyNotSupportTitleNow">Diese Funktion wird derzeit im Titel nicht unterstützt</string>
   <string name="blueInputBox">Blaues Eingabefeld</string>
+  <string name="editorMarkdownSyncScrolling">Scrollen für Editor synchronisieren ⇋ Markdown</string>
 </resources>

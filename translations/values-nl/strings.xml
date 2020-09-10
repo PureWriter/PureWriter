@@ -508,4 +508,5 @@
   <string name="orSelectShortcutFunction">Of selecteer een functie</string>
   <string name="joyNotSupportTitleNow">Deze functie wordt momenteel niet ondersteund in de titel</string>
   <string name="blueInputBox">Blauw invoerveld</string>
+  <string name="editorMarkdownSyncScrolling">Synchroniseer scrollen voor Editor ⇋ Markdown</string>
 </resources>

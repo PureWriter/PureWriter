@@ -586,4 +586,5 @@
   <string name="orSelectShortcutFunction">Or select shortcut function</string>
   <string name="joyNotSupportTitleNow">The feature is currently not supported in the title</string>
   <string name="blueInputBox">Blue input box</string>
+  <string name="editorMarkdownSyncScrolling">Sync scrolling for Editor ⇋ Markdown</string>
 </resources>

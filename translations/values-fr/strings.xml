@@ -427,19 +427,19 @@
 
         #### Rechercher et remplacer
 
-        Vous pouvez trouver des mots clés cibles dans n'importe quel article et les remplacer par lots:
+        Vous pouvez trouver des mots clés cibles dans n\'importe quel article et les remplacer par lots:
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/4.webp)
 
         #### Thème Material Design 2
 
-        Lorsque le thème Material Design 2 est activé, vous obtiendrez une barre supérieure transparente, qui n'est plus du noir pur, et vous pouvez obtenir une interface utilisateur plus immersive et plus belle:
+        Lorsque le thème Material Design 2 est activé, vous obtiendrez une barre supérieure transparente, qui n\'est plus du noir pur, et vous pouvez obtenir une interface utilisateur plus immersive et plus belle:
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
 
         #### Contour
 
-        Vous pouvez entrer dans l'éditeur de contour dans le menu de débordement supérieur de l'éditeur, et il existe de nombreux éléments de contour prédéfinis:
+        Vous pouvez entrer dans l\'éditeur de contour dans le menu de débordement supérieur de l\'éditeur, et il existe de nombreux éléments de contour prédéfinis:
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/6.webp)
 
@@ -447,11 +447,11 @@
 
         ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
 
-        Vous pouvez obtenir Pure Writer Desktop et vous y connecter via l'icône cloud ☁️ en haut de l'éditeur principal.
+        Vous pouvez obtenir Pure Writer Desktop et vous y connecter via l\'icône cloud ☁️ en haut de l\'éditeur principal.
 
-        À l'heure actuelle, Pure Writer Desktop est toujours au stade alpha. Il ne peut fournir qu'une connexion de base en temps réel et une édition synchrone.
+        À l\'heure actuelle, Pure Writer Desktop est toujours au stade alpha. Il ne peut fournir qu\'une connexion de base en temps réel et une édition synchrone.
 
-        Cela m'a pris beaucoup de temps et d'énergie, et votre soutien nous aidera à le rendre parfait et meilleur.
+        Cela m\'a pris beaucoup de temps et d\'énergie, et votre soutien nous aidera à le rendre parfait et meilleur.
     ]]></string>
   <string name="buyPureWriterPro">Acheter Pure Writer Pro</string>
   <string name="tipMarkdownQuickPreview">Balayez horizontalement vers la page suivante pour un aperçu rapide de Markdown</string>
@@ -516,4 +516,5 @@
   <string name="orSelectShortcutFunction">Ou sélectionnez la fonction</string>
   <string name="joyNotSupportTitleNow">Cette fonctionnalité n\'est actuellement pas prise en charge dans le titre</string>
   <string name="blueInputBox">Boîte de saisie bleue</string>
+  <string name="editorMarkdownSyncScrolling">Défilement de synchronisation pour l\'éditeur ⇋ Markdown</string>
 </resources>

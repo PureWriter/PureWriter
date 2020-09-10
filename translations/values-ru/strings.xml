@@ -494,4 +494,5 @@
   <string name="orSelectShortcutFunction">Или выберите функцию</string>
   <string name="joyNotSupportTitleNow">Эта функция в настоящее время не поддерживается в названии</string>
   <string name="blueInputBox">Синее поле ввода</string>
+  <string name="editorMarkdownSyncScrolling">Синхронизация прокрутки для редактора ⇋ Markdown</string>
 </resources>
