@@ -324,7 +324,7 @@
   <string name="transparentNavigationBar">पारदर्शी नेविगेशन बार</string>
   <string name="titleAsAWordForACountSummary">जब यह आइटम चालू हो जाता है, तो अगला शब्द गणना मोड अक्षम हो जाएगा। यदि आप वर्ड काउंट मोड में विकल्पों का उपयोग करना चाहते हैं, तो इसे बंद करें।</string>
   <string name="customFont">कस्टम फ़ॉन्ट</string>
-  <string name="customFontTip">.Ttf फ़ॉन्ट फ़ाइल को बाहरी संग्रहण निर्देशिका <b>/Android/data/com.drakeet.purewriter</b> पर रखें और अपने आप फ़ॉन्ट लागू करने के लिए PureWriter को पुनरारंभ करें।\nनोट: इस निर्देशिका में केवल एक फ़ॉन्ट फ़ाइल हो सकती है, और कुछ फ़ॉन्ट फ़ाइलें (जैसे GoogleSans) कर्सर को स्थानांतरित करने का कारण बन सकती हैं, कृपया जान लें!</string>
+  <string name="customFontTip">.Ttf फ़ॉन्ट फ़ाइल को बाहरी संग्रहण निर्देशिका <b>/Documents/PureWriter/App</b> पर रखें और अपने आप फ़ॉन्ट लागू करने के लिए PureWriter को पुनरारंभ करें।\nनोट: इस निर्देशिका में केवल एक फ़ॉन्ट फ़ाइल हो सकती है, और कुछ फ़ॉन्ट फ़ाइलें (जैसे GoogleSans) कर्सर को स्थानांतरित करने का कारण बन सकती हैं, कृपया जान लें!</string>
   <string name="corruptBackupTip">बैकअप फ़ाइल दूषित है! कृपया अन्य बैकअप को पुनर्स्थापित करने का प्रयास करें और सही आकार और समय बैकअप चुनें!</string>
   <string name="leftMargin">बायां मार्जिन</string>
   <string name="rightMargin">सही मार्जिन</string>

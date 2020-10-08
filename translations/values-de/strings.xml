@@ -321,7 +321,7 @@
   </string-array>
   <string name="titleAsAWordForACountSummary">Wenn dieses Element aktiviert ist, wird der nächste Wortzählmodus deaktiviert. Wenn Sie die Optionen im Word Count-Modus verwenden möchten, deaktivieren Sie diese Option.</string>
   <string name="customFont">Benutzerdefinierte Schriftart</string>
-  <string name="customFontTip">Platzieren Sie die .ttf-Schriftartdatei im externen Speicherverzeichnis <b>/Android/data/com.drakeet.purewriter</b> und starten Sie Pure Writer neu, um die Schriftart automatisch anzuwenden. Hinweis: In diesem Verzeichnis darf sich nur eine Schriftdatei befinden. Einige Schriftdateien (z. B. Google Sans) können dazu führen, dass sich der Cursor verschiebt.</string>
+  <string name="customFontTip">Platzieren Sie die .ttf / .otf-Schriftartdatei im externen Speicherverzeichnis <b>/Documents/PureWriter/App</b> und starten Sie Pure Writer neu, um die Schriftart automatisch anzuwenden. Hinweis: In diesem Verzeichnis darf sich nur eine Schriftdatei befinden. Einige Schriftdateien (z. B. Google Sans) können dazu führen, dass sich der Cursor verschiebt.</string>
   <string name="corruptBackupTip">Die Sicherungsdatei ist beschädigt! Bitte versuchen Sie, andere Backups wiederherzustellen und wählen Sie die richtige Größe und Zeit für das Backup!</string>
   <string name="leftMargin">Linker Rand</string>
   <string name="rightMargin">Rechter Rand</string>

@@ -324,7 +324,7 @@
   <string name="transparentNavigationBar">透明なナビゲーションバー</string>
   <string name="titleAsAWordForACountSummary">この項目をオンにすると、次のワードカウントモードは無効になります。 ワードカウントモードのオプションを使用したい場合は、これをオフにしてください。</string>
   <string name="customFont">カスタムフォント</string>
-  <string name="customFontTip">.ttfフォントファイルを外部ストレージディレクトリ<b>/Android/data/com.drakeet.purewriter</b>に配置し、Pure Writerを再起動してフォントを自動的に適用します。 注：このディレクトリには1つのフォントファイルしか存在できず、一部のフォントファイル（GoogleSansなど）ではカーソルが移動することがあります。ご注意ください。</string>
+  <string name="customFontTip">.ttf / .otf フォントファイルを外部ストレージディレクトリ<b>/Documents/PureWriter/App</b>に配置し、Pure Writerを再起動してフォントを自動的に適用します。 注：このディレクトリには1つのフォントファイルしか存在できず、一部のフォントファイル（GoogleSansなど）ではカーソルが移動することがあります。ご注意ください。</string>
   <string name="corruptBackupTip">バックアップファイルが破損しています。 他のバックアップを復元して、正しいサイズと時間のバックアップを選択してください。</string>
   <string name="leftMargin">左マージン</string>
   <string name="rightMargin">右マージン</string>

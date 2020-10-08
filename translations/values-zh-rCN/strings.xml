@@ -334,7 +334,7 @@
   <string name="transparentNavigationBar">透明虚拟导航栏</string>
   <string name="titleAsAWordForACountSummary">开启此项后，下一项「字数统计模式」将无效，如果想使用「字数统计模式」中的选项，请关闭此项。</string>
   <string name="customFont">自定义字体</string>
-  <string name="customFontTip">请将 .ttf 字体文件置于外部存储目录 <b>/Android/data/com.drakeet.purewriter</b> 下，并重启纯纯写作即可自动应用该字体。\n注意：该目录下只能有一个字体文件，而且部分字体文件（如 Google Sans）可能导致光标偏移，请知悉！</string>
+  <string name="customFontTip">请将 .ttf 或 .otf 字体文件置于外部存储目录 <b>/Documents/PureWriter/App</b> 下，并重启纯纯写作即可自动应用该字体。\n注意：该目录下只能有一个字体文件，而且部分字体文件（如 Google Sans）可能导致光标偏移，请知悉！</string>
   <string name="corruptBackupTip">该备份文件已损坏！请尝试恢复其它备份，选择正确体积和时间的备份！</string>
   <string name="leftMargin">左边距</string>
   <string name="rightMargin">右边距</string>

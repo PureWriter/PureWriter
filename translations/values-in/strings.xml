@@ -331,7 +331,7 @@
   <string name="transparentNavigationBarWarning">Ini adalah fitur eksperimental. Ketika dinyalakan, ini dapat menyebabkan tinggi keyboard lunak diperiksa dengan tidak benar, yang dapat menyebabkan bilah Pintasan tidak ditampilkan dan teks menjadi tidak fokus. Jika Anda mengalami masalah ini, matikan opsi ini.</string>
   <string name="titleAsAWordForACountSummary">Ketika item ini dinyalakan, Mode Penghitungan Kata berikutnya akan dinonaktifkan. Jika Anda ingin menggunakan opsi di Word Count Mode, matikan ini.</string>
   <string name="customFont">Fon khusus</string>
-  <string name="customFontTip">Tempatkan file font .ttf di direktori penyimpanan eksternal <b> /Android/data/com.drakeet.purewriter </b> dan mulai kembali Pure Writer untuk menerapkan font secara otomatis.\nCatatan: Hanya ada satu file font dalam direktori ini, dan beberapa file font (seperti Google Sans) dapat menyebabkan kursor bergeser, ketahuilah!</string>
+  <string name="customFontTip">Tempatkan file font .ttf / .otf di direktori penyimpanan eksternal <b> /Documents/PureWriter/App </b> dan mulai kembali Pure Writer untuk menerapkan font secara otomatis.\nCatatan: Hanya ada satu file font dalam direktori ini, dan beberapa file font (seperti Google Sans) dapat menyebabkan kursor bergeser, ketahuilah!</string>
   <string name="corruptBackupTip">File cadangan rusak! Silakan coba untuk memulihkan cadangan lain dan pilih ukuran dan waktu cadangan yang benar!</string>
   <string name="leftMargin">Margin Kiri</string>
   <string name="rightMargin">Margin kanan</string>

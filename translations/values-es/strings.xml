@@ -330,7 +330,7 @@
   <string name="transparentNavigationBarWarning">Esta es una característica experimental. Cuando está activada, puede hacer que la altura del teclado virtual se verifique incorrectamente, lo que puede hacer que la barra de acceso directo no se muestre y el texto quede desenfocado. Si encuentras estos problemas, desactiva esta opción.</string>
   <string name="titleAsAWordForACountSummary">Cuando este elemento está activado, el siguiente modo de contador de palabras se desactivará. Si deseas utilizar las opciones en el modo contador de palabras, desactívalo.</string>
   <string name="customFont">Fuente personalizada</string>
-  <string name="customFontTip">Coloque el archivo de fuente .ttf en el directorio de almacenamiento externo <b>/Android/data/com.drakeet.purewriter</b> y reinicia Pure Writer para aplicar la fuente automáticamente. \nNota: Solo puede haber un archivo de fuente en este directorio, y algunos archivos de fuentes (como Google Sans) pueden hacer que el cursor se desplace.</string>
+  <string name="customFontTip">Coloque el archivo de fuente .ttf / .otf en el directorio de almacenamiento externo <b>/Documents/PureWriter/App</b> y reinicia Pure Writer para aplicar la fuente automáticamente. \nNota: Solo puede haber un archivo de fuente en este directorio, y algunos archivos de fuentes (como Google Sans) pueden hacer que el cursor se desplace.</string>
   <string name="corruptBackupTip">¡El archivo de la Copia de Seguridad está corrupto! Intenta restaurar otra Copia y elige el tamaño y la hora correctos.</string>
   <string name="leftMargin">Margen izquierdo</string>
   <string name="rightMargin">Margen derecho</string>

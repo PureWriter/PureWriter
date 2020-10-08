@@ -334,7 +334,7 @@
   <string name="transparentNavigationBar">Barra de navegação transparente</string>
   <string name="titleAsAWordForACountSummary">Quando este item está ativado, o próximo Contador de Palavras é desativado. Se você quiser usar as opções no Contador de Palavras, desative isto.</string>
   <string name="customFont">Fonte personalizada</string>
-  <string name="customFontTip">Coloque o arquivo de fonte .ttf no diretório de armazenamento externo <b>/Android/data/com.drakeet.purewriter</b> e reinicie o Pure Writer para aplicar a fonte. Nota: Só pode haver um arquivo de fonte no diretório, e alguns arquivos de fonte (como o Google Sans) podem fazer com que o cursor se mova. Por favor, saiba!</string>
+  <string name="customFontTip">Coloque o arquivo de fonte .ttf / .otf no diretório de armazenamento externo <b>/Documents/PureWriter/App</b> e reinicie o Pure Writer para aplicar a fonte. Nota: Só pode haver um arquivo de fonte no diretório, e alguns arquivos de fonte (como o Google Sans) podem fazer com que o cursor se mova. Por favor, saiba!</string>
   <string name="corruptBackupTip">Arquivo de backup corrompido! Por favor, tente restaurar outro backup, escolhendo o tempo e o tamanho correto dele!</string>
   <string name="leftMargin">Margem esquerda</string>
   <string name="rightMargin">Margem direita</string>

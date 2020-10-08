@@ -324,7 +324,7 @@
   <string name="transparentNavigationBar">Transparante navigatiebalk</string>
   <string name="titleAsAWordForACountSummary">Wanneer dit item is ingeschakeld, wordt de volgende Word Count-modus uitgeschakeld. Als u de opties in de modus Word Count wilt gebruiken, schakelt u dit uit.</string>
   <string name="customFont">Aangepast lettertype</string>
-  <string name="customFontTip">Plaats het .ttf-lettertypebestand in de externe opslagmap <b>/Android/data/com.drakeet.purewriter</b> en start Pure Writer opnieuw om het lettertype automatisch toe te passen. Opmerking: er kan slechts één lettertypebestand in deze map staan en sommige lettertypebestanden (zoals Google Sans) kunnen ervoor zorgen dat de cursor verschuift, alsjeblieft!</string>
+  <string name="customFontTip">Plaats het .ttf / .otf-lettertypebestand in de externe opslagmap <b>/Documents/PureWriter/App</b> en start Pure Writer opnieuw om het lettertype automatisch toe te passen. Opmerking: er kan slechts één lettertypebestand in deze map staan en sommige lettertypebestanden (zoals Google Sans) kunnen ervoor zorgen dat de cursor verschuift, alsjeblieft!</string>
   <string name="corruptBackupTip">Het back-upbestand is beschadigd! Probeer andere back-ups te herstellen en kies de juiste grootte en tijdback-up!</string>
   <string name="leftMargin">Linkermarge</string>
   <string name="rightMargin">Rechter marge</string>
