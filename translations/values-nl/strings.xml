@@ -500,7 +500,7 @@
   <string name="pressBackToClearCursor">Cursor is verborgen en komt in de alleen-lezen modus</string>
   <string name="cursorJoyTutorial">Houd deze knop ingedrukt en beweeg uw vinger om de cursorbeweging te besturen</string>
   <string name="tipBlueInputBox">Tip: druk na het invoeren op Enter ⏎ om uit het blauwe invoervak te springen</string>
-  <string name="defaultShorcut1">\"\"</string>
+  <string name="defaultShortcut1">\"\"</string>
   <string name="textShortcut">Tekstsnelkoppeling</string>
   <string name="copyCurrent">Kopieer geselecteerde of huidige volledige tekst</string>
   <string name="formatterAction">Formaat</string>
@@ -509,4 +509,5 @@
   <string name="joyNotSupportTitleNow">Deze functie wordt momenteel niet ondersteund in de titel</string>
   <string name="blueInputBox">Blauw invoerveld</string>
   <string name="editorMarkdownSyncScrolling">Synchroniseer scrollen voor Editor ⇋ Markdown</string>
+  <string name="newOutline">Nieuw overzicht</string>
 </resources>

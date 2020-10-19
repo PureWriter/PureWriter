@@ -495,7 +495,7 @@
   <string name="pressBackToClearCursor">Der Cursor ist ausgeblendet und wechselt in den schreibgeschützten Modus</string>
   <string name="cursorJoyTutorial">Halten Sie diese Taste gedrückt und bewegen Sie Ihren Finger, um die Cursorbewegung zu steuern</string>
   <string name="tipBlueInputBox">Tipp: Drücken Sie nach der Eingabe die Eingabetaste ⏎, um aus dem blauen Eingabefeld zu springen</string>
-  <string name="defaultShorcut1">\"\"</string>
+  <string name="defaultShortcut1">\"\"</string>
   <string name="textShortcut">Textverknüpfung</string>
   <string name="copyCurrent">Kopieren Sie den ausgewählten oder aktuellen Volltext</string>
   <string name="formatterAction">Format</string>
@@ -504,4 +504,5 @@
   <string name="joyNotSupportTitleNow">Diese Funktion wird derzeit im Titel nicht unterstützt</string>
   <string name="blueInputBox">Blaues Eingabefeld</string>
   <string name="editorMarkdownSyncScrolling">Scrollen für Editor synchronisieren ⇋ Markdown</string>
+  <string name="newOutline">Neue Gliederung</string>
 </resources>

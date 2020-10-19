@@ -576,9 +576,9 @@
   <string name="PureWriterManual">Pure Writer manual</string>
   <string name="cursorJoyTutorial">Hold this button and move your finger\nto control cursor movement</string>
   <string name="tipBlueInputBox">Tip: After inputting, press the Enter key ⏎ to jump out of the blue input box</string>
-  <string name="defaultShorcut1">\"\"</string>
-  <string name="defaultShorcut2">null</string>
-  <string name="defaultShorcut3">()</string>
+  <string name="defaultShortcut1">\"\"</string>
+  <string name="defaultShortcut2">null</string>
+  <string name="defaultShortcut3">()</string>
   <string name="cursorJoy">Cursor Joy-Con</string>
   <string name="textShortcut">Text Shortcut</string>
   <string name="copyCurrent">Copy selected or current full text</string>
@@ -587,4 +587,5 @@
   <string name="joyNotSupportTitleNow">The feature is currently not supported in the title</string>
   <string name="blueInputBox">Blue input box</string>
   <string name="editorMarkdownSyncScrolling">Sync scrolling for Editor ⇋ Markdown</string>
+  <string name="newOutline">New Outline</string>
 </resources>

@@ -505,7 +505,7 @@
   <string name="pressBackToClearCursor">Kursor disembunyikan dan masuk ke mode baca-saja</string>
   <string name="cursorJoyTutorial">Tahan tombol ini dan gerakkan jari Anda untuk mengontrol gerakan kursor</string>
   <string name="tipBlueInputBox">Tip: Setelah memasukkan, tekan tombol Enter ⏎ untuk melompat keluar dari kotak input biru</string>
-  <string name="defaultShorcut1">\"\"</string>
+  <string name="defaultShortcut1">\"\"</string>
   <string name="textShortcut">Pintasan Teks</string>
   <string name="copyCurrent">Salin teks lengkap yang dipilih atau saat ini</string>
   <string name="formatterAction">Format</string>
@@ -514,4 +514,5 @@
   <string name="joyNotSupportTitleNow">Fitur ini saat ini tidak didukung dalam judul</string>
   <string name="blueInputBox">Kotak masukan biru</string>
   <string name="editorMarkdownSyncScrolling">Sinkronisasi bergulir untuk Editor ⇋ Markdown</string>
+  <string name="newOutline">Garis Besar Baru</string>
 </resources>

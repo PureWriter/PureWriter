@@ -504,7 +504,7 @@
   <string name="pressBackToClearCursor">El cursor está oculto y entró en modo de solo lectura</string>
   <string name="cursorJoyTutorial">Mantenga presionado este botón y mueva su dedo para controlar el movimiento del cursor</string>
   <string name="tipBlueInputBox">Consejo: Después de introducir los datos, pulse la tecla Intro ⏎ para salir del cuadro de entrada azul.</string>
-  <string name="defaultShorcut1">\"\"</string>
+  <string name="defaultShortcut1">\"\"</string>
   <string name="textShortcut">Atajo de texto</string>
   <string name="copyCurrent">Copiar texto completo seleccionado o actual</string>
   <string name="formatterAction">Formato</string>
@@ -513,4 +513,5 @@
   <string name="joyNotSupportTitleNow">Actualmente, esta función no es compatible con el título.</string>
   <string name="blueInputBox">Caja de entrada azul</string>
   <string name="editorMarkdownSyncScrolling">Desplazamiento de sincronización para Editor ⇋ Markdown</string>
+  <string name="newOutline">Nuevo esquema</string>
 </resources>

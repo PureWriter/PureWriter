@@ -532,9 +532,9 @@
   <string name="pressBackToClearCursor">已隱藏游標並進入唯讀模式</string>
   <string name="PureWriterManual">《純純寫作使用手冊》</string>
   <string name="tipBlueInputBox">提示：輸入完成後，按確認鍵 ⏎ 可跳出藍色的填充框</string>
-  <string name="defaultShorcut2">「」</string>
-  <string name="defaultShorcut1">『』</string>
-  <string name="defaultShorcut3">（）</string>
+  <string name="defaultShortcut2">「」</string>
+  <string name="defaultShortcut1">『』</string>
+  <string name="defaultShortcut3">（）</string>
   <string name="textShortcut">文字快捷輸入項</string>
   <string name="copyCurrent">複製選擇的文字或目前全文</string>
   <string name="formatterAction">一鍵排版</string>
@@ -544,4 +544,5 @@
   <string name="joyNotSupportTitleNow">該選項目前僅支援在正文中使用</string>
   <string name="blueInputBox">藍色填字框</string>
   <string name="editorMarkdownSyncScrolling">編輯器 ⇋ Markdown 雙向同步滾動</string>
+  <string name="newOutline">建立大綱項</string>
 </resources>

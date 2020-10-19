@@ -509,7 +509,7 @@
   <string name="pressBackToClearCursor">Il cursore è nascosto ed è entrato in modalità di sola lettura</string>
   <string name="cursorJoyTutorial">Tenere premuto questo pulsante e muovere il dito per controllare il movimento del cursore</string>
   <string name="tipBlueInputBox">Suggerimento: dopo aver inserito, premere il tasto Invio ⏎ per saltare fuori dalla casella di input blu</string>
-  <string name="defaultShorcut1">\"\"</string>
+  <string name="defaultShortcut1">\"\"</string>
   <string name="textShortcut">Scorciatoia di testo</string>
   <string name="copyCurrent">Copia il testo completo selezionato o corrente</string>
   <string name="formatterAction">Formato</string>
@@ -518,4 +518,5 @@
   <string name="joyNotSupportTitleNow">Questa funzione non è attualmente supportata nel titolo</string>
   <string name="blueInputBox">Casella di input blu</string>
   <string name="editorMarkdownSyncScrolling">Sincronizza lo scorrimento per Editor ⇋ Markdown</string>
+  <string name="newOutline">Nuovo profilo</string>
 </resources>

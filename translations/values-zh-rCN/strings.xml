@@ -538,9 +538,9 @@
   <string name="PureWriterManual">《纯纯写作使用手册》</string>
   <string name="cursorJoyTutorial">按住这个按钮移动手指\n可控制光标移动</string>
   <string name="tipBlueInputBox">提示：输入完成后，按回车键 ⏎ 可跳出蓝色的填充框</string>
-  <string name="defaultShorcut1">“”</string>
-  <string name="defaultShorcut2">「」</string>
-  <string name="defaultShorcut3">（）</string>
+  <string name="defaultShortcut1">“”</string>
+  <string name="defaultShortcut2">「」</string>
+  <string name="defaultShortcut3">（）</string>
   <string name="copyCurrent">复制选择的文本或当前全文</string>
   <string name="textShortcut">文字快捷输入项</string>
   <string name="formatterAction">一键排版</string>
@@ -550,4 +550,5 @@
   <string name="joyNotSupportTitleNow">该选项目前仅支持在正文中使用</string>
   <string name="blueInputBox">蓝色填字框</string>
   <string name="editorMarkdownSyncScrolling">编辑器 ⇋ Markdown 双向同步滚动</string>
+  <string name="newOutline">创建大纲项</string>
 </resources>

@@ -508,7 +508,7 @@
   <string name="pressBackToClearCursor">Le curseur est masqué et est entré en mode lecture seule</string>
   <string name="cursorJoyTutorial">Maintenez ce bouton enfoncé et déplacez votre doigt pour contrôler le mouvement du curseur</string>
   <string name="tipBlueInputBox">Conseil: après la saisie, appuyez sur la touche Entrée ⏎ pour sortir de la zone de saisie bleue</string>
-  <string name="defaultShorcut1">\"\"</string>
+  <string name="defaultShortcut1">\"\"</string>
   <string name="textShortcut">Raccourci texte</string>
   <string name="copyCurrent">Copier le texte intégral sélectionné ou actuel</string>
   <string name="formatterAction">Format</string>
@@ -517,4 +517,5 @@
   <string name="joyNotSupportTitleNow">Cette fonctionnalité n\'est actuellement pas prise en charge dans le titre</string>
   <string name="blueInputBox">Boîte de saisie bleue</string>
   <string name="editorMarkdownSyncScrolling">Défilement de synchronisation pour l\'éditeur ⇋ Markdown</string>
+  <string name="newOutline">Nouveau contour</string>
 </resources>
