@@ -505,4 +505,5 @@
   <string name="blueInputBox">Blaues Eingabefeld</string>
   <string name="editorMarkdownSyncScrolling">Scrollen für Editor synchronisieren ⇋ Markdown</string>
   <string name="newOutline">Neue Gliederung</string>
+  <string name="smoothCursor">Glatter Cursor</string>
 </resources>

@@ -515,4 +515,5 @@
   <string name="blueInputBox">Kotak masukan biru</string>
   <string name="editorMarkdownSyncScrolling">Sinkronisasi bergulir untuk Editor ⇋ Markdown</string>
   <string name="newOutline">Garis Besar Baru</string>
+  <string name="smoothCursor">Kursor halus</string>
 </resources>

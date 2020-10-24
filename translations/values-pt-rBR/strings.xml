@@ -535,4 +535,5 @@
   <string name="joyNotSupportTitleNow">Esta característica não é suportada atualmente no título</string>
   <string name="blueInputBox">Caixa de entrada azul</string>
   <string name="newOutline">Novo Esboço</string>
+  <string name="smoothCursor">Cursor suave</string>
 </resources>

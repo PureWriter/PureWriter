@@ -588,4 +588,5 @@
   <string name="blueInputBox">Blue input box</string>
   <string name="editorMarkdownSyncScrolling">Sync scrolling for Editor ⇋ Markdown</string>
   <string name="newOutline">New Outline</string>
+  <string name="smoothCursor">Smooth cursor</string>
 </resources>

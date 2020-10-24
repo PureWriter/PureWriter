@@ -510,4 +510,5 @@
   <string name="blueInputBox">Blauw invoerveld</string>
   <string name="editorMarkdownSyncScrolling">Synchroniseer scrollen voor Editor ⇋ Markdown</string>
   <string name="newOutline">Nieuw overzicht</string>
+  <string name="smoothCursor">Vloeiende cursor</string>
 </resources>

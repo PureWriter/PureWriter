@@ -507,4 +507,5 @@
   <string name="joyNotSupportTitleNow">यह सुविधा वर्तमान में शीर्षक में समर्थित नहीं है</string>
   <string name="blueInputBox">ब्लू इनपुट बॉक्स</string>
   <string name="newOutline">नई रूपरेखा</string>
+  <string name="smoothCursor">चिकना कर्सर</string>
 </resources>

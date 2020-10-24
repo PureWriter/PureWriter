@@ -510,4 +510,5 @@
   <string name="joyNotSupportTitleNow">この機能は現在タイトルではサポートされていません</string>
   <string name="blueInputBox">青い入力ボックス</string>
   <string name="newOutline">新しい概要</string>
+  <string name="smoothCursor">スムーズカーソル</string>
 </resources>

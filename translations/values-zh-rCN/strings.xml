@@ -551,4 +551,5 @@
   <string name="blueInputBox">蓝色填字框</string>
   <string name="editorMarkdownSyncScrolling">编辑器 ⇋ Markdown 双向同步滚动</string>
   <string name="newOutline">创建大纲项</string>
+  <string name="smoothCursor">顺滑光标</string>
 </resources>

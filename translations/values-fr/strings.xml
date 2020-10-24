@@ -518,4 +518,5 @@
   <string name="blueInputBox">Boîte de saisie bleue</string>
   <string name="editorMarkdownSyncScrolling">Défilement de synchronisation pour l\'éditeur ⇋ Markdown</string>
   <string name="newOutline">Nouveau contour</string>
+  <string name="smoothCursor">Curseur lisse</string>
 </resources>

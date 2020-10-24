@@ -519,4 +519,5 @@
   <string name="blueInputBox">Casella di input blu</string>
   <string name="editorMarkdownSyncScrolling">Sincronizza lo scorrimento per Editor ⇋ Markdown</string>
   <string name="newOutline">Nuovo profilo</string>
+  <string name="smoothCursor">Cursore liscio</string>
 </resources>

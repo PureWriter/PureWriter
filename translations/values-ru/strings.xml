@@ -496,4 +496,5 @@
   <string name="blueInputBox">Синее поле ввода</string>
   <string name="editorMarkdownSyncScrolling">Синхронизация прокрутки для редактора ⇋ Markdown</string>
   <string name="newOutline">Новый план</string>
+  <string name="smoothCursor">Гладкий курсор</string>
 </resources>
