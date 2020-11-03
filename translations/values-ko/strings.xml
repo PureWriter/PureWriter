@@ -2,13 +2,13 @@
   <string name="pureWriter">Pure Writer</string>
   <string name="titleHint">표제</string>
   <string name="editorTipAMenu">먼저 텍스트를 선택해야합니다</string>
-  <string name="editorHintContent">내용을 쓰기 시작…</string>
-  <string name="slogan">빠른 | 멋진 경험 | 내용을 잃어 버리지 마십시오</string>
-  <string name="iconDesc">Pure Writer의 아이콘은 타임머신입니다\n타임머신이 앞으로옵니다. 소원의 말은 과거와 미래를 연결하는 데 도움이됩니다…</string>
-  <string name="undo">끄르다</string>
-  <string name="redo">다시 하다</string>
+  <string name="editorHintContent">내용을 쓰기 시작하세요…</string>
+  <string name="slogan">빠름 | 멋진 경험 | 내용을 분실하지 않습니다</string>
+  <string name="iconDesc">Pure Writer의 아이콘은 타임머신입니다\n타임머신이 앞으로 옵니다. 소원의 말은 과거와 미래를 연결하는 데 도움이 됩니다…</string>
+  <string name="undo">열기</string>
+  <string name="redo">다시 하기</string>
   <string name="about">소개</string>
-  <string name="defaultContent">만나서 반갑습니다!\n이것은 \"좋은 글쓰기 경험\"이되어야한다고 생각되는 빠른 일반 텍스트 편집기입니다. Pure Writer 는 최소한의 기능이므로 컨텐츠를 다시 잃어 버릴 염려없이 언제 어디서나 마음의 컨텐츠를 쓸 수 있습니다.\nPure Writer 의 줄 간격 및 단락 간격 기능을 사용하면 텍스트를보다 명확하고 읽기 쉽게 읽을 수 있습니다. 뿐만 아니라 부드러운 스크롤, 스 와이프하여 축소 키보드 및 더 많은 흥미로운 기능이 있습니다.\n단순성은 숨겨진 복잡성입니다. 작업 내용을 지문으로 암호화하고, 원할 때마다 쓰기를 시작 또는 중지 할 수 있으며, 컨텐츠를 다른 앱과 빠르게 공유 할 수 있습니다.\n가장 중요한 것은 수동으로 삭제하지 않는 한이 텍스트 편집기를 사용하는 동안 작업을 잃어 버리지 않을 것입니다. 실수로 삭제하거나 예기치 않게 종료 된 경우에도 기록에서 복구 할 수 있습니다.\n추가 기능 : WebDAV 클라우드 백업, 머티리얼 디자인 2 테마, 마크 다운, 타자기 모드, 긴 텍스트 이미지로 내보내기, Time Machine…\n빠르고 매끄 럽습니다. 언제 어디서나 중단하고 계속 쓸 수 있습니다.\nPure Writer 를 사용하십시오.</string>
+  <string name="defaultContent">만나서 반갑습니다!\n이것은 \"좋은 글쓰기 경험\"이 되어야 한다고 생각되는 빠른 일반 텍스트 편집기입니다. Pure Writer 는 최소한의 기능이므로 콘텐츠를 다시 잃어버릴 염려 없이 언제 어디서나 마음의 콘텐츠를 쓸 수 있습니다.\nPure Writer 의 줄 간격 및 단락 간격 기능을 사용하면 텍스트를 보다 명확하고 읽기 쉽게 읽을 수 있습니다. 뿐만 아니라 부드러운 스크롤, 스와이프하여 축소 키보드 등의 많은 흥미로운 기능이 있습니다.\n단순성은 숨겨진 복잡성입니다. 작업 내용을 지문으로 암호화하고, 원할 때마다 쓰기를 시작 또는 중지 할 수 있으며, 컨텐츠를 다른 앱과 빠르게 공유 할 수 있습니다.\n가장 중요한 것은 수동으로 삭제하지 않는 한 이 텍스트 편집기를 사용하는 동안 작업을 잃어 버리지 않을 것이라는 겁니다. 실수로 삭제하거나 예기치 않게 종료 된 경우에도 기록에서 복구 할 수 있습니다.\n추가 기능 : WebDAV 클라우드 백업, 머티리얼 디자인 2 테마, 마크 다운, 타자기 모드, 긴 텍스트 이미지로 내보내기, Time Machine…\n빠르고 매끄 럽습니다. 언제 어디서나 중단하고 계속 쓸 수 있습니다.\nPure Writer 를 사용하십시오.</string>
   <string name="share">다른 앱으로 공유</string>
   <string name="copyTitle">제목 복사</string>
   <string name="lock">자물쇠</string>
@@ -27,25 +27,25 @@
   <string name="wordCountShort">단어 수</string>
   <string name="wordCountLong">단어 수</string>
   <string name="wordCountOfCurrentArticle">현재 기사의 총 단어 수</string>
-  <string name="floatingWordCount">부동 단어 수 위젯</string>
+  <string name="floatingWordCount">부동어 수</string>
   <string name="historyState">저장되었습니다</string>
   <string name="tipNeedFingerprint">보고 편집하려면 먼저 지문을 사용하여 잠금을 해제하십시오</string>
-  <string name="empty">빈</string>
+  <string name="empty">비어 있음</string>
   <string name="isRevertToThisFile">이 문서를 복구 하시겠습니까?</string>
-  <string name="noMore">더 이상!</string>
-  <string name="goOn">잇다</string>
-  <string name="reject">폐물</string>
+  <string name="noMore">아무것도 없습니다!</string>
+  <string name="goOn">계속</string>
+  <string name="reject">버리기</string>
   <string name="titleIntroCard">Pure Writer</string>
-  <string name="defaultTitle">당신이 원하는대로</string>
+  <string name="defaultTitle">당신이 원하는 대로</string>
 
   <string name="tipPermissionFailed">권한이 부여되지 않았습니다. 기록을 저장할 수 없습니다.</string>
   <string name="titleStorePermissionFailed">저장 권한이 거부되었습니다.</string>
-  <string name="tipMessageStoragePermissionFirst">저장소에 액세스 할 수있는 권한을 부여하십시오. Pure Writer 는 파일을 자동 백업하는 데만 사용하여 파일을 잃지 않도록합니다!</string>
+  <string name="tipMessageStoragePermissionFirst">저장소에 액세스 할 수있는 권한을 부여하십시오. Pure Writer 는 파일을 자동 백업하는 데만 사용하여 파일을 잃지 않도록 합니다!</string>
   <string name="tipMessageStoragePermissionToSettings">파일을 자동 백업하려면 스토리지에 액세스해야합니다. 기기의 설정에서 수동으로 액세스 권한을 부여하십시오!</string>
   <string name="actionOkGoSettings">설정으로 바로 가기</string>
   <string name="tipFingerAuthRetry">지문을 인식 할 수 없습니다. %d 번의 시도가 남아 있습니다.</string>
   <string name="tipFingerAuthFailed">지문이 정지되었습니다. 1 분 후에 다시 시도하십시오. Pure Writer 를 종료하는 중…</string>
-  <string name="tipRichText">Pure Writer 는 사용자에게 최소한의 글쓰기 환경을 제공하는 것을 목표로하므로 향후 개발에 리치 텍스트 기능을 포함시킬 계획이 없습니다. 미리보기에서 굵은 체 텍스트가 표시 될 수 있지만 숨겨진 기능이기 때문에 굵은 체는 .txt 파일로 표시 할 수 없습니다. 죄송합니다! 더 나은 제안이 있으시면 저에게 연락하십시오. 당신의 지원에 감사드립니다!</string>
+  <string name="tipRichText">Pure Writer 는 사용자에게 최소한의 글쓰기 환경을 제공하는 것을 목표로하므로 향후 개발에 리치 텍스트 기능을 포함시킬 계획이 없습니다. 미리보기에서 굵은 텍스트가 표시 될 수 있지만 숨겨진 기능이기 때문에 볼드체(굵은 글씨-옮긴이)는 .txt 파일로 표시 할 수 없습니다. 죄송합니다! 더 나은 제안이 있으시면 저에게 연락하십시오. 당신의 지원에 감사드립니다!</string>
   <string name="settings">설정</string>
   <string name="on">On</string>
   <string name="off">Off</string>
@@ -53,11 +53,11 @@
   <string name="insertBlankLinesWhenExporting">내보낼 때 추가 라인 추가</string>
   <string name="indent">들여 쓰기</string>
   <string name="format">체재</string>
-  <string name="contentTextSize">컨텐츠 글꼴 크기</string>
-  <string name="iKnow">알았다</string>
+  <string name="contentTextSize">콘텐츠 글꼴 크기</string>
+  <string name="iKnow">확인</string>
   <string name="tipIndent">참고 : 들여 쓰기는 기존 텍스트에 영향을 미치지 않습니다</string>
   <string name="explanation">설명</string>
-  <string name="tipInsertBlankLines">이 설정을 사용하면 텍스트를 복사하거나 공유 할 때 각 단락에 추가 줄이 추가됩니다. 특수 단락 간격은 Pure Writer 에서만 제공되므로이 앱 외부에서 동일한 효과를 얻으려면 추가 행이 필요합니다.</string>
+  <string name="tipInsertBlankLines">이 설정을 사용하면 텍스트를 복사하거나 공유 할 때 각 단락에 추가 줄이 추가됩니다. 특수 단락 간격은 Pure Writer 에서만 제공되므로 이 앱 외부에서 동일한 효과를 얻으려면 추가 행이 필요합니다.</string>
   <string name="deleteObsoleteFiles">더 이상 사용되지 않는 파일 삭제</string>
   <string name="dayNightMode">야간 모드</string>
   <string name="summaryPay">Pro 기능 받기</string>
@@ -72,14 +72,14 @@
   <string name="createShortcut">텍스트 바로 가기 만들기</string>
   <string name="noteShortcutCursorIndex">기사를 삽입 한 후 커서 위치를 설정하려면 내용에서 커서 위치를 이동하십시오</string>
   <string name="indentShort">들여 쓰기</string>
-  <string name="delete">지우다</string>
+  <string name="delete">지우기</string>
   <string name="messageDeleteShortcut">이 바로 가기를 삭제하려면 확인을 클릭하십시오</string>
-  <string name="features">풍모</string>
+  <string name="features">특징</string>
   <string name="sendTextFailedForTooLarge">텍스트가 너무 길어서 다른 앱으로 직접 보낼 수 없습니다. 텍스트를 클립 보드에 이미 복사했습니다</string>
   <string name="previewAndExport">미리보기, 내보내기…</string>
   <string name="hasSavedToYourAlbum">앨범에 저장</string>
   <string name="preview">시사</string>
-  <string name="proReadMe">Pure Writer가 도움이된다고 생각하고 계속 발전하기를 원한다면 개발자에게 약간의 비용을 공헌 하시겠습니까?\n\n귀하의 지원으로 저와 같은 독립 개발자가보다 잘 구축 된 앱을 개발하고 제공 할 수 있습니다.\n\n지원하려면 Google Play 버튼을 클릭하십시오. 기고 후에는 Material Design 2, Outline, Export, Custom Paper / Background 등과 같은 Pro 기능을 받게 될 것입니다. 또한 감사의 표시로 향후 업데이트도 무료로 제공됩니다.\n여러분과 같은 지지자 때문에 Pure Writer는 더 나은 업데이트를 위해 노력합니다. 마지막으로 지원해 주셔서 감사합니다!</string>
+  <string name="proReadMe">Pure Writer가 도움이 된다고 생각하고 계속 발전하기를 원한다면 개발자에게 약간의 비용을 공헌 하시겠습니까?\n\n귀하의 지원으로 저와 같은 독립 개발자가 보다 잘 구축 된 앱을 개발하고 제공 할 수 있습니다.\n\n지원하려면 Google Play 버튼을 클릭하십시오. 기고 후에는 Material Design 2, Outline, Export, Custom Paper / Background 등과 같은 Pro 기능을 받게 될 것입니다. 또한 감사의 표시로 향후 업데이트도 무료로 제공됩니다.\n여러분과 같은 지지자 덕분에 Pure Writer는 더 나은 업데이트를 위해 노력합니다. 마지막으로 지원해 주셔서 감사합니다!</string>
   <string name="tipRequirePro">이것은 프로 기능입니다</string>
   <string name="ok">승인</string>
   <string name="cancel">취소</string>
@@ -89,7 +89,7 @@
   <string name="labelUpdate">새로운 Pure Writer %1$s 를 사용할 수 있습니다</string>
   <string name="update">최신 정보</string>
   <string name="messageDeleteArticlesToTrash">이 기사를 삭제하고 휴지통으로 옮기시겠습니까?</string>
-  <string name="tipPurchasedStatusFailed">구입 한. 구매 상태가 업데이트되지 않은 경우 Pro 항목을 다시 클릭하십시오 (이 경우 이중 청구되지 않습니다)</string>
+  <string name="tipPurchasedStatusFailed">구매되었습니다. 구매 상태가 업데이트되지 않은 경우 Pro 항목을 다시 클릭하십시오 (이 경우 이중 청구되지 않습니다)</string>
   <string name="createNew">새 기사 만들기</string>
   <string name="autoLock">자동 잠금</string>
   <string name="enabled">가능</string>
@@ -100,9 +100,9 @@
   <string name="sortTypeModifiedTimeDown">수정 된 시간</string>
   <string name="sortTypeCreatedTimeDown">생성 된 시간</string>
   <string name="warningSavedFailed">기사 저장에 실패했습니다. 콘텐츠를 복사하고 앱을 다시 시작하여 콘텐츠가 손실되었는지 확인하십시오.</string>
-  <string name="backupNow">백업 지금</string>
-  <string name="backupToLocalNow">지금 로컬 스토리지로 백업</string>
-  <string name="backupToCloudNow">클라우드 스토리지로 지금 백업</string>
+  <string name="backupNow">지금 백업하기</string>
+  <string name="backupToLocalNow">로컬 스토리지로 백업</string>
+  <string name="backupToCloudNow">클라우드 스토리지로 백업</string>
   <string name="summaryBackupToLocal">백업 파일은 / backups 에 저장됩니다</string>
   <string name="summaryBackupToCloud">백업 파일은 설정된 경우 클라우드 저장소에 저장됩니다</string>
   <string name="restoreBackup">백업 복원</string>
@@ -123,26 +123,26 @@
   <string name="more">더</string>
   <string name="notSupportOpeningTheLink">지원되지 않는 링크</string>
   <string name="formatters">포맷터</string>
-  <string name="formatterSpace">한국어와 영어 단어 사이에 공백을 포함하십시오</string>
-  <string name="formatterIndent">모든 단락의 시작 부분에 들여 쓰기 삽입</string>
+  <string name="formatterSpace">한국어와 영어 단어 사이에 공백을 포함합니다</string>
+  <string name="formatterIndent">모든 단락의 시작 부분에 들여 쓰기를 삽입합니다</string>
   <string name="formatterLineBreak">단락 사이에 빈 줄을 두십시오</string>
   <string name="formatterRemoveBreak">단락 사이의 빈 줄을 모두 제거하십시오.</string>
-  <string name="titleAsAWordForACount">개별적으로 단어를 카운트</string>
-  <string name="trash">폐물</string>
+  <string name="titleAsAWordForACount">개별적으로 단어 수를 셉니다.</string>
+  <string name="trash">버리기</string>
   <string name="papers">배경 이미지</string>
-  <string name="custom">관습</string>
+  <string name="custom">커스텀(custom-옮긴이)</string>
   <string name="promptCustomPaper">RGB 값 또는 이미지 URL 링크</string>
   <string name="readMeCustomPaper">RGB 값 또는 이미지 링크 (예 : # 000000 또는 https://unsplash.com/photos/x.jpg)를 입력하십시오</string>
-  <string name="apply">대다</string>
-  <string name="defaultDark">기본 어두운</string>
-  <string name="pureWhite">순수한 흰색</string>
+  <string name="apply">적용</string>
+  <string name="defaultDark">기본 다크</string>
+  <string name="pureWhite">퓨어화이트</string>
   <string name="titleAlignCenter">제목을 중앙에 정렬</string>
-  <string name="tipShortcutBarEnabled">결산은 권장하지 않습니다</string>
-  <string name="open">열다</string>
+  <string name="tipShortcutBarEnabled">종료하지 않는 것이 좋습니다</string>
+  <string name="open">열기</string>
   <string name="summaryAutoBackup">앱이 종료되면 모든 기사가 자동으로 백업됩니다. 최신 파일은 25 개로 제한됩니다.</string>
   <string name="migratingData">데이터 이동</string>
   <string name="autoBackup">자동 백업</string>
-  <string name="summaryDeleteObsoleteFiles">우리는 이제 모든 컨텐츠를 저장하기 위해 개인 디렉토리를 사용하고 있습니다. SD 카드에 남아있는 이전 버전의 히스토리 파일을 삭제하려면 클릭하십시오</string>
+  <string name="summaryDeleteObsoleteFiles">저희는 이제 모든 콘텐츠를 저장하기 위해 개인 디렉토리를 사용하고 있습니다. SD 카드에 남아있는 이전 버전의 히스토리 파일을 삭제하려면 클릭하십시오</string>
   <string name="tipArticleDeleting">기사를 삭제하고 모든 작업을 일시적으로 비활성화</string>
   <string name="noHistory">역사를 찾을 수 없습니다</string>
   <string name="formatterRemoveIndent">들여 쓰기 제거</string>
@@ -151,40 +151,40 @@
   <string name="gfmBreaksDisabled">개행을 렌더링하려면 최소한 두 개의 줄 바꿈이 필요합니다</string>
   <string name="wordCountOfThisBook">총 합계</string>
   <string name="wordCountOfThisBookDescription">이 책의 총 단어 수</string>
-  <string name="timeMachineGuide">이게 뭐야? 채팅 창이나 아이디어를 기록 할 수있는 장소 또는 Google 어시스턴트와 유사한 것으로 볼 수 있습니다. Time Machine이라는 특수 이름이 있습니다. 그것은 당신을 만나서 반가워요!</string>
+  <string name="timeMachineGuide">이것은 무엇인가요? 이것은 채팅 창이나 아이디어를 기록 할 수있는 장소 또는 Google 어시스턴트와 유사한 것으로 볼 수 있습니다. 이것에게는 Time Machine이라는 특수 이름이 있습니다. 만나서 반가워요!</string>
   <string name="copyDate">복사 날짜</string>
   <string name="defaultBook">기본 도서</string>
   <string name="books">서적</string>
   <string name="createNewBook">새 책 만들기</string>
-  <string name="summaryOfAbout">이 애플리케이션을 위해 디자인 한 독창적 인 아이디어와 개념에 대해 자세히 알아보십시오</string>
+  <string name="summaryOfAbout">이 애플리케이션을 위해 디자인 한 독창적인 아이디어와 개념에 대해 자세히 알아보십시오</string>
   <string name="emptyTip">아직 개설 된 기사가 없습니다</string>
   <string name="name">이름</string>
   <string name="optionalDescription">설명 (선택 사항)</string>
   <string name="createBookForDialogButton">책 만들기</string>
-  <string name="openSourceLicenses">오픈 소스 라이센스</string>
+  <string name="openSourceLicenses">오픈 소스 라이선스</string>
   <string name="cannotDelete">삭제할 수 없습니다</string>
   <string name="cannotDeleteNotEmptyBook">책이 비어 있지 않습니다. 삭제하려면 먼저 기사를 개별적으로 삭제하십시오.</string>
-  <string name="move">움직임</string>
+  <string name="move">이동</string>
   <string name="moveTo">로 이동</string>
   <string name="timeMachine">타임 머신</string>
   <string name="listFirst">시작할 때 챕터 열기</string>
-  <string name="booksFirst">시작할 때 책을여십시오</string>
+  <string name="booksFirst">시작할 때 책 열기</string>
   <string name="language">언어</string>
-  <string name="followSystem">시스템을 따르십시오</string>
+  <string name="followSystem">시스템 설정</string>
   <string name="localPicture">로컬 이미지</string>
   <string name="selectPicture">이미지 선택</string>
   <string name="toastCannotRetrieveSelectedImage">선택한 이미지를 검색 할 수 없습니다</string>
   <string name="picture">영상</string>
   <string name="saved">저장되었습니다</string>
   <string name="sendTo">보내기</string>
-  <string name="mode">방법</string>
+  <string name="mode">모드</string>
   <string name="plainText">일반 텍스트</string>
   <string name="tipHasNotPermissionWithAutoBackup">스토리지 액세스 권한이 거부되어 백업에 실패했습니다.</string>
   <string name="hideTitleBarWhenPreviewingMarkdown">마크 다운을 미리 볼 때 제목 표시 줄 숨기기</string>
   <string name="privacyPolicy">개인 정보 정책</string>
   <string name="beforeRestoringYourBackup">백업을복원하기전에</string>
   <string name="trashDescription">삭제 된 기사 복구</string>
-  <string name="messageDeleteArticlesDirectly">이 기사를 완전히 삭제</string>
+  <string name="messageDeleteArticlesDirectly">이 기사 완전히 삭제</string>
   <string name="trashFolderTip">이 휴지통 폴더에 새 파일을 만들 수 없습니다!</string>
   <plurals name="confirmDeleteMessages">
     <item quantity="other">Are you sure to delete these %d messages?</item>
@@ -404,7 +404,7 @@
 
         #### 마크 다운 빠른 미리보기 ✨
 
-        편집기 페이지를 가로로 스 와이프하여 Markdown 빠른 미리보기 페이지에 빠르게 액세스 할 수 있습니다.
+        편집기 페이지를 가로로 스와이프하여 Markdown 빠른 미리보기 페이지에 빠르게 액세스 할 수 있습니다.
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/1.webp)
 
@@ -416,7 +416,7 @@
 
         #### 수출 도서
 
-        왼쪽 드로어의 상단 메뉴에서이 옵션을 찾을 수 있으며 모든 챕터 내용을 일반 텍스트 파일로 병합하는 데 도움이됩니다.
+        왼쪽 드로어의 상단 메뉴에서 이 옵션을 찾을 수 있으며 모든 챕터 내용을 일반 텍스트 파일로 병합하는 데 도움이됩니다.
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/3.webp)
 
@@ -456,7 +456,7 @@
   <string name="useLegacyRender">레거시 렌더러 사용</string>
   <string name="changelog">변경 로그</string>
   <string name="advancedReadOnlyMode">고급 읽기 전용 모드</string>
-  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">현재 카테고리의 맨 아래에있는 새 기사</string>
+  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">현재 카테고리의 맨 아래에 있는 새 기사</string>
   <string name="needOpenArticleFirst">이 옵션을 사용하려면 기사를 먼저 열어야합니다</string>
   <string name="restoreArticleScrollPosition">기사 스크롤 위치 복원</string>
   <string name="summaryScrollToBottom">편집기에이 버튼을 표시할지 여부</string>
@@ -475,7 +475,7 @@
   <string name="openArticleListAfterSwitchingBooks">책을 전환 한 후 기사 목록 열기</string>
   <string name="regex">정규식 (Regex)</string>
   <string name="searchArticles">기사 검색 / 기사로 빠르게 이동</string>
-  <string name="searchTip">도움말 : 줄 바꿈으로 검색 할 키워드를 여러 개 입력 할 수 있지만 결과에서 첫 번째 키워드 만 강조 표시됩니다.</string>
+  <string name="searchTip">도움말 : 줄 바꿈으로 검색 할 키워드를 여러 개 입력 할 수 있지만 결과에서 첫 번째 키워드만 강조 표시됩니다.</string>
   <string name="duplicate">복제</string>
   <string name="lowCloudFreeStorageSpaceWarning">%1$s에 %2$d MB의 사용 가능한 스토리지가 있으므로 Pure Writer가 클라우드에 저장하거나 백업하지 못할 수 있습니다. Pure Writer를 사용하기 전에 정리하고 %3$d MB 이상 남겨 두십시오!</string>
   <string name="unlimitedStorage">무제한 저장</string>
@@ -492,7 +492,7 @@
 
         더 많은 형식 지정자와 무료 조합에 대해서는이 [문서 페이지](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) 의 표를 확인할 수도 있습니다.
     ]]></string>
-  <string name="read">읽다</string>
+  <string name="read">읽기</string>
   <string name="introductionOfReadOnlyMode">* 커서가 보이지 않으면 커서를 놓고 편집 모드로 들어가려면 두 번 클릭해야합니다.\n* 커서가 보이면 클릭 한 번으로 텍스트를 편집하거나 수정할 수 있습니다\n* 커서가 표시되면 뒤로 키를 눌러 커서를 숨기고 읽기 전용 모드로 들어갈 수 있습니다</string>
   <string name="messageReadOnlyModeAndPro">고급 읽기 전용 모드에는 Pure Writer Pro가 필요합니다. 확인을 클릭하여 Pure Writer Pro 및 고급 기능을 얻거나 취소를 클릭하여 다음 실행 후 자동으로 취소 할 수 있습니다.</string>
   <string name="doNotRemindAgain">다시 상기시키지 마십시오</string>
@@ -500,7 +500,7 @@
   <string name="fabOverflowModeLongPress">한 번 클릭하여 기사를 직접 만들고 길게 누르면 팝업 메뉴가 열립니다.</string>
   <string name="homeFab">홈 플로팅 액션 버튼 모드</string>
   <string name="safeMode">안전 모드</string>
-  <string name="summarySafeMode">이 앱이 백그라운드 또는 최근 작업 목록 페이지에 들어가면이 앱의 내용이 가려 지거나 숨겨집니다. 이 항목을 켜면 앱의 스크린 샷도 금지됩니다</string>
+  <string name="summarySafeMode">이 앱이 백그라운드 또는 최근 작업 목록 페이지에 들어가면 이 앱의 내용이 가려지거나 숨겨집니다. 이 항목을 켜면 앱의 스크린 샷도 금지됩니다</string>
   <string name="pressBackToClearCursor">커서가 숨겨져 읽기 전용 모드로 들어갑니다</string>
   <string name="cursorJoyTutorial">이 버튼을 누른 상태에서 손가락을 움직여 커서 이동을 제어</string>
   <string name="tipBlueInputBox">팁 : 입력 한 후 Enter 키 ⏎를 눌러 파란색 입력 상자 밖으로 이동하십시오.</string>
