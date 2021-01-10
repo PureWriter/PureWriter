@@ -539,7 +539,7 @@
   <string name="copyCurrent">複製選擇的文本或當前全文</string>
   <string name="formatterAction">一鍵排版</string>
   <string name="scrollToTop">聚焦到頂部</string>
-  <string name="orSelectShortcutFunction">或選擇快捷功能</string>
+  <string name="orSelectShortcutFunction">或選擇快速功能</string>
   <string name="cursorJoy">移動光標</string>
   <string name="joyNotSupportTitleNow">該選項目前僅支持在正文中使用</string>
   <string name="blueInputBox">藍色填字框</string>
