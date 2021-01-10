@@ -535,7 +535,7 @@
   <string name="defaultShortcut2">「」</string>
   <string name="defaultShortcut1">『』</string>
   <string name="defaultShortcut3">（）</string>
-  <string name="textShortcut">文字快捷輸入項</string>
+  <string name="textShortcut">文字快速輸入項</string>
   <string name="copyCurrent">複製選擇的文本或當前全文</string>
   <string name="formatterAction">一鍵排版</string>
   <string name="scrollToTop">聚焦到頂部</string>
