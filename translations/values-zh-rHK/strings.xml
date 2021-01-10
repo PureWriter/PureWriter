@@ -11,7 +11,7 @@
   <string name="redo">重做</string>
   <string name="about">關於 | 幫助</string>
 
-  <string name="defaultContent">　　很高興見到你！\n　　這是一個快速的純文字編輯器，我們希望寫作能夠回到原本的樣子：<b>純粹、有安全感、隨時、絕對不遺失內容、具備良好的寫作體驗。</b>\n　　純純寫作實現了在 Android 上完美的行間距和段間距，它能夠使您的文字看起來更加舒適、清晰。同時，它還實現了「快捷輸入欄」和「格式化工具」，以及許多喜人的細節內容。\n　　最重要的，<b>在使用這個編輯器時，它將會保證您的內容永遠不會遺失，除非您主動將它清空。否則即使誤操作將文字刪除，或瞬間斷電，您仍然能夠從歷史記錄或備份中將它復原。</b>\n　　純純寫作還在流暢體驗上下了很多功夫，它擁有完美的鍵盤響應邏輯。使用純純寫作時，你能夠往下拖動快捷輸入欄來收起軟鍵盤；能夠點擊文章某一行後，動態獲得合適的游標焦點定位；能夠在收起軟鍵盤時，文章位置保持不動 … 許多這樣的細節內容，當你對比使用其他編輯器項目時，你才會發現純純寫作做得更加出色、流暢，細緻入微。\n　　蘊繁於簡。許多編輯器該有的功能，純純寫作也都沒有落下，比如 WebDAV 雲備份、段首縮排、生成長圖片、指紋加鎖、Markdown、更換信紙、夜間模式、單詞聯想輸入、打字機模式、復原、字數統計 等等。但即使這樣，純純寫作仍然保持了簡約的設計風格，遵循 Material Design 設計，並且它還有一個像是哆啦 A 夢 時光機 的圖標，寓意着「文字能夠連接過去，遙想未來」，也照應了純純寫作特別提供的「歷史記錄」功能。\n　　您能夠最快速度到達靈感頁面，能夠隨時隨地中斷和繼續寫作，這些我們都已經為您做好了。\n　　令人感到安心，順滑流暢的寫作體驗，如你所願，這就是純純寫作，請享受寫作吧！</string>
+  <string name="defaultContent">　　很高興見到你！\n　　這是一個快速的純文字編輯器，我們希望寫作能夠回到原本的樣子：<b>純粹、有安全感、隨時、絕對不遺失內容、具備良好的寫作體驗。</b>\n　　純純寫作實現了在 Android 上完美的行間距和段間距，它能夠使您的文字看起來更加舒適、清晰。同時，它還實現了「快速輸入列」和「格式化工具」，以及許多喜人的細節內容。\n　　最重要的，<b>在使用這個編輯器時，它將會保證您的內容永遠不會遺失，除非您主動將它清空。否則即使誤操作將文字刪除，或瞬間斷電，您仍然能夠從歷史記錄或備份中將它復原。</b>\n　　純純寫作還在流暢體驗上下了很多功夫，它擁有完美的鍵盤響應邏輯。使用純純寫作時，你能夠往下拖動快速輸入列來收起軟鍵盤；能夠點擊文章某一行後，動態獲得合適的游標焦點定位；能夠在收起軟鍵盤時，文章位置保持不動 … 許多這樣的細節內容，當你對比使用其他編輯器項目時，你才會發現純純寫作做得更加出色、流暢，細緻入微。\n　　蘊繁於簡。許多編輯器該有的功能，純純寫作也都沒有落下，比如 WebDAV 雲備份、段首縮排、生成長圖片、指紋加鎖、Markdown、更換信紙、夜間模式、單詞聯想輸入、打字機模式、復原、字數統計 等等。但即使這樣，純純寫作仍然保持了簡約的設計風格，遵循 Material Design 設計，並且它還有一個像是哆啦 A 夢 時光機 的圖標，寓意着「文字能夠連接過去，遙想未來」，也照應了純純寫作特別提供的「歷史記錄」功能。\n　　您能夠最快速度到達靈感頁面，能夠隨時隨地中斷和繼續寫作，這些我們都已經為您做好了。\n　　令人感到安心，順滑流暢的寫作體驗，如你所願，這就是純純寫作，請享受寫作吧！</string>
   <string name="copyTitle">複製標題</string>
   <string name="copyContent">複製正文內容</string>
   <string name="appPureMosaic">廣告:純純打碼</string>
@@ -57,17 +57,17 @@
   <string name="settings">設定</string>
   <string name="on">開啟</string>
   <string name="off">關閉</string>
-  <string name="shortcutBar">快捷輸入欄</string>
+  <string name="shortcutBar">快速輸入列</string>
   <string name="insertBlankLinesWhenExporting">匯出時自動插入空行</string>
   <string name="contentTextSize">正文字號</string>
   <string name="iKnow">我知道了</string>
   <string name="noteShortcutCursorIndex">請移動內容中的游標位置來設定最終插入文章後游標的落點</string>
   <string name="indentShort">縮排</string>
   <string name="delete">刪除</string>
-  <string name="messageDeleteShortcut">點擊確定將刪除這個快捷輸入項目</string>
+  <string name="messageDeleteShortcut">點擊確定將刪除這個快速輸入項目</string>
   <string name="promptShortcutTitle">簡短描述 (非必填)</string>
   <string name="promptShortcutContent">內容 (必填)</string>
-  <string name="createShortcut">建立快捷輸入項</string>
+  <string name="createShortcut">建立快速輸入項</string>
   <string-array name="nightModeEntries">
     <item>自動</item>
     <item>開啟夜間模式</item>
@@ -175,7 +175,7 @@
   <string name="plainText">純文字</string>
   <string name="mode">模式</string>
   <string name="tipHasNotPermissionWithAutoBackup">嘗試自動備份失敗，因為您沒有給予純純寫作存儲權限</string>
-  <string name="hideTitleBarWhenPreviewingMarkdown">預覽 Markdown 時隱藏標題欄</string>
+  <string name="hideTitleBarWhenPreviewingMarkdown">預覽 Markdown 時隱藏標題列</string>
   <string name="privacyPolicy">私隱政策</string>
   <string name="beforeRestoringYourBackup">復原備份之前</string>
   <string name="trashDescription">找回您刪除的文章</string>
@@ -186,13 +186,13 @@
   <string name="trashFolderTip">您處於廢紙簍資料夾中，該資料夾中無法建立新文章。</string>
   <string name="tipLandscapeOrientation">橫屏模式下請使用外接鍵盤</string>
   <string name="promptShortcutOrder">排序</string>
-  <string name="editShortcut">編輯快捷輸入項</string>
+  <string name="editShortcut">編輯快速輸入項</string>
   <string name="backupSettingTitle">備份與雲備份</string>
   <string name="backupSettingSummary">備份、復原、Dropbox、WebDAV、縮減資料庫大小</string>
   <string name="syncNetwork">雲備份網絡</string>
   <string name="syncOnlyWifi">只在 Wi-Fi 網絡下才允許自動備份到雲盤</string>
   <string name="syncAllNetworks">在所有網絡下都允許自動備份到雲盤</string>
-  <string name="tipJianguoyunURL">💡 提示：如果是堅果雲，您可以在「WebDAV 網址」一欄中直接填入「堅果雲」三個字即可</string>
+  <string name="tipJianguoyunURL">💡 提示：如果是堅果雲，您可以在「WebDAV 網址」一列中直接填入「堅果雲」三個字即可</string>
   <string name="webDavRootURL">WebDAV <b>網址</b></string>
   <string name="webDavAccount">WebDAV 賬號</string>
   <string name="webDavPassword">WebDAV 密碼</string>
@@ -219,7 +219,7 @@
   <string name="reduceDatabaseSizeMessage">刪除所有文章的歷史記錄。\n只是刪除歷史記錄，文章本身不會被刪除。\n\n建議您在刪除之前最好先進行一次備份。\n建議隔一段時間就進行一次資料庫瘦身，即刪除歷史記錄。</string>
   <string name="unlockPro">解鎖進階版</string>
   <string name="presetTitle1">純純寫作 - 願文字帶我們穿越時光，連接過去遙想未來</string>
-  <string name="presetContent1" tools:ignore="TypographyEllipsis">　　純純寫作是一款致力於提供 絕不遺失內容、快速、優秀寫作體驗 的 App。在 Google Play 應用商店翻看對於純純寫作來源於全世界使用者的評論時，你能夠找到大量使用者對純純寫作的誇張讚美，比如「沒用過這麼好用的 App」、「最滿意的 App」、「愛死這個 App」、「一見傾心」... 作為這個應用的唯一開發者，真是特別欣慰...\n　　2017 年 6 月末的一天，在經歷過其他編輯器應用導致的各種文字遺失事件，以及體驗了各種不如意、粗糙的寫作產品後，我決心自己來開發這麼一款 讓人隨時隨地能夠獲得安心的寫作感覺、提供寫作輔助、並真正從寫作者角度出發進行設計和開發的應用。\n　　在此之前，我在業餘時間負責獨立為「字裏行間」應用開發一個新的編輯器。那時我們在富文字編輯器上花費了大量心血，雖然最終也沒能在 Android 上實現我們覺得滿意的高性能富文字編輯器，但這個過程中我發明了許多獨有的有用的技術，這些技術用於開發一個純本文編輯器綽綽有餘。\n　　於是純純寫作誕生了，它一開始便在 Android 上實現了 完美的行間距和段間距 功能，做到了全系統相容，原生性能。這是純純寫作的獨有技術，除了微軟的 Office Word 你很難能夠再找到一款在手機上支援段間距和穩定行間距的編輯器。而 Office Word 的安裝包體積是純純寫作的幾十倍。\n　　除了獨有的段間距，純純寫作一開始還提供了「啟動立馬進入編輯頁面」以及特有的「歷史記錄」功能。特別是歷史記錄功能，實際上作為一個寫作者，我深知歷史記錄功能實在太重要了，它能夠讓你擁有難得的安心、放心寫作的感覺，而且純純寫作做到了即使手機瞬間斷電關機，也能夠實時自動儲存，絕不遺失內容。這樣的好處是，大家可以隨時暫停和隨時繼續寫作，並且配合純純寫作的軟鍵盤狀態記錄與復原，來回切換將令人感到特別流暢舒適。\n　　此外，純純寫作還支援「快捷輸入欄」和「格式化工具」，快捷輸入欄能夠讓使用者自訂快捷詞語和短語；格式化面板則能夠幫助使用者快速調整文章格式，比如在中英文之間自動插入空格，或者自動進行縮排調整等等。\n　　在實現了這些顯著功能以外，純純寫作還在細節體驗上下了很多功夫，它擁有 完美的鍵盤響應邏輯。使用純純寫作時，你能夠往下快速滑動頁面或快捷輸入欄來收起輸入法軟鍵盤；能夠點擊文章某一行後，動態獲得合適的游標焦點定位；能夠在收起軟鍵盤時，文章位置保持不動 ... 許多這樣的細節內容，當你對比使用其他編輯器項目時，你才會發現純純寫作做得更加出色，細緻入微。\n　　至於一個編輯器該有的功能，純純寫作也都沒有落下，比如 自動段首縮排、生成長圖片、懸浮字數統計、復原、Markdown、更換信紙、指紋加鎖、夜間模式、單詞聯想輸入、快速滾動、匯出和發送文件 等等。但即使這樣，純純寫作仍然保持了簡約、蘊繁於簡的設計風格，遵循 Material Design，並且我還為它畫了個像是機器貓 時光機 的圖標，寓意着「文字能夠連接過去，遙想未來」，也照應了純純寫作特別提供的「歷史記錄」功能。\n　　時至今日，純純寫作的開發工作已經有 1000 次程式碼提交了，程式碼變更十幾萬行。它花費了我幾乎所有的業餘時間，但很高興越來越多人告訴我他們對這個應用特別喜歡，相見恨晚；我也非常積極地與使用者交流，收集反饋，不斷完善。這令我感到前所未有的開心，想來自己做了一件很有意義並且值得長期投入的事情。\n　　感謝所有在這個過程支援和幫助過我的朋友，沒有你們，這個應用不能夠一步步做得更好，也不能夠長期不停地維護更新下去，真是太好了 ... 也因此今天我終於能夠寫這麼一篇文章來介紹純純寫作的初衷，和它的許多「特色功能」，希望能夠讓更多人認識到這個產品，願我們在人生歲月中，能夠記錄更多感動、留下更多回憶，願文字能夠帶我們穿越時光，連接過去，遙想未來。</string>
+  <string name="presetContent1" tools:ignore="TypographyEllipsis">　　純純寫作是一款致力於提供 絕不遺失內容、快速、優秀寫作體驗 的 App。在 Google Play 應用商店翻看對於純純寫作來源於全世界使用者的評論時，你能夠找到大量使用者對純純寫作的誇張讚美，比如「沒用過這麼好用的 App」、「最滿意的 App」、「愛死這個 App」、「一見傾心」... 作為這個應用的唯一開發者，真是特別欣慰...\n　　2017 年 6 月末的一天，在經歷過其他編輯器應用導致的各種文字遺失事件，以及體驗了各種不如意、粗糙的寫作產品後，我決心自己來開發這麼一款 讓人隨時隨地能夠獲得安心的寫作感覺、提供寫作輔助、並真正從寫作者角度出發進行設計和開發的應用。\n　　在此之前，我在業餘時間負責獨立為「字裏行間」應用開發一個新的編輯器。那時我們在富文字編輯器上花費了大量心血，雖然最終也沒能在 Android 上實現我們覺得滿意的高性能富文字編輯器，但這個過程中我發明了許多獨有的有用的技術，這些技術用於開發一個純本文編輯器綽綽有餘。\n　　於是純純寫作誕生了，它一開始便在 Android 上實現了 完美的行間距和段間距 功能，做到了全系統相容，原生性能。這是純純寫作的獨有技術，除了微軟的 Office Word 你很難能夠再找到一款在手機上支援段間距和穩定行間距的編輯器。而 Office Word 的安裝包體積是純純寫作的幾十倍。\n　　除了獨有的段間距，純純寫作一開始還提供了「啟動立馬進入編輯頁面」以及特有的「歷史記錄」功能。特別是歷史記錄功能，實際上作為一個寫作者，我深知歷史記錄功能實在太重要了，它能夠讓你擁有難得的安心、放心寫作的感覺，而且純純寫作做到了即使手機瞬間斷電關機，也能夠實時自動儲存，絕不遺失內容。這樣的好處是，大家可以隨時暫停和隨時繼續寫作，並且配合純純寫作的軟鍵盤狀態記錄與復原，來回切換將令人感到特別流暢舒適。\n　　此外，純純寫作還支援「快速輸入列」和「格式化工具」，快速輸入列能夠讓使用者自訂快速詞語和短語；格式化面板則能夠幫助使用者快速調整文章格式，比如在中英文之間自動插入空格，或者自動進行縮排調整等等。\n　　在實現了這些顯著功能以外，純純寫作還在細節體驗上下了很多功夫，它擁有 完美的鍵盤響應邏輯。使用純純寫作時，你能夠往下快速滑動頁面或快速輸入列來收起輸入法軟鍵盤；能夠點擊文章某一行後，動態獲得合適的游標焦點定位；能夠在收起軟鍵盤時，文章位置保持不動 ... 許多這樣的細節內容，當你對比使用其他編輯器項目時，你才會發現純純寫作做得更加出色，細緻入微。\n　　至於一個編輯器該有的功能，純純寫作也都沒有落下，比如 自動段首縮排、生成長圖片、懸浮字數統計、復原、Markdown、更換信紙、指紋加鎖、夜間模式、單詞聯想輸入、快速滾動、匯出和發送文件 等等。但即使這樣，純純寫作仍然保持了簡約、蘊繁於簡的設計風格，遵循 Material Design，並且我還為它畫了個像是機器貓 時光機 的圖標，寓意着「文字能夠連接過去，遙想未來」，也照應了純純寫作特別提供的「歷史記錄」功能。\n　　時至今日，純純寫作的開發工作已經有 1000 次程式碼提交了，程式碼變更十幾萬行。它花費了我幾乎所有的業餘時間，但很高興越來越多人告訴我他們對這個應用特別喜歡，相見恨晚；我也非常積極地與使用者交流，收集反饋，不斷完善。這令我感到前所未有的開心，想來自己做了一件很有意義並且值得長期投入的事情。\n　　感謝所有在這個過程支援和幫助過我的朋友，沒有你們，這個應用不能夠一步步做得更好，也不能夠長期不停地維護更新下去，真是太好了 ... 也因此今天我終於能夠寫這麼一篇文章來介紹純純寫作的初衷，和它的許多「特色功能」，希望能夠讓更多人認識到這個產品，願我們在人生歲月中，能夠記錄更多感動、留下更多回憶，願文字能夠帶我們穿越時光，連接過去，遙想未來。</string>
   <string name="presetTitle2">純純寫作 - 保護機制</string>
   <string name="presetContent2">目前為止純純寫作保護文章避免遺失的防線有： \n1. 文章一旦變動就會觸發自動儲存，自動儲存時，若失敗則立馬警告使用者 \n2. 每隔 2 秒進行一次主動檢查文章是否正常存入資料庫、是否與資料庫內容對等，若失敗則立馬警告使用者 \n3. 如果儲存失敗，則無法真正退出應用，此時按退出鍵等於按 Home 鍵，儘可能給予使用者自行儲存的機會 \n4. 每次切到後台或退出應用，如若文章有變化，則進行一次自動備份整個資料庫，備份內容可以隨時復原，復原之前會自動備份「復原之前」的內容以供放棄復原 \n5. 為每一篇文章提供歷史記錄、復原與重做 \n6. 提供廢紙簍，避免誤刪文章 \n7. 雲備份，如果設定 WebDAV，則純純寫作會預設開啟雲備份功能，自動將你的 db 資料庫文件（包含全量文章）同步到雲端</string>
   <string name="presetTitle3">關於純純寫作進階版</string>
@@ -232,7 +232,7 @@
   <string name="forcedWhiteTextColor">強制白色字體</string>
   <string name="paragraphSpacing">段間距</string>
   <string name="onlyAvailableWhenParagraphOn">僅在開啟段間距時有效</string>
-  <string name="lowProfile">狀態欄專注模式</string>
+  <string name="lowProfile">狀態列專注模式</string>
   <string name="chapters">篇章</string>
   <string name="sortTypeTitleUp">標題升序</string>
   <string name="sortTypeTitleDown">標題降序</string>
@@ -276,7 +276,7 @@
   <string name="smoothScrollerTitle">順滑的聚焦文字行滾動動畫</string>
   <string name="tipSmoothScrolling">如果開啟這個選項，當你點擊正文的某一行，若有必要，編輯器會順滑地滾動頁面到該行。如果這個選項關閉，則會瞬間跳躍到該行。\n滾動動畫可能在一些裝置上表現不佳，因此如果你感覺到卡頓，請關閉這個選項。</string>
   <string name="defaultMessageUpdateApk">這是一個重要的版本，請儘快更新到這個版本</string>
-  <string name="readme">您已開啟了純純寫作新的 Material Design 2 設計。\n\nMaterial Design 2 帶來了新的全螢幕沉浸稿紙和透明化頂欄，更加精緻多彩。\n\n但與此同時，新的設計可能存在諸多問題，因此這個特性作為純純寫作的一個實驗性功能，它可能存在一些 UI 視覺上的問題。另外，作為純純寫作的作者，相對來說，我更喜歡純純寫作預設原版設計，它更加耐看和令人專注文字內容，因此這個主題實際上是應少部分使用者強烈要求而特意開發的，它給開發者造出了額外的開發成本，能夠提供出來實屬不易，而且由於需要兼顧兩套設計和主題，開發者的工作可能會成倍增加。\n\n鑑於此，如果開啟 Material Design 2 後純純寫作將採用強制收費方式，但您仍然可以有許多時間去體驗並作出最終付費決定。請儘量支持它，如果經過統計發現最終願意付費的使用者比例很少，開發者可能會復原或停止提供 Material Design 2。您一旦開啟 Material Design 2，將視為預設同意此內容。\n\n謝謝大家！我會竭盡全力提供一個越來越好的純純寫作，請享用！</string>
+  <string name="readme">您已開啟了純純寫作新的 Material Design 2 設計。\n\nMaterial Design 2 帶來了新的全螢幕沉浸稿紙和透明化頂部列，更加精緻多彩。\n\n但與此同時，新的設計可能存在諸多問題，因此這個特性作為純純寫作的一個實驗性功能，它可能存在一些 UI 視覺上的問題。另外，作為純純寫作的作者，相對來說，我更喜歡純純寫作預設原版設計，它更加耐看和令人專注文字內容，因此這個主題實際上是應少部分使用者強烈要求而特意開發的，它給開發者造出了額外的開發成本，能夠提供出來實屬不易，而且由於需要兼顧兩套設計和主題，開發者的工作可能會成倍增加。\n\n鑑於此，如果開啟 Material Design 2 後純純寫作將採用強制收費方式，但您仍然可以有許多時間去體驗並作出最終付費決定。請儘量支持它，如果經過統計發現最終願意付費的使用者比例很少，開發者可能會復原或停止提供 Material Design 2。您一旦開啟 Material Design 2，將視為預設同意此內容。\n\n謝謝大家！我會竭盡全力提供一個越來越好的純純寫作，請享用！</string>
   <string name="lowFreeStorageSpaceWarning">您的手機剩餘存儲空間已經只有 %1$d MB, 這可能導致純純寫作儲存或備份失敗，請務必清理留出 %2$d MB 以上空間後再使用純純寫作！</string>
   <string name="pureWriterBBS">純純寫作論壇</string>
   <string name="replaceConfirmMessage">你確定要取代 %d 處內容嗎？</string>
@@ -299,7 +299,7 @@
   <string name="doNotOverwrite">不覆蓋</string>
   <string name="signOut">登出</string>
   <string name="changeAccount">更換帳號</string>
-  <string name="scrollToHideTopBar">滾動以隱藏頂欄</string>
+  <string name="scrollToHideTopBar">滾動以隱藏頂部列</string>
   <string name="doNotOperate">請不要在此過程中切換或修改文章！</string>
   <string name="aboutBackup"><b>《使用者須知：關於備份》</b></string>
   <string name="backupReadme">純純寫作支持本地備份和雲備份，本地備份是自動進行的，當您重裝純純寫作後，<b>可通過備份來恢復所有文章和啟動狀態</b>。\n\n但是，純純寫作<b>默認不會自動進行雲備份</b>，若要啟用自動雲備份，<b>您需要設置雲備份賬號</b>，在 純純寫作 - 設置 - 備份 頁面可選擇雲備份類型和設置<b>雲備份賬號</b>。\n\n純純寫作雲備份支持 WebDAV / 堅果雲網盤和 Dropbox 網盤。\n\n<b>雲備份非常重要，若您不設置雲備份，則萬一手機丟了、壞了、刷機雙清、恢復出廠設置，都將失去您所有寶貴的創作內容！請務必設置雲備份，萬無一失。</b></string>
@@ -323,13 +323,13 @@
   <string name="clearThisContent"><b>清空</b>當前正文</string>
   <string name="needToManuallyRestartToTakeEffect">需要重啟以生效</string>
   <string name="spellChecker">拼寫檢查</string>
-  <string name="thisShortcutCannotBeEdited">這個快捷輸入項無法被編輯</string>
+  <string name="thisShortcutCannotBeEdited">這個快速輸入項無法被編輯</string>
   <string name="createNewChapter">建立新篇章</string>
   <string name="currentText">目前正文</string>
   <string name="hideSoftKeyboard">收起軟鍵盤</string>
-  <string name="transparentTopBar">透明頂欄</string>
-  <string name="transparentNavigationBarWarning">這是一個實驗性特性，開啟它之後，可能導致軟鍵盤高度檢查不正確，進而導致快捷輸入欄無法顯示和文字聚焦失常，如果遇到這些問題，請關閉此選項。</string>
-  <string name="transparentNavigationBar">透明虛擬導航欄</string>
+  <string name="transparentTopBar">透明頂部列</string>
+  <string name="transparentNavigationBarWarning">這是一個實驗性特性，開啟它之後，可能導致軟鍵盤高度檢查不正確，進而導致快速輸入列無法顯示和文字聚焦失常，如果遇到這些問題，請關閉此選項。</string>
+  <string name="transparentNavigationBar">透明虛擬導航列</string>
   <string name="titleAsAWordForACountSummary">開啟此項後，下一項「字數統計模式」將無效，如果想使用「字數統計模式」中的選項，請關閉此項。</string>
   <string name="customFont">自定義字體</string>
   <string name="customFontTip">請將 .ttf 或 .otf 字體文件置於外部存儲目錄 <b>/Documents/PureWriter/App</b> 下，並重啟純純寫作即可自動應用該字體。 \n注意：該目錄下只能有一個字體文件，而且部分字體文件（如 Google Sans）可能導致光標偏移，請知悉！</string>
@@ -352,7 +352,7 @@
   <string name="collapseAllCategories">收起所有卷</string>
   <string name="showMore">顯示更多</string>
   <string name="textColorAlpha">字體顏色透明度</string>
-  <string name="desktopDialogGuide">您需要從\nhttps://writer.drakeet.com/desktop_zh \n下載<b><i>純純寫作桌面版 0.3.1 或以上版本</i></b>。\n\n當手機與電腦<b>處於同一個 Wi-Fi 網絡或熱點</b>時👈👈👈，打開桌面版後將以下的 IP 地址<b>輸入於桌面版中的輸入欄中</b>，即可與桌面版實時連接，雙向同步編輯當前文章。</string>
+  <string name="desktopDialogGuide">您需要從\nhttps://writer.drakeet.com/desktop_zh \n下載<b><i>純純寫作桌面版 0.3.1 或以上版本</i></b>。\n\n當手機與電腦<b>處於同一個 Wi-Fi 網絡或熱點</b>時👈👈👈，打開桌面版後將以下的 IP 地址<b>輸入於桌面版中的輸入列中</b>，即可與桌面版實時連接，雙向同步編輯當前文章。</string>
   <string name="desktopDialogNote">注意：當前純純寫作桌面版還處於非常初級階段，許多功能未完善，請您理解和靜待其後續更新。\n* 若您看到<b>多行 IP 地址</b>，請逐一嘗試連接它們。\n* Windows 版存放<b>路徑中不能包含中文</b>目錄，否則將會無法使用！</string>
   <string name="tipNotSupportThisDesktopVersion">當前手機端和桌面端版本不匹配，無法連接，請各自更新到最新版後重試</string>
   <string name="connect">連接</string>
@@ -360,10 +360,10 @@
   <string name="connectionIsStopping">連接仍然在斷開中，請稍後重試！</string>
   <string name="disconnectDesktop">斷開與桌面版的連接</string>
   <string name="linksCard" translatable="false">純純寫作 - 願文字帶我們穿越時光，連接過去，遙想未來\nhttps://writer.drakeet.com</string>
-  <string name="createShortcutLabel">創建快捷輸入項</string>
+  <string name="createShortcutLabel">創建快速輸入項</string>
   <string name="cursorPositionForNewArticle">新文章的光標位置</string>
   <string name="stop_waiting_connection">停止等待連接</string>
-  <string name="undoValidTip">當前聚焦的輸入欄已無法再進一步「撤銷」了，您可以嘗試從右上角的「歷史記錄」菜單中恢復您的內容。</string>
+  <string name="undoValidTip">當前聚焦的輸入列已無法再進一步「撤銷」了，您可以嘗試從右上角的「歷史記錄」菜單中恢復您的內容。</string>
   <string name="desktopConnected">已成功連接桌面版</string>
   <string name="desktopDisconnected">已斷開連接桌面版</string>
   <string name="double11Title">11·11 限時半價活動</string>
@@ -378,7 +378,7 @@
   <string name="paragraphSpacingSettingSummary">關閉段間距後，對於超長文本將獲得更好的性能</string>
   <string name="onlyAvailableWhenParagraphOff">僅在關閉段間距時有效</string>
   <string name="markdownAsDefault">Markdown 作為新建文章默認模式</string>
-  <string name="needToPayForMarkdownRenderer">這是 Markdown 快捷預覽頁面，它需要您付費獲得純純寫作高級版才能使用。</string>
+  <string name="needToPayForMarkdownRenderer">這是 Markdown 快速預覽頁面，它需要您付費獲得純純寫作高級版才能使用。</string>
   <string name="fabContextCreateNewAfterCurrent">在 當前文章之後 插入新文章</string>
   <string name="fabContextCreateNewAtTheBottom">在 文章列表底部 插入新文章</string>
   <string name="fabContextHideFabUntilNextStart">隱藏這個按鈕直到下次啟動</string>
@@ -407,7 +407,7 @@
   <string name="notYetActivatedOrExpired">尚未激活或已過期</string>
   <string name="requiresAtLeast6Characters">需要至少六位字符</string>
   <string name="customPapers">自定義稿紙\n精緻、沉浸</string>
-  <string name="markdownQuickPreview">Markdown 快捷預覽\n橫向滑動編輯器即可預覽</string>
+  <string name="markdownQuickPreview">Markdown 快速預覽\n橫向滑動編輯器即可預覽</string>
   <string name="exportToPicMdTxt">另存為、導出為長圖片、md、txt</string>
   <string name="materialDesign2ThemeWithLineBreak">Material Design 2\n主題</string>
   <string name="veryVerySmooth">非常非常順滑流暢</string>
@@ -425,7 +425,7 @@
 
         ![圖片](https://gitee.com/PureWriter/resources/raw/master/pro/0.webp)
 
-        #### Markdown 快捷預覽 ✨
+        #### Markdown 快速預覽 ✨
 
         您可以**左右滑動編輯器**頁面來快速進入 Markdown 預覽頁面：
 
@@ -451,7 +451,7 @@
 
         #### Material Design 2 主題
 
-        開啟 Material Design 2 主題後，您將獲得透明化的頂欄，它不再是純黑色的，這可以獲得更加沉浸式的精美 UI：
+        開啟 Material Design 2 主題後，您將獲得透明化的頂部列，它不再是純黑色的，這可以獲得更加沉浸式的精美 UI：
 
         ![圖片](https://gitee.com/PureWriter/resources/raw/master/pro/5.webp)
 
@@ -473,7 +473,7 @@
     ]]></string>
   <string name="messageThankYouForYourSupport">\"遇到喜歡的東西就把它買下來，錢並不是真的花掉了，只是換一種方式，陪伴在你身邊…\"😋\n\n同時，您的支持能夠讓純純寫作更好地堅持開發下去，使我們一直堅持好的方向，良心的產品，並且激勵更多的獨立開發者。\n\n純純寫作因為您的支持而能夠不斷更新、完善，非常感謝！</string>
   <string name="buyPureWriterPro"><b>購買純純寫作</b> Pro</string>
-  <string name="tipMarkdownQuickPreview">橫向劃動到下一個頁面\n可以進行 Markdown 快捷預覽</string>
+  <string name="tipMarkdownQuickPreview">橫向劃動到下一個頁面\n可以進行 Markdown 快速預覽</string>
   <string name="expiresOn">到期日</string>
   <string name="lifetime">有效期至永久</string>
   <string name="proExpired">會員已過期</string>
@@ -535,11 +535,11 @@
   <string name="defaultShortcut2">「」</string>
   <string name="defaultShortcut1">『』</string>
   <string name="defaultShortcut3">（）</string>
-  <string name="textShortcut">文字快捷輸入項</string>
+  <string name="textShortcut">文字快速輸入項</string>
   <string name="copyCurrent">複製選擇的文本或當前全文</string>
   <string name="formatterAction">一鍵排版</string>
   <string name="scrollToTop">聚焦到頂部</string>
-  <string name="orSelectShortcutFunction">或選擇快捷功能</string>
+  <string name="orSelectShortcutFunction">或選擇快速功能</string>
   <string name="cursorJoy">移動光標</string>
   <string name="joyNotSupportTitleNow">該選項目前僅支持在正文中使用</string>
   <string name="blueInputBox">藍色填字框</string>
