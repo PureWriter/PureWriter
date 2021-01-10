@@ -276,7 +276,7 @@
   <string name="smoothScrollerTitle">順滑的聚焦文字行滾動動畫</string>
   <string name="tipSmoothScrolling">如果開啟這個選項，當你點擊正文的某一行，若有必要，編輯器會順滑地滾動頁面到該行。如果這個選項關閉，則會瞬間跳躍到該行。\n滾動動畫可能在一些裝置上表現不佳，因此如果你感覺到卡頓，請關閉這個選項。</string>
   <string name="defaultMessageUpdateApk">這是一個重要的版本，請儘快更新到這個版本</string>
-  <string name="readme">您已開啟了純純寫作新的 Material Design 2 設計。\n\nMaterial Design 2 帶來了新的全螢幕沉浸稿紙和透明化頂欄，更加精緻多彩。\n\n但與此同時，新的設計可能存在諸多問題，因此這個特性作為純純寫作的一個實驗性功能，它可能存在一些 UI 視覺上的問題。另外，作為純純寫作的作者，相對來說，我更喜歡純純寫作預設原版設計，它更加耐看和令人專注文字內容，因此這個主題實際上是應少部分使用者強烈要求而特意開發的，它給開發者造出了額外的開發成本，能夠提供出來實屬不易，而且由於需要兼顧兩套設計和主題，開發者的工作可能會成倍增加。\n\n鑑於此，如果開啟 Material Design 2 後純純寫作將採用強制收費方式，但您仍然可以有許多時間去體驗並作出最終付費決定。請儘量支持它，如果經過統計發現最終願意付費的使用者比例很少，開發者可能會復原或停止提供 Material Design 2。您一旦開啟 Material Design 2，將視為預設同意此內容。\n\n謝謝大家！我會竭盡全力提供一個越來越好的純純寫作，請享用！</string>
+  <string name="readme">您已開啟了純純寫作新的 Material Design 2 設計。\n\nMaterial Design 2 帶來了新的全螢幕沉浸稿紙和透明化頂部列，更加精緻多彩。\n\n但與此同時，新的設計可能存在諸多問題，因此這個特性作為純純寫作的一個實驗性功能，它可能存在一些 UI 視覺上的問題。另外，作為純純寫作的作者，相對來說，我更喜歡純純寫作預設原版設計，它更加耐看和令人專注文字內容，因此這個主題實際上是應少部分使用者強烈要求而特意開發的，它給開發者造出了額外的開發成本，能夠提供出來實屬不易，而且由於需要兼顧兩套設計和主題，開發者的工作可能會成倍增加。\n\n鑑於此，如果開啟 Material Design 2 後純純寫作將採用強制收費方式，但您仍然可以有許多時間去體驗並作出最終付費決定。請儘量支持它，如果經過統計發現最終願意付費的使用者比例很少，開發者可能會復原或停止提供 Material Design 2。您一旦開啟 Material Design 2，將視為預設同意此內容。\n\n謝謝大家！我會竭盡全力提供一個越來越好的純純寫作，請享用！</string>
   <string name="lowFreeStorageSpaceWarning">您的手機剩餘存儲空間已經只有 %1$d MB, 這可能導致純純寫作儲存或備份失敗，請務必清理留出 %2$d MB 以上空間後再使用純純寫作！</string>
   <string name="pureWriterBBS">純純寫作論壇</string>
   <string name="replaceConfirmMessage">你確定要取代 %d 處內容嗎？</string>
@@ -299,7 +299,7 @@
   <string name="doNotOverwrite">不覆蓋</string>
   <string name="signOut">登出</string>
   <string name="changeAccount">更換帳號</string>
-  <string name="scrollToHideTopBar">滾動以隱藏頂欄</string>
+  <string name="scrollToHideTopBar">滾動以隱藏頂部列</string>
   <string name="doNotOperate">請不要在此過程中切換或修改文章！</string>
   <string name="aboutBackup"><b>《使用者須知：關於備份》</b></string>
   <string name="backupReadme">純純寫作支持本地備份和雲備份，本地備份是自動進行的，當您重裝純純寫作後，<b>可通過備份來恢復所有文章和啟動狀態</b>。\n\n但是，純純寫作<b>默認不會自動進行雲備份</b>，若要啟用自動雲備份，<b>您需要設置雲備份賬號</b>，在 純純寫作 - 設置 - 備份 頁面可選擇雲備份類型和設置<b>雲備份賬號</b>。\n\n純純寫作雲備份支持 WebDAV / 堅果雲網盤和 Dropbox 網盤。\n\n<b>雲備份非常重要，若您不設置雲備份，則萬一手機丟了、壞了、刷機雙清、恢復出廠設置，都將失去您所有寶貴的創作內容！請務必設置雲備份，萬無一失。</b></string>
@@ -327,7 +327,7 @@
   <string name="createNewChapter">建立新篇章</string>
   <string name="currentText">目前正文</string>
   <string name="hideSoftKeyboard">收起軟鍵盤</string>
-  <string name="transparentTopBar">透明頂欄</string>
+  <string name="transparentTopBar">透明頂部列</string>
   <string name="transparentNavigationBarWarning">這是一個實驗性特性，開啟它之後，可能導致軟鍵盤高度檢查不正確，進而導致快速輸入列無法顯示和文字聚焦失常，如果遇到這些問題，請關閉此選項。</string>
   <string name="transparentNavigationBar">透明虛擬導航欄</string>
   <string name="titleAsAWordForACountSummary">開啟此項後，下一項「字數統計模式」將無效，如果想使用「字數統計模式」中的選項，請關閉此項。</string>
@@ -451,7 +451,7 @@
 
         #### Material Design 2 主題
 
-        開啟 Material Design 2 主題後，您將獲得透明化的頂欄，它不再是純黑色的，這可以獲得更加沉浸式的精美 UI：
+        開啟 Material Design 2 主題後，您將獲得透明化的頂部列，它不再是純黑色的，這可以獲得更加沉浸式的精美 UI：
 
         ![圖片](https://gitee.com/PureWriter/resources/raw/master/pro/5.webp)
 
