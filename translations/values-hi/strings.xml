@@ -508,4 +508,7 @@
   <string name="blueInputBox">ब्लू इनपुट बॉक्स</string>
   <string name="newOutline">नई रूपरेखा</string>
   <string name="smoothCursor">चिकना कर्सर</string>
+  <string name="typeOfTimeDisplayed">प्रदर्शित समय का प्रकार</string>
+  <string name="timeModified">समय संशोधित हुआ</string>
+  <string name="timeCreated">समय बनाया</string>
 </resources>

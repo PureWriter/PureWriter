@@ -546,4 +546,8 @@
   <string name="editorMarkdownSyncScrolling">編輯器 ⇋ Markdown 雙向同步滾動</string>
   <string name="newOutline">創建大綱項</string>
   <string name="smoothCursor">順滑光標</string>
+  <string name="typeOfTimeDisplayed">顯示時間類型</string>
+  <string name="timeModified">更新時間</string>
+  <string name="timeCreated">創建時間</string>
+  <string name="timeCreatedAndModified">創建 + 更新時間</string>
 </resources>

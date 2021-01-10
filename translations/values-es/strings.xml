@@ -515,4 +515,7 @@
   <string name="editorMarkdownSyncScrolling">Desplazamiento de sincronización para Editor ⇋ Markdown</string>
   <string name="newOutline">Nuevo esquema</string>
   <string name="smoothCursor">Cursor suave</string>
+  <string name="typeOfTimeDisplayed">Tipo de tiempo mostrado</string>
+  <string name="timeModified">Hora modificada</string>
+  <string name="timeCreated">El tiempo creado</string>
 </resources>

@@ -589,4 +589,8 @@
   <string name="editorMarkdownSyncScrolling">Sync scrolling for Editor ⇋ Markdown</string>
   <string name="newOutline">New Outline</string>
   <string name="smoothCursor">Smooth cursor</string>
+  <string name="typeOfTimeDisplayed">Type of time displayed</string>
+  <string name="timeModified">Time Modified</string>
+  <string name="timeCreated">Time Created</string>
+  <string name="timeCreatedAndModified">Time Created &amp; Modified</string>
 </resources>

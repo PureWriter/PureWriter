@@ -520,4 +520,7 @@
   <string name="editorMarkdownSyncScrolling">Sincronizza lo scorrimento per Editor ⇋ Markdown</string>
   <string name="newOutline">Nuovo profilo</string>
   <string name="smoothCursor">Cursore liscio</string>
+  <string name="typeOfTimeDisplayed">Tipo di tempo visualizzato</string>
+  <string name="timeModified">Ora modificata</string>
+  <string name="timeCreated">Tempo creato</string>
 </resources>

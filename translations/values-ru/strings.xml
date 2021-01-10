@@ -497,4 +497,7 @@
   <string name="editorMarkdownSyncScrolling">Синхронизация прокрутки для редактора ⇋ Markdown</string>
   <string name="newOutline">Новый план</string>
   <string name="smoothCursor">Гладкий курсор</string>
+  <string name="typeOfTimeDisplayed">Тип отображаемого времени</string>
+  <string name="timeModified">Время изменено</string>
+  <string name="timeCreated">Время создано</string>
 </resources>

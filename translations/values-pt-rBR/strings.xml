@@ -536,4 +536,7 @@
   <string name="blueInputBox">Caixa de entrada azul</string>
   <string name="newOutline">Novo Esboço</string>
   <string name="smoothCursor">Cursor suave</string>
+  <string name="typeOfTimeDisplayed">Tipo de tempo exibido</string>
+  <string name="timeModified">Tempo modificado</string>
+  <string name="timeCreated">Tempo criado</string>
 </resources>

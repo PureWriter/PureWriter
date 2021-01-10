@@ -511,4 +511,8 @@
   <string name="blueInputBox">青い入力ボックス</string>
   <string name="newOutline">新しい概要</string>
   <string name="smoothCursor">スムーズカーソル</string>
+  <string name="typeOfTimeDisplayed">表示される時間の種類</string>
+  <string name="timeModified">更新時間</string>
+  <string name="timeCreated">作成された時間</string>
+  <string name="timeCreatedAndModified">作成+更新時間</string>
 </resources>

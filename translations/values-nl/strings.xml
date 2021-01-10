@@ -511,4 +511,7 @@
   <string name="editorMarkdownSyncScrolling">Synchroniseer scrollen voor Editor ⇋ Markdown</string>
   <string name="newOutline">Nieuw overzicht</string>
   <string name="smoothCursor">Vloeiende cursor</string>
+  <string name="typeOfTimeDisplayed">Type weergegeven tijd</string>
+  <string name="timeModified">Tijd gewijzigd</string>
+  <string name="timeCreated">Tijd gemaakt</string>
 </resources>

@@ -515,4 +515,7 @@
   <string name="blueInputBox">파란색 입력 상자</string>
   <string name="newOutline">새로운 개요</string>
   <string name="smoothCursor">부드러운 커서</string>
+  <string name="typeOfTimeDisplayed">표시되는 시간 유형</string>
+  <string name="timeModified">수정 된 시간</string>
+  <string name="timeCreated">생성 시간</string>
 </resources>

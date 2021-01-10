@@ -516,4 +516,7 @@
   <string name="editorMarkdownSyncScrolling">Sinkronisasi bergulir untuk Editor ⇋ Markdown</string>
   <string name="newOutline">Garis Besar Baru</string>
   <string name="smoothCursor">Kursor halus</string>
+  <string name="typeOfTimeDisplayed">Jenis waktu yang ditampilkan</string>
+  <string name="timeModified">Waktu diubah</string>
+  <string name="timeCreated">Waktu diciptakan</string>
 </resources>
