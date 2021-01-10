@@ -175,7 +175,7 @@
   <string name="plainText">純文字</string>
   <string name="mode">模式</string>
   <string name="tipHasNotPermissionWithAutoBackup">嘗試自動備份失敗，因為您沒有給予純純寫作存儲權限</string>
-  <string name="hideTitleBarWhenPreviewingMarkdown">預覽 Markdown 時隱藏標題欄</string>
+  <string name="hideTitleBarWhenPreviewingMarkdown">預覽 Markdown 時隱藏標題列</string>
   <string name="privacyPolicy">私隱政策</string>
   <string name="beforeRestoringYourBackup">復原備份之前</string>
   <string name="trashDescription">找回您刪除的文章</string>
@@ -232,7 +232,7 @@
   <string name="forcedWhiteTextColor">強制白色字體</string>
   <string name="paragraphSpacing">段間距</string>
   <string name="onlyAvailableWhenParagraphOn">僅在開啟段間距時有效</string>
-  <string name="lowProfile">狀態欄專注模式</string>
+  <string name="lowProfile">狀態列專注模式</string>
   <string name="chapters">篇章</string>
   <string name="sortTypeTitleUp">標題升序</string>
   <string name="sortTypeTitleDown">標題降序</string>
@@ -329,7 +329,7 @@
   <string name="hideSoftKeyboard">收起軟鍵盤</string>
   <string name="transparentTopBar">透明頂部列</string>
   <string name="transparentNavigationBarWarning">這是一個實驗性特性，開啟它之後，可能導致軟鍵盤高度檢查不正確，進而導致快速輸入列無法顯示和文字聚焦失常，如果遇到這些問題，請關閉此選項。</string>
-  <string name="transparentNavigationBar">透明虛擬導航欄</string>
+  <string name="transparentNavigationBar">透明虛擬導航列</string>
   <string name="titleAsAWordForACountSummary">開啟此項後，下一項「字數統計模式」將無效，如果想使用「字數統計模式」中的選項，請關閉此項。</string>
   <string name="customFont">自定義字體</string>
   <string name="customFontTip">請將 .ttf 或 .otf 字體文件置於外部存儲目錄 <b>/Documents/PureWriter/App</b> 下，並重啟純純寫作即可自動應用該字體。 \n注意：該目錄下只能有一個字體文件，而且部分字體文件（如 Google Sans）可能導致光標偏移，請知悉！</string>
@@ -352,7 +352,7 @@
   <string name="collapseAllCategories">收起所有卷</string>
   <string name="showMore">顯示更多</string>
   <string name="textColorAlpha">字體顏色透明度</string>
-  <string name="desktopDialogGuide">您需要從\nhttps://writer.drakeet.com/desktop_zh \n下載<b><i>純純寫作桌面版 0.3.1 或以上版本</i></b>。\n\n當手機與電腦<b>處於同一個 Wi-Fi 網絡或熱點</b>時👈👈👈，打開桌面版後將以下的 IP 地址<b>輸入於桌面版中的輸入欄中</b>，即可與桌面版實時連接，雙向同步編輯當前文章。</string>
+  <string name="desktopDialogGuide">您需要從\nhttps://writer.drakeet.com/desktop_zh \n下載<b><i>純純寫作桌面版 0.3.1 或以上版本</i></b>。\n\n當手機與電腦<b>處於同一個 Wi-Fi 網絡或熱點</b>時👈👈👈，打開桌面版後將以下的 IP 地址<b>輸入於桌面版中的輸入列中</b>，即可與桌面版實時連接，雙向同步編輯當前文章。</string>
   <string name="desktopDialogNote">注意：當前純純寫作桌面版還處於非常初級階段，許多功能未完善，請您理解和靜待其後續更新。\n* 若您看到<b>多行 IP 地址</b>，請逐一嘗試連接它們。\n* Windows 版存放<b>路徑中不能包含中文</b>目錄，否則將會無法使用！</string>
   <string name="tipNotSupportThisDesktopVersion">當前手機端和桌面端版本不匹配，無法連接，請各自更新到最新版後重試</string>
   <string name="connect">連接</string>
@@ -363,7 +363,7 @@
   <string name="createShortcutLabel">創建快速輸入項</string>
   <string name="cursorPositionForNewArticle">新文章的光標位置</string>
   <string name="stop_waiting_connection">停止等待連接</string>
-  <string name="undoValidTip">當前聚焦的輸入欄已無法再進一步「撤銷」了，您可以嘗試從右上角的「歷史記錄」菜單中恢復您的內容。</string>
+  <string name="undoValidTip">當前聚焦的輸入列已無法再進一步「撤銷」了，您可以嘗試從右上角的「歷史記錄」菜單中恢復您的內容。</string>
   <string name="desktopConnected">已成功連接桌面版</string>
   <string name="desktopDisconnected">已斷開連接桌面版</string>
   <string name="double11Title">11·11 限時半價活動</string>
