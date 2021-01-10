@@ -192,7 +192,7 @@
   <string name="syncNetwork">雲備份網絡</string>
   <string name="syncOnlyWifi">只在 Wi-Fi 網絡下才允許自動備份到雲盤</string>
   <string name="syncAllNetworks">在所有網絡下都允許自動備份到雲盤</string>
-  <string name="tipJianguoyunURL">💡 提示：如果是堅果雲，您可以在「WebDAV 網址」一欄中直接填入「堅果雲」三個字即可</string>
+  <string name="tipJianguoyunURL">💡 提示：如果是堅果雲，您可以在「WebDAV 網址」一列中直接填入「堅果雲」三個字即可</string>
   <string name="webDavRootURL">WebDAV <b>網址</b></string>
   <string name="webDavAccount">WebDAV 賬號</string>
   <string name="webDavPassword">WebDAV 密碼</string>
