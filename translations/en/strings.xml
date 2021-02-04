@@ -116,14 +116,14 @@
   <string name="backupNow">Backup now</string>
   <string name="backupToLocalNow">Back up to local storage now</string>
   <string name="backupToCloudNow">Back up to cloud storage now</string>
-  <string name="summaryBackupToLocal">Backup file will be saved to /backups</string>
+  <string name="summaryBackupToLocal">Backup file will be saved to Documents/PureWriter/Backups</string>
   <string name="summaryBackupToCloud">Backup file will be saved to your cloud storage if set</string>
   <string name="restoreBackup">Restore backup</string>
-  <string name="summaryRestoreTheBackup">Backup file will be retrieved from /backups, /backups/PureWriterAutoBackups and your WebDAV or Dropbox or GoogleDrive</string>
+  <string name="summaryRestoreTheBackup">Backup file will be retrieved from Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto and your WebDAV or Dropbox or GoogleDrive</string>
   <string name="backupSuccessful">Backup successful</string>
   <string name="restoreSuccessful">Backup restored successfully</string>
   <string name="tipBackupList">Here\'re your backup files. You can click to restore them.\n<b>If you wish to retrieve backup files from Dropbox/WebDAV/GoogleDrive, please log in to your Dropbox/WebDAV/GoogleDrive account first!</b></string>
-  <string name="tipBackupNotExist">The backup file does not exist. Please place the backup file in /backups and try again.</string>
+  <string name="tipBackupNotExist">The backup file does not exist. Please place the backup file in Documents/PureWriter/Backups and try again.</string>
   <string name="wordCountMode">Word count mode</string>
   <string-array name="wordCountModeEntries">
     <item>Exclude spaces and line breaks</item>
@@ -593,4 +593,9 @@
   <string name="timeModified">Time Modified</string>
   <string name="timeCreated">Time Created</string>
   <string name="timeCreatedAndModified">Time Created &amp; Modified</string>
+  <string name="presetFreeFont" translatable="false">免费的内置楷体</string>
+  <string name="summaryPresetFreeFont" translatable="false">仅在未启用「自定义字体」时有效</string>
+  <string name="editor2">Editor 2</string>
+  <string name="currentChapterWordCount">Word count of current chapter</string>
+  <string name="currentBookWordCount">Word count of the whole book</string>
 </resources>

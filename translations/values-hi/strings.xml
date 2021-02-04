@@ -98,13 +98,13 @@
   <string name="sortTypeCreatedTimeDown">बनाया गया समय</string>
   <string name="warningSavedFailed">सहेजा गया फ़ाइल विफल, कृपया अपना पूरा पाठ कॉपी करें, और उसके बाद ऐप को यह देखने के लिए पुन: प्रारंभ करें कि क्या सामग्री अनुपलब्ध है</string>
   <string name="backupNow">अब समर्थन देना</string>
-  <string name="summaryBackupToLocal">बैकअप फ़ाइल को पथ /backups पर सहेजा जाएगा</string>
+  <string name="summaryBackupToLocal">बैकअप फ़ाइल को पथ Documents/PureWriter/Backups पर सहेजा जाएगा</string>
   <string name="restoreBackup">बैकअप पुनर्स्थापित करें</string>
-  <string name="summaryRestoreTheBackup">Backup file will be retrieved from /backups, /backups/PureWriterAutoBackups and your WebDAV or Dropbox or GoogleDrive</string>
+  <string name="summaryRestoreTheBackup">Backup file will be retrieved from Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto and your WebDAV or Dropbox or GoogleDrive</string>
   <string name="backupSuccessful">बैकअप सफल</string>
   <string name="restoreSuccessful">सफलतापूर्वक बैकअप बहाल करें</string>
   <string name="tipBackupList">निम्नलिखित सभी बैकअप फ़ाइलें हैं, बैकअप को पुनर्स्थापित करने के लिए क्लिक करें. \n<b>यदि आप Dropbox/WebDAV/GoogleDrive क्लाउड से बैकअप प्राप्त करना चाहते हैं, तो आपको इस पृष्ठ को दर्ज करने से पहले अपने Dropbox/WebDAV/GoogleDrive खाते में लॉग इन करना चाहिए!</b></string>
-  <string name="tipBackupNotExist">बैकअप फ़ाइल मौजूद नहीं है कृपया /backups में बैकअप फ़ाइल डालकर पुन: प्रयास करें</string>
+  <string name="tipBackupNotExist">बैकअप फ़ाइल मौजूद नहीं है कृपया Documents/PureWriter/Backups में बैकअप फ़ाइल डालकर पुन: प्रयास करें</string>
   <string name="wordCountMode">शब्द गणना मोड</string>
   <string-array name="wordCountModeEntries">
     <item>रिक्त स्थान और रेखा खंड को छोड़ दें</item>

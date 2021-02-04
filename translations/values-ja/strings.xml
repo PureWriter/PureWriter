@@ -97,13 +97,13 @@
   <string name="sortTypeCreatedTimeDown">作成時刻</string>
   <string name="warningSavedFailed">ファイルを保存できませんでした。フルテキストをコピーしてから、アプリケーションを再起動してコンテンツが欠落していないか確認してください</string>
   <string name="backupNow">今すぐバックアップする</string>
-  <string name="summaryBackupToLocal">バックアップファイルはパス /backups に保存されます。</string>
+  <string name="summaryBackupToLocal">バックアップファイルはパス Documents/PureWriter/Backups に保存されます。</string>
   <string name="restoreBackup">バックアップを復元</string>
-  <string name="summaryRestoreTheBackup">Backup file will be retrieved from /backups, /backups/PureWriterAutoBackups and your GoogleDrive or WebDAV or Dropbox</string>
+  <string name="summaryRestoreTheBackup">Backup file will be retrieved from Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto and your GoogleDrive or WebDAV or Dropbox</string>
   <string name="backupSuccessful">バックアップ成功</string>
   <string name="restoreSuccessful">バックアップを正常に復元する</string>
   <string name="tipBackupList">以下はすべてのバックアップファイルです：クリックしてバックアップを復元する。\n<b>GoogleDrive/Dropbox/WebDAVクラウドからバックアップを取得する場合は、このページに入る前にGoogleDrive/Dropbox/WebDAVアカウントにログインする必要があります。</b></string>
-  <string name="tipBackupNotExist">バックアップファイルは存在しません。 バックアップファイルを /backups に入れてもう一度お試しください</string>
+  <string name="tipBackupNotExist">バックアップファイルは存在しません。 バックアップファイルを Documents/PureWriter/Backups に入れてもう一度お試しください</string>
   <string name="wordCountMode">単語数</string>
   <string-array name="wordCountModeEntries">
     <item>スペースと改行を除外する</item>

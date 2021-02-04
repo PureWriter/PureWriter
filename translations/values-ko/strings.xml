@@ -106,11 +106,11 @@
   <string name="summaryBackupToLocal">백업 파일은 / backups 에 저장됩니다</string>
   <string name="summaryBackupToCloud">백업 파일은 설정된 경우 클라우드 저장소에 저장됩니다</string>
   <string name="restoreBackup">백업 복원</string>
-  <string name="summaryRestoreTheBackup">백업 파일은 /backups, /backups/PureWriterAutoBackups 및 WebDAV 또는 Dropbox/GoogleDrive 에서 검색됩니다.</string>
+  <string name="summaryRestoreTheBackup">백업 파일은 Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto 및 WebDAV 또는 Dropbox/GoogleDrive 에서 검색됩니다.</string>
   <string name="backupSuccessful">백업 성공</string>
   <string name="restoreSuccessful">백업이 성공적으로 복원되었습니다</string>
   <string name="tipBackupList">백업 파일입니다. 클릭하여 복원 할 수 있습니다.\n<b>Dropbox / WebDAV / GoogleDrive 에서 백업 파일을 검색하려면 먼저 Dropbox / WebDAV / GoogleDrive 계정에 로그인하십시오!</b></string>
-  <string name="tipBackupNotExist">백업 파일이 없습니다. 백업 파일을 /backups 에 넣고 다시 시도하십시오.</string>
+  <string name="tipBackupNotExist">백업 파일이 없습니다. 백업 파일을 Documents/PureWriter/Backups 에 넣고 다시 시도하십시오.</string>
   <string name="wordCountMode">단어 개수 모드</string>
   <string-array name="wordCountModeEntries">
     <item>Exclude spaces and line breaks</item>

@@ -105,14 +105,14 @@
   <string name="backupNow">Sauvegarder maintenant</string>
   <string name="backupToLocalNow">Sauvegarder dans le stockage local</string>
   <string name="backupToCloudNow">Sauvegarder dans le cloud</string>
-  <string name="summaryBackupToLocal">La sauvegarde sera enregistrée dans /backups</string>
+  <string name="summaryBackupToLocal">La sauvegarde sera enregistrée dans Documents/PureWriter/Backups</string>
   <string name="summaryBackupToCloud">La sauvegarde sera enregistrée dans votre espace cloud (si celui-ci a été défini)</string>
   <string name="restoreBackup">Restaurer à partir d\'une sauvegarde</string>
-  <string name="summaryRestoreTheBackup">Le fichier de sauvegarde sera récupéré à partir de /backups, /backups/PureWriterAutoBackups et votre WebDAV ou Dropbox ou GoogleDrive</string>
+  <string name="summaryRestoreTheBackup">Le fichier de sauvegarde sera récupéré à partir de Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto et votre WebDAV ou Dropbox ou GoogleDrive</string>
   <string name="backupSuccessful">Sauvegarde réussie</string>
   <string name="restoreSuccessful">Restauration réussie</string>
   <string name="tipBackupList">Vos fichiers de sauvegarde sont ici. Vous pouvez cliquer pour les restaurer.\n<b>Si vous souhaitez récupérer des fichiers de sauvegarde venant de WebDAV/Dropbox/GoogleDrive, veuillez vous connectez à votre compte WebDAV/Dropbox/GoogleDrive d\'abord!</b></string>
-  <string name="tipBackupNotExist">Le fichier de sauvegarde n\'existe pas. Veuillez placer le fichier /backups et réessayez.</string>
+  <string name="tipBackupNotExist">Le fichier de sauvegarde n\'existe pas. Veuillez placer le fichier Documents/PureWriter/Backups et réessayez.</string>
   <string name="wordCountMode">Mode comptage de mots</string>
   <string-array name="wordCountModeEntries">
     <item>Exclure les espaces et les sauts de ligne</item>

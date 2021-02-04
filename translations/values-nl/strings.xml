@@ -98,13 +98,13 @@
   <string name="sortTypeCreatedTimeDown">Gecreëerde tijd</string>
   <string name="warningSavedFailed">Bestand opgeslagen mislukt, kopieer de volledige tekst en start de app opnieuw om te zien of de inhoud ontbreekt</string>
   <string name="backupNow">Nu backuppen</string>
-  <string name="summaryBackupToLocal">Het back-upbestand wordt opgeslagen op het pad /backups</string>
+  <string name="summaryBackupToLocal">Het back-upbestand wordt opgeslagen op het pad Documents/PureWriter/Backups</string>
   <string name="restoreBackup">Back-up terugzetten</string>
-  <string name="summaryRestoreTheBackup">Backup file will be retrieved from /backups, /backups/PureWriterAutoBackups and your WebDAV or Dropbox or GoogleDrive</string>
+  <string name="summaryRestoreTheBackup">Backup file will be retrieved from Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto and your WebDAV or Dropbox or GoogleDrive</string>
   <string name="backupSuccessful">Back-up geslaagd</string>
   <string name="restoreSuccessful">Herstel de back-up met succes</string>
   <string name="tipBackupList">Het volgende is alle back-upbestanden, klik om de back-up te herstellen. \n<b>Als u back-ups wilt ontvangen van de Dropbox/GoogleDrive/WebDAV-cloud, moet u zich aanmelden bij uw Dropbox/GoogleDrive/WebDAV-account voordat u deze pagina opent!</b></string>
-  <string name="tipBackupNotExist">Het back-upbestand bestaat niet. Plaats het back-upbestand in /backups en probeer het opnieuw</string>
+  <string name="tipBackupNotExist">Het back-upbestand bestaat niet. Plaats het back-upbestand in Documents/PureWriter/Backups en probeer het opnieuw</string>
   <string name="wordCountMode">Word telmodus</string>
   <string-array name="wordCountModeEntries">
     <item>Spaties en regeleinde uitsluiten</item>

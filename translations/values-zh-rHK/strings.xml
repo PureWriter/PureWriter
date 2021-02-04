@@ -100,12 +100,12 @@
   <string name="warningSavedFailed">文件自動儲存失敗，請複製您的全文，然後重啟 App 查看是否遺失內容</string>
   <string name="backupSuccessful">備份成功</string>
   <string name="backupNow">立即備份</string>
-  <string name="summaryBackupToLocal">備份文件將被儲存到 /backups</string>
+  <string name="summaryBackupToLocal">備份文件將被儲存到 Documents/PureWriter/Backups</string>
   <string name="restoreBackup">復原備份</string>
-  <string name="summaryRestoreTheBackup">備份文件將從 /backups 和 /backups/PureWriterAutoBackups 和您的 WebDAV 或 Dropbox 或 GoogleDrive 雲盤中讀取</string>
+  <string name="summaryRestoreTheBackup">備份文件將從 Documents/PureWriter/Backups 和 Documents/PureWriter/Backups/Auto 和您的 WebDAV 或 Dropbox 或 GoogleDrive 雲盤中讀取</string>
   <string name="tipBackupList">以下是備份文件，點擊即可復原備份。\n<b>如果您想從 GoogleDrive/Dropbox/WebDAV 雲端獲取備份，應該先登入你的 GoogleDrive/Dropbox/WebDAV 賬號後再進入此頁面！</b></string>
   <string name="restoreSuccessful">復原備份成功</string>
-  <string name="tipBackupNotExist">備份文件不存在，請將備份文件置於 /backups 並重試</string>
+  <string name="tipBackupNotExist">備份文件不存在，請將備份文件置於 Documents/PureWriter/Backups 並重試</string>
   <string name="wordCountMode">字數統計模式與<b>標點符號</b></string>
   <string-array name="wordCountModeEntries">
     <item>不包含空格與換行</item>
@@ -550,4 +550,12 @@
   <string name="timeModified">更新時間</string>
   <string name="timeCreated">創建時間</string>
   <string name="timeCreatedAndModified">創建 + 更新時間</string>
+  <string name="presetFreeFont">免費的內置楷體</string>
+  <string name="summaryPresetFreeFont">僅在未啟用「自定義字體」時有效</string>
+  <string name="editor2">第二編輯器</string>
+  <string name="currentChapterWordCount">當前章節字數</string>
+  <string name="currentBookWordCount">全書字數</string>
+  <string name="cursorJoyTutorial">按住這個按鈕移動手指\n可控制光標移動</string>
+  <string name="openArticleListAfterSwitchingBooks">切換書籍後打開側欄文章列表</string>
+  <string name="useLegacyRender">使用舊版渲染器</string>
 </resources>

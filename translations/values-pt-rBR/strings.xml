@@ -104,14 +104,14 @@
   <string name="backupNow">Backup agora</string>
   <string name="backupToLocalNow">Fazer backup para armazenamento local agora</string>
   <string name="backupToCloudNow">Fazer backup para armazenamento em nuvem agora</string>
-  <string name="summaryBackupToLocal">O arquivo de backup será salvo localmente em /backups</string>
+  <string name="summaryBackupToLocal">O arquivo de backup será salvo localmente em Documents/PureWriter/Backups</string>
   <string name="summaryBackupToCloud">O arquivo de backup será salvo em seu serviço de armazenamento em nuvem se definido</string>
   <string name="restoreBackup">Restaurar backup</string>
-  <string name="summaryRestoreTheBackup">O arquivo de backup será recuperado de /backups, /backups/PureWriterAutoBackups e de WebDAV ou Dropbox ou GoogleDrive</string>
+  <string name="summaryRestoreTheBackup">O arquivo de backup será recuperado de Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto e de WebDAV ou Dropbox ou GoogleDrive</string>
   <string name="backupSuccessful">Backup feito com sucesso</string>
   <string name="restoreSuccessful">Backup recuperado com sucesso</string>
   <string name="tipBackupList">Aqui estão seus arquivos de backup. Você pode tocar para restaurá-los.\n<b>Se você deseja recuperar arquivos de backup de GoogleDrive/Dropbox/WebDAV, por favor, faça o login na sua conta GoogleDrive/Dropbox/WebDAV primeiro!</b></string>
-  <string name="tipBackupNotExist">O arquivo de backup não existe. Por favor, mova o arquivo de backup para /backups e tente novamente.</string>
+  <string name="tipBackupNotExist">O arquivo de backup não existe. Por favor, mova o arquivo de backup para Documents/PureWriter/Backups e tente novamente.</string>
   <string name="wordCountMode">Contagem de palavras</string>
   <string-array name="wordCountModeEntries">
     <item>Ignorar espaços e quebras de linha</item>

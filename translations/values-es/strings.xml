@@ -103,14 +103,14 @@
   <string name="backupNow">Auto-guardar</string>
   <string name="backupToLocalNow">Guardar en el almacenamiento local</string>
   <string name="backupToCloudNow">Guardar en la nube</string>
-  <string name="summaryBackupToLocal">El archivo de la Copia de Seguridad será guardado en /backups</string>
+  <string name="summaryBackupToLocal">El archivo de la Copia de Seguridad será guardado en Documents/PureWriter/Backups</string>
   <string name="summaryBackupToCloud">El archivo de la Copia de Seguridad se guardará en el almacenamiento de la nube en caso de que esté configurado.</string>
   <string name="restoreBackup">Restaurar la Copia de Seguridad</string>
-  <string name="summaryRestoreTheBackup">El archivo de la Copia de Seguridad será recuperado de /backups, /backups/PureWriterAutoBackups y de WebDAV o Dropbox/GoogleDrive</string>
+  <string name="summaryRestoreTheBackup">El archivo de la Copia de Seguridad será recuperado de Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto y de WebDAV o Dropbox/GoogleDrive</string>
   <string name="backupSuccessful">La Copia de Seguridad fue exitosa</string>
   <string name="restoreSuccessful">La Copia de Seguridad fue restaurada exitosamente</string>
   <string name="tipBackupList">Aquí estarán tus archivos de las Copias de Seguridad. Puedes hacer clic para restaurarlos.\n<b>Si deseas recuperar las Copias de Seguridad de Dropbox o WebDAV o GoogleDrive, primero inicia sesión en tu cuenta de WebDAV o Dropbox o GoogleDrive.</b></string>
-  <string name="tipBackupNotExist">No existe un archivo de la Copia de Seguridad. Por favor, mueve la Copia de Seguridad a la carpeta /backups e inténtalo de nuevo.</string>
+  <string name="tipBackupNotExist">No existe un archivo de la Copia de Seguridad. Por favor, mueve la Copia de Seguridad a la carpeta Documents/PureWriter/Backups e inténtalo de nuevo.</string>
   <string name="wordCountMode">Modo de Contador de Palabras</string>
   <string-array name="wordCountModeEntries">
     <item>Excluir espacios y saltos de línea</item>

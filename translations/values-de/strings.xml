@@ -94,14 +94,14 @@
   <string name="backupNow">Jetzt sichern</string>
   <string name="backupToLocalNow">Jetzt im lokalen Speicher sichern</string>
   <string name="backupToCloudNow">Sichern Sie jetzt in Ihren Cloud-Speicher</string>
-  <string name="summaryBackupToLocal">Sicherungsdateien werden in /backups gespeichert</string>
+  <string name="summaryBackupToLocal">Sicherungsdateien werden in Documents/PureWriter/Backups gespeichert</string>
   <string name="summaryBackupToCloud">Sicherungsdateien werden in Ihrem Cloud-Speicher gespeichert, sofern festgelegt</string>
   <string name="restoreBackup">Backup wiederherstellen</string>
-  <string name="summaryRestoreTheBackup">Die Sicherungsdatei wird von /backups, /backups/PureWriterAutoBackups und Ihrer GoogleDrive oder WebDAV oder Dropbox abgerufen</string>
+  <string name="summaryRestoreTheBackup">Die Sicherungsdatei wird von Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto und Ihrer GoogleDrive oder WebDAV oder Dropbox abgerufen</string>
   <string name="backupSuccessful">Sicherung erfolgreich</string>
   <string name="restoreSuccessful">Sicherung erfolgreich wiederhergestellt</string>
   <string name="tipBackupList">Hier sind Ihre Sicherungsdateien. Sie können klicken, um sie wiederherzustellen.\n<b>Wenn Sie Sicherungsdateien von GoogleDrive/Dropbox/WebDAV abrufen möchten, melden Sie sich bitte zuerst bei Ihrem GoogleDrive/Dropbox/WebDAV-Konto an! </b></string>
-  <string name="tipBackupNotExist">Die Sicherungsdatei existiert nicht. Legen Sie die Sicherungsdatei in /backups ab und versuchen Sie es erneut.</string>
+  <string name="tipBackupNotExist">Die Sicherungsdatei existiert nicht. Legen Sie die Sicherungsdatei in Documents/PureWriter/Backups ab und versuchen Sie es erneut.</string>
   <string name="wordCountMode">Word-Count-Modus</string>
   <string name="fab">Home Floating-Aktionstaste</string>
   <string name="tipFab">Tipp: Halten Sie die Home Floating-Aktionstaste gedrückt, um sie vorübergehend auszublenden</string>

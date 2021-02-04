@@ -98,13 +98,13 @@
   <string name="sortTypeCreatedTimeDown">Время создания</string>
   <string name="warningSavedFailed">Не удалось сохранить файл, скопируйте полный текст и перезапустите приложение, чтобы узнать, отсутствует ли контент</string>
   <string name="backupNow">Быстрое резервное копирование</string>
-  <string name="summaryBackupToLocal">Файл резервной копии будет сохранен в /backups</string>
+  <string name="summaryBackupToLocal">Файл резервной копии будет сохранен в Documents/PureWriter/Backups</string>
   <string name="restoreBackup">Восстановление резервной копии</string>
-  <string name="summaryRestoreTheBackup">Backup file will be retrieved from /backups, /backups/PureWriterAutoBackups and your WebDAV or Dropbox or GoogleDrive</string>
+  <string name="summaryRestoreTheBackup">Backup file will be retrieved from Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto and your WebDAV or Dropbox or GoogleDrive</string>
   <string name="backupSuccessful">Резервирование успешно</string>
   <string name="restoreSuccessful">Восстановление резервной копии успешно</string>
   <string name="tipBackupList">Ниже перечислены все файлы резервных копий, нажмите, чтобы восстановить резервную копию. \n<b>Если вы хотите получить резервные копии из облака Dropbox / GoogleDrive / WebDAV, перед тем, как войти на эту страницу, вы должны войти в свою учетную запись Dropbox / GoogleDrive / WebDAV!</b></string>
-  <string name="tipBackupNotExist">Файл резервной копии не существует. Поместите файл в /backups и повторите попытку</string>
+  <string name="tipBackupNotExist">Файл резервной копии не существует. Поместите файл в Documents/PureWriter/Backups и повторите попытку</string>
   <string name="wordCountMode">Word count mode</string>
   <string-array name="wordCountModeEntries">
     <item>Исключить пробелы и разрывы строк</item>
