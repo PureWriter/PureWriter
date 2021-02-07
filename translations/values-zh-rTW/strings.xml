@@ -551,7 +551,7 @@
   <string name="timeCreated">建立時間</string>
   <string name="timeCreatedAndModified">建立 + 更新時間</string>
   <string name="presetFreeFont">免費的內建楷體</string>
-  <string name="summaryPresetFreeFont">僅在未啟用「自訂字體」時有效</string>
+  <string name="summaryPresetFreeFont">僅在未啟用「自訂字型」時有效</string>
   <string name="editor2">第二編輯器</string>
   <string name="currentChapterWordCount">目前章節字數</string>
   <string name="currentBookWordCount">全書字數</string>
