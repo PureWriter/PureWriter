@@ -213,7 +213,7 @@
   <string name="wordCountLong">字數統計</string>
   <string name="wordCountOfCurrentArticle">目前文章字數統計</string>
   <string name="floatingWordCount">懸浮字數統計</string>
-  <string name="tipFloatingWordCountDisabled">關閉懸浮字數統計後，您將可以在時光機中獲取字數統計。</string>
+  <string name="tipFloatingWordCountDisabled">關閉懸浮字數統計後，您可以在文章列表中獲取字數統計。</string>
   <string name="reduceDatabaseSize">資料庫文件瘦身 ，刪除歷史記錄</string>
   <string name="deleteSuccessful">刪除完成</string>
   <string name="reduceDatabaseSizeMessage">刪除所有文章的歷史記錄。\n只是刪除歷史記錄，文章本身不會被刪除。\n\n建議您在刪除之前最好先進行一次備份。\n建議隔一段時間就進行一次資料庫瘦身，即刪除歷史記錄。</string>
@@ -455,12 +455,6 @@
 
         ![圖片](https://gitee.com/PureWriter/resources/raw/master/pro/5.webp)
 
-        #### 大綱
-
-        在編輯器右上角菜單中可以進入大綱編輯器頁面，並且有許多預置的大綱項目：
-
-        ![圖片](https://gitee.com/PureWriter/resources/raw/master/pro/6.webp)
-
         #### 純純寫作 桌面版
 
         ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/PureWriterDesktop.webp)
@@ -558,4 +552,8 @@
   <string name="cursorJoyTutorial">按住這個按鈕移動手指\n可控制光標移動</string>
   <string name="openArticleListAfterSwitchingBooks">切換書籍後打開側欄文章列表</string>
   <string name="useLegacyRender">使用舊版渲染器</string>
+  <string name="wordsShort">字</string>
+  <string name="rating">給予好評</string>
+  <string name="splitLayout">分欄</string>
+  <string name="thankYou">非常感謝！</string>
 </resources>

@@ -216,7 +216,7 @@
   <string name="typewriterMode">Modo máquina de escrever</string>
   <string name="edit">Editar</string>
   <string name="editBook">Editar livro</string>
-  <string name="tipFloatingWordCountDisabled">Após desabilitar o contador flutuante de palavras, você ainda poderá ver o total de palavras contadas na Máquina do Tempo</string>
+  <string name="tipFloatingWordCountDisabled">Após desligar a contagem de palavras flutuantes, você ainda será capaz de obter a contagem de palavras na lista de capítulos/artigos.</string>
   <string name="shareText">Recomendação: Pure Writer é um aplicativo editor de texto cheio de recursos que lhe dá tranquilidade com suas características: Histórico de mudanças, sistema de proteção de multicamadas que previne você de perder seu precioso conteúdo, e também um ambiente de escrita confortável. Encontre mais informações aqui: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="shareMessage">Se você gosta de usar o Pure Writer, por favor nos ajude a divulgá-lo! Toque no botão Compartilhar à direita para compartilhar este aplicativo com seus amigos. Significará muito para nós e para o aplicativo, uma vez que ele melhora por causa do seu apoio. Obrigado!\n\nPara mais informações, visite: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="reduceDatabaseSize">Limpar histórico para reduzir o tamanho do banco de dados</string>
@@ -431,12 +431,6 @@
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
 
-        #### Esboço
-
-        Introduza o editor de Esboço no topo do menu de edição. Lá há vários itens relacionados a esboço:
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/6.webp)
-
         #### Pure Writer Desktop
 
         ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
@@ -539,4 +533,6 @@
   <string name="typeOfTimeDisplayed">Tipo de tempo exibido</string>
   <string name="timeModified">Tempo modificado</string>
   <string name="timeCreated">Tempo criado</string>
+  <string name="thankYou">Obrigado!</string>
+  <string name="editor2">Editor 2</string>
 </resources>

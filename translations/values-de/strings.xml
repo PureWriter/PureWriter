@@ -197,7 +197,7 @@
   <string name="edit">Bearbeiten</string>
   <string name="editBook">Buch bearbeiten</string>
   <string name="shareText">Empfehlung: Pure Writer ist eine mit Funktionen ausgestattete Textbearbeitungs-App, die Ihnen mit seinen Funktionen ein beruhigendes Gefühl gibt: Verlaufsaufzeichnungen, mehrschichtiger Schutz, der den Verlust Ihrer wertvollen Inhalte verhindert, und eine komfortable Schreibumgebung. Weitere Informationen finden Sie hier: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
-  <string name="tipFloatingWordCountDisabled">Nach dem Deaktivieren der Anzahl der Floating-Wörter können Sie immer noch die Gesamtzahl der Wörter in der Time Machine abrufen</string>
+  <string name="tipFloatingWordCountDisabled">Nachdem Sie die Anzahl der schwebenden Wörter deaktiviert haben, können Sie die Anzahl der Wörter weiterhin in der Artikelliste abrufen.</string>
   <string name="reduceDatabaseSize">Löschen Sie den Verlauf, um die Datenbankgröße zu reduzieren</string>
   <string name="deleteSuccessful">Erfolgreich gelöscht</string>
   <string name="unlockPro">Get Pro</string>
@@ -424,12 +424,6 @@
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
 
-        #### Gliederung
-
-        Sie können den Gliederungseditor im oberen Überlaufmenü des Editors aufrufen, und es gibt viele voreingestellte Gliederungselemente:
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/6.webp)
-
         #### Pure Writer Desktop
 
         ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
@@ -506,4 +500,6 @@
   <string name="editorMarkdownSyncScrolling">Scrollen für Editor synchronisieren ⇋ Markdown</string>
   <string name="newOutline">Neue Gliederung</string>
   <string name="smoothCursor">Smooth Cursor</string>
+  <string name="thankYou">Dankeschön!</string>
+  <string name="editor2">Editor 2</string>
 </resources>

@@ -206,7 +206,7 @@
   <string name="wordCountLong">Количество слов</string>
   <string name="wordCountOfCurrentArticle">Количество слов в текущей статье</string>
   <string name="floatingWordCount">Floating Word Count</string>
-  <string name="tipFloatingWordCountDisabled">После отключения Word Count вы сможете увидеть его в Time Machine.</string>
+  <string name="tipFloatingWordCountDisabled">После отключения подсчета плавающих слов, вы все равно сможете получить подсчет слов в списке глав/статей.</string>
   <string name="reduceDatabaseSize">Уменьшить размер базы данных</string>
   <string name="deleteSuccessful">Удалено успешно</string>
   <string name="reduceDatabaseSizeMessage">Удалите всю историю всех статей.\nПросто история, сама статья не будет удалена.\n\nВы должны сделать резервную копию, прежде чем удалять ее.</string>
@@ -427,12 +427,6 @@
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
 
-        #### Контур
-
-        Вы можете войти в редактор Outline в верхнем меню переполнения редактора, и есть много предустановленных элементов структуры:
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/6.webp)
-
         #### Pure Writer Desktop
 
         ![Рабочий стол Pure Writer](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
@@ -500,4 +494,6 @@
   <string name="typeOfTimeDisplayed">Тип отображаемого времени</string>
   <string name="timeModified">Время изменено</string>
   <string name="timeCreated">Время создано</string>
+  <string name="thankYou">Спасибо!</string>
+  <string name="editor2">Редактор 2</string>
 </resources>

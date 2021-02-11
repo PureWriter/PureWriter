@@ -216,7 +216,7 @@
   <string name="typewriterMode">Mode machine à écrire</string>
   <string name="edit">Éditer</string>
   <string name="editBook">Éditer Livre</string>
-  <string name="tipFloatingWordCountDisabled">Après avoir désactivé le compteur de mots flottant, vous serez toujours en mesure d\'obtenir le nombre total de mots dans la machine temporelle</string>
+  <string name="tipFloatingWordCountDisabled">Après avoir désactivé le nombre de mots flottant, vous pourrez toujours obtenir le nombre de mots dans la liste d\'articles.</string>
   <string name="shareText">Recommandation: Pure Writer est une application d\'édition de texte pleine de fonctionnalités qui vous tranquilise l\'esprit avec ses fonctionnalités: History Records, une protection multicouche qui vous évite de perdre votre précieux contenu, et aussi un environnement d\'écriture confortable. Pour en savoir plus: https://play.google.com/store/apps/details?id=com.drakeet.purewriter=com.drakeet.purewriter</string>
   <string name="shareMessage">Si vous aimez utiliser Pure Writer, aidez-nous à faire passer le mot! Cliquez sur le bouton Partager à droite pour partager cette application avec vos amis. Cela signifiera beaucoup pour nous et pour l\'application à mesure qu\'elle s\'améliorera grâce à votre soutien. Merci! Pour en savoir plus, visitez: https://play.google.com/store/apps/details?id=com.drakeet.purewriter=com.drakeet.purewriter</string>
   <string name="reduceDatabaseSize">Vider l\'Historique pour réduire la taille de la base de données</string>
@@ -437,12 +437,6 @@
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
 
-        #### Contour
-
-        Vous pouvez entrer dans l\'éditeur de contour dans le menu de débordement supérieur de l\'éditeur, et il existe de nombreux éléments de contour prédéfinis:
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/6.webp)
-
         #### Pure Writer Desktop
 
         ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
@@ -522,4 +516,6 @@
   <string name="typeOfTimeDisplayed">Type d\'heure affichée</string>
   <string name="timeModified">Heure modifiée</string>
   <string name="timeCreated">Temps créé</string>
+  <string name="thankYou">Merci!</string>
+  <string name="editor2">Éditeur 2</string>
 </resources>

@@ -214,7 +214,7 @@
   <string name="typewriterMode">Mode Mesin Ketik</string>
   <string name="edit">Edit</string>
   <string name="editBook">Edit Buku</string>
-  <string name="tipFloatingWordCountDisabled">Setelah mematikan jumlah kata mengambang, Anda masih bisa mendapatkan jumlah kata total di Time Machine</string>
+  <string name="tipFloatingWordCountDisabled">Setelah mematikan hitungan kata mengambang, Anda masih bisa mendapatkan jumlah kata di daftar artikel.</string>
   <string name="shareText">Rekomendasi: Pure Writer adalah aplikasi pengeditan teks penuh fitur yang memberi Anda ketenangan pikiran dengan fitur-fiturnya: History Records, perlindungan multi-layer yang mencegah Anda dari kehilangan konten berharga Anda, dan juga lingkungan penulisan yang nyaman. Cari tahu lebih lanjut di sini: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="shareMessage">Jika Anda menikmati menggunakan Pure Writer, tolong bantu kami untuk menyebarkan berita! Klik tombol Bagikan di sebelah kanan untuk berbagi aplikasi ini dengan teman-teman Anda. Ini akan sangat berarti bagi kami dan aplikasi karena semakin membaik karena dukungan Anda. Terima kasih!\n\nUntuk mengetahui lebih lanjut, silakan kunjungi: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="reduceDatabaseSize">Hapus Riwayat untuk Mengurangi Ukuran Basis Data</string>
@@ -434,12 +434,6 @@
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
 
-        #### Garis besar
-
-        Anda dapat memasukkan editor Outline di menu overflow editor, dan ada banyak item outet yang telah ditetapkan:
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/6.webp)
-
         #### Pure Writer Desktop
 
         ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
@@ -519,4 +513,6 @@
   <string name="typeOfTimeDisplayed">Jenis waktu yang ditampilkan</string>
   <string name="timeModified">Waktu diubah</string>
   <string name="timeCreated">Waktu diciptakan</string>
+  <string name="thankYou">Terima kasih!</string>
+  <string name="editor2">Editor 2</string>
 </resources>

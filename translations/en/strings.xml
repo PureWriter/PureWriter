@@ -244,7 +244,7 @@
   <string name="typewriterMode">Typewriter Mode</string>
   <string name="edit">Edit</string>
   <string name="editBook">Edit Book</string>
-  <string name="tipFloatingWordCountDisabled">After turning off the floating word count, you will still be able to get the total word count in the Time Machine</string>
+  <string name="tipFloatingWordCountDisabled">After turning off the floating word count, you will still be able to get the word count in the chapter/article list.</string>
   <string name="shareText">Recommendation: Pure Writer is a feature-filled text editing app that gives you a peace of mind with its features: History Records, multi-layer protection that prevents you from losing your precious content, and also a comfortable writing environment. Find out more here: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="shareMessage">If you enjoy using Pure Writer, please help us to spread the word! Click the Share button on the right to share this app with your friends. It\'ll mean a lot to us and the app as it improves because of your support. Thanks!\n\nTo find out more, please visit: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="reduceDatabaseSize">Clear History to Reduce Database Size</string>
@@ -462,12 +462,6 @@
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
 
-        #### Outline
-
-        You can enter the Outline editor in the top overflow menu of the editor, and there are many preset outline items:
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/6.webp)
-
         #### Pure Writer Desktop
 
         ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
@@ -563,7 +557,7 @@
 
         (You can **long press** to select and copy the above examples to try)
 
-        You can also check the **table** in this [document page] (https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) for more **format specifier** and free combination.
+        You can also check the **table** in this [document page](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) for more **format specifier** and free combination.
     ]]></string>
     <string name="read">Read</string>
   <string name="doNotRemindAgain">Don\'t remind again</string>
@@ -598,4 +592,8 @@
   <string name="editor2">Editor 2</string>
   <string name="currentChapterWordCount">Word count of current chapter</string>
   <string name="currentBookWordCount">Word count of the whole book</string>
+  <string name="splitLayout">Split layout</string>
+  <string name="rating">Rating</string>
+  <string name="thankYou">Thank you!</string>
+  <string name="wordsShort">w</string>
 </resources>

@@ -206,7 +206,7 @@
   <string name="wordCountLong">शब्द गणना</string>
   <string name="wordCountOfCurrentArticle">वर्तमान लेख की शब्द गणना</string>
   <string name="floatingWordCount">फ़्लोटिंग शब्द गिनती</string>
-  <string name="tipFloatingWordCountDisabled">After you disable Word Count, you will be able to see it in TimeMachine.</string>
+  <string name="tipFloatingWordCountDisabled">फ्लोटिंग वर्ड काउंट को बंद करने के बाद भी आप आर्टिकल लिस्ट में वर्ड काउंट प्राप्त कर सकेंगे।</string>
   <string name="reduceDatabaseSize">डेटाबेस आकार कम करें</string>
   <string name="deleteSuccessful">Deleted successfully</string>
   <string name="reduceDatabaseSizeMessage">सभी लेखों के सभी इतिहास हटाएं।\nबस इतिहास, लेख खुद को हटाया नहीं जाएगा।\n\nइससे पहले कि आप इसे हटाने से पहले बैकअप लेंगे।</string>
@@ -427,12 +427,6 @@
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
 
-        #### रेखांकित करें
-
-        आप संपादक के शीर्ष अतिप्रवाह मेनू में रूपरेखा संपादक में प्रवेश कर सकते हैं, और कई पूर्व निर्धारित रूपरेखा आइटम हैं:
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/6.webp)
-
         #### PureWriterDesktop
 
         ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
@@ -511,4 +505,6 @@
   <string name="typeOfTimeDisplayed">प्रदर्शित समय का प्रकार</string>
   <string name="timeModified">समय संशोधित हुआ</string>
   <string name="timeCreated">समय बनाया</string>
+  <string name="thankYou">धन्यवाद!</string>
+  <string name="editor2">संपादक २</string>
 </resources>

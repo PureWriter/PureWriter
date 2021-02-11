@@ -206,7 +206,7 @@
   <string name="wordCountLong">Aantal woorden</string>
   <string name="wordCountOfCurrentArticle">Word-telling van het huidige artikel</string>
   <string name="floatingWordCount">Floating Word Count</string>
-  <string name="tipFloatingWordCountDisabled">After you disable Word Count, you will be able to see it in TimeMachine</string>
+  <string name="tipFloatingWordCountDisabled">Nadat u het aantal zwevende woorden hebt uitgeschakeld, kunt u het aantal woorden nog steeds in de artikellijst zien.</string>
   <string name="reduceDatabaseSize">Verklein database grootte</string>
   <string name="deleteSuccessful">Met succes verwijderd</string>
   <string name="reduceDatabaseSizeMessage">Verwijder alle geschiedenis van alle artikelen.\nAlleen geschiedenis, het artikel zelf zal niet worden verwijderd.\n\nMaak een back-up voordat u deze verwijdert.</string>
@@ -429,12 +429,6 @@
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
 
-        #### Schets
-
-        U kunt de overzichtseditor openen in het bovenste overloopmenu van de editor en er zijn veel vooraf ingestelde overzichtsitems:
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/6.webp)
-
         #### Pure Writer Desktop
 
         ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
@@ -514,4 +508,6 @@
   <string name="typeOfTimeDisplayed">Type weergegeven tijd</string>
   <string name="timeModified">Tijd gewijzigd</string>
   <string name="timeCreated">Tijd gemaakt</string>
+  <string name="thankYou">Dank je!</string>
+  <string name="editor2">Editor 2</string>
 </resources>
