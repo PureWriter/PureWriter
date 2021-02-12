@@ -102,12 +102,12 @@
   <string name="warningSavedFailed">文件自动保存失败，请复制您的全文，然后重启 App 查看是否丢失内容</string>
   <string name="backupSuccessful">备份成功</string>
   <string name="backupNow">立即备份</string>
-  <string name="summaryBackupToLocal">备份文件将被保存到 Documents/PureWriter/Backups</string>
+  <string name="summaryBackupToLocal">备份文件将被保存到 /backups</string>
   <string name="restoreBackup">恢复备份</string>
-  <string name="summaryRestoreTheBackup">备份文件将从 Documents/PureWriter/Backups 和 Documents/PureWriter/Backups/Auto 和您的 WebDAV 或 Dropbox 或 GoogleDrive 云盘中读取</string>
+  <string name="summaryRestoreTheBackup">备份文件将从 /backups 和 /backups/PureWriterAutoBackups 和您的 WebDAV 或 Dropbox 或 GoogleDrive 云盘中读取</string>
   <string name="tipBackupList">以下是备份文件，点击即可恢复备份。\n<b>如果您想从 WebDAV/坚果云/GoogleDrive/Dropbox 云端获取备份，应该先登录你的 WebDAV/坚果云/GoogleDrive/Dropbox 账号后再进入此页面！</b></string>
   <string name="restoreSuccessful">恢复备份成功</string>
-  <string name="tipBackupNotExist">备份文件不存在，请将备份文件置于 Documents/PureWriter/Backups 并重试</string>
+  <string name="tipBackupNotExist">备份文件不存在，请将备份文件置于 /backups 并重试</string>
   <string name="wordCountMode">字数统计模式与<b>标点符号</b></string>
   <string-array name="wordCountModeEntries">
     <item>不包含空格与换行</item>
@@ -215,7 +215,7 @@
   <string name="wordCountLong">字数统计</string>
   <string name="wordCountOfCurrentArticle">当前文章字数统计</string>
   <string name="floatingWordCount">悬浮字数统计</string>
-  <string name="tipFloatingWordCountDisabled">关闭悬浮字数统计后，您可以在文章列表中获取字数统计。</string>
+  <string name="tipFloatingWordCountDisabled">关闭悬浮字数统计后，您将可以在时光机中获取字数统计。</string>
   <string name="reduceDatabaseSize">数据库文件瘦身 ，删除历史记录</string>
   <string name="deleteSuccessful">删除完成</string>
   <string name="reduceDatabaseSizeMessage">删除所有文章的历史记录。\n只是删除历史记录，文章本身不会被删除。\n\n建议您在删除之前最好先进行一次备份。\n建议隔一段时间就进行一次数据库瘦身，即删除历史记录。</string>
@@ -422,6 +422,12 @@
 
         ![图片](https://gitee.com/PureWriter/resources/raw/master/pro/5.webp)
 
+        #### 大纲
+
+        在编辑器右上角菜单中可以进入大纲编辑器页面，并且有许多预置的大纲项目：
+
+        ![图片](https://gitee.com/PureWriter/resources/raw/master/pro/6.webp)
+
         #### 纯纯写作 桌面版
 
         ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/PureWriterDesktop.webp)
@@ -550,11 +556,4 @@
   <string name="timeModified">更新时间</string>
   <string name="timeCreatedAndModified">创建 + 更新时间</string>
   <string name="timeCreated">创建时间</string>
-  <string name="currentChapterWordCount">当前章节字数</string>
-  <string name="currentBookWordCount">全书字数</string>
-  <string name="editor2">第二编辑器</string>
-  <string name="rating">给予好评</string>
-  <string name="wordsShort">字</string>
-  <string name="splitLayout">分栏</string>
-  <string name="thankYou">非常感谢！</string>
 </resources>

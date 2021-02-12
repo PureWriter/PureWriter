@@ -98,13 +98,13 @@
   <string name="sortTypeCreatedTimeDown">Время создания</string>
   <string name="warningSavedFailed">Не удалось сохранить файл, скопируйте полный текст и перезапустите приложение, чтобы узнать, отсутствует ли контент</string>
   <string name="backupNow">Быстрое резервное копирование</string>
-  <string name="summaryBackupToLocal">Файл резервной копии будет сохранен в Documents/PureWriter/Backups</string>
+  <string name="summaryBackupToLocal">Файл резервной копии будет сохранен в /backups</string>
   <string name="restoreBackup">Восстановление резервной копии</string>
-  <string name="summaryRestoreTheBackup">Backup file will be retrieved from Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto and your WebDAV or Dropbox or GoogleDrive</string>
+  <string name="summaryRestoreTheBackup">Backup file will be retrieved from /backups, /backups/PureWriterAutoBackups and your WebDAV or Dropbox or GoogleDrive</string>
   <string name="backupSuccessful">Резервирование успешно</string>
   <string name="restoreSuccessful">Восстановление резервной копии успешно</string>
   <string name="tipBackupList">Ниже перечислены все файлы резервных копий, нажмите, чтобы восстановить резервную копию. \n<b>Если вы хотите получить резервные копии из облака Dropbox / GoogleDrive / WebDAV, перед тем, как войти на эту страницу, вы должны войти в свою учетную запись Dropbox / GoogleDrive / WebDAV!</b></string>
-  <string name="tipBackupNotExist">Файл резервной копии не существует. Поместите файл в Documents/PureWriter/Backups и повторите попытку</string>
+  <string name="tipBackupNotExist">Файл резервной копии не существует. Поместите файл в /backups и повторите попытку</string>
   <string name="wordCountMode">Word count mode</string>
   <string-array name="wordCountModeEntries">
     <item>Исключить пробелы и разрывы строк</item>
@@ -206,7 +206,7 @@
   <string name="wordCountLong">Количество слов</string>
   <string name="wordCountOfCurrentArticle">Количество слов в текущей статье</string>
   <string name="floatingWordCount">Floating Word Count</string>
-  <string name="tipFloatingWordCountDisabled">После отключения подсчета плавающих слов, вы все равно сможете получить подсчет слов в списке глав/статей.</string>
+  <string name="tipFloatingWordCountDisabled">После отключения Word Count вы сможете увидеть его в Time Machine.</string>
   <string name="reduceDatabaseSize">Уменьшить размер базы данных</string>
   <string name="deleteSuccessful">Удалено успешно</string>
   <string name="reduceDatabaseSizeMessage">Удалите всю историю всех статей.\nПросто история, сама статья не будет удалена.\n\nВы должны сделать резервную копию, прежде чем удалять ее.</string>
@@ -427,6 +427,12 @@
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
 
+        #### Контур
+
+        Вы можете войти в редактор Outline в верхнем меню переполнения редактора, и есть много предустановленных элементов структуры:
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/6.webp)
+
         #### Pure Writer Desktop
 
         ![Рабочий стол Pure Writer](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
@@ -494,6 +500,4 @@
   <string name="typeOfTimeDisplayed">Тип отображаемого времени</string>
   <string name="timeModified">Время изменено</string>
   <string name="timeCreated">Время создано</string>
-  <string name="thankYou">Спасибо!</string>
-  <string name="editor2">Редактор 2</string>
 </resources>

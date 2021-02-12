@@ -106,11 +106,11 @@
   <string name="summaryBackupToLocal">백업 파일은 / backups 에 저장됩니다</string>
   <string name="summaryBackupToCloud">백업 파일은 설정된 경우 클라우드 저장소에 저장됩니다</string>
   <string name="restoreBackup">백업 복원</string>
-  <string name="summaryRestoreTheBackup">백업 파일은 Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto 및 WebDAV 또는 Dropbox/GoogleDrive 에서 검색됩니다.</string>
+  <string name="summaryRestoreTheBackup">백업 파일은 /backups, /backups/PureWriterAutoBackups 및 WebDAV 또는 Dropbox/GoogleDrive 에서 검색됩니다.</string>
   <string name="backupSuccessful">백업 성공</string>
   <string name="restoreSuccessful">백업이 성공적으로 복원되었습니다</string>
   <string name="tipBackupList">백업 파일입니다. 클릭하여 복원 할 수 있습니다.\n<b>Dropbox / WebDAV / GoogleDrive 에서 백업 파일을 검색하려면 먼저 Dropbox / WebDAV / GoogleDrive 계정에 로그인하십시오!</b></string>
-  <string name="tipBackupNotExist">백업 파일이 없습니다. 백업 파일을 Documents/PureWriter/Backups 에 넣고 다시 시도하십시오.</string>
+  <string name="tipBackupNotExist">백업 파일이 없습니다. 백업 파일을 /backups 에 넣고 다시 시도하십시오.</string>
   <string name="wordCountMode">단어 개수 모드</string>
   <string-array name="wordCountModeEntries">
     <item>Exclude spaces and line breaks</item>
@@ -212,7 +212,7 @@
   <string name="typewriterMode">타자기 모드</string>
   <string name="edit">편집하다</string>
   <string name="editBook">책 편집</string>
-  <string name="tipFloatingWordCountDisabled">부동 단어 수를 해제 한 후에도 기사 목록에서 단어 수를 가져올 수 있습니다.</string>
+  <string name="tipFloatingWordCountDisabled">부동 단어 수를 끈 후에도 Time Machine에서 총 단어 수를 얻을 수 있습니다.</string>
   <string name="shareText">권장 사항 : Pure Writer는 기능이 가득 찬 텍스트 편집 앱으로 기록 기록, 소중한 콘텐츠를 잃지 않도록하는 다중 레이어 보호 및 편안한 쓰기 환경을 제공합니다. https://play.google.com/store/apps/details?id=com.drakeet.purewriter에서 자세히 알아보십시오.</string>
   <string name="shareMessage">Pure Writer를 사용하는 것을 좋아한다면, 우리가 그 단어를 널리 알리도록 도와주세요! 이 앱을 친구들과 공유하려면 오른쪽의 공유 버튼을 클릭하십시오. 그것은 당신의 지원으로 인해 개선 될 때 우리와 응용 프로그램에 큰 의미가 있습니다. 감사!\n\n자세한 내용은 https://play.google.com/store/apps/details?id=com.drakeet.purewriter를 참조하십시오.</string>
   <string name="reduceDatabaseSize">데이터베이스 크기를 줄이기위한 기록 지우기</string>
@@ -432,6 +432,12 @@
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
 
+        #### 개요
+
+        편집기의 상단 오버플로 메뉴에서 개요 편집기를 입력 할 수 있으며 사전 설정된 여러 개요 항목이 있습니다.
+
+        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/6.webp)
+
         #### Pure Writer Desktop
 
         ![퓨어 라이터 데스크탑](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
@@ -512,6 +518,4 @@
   <string name="typeOfTimeDisplayed">표시되는 시간 유형</string>
   <string name="timeModified">수정 된 시간</string>
   <string name="timeCreated">생성 시간</string>
-  <string name="thankYou">감사합니다!</string>
-  <string name="editor2">편집기 2</string>
 </resources>
