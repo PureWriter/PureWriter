@@ -105,14 +105,14 @@
   <string name="backupNow">Effettua Backup ora</string>
   <string name="backupToLocalNow">Backup su memoria locale ora</string>
   <string name="backupToCloudNow">Backup su memoria cloud ora</string>
-  <string name="summaryBackupToLocal">File di Backup file in salvataggio su /backups</string>
+  <string name="summaryBackupToLocal">File di Backup file in salvataggio su Documents/PureWriter/Backups</string>
   <string name="summaryBackupToCloud">File di Backup file in salvataggio su memoria cloud storage, se impostata</string>
   <string name="restoreBackup">Recupero backup</string>
-  <string name="summaryRestoreTheBackup">Backup in recupero da /backups, /backups/PureWriterAutoBackups e sul vostro WebDAV o su Dropbox o su GoogleDrive</string>
+  <string name="summaryRestoreTheBackup">Backup in recupero da Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto e sul vostro WebDAV o su Dropbox o su GoogleDrive</string>
   <string name="backupSuccessful">Effettuato Backup con successo</string>
   <string name="restoreSuccessful">Effettuato recuero del Backup con successo</string>
   <string name="tipBackupList">Qui ci sono i vostri file di backup. Puoi fare click per recuperarli\n<b>Se desideri recuperare i file backup da Dropbox / GoogleDrive / WebDAV, effettua prima il login al tuo Dropbox / GoogleDrive / WebDAV!</b></string>
-  <string name="tipBackupNotExist">Il file di backup non esiste. Pregasi posizionare il file di backup nella directory /backups e riprovare nuovamente.</string>
+  <string name="tipBackupNotExist">Il file di backup non esiste. Pregasi posizionare il file di backup nella directory Documents/PureWriter/Backups e riprovare nuovamente.</string>
   <string name="wordCountMode">Modo conteggio parole</string>
   <string-array name="wordCountModeEntries">
     <item>Escludi spazi e interruzioni linea</item>
@@ -217,7 +217,7 @@
   <string name="typewriterMode">Modo macchina da scrivere</string>
   <string name="edit">Modifica</string>
   <string name="editBook">Modifica Libro</string>
-  <string name="tipFloatingWordCountDisabled">dopo aver spento il conta parole flottante, sarai ancora in grado di acquisire il numero delle parole totale tramite la  Macchina del Tempo</string>
+  <string name="tipFloatingWordCountDisabled">Dopo aver disattivato il conteggio delle parole mobili, sarai ancora in grado di ottenere il conteggio delle parole nell\'elenco degli articoli.</string>
   <string name="shareText">Raccomandazione: Pure Writer e\' un\'applicazione per l\'editing del testo ricca di funzioni che ti da\' tranquillita\' con le sue caratteristiche: History Records, protezione multistrato che impedisce di perdere i vostri preziosi contenuti, e anche un ambiente di scrittura confortevole. Scopri di piu\' qui: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="shareMessage">Se ti piace usare Pure Writer, per favore aiutaci a passare parola! Clicca sul pulsante Condividi a destra per condividere questa applicazione con i tuoi amici. Significhera\' molto per noi e per l\'app, in quanto essa migliora proprio grazie al tuo supporto. Grazie! Per saperne di piu\', visita il sito: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="reduceDatabaseSize">Elimina la cronologia per ridurre la grandezza del DataBase</string>
@@ -408,9 +408,9 @@
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/0.webp)
 
-        #### Anteprima rapida Markdown ✨
+        #### Secondo editore ✨
 
-        Puoi scorrere la pagina dell\'editor in **senso orizzontale** per accedere rapidamente alla pagina di anteprima rapida Markdown:
+        Puoi scorrere la pagina dell\'editor in orizzontale per accedere alla seconda pagina dell\'editor:
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/1.webp)
 
@@ -437,12 +437,6 @@
         Quando il tema di Material Design 2 è abilitato, otterrai una barra superiore trasparente, che non è più nero puro, e puoi ottenere un\'interfaccia utente più coinvolgente e bella:
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
-
-        #### Schema
-
-        È possibile accedere all\'editor dei contorni nel menu di overflow in alto dell\'editor e ci sono molti elementi predefiniti per i contorni:
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/6.webp)
 
         #### Pure Writer Desktop
 
@@ -523,4 +517,6 @@
   <string name="typeOfTimeDisplayed">Tipo di tempo visualizzato</string>
   <string name="timeModified">Ora modificata</string>
   <string name="timeCreated">Tempo creato</string>
+  <string name="thankYou">Grazie!</string>
+  <string name="editor2">Editore 2</string>
 </resources>

@@ -103,14 +103,14 @@
   <string name="backupNow">Auto-guardar</string>
   <string name="backupToLocalNow">Guardar en el almacenamiento local</string>
   <string name="backupToCloudNow">Guardar en la nube</string>
-  <string name="summaryBackupToLocal">El archivo de la Copia de Seguridad será guardado en /backups</string>
+  <string name="summaryBackupToLocal">El archivo de la Copia de Seguridad será guardado en Documents/PureWriter/Backups</string>
   <string name="summaryBackupToCloud">El archivo de la Copia de Seguridad se guardará en el almacenamiento de la nube en caso de que esté configurado.</string>
   <string name="restoreBackup">Restaurar la Copia de Seguridad</string>
-  <string name="summaryRestoreTheBackup">El archivo de la Copia de Seguridad será recuperado de /backups, /backups/PureWriterAutoBackups y de WebDAV o Dropbox/GoogleDrive</string>
+  <string name="summaryRestoreTheBackup">El archivo de la Copia de Seguridad será recuperado de Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto y de WebDAV o Dropbox/GoogleDrive</string>
   <string name="backupSuccessful">La Copia de Seguridad fue exitosa</string>
   <string name="restoreSuccessful">La Copia de Seguridad fue restaurada exitosamente</string>
   <string name="tipBackupList">Aquí estarán tus archivos de las Copias de Seguridad. Puedes hacer clic para restaurarlos.\n<b>Si deseas recuperar las Copias de Seguridad de Dropbox o WebDAV o GoogleDrive, primero inicia sesión en tu cuenta de WebDAV o Dropbox o GoogleDrive.</b></string>
-  <string name="tipBackupNotExist">No existe un archivo de la Copia de Seguridad. Por favor, mueve la Copia de Seguridad a la carpeta /backups e inténtalo de nuevo.</string>
+  <string name="tipBackupNotExist">No existe un archivo de la Copia de Seguridad. Por favor, mueve la Copia de Seguridad a la carpeta Documents/PureWriter/Backups e inténtalo de nuevo.</string>
   <string name="wordCountMode">Modo de Contador de Palabras</string>
   <string-array name="wordCountModeEntries">
     <item>Excluir espacios y saltos de línea</item>
@@ -213,7 +213,7 @@
   <string name="typewriterMode">Modo de Máquina de Escribir</string>
   <string name="edit">Editar</string>
   <string name="editBook">Editar Libros</string>
-  <string name="tipFloatingWordCountDisabled">Después de desactivar el Contador de Palabras, aún podrás obtener el recuento total de palabras en la Máquina del Tiempo.</string>
+  <string name="tipFloatingWordCountDisabled">Después de desactivar el recuento de palabras flotante, podrá seguir obteniendo el recuento de palabras en la lista de capítulos/artículos.</string>
   <string name="shareText">Recomendación: Pure Writer es una aplicación de edición de texto llena de funciones que te brinda tranquilidad con sus características: historial de registros, protección de múltiples capas que impide perder tu valioso contenido y también un entorno de escritura cómodo. Descubre más aquí: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="shareMessage">Si te gusta Pure Writer, ¡ayúdenos a correr la voz! Haz clic en el botón de Compartir que está al lado derecho y con esto podrás enviar esta aplicación a tus amigos. Significaría mucho para nosotros ya que mejoraríamos el desarrollo por el apoyo que recibamos, ¡gracias!\n\nDescubre más aquí: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="reduceDatabaseSize">Borrar historial para reducir el tamaño de la base de datos</string>
@@ -403,9 +403,9 @@
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/0.webp)
 
-        #### Vista previa rápida de Markdown ✨
+        #### Segundo editor ✨
 
-        Puede deslizar la página del editor **horizontalmente** para acceder rápidamente a la página de vista previa rápida Markdown:
+        Puede deslizar la página del editor horizontalmente para ingresar a la segunda página del editor:
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/1.webp)
 
@@ -432,12 +432,6 @@
         Cuando el tema Material Design 2 está habilitado, obtendrá una barra superior transparente, que ya no es negro puro, y puede obtener una IU más inmersiva y hermosa:
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
-
-        #### contorno
-
-        Puede ingresar al editor de esquema en el menú superior de desbordamiento del editor, y hay muchos elementos de esquema preestablecidos:
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/6.webp)
 
         #### Pure Writer Desktop
 
@@ -518,4 +512,6 @@
   <string name="typeOfTimeDisplayed">Tipo de tiempo mostrado</string>
   <string name="timeModified">Hora modificada</string>
   <string name="timeCreated">El tiempo creado</string>
+  <string name="thankYou">Gracias.</string>
+  <string name="editor2">Editor 2</string>
 </resources>

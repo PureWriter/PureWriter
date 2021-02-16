@@ -98,13 +98,13 @@
   <string name="sortTypeCreatedTimeDown">Gecreëerde tijd</string>
   <string name="warningSavedFailed">Bestand opgeslagen mislukt, kopieer de volledige tekst en start de app opnieuw om te zien of de inhoud ontbreekt</string>
   <string name="backupNow">Nu backuppen</string>
-  <string name="summaryBackupToLocal">Het back-upbestand wordt opgeslagen op het pad /backups</string>
+  <string name="summaryBackupToLocal">Het back-upbestand wordt opgeslagen op het pad Documents/PureWriter/Backups</string>
   <string name="restoreBackup">Back-up terugzetten</string>
-  <string name="summaryRestoreTheBackup">Backup file will be retrieved from /backups, /backups/PureWriterAutoBackups and your WebDAV or Dropbox or GoogleDrive</string>
+  <string name="summaryRestoreTheBackup">Backup file will be retrieved from Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto and your WebDAV or Dropbox or GoogleDrive</string>
   <string name="backupSuccessful">Back-up geslaagd</string>
   <string name="restoreSuccessful">Herstel de back-up met succes</string>
   <string name="tipBackupList">Het volgende is alle back-upbestanden, klik om de back-up te herstellen. \n<b>Als u back-ups wilt ontvangen van de Dropbox/GoogleDrive/WebDAV-cloud, moet u zich aanmelden bij uw Dropbox/GoogleDrive/WebDAV-account voordat u deze pagina opent!</b></string>
-  <string name="tipBackupNotExist">Het back-upbestand bestaat niet. Plaats het back-upbestand in /backups en probeer het opnieuw</string>
+  <string name="tipBackupNotExist">Het back-upbestand bestaat niet. Plaats het back-upbestand in Documents/PureWriter/Backups en probeer het opnieuw</string>
   <string name="wordCountMode">Word telmodus</string>
   <string-array name="wordCountModeEntries">
     <item>Spaties en regeleinde uitsluiten</item>
@@ -206,7 +206,7 @@
   <string name="wordCountLong">Aantal woorden</string>
   <string name="wordCountOfCurrentArticle">Word-telling van het huidige artikel</string>
   <string name="floatingWordCount">Floating Word Count</string>
-  <string name="tipFloatingWordCountDisabled">After you disable Word Count, you will be able to see it in TimeMachine</string>
+  <string name="tipFloatingWordCountDisabled">Nadat u het aantal zwevende woorden hebt uitgeschakeld, kunt u het aantal woorden nog steeds in de artikellijst zien.</string>
   <string name="reduceDatabaseSize">Verklein database grootte</string>
   <string name="deleteSuccessful">Met succes verwijderd</string>
   <string name="reduceDatabaseSizeMessage">Verwijder alle geschiedenis van alle artikelen.\nAlleen geschiedenis, het artikel zelf zal niet worden verwijderd.\n\nMaak een back-up voordat u deze verwijdert.</string>
@@ -399,9 +399,9 @@
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/0.webp)
 
-        #### Markdown snel voorbeeld ✨
+        #### Tweede editor ✨
 
-        U kunt de editorpagina **horizontaal** vegen om snel toegang te krijgen tot de Markdown-snelvoorbeeldpagina:
+        U kunt de editorpagina horizontaal vegen om de tweede editorpagina te openen:
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/1.webp)
 
@@ -428,12 +428,6 @@
         Wanneer het thema Material Design 2 is ingeschakeld, krijgt u een transparante bovenste balk, die niet langer puur zwart is, en krijgt u een meer meeslepende en mooie gebruikersinterface:
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
-
-        #### Schets
-
-        U kunt de overzichtseditor openen in het bovenste overloopmenu van de editor en er zijn veel vooraf ingestelde overzichtsitems:
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/6.webp)
 
         #### Pure Writer Desktop
 
@@ -514,4 +508,6 @@
   <string name="typeOfTimeDisplayed">Type weergegeven tijd</string>
   <string name="timeModified">Tijd gewijzigd</string>
   <string name="timeCreated">Tijd gemaakt</string>
+  <string name="thankYou">Dank je!</string>
+  <string name="editor2">Editor 2</string>
 </resources>

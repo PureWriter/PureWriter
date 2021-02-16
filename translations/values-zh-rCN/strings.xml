@@ -102,12 +102,12 @@
   <string name="warningSavedFailed">文件自动保存失败，请复制您的全文，然后重启 App 查看是否丢失内容</string>
   <string name="backupSuccessful">备份成功</string>
   <string name="backupNow">立即备份</string>
-  <string name="summaryBackupToLocal">备份文件将被保存到 /backups</string>
+  <string name="summaryBackupToLocal">备份文件将被保存到 Documents/PureWriter/Backups</string>
   <string name="restoreBackup">恢复备份</string>
-  <string name="summaryRestoreTheBackup">备份文件将从 /backups 和 /backups/PureWriterAutoBackups 和您的 WebDAV 或 Dropbox 或 GoogleDrive 云盘中读取</string>
+  <string name="summaryRestoreTheBackup">备份文件将从 Documents/PureWriter/Backups 和 Documents/PureWriter/Backups/Auto 和您的 WebDAV 或 Dropbox 或 GoogleDrive 云盘中读取</string>
   <string name="tipBackupList">以下是备份文件，点击即可恢复备份。\n<b>如果您想从 WebDAV/坚果云/GoogleDrive/Dropbox 云端获取备份，应该先登录你的 WebDAV/坚果云/GoogleDrive/Dropbox 账号后再进入此页面！</b></string>
   <string name="restoreSuccessful">恢复备份成功</string>
-  <string name="tipBackupNotExist">备份文件不存在，请将备份文件置于 /backups 并重试</string>
+  <string name="tipBackupNotExist">备份文件不存在，请将备份文件置于 Documents/PureWriter/Backups 并重试</string>
   <string name="wordCountMode">字数统计模式与<b>标点符号</b></string>
   <string-array name="wordCountModeEntries">
     <item>不包含空格与换行</item>
@@ -215,13 +215,13 @@
   <string name="wordCountLong">字数统计</string>
   <string name="wordCountOfCurrentArticle">当前文章字数统计</string>
   <string name="floatingWordCount">悬浮字数统计</string>
-  <string name="tipFloatingWordCountDisabled">关闭悬浮字数统计后，您将可以在时光机中获取字数统计。</string>
+  <string name="tipFloatingWordCountDisabled">关闭悬浮字数统计后，您可以在文章列表中获取字数统计。</string>
   <string name="reduceDatabaseSize">数据库文件瘦身 ，删除历史记录</string>
   <string name="deleteSuccessful">删除完成</string>
   <string name="reduceDatabaseSizeMessage">删除所有文章的历史记录。\n只是删除历史记录，文章本身不会被删除。\n\n建议您在删除之前最好先进行一次备份。\n建议隔一段时间就进行一次数据库瘦身，即删除历史记录。</string>
   <string name="unlockPro">解锁高级版</string>
   <string name="presetTitle1">纯纯写作 - 愿文字带我们穿越时光，连接过去遥想未来</string>
-  <string name="presetContent1" tools:ignore="TypographyEllipsis">　　纯纯写作是一款致力于提供 绝不丢失内容、快速、优秀写作体验 的 App。在 Google Play 应用商店翻看对于纯纯写作来源于全世界用户的评论时，你能够找到大量用户对纯纯写作的夸张赞美，比如「没用过这么好用的 App」、「最满意的 App」、「爱死这个 App」、「一见倾心」... 作为这个应用的唯一开发者，真是特别欣慰...\n　　2017 年 6 月末的一天，在经历过其他编辑器应用导致的各种文本丢失事件，以及体验了各种不如意、粗糙的写作产品后，我决心自己来开发这么一款 让人随时随地能够获得安心的写作感觉、提供写作辅助、并真正从写作者角度出发进行设计和开发的应用。\n　　在此之前，我在业余时间负责独立为「字里行间」应用开发一个新的编辑器。那时我们在富文本编辑器上花费了大量心血，虽然最终也没能在 Android 上实现我们觉得满意的高性能富文本编辑器，但这个过程中我发明了许多独有的有用的技术，这些技术用于开发一个纯本文编辑器绰绰有余。\n　　于是纯纯写作诞生了，它一开始便在 Android 上实现了 完美的行间距和段间距 功能，做到了全系统兼容，原生性能。这是纯纯写作的独有技术，除了微软的 Office Word 你很难能够再找到一款在手机上支持段间距和稳定行间距的编辑器。而 Office Word 的安装包体积是纯纯写作的几十倍。\n　　除了独有的段间距，纯纯写作一开始还提供了「启动立马进入编辑页面」以及特有的「历史记录」功能。特别是历史记录功能，实际上作为一个写作者，我深知历史记录功能实在太重要了，它能够让你拥有难得的安心、放心写作的感觉，而且纯纯写作做到了即使手机瞬间断电关机，也能够实时自动保存，绝不丢失内容。这样的好处是，大家可以随时暂停和随时继续写作，并且配合纯纯写作的软键盘状态记录与恢复，来回切换将令人感到特别流畅舒适。\n　　此外，纯纯写作还支持「快捷输入栏」和「格式化工具」，快捷输入栏能够让用户自定义快捷词语和短语；格式化面板则能够帮助用户快速调整文章格式，比如在中英文之间自动插入空格，或者自动进行缩进调整等等。\n　　在实现了这些显著功能以外，纯纯写作还在细节体验上下了很多功夫，它拥有 完美的键盘响应逻辑。使用纯纯写作时，你能够往下快速滑动页面或快捷输入栏来收起输入法软键盘；能够点击文章某一行后，动态获得合适的光标焦点定位；能够在收起软键盘时，文章位置保持不动 ... 许多这样的细节内容，当你对比使用其他编辑器项目时，你才会发现纯纯写作做得更加出色，细致入微。\n　　至于一个编辑器该有的功能，纯纯写作也都没有落下，比如 自动段首缩进、生成长图片、悬浮字数统计、撤销、Markdown、更换信纸、指纹加锁、夜间模式、单词联想输入、快速滚动、导出和发送文件 等等。但即使这样，纯纯写作仍然保持了简约、蕴繁于简的设计风格，遵循 Material Design，并且我还为它画了个像是机器猫 时光机 的图标，寓意着「文字能够连接过去，遥想未来」，也照应了纯纯写作特别提供的「历史记录」功能。\n　　时至今日，纯纯写作的开发工作已经有 1000 次代码提交了，代码变更十几万行。它花费了我几乎所有的业余时间，但很高兴越来越多人告诉我他们对这个应用特别喜欢，相见恨晚；我也非常积极地与用户交流，收集反馈，不断完善。这令我感到前所未有的开心，想来自己做了一件很有意义并且值得长期投入的事情。\n　　感谢所有在这个过程支持和帮助过我的朋友，没有你们，这个应用不能够一步步做得更好，也不能够长期不停地维护更新下去，真是太好了 ... 也因此今天我终于能够写这么一篇文章来介绍纯纯写作的初衷，和它的许多「特色功能」，希望能够让更多人认识到这个产品，愿我们在人生岁月中，能够记录更多感动、留下更多回忆，愿文字能够带我们穿越时光，连接过去，遥想未来。</string>
+  <string name="presetContent1" tools:ignore="TypographyEllipsis">　　纯纯写作是一款致力于提供 绝不丢失内容、快速、优秀写作体验 的 App。在 Google Play 应用商店翻看对于纯纯写作来源于全世界用户的评论时，你能够找到大量用户对纯纯写作的夸张赞美，比如「没用过这么好用的 App」、「最满意的 App」、「爱死这个 App」、「一见倾心」... 作为这个应用的唯一开发者，真是特别欣慰...\n　　2017 年 6 月末的一天，在经历过其他编辑器应用导致的各种文本丢失事件，以及体验了各种不如意、粗糙的写作产品后，我决心自己来开发这么一款 让人随时随地能够获得安心的写作感觉、提供写作辅助、并真正从写作者角度出发进行设计和开发的应用。\n　　在此之前，我在业余时间负责独立为「字里行间」应用开发一个新的编辑器。那时我们在富文本编辑器上花费了大量心血，虽然最终也没能在 Android 上实现我们觉得满意的高性能富文本编辑器，但这个过程中我发明了许多独有的有用的技术，这些技术用于开发一个纯文本编辑器绰绰有余。\n　　于是纯纯写作诞生了，它一开始便在 Android 上实现了 完美的行间距和段间距 功能，做到了全系统兼容，原生性能。这是纯纯写作的独有技术，除了微软的 Office Word 你很难能够再找到一款在手机上支持段间距和稳定行间距的编辑器。而 Office Word 的安装包体积是纯纯写作的几十倍。\n　　除了独有的段间距，纯纯写作一开始还提供了「启动立马进入编辑页面」以及特有的「历史记录」功能。特别是历史记录功能，实际上作为一个写作者，我深知历史记录功能实在太重要了，它能够让你拥有难得的安心、放心写作的感觉，而且纯纯写作做到了即使手机瞬间断电关机，也能够实时自动保存，绝不丢失内容。这样的好处是，大家可以随时暂停和随时继续写作，并且配合纯纯写作的软键盘状态记录与恢复，来回切换将令人感到特别流畅舒适。\n　　此外，纯纯写作还支持「快捷输入栏」和「格式化工具」，快捷输入栏能够让用户自定义快捷词语和短语；格式化面板则能够帮助用户快速调整文章格式，比如在中英文之间自动插入空格，或者自动进行缩进调整等等。\n　　在实现了这些显著功能以外，纯纯写作还在细节体验上下了很多功夫，它拥有 完美的键盘响应逻辑。使用纯纯写作时，你能够往下快速滑动页面或快捷输入栏来收起输入法软键盘；能够点击文章某一行后，动态获得合适的光标焦点定位；能够在收起软键盘时，文章位置保持不动 ... 许多这样的细节内容，当你对比使用其他编辑器项目时，你才会发现纯纯写作做得更加出色，细致入微。\n　　至于一个编辑器该有的功能，纯纯写作也都没有落下，比如 自动段首缩进、生成长图片、悬浮字数统计、撤销、Markdown、更换信纸、指纹加锁、夜间模式、单词联想输入、快速滚动、导出和发送文件 等等。但即使这样，纯纯写作仍然保持了简约、蕴繁于简的设计风格，遵循 Material Design，并且我还为它画了个像是机器猫 时光机 的图标，寓意着「文字能够连接过去，遥想未来」，也照应了纯纯写作特别提供的「历史记录」功能。\n　　时至今日，纯纯写作的开发工作已经有 1000 次代码提交了，代码变更十几万行。它花费了我几乎所有的业余时间，但很高兴越来越多人告诉我他们对这个应用特别喜欢，相见恨晚；我也非常积极地与用户交流，收集反馈，不断完善。这令我感到前所未有的开心，想来自己做了一件很有意义并且值得长期投入的事情。\n　　感谢所有在这个过程支持和帮助过我的朋友，没有你们，这个应用不能够一步步做得更好，也不能够长期不停地维护更新下去，真是太好了 ... 也因此今天我终于能够写这么一篇文章来介绍纯纯写作的初衷，和它的许多「特色功能」，希望能够让更多人认识到这个产品，愿我们在人生岁月中，能够记录更多感动、留下更多回忆，愿文字能够带我们穿越时光，连接过去，遥想未来。</string>
   <string name="presetTitle2">纯纯写作 - 保护机制</string>
   <string name="presetContent2">目前为止纯纯写作保护文章避免丢失的防线有： \n1. 文章一旦变动就会触发自动保存，自动保存时，若失败则立马警告用户 \n2. 每隔 2 秒进行一次主动检查文章是否正常存入数据库、是否与数据库内容对等，若失败则立马警告用户 \n3. 如果保存失败，则无法真正退出应用，此时按退出键等于按 Home 键，尽可能给予用户自行保存的机会 \n4. 每次切到后台或退出应用，如若文章有变化，则进行一次自动备份整个数据库，备份内容可以随时恢复，恢复之前会自动备份「恢复之前」的内容以供放弃恢复 \n5. 为每一篇文章提供历史记录、撤销与重做 \n6. 提供废纸篓，避免误删文章 \n7. 云备份，如果配置 WebDAV，则纯纯写作会默认开启云备份功能，自动将你的 db 数据库文件（包含全量文章）同步到云端</string>
   <string name="presetTitle3">关于纯纯写作高级版</string>
@@ -392,9 +392,9 @@
 
         ![图片](https://gitee.com/PureWriter/resources/raw/master/pro/0.webp)
 
-        #### Markdown 快捷预览 ✨
+        #### 第二编辑器 ✨
 
-        您可以**左右滑动编辑器**页面来快速进入 Markdown 预览页面：
+        您可以**左右滑动编辑器**页面来进入第二编辑器页面：
 
         ![图片](https://gitee.com/PureWriter/resources/raw/master/pro/1.webp)
 
@@ -421,12 +421,6 @@
         开启 Material Design 2 主题后，您将获得透明化的顶栏，它不再是纯黑色的，这可以获得更加沉浸式的精美 UI：
 
         ![图片](https://gitee.com/PureWriter/resources/raw/master/pro/5.webp)
-
-        #### 大纲
-
-        在编辑器右上角菜单中可以进入大纲编辑器页面，并且有许多预置的大纲项目：
-
-        ![图片](https://gitee.com/PureWriter/resources/raw/master/pro/6.webp)
 
         #### 纯纯写作 桌面版
 
@@ -478,7 +472,7 @@
   <string name="password">密码</string>
   <string name="nightMode">夜间模式</string>
   <string name="customPapers">自定义稿纸\n精致、沉浸</string>
-  <string name="markdownQuickPreview">Markdown 快捷预览\n横向滑动编辑器即可预览</string>
+  <string name="markdownQuickPreview">Markdown 快捷预览</string>
   <string name="exportToPicMdTxt">另存为、导出为长图片、md、txt</string>
   <string name="materialDesign2ThemeWithLineBreak">Material Design 2\n主题</string>
   <string name="veryVerySmooth">非常非常顺滑流畅</string>
@@ -556,4 +550,11 @@
   <string name="timeModified">更新时间</string>
   <string name="timeCreatedAndModified">创建 + 更新时间</string>
   <string name="timeCreated">创建时间</string>
+  <string name="currentChapterWordCount">当前章节字数</string>
+  <string name="currentBookWordCount">全书字数</string>
+  <string name="editor2">第二编辑器</string>
+  <string name="rating">给予好评</string>
+  <string name="wordsShort">字</string>
+  <string name="splitLayout">分栏</string>
+  <string name="thankYou">非常感谢！</string>
 </resources>

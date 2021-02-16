@@ -97,13 +97,13 @@
   <string name="sortTypeCreatedTimeDown">作成時刻</string>
   <string name="warningSavedFailed">ファイルを保存できませんでした。フルテキストをコピーしてから、アプリケーションを再起動してコンテンツが欠落していないか確認してください</string>
   <string name="backupNow">今すぐバックアップする</string>
-  <string name="summaryBackupToLocal">バックアップファイルはパス /backups に保存されます。</string>
+  <string name="summaryBackupToLocal">バックアップファイルはパス Documents/PureWriter/Backups に保存されます。</string>
   <string name="restoreBackup">バックアップを復元</string>
-  <string name="summaryRestoreTheBackup">Backup file will be retrieved from /backups, /backups/PureWriterAutoBackups and your GoogleDrive or WebDAV or Dropbox</string>
+  <string name="summaryRestoreTheBackup">Backup file will be retrieved from Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto and your GoogleDrive or WebDAV or Dropbox</string>
   <string name="backupSuccessful">バックアップ成功</string>
   <string name="restoreSuccessful">バックアップを正常に復元する</string>
   <string name="tipBackupList">以下はすべてのバックアップファイルです：クリックしてバックアップを復元する。\n<b>GoogleDrive/Dropbox/WebDAVクラウドからバックアップを取得する場合は、このページに入る前にGoogleDrive/Dropbox/WebDAVアカウントにログインする必要があります。</b></string>
-  <string name="tipBackupNotExist">バックアップファイルは存在しません。 バックアップファイルを /backups に入れてもう一度お試しください</string>
+  <string name="tipBackupNotExist">バックアップファイルは存在しません。 バックアップファイルを Documents/PureWriter/Backups に入れてもう一度お試しください</string>
   <string name="wordCountMode">単語数</string>
   <string-array name="wordCountModeEntries">
     <item>スペースと改行を除外する</item>
@@ -205,7 +205,7 @@
   <string name="wordCountLong">単語数</string>
   <string name="wordCountOfCurrentArticle">現在の記事の単語数</string>
   <string name="floatingWordCount">Floating Word Count</string>
-  <string name="tipFloatingWordCountDisabled">After turning off the floating word count, you will still be able to get the total word count in the Time Machine</string>
+  <string name="tipFloatingWordCountDisabled">フローティングワードカウントをオフにした後でも、記事リストでワードカウントを取得できます。</string>
   <string name="reduceDatabaseSize">データベースサイズを縮小する</string>
   <string name="deleteSuccessful">Deleted successfully</string>
   <string name="reduceDatabaseSizeMessage">すべての記事のすべての履歴を削除します。\n歴史だけでは、記事自体は削除されません。\n\n削除する前にバックアップを作成することをお勧めします。\n\nEnglish: \nDelete all history of all articles. \nJust history, the article itself will not be deleted. \n\nYou\'d better make a backup before you delete it.</string>
@@ -374,7 +374,7 @@
   <string name="nightMode">夜間モード</string>
   <string name="unlimitedWords">無制限の単語</string>
   <string name="customPapers">カスタムペーパー\n綺麗な</string>
-  <string name="markdownQuickPreview">Markdownクイックプレビュー\nプレビューする水平スワイプエディター</string>
+  <string name="markdownQuickPreview">Markdownクイックプレビュー</string>
   <string name="exportToPicMdTxt">長い画像/.md/.txtとしてエクスポート</string>
   <string name="materialDesign2ThemeWithLineBreak">Material Design 2テーマ</string>
   <string name="neverLost">失われたことはありません</string>
@@ -397,9 +397,9 @@
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/0.webp)
 
-        #### Markdownクイックプレビュー ✨
+        #### 2番目の編集者✨
 
-        エディターページを**水平**にスワイプして、Markdownクイックプレビューページにすばやくアクセスできます：
+        エディタページを水平方向にスワイプして、2番目のエディタページに入ることができます：
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/1.webp)
 
@@ -426,12 +426,6 @@
         Material Design 2テーマを有効にすると、透明なトップバーが表示されます。これは純粋な黒ではなく、より没入感のある美しいUIを取得できます。
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
-
-        #### 概要
-
-        エディターのトップオーバーフローメニューでアウトラインエディターに入ることができ、多くのプリセットアウトラインアイテムがあります：
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/6.webp)
 
         #### Pure Writer Desktop
 
@@ -515,4 +509,6 @@
   <string name="timeModified">更新時間</string>
   <string name="timeCreated">作成された時間</string>
   <string name="timeCreatedAndModified">作成+更新時間</string>
+  <string name="thankYou">ありがとうございました！</string>
+  <string name="editor2">エディター2</string>
 </resources>

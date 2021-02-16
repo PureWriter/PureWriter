@@ -116,14 +116,14 @@
   <string name="backupNow">Backup now</string>
   <string name="backupToLocalNow">Back up to local storage now</string>
   <string name="backupToCloudNow">Back up to cloud storage now</string>
-  <string name="summaryBackupToLocal">Backup file will be saved to /backups</string>
+  <string name="summaryBackupToLocal">Backup file will be saved to Documents/PureWriter/Backups</string>
   <string name="summaryBackupToCloud">Backup file will be saved to your cloud storage if set</string>
   <string name="restoreBackup">Restore backup</string>
-  <string name="summaryRestoreTheBackup">Backup file will be retrieved from /backups, /backups/PureWriterAutoBackups and your WebDAV or Dropbox or GoogleDrive</string>
+  <string name="summaryRestoreTheBackup">Backup file will be retrieved from Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto and your WebDAV or Dropbox or GoogleDrive</string>
   <string name="backupSuccessful">Backup successful</string>
   <string name="restoreSuccessful">Backup restored successfully</string>
   <string name="tipBackupList">Here\'re your backup files. You can click to restore them.\n<b>If you wish to retrieve backup files from Dropbox/WebDAV/GoogleDrive, please log in to your Dropbox/WebDAV/GoogleDrive account first!</b></string>
-  <string name="tipBackupNotExist">The backup file does not exist. Please place the backup file in /backups and try again.</string>
+  <string name="tipBackupNotExist">The backup file does not exist. Please place the backup file in Documents/PureWriter/Backups and try again.</string>
   <string name="wordCountMode">Word count mode</string>
   <string-array name="wordCountModeEntries">
     <item>Exclude spaces and line breaks</item>
@@ -244,7 +244,7 @@
   <string name="typewriterMode">Typewriter Mode</string>
   <string name="edit">Edit</string>
   <string name="editBook">Edit Book</string>
-  <string name="tipFloatingWordCountDisabled">After turning off the floating word count, you will still be able to get the total word count in the Time Machine</string>
+  <string name="tipFloatingWordCountDisabled">After turning off the floating word count, you will still be able to get the word count in the chapter/article list.</string>
   <string name="shareText">Recommendation: Pure Writer is a feature-filled text editing app that gives you a peace of mind with its features: History Records, multi-layer protection that prevents you from losing your precious content, and also a comfortable writing environment. Find out more here: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="shareMessage">If you enjoy using Pure Writer, please help us to spread the word! Click the Share button on the right to share this app with your friends. It\'ll mean a lot to us and the app as it improves because of your support. Thanks!\n\nTo find out more, please visit: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="reduceDatabaseSize">Clear History to Reduce Database Size</string>
@@ -432,9 +432,9 @@
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/0.webp)
 
-        #### Markdown Quick Preview ✨
+        #### Editor 2 ✨
 
-        You can **swipe the editor page horizontally** to quickly access the Markdown Quick Preview page:
+        You can **swipe the editor page horizontally** to quickly access the Editor 2:
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/1.webp)
 
@@ -461,12 +461,6 @@
         When the Material Design 2 theme is enabled, you will get a transparent top bar, which is no longer pure black, and you can get a more immersive and beautiful UI:
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
-
-        #### Outline
-
-        You can enter the Outline editor in the top overflow menu of the editor, and there are many preset outline items:
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/6.webp)
 
         #### Pure Writer Desktop
 
@@ -563,7 +557,7 @@
 
         (You can **long press** to select and copy the above examples to try)
 
-        You can also check the **table** in this [document page] (https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) for more **format specifier** and free combination.
+        You can also check the **table** in this [document page](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) for more **format specifier** and free combination.
     ]]></string>
     <string name="read">Read</string>
   <string name="doNotRemindAgain">Don\'t remind again</string>
@@ -593,4 +587,13 @@
   <string name="timeModified">Time Modified</string>
   <string name="timeCreated">Time Created</string>
   <string name="timeCreatedAndModified">Time Created &amp; Modified</string>
+  <string name="presetFreeFont" translatable="false">免费的内置楷体</string>
+  <string name="summaryPresetFreeFont" translatable="false">仅在未启用「自定义字体」时有效；而且可能由于字体文件问题，部分系统可能无效</string>
+  <string name="editor2">Editor 2</string>
+  <string name="currentChapterWordCount">Word count of current chapter</string>
+  <string name="currentBookWordCount">Word count of the whole book</string>
+  <string name="splitLayout">Split layout</string>
+  <string name="rating">Rating</string>
+  <string name="thankYou">Thank you!</string>
+  <string name="wordsShort">w</string>
 </resources>

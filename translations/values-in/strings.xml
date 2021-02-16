@@ -105,14 +105,14 @@
   <string name="backupNow">Cadangkan sekarang</string>
   <string name="backupToLocalNow">Cadangkan ke penyimpanan lokal sekarang</string>
   <string name="backupToCloudNow">Cadangkan ke penyimpanan cloud sekarang</string>
-  <string name="summaryBackupToLocal">File cadangan akan disimpan ke /backup</string>
+  <string name="summaryBackupToLocal">File cadangan akan disimpan ke Documents/PureWriter/Backups</string>
   <string name="summaryBackupToCloud">File cadangan akan disimpan ke penyimpanan cloud Anda jika diatur</string>
   <string name="restoreBackup">Kembalikan cadangan</string>
-  <string name="summaryRestoreTheBackup">File cadangan akan diambil dari /backup, /backups /PureWriterAutoBackups dan WebDAV atau Dropbox atau GoogleDrive Anda</string>
+  <string name="summaryRestoreTheBackup">File cadangan akan diambil dari Documents/PureWriter/Backups, Documents/PureWriter/Backups dan WebDAV atau Dropbox atau GoogleDrive Anda</string>
   <string name="backupSuccessful">Pencadangan berhasil</string>
   <string name="restoreSuccessful">Cadangan berhasil dipulihkan</string>
   <string name="tipBackupList">Ini file cadangan Anda. Anda dapat mengklik untuk memulihkannya.\n<b>Jika Anda ingin mengambil file cadangan dari Dropbox / WebDAV / GoogleDrive, silakan masuk ke akun Dropbox / WebDAV / GoogleDrive Anda terlebih dahulu!</b></string>
-  <string name="tipBackupNotExist">File cadangan tidak ada. Harap tempatkan file cadangan di /backup dan coba lagi.</string>
+  <string name="tipBackupNotExist">File cadangan tidak ada. Harap tempatkan file cadangan di Documents/PureWriter/Backups dan coba lagi.</string>
   <string name="wordCountMode">Mode penghitungan kata</string>
   <string-array name="wordCountModeEntries">
     <item>Exclude spaces and line breaks</item>
@@ -214,7 +214,7 @@
   <string name="typewriterMode">Mode Mesin Ketik</string>
   <string name="edit">Edit</string>
   <string name="editBook">Edit Buku</string>
-  <string name="tipFloatingWordCountDisabled">Setelah mematikan jumlah kata mengambang, Anda masih bisa mendapatkan jumlah kata total di Time Machine</string>
+  <string name="tipFloatingWordCountDisabled">Setelah mematikan hitungan kata mengambang, Anda masih bisa mendapatkan jumlah kata di daftar artikel.</string>
   <string name="shareText">Rekomendasi: Pure Writer adalah aplikasi pengeditan teks penuh fitur yang memberi Anda ketenangan pikiran dengan fitur-fiturnya: History Records, perlindungan multi-layer yang mencegah Anda dari kehilangan konten berharga Anda, dan juga lingkungan penulisan yang nyaman. Cari tahu lebih lanjut di sini: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="shareMessage">Jika Anda menikmati menggunakan Pure Writer, tolong bantu kami untuk menyebarkan berita! Klik tombol Bagikan di sebelah kanan untuk berbagi aplikasi ini dengan teman-teman Anda. Ini akan sangat berarti bagi kami dan aplikasi karena semakin membaik karena dukungan Anda. Terima kasih!\n\nUntuk mengetahui lebih lanjut, silakan kunjungi: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="reduceDatabaseSize">Hapus Riwayat untuk Mengurangi Ukuran Basis Data</string>
@@ -404,9 +404,9 @@
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/0.webp)
 
-        #### Pratinjau cepat Markdown ✨
+        #### Editor kedua ✨
 
-        Anda dapat menggesek halaman editor secara **horizontal** untuk dengan cepat mengakses halaman pratinjau cepat Markdown:
+        Anda dapat menggesek halaman editor secara horizontal untuk masuk ke halaman editor kedua:
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/1.webp)
 
@@ -433,12 +433,6 @@
         Wanneer het thema Material Design 2 is ingeschakeld, krijgt u een transparante bovenste balk, die niet langer puur zwart is, en krijgt u een meer meeslepende en mooie gebruikersinterface:
 
         ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
-
-        #### Garis besar
-
-        Anda dapat memasukkan editor Outline di menu overflow editor, dan ada banyak item outet yang telah ditetapkan:
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/6.webp)
 
         #### Pure Writer Desktop
 
@@ -519,4 +513,6 @@
   <string name="typeOfTimeDisplayed">Jenis waktu yang ditampilkan</string>
   <string name="timeModified">Waktu diubah</string>
   <string name="timeCreated">Waktu diciptakan</string>
+  <string name="thankYou">Terima kasih!</string>
+  <string name="editor2">Editor 2</string>
 </resources>
