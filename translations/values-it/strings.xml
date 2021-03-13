@@ -402,51 +402,51 @@
   <string name="notYetActivated">Non ancora attivato</string>
   <string name="notYetActivatedOrExpired">Non attivato o scaduto</string>
   <string name="ProIntroductionMarkdown"><![CDATA[
-        #### Carte personalizzate
-
-        Puoi scegliere liberamente un\'immagine sul tuo cellulare o un\'immagine remota come carta e sfondo per il tuo editor:
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/0.webp)
-
-        #### Secondo editore ✨
-
-        Puoi scorrere la pagina dell\'editor in orizzontale per accedere alla seconda pagina dell\'editor:
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/1.webp)
-
-        #### Esporta come file di testo / file md / txt lunghi
-
-        Puoi esportare articoli come immagini di testo lunghe o file .md .txt:
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/2.webp)
-
-        #### Esporta libro
-
-        Puoi trovare questa opzione nel menu in alto nel cassetto di sinistra, ti aiuterà a unire tutto il contenuto del capitolo in un semplice file di testo:
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/3.webp)
-
-        #### Trova e sostituisci
-
-        Puoi trovare parole chiave target in qualsiasi articolo e sostituirle in lotti:
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/4.webp)
-
-        #### Tema di Material Design 2
-
-        Quando il tema di Material Design 2 è abilitato, otterrai una barra superiore trasparente, che non è più nero puro, e puoi ottenere un\'interfaccia utente più coinvolgente e bella:
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
-
-        #### Pure Writer Desktop
-
-        ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
-
-        Puoi ottenere Pure Writer Desktop e connetterti tramite l\'icona del cloud ☁️ nella parte superiore dell\'editor principale.
-
-        Al momento, Pure Writer Desktop è ancora in fase alpha. Può solo fornire la connessione in tempo reale di base e la modifica sincrona.
-
-        Mi ci è voluto molto tempo ed energia e il tuo supporto ci aiuterà a renderlo perfetto e migliore.
+|        #### Carte personalizzate
+|
+|        Puoi scegliere liberamente un\'immagine sul tuo cellulare o un\'immagine remota come carta e sfondo per il tuo editor:
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/0.webp)
+|
+|        #### Secondo editore ✨
+|
+|        Puoi scorrere la pagina dell\'editor in orizzontale per accedere alla seconda pagina dell\'editor:
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/1.webp)
+|
+|        #### Esporta come file di testo / file md / txt lunghi
+|
+|        Puoi esportare articoli come immagini di testo lunghe o file .md .txt:
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/2.webp)
+|
+|        #### Esporta libro
+|
+|        Puoi trovare questa opzione nel menu in alto nel cassetto di sinistra, ti aiuterà a unire tutto il contenuto del capitolo in un semplice file di testo:
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/3.webp)
+|
+|        #### Trova e sostituisci
+|
+|        Puoi trovare parole chiave target in qualsiasi articolo e sostituirle in lotti:
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/4.webp)
+|
+|        #### Tema di Material Design 2
+|
+|        Quando il tema di Material Design 2 è abilitato, otterrai una barra superiore trasparente, che non è più nero puro, e puoi ottenere un\'interfaccia utente più coinvolgente e bella:
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
+|
+|        #### Pure Writer Desktop
+|
+|        ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
+|
+|        Puoi ottenere Pure Writer Desktop e connetterti tramite l\'icona del cloud ☁️ nella parte superiore dell\'editor principale.
+|
+|        Al momento, Pure Writer Desktop è ancora in fase alpha. Può solo fornire la connessione in tempo reale di base e la modifica sincrona.
+|
+|        Mi ci è voluto molto tempo ed energia e il tuo supporto ci aiuterà a renderlo perfetto e migliore.
     ]]></string>
   <string name="buyPureWriterPro">Acquista Pure Writer Pro</string>
   <string name="tipMarkdownQuickPreview">Scorri in orizzontale alla pagina successiva per l\'anteprima rapida di Markdown</string>
@@ -479,17 +479,17 @@
   <string name="lowCloudFreeStorageSpaceWarning">%1$s ha solo %2$d MB di spazio di archiviazione gratuito, il che può causare il fallimento del backup o del backup di Pure Writer sul cloud. Si prega di ripulire e lasciare più di %3$d MB prima di utilizzare Pure Writer!</string>
   <string name="unlimitedStorage">Memoria illimitata</string>
   <string name="noteDateTimeShortcut"><![CDATA[
-        Inoltre, puoi anche inserire variabili di ora e data, impostando digitando `${<format>}` nella prima casella di input sopra, dove `<format>` deve essere sostituito con il formato data / ora, ad esempio:
-
-        `${yyyy-MM-dd HH:mm}` genererà:
-         `2020-04-01 21:43`
-
-        `${yyyy-M-d hh:mm}` genererà:
-        `2020-4-1 09:43`
-
-        (È possibile premere a lungo per selezionare e copiare gli esempi precedenti per provare)
-
-        Puoi anche controllare la tabella in questa [pagina del documento](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) per ulteriori identificatori di formato e combinazioni gratuite.
+|        Inoltre, puoi anche inserire variabili di ora e data, impostando digitando `${<format>}` nella prima casella di input sopra, dove `<format>` deve essere sostituito con il formato data / ora, ad esempio:
+|
+|        `${yyyy-MM-dd HH:mm}` genererà:
+|         `2020-04-01 21:43`
+|
+|        `${yyyy-M-d hh:mm}` genererà:
+|        `2020-4-1 09:43`
+|
+|        (È possibile premere a lungo per selezionare e copiare gli esempi precedenti per provare)
+|
+|        Puoi anche controllare la tabella in questa [pagina del documento](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) per ulteriori identificatori di formato e combinazioni gratuite.
     ]]></string>
   <string name="read">Leggere</string>
   <string name="introductionOfReadOnlyMode">* Quando il cursore non è visibile, è necessario fare doppio clic per posizionare il cursore e accedere alla modalità di modifica\n* Quando il cursore è visibile, il testo può essere modificato o modificato con un solo clic\n* Quando il cursore è visibile, è possibile premere il tasto Indietro per nascondere il cursore e accedere alla modalità di sola lettura</string>
@@ -519,4 +519,21 @@
   <string name="timeCreated">Tempo creato</string>
   <string name="thankYou">Grazie!</string>
   <string name="editor2">Editore 2</string>
+  <string name="theTry">Prova</string>
+  <string name="selectFolder">Seleziona cartella</string>
+  <string name="fileTypeNotSupported">Il tipo di file non è supportato</string>
+  <string name="grantStoragePermission">Concedere il permesso di stoccaggio</string>
+  <string name="folderNoLongerExists">La cartella o l\'archivio non esistono più!</string>
+  <string name="tipNotRecommendedFolder">Questa cartella non soddisfa la nostra cartella consigliata e Pure Writer non sarà in grado di leggere i suoi vecchi file di backup. Si prega di essere consapevoli o tornare al passaggio precedente per correggerlo!</string>
+  <string name="tipTargetFolder">"A seconda della cartella scelta, la directory di archiviazione finale di Pure Writer è: "</string>
+  <string name="messageWhyNeedSAF">Per proteggere meglio la privacy degli utenti, a partire da Android 11, Pure Writer non richiede più autorizzazioni di lettura / scrittura per l\'archiviazione esterna completa, ma consente agli utenti di specificare una directory della cartella e Pure Writer avrà solo accesso in lettura / scrittura a quella directory.\n\nPertanto, è necessario selezionare una cartella facendo clic sul pulsante in basso. Per ripristinare i vecchi dati durante la reinstallazione futura, ti consigliamo vivamente di scegliere la cartella ***`Documents`*** 🙏.</string>
+  <string name="pureWriterFolder">Cartella PureWriter</string>
+  <string name="selectFont">Seleziona il carattere</string>
+  <string name="materialFilesNote">Al momento, \"open\" di seguito supporta solo l\'apertura con zhanghai/MaterialFiles. Se necessario, puoi scaricare questa app da solo o utilizzare manualmente il file manager nel tuo sistema per aprire il percorso sopra.</string>
+  <string name="changeFolder">Cambia cartella</string>
+  <string name="yourFolderIs">"La directory della cartella selezionata è: "</string>
+  <string name="changeFolderNote">Se scegli \"cambia cartella\" di seguito, devi prima spostare manualmente la cartella PureWriter nella nuova cartella di destinazione, quindi modificarla.</string>
+  <string name="previous">Precedente</string>
+  <string name="rating">Valutazione</string>
+  <string name="customFontTipForAndroid11">Android 11+ deve selezionare il file del carattere per renderlo efficace</string>
 </resources>

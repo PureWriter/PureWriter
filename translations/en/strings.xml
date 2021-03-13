@@ -370,6 +370,7 @@
   <string name="titleAsAWordForACountSummary">When this item is turned on, the next Word Count Mode will be disabled. If you want to use the options in Word Count Mode, turn this off.</string>
   <string name="customFont">Custom font</string>
   <string name="customFontTip">Place the .ttf or .otf font file in the external storage directory <b>/Documents/PureWriter/App</b> and restart Pure Writer to apply the font automatically. \nNote: There can only be one font file in this directory, and some font files (such as Google Sans) may cause the cursor to shift, please know!</string>
+  <string name="customFontTipForAndroid11">Android 11+ need to select the font file to make it effective</string>
   <string name="corruptBackupTip">The backup file is corrupt! Please try to restore other backups and choose the correct size and time backup!</string>
   <string name="leftMargin">Left Margin</string>
   <string name="rightMargin">Right Margin</string>
@@ -426,51 +427,51 @@
   <string name="exportToPicMdTxt">Export as long image/md/txt</string>
   <string name="materialDesign2ThemeWithLineBreak">Material Design 2\ntheme</string>
   <string name="ProIntroductionMarkdown"><![CDATA[
-        #### Custom Papers
-
-        You can freely choose a picture in your mobile phone or a remote picture as the paper and background for your editor:
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/0.webp)
-
-        #### Editor 2 ✨
-
-        You can **swipe the editor page horizontally** to quickly access the Editor 2:
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/1.webp)
-
-        #### Export as long text image / md / txt file
-
-        You can export articles as long text images or .md .txt files:
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/2.webp)
-
-        #### Export Book
-
-        You can find this option in the top menu of the left drawer, it will help you merge all chapter content into a plain text file:
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/3.webp)
-
-        #### Find & Replace
-
-        You can find target keywords in any article and replace them in batches:
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/4.webp)
-
-        #### Material Design 2 Theme
-
-        When the Material Design 2 theme is enabled, you will get a transparent top bar, which is no longer pure black, and you can get a more immersive and beautiful UI:
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
-
-        #### Pure Writer Desktop
-
-        ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
-
-        You can get Pure Writer Desktop and connect to the Desktop via the cloud icon ☁️ at the top of the main Editor.
-
-        At present, the Desktop is still in the alpha stage. It can only provide basic real-time connection and synchronous editing.
-
-        It took me a lot of time and energy, and your support will help us to make it perfect and better.
+|        #### Custom Papers
+|
+|        You can freely choose a picture in your mobile phone or a remote picture as the paper and background for your editor:
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/0.webp)
+|
+|        #### Editor 2 ✨
+|
+|        You can **swipe the editor page horizontally** to quickly access the Editor 2:
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/1.webp)
+|
+|        #### Export as long text image / md / txt file
+|
+|        You can export articles as long text images or .md .txt files:
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/2.webp)
+|
+|        #### Export Book
+|
+|        You can find this option in the top menu of the left drawer, it will help you merge all chapter content into a plain text file:
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/3.webp)
+|
+|        #### Find & Replace
+|
+|        You can find target keywords in any article and replace them in batches:
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/4.webp)
+|
+|        #### Material Design 2 Theme
+|
+|        When the Material Design 2 theme is enabled, you will get a transparent top bar, which is no longer pure black, and you can get a more immersive and beautiful UI:
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
+|
+|        #### Pure Writer Desktop
+|
+|        ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
+|
+|        You can get Pure Writer Desktop and connect to the Desktop via the cloud icon ☁️ at the top of the main Editor.
+|
+|        At present, the Desktop is still in the alpha stage. It can only provide basic real-time connection and synchronous editing.
+|
+|        It took me a lot of time and energy, and your support will help us to make it perfect and better.
     ]]></string>
   <string name="unlimitedWords">Unlimited words</string>
   <string name="neverLost">Never lost</string>
@@ -547,19 +548,19 @@
   <string name="tipGoogleDriveAppScope">Tip: Since the app private directory of Google Drive is not visible to users, the Bridge function will be automatically disabled.</string>
   <string name="unlimitedStorage">Unlimited storage</string>
   <string name="noteDateTimeShortcut"><![CDATA[
-        In addition, you can also insert time and date variables, set by entering `$ {<format>}` in the first input box above, where `<format>` needs to be replaced with date/time format, for example:
-
-        `${yyyy-MM-dd HH:mm}` will generate:
-        `2020-04-01 21:43`
-
-        `${yyyy-M-d hh:mm}` will generate:
-        `2020-4-1 09:43`
-
-        (You can **long press** to select and copy the above examples to try)
-
-        You can also check the **table** in this [document page](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) for more **format specifier** and free combination.
+|        In addition, you can also insert time and date variables, set by entering `${<format>}` in the first input box above, where `<format>` needs to be replaced with date/time format, for example:
+|
+|        `${yyyy-MM-dd HH:mm}` will generate:
+|        `2020-04-01 21:43`
+|
+|        `${yyyy-M-d hh:mm}` will generate:
+|        `2020-4-1 09:43`
+|
+|        (You can **long press** to select and copy the above examples to try)
+|
+|        You can also check the **table** in this [document page](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) for more **format specifier** and free combination.
     ]]></string>
-    <string name="read">Read</string>
+  <string name="read">Read</string>
   <string name="doNotRemindAgain">Don\'t remind again</string>
   <string name="homeFab">Home Floating Action button Mode</string>
   <string name="fabOverflowModeSingleClick">Single-click to open the pop-up menu, and you can choose to create an article in the menu</string>
@@ -596,4 +597,19 @@
   <string name="rating">Rating</string>
   <string name="thankYou">Thank you!</string>
   <string name="wordsShort">w</string>
+  <string name="theTry">Try</string>
+  <string name="selectFolder">Select folder</string>
+  <string name="fileTypeNotSupported">The file type is not supported</string>
+  <string name="grantStoragePermission">Grant storage permission</string>
+  <string name="folderNoLongerExists">The folder or storage no longer exists!</string>
+  <string name="tipNotRecommendedFolder">This folder does not meet our recommended folder, and Pure Writer will not be able to read its old backup files. Please be aware or go back to the previous step to correct it!</string>
+  <string name="tipTargetFolder">"According to the folder you choose, the final storage directory of Pure Writer is: "</string>
+  <string name="messageWhyNeedSAF">To better protect user privacy, starting with Android 11, Pure Writer **no longer requires full external storage read/write permissions**, instead, it lets **users specify a folder directory**, and Pure Writer will only have read/write access to that directory.\n\nTherefore, you need to select a folder by clicking the button below. In order to restore the old data when reinstalling in the future, we **strongly recommend** you choose the folder ***`Documents`*** 🙏</string>
+  <string name="pureWriterFolder">PureWriter folder</string>
+  <string name="selectFont">Select font</string>
+  <string name="materialFilesNote">At present, the OPEN below only supports opening with zhanghai/MaterialFiles. If needed, you can download this app yourself, or manually use the file manager in your system to open the above path.</string>
+  <string name="changeFolder">Change folder</string>
+  <string name="yourFolderIs">"The folder directory you selected is: "</string>
+  <string name="changeFolderNote">If you choose *CHANGE FOLDER* below, you need to **manually** move the PureWriter folder to the new target folder **first**, and then change it.</string>
+  <string name="previous">Previous</string>
 </resources>

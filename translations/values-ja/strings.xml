@@ -391,51 +391,51 @@
   <string name="notYetActivated">まだ有効化されていません</string>
   <string name="notYetActivatedOrExpired">アクティブ化されていないか、期限切れです</string>
   <string name="ProIntroductionMarkdown"><![CDATA[
-        #### カスタムペーパー
-
-        編集者の紙と背景として、携帯電話の画像またはリモートの画像を自由に選択できます：
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/0.webp)
-
-        #### 2番目の編集者✨
-
-        エディタページを水平方向にスワイプして、2番目のエディタページに入ることができます：
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/1.webp)
-
-        #### 長いテキスト画像/ md / txtファイルとしてエクスポート
-
-        長いテキスト画像または.md .txtファイルとして記事をエクスポートできます：
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/2.webp)
-
-        #### エクスポートブック
-
-        このオプションは、左側の引き出しのトップメニューにあります。すべてのチャプターコンテンツをプレーンテキストファイルにマージするのに役立ちます：
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/3.webp)
-
-        #### 検索と置換
-
-        任意の記事でターゲットキーワードを見つけて、バッチで置き換えることができます：
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/4.webp)
-
-        #### Material Design 2 テーマ
-
-        Material Design 2テーマを有効にすると、透明なトップバーが表示されます。これは純粋な黒ではなく、より没入感のある美しいUIを取得できます。
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
-
-        #### Pure Writer Desktop
-
-        ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
-
-        Pure Writer Desktop を取得し、メインエディターの上部にあるクラウドアイコン☁️から接続できます。
-
-        現在、Pure Writer Desktop はまだアルファ段階にあります。 基本的なリアルタイム接続と同期編集のみを提供できます。
-
-        私は多くの時間とエネルギーを費やしました、そしてあなたのサポートは私たちがそれを完璧でより良くするのを助けます。
+|        #### カスタムペーパー
+|
+|        編集者の紙と背景として、携帯電話の画像またはリモートの画像を自由に選択できます：
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/0.webp)
+|
+|        #### 2番目の編集者✨
+|
+|        エディタページを水平方向にスワイプして、2番目のエディタページに入ることができます：
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/1.webp)
+|
+|        #### 長いテキスト画像/ md / txtファイルとしてエクスポート
+|
+|        長いテキスト画像または.md .txtファイルとして記事をエクスポートできます：
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/2.webp)
+|
+|        #### エクスポートブック
+|
+|        このオプションは、左側の引き出しのトップメニューにあります。すべてのチャプターコンテンツをプレーンテキストファイルにマージするのに役立ちます：
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/3.webp)
+|
+|        #### 検索と置換
+|
+|        任意の記事でターゲットキーワードを見つけて、バッチで置き換えることができます：
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/4.webp)
+|
+|        #### Material Design 2 テーマ
+|
+|        Material Design 2テーマを有効にすると、透明なトップバーが表示されます。これは純粋な黒ではなく、より没入感のある美しいUIを取得できます。
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
+|
+|        #### Pure Writer Desktop
+|
+|        ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
+|
+|        Pure Writer Desktop を取得し、メインエディターの上部にあるクラウドアイコン☁️から接続できます。
+|
+|        現在、Pure Writer Desktop はまだアルファ段階にあります。 基本的なリアルタイム接続と同期編集のみを提供できます。
+|
+|        私は多くの時間とエネルギーを費やしました、そしてあなたのサポートは私たちがそれを完璧でより良くするのを助けます。
     ]]></string>
   <string name="buyPureWriterPro">Pure Writer Proを購入する</string>
   <string name="tipMarkdownQuickPreview">Markdownクイックプレビューの次のページに水平にスワイプします</string>
@@ -469,17 +469,17 @@
   <string name="lowCloudFreeStorageSpaceWarning">%1$sには%2$d MBの無料ストレージしかないため、Pure Writerが保存したり、クラウドへのバックアップが失敗したりする可能性があります。 Pure Writerを使用する前に、クリーンアップして%3$d MB以上残してください。</string>
   <string name="unlimitedStorage">無制限のストレージ</string>
   <string name="noteDateTimeShortcut"><![CDATA[
-        さらに、時間と日付の変数を挿入することもできます。上の最初の入力ボックスに `${<format>}` と入力して設定します。ここで、`<format>` は日付/時刻形式に置き換える必要があります。次に例を示します。
-
-        `${yyyy-MM-dd HH:mm}` は以下を生成します：
-        `2020-04-01 21:43`
-
-        `${yyyy-M-d hh:mm}` は以下を生成します：
-        `2020-4-1 09:43`
-
-        （長押しして、上記の例を選択してコピーしてみてください）
-
-        この[ドキュメントページ](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html)の表で、形式指定子と自由な組み合わせを確認することもできます。
+|        さらに、時間と日付の変数を挿入することもできます。上の最初の入力ボックスに `${<format>}` と入力して設定します。ここで、`<format>` は日付/時刻形式に置き換える必要があります。次に例を示します。
+|
+|        `${yyyy-MM-dd HH:mm}` は以下を生成します：
+|        `2020-04-01 21:43`
+|
+|        `${yyyy-M-d hh:mm}` は以下を生成します：
+|        `2020-4-1 09:43`
+|
+|        （長押しして、上記の例を選択してコピーしてみてください）
+|
+|        この[ドキュメントページ](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html)の表で、形式指定子と自由な組み合わせを確認することもできます。
     ]]></string>
   <string name="read">読んだ</string>
   <string name="introductionOfReadOnlyMode">* カーソルが表示されていない場合は、ダブルクリックしてカーソルを配置し、編集モードにする必要があります。\n* カーソルが表示されている場合は、ワンクリックでテキストの編集や修正が可能です。\n* カーソルが表示されている状態で、Back キーを押すとカーソルが非表示になり、読み取り専用モードになります。</string>
@@ -511,4 +511,21 @@
   <string name="timeCreatedAndModified">作成+更新時間</string>
   <string name="thankYou">ありがとうございました！</string>
   <string name="editor2">エディター2</string>
+  <string name="theTry">試用</string>
+  <string name="selectFolder">フォルダーを選択</string>
+  <string name="fileTypeNotSupported">ファイルタイプはサポートされていません</string>
+  <string name="grantStoragePermission">ストレージ権限を付与する</string>
+  <string name="folderNoLongerExists">フォルダまたはストレージはもう存在しません！</string>
+  <string name="tipNotRecommendedFolder">このフォルダは推奨フォルダを満たしていないため、Pure Writerは古いバックアップファイルを読み取ることができません。 注意するか、前の手順に戻って修正してください。</string>
+  <string name="tipTargetFolder">"選択したフォルダによると、Pure Writerの最終的なストレージディレクトリは次のとおりです: "</string>
+  <string name="messageWhyNeedSAF">Android 11以降、ユーザーのプライバシーをより適切に保護するために、Pure Writerは完全な外部ストレージの読み取り/書き込み権限を必要としなくなりました。代わりに、ユーザーがフォルダーディレクトリを指定できるようになり、Pure Writerはそのディレクトリへの読み取り/書き込みアクセスのみを持ちます。\n\nしたがって、下のボタンをクリックしてフォルダを選択する必要があります。 将来再インストールするときに古いデータを復元するために、***`Documents`*** 🙏フォルダを選択することを強くお勧めします。</string>
+  <string name="pureWriterFolder">PureWriterフォルダー</string>
+  <string name="selectFont">フォントを選択</string>
+  <string name="materialFilesNote">現在、以下の「開く」は、zhanghai/MaterialFilesでの開くことのみをサポートしています。 必要に応じて、このアプリを自分でダウンロードするか、システムのファイルマネージャーを手動で使用して上記のパスを開くことができます。</string>
+  <string name="changeFolder">フォルダを変更する</string>
+  <string name="yourFolderIs">"選択したフォルダディレクトリは次のとおりです: "</string>
+  <string name="changeFolderNote">以下の「フォルダの変更」を選択した場合は、まずPureWriterフォルダを手動で新しいターゲットフォルダに移動してから変更する必要があります。</string>
+  <string name="previous">前へ</string>
+  <string name="rating">評価</string>
+  <string name="customFontTipForAndroid11">Android 11以降では、フォントファイルを有効にするにはフォントファイルを選択する必要があります</string>
 </resources>

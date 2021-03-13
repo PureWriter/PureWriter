@@ -393,51 +393,51 @@
   <string name="notYetActivated">Nog niet geactiveerd</string>
   <string name="notYetActivatedOrExpired">Niet geactiveerd of verlopen</string>
   <string name="ProIntroductionMarkdown"><![CDATA[
-        #### Aangepaste papieren
-
-        U kunt een afbeelding op uw mobiele telefoon of een afbeelding op afstand vrij kiezen als papier en achtergrond voor uw editor:
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/0.webp)
-
-        #### Tweede editor ✨
-
-        U kunt de editorpagina horizontaal vegen om de tweede editorpagina te openen:
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/1.webp)
-
-        #### Exporteer als lange tekstafbeelding / md / txt-bestand
-
-        U kunt artikelen exporteren als lange tekstafbeeldingen of .md .txt-bestanden:
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/2.webp)
-
-        #### Boek exporteren
-
-        U vindt deze optie in het bovenste menu van de linkerlade, het helpt u alle hoofdstukinhoud samen te voegen in een tekstbestand:
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/3.webp)
-
-        #### Zoeken en vervangen
-
-        U kunt in elk artikel doelsleutelwoorden vinden en deze in batches vervangen:
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/4.webp)
-
-        #### Materiaalontwerp 2 Thema
-
-        Wanneer het thema Material Design 2 is ingeschakeld, krijgt u een transparante bovenste balk, die niet langer puur zwart is, en krijgt u een meer meeslepende en mooie gebruikersinterface:
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
-
-        #### Pure Writer Desktop
-
-        ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
-
-        U kunt Pure Writer Desktop verkrijgen en er verbinding mee maken via het cloud-pictogram ☁️ bovenaan de hoofdeditor.
-
-        Momenteel bevindt de Pure Writer Desktop zich nog in het alpha-stadium. Het kan alleen basis realtime verbinding en synchrone bewerking bieden.
-
-        Het heeft me veel tijd en energie gekost en jouw steun zal ons helpen om het perfect en beter te maken.
+|        #### Aangepaste papieren
+|
+|        U kunt een afbeelding op uw mobiele telefoon of een afbeelding op afstand vrij kiezen als papier en achtergrond voor uw editor:
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/0.webp)
+|
+|        #### Tweede editor ✨
+|
+|        U kunt de editorpagina horizontaal vegen om de tweede editorpagina te openen:
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/1.webp)
+|
+|        #### Exporteer als lange tekstafbeelding / md / txt-bestand
+|
+|        U kunt artikelen exporteren als lange tekstafbeeldingen of .md .txt-bestanden:
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/2.webp)
+|
+|        #### Boek exporteren
+|
+|        U vindt deze optie in het bovenste menu van de linkerlade, het helpt u alle hoofdstukinhoud samen te voegen in een tekstbestand:
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/3.webp)
+|
+|        #### Zoeken en vervangen
+|
+|        U kunt in elk artikel doelsleutelwoorden vinden en deze in batches vervangen:
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/4.webp)
+|
+|        #### Materiaalontwerp 2 Thema
+|
+|        Wanneer het thema Material Design 2 is ingeschakeld, krijgt u een transparante bovenste balk, die niet langer puur zwart is, en krijgt u een meer meeslepende en mooie gebruikersinterface:
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
+|
+|        #### Pure Writer Desktop
+|
+|        ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
+|
+|        U kunt Pure Writer Desktop verkrijgen en er verbinding mee maken via het cloud-pictogram ☁️ bovenaan de hoofdeditor.
+|
+|        Momenteel bevindt de Pure Writer Desktop zich nog in het alpha-stadium. Het kan alleen basis realtime verbinding en synchrone bewerking bieden.
+|
+|        Het heeft me veel tijd en energie gekost en jouw steun zal ons helpen om het perfect en beter te maken.
     ]]></string>
   <string name="buyPureWriterPro">Koop Pure Writer Pro</string>
   <string name="tipMarkdownQuickPreview">Veeg horizontaal naar de volgende pagina voor een snel voorbeeld van Markdown</string>
@@ -470,17 +470,17 @@
   <string name="lowCloudFreeStorageSpaceWarning">Uw %1$s heeft slechts %2$d MB gratis opslagruimte, waardoor Pure Writer kan worden opgeslagen of een back-up naar de cloud kan worden gemaakt. Ruim op en laat meer dan %3$d MB over voordat u Pure Writer gebruikt!</string>
   <string name="unlimitedStorage">Onbeperkte opslag</string>
   <string name="noteDateTimeShortcut"><![CDATA[
-        Daarnaast kunt u ook tijd- en datumvariabelen invoegen, ingesteld door `${<format>}` in te voeren in het eerste invoervak hierboven, waarbij `<format>` moet worden vervangen door datum / tijdformaat, bijvoorbeeld:
-
-        `${yyyy-MM-dd HH:mm}` genereert:
-        `2020-04-01 21:43`
-
-        `${yyyy-M-d hh:mm}` genereert:
-        `2020-4-1 09:43`
-
-        (U kunt lang drukken om de bovenstaande voorbeelden te selecteren en te kopiëren om te proberen)
-
-        U kunt ook de tabel op deze [documentpagina](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) raadplegen voor meer formaatspecificatie en gratis combinatie.
+|        Daarnaast kunt u ook tijd- en datumvariabelen invoegen, ingesteld door `${<format>}` in te voeren in het eerste invoervak hierboven, waarbij `<format>` moet worden vervangen door datum / tijdformaat, bijvoorbeeld:
+|
+|        `${yyyy-MM-dd HH:mm}` genereert:
+|        `2020-04-01 21:43`
+|
+|        `${yyyy-M-d hh:mm}` genereert:
+|        `2020-4-1 09:43`
+|
+|        (U kunt lang drukken om de bovenstaande voorbeelden te selecteren en te kopiëren om te proberen)
+|
+|        U kunt ook de tabel op deze [documentpagina](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) raadplegen voor meer formaatspecificatie en gratis combinatie.
     ]]></string>
   <string name="read">Lees</string>
   <string name="introductionOfReadOnlyMode">* Wanneer de cursor niet zichtbaar is, moet u dubbelklikken om de cursor te plaatsen en naar de bewerkingsmodus te gaan.\n* Wanneer de cursor zichtbaar is, kan de tekst met een enkele klik worden bewerkt of gewijzigd.\n* Wanneer de cursor zichtbaar is, kunt u op de toets Terug drukken om de cursor te verbergen en naar de alleen-lezen-modus te gaan.</string>
@@ -510,4 +510,21 @@
   <string name="timeCreated">Tijd gemaakt</string>
   <string name="thankYou">Dank je!</string>
   <string name="editor2">Editor 2</string>
+  <string name="theTry">Proberen</string>
+  <string name="selectFolder">Selecteer map</string>
+  <string name="fileTypeNotSupported">Het bestandstype wordt niet ondersteund</string>
+  <string name="grantStoragePermission">Verleen opslagmachtiging</string>
+  <string name="folderNoLongerExists">De map of opslag bestaat niet meer!</string>
+  <string name="tipNotRecommendedFolder">Deze map voldoet niet aan onze aanbevolen map en Pure Writer zal zijn oude back-upbestanden niet kunnen lezen. Let op of ga terug naar de vorige stap om het te corrigeren!</string>
+  <string name="tipTargetFolder">"Volgens de map die u kiest, is de uiteindelijke opslagmap van Pure Writer: "</string>
+  <string name="messageWhyNeedSAF">Om de privacy van gebruikers beter te beschermen, te beginnen met Android 11, heeft Pure Writer niet langer volledige lees- / schrijfrechten voor externe opslag nodig, in plaats daarvan kunnen gebruikers een mappendirectory specificeren, en Pure Writer heeft alleen lees- / schrijftoegang tot die directory.\n\nDaarom moet u een map selecteren door op de onderstaande knop te klikken. Om de oude gegevens te herstellen bij het opnieuw installeren in de toekomst, raden we u ten zeerste aan om de map ***`Documents`*** 🙏 te kiezen.</string>
+  <string name="pureWriterFolder">PureWriter-map</string>
+  <string name="selectFont">Selecteer lettertype</string>
+  <string name="materialFilesNote">Momenteel ondersteunt de \"open\" hieronder alleen openen met zhanghai/MaterialFiles. Indien nodig kunt u deze app zelf downloaden of handmatig de bestandsbeheerder in uw systeem gebruiken om het bovenstaande pad te openen.</string>
+  <string name="changeFolder">Verander map</string>
+  <string name="yourFolderIs">"De map die u heeft geselecteerd, is: "</string>
+  <string name="changeFolderNote">Als u hieronder \"map wijzigen\" kiest, moet u de PureWriter-map eerst handmatig naar de nieuwe doelmap verplaatsen en deze vervolgens wijzigen.</string>
+  <string name="previous">Vorige</string>
+  <string name="rating">Beoordeling</string>
+  <string name="customFontTipForAndroid11">Android 11+ moet het lettertypebestand selecteren om het effectief te maken</string>
 </resources>

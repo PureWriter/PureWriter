@@ -221,7 +221,7 @@
   <string name="reduceDatabaseSizeMessage">删除所有文章的历史记录。\n只是删除历史记录，文章本身不会被删除。\n\n建议您在删除之前最好先进行一次备份。\n建议隔一段时间就进行一次数据库瘦身，即删除历史记录。</string>
   <string name="unlockPro">解锁高级版</string>
   <string name="presetTitle1">纯纯写作 - 愿文字带我们穿越时光，连接过去遥想未来</string>
-  <string name="presetContent1" tools:ignore="TypographyEllipsis">　　纯纯写作是一款致力于提供 绝不丢失内容、快速、优秀写作体验 的 App。在 Google Play 应用商店翻看对于纯纯写作来源于全世界用户的评论时，你能够找到大量用户对纯纯写作的夸张赞美，比如「没用过这么好用的 App」、「最满意的 App」、「爱死这个 App」、「一见倾心」... 作为这个应用的唯一开发者，真是特别欣慰...\n　　2017 年 6 月末的一天，在经历过其他编辑器应用导致的各种文本丢失事件，以及体验了各种不如意、粗糙的写作产品后，我决心自己来开发这么一款 让人随时随地能够获得安心的写作感觉、提供写作辅助、并真正从写作者角度出发进行设计和开发的应用。\n　　在此之前，我在业余时间负责独立为「字里行间」应用开发一个新的编辑器。那时我们在富文本编辑器上花费了大量心血，虽然最终也没能在 Android 上实现我们觉得满意的高性能富文本编辑器，但这个过程中我发明了许多独有的有用的技术，这些技术用于开发一个纯文本编辑器绰绰有余。\n　　于是纯纯写作诞生了，它一开始便在 Android 上实现了 完美的行间距和段间距 功能，做到了全系统兼容，原生性能。这是纯纯写作的独有技术，除了微软的 Office Word 你很难能够再找到一款在手机上支持段间距和稳定行间距的编辑器。而 Office Word 的安装包体积是纯纯写作的几十倍。\n　　除了独有的段间距，纯纯写作一开始还提供了「启动立马进入编辑页面」以及特有的「历史记录」功能。特别是历史记录功能，实际上作为一个写作者，我深知历史记录功能实在太重要了，它能够让你拥有难得的安心、放心写作的感觉，而且纯纯写作做到了即使手机瞬间断电关机，也能够实时自动保存，绝不丢失内容。这样的好处是，大家可以随时暂停和随时继续写作，并且配合纯纯写作的软键盘状态记录与恢复，来回切换将令人感到特别流畅舒适。\n　　此外，纯纯写作还支持「快捷输入栏」和「格式化工具」，快捷输入栏能够让用户自定义快捷词语和短语；格式化面板则能够帮助用户快速调整文章格式，比如在中英文之间自动插入空格，或者自动进行缩进调整等等。\n　　在实现了这些显著功能以外，纯纯写作还在细节体验上下了很多功夫，它拥有 完美的键盘响应逻辑。使用纯纯写作时，你能够往下快速滑动页面或快捷输入栏来收起输入法软键盘；能够点击文章某一行后，动态获得合适的光标焦点定位；能够在收起软键盘时，文章位置保持不动 ... 许多这样的细节内容，当你对比使用其他编辑器项目时，你才会发现纯纯写作做得更加出色，细致入微。\n　　至于一个编辑器该有的功能，纯纯写作也都没有落下，比如 自动段首缩进、生成长图片、悬浮字数统计、撤销、Markdown、更换信纸、指纹加锁、夜间模式、单词联想输入、快速滚动、导出和发送文件 等等。但即使这样，纯纯写作仍然保持了简约、蕴繁于简的设计风格，遵循 Material Design，并且我还为它画了个像是机器猫 时光机 的图标，寓意着「文字能够连接过去，遥想未来」，也照应了纯纯写作特别提供的「历史记录」功能。\n　　时至今日，纯纯写作的开发工作已经有 1000 次代码提交了，代码变更十几万行。它花费了我几乎所有的业余时间，但很高兴越来越多人告诉我他们对这个应用特别喜欢，相见恨晚；我也非常积极地与用户交流，收集反馈，不断完善。这令我感到前所未有的开心，想来自己做了一件很有意义并且值得长期投入的事情。\n　　感谢所有在这个过程支持和帮助过我的朋友，没有你们，这个应用不能够一步步做得更好，也不能够长期不停地维护更新下去，真是太好了 ... 也因此今天我终于能够写这么一篇文章来介绍纯纯写作的初衷，和它的许多「特色功能」，希望能够让更多人认识到这个产品，愿我们在人生岁月中，能够记录更多感动、留下更多回忆，愿文字能够带我们穿越时光，连接过去，遥想未来。</string>
+  <string name="presetContent1" tools:ignore="TypographyEllipsis">　　纯纯写作是一款致力于提供 绝不丢失内容、快速、优秀写作体验 的 App。在 Google Play 应用商店翻看对于纯纯写作来源于全世界用户的评论时，你能够找到大量用户对纯纯写作的夸张赞美，比如「没用过这么好用的 App」、「最满意的 App」、「爱死这个 App」、「一见倾心」... 作为这个应用的唯一开发者，真是特别欣慰...\n　　2017 年 6 月末的一天，在经历过其他编辑器应用导致的各种文本丢失事件，以及体验了各种不如意、粗糙的写作产品后，我决心自己来开发这么一款 让人随时随地能够获得安心的写作感觉、提供写作辅助、并真正从写作者角度出发进行设计和开发的应用。\n　　在此之前，我在业余时间负责独立为「字里行间」应用开发一个新的编辑器。那时我们在富文本编辑器上花费了大量心血，虽然最终也没能在 Android 上实现我们觉得满意的高性能富文本编辑器，但这个过程中我发明了许多独有的有用的技术，这些技术用于开发一个纯文本编辑器绰绰有余。\n　　于是纯纯写作诞生了，它一开始便在 Android 上实现了 完美的行间距和段间距 功能，做到了全系统兼容，原生性能。这是纯纯写作的独有技术，除了微软的 Office Word 你很难能够再找到一款在手机上支持段间距和稳定行间距的编辑器。而 Office Word 的安装包体积是纯纯写作的几十倍。\n　　除了独有的段间距，纯纯写作一开始还提供了「启动立马进入编辑页面」以及特有的「历史记录」功能。特别是历史记录功能，实际上作为一个写作者，我深知历史记录功能实在太重要了，它能够让你拥有难得的安心、放心写作的感觉，而且纯纯写作做到了即使手机瞬间断电关机，也能够实时自动保存，绝不丢失内容。这样的好处是，大家可以随时暂停和随时继续写作，并且配合纯纯写作的软键盘状态记录与恢复，来回切换将令人感到特别流畅舒适。\n　　此外，纯纯写作还支持「快捷输入栏」和「格式化工具」，快捷输入栏能够让用户自定义快捷词语和短语；格式化面板则能够帮助用户快速调整文章格式，比如在中英文之间自动插入空格，或者自动进行缩进调整等等。\n　　在实现了这些显著功能以外，纯纯写作还在细节体验上下了很多功夫，它拥有 完美的键盘响应逻辑。使用纯纯写作时，你能够往下快速滑动页面或快捷输入栏来收起输入法软键盘；能够点击文章某一行后，动态获得合适的光标焦点定位；能够在收起软键盘时，文章位置保持不动 ... 许多这样的细节内容，当你对比使用其他编辑器项目时，你才会发现纯纯写作做得更加出色，细致入微。\n　　至于一个编辑器该有的功能，纯纯写作也都没有落下，比如 自动段首缩进、生成长图片、悬浮字数统计、撤销、Markdown、更换信纸、指纹加锁、夜间模式、单词联想输入、快速滚动、导出和发送文件 等等。但即使这样，纯纯写作仍然保持了简约、蕴繁于简的设计风格，遵循 Material Design，并且我还为它画了个像是机器猫 时光机 的图标，寓意着「文字能够连接过去，遥想未来」，也照应了纯纯写作特别提供的「历史记录」功能。\n　　时至今日，纯纯写作的开发工作已经有 6000 次代码提交了，代码变更十几万行。它花费了我几乎所有的业余时间，但很高兴越来越多人告诉我他们对这个应用特别喜欢，相见恨晚；我也非常积极地与用户交流，收集反馈，不断完善。这令我感到前所未有的开心，想来自己做了一件很有意义并且值得长期投入的事情。\n　　感谢所有在这个过程支持和帮助过我的朋友，没有你们，这个应用不能够一步步做得更好，也不能够长期不停地维护更新下去，真是太好了 ... 也因此今天我终于能够写这么一篇文章来介绍纯纯写作的初衷，和它的许多「特色功能」，希望能够让更多人认识到这个产品，愿我们在人生岁月中，能够记录更多感动、留下更多回忆，愿文字能够带我们穿越时光，连接过去，遥想未来。</string>
   <string name="presetTitle2">纯纯写作 - 保护机制</string>
   <string name="presetContent2">目前为止纯纯写作保护文章避免丢失的防线有： \n1. 文章一旦变动就会触发自动保存，自动保存时，若失败则立马警告用户 \n2. 每隔 2 秒进行一次主动检查文章是否正常存入数据库、是否与数据库内容对等，若失败则立马警告用户 \n3. 如果保存失败，则无法真正退出应用，此时按退出键等于按 Home 键，尽可能给予用户自行保存的机会 \n4. 每次切到后台或退出应用，如若文章有变化，则进行一次自动备份整个数据库，备份内容可以随时恢复，恢复之前会自动备份「恢复之前」的内容以供放弃恢复 \n5. 为每一篇文章提供历史记录、撤销与重做 \n6. 提供废纸篓，避免误删文章 \n7. 云备份，如果配置 WebDAV，则纯纯写作会默认开启云备份功能，自动将你的 db 数据库文件（包含全量文章）同步到云端</string>
   <string name="presetTitle3">关于纯纯写作高级版</string>
@@ -335,6 +335,7 @@
   <string name="titleAsAWordForACountSummary">开启此项后，下一项「字数统计模式」将无效，如果想使用「字数统计模式」中的选项，请关闭此项。</string>
   <string name="customFont">自定义字体</string>
   <string name="customFontTip">请将 .ttf 或 .otf 字体文件置于外部存储目录 <b>/Documents/PureWriter/App</b> 下，并重启纯纯写作即可自动应用该字体。\n注意：该目录下只能有一个字体文件，而且部分字体文件（如 Google Sans）可能导致光标偏移，请知悉！</string>
+  <string name="customFontTipForAndroid11">Android 11 以上系统需要每次点击下方的选项选取字体文件才能使之生效</string>
   <string name="corruptBackupTip">该备份文件已损坏！请尝试恢复其它备份，选择正确体积和时间的备份！</string>
   <string name="leftMargin">左边距</string>
   <string name="rightMargin">右边距</string>
@@ -386,64 +387,64 @@
   <string name="fabContextHideFabUntilNextStart">隐藏这个按钮直到下次启动</string>
   <string name="license">激活码</string>
   <string name="ProIntroductionMarkdown"><![CDATA[
-        #### 自定义稿纸
-
-        您可以自由选择您手机中的图片或网络图片作为稿纸，赏心悦目，更加精致美观：
-
-        ![图片](https://gitee.com/PureWriter/resources/raw/master/pro/0.webp)
-
-        #### 第二编辑器 ✨
-
-        您可以**左右滑动编辑器**页面来进入第二编辑器页面：
-
-        ![图片](https://gitee.com/PureWriter/resources/raw/master/pro/1.webp)
-
-        #### 另存为长图片 / md / txt 文件
-
-        您可以将文章另存为长图片或 .md .txt 文件：
-
-        ![图片](https://gitee.com/PureWriter/resources/raw/master/pro/2.webp)
-
-        #### 合并成书导出
-
-        您可以在侧栏文章列表顶部菜单中找到这个选项，它将帮助您合并所有章节内容到一个纯文本文件中：
-
-        ![图片](https://gitee.com/PureWriter/resources/raw/master/pro/3.webp)
-
-        #### 查找 & 替换
-
-        您可以在任意范围内查找目标关键词，并批量替换它们：
-
-        ![图片](https://gitee.com/PureWriter/resources/raw/master/pro/4.webp)
-
-        #### Material Design 2 主题
-
-        开启 Material Design 2 主题后，您将获得透明化的顶栏，它不再是纯黑色的，这可以获得更加沉浸式的精美 UI：
-
-        ![图片](https://gitee.com/PureWriter/resources/raw/master/pro/5.webp)
-
-        #### 纯纯写作 桌面版
-
-        ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/PureWriterDesktop.webp)
-
-        你可以在纯纯写作主页顶部的云图标菜单 ☁️ 里找到 纯纯写作桌面版 的下载链接和连接桌面版。
-
-        当前，纯纯写作桌面版仍然还在 alpha 阶段，它十分初级，只提供了与手机双向实时瞬间同步写作功能。
-
-        开发桌面版需要花费巨大的精力和时间，而且纯纯写作计划在之后重新实现一个完整的更好的桌面版。您的支持将会是我们巨大的动力，非常感谢！
+|        #### 自定义稿纸
+|
+|        您可以自由选择您手机中的图片或网络图片作为稿纸，赏心悦目，更加精致美观：
+|
+|        ![图片](https://gitee.com/PureWriter/resources/raw/master/pro/0.webp)
+|
+|        #### 第二编辑器 ✨
+|
+|        您可以**左右滑动编辑器**页面来进入第二编辑器页面：
+|
+|        ![图片](https://gitee.com/PureWriter/resources/raw/master/pro/1.webp)
+|
+|        #### 另存为长图片 / md / txt 文件
+|
+|        您可以将文章另存为长图片或 .md .txt 文件：
+|
+|        ![图片](https://gitee.com/PureWriter/resources/raw/master/pro/2.webp)
+|
+|        #### 合并成书导出
+|
+|        您可以在侧栏文章列表顶部菜单中找到这个选项，它将帮助您合并所有章节内容到一个纯文本文件中：
+|
+|        ![图片](https://gitee.com/PureWriter/resources/raw/master/pro/3.webp)
+|
+|        #### 查找 & 替换
+|
+|        您可以在任意范围内查找目标关键词，并批量替换它们：
+|
+|        ![图片](https://gitee.com/PureWriter/resources/raw/master/pro/4.webp)
+|
+|        #### Material Design 2 主题
+|
+|        开启 Material Design 2 主题后，您将获得透明化的顶栏，它不再是纯黑色的，这可以获得更加沉浸式的精美 UI：
+|
+|        ![图片](https://gitee.com/PureWriter/resources/raw/master/pro/5.webp)
+|
+|        #### 纯纯写作 桌面版
+|
+|        ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/PureWriterDesktop.webp)
+|
+|        你可以在纯纯写作主页顶部的云图标菜单 ☁️ 里找到 纯纯写作桌面版 的下载链接和连接桌面版。
+|
+|        当前，纯纯写作桌面版仍然还在 alpha 阶段，它十分初级，只提供了与手机双向实时瞬间同步写作功能。
+|
+|        开发桌面版需要花费巨大的精力和时间，而且纯纯写作计划在之后重新实现一个完整的更好的桌面版。您的支持将会是我们巨大的动力，非常感谢！
     ]]></string>
   <string name="noteDateTimeShortcut"><![CDATA[
-        另外，您还可以插入时间和日期变量，通过在上面第一个输入框中输入 `${<format>}` 来设置，其中的 `<format>` 需要替换成时间格式，例如：
-
-        `${yyyy-MM-dd HH:mm}` 将会生成：
-        `2020-04-01 21:43`
-
-        `${yyyy-M-d hh:mm}` 将会生成：
-        `2020-4-1 09:43`
-
-        (可以 **长按** 复制以上示例进行尝试；另外，大小写是敏感的)
-
-        您也可以通过查阅这个 [文档页面](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) 中的 **表格** 来获取更多 **时间格式符** 并自由组合。
+|        另外，您还可以插入时间和日期变量，通过在上面第一个输入框中输入 `${<format>}` 来设置，其中的 `<format>` 需要替换成时间格式，例如：
+|
+|        `${yyyy-MM-dd HH:mm}` 将会生成：
+|        `2020-04-01 21:43`
+|
+|        `${yyyy-M-d hh:mm}` 将会生成：
+|        `2020-4-1 09:43`
+|
+|        (可以 **长按** 复制以上示例进行尝试；另外，大小写是敏感的)
+|
+|        您也可以通过查阅这个 [文档页面](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) 中的 **表格** 来获取更多 **时间格式符** 并自由组合。
     ]]></string>
   <string name="unlimitedWords">无限字数</string>
   <string name="neverLost">从未丢失</string>
@@ -454,7 +455,7 @@
   <string name="moreAdvantagesOfPureWriter">更多纯纯写作的优势</string>
   <string name="account">账号</string>
   <string name="privilegeOfPureWriterPro">纯纯写作 Pro 特权介绍</string>
-  <string name="messageThankYouForYourSupport">\"遇到喜欢的东西就把它买下来，钱并不是真的花掉了，只是换一种方式，陪伴在你身边…\"😋\n\n同时，您的支持能够让纯纯写作更好地坚持开发下去，使我们一直坚持好的方向，良心的产品，并且激励更多的独立开发者。\n\n纯纯写作因为您的支持而能够不断更新、完善，非常感谢！</string>
+  <string name="messageThankYouForYourSupport">\"遇到喜欢的东西就把它买下来，钱并不是真的花掉了，只是换一种方式，陪伴在你身边…\"😋\n\n同时，您的支持能够让纯纯写作更好地坚持开发下去，使我们一直坚持好的方向，良心的产品，并且激励更多的独立开发者。\n\n目前纯纯写作已经有 6000 次代码更新了，背后无数的努力和持续长年累月不断的更新源自您的支持，非常感谢！</string>
   <string name="signUpOrSignIn">注册或登录</string>
   <string name="emailAddressIsEmptyOrIllegal">邮箱地址为空或不合法</string>
   <string name="passwordMustBeAtLeast6Characters">密码长度不能少于 6 位</string>
@@ -557,4 +558,19 @@
   <string name="wordsShort">字</string>
   <string name="splitLayout">分栏</string>
   <string name="thankYou">非常感谢！</string>
+  <string name="theTry">试用</string>
+  <string name="selectFolder">选择文件夹</string>
+  <string name="fileTypeNotSupported">不支持该文件类型</string>
+  <string name="grantStoragePermission">授予纯纯写作文件夹权限</string>
+  <string name="tipNotRecommendedFolder">这个目录不符合我们推荐的目录，将导致纯纯写作无法读取到它旧有的备份数据，请知悉或返回上一步进行更正！</string>
+  <string name="tipTargetFolder">"根据您选择的文件夹，纯纯写作的最终存储目录为: "</string>
+  <string name="messageWhyNeedSAF">为了更好地保护用户隐私，从 Android 11 开始，纯纯写作**不再需要全盘读写权限**，取而代之的是让**用户指定一个文件夹目录**，纯纯写作将仅对于该目录拥有读写权限。\n\n因此，您需要点击下方的按钮选取一个文件夹目录，为了方便以后重新安装时能够对接旧有数据，我们**强烈建议**您固定选择 ***`Documents`*** 这个文件夹 🙏</string>
+  <string name="folderNoLongerExists">该文件夹或存储不再存在！</string>
+  <string name="pureWriterFolder">纯纯写作文件夹</string>
+  <string name="selectFont">选取字体</string>
+  <string name="materialFilesNote">目前下方的「打开」仅支持使用 zhanghai/MaterialFiles 打开，如果需要您可以自行下载这个应用，或者手动使用您系统中的文件管理器打开上述路径。</string>
+  <string name="yourFolderIs">"您选择的文件夹目录为: "</string>
+  <string name="changeFolderNote">如果您选择下方的「*更换文件夹*」，您需要**先手动**到上述文件夹目录去把 PureWriter 文件夹移动到新的目标文件夹，然后再进行更换。</string>
+  <string name="changeFolder">更换文件夹</string>
+  <string name="previous">上一步</string>
 </resources>

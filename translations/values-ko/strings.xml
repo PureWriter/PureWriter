@@ -396,51 +396,51 @@
   <string name="notYetActivated">아직 활성화되지 않았습니다</string>
   <string name="notYetActivatedOrExpired">활성화 또는 만료되지 않은</string>
   <string name="ProIntroductionMarkdown"><![CDATA[
-        #### 맞춤형 논문
-
-        휴대폰의 사진 또는 원격 사진을 편집기의 용지 및 배경으로 자유롭게 선택할 수 있습니다.
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/0.webp)
-
-        #### 두 번째 편집기 ✨
-
-        편집기 페이지를 가로로 스 와이프하여 두 번째 편집기 페이지로 이동할 수 있습니다.
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/1.webp)
-
-        #### 긴 텍스트 이미지 / md / txt 파일로 내보내기
-
-        기사를 긴 텍스트 이미지 또는 .md .txt 파일로 내보낼 수 있습니다.
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/2.webp)
-
-        #### 수출 도서
-
-        왼쪽 드로어의 상단 메뉴에서 이 옵션을 찾을 수 있으며 모든 챕터 내용을 일반 텍스트 파일로 병합하는 데 도움이됩니다.
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/3.webp)
-
-        #### 찾기 및 바꾸기
-
-        모든 기사에서 대상 키워드를 찾아 일괄 적으로 바꿀 수 있습니다.
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/4.webp)
-
-        #### 머티리얼 디자인 2 테마
-
-        Material Design 2 테마가 활성화되면 더 이상 순수한 검은 색이 아닌 투명한 상단 막대가 표시되고 더 몰입감 있고 아름다운 UI를 얻을 수 있습니다.
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
-
-        #### Pure Writer Desktop
-
-        ![퓨어 라이터 데스크탑](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
-
-        Pure Writer Desktop 를 가져 와서 메인 에디터 상단의 클라우드 아이콘 ☁️ 을 통해 연결할 수 있습니다.
-
-        현재 Pure Writer Desktop 은 여전히 알파 단계에 있습니다. 기본 실시간 연결 및 동기식 편집 만 제공 할 수 있습니다.
-
-        시간과 에너지가 많이 들었습니다. 여러분의 지원으로 완벽하고 더 나은 결과를 얻을 수 있습니다.
+|        #### 맞춤형 논문
+|
+|        휴대폰의 사진 또는 원격 사진을 편집기의 용지 및 배경으로 자유롭게 선택할 수 있습니다.
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/0.webp)
+|
+|        #### 두 번째 편집기 ✨
+|
+|        편집기 페이지를 가로로 스 와이프하여 두 번째 편집기 페이지로 이동할 수 있습니다.
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/1.webp)
+|
+|        #### 긴 텍스트 이미지 / md / txt 파일로 내보내기
+|
+|        기사를 긴 텍스트 이미지 또는 .md .txt 파일로 내보낼 수 있습니다.
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/2.webp)
+|
+|        #### 수출 도서
+|
+|        왼쪽 드로어의 상단 메뉴에서 이 옵션을 찾을 수 있으며 모든 챕터 내용을 일반 텍스트 파일로 병합하는 데 도움이됩니다.
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/3.webp)
+|
+|        #### 찾기 및 바꾸기
+|
+|        모든 기사에서 대상 키워드를 찾아 일괄 적으로 바꿀 수 있습니다.
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/4.webp)
+|
+|        #### 머티리얼 디자인 2 테마
+|
+|        Material Design 2 테마가 활성화되면 더 이상 순수한 검은 색이 아닌 투명한 상단 막대가 표시되고 더 몰입감 있고 아름다운 UI를 얻을 수 있습니다.
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
+|
+|        #### Pure Writer Desktop
+|
+|        ![퓨어 라이터 데스크탑](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
+|
+|        Pure Writer Desktop 를 가져 와서 메인 에디터 상단의 클라우드 아이콘 ☁️ 을 통해 연결할 수 있습니다.
+|
+|        현재 Pure Writer Desktop 은 여전히 알파 단계에 있습니다. 기본 실시간 연결 및 동기식 편집 만 제공 할 수 있습니다.
+|
+|        시간과 에너지가 많이 들었습니다. 여러분의 지원으로 완벽하고 더 나은 결과를 얻을 수 있습니다.
     ]]></string>
   <string name="buyPureWriterPro">Pure Writer Pro 구매</string>
   <string name="tipMarkdownQuickPreview">Markdown 빠른 미리보기를 위해 다음 페이지로 가로로 스 와이프</string>
@@ -474,17 +474,17 @@
   <string name="lowCloudFreeStorageSpaceWarning">%1$s에 %2$d MB의 사용 가능한 스토리지가 있으므로 Pure Writer가 클라우드에 저장하거나 백업하지 못할 수 있습니다. Pure Writer를 사용하기 전에 정리하고 %3$d MB 이상 남겨 두십시오!</string>
   <string name="unlimitedStorage">무제한 저장</string>
   <string name="noteDateTimeShortcut"><![CDATA[
-        또한 위의 첫 번째 입력 상자에 `${<format>}` 을 입력하여 설정 한 시간 및 날짜 변수를 삽입 할 수도 있습니다. 여기서 `<format>` 은 날짜 / 시간 형식으로 바꿔야합니다.
-
-        `${yyyy-MM-dd HH:mm}` 는 다음을 생성합니다 :
-        `2020-04-01 21:43`
-
-        `${yyyy-M-d hh:mm}` 는 다음을 생성합니다 :
-        `2020-4-1 09:43`
-
-        (위의 예를 선택하고 복사하려면 길게 눌러보십시오)
-
-        더 많은 형식 지정자와 무료 조합에 대해서는이 [문서 페이지](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) 의 표를 확인할 수도 있습니다.
+|        또한 위의 첫 번째 입력 상자에 `${<format>}` 을 입력하여 설정 한 시간 및 날짜 변수를 삽입 할 수도 있습니다. 여기서 `<format>` 은 날짜 / 시간 형식으로 바꿔야합니다.
+|
+|        `${yyyy-MM-dd HH:mm}` 는 다음을 생성합니다 :
+|        `2020-04-01 21:43`
+|
+|        `${yyyy-M-d hh:mm}` 는 다음을 생성합니다 :
+|        `2020-4-1 09:43`
+|
+|        (위의 예를 선택하고 복사하려면 길게 눌러보십시오)
+|
+|        더 많은 형식 지정자와 무료 조합에 대해서는이 [문서 페이지](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) 의 표를 확인할 수도 있습니다.
     ]]></string>
   <string name="read">읽기</string>
   <string name="introductionOfReadOnlyMode">* 커서가 보이지 않으면 커서를 놓고 편집 모드로 들어가려면 두 번 클릭해야합니다.\n* 커서가 보이면 클릭 한 번으로 텍스트를 편집하거나 수정할 수 있습니다\n* 커서가 표시되면 뒤로 키를 눌러 커서를 숨기고 읽기 전용 모드로 들어갈 수 있습니다</string>
@@ -514,4 +514,21 @@
   <string name="timeCreated">생성 시간</string>
   <string name="thankYou">감사합니다!</string>
   <string name="editor2">편집기 2</string>
+  <string name="theTry">평가판 사용</string>
+  <string name="selectFolder">폴더 선택</string>
+  <string name="fileTypeNotSupported">파일 형식이 지원되지 않습니다.</string>
+  <string name="grantStoragePermission">저장 권한 부여</string>
+  <string name="folderNoLongerExists">폴더 또는 저장소가 더 이상 존재하지 않습니다!</string>
+  <string name="tipNotRecommendedFolder">이 폴더는 권장 폴더를 충족하지 않으며 Pure Writer는 이전 백업 파일을 읽을 수 없습니다. 주의하거나 이전 단계로 돌아가서 수정하십시오!</string>
+  <string name="tipTargetFolder">"선택한 폴더에 따라 Pure Writer의 최종 저장 디렉토리는 다음과 같습니다: "</string>
+  <string name="messageWhyNeedSAF">사용자 개인 정보를 더 잘 보호하기 위해 Android 11부터 Pure Writer는 더 이상 전체 외부 저장소 읽기 / 쓰기 권한이 필요하지 않습니다. 대신 사용자가 폴더 디렉터리를 지정할 수 있으며 Pure Writer는 해당 디렉터리에 대한 읽기 / 쓰기 권한 만 갖습니다.\n\n따라서 아래 버튼을 클릭하여 폴더를 선택해야합니다. 나중에 재설치 할 때 이전 데이터를 복원하려면 ***`Documents`*** 🙏 폴더를 선택하는 것이 좋습니다.</string>
+  <string name="pureWriterFolder">PureWriter 폴더</string>
+  <string name="selectFont">글꼴 선택</string>
+  <string name="materialFilesNote">현재 아래의 \"열기\"는 zhanghai/MaterialFiles로 열기 만 지원합니다. 필요한 경우이 앱을 직접 다운로드하거나 시스템의 파일 관리자를 수동으로 사용하여 위의 경로를 열 수 있습니다.</string>
+  <string name="changeFolder">폴더 변경</string>
+  <string name="yourFolderIs">"선택한 폴더 디렉토리는 다음과 같습니다: "</string>
+  <string name="changeFolderNote">아래의 \"폴더 변경\"을 선택하는 경우 먼저 PureWriter 폴더를 새 대상 폴더로 수동으로 이동 한 다음 변경해야합니다.</string>
+  <string name="previous">이전</string>
+  <string name="rating">평가</string>
+  <string name="customFontTipForAndroid11">Android 11 이상에서는 효과적인 글꼴 파일을 선택해야합니다.</string>
 </resources>
