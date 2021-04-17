@@ -2,16 +2,16 @@
   <string name="pureWriter">純純寫作</string>
   <string name="pureWriterPro">純純寫作 Pro</string>
   <string name="titleHint">請輸入標題</string>
-  <string name="editorTipAMenu">您需要選中一段文字才能操作</string>
+  <string name="editorTipAMenu">您需要選取一段文字才能操作</string>
   <string name="editorHintContent">請輸入正文</string>
   <string name="slogan">快速、優秀體驗、永不遺失內容</string>
-  <string name="iconDesc">純純寫作的圖示畫的是一個時光機\n時光機漂浮前進，願文字能夠帶我們\n連結過去，遙想未來…</string>
+  <string name="iconDesc">純純寫作的圖示繪製的是一個時光機\n時光機漂浮前進，願文字能夠帶我們\n連結過去，遙想未來…</string>
 
   <string name="undo">復原</string>
   <string name="redo">重做</string>
   <string name="about">關於 | 幫助</string>
 
-  <string name="defaultContent">　　很高興見到你！\n　　這是一個快速的純文字編輯器，我們希望寫作能夠回到原本的樣子：<b>純粹、有安全感、隨時、絕對不遺失內容、具備良好的寫作體驗。</b>\n　　純純寫作實現了在 Android 上完美的行間距和段間距，它能夠使您的文字看起來更加舒適、清晰。同時，它還實現了「快速輸入列」和「格式化工具」，以及許多喜人的細節內容。\n　　最重要的，<b>在使用這個編輯器時，它將會保證您的內容永遠不會遺失，除非您主動將它清空。否則即使誤操作將文字刪除，或瞬間斷電，您仍然能夠從歷史記錄或備份中將它復原。</b>\n　　純純寫作還在流暢體驗上下了很多功夫，它擁有完美的鍵盤回應邏輯。使用純純寫作時，你能夠往下拖動快速輸入列來收起螢幕小鍵盤；能夠點擊文章某一行後，動態獲得合適的游標焦點定位；能夠在收起螢幕小鍵盤時，文章位置保持不動 … 許多這樣的細節內容，當你對比使用其他編輯器專案時，你才會發現純純寫作做得更加出色、順暢，細緻入微。\n　　蘊繁於簡。許多編輯器該有的功能，純純寫作也都沒有落下，比如 WebDAV 雲端備份、段首縮排、生成長圖片、指紋鎖定、Markdown、更換信紙、夜間模式、單詞輸入建議、打字機模式、復原、字數統計 等等。但即使這樣，純純寫作仍然保持了簡約的設計風格，遵循 Material Design 設計，並且它還有一個像是哆啦 A 夢 時光機 的圖示，寓意著「文字能夠連結過去，遙想未來」，也照應了純純寫作特別提供的「歷史記錄」功能。\n　　您能夠最快速度到達靈感頁面，能夠隨時隨地中斷和繼續寫作，這些我們都已經為您做好了。\n　　令人感到安心，順暢的寫作體驗，如你所願，這就是純純寫作，請享受寫作吧！</string>
+  <string name="defaultContent">　　很高興見到你！\n　　這是一個快速的純文字編輯器，我們希望寫作能夠回到原本的樣子：<b>純粹、有安全感、隨時、絕對不遺失內容、具備良好的寫作體驗。</b>\n　　純純寫作在 Android 上實現了完美的行間距和段間距，它能夠使您的文字看起來更加舒適、清晰。同時，它還實現了「快速輸入列」和「格式化工具」，以及許多喜人的細節內容。\n　　最重要的，<b>在使用這個編輯器時，它將會保證您的內容永遠不會遺失，除非您主動將它清空。否則即使誤操作將文字刪除，或瞬間斷電，您仍然能夠從歷史記錄或備份中將它復原。</b>\n　　純純寫作還在順暢體驗上下了很多功夫，它擁有完美的鍵盤回應邏輯。使用純純寫作時，你能夠往下拖動快速輸入列來收起螢幕小鍵盤；能夠點擊文章某一行後，動態獲得合適的游標焦點定位；能夠在收起螢幕小鍵盤時，文章位置保持不動 … 許多這樣的細節內容，當你對比使用其他編輯器專案時，你才會發現純純寫作做得更加出色、順暢，細緻入微。\n　　蘊繁於簡。許多編輯器該有的功能，純純寫作也都沒有落下，比如 WebDAV 雲端備份、段首縮排、生成長圖片、指紋鎖定、Markdown、更換信紙、夜間模式、單詞輸入建議、打字機模式、復原、字數統計 等等。但即使這樣，純純寫作仍然保持了簡約的設計風格，遵循 Material Design 設計，並且它還有一個像是哆啦 A 夢 時光機 的圖示，寓意著「文字能夠連結過去，遙想未來」，也照應了純純寫作特別提供的「歷史記錄」功能。\n　　您能夠最快速度到達靈感頁面，能夠隨時隨地中斷和繼續寫作，這些我們都已經為您做好了。\n　　令人感到安心，順暢的寫作體驗，如你所願，這就是純純寫作，請享受寫作吧！</string>
   <string name="copyTitle">複製標題</string>
   <string name="copyContent">複製正文內容</string>
   <string name="clearThisContent"><b>清空</b>目前正文</string>
@@ -37,14 +37,14 @@
   <string name="goOn">繼續</string>
   <string name="reject">拒絕</string>
   <string name="defaultTitle">如你所願</string>
-  <string name="tipPermissionFailed">權限獲取失敗，將無法儲存記錄</string>
+  <string name="tipPermissionFailed">取得權限失敗，將無法儲存記錄</string>
   <string name="titleStorePermissionFailed">儲存空間權限申請失敗</string>
   <string name="tipMessageStoragePermissionFirst">我們需要檔案儲存權限，僅用於自動備份您的文章，以此防止您的文字遺失，請授予權限。</string>
   <string name="tipMessageStoragePermissionToSettings">我們需要檔案儲存權限，僅用於自動備份您的文章，由於您拒絕或者系統發生錯誤而申請失敗，請您到設定頁面手動授權，否則功能無法正常使用！</string>
   <string name="actionOkGoSettings">好，去設定</string>
   <string name="tipFingerAuthRetry">指紋解鎖失敗，剩餘重試次數：%d</string>
   <string name="tipFingerAuthFailed">指紋解鎖失敗，請 1 分鐘後重試，程式即將退出…</string>
-  <string name="tipRichText">純純寫作 致力於打造純粹並且良好的純文字書寫體驗，所以暫不打算支援富文字內容。目前您可能看到示範文字中帶有<b>粗體文字</b>，粗體屬於隱藏功能，暫沒有開放，因為粗體無法在 TXT 文件中表達，表示抱歉，請見諒！如果您有更好的建議，歡迎加入問題回饋群組來告訴我，感謝支持！</string>
+  <string name="tipRichText">純純寫作 致力於打造純粹並且良好的純文字書寫體驗，所以暫不打算支援富文字內容。目前您可能看到示範文字中帶有<b>粗體文字</b>，粗體屬於隱藏功能，暫沒有開放，因為粗體無法在 TXT 檔案中展現出來，對此我們表示抱歉，請見諒！如果您有更好的建議，歡迎加入問題回饋群組來告訴我，感謝支持！</string>
   <string name="indent">段首縮排</string>
   <string name="format">格式</string>
   <string name="tipIndent">注意：段首縮排設定項變更不會改變已有文字</string>
@@ -86,14 +86,14 @@
   <string name="yes">確定</string>
   <string name="no">取消</string>
   <string name="update">更新</string>
-  <string name="labelUpdate">有新版的純純寫作 %1$s 可用</string>
+  <string name="labelUpdate">有新版本的純純寫作 %1$s 可用</string>
   <string name="messageDeleteArticlesToTrash">您要刪除這些文章並將它們移入回收筒嗎？</string>
   <string name="tipPurchasedStatusFailed">已購買。如果您的購買狀態沒有更新，請嘗試重新點擊 Pro 條目（這麼做不會重複扣除您的錢）</string>
   <string name="createNew">建立新文章</string>
   <string name="autoLock">處於後台自動鎖定</string>
   <string name="enabled">啟用</string>
   <string name="appLinks">Android 應用程式友情連結</string>
-  <string name="titleOpenImportedFile">發現您打開了一個外部檔案，請選擇操作</string>
+  <string name="titleOpenImportedFile">發現您開啟了一個外部檔案，請選擇操作</string>
   <string name="copied">已複製</string>
   <string name="sortTypeModifiedTimeDown">修改時間新的排前</string>
   <string name="sortTypeCreatedTimeDown">建立時間新的排前</string>
@@ -185,7 +185,7 @@
     <item quantity="other">確定要刪除這 %d 條訊息嗎？</item>
   </plurals>
   <string name="trashFolderTip">您正處於回收筒資料夾中，該資料夾中無法建立新文章。</string>
-  <string name="tipLandscapeOrientation">橫屏模式下請使用外接鍵盤</string>
+  <string name="tipLandscapeOrientation">橫向螢幕模式中請使用外接鍵盤</string>
   <string name="promptShortcutOrder">排序</string>
   <string name="editShortcut">編輯快速輸入項</string>
   <string name="backupSettingTitle">備份與雲端備份</string>
@@ -193,7 +193,7 @@
   <string name="syncNetwork">雲端備份網路</string>
   <string name="syncOnlyWifi">只在 Wi-Fi 網路下才允許自動備份到雲端硬碟</string>
   <string name="syncAllNetworks">在所有網路下都允許自動備份到雲端硬碟</string>
-  <string name="tipJianguoyunURL">💡 提示：如果是堅果雲，您可以在「WebDAV 網址」一列中直接填入「堅果雲」三個字即可</string>
+  <string name="tipJianguoyunURL">💡 提示：如果使用的是堅果雲，您可以在「WebDAV 網址」一列中直接填入「堅果雲」三個字即可</string>
   <string name="webDavRootURL">WebDAV <b>網址</b></string>
   <string name="webDavAccount">WebDAV 帳號</string>
   <string name="webDavPassword">WebDAV 密碼</string>
@@ -202,7 +202,7 @@
   <string name="noWebDavConfig">您的 WebDAV 設定不完整或不正確。</string>
   <string name="uploadSuccessful">上傳成功</string>
   <string name="fetchSuccessful">拉取成功</string>
-  <string name="messageUpload">純純寫作在您的雲端硬碟上建立了<b>一個固定檔案</b>，檔案名叫 <b>PureWriter.txt</b>，您可以點擊「確定」上傳目前文章的內容到這個固定檔案中，然後您便可以在其他裝置上編輯這個雲端檔案，之後您可以再將它的新內容拉取下來。\n\n請問您現在確定要將目前文章內容覆蓋寫入到您的這個雲固定檔案嗎？</string>
+  <string name="messageUpload">純純寫作在您的雲端硬碟上建立了<b>一個固定檔案</b>，檔案名叫 <b>PureWriter.txt</b>，您可以點擊「確定」上傳目前文章的內容到這個固定檔案中，然後您便可以在其他裝置上編輯這個雲端檔案，之後您可以再將它的新內容拉取下來。\n\n請問您現在確定要將目前文章內容覆蓋寫入到您的這個雲端固定檔案嗎？</string>
   <string name="fixedSync">雲端存取</string>
   <string name="bridgeUpload">雲端存取: 上傳</string>
   <string name="bridgeDownload">雲端存取: 拉取</string>
@@ -353,39 +353,39 @@
   <string name="showMore">顯示更多</string>
   <string name="textColorAlpha">字型顏色透明度</string>
   <string name="desktopDialogGuide">您需要從\nhttps://writer.drakeet.com/desktop_zh \n下載<b><i>純純寫作桌面版 1.2.2 或以上版本</i></b>。\n\n當手機與電腦<b>處於同一個 Wi-Fi 網路或行動基站台</b>時👈👈👈，打開桌面版後將以下的 IP 位址<b>輸入於桌面版中的輸入列中</b>，即可與桌面版即時連線，雙向同步編輯目前文章。</string>
-  <string name="desktopDialogNote">注意：目前純純寫作桌面版還處於非常初期階段，許多功能未完善，請您理解和靜待其後續更新。\n* 若您看到<b>多行 IP 位址</b>，請逐一嘗試連線它們。\n* Windows 版存放<b>路徑中不能包含中文</b>目錄，否則將會無法使用！</string>
-  <string name="tipNotSupportThisDesktopVersion">目前手機端和桌面端版本不匹配，無法連線，請各自更新到最新版後重試</string>
-  <string name="connect">連線</string>
-  <string name="connectDesktop">連線純純寫作桌面版</string>
-  <string name="connectionIsStopping">連線仍然在斷開中，請稍後重試！</string>
-  <string name="disconnectDesktop">斷開與桌面版的連線</string>
+  <string name="desktopDialogNote">注意：目前純純寫作桌面版還處於非常初期階段，許多功能未完善，請您理解和靜待其後續更新。\n* 若您看到<b>多行 IP 位址</b>，請逐一嘗試連結它們。\n* Windows 版存放<b>路徑中不能包含中文</b>目錄，否則將會無法使用！</string>
+  <string name="tipNotSupportThisDesktopVersion">目前手機端和桌面端版本不匹配，無法連結，請各自更新到最新版後重試</string>
+  <string name="connect">連結</string>
+  <string name="connectDesktop">連結純純寫作桌面版</string>
+  <string name="connectionIsStopping">仍然在斷開連結中，請稍後重試！</string>
+  <string name="disconnectDesktop">斷開與桌面版的連結</string>
   <string name="linksCard" translatable="false">純純寫作 - 願文字帶我們穿越時光，連結過去，遙想未來\nhttps://writer.drakeet.com</string>
   <string name="createShortcutLabel">建立快速輸入項</string>
   <string name="cursorPositionForNewArticle">新文章的游標位置</string>
-  <string name="stop_waiting_connection">停止等待連線</string>
+  <string name="stop_waiting_connection">停止等待連結</string>
   <string name="undoValidTip">目前聚焦的輸入列已無法再進一步「復原」了，您可以嘗試從右上角的「歷史記錄」選單中復原您的內容。</string>
-  <string name="desktopConnected">已成功連線桌面版</string>
-  <string name="desktopDisconnected">已斷開連線桌面版</string>
+  <string name="desktopConnected">已成功連結桌面版</string>
+  <string name="desktopDisconnected">已斷開連結桌面版</string>
   <string name="double11Title">11·11 限時半價活動</string>
   <string name="double11Message">在 11 月 10 日至 11 月 12 日期間購買純純寫作進階版，<b>只需要半價即可</b>。非常感謝！</string>
   <string name="toDoCloudBackupButton">去設定雲備份（雲端備份非常簡單，一勞永逸，萬無一失）</string>
   <string name="ignoreCloudBackupCheckBox">我不想設定雲端備份，不要再提示我。我甘願承受沒有雲端備份帶來的一切後果，包括因沒有雲端備份而在手機損壞或遺失或刷機時失去我所有的寶貴文章！</string>
   <string name="addChapterAboveThis">在此之上插入新篇章</string>
   <string name="addChapterBelowThis">在此之下插入新篇章</string>
-  <string name="selectMore">選擇更多</string>
+  <string name="selectMore">選取更多</string>
   <string name="moveToOtherBook">移動到其他書</string>
   <string name="autoInsertBlankLineWhenWrapping">換行時自動插入空行</string>
   <string name="paragraphSpacingSettingSummary">關閉段間距後，對於超長文字將獲得更好的效能</string>
   <string name="onlyAvailableWhenParagraphOff">僅在關閉段間距時有效</string>
   <string name="markdownAsDefault">Markdown 作為建立文章預設模式</string>
-  <string name="needToPayForMarkdownRenderer">這是 Markdown 快捷預覽頁面，它需要您付費獲得純純寫作進階版才能使用。</string>
+  <string name="needToPayForMarkdownRenderer">這是 Markdown 快捷預覽頁面，它需要您付費取得純純寫作進階版後才能使用。</string>
   <string name="fabContextCreateNewAfterCurrent">在 目前文章之後 插入新文章</string>
   <string name="fabContextCreateNewAtTheBottom">在 文章列表底部 插入新文章</string>
   <string name="fabContextHideFabUntilNextStart">隱藏這個按鈕直到下次啟動</string>
   <string name="signedIn">已登入</string>
   <string name="notSignedIn">尚未登入</string>
   <string name="latex">LaTeX</string>
-  <string name="syntaxHighlighting">MD 程式碼高亮</string>
+  <string name="syntaxHighlighting">MD 代碼高亮</string>
   <string name="forgetPassword">忘記密碼?</string>
   <string name="emailAddress">電子郵件地址</string>
   <string name="password">密碼</string>
@@ -482,7 +482,7 @@
   <string name="summaryScrollToBottom">是否在首頁顯示這個按鈕</string>
   <string name="cloudBackupFailed">雲端備份失敗，可能的原因：\n* 如果您在下方看到 timeout 文字，說明目前網路連線逾時，請檢查網路連線後重新開啟純純寫作即可自動重新備份\n* 如果您的雲端儲存空間滿了，或者本月上傳流量用完了，這也將導致備份失敗，請去檢查它再重試 \n* 如果一切操作都無法解決，請嘗試在純純寫作雲端備份頁面退出您的雲端備份帳號並重新登入它\n\n具體錯誤訊息</string>
   <string name="dropboxBackupFailed">您的 Dropbox 雲端備份失敗，請嘗試在純純寫作雲端備份頁面退出您的 Dropbox 帳號並重新登入它</string>
-  <string name="dropboxBackupFailedDueToInsufficientSpace">雲備份失敗：Dropbox 空間不足</string>
+  <string name="dropboxBackupFailedDueToInsufficientSpace">雲端備份失敗：Dropbox 儲存空間不足</string>
   <string name="tipImageDialog">請在下面輸入您要插入的網路圖片連結。\n或者您可以點擊左下角的「本機圖片」來選取本機圖片並自動取得此圖片的本機連結。</string>
   <string name="imageUrl">圖片連結</string>
   <string name="imageDesc">圖片描述（可不填）</string>
@@ -514,11 +514,11 @@
 |
 |        您也可以透過查閱這個 [文件頁面](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) 中的 **表格** 來取得更多 **時間格式字元** 並自由組合。
     ]]></string>
-  <string name="read">查看</string>
+  <string name="read">檢視</string>
   <string name="introductionOfReadOnlyMode">* 當游標不可見時，需要雙擊編輯器才能置入游標並進入編輯模式\n* 當游標可見時，無論何時，只需單擊即可編輯或修改游標位置\n* 當游標可見 且 螢幕小鍵盤已收起時，可以按「返回鍵」來隱藏游標並進入唯讀模式</string>
   <string name="messageReadOnlyModeAndPro">這個「進階唯讀模式」需要純純寫作 Pro，你可以點擊確定進入純純寫作 Pro 介紹頁面和取得更多進階版功能，或者點擊取消（將在下次啟動後自動取消「進階唯讀模式」）。</string>
   <string name="doNotRemindAgain">不再提示</string>
-  <string name="homeFab">首頁右下角懸浮按鈕</string>
+  <string name="homeFab">首頁右下角浮動按鈕</string>
   <string name="fabOverflowModeSingleClick">單擊打開二級選單，在二級選單中可選擇建立文章，避免誤觸</string>
   <string name="fabOverflowModeLongPress">單擊即可直接建立文章，而長按才打開二級選單</string>
   <string name="safeMode">安全模式</string>
@@ -550,7 +550,7 @@
   <string name="currentChapterWordCount">目前章節字數</string>
   <string name="currentBookWordCount">全書字數</string>
   <string name="cursorJoyTutorial">按住這個按鈕移動手指\n可控制游標移動</string>
-  <string name="openArticleListAfterSwitchingBooks">切換書籍後打開側欄文章列表</string>
+  <string name="openArticleListAfterSwitchingBooks">切換書籍後開啟側邊欄文章清單</string>
   <string name="useLegacyRender">使用舊版繪製器</string>
   <string name="wordsShort">字</string>
   <string name="rating">給予好評</string>
