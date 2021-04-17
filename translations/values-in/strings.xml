@@ -398,51 +398,51 @@
   <string name="notYetActivated">Belum diaktifkan</string>
   <string name="notYetActivatedOrExpired">Tidak diaktifkan atau kedaluwarsa</string>
   <string name="ProIntroductionMarkdown"><![CDATA[
-        #### Makalah Kustom
-
-        Anda dapat dengan bebas memilih gambar di ponsel Anda atau gambar jarak jauh sebagai kertas dan latar belakang untuk editor Anda:
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/0.webp)
-
-        #### Editor kedua ✨
-
-        Anda dapat menggesek halaman editor secara horizontal untuk masuk ke halaman editor kedua:
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/1.webp)
-
-        #### Ekspor sebagai file gambar / md / txt teks panjang
-
-        Anda dapat mengekspor artikel sebagai gambar teks panjang atau file .md .txt:
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/2.webp)
-
-        #### Buku Ekspor
-
-        Anda dapat menemukan opsi ini di menu atas laci kiri, ini akan membantu Anda menggabungkan semua konten bab menjadi file teks biasa:
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/3.webp)
-
-        #### Temukan & Ganti
-
-        Anda dapat menemukan kata kunci target dalam artikel apa pun dan menggantinya dalam batch:
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/4.webp)
-
-        #### Material Design 2 Tema
-
-        Wanneer het thema Material Design 2 is ingeschakeld, krijgt u een transparante bovenste balk, die niet langer puur zwart is, en krijgt u een meer meeslepende en mooie gebruikersinterface:
-
-        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
-
-        #### Pure Writer Desktop
-
-        ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
-
-        Anda bisa mendapatkan Pure Writer Desktop dan menyambungkannya melalui ikon cloud ☁️ di bagian atas Editor utama.
-
-        Saat ini, Pure Writer Desktop masih dalam tahap alpha. Itu hanya dapat memberikan koneksi real-time dasar dan pengeditan sinkron.
-
-        Butuh banyak waktu dan energi, dan dukungan Anda akan membantu kami menjadikannya sempurna dan lebih baik.
+|        #### Makalah Kustom
+|
+|        Anda dapat dengan bebas memilih gambar di ponsel Anda atau gambar jarak jauh sebagai kertas dan latar belakang untuk editor Anda:
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/0.webp)
+|
+|        #### Editor kedua ✨
+|
+|        Anda dapat menggesek halaman editor secara horizontal untuk masuk ke halaman editor kedua:
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/1.webp)
+|
+|        #### Ekspor sebagai file gambar / md / txt teks panjang
+|
+|        Anda dapat mengekspor artikel sebagai gambar teks panjang atau file .md .txt:
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/2.webp)
+|
+|        #### Buku Ekspor
+|
+|        Anda dapat menemukan opsi ini di menu atas laci kiri, ini akan membantu Anda menggabungkan semua konten bab menjadi file teks biasa:
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/3.webp)
+|
+|        #### Temukan & Ganti
+|
+|        Anda dapat menemukan kata kunci target dalam artikel apa pun dan menggantinya dalam batch:
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/4.webp)
+|
+|        #### Material Design 2 Tema
+|
+|        Wanneer het thema Material Design 2 is ingeschakeld, krijgt u een transparante bovenste balk, die niet langer puur zwart is, en krijgt u een meer meeslepende en mooie gebruikersinterface:
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
+|
+|        #### Pure Writer Desktop
+|
+|        ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
+|
+|        Anda bisa mendapatkan Pure Writer Desktop dan menyambungkannya melalui ikon cloud ☁️ di bagian atas Editor utama.
+|
+|        Saat ini, Pure Writer Desktop masih dalam tahap alpha. Itu hanya dapat memberikan koneksi real-time dasar dan pengeditan sinkron.
+|
+|        Butuh banyak waktu dan energi, dan dukungan Anda akan membantu kami menjadikannya sempurna dan lebih baik.
     ]]></string>
   <string name="buyPureWriterPro">Beli Pure Writer Pro</string>
   <string name="tipMarkdownQuickPreview">Geser secara horizontal ke halaman berikutnya untuk pratinjau cepat Markdown</string>
@@ -475,17 +475,17 @@
   <string name="lowCloudFreeStorageSpaceWarning">%1$s Anda hanya memiliki penyimpanan gratis %2$d MB, yang dapat menyebabkan Pure Writer untuk menyimpan atau membuat cadangan ke cloud gagal. Silakan bersihkan dan tinggalkan lebih dari %3$d MB sebelum menggunakan Pure Writer!</string>
   <string name="unlimitedStorage">Penyimpanan tidak terbatas</string>
   <string name="noteDateTimeShortcut"><![CDATA[
-        Selain itu, Anda juga dapat memasukkan variabel waktu dan tanggal, yang ditetapkan dengan memasukkan `${<format>}` dalam kotak input pertama di atas, di mana `<format>` perlu diganti dengan format tanggal / waktu, misalnya:
-
-        `${yyyy-MM-dd HH:mm}` akan menghasilkan:
-        `2020-04-01 21:43`
-
-        `${yyyy-M-d hh:mm}` akan menghasilkan:
-        `2020-4-1 09:43`
-
-        (Anda dapat menekan lama untuk memilih dan menyalin contoh di atas untuk mencoba)
-
-        Anda juga dapat memeriksa tabel di [halaman dokumen](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) ini untuk lebih banyak penentu format dan kombinasi gratis.
+|        Selain itu, Anda juga dapat memasukkan variabel waktu dan tanggal, yang ditetapkan dengan memasukkan `${<format>}` dalam kotak input pertama di atas, di mana `<format>` perlu diganti dengan format tanggal / waktu, misalnya:
+|
+|        `${yyyy-MM-dd HH:mm}` akan menghasilkan:
+|        `2020-04-01 21:43`
+|
+|        `${yyyy-M-d hh:mm}` akan menghasilkan:
+|        `2020-4-1 09:43`
+|
+|        (Anda dapat menekan lama untuk memilih dan menyalin contoh di atas untuk mencoba)
+|
+|        Anda juga dapat memeriksa tabel di [halaman dokumen](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) ini untuk lebih banyak penentu format dan kombinasi gratis.
     ]]></string>
   <string name="read">Baca</string>
   <string name="introductionOfReadOnlyMode">* Ketika kursor tidak terlihat, klik dua kali diperlukan untuk menempatkan kursor dan masuk ke mode edit\n* Ketika kursor terlihat, teks dapat diedit atau dimodifikasi dengan satu klik\n* Ketika kursor terlihat, Anda dapat menekan tombol Kembali untuk menyembunyikan kursor dan masuk ke mode Read-only</string>
@@ -515,4 +515,21 @@
   <string name="timeCreated">Waktu diciptakan</string>
   <string name="thankYou">Terima kasih!</string>
   <string name="editor2">Editor 2</string>
+  <string name="theTry">Cobalah</string>
+  <string name="selectFolder">Pilih folder</string>
+  <string name="fileTypeNotSupported">Jenis file tidak didukung</string>
+  <string name="grantStoragePermission">Berikan izin penyimpanan</string>
+  <string name="folderNoLongerExists">Folder atau penyimpanan sudah tidak ada!</string>
+  <string name="tipNotRecommendedFolder">Folder ini tidak memenuhi folder yang kami rekomendasikan, dan Pure Writer tidak akan dapat membaca file cadangan lamanya. Harap perhatikan atau kembali ke langkah sebelumnya untuk memperbaikinya!</string>
+  <string name="tipTargetFolder">"Menurut folder yang Anda pilih, direktori penyimpanan terakhir dari Pure Writer adalah: "</string>
+  <string name="messageWhyNeedSAF">Untuk melindungi privasi pengguna dengan lebih baik, dimulai dengan Android 11, Pure Writer tidak lagi memerlukan izin baca / tulis penyimpanan eksternal penuh, melainkan memungkinkan pengguna menentukan direktori folder, dan Pure Writer hanya akan memiliki akses baca / tulis ke direktori itu.\n\nOleh karena itu, Anda perlu memilih folder dengan mengklik tombol di bawah ini. Untuk memulihkan data lama saat menginstal ulang di masa mendatang, kami sangat menyarankan Anda memilih folder ***`Documents`*** 🙏.</string>
+  <string name="pureWriterFolder">Folder PureWriter</string>
+  <string name="selectFont">Pilih font</string>
+  <string name="materialFilesNote">Saat ini, \"buka\" di bawah ini hanya mendukung pembukaan dengan zhanghai/MaterialFiles. Jika perlu, Anda dapat mengunduh aplikasi ini sendiri, atau secara manual menggunakan pengelola file di sistem Anda untuk membuka jalur di atas.</string>
+  <string name="changeFolder">Ubah folder</string>
+  <string name="yourFolderIs">"Direktori folder yang Anda pilih adalah: "</string>
+  <string name="changeFolderNote">Jika Anda memilih \"ubah folder\" di bawah ini, Anda harus memindahkan folder PureWriter ke folder target baru secara manual terlebih dahulu, lalu mengubahnya.</string>
+  <string name="previous">Sebelumnya</string>
+  <string name="rating">Rating</string>
+  <string name="customFontTipForAndroid11">Android 11+ perlu memilih file font agar efektif</string>
 </resources>

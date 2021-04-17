@@ -220,7 +220,7 @@
   <string name="reduceDatabaseSizeMessage">刪除所有文章的歷史記錄。\n只是刪除歷史記錄，文章本身不會被刪除。\n\n建議您在刪除之前最好先進行一次備份。\n建議隔一段時間就進行一次資料庫瘦身，即刪除歷史記錄。</string>
   <string name="unlockPro">解鎖進階版</string>
   <string name="presetTitle1">純純寫作 - 願文字帶我們穿越時光，連接過去遙想未來</string>
-  <string name="presetContent1" tools:ignore="TypographyEllipsis">　　純純寫作是一款致力於提供 絕不遺失內容、快速、優秀寫作體驗 的 App。在 Google Play Store 翻看對於純純寫作來自全世界使用者的評論時，你能夠找到大量使用者對純純寫作的誇張讚美，比如「沒用過這麼好用的 App」、「最滿意的 App」、「愛死這個 App」、「一見傾心」... 作為這個應用程式的唯一開發者，真是特別欣慰...\n　　2017 年 6 月末的一天，在經歷過其他編輯器程式導致的各種文字遺失事件，以及體驗了各種不如意、粗糙的寫作產品後，我決心自己來開發這麼一款 讓人隨時隨地能夠獲得安心的寫作感覺、提供寫作輔助、並真正從寫作者角度出發進行設計和開發的應用程式。\n　　在此之前，我在業餘時間負責獨立為「字裡行間」應用程式開發一個新的編輯器。那時我們在富文字編輯器上花費了大量心血，雖然最終也沒能在 Android 上實現我們覺得滿意的高效能富文字編輯器，但這個過程中我發明了許多獨有的實用技術，這些技術用於開發一個純文字編輯器綽綽有餘。\n　　於是純純寫作誕生了，它一開始便在 Android 上實現了 完美的行間距和段間距 功能，做到了全系統相容，原生效能。這是純純寫作的獨有技術，除了微軟的 Office Word 你很難能夠再找到一款在手機上支援段間距和穩定行間距的編輯器。而 Office Word 的安裝套件體積是純純寫作的幾十倍。\n　　除了獨有的段間距，純純寫作一開始還提供了「啟動馬上進入編輯頁面」以及特有的「歷史記錄」功能。特別是歷史記錄功能，實際上作為一個寫作者，我深知歷史記錄功能實在太重要了，它能夠讓你擁有難得的安心、放心寫作的感覺，而且純純寫作做到了即使手機瞬間斷電關機，也能夠即時自動儲存，絕不遺失內容。這樣的好處是，大家可以隨時暫停和隨時繼續寫作，並且配合純純寫作的螢幕小鍵盤狀態記錄與復原，來回切換將令人感到特別順暢舒適。\n　　此外，純純寫作還支援「快速輸入列」和「格式化工具」，快速輸入列能夠讓使用者自訂快速詞語和短語；格式化面板則能夠幫助使用者快速調整文章格式，比如在中英文之間自動插入空白，或者自動進行縮排調整等等。\n　　在實現了這些顯著功能以外，純純寫作還在細節體驗上下了很多功夫，它擁有 完美的鍵盤回應邏輯。使用純純寫作時，你能夠往下快速滑動頁面或快速輸入列來收起輸入法小鍵盤；能夠點擊文章某一行後，動態獲得合適的游標焦點定位；能夠在收起螢幕小鍵盤時，文章位置保持不動 ... 許多這樣的細節內容，當你對比使用其他編輯器專案時，你才會發現純純寫作做得更加出色，細緻入微。\n　　至於一個編輯器該有的功能，純純寫作也都沒有落下，比如 自動段首縮排、生成長圖片、浮動字數統計、復原、Markdown、更換信紙、指紋鎖定、夜間模式、單詞輸入建議、快速滾動、匯出和發送檔案 等等。但即使這樣，純純寫作仍然保持了簡約、蘊繁於簡的設計風格，遵循 Material Design，並且我還為它畫了個像是機器貓 時光機 的圖示，寓意著「文字能夠連結過去，遙想未來」，也照應了純純寫作特別提供的「歷史記錄」功能。\n　　時至今日，純純寫作的開發工作已經有 1000 次程式碼提交了，程式碼變更十幾萬行。它花費了我幾乎所有的業餘時間，但很高興越來越多人告訴我他們對這個應用程式特別喜歡，相見恨晚；我也非常積極地與使用者交流，收集回饋，不斷完善。這令我感到前所未有的開心，想來自己做了一件很有意義並且值得長期投入的事情。\n　　感謝所有在這個過程支持和幫助過我的朋友，沒有你們，這個應用不能夠一步步做得更好，也不能夠長期不停地維護更新下去，真是太好了 ... 也因此今天我終於能夠寫這麼一篇文章來介紹純純寫作的初衷，和它的許多「特色功能」，希望能夠讓更多人認識到這個產品，願我們在人生歲月中，能夠記錄更多感動、留下更多回憶，願文字能夠帶我們穿越時光，連結過去，遙想未來。</string>
+  <string name="presetContent1" tools:ignore="TypographyEllipsis">　　純純寫作是一款致力於提供 絕不遺失內容、快速、優秀寫作體驗 的 App。在 Google Play Store 翻看對於純純寫作來自全世界使用者的評論時，你能夠找到大量使用者對純純寫作的誇張讚美，比如「沒用過這麼好用的 App」、「最滿意的 App」、「愛死這個 App」、「一見傾心」... 作為這個應用程式的唯一開發者，真是特別欣慰...\n　　2017 年 6 月末的一天，在經歷過其他編輯器程式導致的各種文字遺失事件，以及體驗了各種不如意、粗糙的寫作產品後，我決心自己來開發這麼一款 讓人隨時隨地能夠獲得安心的寫作感覺、提供寫作輔助、並真正從寫作者角度出發進行設計和開發的應用程式。\n　　在此之前，我在業餘時間負責獨立為「字裡行間」應用程式開發一個新的編輯器。那時我們在富文字編輯器上花費了大量心血，雖然最終也沒能在 Android 上實現我們覺得滿意的高效能富文字編輯器，但這個過程中我發明了許多獨有的實用技術，這些技術用於開發一個純文字編輯器綽綽有餘。\n　　於是純純寫作誕生了，它一開始便在 Android 上實現了 完美的行間距和段間距 功能，做到了全系統相容，原生效能。這是純純寫作的獨有技術，除了微軟的 Office Word 你很難能夠再找到一款在手機上支援段間距和穩定行間距的編輯器。而 Office Word 的安裝套件體積是純純寫作的幾十倍。\n　　除了獨有的段間距，純純寫作一開始還提供了「啟動馬上進入編輯頁面」以及特有的「歷史記錄」功能。特別是歷史記錄功能，實際上作為一個寫作者，我深知歷史記錄功能實在太重要了，它能夠讓你擁有難得的安心、放心寫作的感覺，而且純純寫作做到了即使手機瞬間斷電關機，也能夠即時自動儲存，絕不遺失內容。這樣的好處是，大家可以隨時暫停和隨時繼續寫作，並且配合純純寫作的螢幕小鍵盤狀態記錄與復原，來回切換將令人感到特別順暢舒適。\n　　此外，純純寫作還支援「快速輸入列」和「格式化工具」，快速輸入列能夠讓使用者自訂快速詞語和短語；格式化面板則能夠幫助使用者快速調整文章格式，比如在中英文之間自動插入空白，或者自動進行縮排調整等等。\n　　在實現了這些顯著功能以外，純純寫作還在細節體驗上下了很多功夫，它擁有 完美的鍵盤回應邏輯。使用純純寫作時，你能夠往下快速滑動頁面或快速輸入列來收起輸入法小鍵盤；能夠點擊文章某一行後，動態獲得合適的游標焦點定位；能夠在收起螢幕小鍵盤時，文章位置保持不動 ... 許多這樣的細節內容，當你對比使用其他編輯器專案時，你才會發現純純寫作做得更加出色，細緻入微。\n　　至於一個編輯器該有的功能，純純寫作也都沒有落下，比如 自動段首縮排、生成長圖片、浮動字數統計、復原、Markdown、更換信紙、指紋鎖定、夜間模式、單詞輸入建議、快速滾動、匯出和發送檔案 等等。但即使這樣，純純寫作仍然保持了簡約、蘊繁於簡的設計風格，遵循 Material Design，並且我還為它畫了個像是機器貓 時光機 的圖示，寓意著「文字能夠連結過去，遙想未來」，也照應了純純寫作特別提供的「歷史記錄」功能。\n　　時至今日，純純寫作的開發工作已經有 6000 次程式碼提交了，程式碼變更十幾萬行。它花費了我幾乎所有的業餘時間，但很高興越來越多人告訴我他們對這個應用程式特別喜歡，相見恨晚；我也非常積極地與使用者交流，收集回饋，不斷完善。這令我感到前所未有的開心，想來自己做了一件很有意義並且值得長期投入的事情。\n　　感謝所有在這個過程支持和幫助過我的朋友，沒有你們，這個應用不能夠一步步做得更好，也不能夠長期不停地維護更新下去，真是太好了 ... 也因此今天我終於能夠寫這麼一篇文章來介紹純純寫作的初衷，和它的許多「特色功能」，希望能夠讓更多人認識到這個產品，願我們在人生歲月中，能夠記錄更多感動、留下更多回憶，願文字能夠帶我們穿越時光，連結過去，遙想未來。</string>
   <string name="presetTitle2">純純寫作 - 保護機制</string>
   <string name="presetContent2">目前為止純純寫作保護文章避免遺失的防線有： \n1. 文章一旦變動就會觸發自動儲存，自動儲存時，若失敗則馬上警告使用者 \n2. 每隔 2 秒進行一次主動檢查文章是否正常存入資料庫、是否與資料庫內容匹配，若失敗則馬上警告使用者 \n3. 如果儲存失敗，則無法真正退出應用程式，此時按退出鍵等於按 Home 鍵，儘可能給予使用者手動儲存的機會 \n4. 每次切到背景或退出應用程式，如若文章有變化，則進行一次自動備份整個資料庫，備份內容可以隨時復原，復原之前會自動備份「復原之前」的內容以供放棄復原 \n5. 為每一篇文章提供歷史記錄、復原與重做 \n6. 提供回收筒，避免誤刪文章 \n7. 雲端備份，如果設定 WebDAV，則純純寫作會預設開啟雲端備份功能，自動將你的 db 資料庫檔案（包含全部文章）同步到雲端</string>
   <string name="presetTitle3">關於純純寫作進階版</string>
@@ -352,7 +352,7 @@
   <string name="collapseAllCategories">收起所有卷</string>
   <string name="showMore">顯示更多</string>
   <string name="textColorAlpha">字型顏色透明度</string>
-  <string name="desktopDialogGuide">您需要從\nhttps://writer.drakeet.com/desktop_zh \n下載<b><i>純純寫作桌面版 0.3.1 或以上版本</i></b>。\n\n當手機與電腦<b>處於同一個 Wi-Fi 網路或行動基站台</b>時👈👈👈，打開桌面版後將以下的 IP 位址<b>輸入於桌面版中的輸入列中</b>，即可與桌面版即時連線，雙向同步編輯目前文章。</string>
+  <string name="desktopDialogGuide">您需要從\nhttps://writer.drakeet.com/desktop_zh \n下載<b><i>純純寫作桌面版 1.2.2 或以上版本</i></b>。\n\n當手機與電腦<b>處於同一個 Wi-Fi 網路或行動基站台</b>時👈👈👈，打開桌面版後將以下的 IP 位址<b>輸入於桌面版中的輸入列中</b>，即可與桌面版即時連線，雙向同步編輯目前文章。</string>
   <string name="desktopDialogNote">注意：目前純純寫作桌面版還處於非常初期階段，許多功能未完善，請您理解和靜待其後續更新。\n* 若您看到<b>多行 IP 位址</b>，請逐一嘗試連結它們。\n* Windows 版存放<b>路徑中不能包含中文</b>目錄，否則將會無法使用！</string>
   <string name="tipNotSupportThisDesktopVersion">目前手機端和桌面端版本不匹配，無法連結，請各自更新到最新版後重試</string>
   <string name="connect">連結</string>
@@ -419,51 +419,51 @@
   <string name="messageNeedToPay">這是進階版功能，您需要先<b>登入</b>或付費取得純純寫作 Pro 才能使用它，點擊確定即可了解純純寫作所有進階版功能。\n\n當您取得純純寫作 Pro 後，您可以使用所有的進階版功能。</string>
   <string name="license">啟用碼</string>
   <string name="ProIntroductionMarkdown"><![CDATA[
-        #### 自訂稿紙
-
-        您可以自由選擇您手機中的圖片或網路圖片作為稿紙，賞心悅目，更加精緻美觀：
-
-        ![圖片](https://gitee.com/PureWriter/resources/raw/master/pro/0.webp)
-
-        #### 第二編輯器 ✨
-
-        您可以**左右滑動編輯器**頁面來進入第二編輯器頁面：
-
-        ![圖片](https://gitee.com/PureWriter/resources/raw/master/pro/1.webp)
-
-        #### 儲存為長圖片 / md / txt 檔案
-
-        您可以將文章另存為長圖片或 .md .txt 檔案：
-
-        ![圖片](https://gitee.com/PureWriter/resources/raw/master/pro/2.webp)
-
-        #### 合併成書匯出
-
-        您可以在側邊列文章清單頂部選單中找到這個選項，它將幫助您合併所有章節內容到一個純文字文件中：
-
-        ![圖片](https://gitee.com/PureWriter/resources/raw/master/pro/3.webp)
-
-        #### 尋找 & 取代
-
-        您可以在任意範圍內尋找目標關鍵字，並批次取代它們：
-
-        ![圖片](https://gitee.com/PureWriter/resources/raw/master/pro/4.webp)
-
-        #### Material Design 2 主題
-
-        開啟 Material Design 2 主題後，您將獲得透明化的頂部列，它不再是純黑色的，這可以獲得更加沉浸式的精美 UI：
-
-        ![圖片](https://gitee.com/PureWriter/resources/raw/master/pro/5.webp)
-
-        #### 純純寫作 桌面版
-
-        ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/PureWriterDesktop.webp)
-
-        你可以在純純寫作首頁頂部的雲圖示選單 ☁️ 裡找到 純純寫作桌面版 的下載連結和連線桌面版。
-
-        目前，純純寫作桌面版仍然還在 alpha 階段，它十分初級，只提供了與手機雙向即時瞬間同步寫作功能。
-
-        開發桌面版需要花費巨大的精力和時間，而且純純寫作計畫在之後重新實現一個完整的更好的桌面版。您的支援將會是我們巨大的動力，非常感謝！
+|        #### 自訂稿紙
+|
+|        您可以自由選擇您手機中的圖片或網路圖片作為稿紙，賞心悅目，更加精緻美觀：
+|
+|        ![圖片](https://gitee.com/PureWriter/resources/raw/master/pro/0.webp)
+|
+|        #### 第二編輯器 ✨
+|
+|        您可以**左右滑動編輯器**頁面來進入第二編輯器頁面：
+|
+|        ![圖片](https://gitee.com/PureWriter/resources/raw/master/pro/1.webp)
+|
+|        #### 儲存為長圖片 / md / txt 檔案
+|
+|        您可以將文章另存為長圖片或 .md .txt 檔案：
+|
+|        ![圖片](https://gitee.com/PureWriter/resources/raw/master/pro/2.webp)
+|
+|        #### 合併成書匯出
+|
+|        您可以在側邊列文章清單頂部選單中找到這個選項，它將幫助您合併所有章節內容到一個純文字文件中：
+|
+|        ![圖片](https://gitee.com/PureWriter/resources/raw/master/pro/3.webp)
+|
+|        #### 尋找 & 取代
+|
+|        您可以在任意範圍內尋找目標關鍵字，並批次取代它們：
+|
+|        ![圖片](https://gitee.com/PureWriter/resources/raw/master/pro/4.webp)
+|
+|        #### Material Design 2 主題
+|
+|        開啟 Material Design 2 主題後，您將獲得透明化的頂部列，它不再是純黑色的，這可以獲得更加沉浸式的精美 UI：
+|
+|        ![圖片](https://gitee.com/PureWriter/resources/raw/master/pro/5.webp)
+|
+|        #### 純純寫作 桌面版
+|
+|        ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/PureWriterDesktop.webp)
+|
+|        你可以在純純寫作首頁頂部的雲圖示選單 ☁️ 裡找到 純純寫作桌面版 的下載連結和連線桌面版。
+|
+|        目前，純純寫作桌面版仍然還在 alpha 階段，它十分初級，只提供了與手機雙向即時瞬間同步寫作功能。
+|
+|        開發桌面版需要花費巨大的精力和時間，而且純純寫作計畫在之後重新實現一個完整的更好的桌面版。您的支援將會是我們巨大的動力，非常感謝！
     ]]></string>
   <string name="messageThankYouForYourSupport">\"遇到喜歡的東西就把它買下來，錢並不是真的花掉了，只是換一種方式，陪伴在你身邊…\"😋\n\n同時，您的支持能夠讓純純寫作更好地堅持開發下去，使我們一直堅持好的方向，良心的產品，並且激勵更多的獨立開發者。\n\n純純寫作因為您的支持而能夠不斷更新、完善，非常感謝！</string>
   <string name="buyPureWriterPro"><b>購買純純寫作</b> Pro</string>
@@ -502,17 +502,17 @@
   <string name="lowCloudFreeStorageSpaceWarning">您的 %1$s 只有 %2$d MB 的可用儲存空間，這可能會導致純純寫作無法進行雲端備份。 請清理並保留 %3$d MB 以上的雲端空間！</string>
   <string name="unlimitedStorage">無限儲存空間</string>
   <string name="noteDateTimeShortcut"><![CDATA[
-        另外，您還可以插入時間和日期變數，透過在上面第一個輸入框中輸入 `${<format>}` 來設定，其中的 `<format>` 需要取代成時間格式，例如：
-
-        `${yyyy-MM-dd HH:mm}` 將會生成：
-        `2020-04-01 21:43`
-
-        `${yyyy-M-d hh:mm}` 將會生成：
-        `2020-4-1 09:43`
-
-        (可以 **長按** 複製以上範例進行嘗試；另外，此設定對大小寫敏感)
-
-        您也可以透過查閱這個 [文件頁面](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) 中的 **表格** 來取得更多 **時間格式字元** 並自由組合。
+|        另外，您還可以插入時間和日期變數，透過在上面第一個輸入框中輸入 `${<format>}` 來設定，其中的 `<format>` 需要取代成時間格式，例如：
+|
+|        `${yyyy-MM-dd HH:mm}` 將會生成：
+|        `2020-04-01 21:43`
+|
+|        `${yyyy-M-d hh:mm}` 將會生成：
+|        `2020-4-1 09:43`
+|
+|        (可以 **長按** 複製以上範例進行嘗試；另外，此設定對大小寫敏感)
+|
+|        您也可以透過查閱這個 [文件頁面](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) 中的 **表格** 來取得更多 **時間格式字元** 並自由組合。
     ]]></string>
   <string name="read">檢視</string>
   <string name="introductionOfReadOnlyMode">* 當游標不可見時，需要雙擊編輯器才能置入游標並進入編輯模式\n* 當游標可見時，無論何時，只需單擊即可編輯或修改游標位置\n* 當游標可見 且 螢幕小鍵盤已收起時，可以按「返回鍵」來隱藏游標並進入唯讀模式</string>
@@ -556,4 +556,21 @@
   <string name="rating">給予好評</string>
   <string name="splitLayout">分欄</string>
   <string name="thankYou">非常感謝！</string>
+  <string name="theTry">試用</string>
+  <string name="selectFolder">選擇資料夾</string>
+  <string name="fileTypeNotSupported">不支援該文件類型</string>
+  <string name="grantStoragePermission">授予純純寫作資料夾權限</string>
+  <string name="folderNoLongerExists">該資料夾或儲存不再存在！</string>
+  <string name="tipNotRecommendedFolder">這個目錄不符合我們推薦的目錄，將導致純純寫作無法讀取到它舊有的備份資料，請知悉或返回上一步進行更正！</string>
+  <string name="tipTargetFolder">"根據您選擇的資料夾，純純寫作的最終儲存目錄為: "</string>
+  <string name="messageWhyNeedSAF">為了更好地保護使用者隱私，從 Android 11 開始，純純寫作**不再需要全盤讀寫權限**，取而代之的是讓**使用者指定一個資料夾目錄**，純純寫作將僅對於該目錄擁有讀寫權限。\n\n因此，您需要點擊下方的按鈕選取一個資料夾目錄，為了方便以後重新安裝時能夠對接舊有資料，我們**強烈建議**您固定選擇 ***`Documents`*** 這個資料夾 🙏</string>
+  <string name="selectFont">選取字型</string>
+  <string name="pureWriterFolder">純純寫作資料夾</string>
+  <string name="materialFilesNote">目前下方的「打開」僅支援使用 zhanghai/MaterialFiles 打開，如果需要您可以自行下載這個應用，或者手動使用您系統中的檔案管理器打開上述路徑。</string>
+  <string name="changeFolder">更換資料夾</string>
+  <string name="yourFolderIs">"您選擇的資料夾目錄為: "</string>
+  <string name="changeFolderNote">如果您選擇下方的「*更換資料夾*」，您需要**先手動**到上述資料夾目錄去把 PureWriter 資料夾移動到新的目標資料夾，然後再進行更換。</string>
+  <string name="previous">上一步</string>
+  <string name="customFontTipForAndroid11">Android 11 以上系統需要每次點擊下方的選項選取字體檔案才能使之生效</string>
+  <string name="youNeedToSignInAgain">您需要重新登錄</string>
 </resources>
