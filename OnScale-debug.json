@@ -1,0 +1,19 @@
+{
+  "key": "test",
+  "title": {
+    "default": "Test title",
+    "zh": "测试标题"
+  },
+  "message": {
+    "default": "Test message",
+    "zh": "测试消息"
+  },
+  "startTime": "2021-8-8",
+  "endTime": "2021-8-12",
+  "intervalDays": 2,
+  "keyDays": [
+    11
+  ],
+  "onlyAbroad": false,
+  "version": 1
+}
