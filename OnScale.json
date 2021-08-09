@@ -8,8 +8,8 @@
     "default": "Test message",
     "zh": "测试消息"
   },
-  "startTime": "2021-8-8",
-  "endTime": "2021-8-12",
+  "startTime": "2000-8-8",
+  "endTime": "2000-8-12",
   "intervalDays": 2,
   "keyDays": [
     11
