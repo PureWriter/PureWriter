@@ -1,19 +1,19 @@
 {
-  "key": "k20210827",
+  "key": "k20211001",
   "title": {
-    "default": "ON SALE for Start of School",
-    "zh": "开学季特惠"
+    "default": "ON SALE for 10.1~10.7",
+    "zh": "国庆节特惠"
   },
   "message": {
-    "default": "During the school season, August 27 - September 5, Pure Writer Pro (lifetime), originally priced at $14.99, is discounted to $8.99.",
-    "zh": "在8月27日至9月5日开学季期间，纯纯写作 Pro（永久会员）现提供大幅优惠中...\n在纯纯写作 Pro 页面底部可查看最新优惠售价。"
+    "default": "During Sep 30 - Oct 7, Pure Writer Pro (lifetime), originally priced at $14.99, is discounted to $8.99.",
+    "zh": "在9月30日至10月7日开学季期间，纯纯写作 Pro（永久会员）现提供大幅优惠中...\n在纯纯写作 Pro 页面底部可查看最新优惠售价。"
   },
-  "startTime": "2021-8-27",
-  "endTime": "2021-9-5",
+  "startTime": "2021-9-30",
+  "endTime": "2021-10-7",
   "intervalDays": 3,
   "keyDays": [
-    28,
-    29
+    1,
+    7
   ],
   "onlyAbroad": false,
   "version": 1
