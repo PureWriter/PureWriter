@@ -8,6 +8,10 @@
 
 纯纯写作支持云备份，它会默认使用 HTTPS 加密传输你的数据库备份到你的 WebDAV 云盘，你的云备份只会存储于你设定的云盘，它们绝不会被上传到其它地方。
 
+-- Drakeet Xu
+
+开发者名称：西安市新城区纯纯网络工作室
+
 ----
 
 ## 純純寫作 - 隱私政策 
@@ -20,6 +24,10 @@
 
 純純寫作支援雲備份，它會預設使用 HTTPS 加密傳輸你的資料庫備份到你的 WebDAV 雲端硬碟，你的雲備份只會存儲於你設定的雲端硬碟，它們絕不會被上傳到其它地方。
 
+-- Drakeet Xu
+
+开发者名称：西安市新城区纯纯网络工作室
+
 ----
 
 ## Pure Writer - Privacy Policy
@@ -31,3 +39,7 @@ Also, it will not read or modify any content on your clipboard without first not
 The storage permission that Pure Writer asked for is solely used for auto backup and save your files. Other than that, it will not read or modify any of your files in the storage without first notifying you.
 
 Pure Writer supports cloud backup, which uses HTTPS encryption to transfer your database backups to your WebDAV cloud storage. Your cloud backups will only be stored in the cloud storage you set, and they will never be uploaded to other places.
+
+-- Drakeet Xu
+
+开发者名称：西安市新城区纯纯网络工作室
