@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="pureWriter">Pure Writer</string>
+  <string name="pureWriter">PureWriter</string>
   <string name="titleHint">Titolo</string>
   <string name="editorTipAMenu">Dovrai prima scegliere del testo</string>
   <string name="editorHintContent">Inizia scrivendo del contenuto…</string>
@@ -501,7 +501,7 @@
   <string name="safeMode">Modalità provvisoria</string>
   <string name="summarySafeMode">Quando questa App entra in background o nella pagina dell\'elenco delle attività recenti, il contenuto di questa App verrà oscurato o nascosto; quando questa voce è attiva, anche gli screenshot nell\'app saranno proibiti</string>
   <string name="pressBackToClearCursor">Il cursore è nascosto ed è entrato in modalità di sola lettura</string>
-  <string name="cursorJoyTutorial">Tenere premuto questo pulsante e muovere il dito per controllare il movimento del cursore</string>
+  <string name="cursorJoyTutorial">Tieni premuto il pulsante di vibrazione sopra, quindi muovi il dito per controllare il movimento del cursore</string>
   <string name="tipBlueInputBox">Suggerimento: dopo aver inserito, premere il tasto Invio ⏎ per saltare fuori dalla casella di input blu</string>
   <string name="defaultShortcut1">\"\"</string>
   <string name="textShortcut">Scorciatoia di testo</string>
@@ -536,4 +536,17 @@
   <string name="previous">Precedente</string>
   <string name="rating">Valutazione</string>
   <string name="customFontTipForAndroid11">Android 11+ deve selezionare il file del carattere per renderlo efficace</string>
+    <string name="connectDesktop">Connettiti al desktop</string>
+  <string name="disconnectDesktop">Disconnetti il desktop</string>
+  <string name="connect">Visualizza</string>
+  <string name="desktopDialogGuide">Devi scaricare <b><i>Pure Writer Desktop 1.4.0 (o superiore)</i></b> da https://writer.drakeet.com/desktop_en \n\nQuando il tuo cellulare e il computer sono sulla <b>stessa rete Wi-Fi o hotspot👈👈👈</b>, apri Desktop e inserisci l\'indirizzo IP sottostante nel campo di input di Desktop per connetterti a Pure Writer, quindi puoi sincronizzare e modificare l\'articolo corrente in tempo reale.</string>
+  <string name="connectionIsStopping">La connessione si sta interrompendo, riprova più tardi!</string>
+  <string name="stop_waiting_connection">Smetti di aspettare le connessioni</string>
+  <string name="desktopDisconnected">Il desktop è disconnesso</string>
+  <string name="desktopConnected">Il desktop è connesso</string>
+  <string name="desktopDialogNote">Nota: Pure Writer Desktop è ancora nella sua fase alpha. Si prega di comprendere e attendere i suoi successivi aggiornamenti.\n* Se vedi più righe di indirizzi IP, prova a collegarle una per una.</string>
+  <string name="autoConnectToDesktop">Connessione automatica alla versione desktop</string>
+  <string name="autoConnectToDesktopNextTime">Connettiti automaticamente al desktop la prossima volta</string>
+  <string name="restoreOptionsMessage">È necessario utilizzare questo backup per sovrascrivere il contenuto locale o unirlo al contenuto locale?\n\nNota: se si sceglie Unisci, le impostazioni e le informazioni sull\'account di backup cloud nel file di backup non verranno unite e potrebbe essere necessario riconfigurarle manualmente.</string>
+  <string name="merge">Unisci</string>
 </resources>

@@ -1,5 +1,5 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-  <string name="pureWriter">Pure Writer</string>
+  <string name="pureWriter">PureWriter</string>
   <string name="pureWriterPro" translatable="false">Pure Writer Pro</string>
   <string name="titleForTimeMachineHeart" translatable="false">@string/pureWriter</string>
   <string name="appNameDebug" translatable="false">𝓟𝓾𝓻𝓮𝓦𝓻𝓲𝓽𝓮𝓻</string>
@@ -395,8 +395,8 @@
   <string name="disconnectDesktop">Disconnect Desktop</string>
   <string name="connect">Connect</string>
   <string name="tipNotSupportThisDesktopVersion">The current mobile and desktop versions do not match and cannot be connected. Please update both to the latest version and try again.</string>
-  <string name="desktopDialogGuide">You need to download <b><i>Pure Writer Desktop 1.2.2 (or above)</i></b> from https://writer.drakeet.com/desktop_en \n\nWhen your mobile and computer are on <b>the same Wi-Fi network or hotspot👈👈👈</b>, open Desktop and enter the IP address below <b>into the input field of Desktop</b> to connect to Pure Writer, then you can sync and edit the current article in real time.</string>
-  <string name="desktopDialogNote">Note: Pure Writer Desktop is still in its alpha stage. Please understand and wait for its subsequent updates.\n* If you see <b>multiple lines of IP addresses</b>, try connecting them one by one.\n* Non-English characters <b>cannot</b> be included in the path where the <i>Windows</i> version is stored!</string>
+  <string name="desktopDialogGuide">You need to download <b><i>Pure Writer Desktop 1.4.0 (or above)</i></b> from https://writer.drakeet.com/desktop_en \n\nWhen your mobile and computer are on <b>the same Wi-Fi network or hotspot👈👈👈</b>, open Desktop and enter the IP address below <b>into the input field of Desktop</b> to connect to Pure Writer, then you can sync and edit the current article in real time.</string>
+  <string name="desktopDialogNote">Note: Pure Writer Desktop is still in its alpha stage. Please understand and wait for its subsequent updates.\n* If you see <b>multiple lines of IP addresses</b>, try connecting them one by one.</string>
   <string name="connectionIsStopping">The connection is stopping, try again later!</string>
   <string name="createShortcutLabel">Text Shortcut</string>
   <string name="cursorPositionForNewArticle">Cursor position for new article</string>
@@ -569,7 +569,7 @@
   <string name="summarySafeMode">When this App enters the background or recent task list page, the content of this App will be obscured or hidden; when this item is turned on, screenshots in the App will also be prohibited</string>
   <string name="pressBackToClearCursor">Cursor is hidden and entered Read-only mode</string>
   <string name="PureWriterManual">Pure Writer manual</string>
-  <string name="cursorJoyTutorial">Hold this button and move your finger\nto control cursor movement</string>
+  <string name="cursorJoyTutorial">Press and hold the above shaking button, then move your finger to control cursor movement</string>
   <string name="tipBlueInputBox">Tip: After inputting, press the Enter key ⏎ to jump out of the blue input box</string>
   <string name="defaultShortcut1">\"\"</string>
   <string name="defaultShortcut2">null</string>
@@ -588,8 +588,8 @@
   <string name="timeModified">Time Modified</string>
   <string name="timeCreated">Time Created</string>
   <string name="timeCreatedAndModified">Time Created &amp; Modified</string>
-  <string name="presetFreeFont" translatable="false">免费的内置楷体</string>
-  <string name="summaryPresetFreeFont" translatable="false">仅在未启用「自定义字体」时有效；而且可能由于字体文件问题，部分系统可能无效</string>
+  <string name="presetFreeFont" translatable="false">免费的内置霞鹜文楷</string>
+  <string name="summaryPresetFreeFont" translatable="false">仅在<b>未</b>启用「自定义字体」时有效</string>
   <string name="editor2">Editor 2</string>
   <string name="currentChapterWordCount">Word count of current chapter</string>
   <string name="currentBookWordCount">Word count of the whole book</string>
@@ -612,4 +612,34 @@
   <string name="yourFolderIs">"The folder directory you selected is: "</string>
   <string name="changeFolderNote">If you choose *CHANGE FOLDER* below, you need to **manually** move the PureWriter folder to the new target folder **first**, and then change it.</string>
   <string name="previous">Previous</string>
+  <string name="autoConnectToDesktop">Auto-connect to the Desktop version</string>
+  <string name="desktopLink">https://writer.drakeet.com/desktop_en</string>
+  <string name="autoConnectToDesktopNextTime">Automatically connect to the Desktop next time</string>
+  <string name="optionsForTheFewPeople">Options for the few people</string>
+  <string name="summaryPie">Provide some settings that should not be provided</string>
+  <string name="stretchEdgeEffect">Stretch edge effect</string>
+  <string name="staticCursor">Static cursor (not blinking)</string>
+  <string name="cursorJoyModePosition"><![CDATA[Cursor joy mode & position]]></string>
+  <string name="cursorJoyModePosition0">Anti-inadvertent touch mode, on the right</string>
+  <string name="cursorJoyModePosition1">\"Directly touch to move\" mode, in the shortcut list</string>
+  <string name="typewriterModeMode0">Paragraph mode</string>
+  <string name="typewriterModeMode1">Line mode</string>
+  <string name="whyNoProForChineseUser" translatable="false">(<u>为什么没激活？</u>)</string>
+  <string name="restoreOptionsMessage">Do you need to use this backup to overwrite the local content or merge it into the local content?\n\nNote: If you choose Merge, the settings and cloud backup account information in the backup file will not be merged, and you may need to reconfigure them manually.</string>
+  <string name="merge">Merge</string>
+  <string name="merging">Merging…</string>
+  <string name="checkIntegrityOfBackup">Check the integrity of the backup file…</string>
+  <string name="noteBeforeRestoringBackup">Before everything starts, make a backup of the current data…</string>
+  <string name="startMerging">Start merging…</string>
+  <string name="insertANewBook">Insert a new book</string>
+  <string name="insertANewCategory">Insert a new category</string>
+  <string name="insertingOrUpdatingArticles">Inserting or updating articles…</string>
+  <string name="insertANewArticle">Insert a new article</string>
+  <string name="summary">Summary</string>
+  <string name="updateAnExistingArticle">Update an existing article</string>
+  <string name="totalNumberOfArticlesInsertedOrUpdated">Total number of articles inserted or updated</string>
+  <string name="insertANewShortcut">Insert a new shortcut</string>
+  <string name="totalNumberOfNewTimeMachineMessagesInserted">Total number of new time machine messages inserted</string>
+  <string name="mergeDone">Done!</string>
+  <string name="relaunch">Relaunch</string>
 </resources>

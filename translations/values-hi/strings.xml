@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="pureWriter">Pure Writer</string>
+  <string name="pureWriter">PureWriter</string>
   <string name="about">के बारे में | गाइड</string>
   <string name="slogan">फास्ट, उत्कृष्ट अनुभव, कभी सामग्री नहीं खोई</string>
   <string name="iconDesc">प्योर राइटर का आइकन टाइम मशीन है\nटाइम मशीन आगे चल रही है। भविष्य के बारे में सोचते हुए, शब्द हमें अतीत से जोड़ने के लिए ले जा सकते हैं…</string>
@@ -490,7 +490,7 @@
   <string name="safeMode">सुरक्षित मोड</string>
   <string name="summarySafeMode">जब यह ऐप पृष्ठभूमि या हालिया कार्य सूची पृष्ठ में प्रवेश करता है, तो इस ऐप की सामग्री अस्पष्ट या छिपी होगी; जब यह आइटम चालू होता है, तो ऐप में स्क्रीनशॉट भी निषिद्ध होंगे</string>
   <string name="pressBackToClearCursor">कर्सर केवल पढ़ने के लिए मोड में छिपा और दर्ज किया गया है</string>
-  <string name="cursorJoyTutorial">इस बटन को पकड़ें और कर्सर की गति को नियंत्रित करने के लिए अपनी उंगली को हिलाएं</string>
+  <string name="cursorJoyTutorial">उपरोक्त मिलाते हुए बटन को दबाएँ और दबाए रखें, फिर कर्सर की गति को नियंत्रित करने के लिए अपनी उंगली को हिलाएं</string>
   <string name="tipBlueInputBox">युक्ति: इनपुट करने के बाद, नीले इनपुट बॉक्स से बाहर निकलने के लिए Enter ⏎ कुंजी दबाएं</string>
   <string name="defaultShortcut1">\"\"</string>
   <string name="textShortcut">पाठ शॉर्टकट</string>
@@ -524,4 +524,19 @@
   <string name="previous">पिछला</string>
   <string name="rating">रेटिंग</string>
   <string name="customFontTipForAndroid11">Android 11+ को इसे प्रभावी बनाने के लिए फ़ॉन्ट फ़ाइल का चयन करने की आवश्यकता है</string>
+    <string name="shareText">सिफारिश: Pure Writer एक फीचर-भरा टेक्स्ट एडिटिंग ऐप है जो आपको इसकी विशेषताओं के साथ मानसिक शांति प्रदान करता है: इतिहास रिकॉर्ड्स, बहु-परत सुरक्षा जो आपको अपनी कीमती सामग्री को खोने से रोकता है, और एक आरामदायक लेखन वातावरण भी। https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
+  <string name="shareMessage">यदि आप Pure Writer का उपयोग करने का आनंद लेते हैं, तो कृपया हमें इस शब्द को फैलाने में मदद करें! अपने दोस्तों के साथ साझा करने के लिए दाईं ओर दिए गए शेयर बटन पर क्लिक करें। यह हमारे लिए बहुत मायने रखेगा और आपके समर्थन के कारण इसमें सुधार होने पर एप्लिकेशन को धन्यवाद!\n\nअधिक जानने के लिए, कृपया देखें: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
+  <string name="connectDesktop">डेस्कटॉप से कनेक्ट करें</string>
+  <string name="disconnectDesktop">डेस्कटॉप को डिस्कनेक्ट करें</string>
+  <string name="connect">कनेक्ट करें</string>
+  <string name="desktopDialogGuide">आपको https://writer.drakeet.com/desktop_en से <b><i> Pure Writer Desktop 1.4.0 (या इससे ऊपर) </i></b> डाउनलोड करना होगा\n\nजब आपका मोबाइल और कंप्यूटर <b> एक ही वाई-फाई नेटवर्क या हॉटस्पॉट </b> पर हो, तो डेस्कटॉप खोलें और नीचे दिए गए IP पते को Pure Writer से कनेक्ट करने के लिए डेस्कटॉप के इनपुट फ़ील्ड में दर्ज करें, फिर आप सिंक कर सकते हैं और वर्तमान लेख को वास्तविक समय में संपादित करें।</string>
+  <string name="connectionIsStopping">कनेक्शन रुक रहा है, बाद में पुन: प्रयास करें!</string>
+  <string name="stop_waiting_connection">कनेक्शन के लिए इंतजार करना बंद करो</string>
+  <string name="desktopDisconnected">डेस्कटॉप काट दिया गया है</string>
+  <string name="desktopConnected">डेस्कटॉप जुड़ा हुआ है</string>
+  <string name="desktopDialogNote">नोट: Pure Writer Desktop अभी भी अपने अल्फा चरण में है। कृपया समझें और इसके बाद के अपडेट की प्रतीक्षा करें।\n* यदि आप आईपी पते की कई लाइनें देखते हैं, तो उन्हें एक-एक करके जोड़ने का प्रयास करें।</string>
+  <string name="autoConnectToDesktop">डेस्कटॉप संस्करण में ऑटो-कनेक्ट</string>
+  <string name="autoConnectToDesktopNextTime">अगली बार स्वचालित रूप से डेस्कटॉप से कनेक्ट करें</string>
+  <string name="restoreOptionsMessage">क्या आपको स्थानीय सामग्री को अधिलेखित करने या स्थानीय सामग्री में मर्ज करने के लिए इस बैकअप का उपयोग करने की आवश्यकता है?\n\nनोट: यदि आप मर्ज चुनते हैं, तो बैकअप फ़ाइल में सेटिंग्स और क्लाउड बैकअप खाता जानकारी को मर्ज नहीं किया जाएगा, और आपको उन्हें मैन्युअल रूप से पुन: कॉन्फ़िगर करने की आवश्यकता हो सकती है।</string>
+  <string name="merge">मर्ज</string>
 </resources>

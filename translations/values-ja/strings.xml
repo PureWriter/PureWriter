@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="pureWriter">Pure Writer</string>
+  <string name="pureWriter">PureWriter</string>
   <string name="about">About | ガイド</string>
   <string name="slogan">速く、優れた経験、決して失われたコンテンツ</string>
   <string name="editorTipAMenu">あなたは、テキストを選択する必要があります</string>
@@ -491,7 +491,7 @@
   <string name="safeMode">セーフモード</string>
   <string name="summarySafeMode">このアプリがバックグラウンドまたは最近のタスクリストページに入ると、このアプリのコンテンツは不明瞭または非表示になります。 このアイテムをオンにすると、アプリ内のスクリーンショットも禁止されます</string>
   <string name="pressBackToClearCursor">カーソルが非表示になり、読み取り専用モードになります</string>
-  <string name="cursorJoyTutorial">このボタンを押したまま指を動かして、カーソルの動きを制御します</string>
+  <string name="cursorJoyTutorial">上記の振とうボタンを押したまま、指を動かしてカーソルの動きを制御します</string>
   <string name="tipBlueInputBox">ヒント：入力後、Enter ⏎ キーpressを押すと、青色の入力ボックスからジャンプします</string>
   <string name="defaultShortcut1">『』</string>
   <string name="defaultShortcut2">「」</string>
@@ -528,4 +528,21 @@
   <string name="previous">前へ</string>
   <string name="rating">評価</string>
   <string name="customFontTipForAndroid11">Android 11以降では、フォントファイルを有効にするにはフォントファイルを選択する必要があります</string>
+    <string name="shareMessage">Pure Writerの使用を楽しんでいる場合は、私たちが情報を広めるのを手伝ってください！このアプリを友達と共有するには、右側の[共有]ボタンをクリックしてください。 ！！\n\n詳細については、https://play.google.com/store/apps/details?id=com.drakeet.purewriter をご覧ください。</string>
+  <string name="shareText">おすすめです。Pure Writerは、機能が充実していて、安心して使えるテキスト編集アプリです。履歴の記録、大切なコンテンツを失わないための多層保護機能、さらに快適な執筆環境を備えています。詳細はこちら： https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
+  <string name="connectDesktop">デスクトップに接続する</string>
+  <string name="disconnectDesktop">デスクトップを切断します</string>
+  <string name="connect">接続する</string>
+  <string name="desktopDialogGuide">https://writer.drakeet.com/desktop_en から<b><i> Pure Writer Desktop 1.4.0（またはそれ以降）</i></b>をダウンロードする必要があります\n\nモバイルとコンピューターが<b>同じWi-Fiネットワークまたはホットスポット👈👈👈</b>にある場合は、デスクトップを開き、デスクトップの入力フィールドに以下のIPアドレスを入力して、Pure Writer に接続します。同期できます。 現在の記事をリアルタイムで編集します。</string>
+  <string name="connectionIsStopping">接続が停止しています。しばらくしてからもう一度お試しください。</string>
+  <string name="stop_waiting_connection">接続を待つのをやめる</string>
+  <string name="desktopDisconnected">デスクトップが切断されている</string>
+  <string name="desktopConnected">デスクトップが接続されています</string>
+  <string name="desktopDialogNote">注：Pure Writer Desktop はまだアルファ段階です。 理解して、その後の更新を待ってください。\n※複数行のIPアドレスが表示される場合は、1つずつ接続してみてください。</string>
+  <string name="autoConnectToDesktop">デスクトップバージョンへの自動接続</string>
+  <string name="autoConnectToDesktopNextTime">次回から自動的にデスクトップに接続</string>
+  <string name="presetFreeFont">フリーLXGW WenKaiフォント</string>
+  <string name="summaryPresetFreeFont">「カスタムフォント」が有効になっていない場合にのみ有効です</string>
+  <string name="restoreOptionsMessage">このバックアップを使用して、ローカルコンテンツを上書きしたり、ローカルコンテンツにマージしたりする必要がありますか？\n\n注：[マージ]を選択した場合、バックアップファイルの設定とクラウドバックアップアカウント情報はマージされないため、手動で再構成する必要がある場合があります。</string>
+  <string name="merge">マージ</string>
 </resources>

@@ -1,5 +1,5 @@
 <resources>
-  <string name="pureWriter">Pure Writer</string>
+  <string name="pureWriter">PureWriter</string>
   <string name="titleHint">Judul</string>
   <string name="editorTipAMenu">Anda harus memilih beberapa teks terlebih dahulu</string>
   <string name="editorHintContent">Mulai menulis beberapa konten…</string>
@@ -497,7 +497,7 @@
   <string name="safeMode">Mode aman</string>
   <string name="summarySafeMode">Ketika Aplikasi ini memasuki latar belakang atau halaman daftar tugas terbaru, konten Aplikasi ini akan dikaburkan atau disembunyikan; saat item ini dinyalakan, tangkapan layar di App juga akan dilarang</string>
   <string name="pressBackToClearCursor">Kursor disembunyikan dan masuk ke mode baca-saja</string>
-  <string name="cursorJoyTutorial">Tahan tombol ini dan gerakkan jari Anda untuk mengontrol gerakan kursor</string>
+  <string name="cursorJoyTutorial">Tekan dan tahan tombol getar di atas, lalu gerakkan jari Anda untuk mengontrol gerakan kursor</string>
   <string name="tipBlueInputBox">Tip: Setelah memasukkan, tekan tombol Enter ⏎ untuk melompat keluar dari kotak input biru</string>
   <string name="defaultShortcut1">\"\"</string>
   <string name="textShortcut">Pintasan Teks</string>
@@ -532,4 +532,17 @@
   <string name="previous">Sebelumnya</string>
   <string name="rating">Rating</string>
   <string name="customFontTipForAndroid11">Android 11+ perlu memilih file font agar efektif</string>
+    <string name="connectDesktop">Hubungkan ke desktop</string>
+  <string name="disconnectDesktop">Putuskan sambungan Desktop</string>
+  <string name="connect">Hubungkan</string>
+  <string name="desktopDialogGuide">Anda perlu mengunduh <b><i> Pure Writer Desktop 1.4.0 (atau lebih tinggi) </i></b> dari https://writer.drakeet.com/desktop_en\n\nKetika ponsel dan komputer Anda berada di <b>jaringan Wi-Fi atau hotspot yang sama👈👈👈 </b>, buka Desktop dan masukkan alamat IP di bawah ini ke dalam bidang input Desktop untuk terhubung ke Pure Writer, lalu Anda dapat menyinkronkan dan edit artikel saat ini secara real-time.</string>
+  <string name="connectionIsStopping">Koneksi terhenti, coba lagi nanti!</string>
+  <string name="stop_waiting_connection">Berhenti menunggu koneksi</string>
+  <string name="desktopDisconnected">Desktop terputus</string>
+  <string name="desktopConnected">Desktop terhubung</string>
+  <string name="desktopDialogNote">Catatan: Pure Writer Desktop masih dalam tahap alfa. Harap mengerti dan tunggu pembaruan selanjutnya.\n* Jika Anda melihat beberapa baris alamat IP, coba hubungkan satu per satu.</string>
+  <string name="autoConnectToDesktop">Sambungkan otomatis ke versi Desktop</string>
+  <string name="autoConnectToDesktopNextTime">Sambungkan ke Desktop secara otomatis di lain waktu</string>
+  <string name="restoreOptionsMessage">Apakah Anda perlu menggunakan cadangan ini untuk menimpa konten lokal atau menggabungkannya ke dalam konten lokal?\n\nCatatan: Jika Anda memilih Gabung, pengaturan dan informasi akun cadangan cloud dalam file cadangan tidak akan digabungkan, dan Anda mungkin perlu mengonfigurasi ulang secara manual.</string>
+  <string name="merge">Menggabungkan</string>
 </resources>

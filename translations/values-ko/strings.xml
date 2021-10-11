@@ -1,5 +1,5 @@
 <resources>
-  <string name="pureWriter">Pure Writer</string>
+  <string name="pureWriter">PureWriter</string>
   <string name="titleHint">표제</string>
   <string name="editorTipAMenu">먼저 텍스트를 선택해야합니다</string>
   <string name="editorHintContent">내용을 쓰기 시작하세요…</string>
@@ -496,7 +496,7 @@
   <string name="safeMode">안전 모드</string>
   <string name="summarySafeMode">이 앱이 백그라운드 또는 최근 작업 목록 페이지에 들어가면 이 앱의 내용이 가려지거나 숨겨집니다. 이 항목을 켜면 앱의 스크린 샷도 금지됩니다</string>
   <string name="pressBackToClearCursor">커서가 숨겨져 읽기 전용 모드로 들어갑니다</string>
-  <string name="cursorJoyTutorial">이 버튼을 누른 상태에서 손가락을 움직여 커서 이동을 제어</string>
+  <string name="cursorJoyTutorial">위의 흔들기 버튼을 길게 누른 다음 손가락을 움직여 커서 이동을 제어합니다</string>
   <string name="tipBlueInputBox">팁 : 입력 한 후 Enter 키 ⏎를 눌러 파란색 입력 상자 밖으로 이동하십시오.</string>
   <string name="defaultShortcut1">\"\"</string>
   <string name="defaultShortcut2">\'\'</string>
@@ -531,4 +531,17 @@
   <string name="previous">이전</string>
   <string name="rating">평가</string>
   <string name="customFontTipForAndroid11">Android 11 이상에서는 효과적인 글꼴 파일을 선택해야합니다.</string>
+    <string name="connectDesktop">데스크탑에 연결</string>
+  <string name="disconnectDesktop">데스크톱 연결 해제</string>
+  <string name="connect">연결하기</string>
+  <string name="desktopDialogGuide">https://writer.drakeet.com/desktop_en 에서 <b><i> Pure Writer Desktop 1.4.0 이상 </i></b>을 다운로드해야합니다.\n\n모바일과 컴퓨터가 <b> 동일한 Wi-Fi 네트워크 또는 핫스팟 👈👈👈 </b>에있을 때 Desktop을 열고 아래의 IP 주소를 Desktop의 입력 필드에 입력하여 Pure Writer에 연결 한 다음 동기화 할 수 있습니다. 현재 기사를 실시간으로 편집 할 수 있습니다.</string>
+  <string name="connectionIsStopping">연결이 중지됩니다. 나중에 다시 시도하세요!</string>
+  <string name="stop_waiting_connection">연결 대기 중지</string>
+  <string name="desktopDisconnected">데스크톱 연결이 끊어졌습니다.</string>
+  <string name="desktopConnected">데스크탑이 연결됨</string>
+  <string name="desktopDialogNote">참고 : Pure Writer Desktop은 아직 알파 단계입니다. 후속 업데이트를 이해하고 기다리십시오.\n* 여러 줄의 IP 주소가 표시되는 경우 하나씩 연결해보십시오.</string>
+  <string name="autoConnectToDesktop">데스크탑 버전에 자동 연결</string>
+  <string name="autoConnectToDesktopNextTime">다음에 데스크탑에 자동으로 연결</string>
+  <string name="restoreOptionsMessage">이 백업을 사용하여 로컬 콘텐츠를 덮어쓰거나 로컬 콘텐츠에 병합해야 합니까?\n\n참고: 병합을 선택하면 백업 파일의 설정 및 클라우드 백업 계정 정보가 병합되지 않으며 수동으로 재구성해야 할 수 있습니다.</string>
+  <string name="merge">병합</string>
 </resources>

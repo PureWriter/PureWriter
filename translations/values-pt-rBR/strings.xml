@@ -1,5 +1,5 @@
 <resources>
-  <string name="pureWriter">Pure Writer</string>
+  <string name="pureWriter">PureWriter</string>
   <string name="titleHint">Título</string>
   <string name="editorTipAMenu">Você precisa primeiro selecionar algum texto</string>
   <string name="editorHintContent">Comece a escrever…</string>
@@ -376,10 +376,10 @@
   <string name="password">Senha</string>
   <string name="nightMode">Modo Noturno</string>
   <string name="connectDesktop">Conectar Desktop</string>
-  <string name="desktopDialogGuide">Você precisa baixar o <b><i>Pure Writer Desktop 1.2.2 (ou superior)</i></b> em https://writer.drakeet.com/desktop_en \n\nQuando seu dispositivo móvel e seu PC estiverem na <b>mesma rede Wi-Fi ou roteador</b>, abra o desktop e insira o endereço IP abaixo <b>na caixa de entrada</b> para conectar ao Pure Writer, assim você será capaz de sincronizar e editar o artigo atual em tempo real.</string>
+  <string name="desktopDialogGuide">Você precisa baixar o <b><i>Pure Writer Desktop 1.4.0 (ou superior)</i></b> em https://writer.drakeet.com/desktop_en \n\nQuando seu dispositivo móvel e seu PC estiverem na <b>mesma rede Wi-Fi ou roteador</b>, abra o desktop e insira o endereço IP abaixo <b>na caixa de entrada</b> para conectar ao Pure Writer, assim você será capaz de sincronizar e editar o artigo atual em tempo real.</string>
   <string name="disconnectDesktop">Desconectar Desktop</string>
   <string name="connect">Conectar</string>
-  <string name="desktopDialogNote">Nota: o Pure Writer Desktop ainda está em estágio alfa. Por favor, entenda e aguarde novas atualizações. \n* Se você ver <b>múltiplas linhas de endereços IPs</b>, tente conectá-los um por um.\n* Caracteres não ingleses <b>não podem</b> ser inseridos onde a versão do <i>Windows</i> está armazenada!</string>
+  <string name="desktopDialogNote">Nota: o Pure Writer Desktop ainda está em estágio alfa. Por favor, entenda e aguarde novas atualizações. \n* Se você ver <b>múltiplas linhas de endereços IPs</b>, tente conectá-los um por um.</string>
   <string name="connectionIsStopping">A conexão está oscilando, por favor tente novamente mais tarde!</string>
   <string name="stop_waiting_connection">Interromper busca por conexões</string>
   <string name="desktopDisconnected">Desktop desconectado</string>
@@ -518,7 +518,7 @@
   <string name="safeMode">Modo Seguro</string>
   <string name="summarySafeMode">Quando este aplicativo entrar na página de fundo ou da lista de tarefas recente, o conteúdo deste aplicativo será obscurecido ou escondido; quando este item for ligado, screenshots no aplicativo também serão proibidos</string>
   <string name="pressBackToClearCursor">Cursor é escondido e inserido no modo somente leitura</string>
-  <string name="cursorJoyTutorial">Segure este botão e mova seu dedo para controlar o movimento do cursor</string>
+  <string name="cursorJoyTutorial">Pressione e mantenha pressionado o botão de agitação acima, depois mova seu dedo para controlar o movimento do cursor</string>
   <string name="tipBlueInputBox">Dica: Após a entrada, pressione a tecla Enter ⏎ para pular da caixa de entrada azul</string>
   <string name="defaultShortcut1">\"\"</string>
   <string name="textShortcut">Atalho de texto</string>
@@ -552,4 +552,10 @@
   <string name="previous">Anterior</string>
   <string name="rating">Avaliação</string>
   <string name="customFontTipForAndroid11">O Android 11+ precisa selecionar o arquivo de fonte para torná-lo eficaz</string>
+  <string name="plainText">Texto simples</string>
+  <string name="mode">Modo</string>
+  <string name="autoConnectToDesktop">Auto-conexão com a versão Desktop</string>
+  <string name="autoConnectToDesktopNextTime">Conectar-se automaticamente à área de trabalho na próxima vez</string>
+  <string name="restoreOptionsMessage">Você precisa usar este backup para sobrescrever o conteúdo local ou fundi-lo com o conteúdo local?\n\nNota: Se você escolher Mesclar/Fundir, as configurações e informações da conta de backup em nuvem no arquivo de backup não serão mescladas, e você pode precisar reconfigurá-las manualmente.</string>
+  <string name="merge">Fundir</string>
 </resources>
