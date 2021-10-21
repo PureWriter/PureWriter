@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="pureWriter">PureWriter</string>
+  <string name="pureWriter">Pure Writer</string>
   <string name="titleHint">Titel</string>
   <string name="editorTipAMenu">Sie müssen zuerst einen Text auswählen</string>
   <string name="editorHintContent">Schreiben Sie einige Inhalte…</string>
@@ -532,4 +532,5 @@
   <string name="autoConnectToDesktopNextTime">Stellen Sie beim nächsten Mal automatisch eine Verbindung zum Desktop her</string>
   <string name="restoreOptionsMessage">Müssen Sie dieses Backup verwenden, um den lokalen Inhalt zu überschreiben oder mit dem lokalen Inhalt zusammenzuführen?\n\nHinweis: Wenn Sie Zusammenführen wählen, werden die Einstellungen und Cloud-Backup-Kontoinformationen in der Backup-Datei nicht zusammengeführt und müssen möglicherweise manuell neu konfiguriert werden.</string>
   <string name="merge">Verschmelzen</string>
+  <string name="editor2Tip">Sie befinden sich im zweiten Editor und sein oberes Symbol befindet sich gegenüber dem ersten Editor. Wenn Sie zum ersten Editor zurückkehren möchten, <b>können Sie im Editor nach links oder rechts wischen</b>.</string>
 </resources>

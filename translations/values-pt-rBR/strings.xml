@@ -1,5 +1,5 @@
 <resources>
-  <string name="pureWriter">PureWriter</string>
+  <string name="pureWriter">Pure Writer</string>
   <string name="titleHint">Título</string>
   <string name="editorTipAMenu">Você precisa primeiro selecionar algum texto</string>
   <string name="editorHintContent">Comece a escrever…</string>
@@ -558,4 +558,5 @@
   <string name="autoConnectToDesktopNextTime">Conectar-se automaticamente à área de trabalho na próxima vez</string>
   <string name="restoreOptionsMessage">Você precisa usar este backup para sobrescrever o conteúdo local ou fundi-lo com o conteúdo local?\n\nNota: Se você escolher Mesclar/Fundir, as configurações e informações da conta de backup em nuvem no arquivo de backup não serão mescladas, e você pode precisar reconfigurá-las manualmente.</string>
   <string name="merge">Fundir</string>
+  <string name="editor2Tip">Você está no segundo editor, e seu ícone superior é oposto ao primeiro editor. Se você quiser voltar ao primeiro editor, <b>você pode deslizar para a esquerda ou direita no editor</b>.</string>
 </resources>

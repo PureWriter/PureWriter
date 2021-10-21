@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="pureWriter">PureWriter</string>
+  <string name="pureWriter">Pure Writer</string>
   <string name="titleHint">Títulos</string>
   <string name="editorTipAMenu">Primero necesitas elegir un texto</string>
   <string name="editorHintContent">Empieza a escribir algo…</string>
@@ -544,4 +544,5 @@
   <string name="autoConnectToDesktopNextTime">Conéctese automáticamente al escritorio la próxima vez</string>
   <string name="restoreOptionsMessage">¿Necesita utilizar esta copia de seguridad para sobrescribir el contenido local o fusionarlo con el contenido local?\n\nNota: Si elige Fusionar, la configuración y la información de la cuenta de copia de seguridad en la nube en el archivo de copia de seguridad no se fusionarán y es posible que deba volver a configurarlas manualmente.</string>
   <string name="merge">Unir</string>
+  <string name="editor2Tip">Estás en el segundo editor y su icono superior está enfrente del primer editor. Si desea volver al primer editor, <b>puede deslizar el dedo hacia la izquierda o hacia la derecha en el editor</b>.</string>
 </resources>

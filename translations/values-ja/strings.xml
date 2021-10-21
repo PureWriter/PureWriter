@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="pureWriter">PureWriter</string>
+  <string name="pureWriter">Pure Writer</string>
   <string name="about">About | ガイド</string>
   <string name="slogan">速く、優れた経験、決して失われたコンテンツ</string>
   <string name="editorTipAMenu">あなたは、テキストを選択する必要があります</string>
@@ -545,4 +545,5 @@
   <string name="summaryPresetFreeFont">「カスタムフォント」が有効になっていない場合にのみ有効です</string>
   <string name="restoreOptionsMessage">このバックアップを使用して、ローカルコンテンツを上書きしたり、ローカルコンテンツにマージしたりする必要がありますか？\n\n注：[マージ]を選択した場合、バックアップファイルの設定とクラウドバックアップアカウント情報はマージされないため、手動で再構成する必要がある場合があります。</string>
   <string name="merge">マージ</string>
+  <string name="editor2Tip">あなたは2番目のエディターにいて、その一番上のアイコンは最初のエディターの反対側にあります。 最初のエディターに戻りたい場合は、<b>エディターを左または右にスワイプできます</b>。</string>
 </resources>

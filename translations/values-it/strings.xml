@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="pureWriter">PureWriter</string>
+  <string name="pureWriter">Pure Writer</string>
   <string name="titleHint">Titolo</string>
   <string name="editorTipAMenu">Dovrai prima scegliere del testo</string>
   <string name="editorHintContent">Inizia scrivendo del contenuto…</string>
@@ -549,4 +549,5 @@
   <string name="autoConnectToDesktopNextTime">Connettiti automaticamente al desktop la prossima volta</string>
   <string name="restoreOptionsMessage">È necessario utilizzare questo backup per sovrascrivere il contenuto locale o unirlo al contenuto locale?\n\nNota: se si sceglie Unisci, le impostazioni e le informazioni sull\'account di backup cloud nel file di backup non verranno unite e potrebbe essere necessario riconfigurarle manualmente.</string>
   <string name="merge">Unisci</string>
+  <string name="editor2Tip">Sei nel secondo editor e la sua icona in alto è di fronte al primo editor. Se vuoi tornare al primo editor, <b>puoi scorrere verso sinistra o destra sull\'editor</b>.</string>
 </resources>

@@ -1,5 +1,5 @@
 <resources>
-  <string name="pureWriter">PureWriter</string>
+  <string name="pureWriter">Pure Writer</string>
   <string name="titleHint">Judul</string>
   <string name="editorTipAMenu">Anda harus memilih beberapa teks terlebih dahulu</string>
   <string name="editorHintContent">Mulai menulis beberapa konten…</string>
@@ -545,4 +545,5 @@
   <string name="autoConnectToDesktopNextTime">Sambungkan ke Desktop secara otomatis di lain waktu</string>
   <string name="restoreOptionsMessage">Apakah Anda perlu menggunakan cadangan ini untuk menimpa konten lokal atau menggabungkannya ke dalam konten lokal?\n\nCatatan: Jika Anda memilih Gabung, pengaturan dan informasi akun cadangan cloud dalam file cadangan tidak akan digabungkan, dan Anda mungkin perlu mengonfigurasi ulang secara manual.</string>
   <string name="merge">Menggabungkan</string>
+  <string name="editor2Tip">Anda berada di editor kedua, dan ikon atasnya berlawanan dengan editor pertama. Jika Anda ingin kembali ke editor pertama, <b>Anda dapat menggeser ke kiri atau kanan pada editor</b>.</string>
 </resources>

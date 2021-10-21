@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="pureWriter">PureWriter</string>
+  <string name="pureWriter">Pure Writer</string>
   <string name="defaultContent">Leuk je te ontmoeten!\nDit is een snelle teksteditor die is ontworpen met wat wij geloven dat een \"goede schrijfervaring\" zou moeten zijn. Pure Writer is minimalistisch en stelt u in staat om altijd en overal te schrijven zonder bang te zijn dat u uw inhoud ooit zult verliezen.\nMet de regel- en alinea-spatiëringfunctie van Pure Writer is uw tekst duidelijker en comfortabeler om te lezen. Niet alleen dat, maar hij heeft ook een vloeiend scroll-, veeg-naar-klap-toetsenbord en nog veel meer opwindende functies.\nEenvoud is een verborgen complexiteit: u kunt uw werk coderen met uw vingerafdruk, starten of stoppen met schrijven wanneer u maar wilt en uw inhoud snel delen met andere apps - wij helpen u graag verder.\nHet belangrijkste is dat tenzij u het handmatig verwijdert, u nooit uw werk zult verliezen tijdens het gebruik van deze teksteditor. Als het een onopzettelijke verwijdering of een onverwachte afsluiting is, kunt u het nog steeds uit de geschiedenis herstellen.\nMeer functies: WebDAV-cloudback-up, Material Design 2-thema, Markdown, typemachine-modus, exporteren als lange tekstafbeelding, Time Machine …\nHet werkt snel en soepel, u kunt altijd en overal doorgaan met schrijven en verder schrijven.\nVeel plezier ermee.</string>
   <string name="about">Over | Gids</string>
   <string name="actionOkGoSettings">Nou, ga naar Instellingen</string>
@@ -540,4 +540,5 @@
   <string name="autoConnectToDesktopNextTime">De volgende keer automatisch verbinding maken met het bureaublad</string>
   <string name="restoreOptionsMessage">Moet u deze back-up gebruiken om de lokale inhoud te overschrijven of deze samen te voegen met de lokale inhoud?\n\nOpmerking: als u Samenvoegen kiest, worden de instellingen en de accountgegevens van de cloudback-up in het back-upbestand niet samengevoegd en moet u ze mogelijk handmatig opnieuw configureren.</string>
   <string name="merge">Samenvoegen</string>
+  <string name="editor2Tip">U bevindt zich in de tweede editor en het bovenste pictogram staat tegenover de eerste editor. Als u wilt terugkeren naar de eerste editor, kunt u <b>naar links of rechts vegen op de editor</b>.</string>
 </resources>

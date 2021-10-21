@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="pureWriter">PureWriter</string>
+  <string name="pureWriter">Pure Writer</string>
   <string name="about">के बारे में | गाइड</string>
   <string name="slogan">फास्ट, उत्कृष्ट अनुभव, कभी सामग्री नहीं खोई</string>
   <string name="iconDesc">प्योर राइटर का आइकन टाइम मशीन है\nटाइम मशीन आगे चल रही है। भविष्य के बारे में सोचते हुए, शब्द हमें अतीत से जोड़ने के लिए ले जा सकते हैं…</string>
@@ -539,4 +539,5 @@
   <string name="autoConnectToDesktopNextTime">अगली बार स्वचालित रूप से डेस्कटॉप से कनेक्ट करें</string>
   <string name="restoreOptionsMessage">क्या आपको स्थानीय सामग्री को अधिलेखित करने या स्थानीय सामग्री में मर्ज करने के लिए इस बैकअप का उपयोग करने की आवश्यकता है?\n\nनोट: यदि आप मर्ज चुनते हैं, तो बैकअप फ़ाइल में सेटिंग्स और क्लाउड बैकअप खाता जानकारी को मर्ज नहीं किया जाएगा, और आपको उन्हें मैन्युअल रूप से पुन: कॉन्फ़िगर करने की आवश्यकता हो सकती है।</string>
   <string name="merge">मर्ज</string>
+  <string name="editor2Tip">आप दूसरे संपादक में हैं, और इसका शीर्ष आइकन पहले संपादक के विपरीत है। यदि आप पहले संपादक पर वापस लौटना चाहते हैं, तो <b>आप संपादक पर बाएँ या दाएँ स्वाइप कर सकते हैं</b>।</string>
 </resources>

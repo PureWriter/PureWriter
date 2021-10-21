@@ -1,5 +1,5 @@
 <resources>
-  <string name="pureWriter">PureWriter</string>
+  <string name="pureWriter">Pure Writer</string>
   <string name="titleHint">표제</string>
   <string name="editorTipAMenu">먼저 텍스트를 선택해야합니다</string>
   <string name="editorHintContent">내용을 쓰기 시작하세요…</string>
@@ -544,4 +544,5 @@
   <string name="autoConnectToDesktopNextTime">다음에 데스크탑에 자동으로 연결</string>
   <string name="restoreOptionsMessage">이 백업을 사용하여 로컬 콘텐츠를 덮어쓰거나 로컬 콘텐츠에 병합해야 합니까?\n\n참고: 병합을 선택하면 백업 파일의 설정 및 클라우드 백업 계정 정보가 병합되지 않으며 수동으로 재구성해야 할 수 있습니다.</string>
   <string name="merge">병합</string>
+  <string name="editor2Tip">당신은 두 번째 편집기에 있고 그 상단 아이콘은 첫 번째 편집기의 반대편에 있습니다. 첫 번째 편집기로 돌아가려면 <b>편집기에서 왼쪽이나 오른쪽으로 스와이프</b>할 수 있습니다.</string>
 </resources>

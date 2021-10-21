@@ -1,5 +1,5 @@
 <resources>
-  <string name="pureWriter">PureWriter</string>
+  <string name="pureWriter">Pure Writer</string>
   <string name="titleHint">Titre</string>
   <string name="editorTipAMenu">Vous devrez d\'abord choisir du texte</string>
   <string name="editorHintContent">Commencez à écrire…</string>
@@ -548,4 +548,5 @@
   <string name="autoConnectToDesktopNextTime">Se connecter automatiquement au bureau la prochaine fois</string>
   <string name="restoreOptionsMessage">Avez-vous besoin d\'utiliser cette sauvegarde pour écraser le contenu local ou le fusionner dans le contenu local?\n\nRemarque : si vous choisissez Fusionner, les paramètres et les informations de compte de sauvegarde cloud dans le fichier de sauvegarde ne seront pas fusionnés et vous devrez peut-être les reconfigurer manuellement.</string>
   <string name="merge">Fusionner</string>
+  <string name="editor2Tip">Vous êtes dans le deuxième éditeur et son icône du haut est à l\'opposé du premier éditeur. Si vous souhaitez revenir au premier éditeur, vous pouvez <b>balayer vers la gauche ou la droite sur l\'éditeur</b>.</string>
 </resources>
