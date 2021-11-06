@@ -649,4 +649,13 @@
   <string name="autoDeleteSymbolsInPairsSummary">Only when the content in the paired symbol is <b>empty</b></string>
   <string name="tip">Tip</string>
   <string name="editor2Tip">You are in the second editor, and its top icon is opposite to the first editor. If you want to return to the first editor, you can <b>swipe left or right on the editor</b>.</string>
+  <string name="needCursorTip">Need to click on the text to place the cursor before proceeding</string>
+  <string name="shortcutKeysForShortcut">Shortcut keys for Shortcut entries</string>
+  <string name="shortcutKeysForShortcutSummary">Press Alt or Ctrl + number to call the text Shortcut entries</string>
+  <string name="optionsForLandscape"><![CDATA[Landscape settings & guidelines]]></string>
+  <string name="editInVerticalCenter">Edit in vertical center</string>
+  <string name="onlyWorkForHardwareKeyboard">Only work for hardware keyboard</string>
+  <string name="editInVerticalCenterSummary">Makes the currently edited line is always in the middle of the screen</string>
+  <string name="migrateImageAssets">Migrate Markdown images to Documents/PureWriter/Assets directory</string>
+  <string name="migrateImageAssetsSummary">This helps you to centrally transfer all the images referenced by your Markdown to your new device. After this operation, you can copy the Documents/PureWriter/Assets folder to the same directory of the new device and then restore the device Backup to the new device, so that the new device can smoothly reference the original images.</string>
 </resources>

@@ -179,7 +179,7 @@
   <string name="mode">模式</string>
   <string name="tipHasNotPermissionWithAutoBackup">尝试自动备份失败，因为您没有给予纯纯写作存储权限</string>
   <string name="hideTitleBarWhenPreviewingMarkdown">预览 Markdown 时隐藏标题栏</string>
-  <string name="privacyPolicy">《隐私政策》和《用户协议》</string>
+  <string name="privacyPolicy">《隐私政策》</string>
   <string name="beforeRestoringYourBackup">恢复备份之前</string>
   <string name="trashDescription">找回您删除的文章</string>
   <string name="messageDeleteArticlesDirectly">直接删除这些文章</string>
@@ -456,7 +456,7 @@
   <string name="moreAdvantagesOfPureWriter">更多纯纯写作的优势</string>
   <string name="account">账号</string>
   <string name="privilegeOfPureWriterPro">纯纯写作 Pro 特权介绍</string>
-  <string name="messageThankYouForYourSupport">\"遇到喜欢的东西就把它买下来，钱并不是真的花掉了，只是换一种方式，陪伴在你身边…\"😋\n\n同时，您的支持能够让纯纯写作更好地坚持开发下去，使我们一直坚持好的方向，良心的产品，并且激励更多的独立开发者。\n\n目前纯纯写作已经有 7000 次代码更新了，背后无数的努力和持续长年累月不断的更新源自您的支持，非常感谢！</string>
+  <string name="messageThankYouForYourSupport">您的支持能够让纯纯写作更好地坚持开发下去，使我们一直坚持好的方向，良心的产品，并且激励更多的独立开发者。\n\n目前纯纯写作已经有 7000 次代码更新了，背后无数的努力和持续长年累月不断的更新源自您的支持，非常感谢！</string>
   <string name="signUpOrSignIn">注册或登录</string>
   <string name="emailAddressIsEmptyOrIllegal">邮箱地址为空或不合法</string>
   <string name="passwordMustBeAtLeast6Characters">密码长度不能少于 6 位</string>
@@ -609,4 +609,13 @@
   <string name="autoDeleteSymbolsInPairsSummary">仅当成对符号中的内容<b>为空</b>时才会进行成对地删除</string>
   <string name="tip">温馨提示</string>
   <string name="editor2Tip">您正处在第二编辑器中，它的顶部图标和第一编辑器是位置相反的。如果您希望回到第一编辑器，您可以<b>在编辑器上向左或向右划动</b>即可。</string>
+  <string name="needCursorTip">需要先点击文本置入光标再进行操作</string>
+  <string name="shortcutKeysForShortcut">快捷输入项的快捷键</string>
+  <string name="shortcutKeysForShortcutSummary">在外接键盘上按 Alt 或 Ctrl 键加数字可以调用快捷输入项</string>
+  <string name="optionsForLandscape">平板设置项和指引</string>
+  <string name="editInVerticalCenter">垂直居中编辑</string>
+  <string name="onlyWorkForHardwareKeyboard">仅在使用外接键盘时生效</string>
+  <string name="editInVerticalCenterSummary">使得当前编辑的行总是在屏幕垂直中央</string>
+  <string name="migrateImageAssets">迁移 Markdown 图片资源到 Documents/PureWriter/Assets 目录下</string>
+  <string name="migrateImageAssetsSummary">这有助于您集中地转移您的所有 Markdown 引用到的图片到您的新设备上，您可以在此操作后，将 Documents/PureWriter/Assets 文件夹复制到新设备同样目录上，然后再恢复此设备的备份到新设备上，这样新设备就可以顺利地引用到原来的图片了。</string>
 </resources>

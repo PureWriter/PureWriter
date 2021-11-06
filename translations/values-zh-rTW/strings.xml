@@ -466,7 +466,7 @@
 |
 |        開發桌面版需要花費巨大的精力和時間，而且純純寫作計畫在之後重新實現一個完整的更好的桌面版。您的支援將會是我們巨大的動力，非常感謝！
     ]]></string>
-  <string name="messageThankYouForYourSupport">\"遇到喜歡的東西就把它買下來，錢並不是真的花掉了，只是換一種方式，陪伴在你身邊…\"😋\n\n同時，您的支持能夠讓純純寫作更好地堅持開發下去，使我們一直堅持好的方向，良心的產品，並且激勵更多的獨立開發者。\n\n純純寫作因為您的支持而能夠不斷更新、完善，非常感謝！</string>
+  <string name="messageThankYouForYourSupport">您的支持能夠讓純純寫作更好地堅持開發下去，使我們一直堅持好的方向，良心的產品，並且激勵更多的獨立開發者。\n\n純純寫作因為您的支持而能夠不斷更新、完善，非常感謝！</string>
   <string name="buyPureWriterPro"><b>購買純純寫作</b> Pro</string>
   <string name="tipMarkdownQuickPreview">橫向滑動到下一個頁面\n可以進行 Markdown 快速預覽</string>
   <string name="expiresOn">到期日</string>
@@ -608,4 +608,12 @@
   <string name="autoDeleteSymbolsInPairs">自動成對刪除符號</string>
   <string name="autoDeleteSymbolsInPairsSummary">僅當成對符號中的內容<b>為空</b>時才會進行成對地刪除</string>
   <string name="editor2Tip">您正處在第二編輯器中，它的頂部圖示和第一編輯器是位置相反的。如果您希望回到第一編輯器，您可以<b>在編輯器上向左或向右划動</b>即可。</string>
+  <string name="shortcutKeysForShortcut">快捷輸入項的快捷鍵</string>
+  <string name="shortcutKeysForShortcutSummary">在外接鍵盤上按 Alt 或 Ctrl 鍵加數字可以呼叫快捷輸入項</string>
+  <string name="optionsForLandscape">平板設定項和指引</string>
+  <string name="editInVerticalCenter">垂直居中編輯</string>
+  <string name="onlyWorkForHardwareKeyboard">僅在使用外接鍵盤時生效</string>
+  <string name="editInVerticalCenterSummary">使得目前編輯的行總是在螢幕垂直中央</string>
+  <string name="migrateImageAssets">遷移 Markdown 圖片資源到 Documents/PureWriter/Assets 目錄下</string>
+  <string name="migrateImageAssetsSummary">這有助於您集中地轉移您的所有 Markdown 引用到的圖片到您的新裝置上，您可以在此操作後，將 Documents/PureWriter/Assets 資料夾複製到新裝置同樣目錄上，然後再復原此裝置的備份到新裝置上，這樣新裝置就可以順利地引用到原來的圖片了。</string>
 </resources>
