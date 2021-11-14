@@ -229,7 +229,7 @@
   <string name="bridgeUpload">Bridge: Upload</string>
   <string name="bridgeDownload">Bridge: Fetch</string>
   <string name="backupSettingTitle">Backup</string>
-  <string name="backupSettingSummary">Backup, Restore, Dropbox and WebDAV</string>
+  <string name="backupSettingSummary">Backup, Restore, Dropbox, WebDAV, Google Drive</string>
   <string name="syncNetwork">Cloud Backup</string>
   <string name="syncOnlyWifi">Sync backup to Cloud only when Wi-Fi is active</string>
   <string name="syncAllNetworks">Sync backup to Cloud on all networks</string>
@@ -658,4 +658,12 @@
   <string name="editInVerticalCenterSummary">Makes the currently edited line is always in the middle of the screen</string>
   <string name="migrateImageAssets">Migrate Markdown images to Documents/PureWriter/Assets directory</string>
   <string name="migrateImageAssetsSummary">This helps you to centrally transfer all the images referenced by your Markdown to your new device. After this operation, you can copy the Documents/PureWriter/Assets folder to the same directory of the new device and then restore the device Backup to the new device, so that the new device can smoothly reference the original images.</string>
+  <string name="tipForFromPlayToAlipay">To use this payment method, please make sure you are in mainland China. This payment method is in principle only available to users in mainland China, because Google and Google Play cannot be used to pay in China.</string>
+  <string name="switchToAlipayPaymentMethod">Switch to Alipay payment method</string>
+  <string name="switchToGooglePlayPaymentMethod">Switch to Google Play payment method</string>
+  <string name="skuActive">Active</string>
+  <string name="askUnsubscribe"><u>Unsubscribe?</u></string>
+  <string name="notesForGoogleSkus">Important:\n\n* Since Google does not provide an interface for canceling subscriptions, if you need to cancel a subscription, you need to click on your subscription or the \"Unsubscribe?\" above to proceed.\n\n* After you cancel the subscription of this app on Google Play, the app will not receive the latest status immediately, so you will see that the subscription item is still in the \"active\" state on this page. This is a normal phenomenon. You will get the correct result the next day, or wait until the end of the current subscription period.\n\n* If you plan to switch from a subscription to the \"Lifetime\" item, you should cancel your subscription first, and then purchase the \"Lifetime\" item. This app cannot cancel your subscription by itself.\n\n* If you encounter the DF-DFERH-01 error during the payment process, please try to restart your device and try again.\n\n* The payment result will be automatically bound to your system Google account, thanks!</string>
+  <string name="activating">Activating…</string>
+  <string name="updating">Updating…</string>
 </resources>

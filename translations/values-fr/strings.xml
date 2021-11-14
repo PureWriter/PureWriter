@@ -200,7 +200,7 @@
   <string name="bridgeUpload">Bridge: envoyer</string>
   <string name="bridgeDownload">Bridge: télécharger</string>
   <string name="backupSettingTitle">Sauvegarde</string>
-  <string name="backupSettingSummary">Sauvegarder, Restaurer, Dropbox et WebDAV</string>
+  <string name="backupSettingSummary">Sauvegarder, Restaurer, Dropbox, WebDAV, Google Drive</string>
   <string name="syncNetwork">Sauvegarde cloud</string>
   <string name="syncOnlyWifi">Synchroniser la sauvegarde avec le cloud seulement en Wi-Fi</string>
   <string name="syncAllNetworks">Synchroniser la sauvegarde avec le cloud peut importe le réseau (Wi-Fi, données mobiles,…)</string>
@@ -549,4 +549,12 @@
   <string name="restoreOptionsMessage">Avez-vous besoin d\'utiliser cette sauvegarde pour écraser le contenu local ou le fusionner dans le contenu local?\n\nRemarque : si vous choisissez Fusionner, les paramètres et les informations de compte de sauvegarde cloud dans le fichier de sauvegarde ne seront pas fusionnés et vous devrez peut-être les reconfigurer manuellement.</string>
   <string name="merge">Fusionner</string>
   <string name="editor2Tip">Vous êtes dans le deuxième éditeur et son icône du haut est à l\'opposé du premier éditeur. Si vous souhaitez revenir au premier éditeur, vous pouvez <b>balayer vers la gauche ou la droite sur l\'éditeur</b>.</string>
+  <string name="switchToAlipayPaymentMethod">Passer au mode de paiement Alipay</string>
+  <string name="switchToGooglePlayPaymentMethod">Passer au mode de paiement Google Play</string>
+  <string name="tipForFromPlayToAlipay">Pour utiliser ce mode de paiement, veuillez vous assurer que vous êtes en Chine continentale. Ce mode de paiement n\'est en principe disponible que pour les utilisateurs en Chine continentale, car Google et Google Play ne peuvent pas être utilisés pour payer en Chine.</string>
+  <string name="askUnsubscribe"><u> Se désinscrire ? </u></string>
+  <string name="notesForGoogleSkus">Noter:\n\n* Étant donné que Google ne fournit pas d\'interface pour annuler les abonnements, si vous devez annuler un abonnement, vous devez cliquer sur votre abonnement ou sur le bouton «Se désinscrire?» ci-dessus pour continuer.\n\n* Après avoir annulé l\'abonnement de cette application sur Google Play, l\'application ne recevra pas le dernier statut immédiatement, vous verrez donc que l\'élément d\'abonnement est toujours à l\'état \"Actif\" sur cette page. C\'est un phénomène normal. Vous obtiendrez le résultat correct le lendemain ou attendez la fin de la période d\'abonnement en cours.\n\n* Si vous envisagez de passer d\'un abonnement à l\'article \"À vie\", vous devez d\'abord annuler votre abonnement, puis acheter l\'article \"À vie\". Cette application ne peut pas annuler votre abonnement par elle-même.\n\n* Si vous rencontrez l\'erreur DF-DFERH-01 lors du processus de paiement, veuillez essayer de redémarrer votre appareil et réessayer.\n\n* Le résultat du paiement sera automatiquement lié à votre compte Google système, merci pour votre soutien !</string>
+  <string name="skuActive">Actif</string>
+  <string name="activating">Activation…</string>
+  <string name="updating">Mise à jour…</string>
 </resources>

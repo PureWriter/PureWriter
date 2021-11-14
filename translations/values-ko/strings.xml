@@ -196,7 +196,7 @@
   <string name="bridgeUpload">Bridge: Upload</string>
   <string name="bridgeDownload">Bridge: Fetch</string>
   <string name="backupSettingTitle">백업</string>
-  <string name="backupSettingSummary">백업, 복원, Dropbox 및 WebDAV</string>
+  <string name="backupSettingSummary">백업, 복원, Dropbox, WebDAV, Google Drive</string>
   <string name="syncNetwork">클라우드 백업</string>
   <string name="syncOnlyWifi">Wi-Fi가 활성화 된 경우에만 클라우드에 백업 동기화</string>
   <string name="syncAllNetworks">모든 네트워크에서 클라우드로 백업 동기화</string>
@@ -545,4 +545,12 @@
   <string name="restoreOptionsMessage">이 백업을 사용하여 로컬 콘텐츠를 덮어쓰거나 로컬 콘텐츠에 병합해야 합니까?\n\n참고: 병합을 선택하면 백업 파일의 설정 및 클라우드 백업 계정 정보가 병합되지 않으며 수동으로 재구성해야 할 수 있습니다.</string>
   <string name="merge">병합</string>
   <string name="editor2Tip">당신은 두 번째 편집기에 있고 그 상단 아이콘은 첫 번째 편집기의 반대편에 있습니다. 첫 번째 편집기로 돌아가려면 <b>편집기에서 왼쪽이나 오른쪽으로 스와이프</b>할 수 있습니다.</string>
+  <string name="switchToAlipayPaymentMethod">Alipay 결제 수단으로 전환</string>
+  <string name="switchToGooglePlayPaymentMethod">Google Play 결제 수단으로 전환</string>
+  <string name="tipForFromPlayToAlipay">이 지불 방법을 사용하려면 중국 본토에 있는지 확인하십시오. 이 결제 수단은 원칙적으로 중국 본토 사용자만 사용할 수 있습니다. Google 및 Google Play를 사용하여 중국에서 결제할 수 없기 때문입니다.</string>
+  <string name="askUnsubscribe"><u> 구독을 취소하시겠습니까? </u></string>
+  <string name="notesForGoogleSkus">메모:\n\n* 구글은 구독 취소 인터페이스를 제공하지 않기 때문에 구독을 취소해야 하는 경우 구독 또는 \"구독 취소?\"를 클릭해야 합니다. 계속하려면 위.\n\n* Google Play에서 이 앱의 구독을 취소한 후 앱은 최신 상태를 즉시 수신하지 않으므로 이 페이지에서 구독 항목이 여전히 \"구독 중\" 상태임을 확인할 수 있습니다. 이것은 정상적인 현상입니다. 다음날 올바른 결과를 얻거나 현재 구독 기간이 끝날 때까지 기다리십시오.\n\n* 구독에서 \"평생\" 항목으로 전환하려는 경우 먼저 구독을 취소한 다음 \"평생\" 항목을 구매해야 합니다. 이 앱은 자체적으로 구독을 취소할 수 없습니다.\n\n* 결제 과정에서 DF-DFERH-01 오류가 발생하면 기기를 다시 시작하고 다시 시도하십시오.\n\n* 결제 결과는 자동으로 시스템 Google 계정에 연결됩니다. 감사합니다!</string>
+  <string name="skuActive">구독 중</string>
+  <string name="activating">활성화 중…</string>
+  <string name="updating">업데이트 중…</string>
 </resources>

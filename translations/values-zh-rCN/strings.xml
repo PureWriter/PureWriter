@@ -191,7 +191,7 @@
   <string name="promptShortcutOrder">排序</string>
   <string name="editShortcut">编辑快捷输入项</string>
   <string name="backupSettingTitle">备份与云备份</string>
-  <string name="backupSettingSummary">备份、恢复、Dropbox、WebDAV、缩减数据库大小</string>
+  <string name="backupSettingSummary">备份、恢复、Dropbox、WebDAV</string>
   <string name="syncNetwork">云备份网络</string>
   <string name="syncOnlyWifi">只在 Wi-Fi 网络下才允许自动备份到云盘</string>
   <string name="syncAllNetworks">在所有网络下都允许自动备份到云盘</string>
@@ -618,4 +618,12 @@
   <string name="editInVerticalCenterSummary">使得当前编辑的行总是在屏幕垂直中央</string>
   <string name="migrateImageAssets">迁移 Markdown 图片资源到 Documents/PureWriter/Assets 目录下</string>
   <string name="migrateImageAssetsSummary">这有助于您集中地转移您的所有 Markdown 引用到的图片到您的新设备上，您可以在此操作后，将 Documents/PureWriter/Assets 文件夹复制到新设备同样目录上，然后再恢复此设备的备份到新设备上，这样新设备就可以顺利地引用到原来的图片了。</string>
+  <string name="tipForFromPlayToAlipay">使用该付费方式，请确保您身处中国大陆，这个付费方式原则上仅是提供给中国大陆用户使用，因为在中国无法使用 Google 和 Google Play 付费。</string>
+  <string name="switchToAlipayPaymentMethod">切换为支付宝付费方式</string>
+  <string name="switchToGooglePlayPaymentMethod">切换为 Google Play 付费方式</string>
+  <string name="askUnsubscribe"><u>取消订阅？</u></string>
+  <string name="notesForGoogleSkus">重要说明:\n\n* 由于 Google 并没有提供取消订阅的接口给应用，因此如果您需要取消订阅，您需要自行点击您的订阅项目或者上方的「取消订阅？」按钮进行操作。\n\n* 当您在 Google Play 取消本应用的订阅后，本应用并不能立即接收到最新状态，因此您将会看到该订阅项在本页面中仍然处于「有效」状态，这是正常现象，一般到第二天会得到正确结果，或等到当前订阅周期结束。\n\n* 如果您打算从订阅项目转为「终身」项目，您应该先取消您的订阅项，再购买「终身」项目，本应用无法自行取消您的订阅项。\n\n* 如果您在付费过程中遇到 DF-DFERH-01 错误，请尝试重启您的设备后重试即可。\n\n* 付费结果将自动绑定到您的系统 Google 账号上，感谢支持！</string>
+  <string name="skuActive">有效</string>
+  <string name="activating">激活中…</string>
+  <string name="updating">正在更新…</string>
 </resources>

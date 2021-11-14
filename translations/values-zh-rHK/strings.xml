@@ -189,7 +189,7 @@
   <string name="promptShortcutOrder">排序</string>
   <string name="editShortcut">編輯快速輸入項</string>
   <string name="backupSettingTitle">備份與雲備份</string>
-  <string name="backupSettingSummary">備份、復原、Dropbox、WebDAV、縮減資料庫大小</string>
+  <string name="backupSettingSummary">備份、復原、Dropbox、WebDAV、Google Drive</string>
   <string name="syncNetwork">雲備份網絡</string>
   <string name="syncOnlyWifi">只在 Wi-Fi 網絡下才允許自動備份到雲盤</string>
   <string name="syncAllNetworks">在所有網絡下都允許自動備份到雲盤</string>
@@ -616,4 +616,12 @@
   <string name="editInVerticalCenterSummary">使得目前編輯的行總是在螢幕垂直中央</string>
   <string name="migrateImageAssets">遷移 Markdown 圖片資源到 Documents/PureWriter/Assets 目錄下</string>
   <string name="migrateImageAssetsSummary">這有助於您集中地轉移您的所有 Markdown 引用到的圖片到您的新設備上，您可以在此操作後，將 Documents/PureWriter/Assets 文件夾複製到新設備同樣目錄上，然後再恢復此設備的備份到新設備上，這樣新設備就可以順利地引用到原來的圖片了。</string>
+  <string name="tipForFromPlayToAlipay">使用該付費方式，請確保您身處中國大陸，這個付費方式原則上僅是提供給中國大陸用戶使用，因為在中國無法使用 Google 和 Google Play 付費。</string>
+  <string name="switchToAlipayPaymentMethod">切換為支付寶付費方式</string>
+  <string name="switchToGooglePlayPaymentMethod">切換為 Google Play 付費方式</string>
+  <string name="askUnsubscribe"><u>取消訂閱？</u></string>
+  <string name="notesForGoogleSkus">重要說明:\n\n* 由於 Google 並沒有提供取消訂閱的接口給應用，因此如果您需要取消訂閱，您需要自行點擊您的訂閱項目或者上方的「取消訂閱？」按鈕進行操作。\n\n* 當您在 Google Play 取消本應用的訂閱後，本應用並不能立即接收到最新狀態，因此您將會看到該訂閱項在本頁面中仍然處於「有效」狀態，這是正常現象，一般到第二天會得到正確結果，或等到當前訂閱週期結束。\n\n* 如果您打算從訂閱項目轉為「終身」項目，您應該先取消您的訂閱項，再購買「終身」項目，本應用無法自行取消您的訂閱項。\n\n* 如果您在付費過程中遇到 DF-DFERH-01 錯誤，請嘗試重啟您的設備後重試即可。\n\n* 付費結果將自動綁定到您的系統 Google 帳號上，感謝支援！</string>
+  <string name="skuActive">有效</string>
+  <string name="activating">啟動中…</string>
+  <string name="updating">正在更新…</string>
 </resources>

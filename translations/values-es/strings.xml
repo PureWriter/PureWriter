@@ -197,7 +197,7 @@
   <string name="bridgeUpload">Puente: Subir</string>
   <string name="bridgeDownload">Puente: Extraer</string>
   <string name="backupSettingTitle">Copia de Seguridad</string>
-  <string name="backupSettingSummary">Copia de Seguridad, Restaurar, Dropbox y WebDAV</string>
+  <string name="backupSettingSummary">Copia de Seguridad, Restaurar, Dropbox, WebDAV, Google Drive</string>
   <string name="syncNetwork">Copia de Seguridad en Nube</string>
   <string name="syncOnlyWifi">Sincronizar la Copia de Seguridad en Nube solo cuando la red Wi-Fi esté activado</string>
   <string name="syncAllNetworks">Sincronizar la Copia de Seguridad en Nube con cualquier red</string>
@@ -545,4 +545,12 @@
   <string name="restoreOptionsMessage">¿Necesita utilizar esta copia de seguridad para sobrescribir el contenido local o fusionarlo con el contenido local?\n\nNota: Si elige Fusionar, la configuración y la información de la cuenta de copia de seguridad en la nube en el archivo de copia de seguridad no se fusionarán y es posible que deba volver a configurarlas manualmente.</string>
   <string name="merge">Unir</string>
   <string name="editor2Tip">Estás en el segundo editor y su icono superior está enfrente del primer editor. Si desea volver al primer editor, <b>puede deslizar el dedo hacia la izquierda o hacia la derecha en el editor</b>.</string>
+  <string name="switchToAlipayPaymentMethod">Cambiar al método de pago de Alipay</string>
+  <string name="switchToGooglePlayPaymentMethod">Cambiar al método de pago de Google Play</string>
+  <string name="tipForFromPlayToAlipay">Para utilizar este método de pago, asegúrese de estar en China continental. En principio, este método de pago solo está disponible para los usuarios de China continental, ya que Google y Google Play no se pueden utilizar para pagar en China.</string>
+  <string name="askUnsubscribe"><u> ¿Cancelar suscripción? </u></string>
+  <string name="notesForGoogleSkus">Nota:\n\n* Dado que Google no proporciona una interfaz para cancelar suscripciones, si necesita cancelar una suscripción, debe hacer clic en su suscripción o en \"¿Cancelar suscripción?\" arriba para continuar.\n\n* Después de cancelar la suscripción de esta aplicación en Google Play, la aplicación no recibirá el estado más reciente de inmediato, por lo que verá que el elemento de suscripción todavía está en el estado \"Activa\" en esta página. Este es un fenómeno normal. Obtendrá el resultado correcto al día siguiente o esperará hasta el final del período de suscripción actual.\n\n* Si planea cambiar de una suscripción al artículo \"Lifetime\", primero debe cancelar su suscripción y luego comprar el artículo \"Lifetime\". Esta aplicación no puede cancelar su suscripción por sí sola.\n\n* Si encuentra el error DF-DFERH-01 durante el proceso de pago, intente reiniciar su dispositivo y vuelva a intentarlo.\n\n* El resultado del pago se vinculará automáticamente a su cuenta de Google del sistema, ¡gracias!</string>
+  <string name="skuActive">Activa</string>
+  <string name="activating">Activando…</string>
+  <string name="updating">Actualizando…</string>
 </resources>

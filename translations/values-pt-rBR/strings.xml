@@ -200,7 +200,7 @@
   <string name="bridgeUpload">Sincronizar: enviar</string>
   <string name="bridgeDownload">Sincronizar: baixar</string>
   <string name="backupSettingTitle">Backup</string>
-  <string name="backupSettingSummary">Backup, Restaurar e Dropbox / WebDAV</string>
+  <string name="backupSettingSummary">Backup, Restaurar e Dropbox / WebDAV / Google Drive</string>
   <string name="syncNetwork">Backup na Nuvem</string>
   <string name="syncOnlyWifi">Sincronizar backup com Cloud apenas quando o Wi-Fi estiver ativado</string>
   <string name="syncAllNetworks">Sincronizar backup com Cloud em todas as redes</string>
@@ -559,4 +559,12 @@
   <string name="restoreOptionsMessage">Você precisa usar este backup para sobrescrever o conteúdo local ou fundi-lo com o conteúdo local?\n\nNota: Se você escolher Mesclar/Fundir, as configurações e informações da conta de backup em nuvem no arquivo de backup não serão mescladas, e você pode precisar reconfigurá-las manualmente.</string>
   <string name="merge">Fundir</string>
   <string name="editor2Tip">Você está no segundo editor, e seu ícone superior é oposto ao primeiro editor. Se você quiser voltar ao primeiro editor, <b>você pode deslizar para a esquerda ou direita no editor</b>.</string>
+  <string name="switchToAlipayPaymentMethod">Mudar para o método de pagamento Alipay</string>
+  <string name="switchToGooglePlayPaymentMethod">Mude para o método de pagamento Google Play</string>
+  <string name="tipForFromPlayToAlipay">Para utilizar este método de pagamento, certifique-se de que você está na China continental. Este método de pagamento está, em princípio, disponível apenas para usuários na China continental, porque o Google e o Google Play não podem ser usados para pagar na China.</string>
+  <string name="askUnsubscribe"><u>Não se inscreve?</u></string>
+  <string name="notesForGoogleSkus">Nota:\n\n* Como o Google não fornece uma interface para cancelar assinaturas, se você precisar cancelar uma assinatura, você precisa clicar em sua assinatura ou no \"Unsubscribe?\" acima para prosseguir.\n\n* Após cancelar a assinatura deste aplicativo no Google Play, o aplicativo não receberá o status mais recente imediatamente, então você verá que o item da assinatura ainda está no estado \"ativo\" nesta página. Este é um fenômeno normal. Você receberá o resultado correto no dia seguinte, ou esperará até o final do período de assinatura atual.\n\n* Se você planeja mudar de uma assinatura para o item \"Lifetime\", você deve cancelar sua assinatura primeiro, e depois comprar o item \"Lifetime\". Este aplicativo não pode cancelar sua assinatura por si só.\n\n* Se você encontrar o erro DF-DFERH-01 durante o processo de pagamento, por favor, tente reiniciar seu aparelho e tente novamente.\n\n* Os resultados pagos serão automaticamente vinculados ao seu sistema conta Google, obrigado!</string>
+  <string name="skuActive">Ativa</string>
+  <string name="updating">Atualizando...</string>
+  <string name="activating">Ativando...</string>
 </resources>

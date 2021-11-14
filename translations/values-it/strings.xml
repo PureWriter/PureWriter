@@ -201,7 +201,7 @@
   <string name="bridgeUpload">Bridge: Upload</string>
   <string name="bridgeDownload">Bridge: Recupero</string>
   <string name="backupSettingTitle">Backup</string>
-  <string name="backupSettingSummary">Backup, Ripristino, Dropbox e WebDAV</string>
+  <string name="backupSettingSummary">Backup, Ripristino, Dropbox, WebDAV, Google Drive</string>
   <string name="syncNetwork">Cloud Backup</string>
   <string name="syncOnlyWifi">Sincronizza il backup tramite Cloud solo quando il Wi-Fi risulta attivo</string>
   <string name="syncAllNetworks">Sincronizza il backup tramite Cloud su tutte le reti</string>
@@ -550,4 +550,12 @@
   <string name="restoreOptionsMessage">È necessario utilizzare questo backup per sovrascrivere il contenuto locale o unirlo al contenuto locale?\n\nNota: se si sceglie Unisci, le impostazioni e le informazioni sull\'account di backup cloud nel file di backup non verranno unite e potrebbe essere necessario riconfigurarle manualmente.</string>
   <string name="merge">Unisci</string>
   <string name="editor2Tip">Sei nel secondo editor e la sua icona in alto è di fronte al primo editor. Se vuoi tornare al primo editor, <b>puoi scorrere verso sinistra o destra sull\'editor</b>.</string>
+  <string name="switchToAlipayPaymentMethod">Passa al metodo di pagamento Alipay</string>
+  <string name="switchToGooglePlayPaymentMethod">Passa al metodo di pagamento di Google Play</string>
+  <string name="tipForFromPlayToAlipay">Per utilizzare questo metodo di pagamento, assicurati di essere nella Cina continentale. Questo metodo di pagamento è in linea di principio disponibile solo per gli utenti della Cina continentale, perché Google e Google Play non possono essere utilizzati per pagare in Cina.</string>
+  <string name="askUnsubscribe"><u> Annullare l\'iscrizione? </u></string>
+  <string name="notesForGoogleSkus">Nota:\n\n* Poiché Google non fornisce un\'interfaccia per l\'annullamento degli abbonamenti, se devi annullare un abbonamento, devi fare clic sul tuo abbonamento o sul pulsante \"Annulla abbonamento?\" sopra per procedere.\n\n* Dopo aver annullato l\'abbonamento a questa app su Google Play, l\'app non riceverà immediatamente lo stato più recente, quindi vedrai che l\'elemento dell\'abbonamento è ancora nello stato \"Attiva\" in questa pagina. Questo è un fenomeno normale. Otterrai il risultato corretto il giorno successivo o attendi fino alla fine del periodo di abbonamento corrente.\n\n* Se prevedi di passare da un abbonamento all\'elemento \"A vita\", devi prima annullare l\'abbonamento e poi acquistare l\'elemento \"A vita\". Questa app non può annullare l\'abbonamento da sola.\n\n* Se riscontri l\'errore DF-DFERH-01 durante il processo di pagamento, prova a riavviare il dispositivo e riprova.\n\n* Il risultato del pagamento sarà automaticamente associato al tuo account Google di sistema, grazie!</string>
+  <string name="skuActive">Attiva</string>
+  <string name="activating">Attivazione...</string>
+  <string name="updating">In aggiornamento…</string>
 </resources>

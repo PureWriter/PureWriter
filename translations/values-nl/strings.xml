@@ -187,7 +187,7 @@
   <string name="bridgeUpload">Brug: Uploaden</string>
   <string name="bridgeDownload">Brug: Download</string>
   <string name="backupSettingTitle">Backup</string>
-  <string name="backupSettingSummary">Back-up, herstel, Dropbox, WebDAV</string>
+  <string name="backupSettingSummary">Back-up, herstel, Dropbox, WebDAV, Google Drive</string>
   <string name="syncNetwork">Cloud back-upnetwerk</string>
   <string name="syncOnlyWifi">Sync backup naar Cloud alleen wanneer Wi-Fi is actief</string>
   <string name="syncAllNetworks">Sync backup naar Cloud op alle netwerken</string>
@@ -541,4 +541,12 @@
   <string name="restoreOptionsMessage">Moet u deze back-up gebruiken om de lokale inhoud te overschrijven of deze samen te voegen met de lokale inhoud?\n\nOpmerking: als u Samenvoegen kiest, worden de instellingen en de accountgegevens van de cloudback-up in het back-upbestand niet samengevoegd en moet u ze mogelijk handmatig opnieuw configureren.</string>
   <string name="merge">Samenvoegen</string>
   <string name="editor2Tip">U bevindt zich in de tweede editor en het bovenste pictogram staat tegenover de eerste editor. Als u wilt terugkeren naar de eerste editor, kunt u <b>naar links of rechts vegen op de editor</b>.</string>
+  <string name="switchToAlipayPaymentMethod">Overschakelen naar Alipay-betaalmethode</string>
+  <string name="switchToGooglePlayPaymentMethod">Overschakelen naar Google Play-betaalmethode</string>
+  <string name="tipForFromPlayToAlipay">Om deze betaalmethode te gebruiken, moet u ervoor zorgen dat u zich op het vasteland van China bevindt. Deze betaalmethode is in principe alleen beschikbaar voor gebruikers op het vasteland van China, omdat Google en Google Play niet kunnen worden gebruikt om in China te betalen.</string>
+  <string name="askUnsubscribe"><u> Afmelden? </u></string>
+  <string name="notesForGoogleSkus">Opmerking:\n\n* Aangezien Google geen interface biedt voor het opzeggen van abonnementen, moet u, als u een abonnement wilt opzeggen, op uw abonnement of op \"Afmelden?\" hierboven om verder te gaan.\n\n* Nadat u het abonnement van deze app op Google Play opzegt, krijgt de app niet meteen de laatste status, dus u zult zien dat het abonnementsitem nog steeds in de \"Actief\" staat op deze pagina staat. Dit is een normaal verschijnsel. U krijgt de volgende dag het juiste resultaat, of wacht tot het einde van de huidige abonnementsperiode.\n\n* Als u van plan bent over te stappen van een abonnement naar het item \"Lifetime\", moet u eerst uw abonnement opzeggen en vervolgens het item \"Lifetime\" kopen. Deze app kan uw abonnement niet zelf opzeggen.\n\n* Als u de DF-DFERH-01-fout tegenkomt tijdens het betalingsproces, probeer dan uw apparaat opnieuw op te starten en probeer het opnieuw.\n\n* Het betalingsresultaat wordt automatisch gekoppeld aan uw systeem Google-account, bedankt voor uw steun!</string>
+  <string name="skuActive">Actief</string>
+  <string name="activating">Activeren…</string>
+  <string name="updating">Updaten…</string>
 </resources>

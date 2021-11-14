@@ -198,7 +198,7 @@
   <string name="bridgeUpload">Jembatan: Unggah</string>
   <string name="bridgeDownload">Jembatan: Ambil</string>
   <string name="backupSettingTitle">Cadangkan</string>
-  <string name="backupSettingSummary">Cadangkan, Kembalikan, Dropbox, dan WebDAV</string>
+  <string name="backupSettingSummary">Cadangkan, Kembalikan, Dropbox, WebDAV, Google Drive</string>
   <string name="syncNetwork">Cloud Backup</string>
   <string name="syncOnlyWifi">Sinkronkan cadangan ke Cloud hanya ketika Wi-Fi aktif</string>
   <string name="syncAllNetworks">Sinkronkan cadangan ke Cloud di semua jaringan</string>
@@ -546,4 +546,12 @@
   <string name="restoreOptionsMessage">Apakah Anda perlu menggunakan cadangan ini untuk menimpa konten lokal atau menggabungkannya ke dalam konten lokal?\n\nCatatan: Jika Anda memilih Gabung, pengaturan dan informasi akun cadangan cloud dalam file cadangan tidak akan digabungkan, dan Anda mungkin perlu mengonfigurasi ulang secara manual.</string>
   <string name="merge">Menggabungkan</string>
   <string name="editor2Tip">Anda berada di editor kedua, dan ikon atasnya berlawanan dengan editor pertama. Jika Anda ingin kembali ke editor pertama, <b>Anda dapat menggeser ke kiri atau kanan pada editor</b>.</string>
+  <string name="switchToAlipayPaymentMethod">Beralih ke metode pembayaran Alipay</string>
+  <string name="switchToGooglePlayPaymentMethod">Beralih ke metode pembayaran Google Play</string>
+  <string name="tipForFromPlayToAlipay">Untuk menggunakan metode pembayaran ini, pastikan Anda berada di China daratan. Metode pembayaran ini pada prinsipnya hanya tersedia untuk pengguna di China daratan, karena Google dan Google Play tidak dapat digunakan untuk membayar di China.</string>
+  <string name="askUnsubscribe"><u> Berhenti berlangganan? </u></string>
+  <string name="notesForGoogleSkus">Catatan:\n\n* Karena Google tidak menyediakan antarmuka untuk membatalkan langganan, jika Anda perlu membatalkan langganan, Anda perlu mengklik langganan Anda atau \"Berhenti berlangganan?\" di atas untuk melanjutkan.\n\n* Setelah Anda membatalkan langganan aplikasi ini di Google Play, aplikasi tidak akan langsung menerima status terbaru, sehingga Anda akan melihat bahwa item langganan masih dalam status \"Aktif\" di halaman ini. Ini adalah fenomena biasa. Anda akan mendapatkan hasil yang benar pada hari berikutnya, atau menunggu hingga akhir periode berlangganan saat ini.\n\n* Jika Anda berencana untuk beralih dari langganan ke item \"Seumur Hidup\", Anda harus membatalkan langganan terlebih dahulu, lalu membeli item \"Seumur Hidup\". Aplikasi ini tidak dapat membatalkan langganan Anda sendiri.\n\n* Jika Anda menemukan kesalahan DF-DFERH-01 selama proses pembayaran, silakan coba restart perangkat Anda dan coba lagi.\n\n* Hasil pembayaran akan secara otomatis terikat ke akun Google sistem Anda, terima kasih atas dukungan Anda!</string>
+  <string name="skuActive">Aktif</string>
+  <string name="activating">Mengaktifkan…</string>
+  <string name="updating">Memperbarui…</string>
 </resources>

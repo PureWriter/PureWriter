@@ -186,7 +186,7 @@
   <string name="bridgeUpload">ブリッジ: アップロード</string>
   <string name="bridgeDownload">ブリッジ: ダウンロード</string>
   <string name="backupSettingTitle">バックアップ(Backup)</string>
-  <string name="backupSettingSummary">バックアップ、復元、Dropbox, WebDAV</string>
+  <string name="backupSettingSummary">バックアップ、復元、Dropbox, WebDAV, Google Drive</string>
   <string name="syncNetwork">Cloud Backup</string>
   <string name="syncOnlyWifi">Sync backup to Cloud only when Wi-Fi is active</string>
   <string name="syncAllNetworks">Sync backup to Cloud on all networks</string>
@@ -546,4 +546,12 @@
   <string name="restoreOptionsMessage">このバックアップを使用して、ローカルコンテンツを上書きしたり、ローカルコンテンツにマージしたりする必要がありますか？\n\n注：[マージ]を選択した場合、バックアップファイルの設定とクラウドバックアップアカウント情報はマージされないため、手動で再構成する必要がある場合があります。</string>
   <string name="merge">マージ</string>
   <string name="editor2Tip">あなたは2番目のエディターにいて、その一番上のアイコンは最初のエディターの反対側にあります。 最初のエディターに戻りたい場合は、<b>エディターを左または右にスワイプできます</b>。</string>
+  <string name="switchToAlipayPaymentMethod">Alipay支払い方法に切り替えます</string>
+  <string name="switchToGooglePlayPaymentMethod">GooglePlayのお支払い方法に切り替えます</string>
+  <string name="tipForFromPlayToAlipay">このお支払い方法を使用するには、中国本土にいることを確認してください。 GoogleとGooglePlayは中国での支払いに使用できないため、この支払い方法は原則として中国本土のユーザーのみが利用できます。</string>
+  <string name="askUnsubscribe"><u>退会しますか？</u></string>
+  <string name="notesForGoogleSkus">ノート：\n\n* Googleはサブスクリプションをキャンセルするためのインターフェースを提供していないため、サブスクリプションをキャンセルする必要がある場合は、サブスクリプションをクリックするか、[サブスクリプションを解除しますか？]をクリックする必要があります。 上記に進みます。\n\n* Google Playでこのアプリのサブスクリプションをキャンセルした後、アプリはすぐに最新のステータスを受け取らないため、このページではサブスクリプションアイテムがまだ「有効」状態であることがわかります。 これは正常な現象です。 翌日正しい結果が得られるか、現在のサブスクリプション期間が終了するまで待ちます。\n\n*サブスクリプションから「ライフタイム」アイテムに切り替える場合は、最初にサブスクリプションをキャンセルしてから、「ライフタイム」アイテムを購入する必要があります。 このアプリは、それ自体でサブスクリプションをキャンセルすることはできません。\n\n*支払いプロセス中にDF-DFERH-01エラーが発生した場合は、デバイスを再起動して再試行してください。\n\n*お支払い結果は自動的にシステムのGoogleアカウントにバインドされます。ありがとうございます。</string>
+  <string name="skuActive">有効</string>
+  <string name="activating">アクティベート中…</string>
+  <string name="updating">更新中…</string>
 </resources>

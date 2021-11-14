@@ -181,7 +181,7 @@
   <string name="bridgeUpload">Bridge: Upload</string>
   <string name="bridgeDownload">Bridge: Fetch</string>
   <string name="backupSettingTitle">Backup</string>
-  <string name="backupSettingSummary">Backup, Restore, Dropbox und WebDAV</string>
+  <string name="backupSettingSummary">Backup, Restore, Dropbox, WebDAV, Google Drive</string>
   <string name="syncNetwork">Datensicherung in der Cloud</string>
   <string name="syncOnlyWifi">Backup nur mit der Cloud synchronisieren, wenn WLAN aktiviert ist</string>
   <string name="syncAllNetworks">Sicherung in allen Netzwerken mit der Cloud synchronisieren</string>
@@ -533,4 +533,12 @@
   <string name="restoreOptionsMessage">Müssen Sie dieses Backup verwenden, um den lokalen Inhalt zu überschreiben oder mit dem lokalen Inhalt zusammenzuführen?\n\nHinweis: Wenn Sie Zusammenführen wählen, werden die Einstellungen und Cloud-Backup-Kontoinformationen in der Backup-Datei nicht zusammengeführt und müssen möglicherweise manuell neu konfiguriert werden.</string>
   <string name="merge">Verschmelzen</string>
   <string name="editor2Tip">Sie befinden sich im zweiten Editor und sein oberes Symbol befindet sich gegenüber dem ersten Editor. Wenn Sie zum ersten Editor zurückkehren möchten, <b>können Sie im Editor nach links oder rechts wischen</b>.</string>
+  <string name="switchToAlipayPaymentMethod">Zur Alipay-Zahlungsmethode wechseln</string>
+  <string name="switchToGooglePlayPaymentMethod">Zur Google Play-Zahlungsmethode wechseln</string>
+  <string name="tipForFromPlayToAlipay">Um diese Zahlungsmethode zu verwenden, stellen Sie bitte sicher, dass Sie sich auf dem chinesischen Festland befinden. Diese Zahlungsmethode steht grundsätzlich nur Nutzern in Festlandchina zur Verfügung, da in China nicht mit Google und Google Play bezahlt werden kann.</string>
+  <string name="askUnsubscribe"><u> Abmelden? </u></string>
+  <string name="notesForGoogleSkus">Notiz:\n\n* Da Google keine Benutzeroberfläche für die Kündigung von Abonnements bereitstellt, müssen Sie, wenn Sie ein Abonnement kündigen müssen, auf Ihr Abonnement oder die Schaltfläche \"Abmelden?\" klicken. oben, um fortzufahren.\n\n* Nachdem Sie das Abonnement dieser App bei Google Play gekündigt haben, erhält die App nicht sofort den neuesten Status, sodass Sie auf dieser Seite sehen, dass sich der Abonnementartikel noch im Status \"Aktiv\" befindet. Dies ist ein normales Phänomen. Sie erhalten am nächsten Tag das richtige Ergebnis oder warten bis zum Ende des aktuellen Abonnementzeitraums.\n\n* Wenn Sie von einem Abonnement zum Artikel \"Lebensdauer\" wechseln möchten, sollten Sie zuerst Ihr Abonnement kündigen und dann den Artikel \"Lebenslang\" kaufen. Diese App kann Ihr Abonnement nicht alleine kündigen.\n\n* Wenn während des Zahlungsvorgangs der Fehler DF-DFERH-01 auftritt, versuchen Sie bitte, Ihr Gerät neu zu starten und es erneut zu versuchen.\n\n* Das Zahlungsergebnis wird automatisch an Ihr System-Google-Konto gebunden, vielen Dank für Ihre Unterstützung!</string>
+  <string name="skuActive">Aktiv</string>
+  <string name="activating">Aktivieren…</string>
+  <string name="updating">Aktualisierung…</string>
 </resources>
