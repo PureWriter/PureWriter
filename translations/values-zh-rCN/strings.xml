@@ -586,7 +586,7 @@
   <string name="cursorJoyModePosition1">「可直接触摸移动」模式，在快捷输入列表里</string>
   <string name="typewriterModeMode0">「高亮当前段落、淡化其他段落」模式</string>
   <string name="typewriterModeMode1">「高亮当前行、淡化其他行」模式</string>
-  <string name="restoreOptionsMessage">您需要使用这个备份来覆盖本地内容？还是合并加入本地内容？\n\n注意：若您选择「合并」，那么存在于备份文件中的设置项和云备份账号信息将不会被合并，您可能需要重新手动配置它们。</string>
+  <string name="restoreOptionsMessage">您需要使用这个备份来覆盖本地内容？还是合并加入本地内容？\n\n注意：若您选择「合并」，那么存在于备份文件中的设置项和云备份账号信息将不会被合并，您可能需要重新手动配置它们。\n\n另外，您如果修改排序或者删除文章，这些操作也不会被合并，因为这会引起冲突。<b>因此我们更建议您使用「覆盖」，并且若在一个设备上修改了数据后应该立即在另一个设备上通过覆盖把数据同步过去。</b></string>
   <string name="merge">合并</string>
   <string name="merging">合并中…</string>
   <string name="checkIntegrityOfBackup">检查备份文件完整性…</string>
@@ -615,7 +615,7 @@
   <string name="optionsForLandscape">平板设置项和指引</string>
   <string name="editInVerticalCenter">垂直居中编辑</string>
   <string name="onlyWorkForHardwareKeyboard">仅在使用外接键盘时生效</string>
-  <string name="editInVerticalCenterSummary">使得当前编辑的行总是在屏幕垂直中央</string>
+  <string name="editInVerticalCenterSummary">使得当前编辑的行总是在屏幕垂直中央（可能无效，这属于输入法的问题，请见谅）</string>
   <string name="migrateImageAssets">迁移 Markdown 图片资源到 Documents/PureWriter/Assets 目录下</string>
   <string name="migrateImageAssetsSummary">这有助于您集中地转移您的所有 Markdown 引用到的图片到您的新设备上，您可以在此操作后，将 Documents/PureWriter/Assets 文件夹复制到新设备同样目录上，然后再恢复此设备的备份到新设备上，这样新设备就可以顺利地引用到原来的图片了。</string>
   <string name="tipForFromPlayToAlipay">使用该付费方式，请确保您身处中国大陆，这个付费方式原则上仅是提供给中国大陆用户使用，因为在中国无法使用 Google 和 Google Play 付费。</string>
@@ -626,4 +626,21 @@
   <string name="skuActive">有效</string>
   <string name="activating">激活中…</string>
   <string name="updating">正在更新…</string>
+  <string name="themesAndPapers">主题和稿纸</string>
+  <string name="once">曾经</string>
+  <string name="selectALightTheme">请选择一亮色主题</string>
+  <string name="selectADarkTheme">请选择一暗色主题</string>
+  <string name="selectATheme">请选择主题</string>
+  <string name="tipBadPaper">您选择的图片或颜色不符合要求，请重新选择</string>
+  <string name="fixedThemeTitle">固定、不自动切换</string>
+  <string name="followSystemThemeTitle">跟随系统自动切换</string>
+  <string name="scheduledThemeTitle">根据时间自动切换：\n7:00 - 17:00 采用亮色，其余时间暗色</string>
+  <string name="paperSettingsHint">点击可选择或自定义稿纸</string>
+  <string name="lightTheme">亮色主题</string>
+  <string name="darkTheme">暗色主题</string>
+  <string name="whetherOverwriteSettings">是否覆盖本地设置项和账户信息？</string>
+  <string name="realNo">否</string>
+  <string name="realYes">是</string>
+  <string name="askOverwriteSettings">我们将会使用您的备份文件中的文章数据库覆盖本地文章数据库，但我们不知道您是否需要我们使用备份文件中的配置项覆盖本地的配置项。请选择：</string>
+  <string name="privacyPolicySummary">纯纯写作不会收集您的任何隐私信息</string>
 </resources>

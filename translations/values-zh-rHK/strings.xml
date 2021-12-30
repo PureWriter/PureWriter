@@ -586,7 +586,7 @@
   <string name="cursorJoyModePosition1">「可直接觸摸移動」模式，在快捷輸入列表裏</string>
   <string name="typewriterModeMode0">「高亮當前段落、淡化其他段落」模式</string>
   <string name="typewriterModeMode1">「高亮當前行、淡化其他行」模式</string>
-  <string name="restoreOptionsMessage">您需要使用這個備份來覆蓋本地內容？還是合併加入本地內容？\n\n注意：若您選擇「合併」，那麼存在於備份文件中的設置項和雲備份賬號訊息將不會被合併，您可能需要重新手動配置它們。</string>
+  <string name="restoreOptionsMessage">您需要使用這個備份來覆蓋本地內容？還是合併加入本地內容？\n\n注意：若您選擇「合併」，那麼存在於備份文件中的設置項和雲備份賬號訊息將不會被合併，您可能需要重新手動配置它們。\n\n另外，您如果修改了文章順序或者刪除文章，這些操作也不會被合併，因為這會引起衝突。<b>因此我們更建議您使用「覆蓋」，並且若在一個設備上修改了數據後應該立即在另一個設備上通過「覆蓋」把數據同步過去。</b></string>
   <string name="merge">合併</string>
   <string name="merging">合併中…</string>
   <string name="checkIntegrityOfBackup">檢查備份文件完整性…</string>
@@ -613,7 +613,7 @@
   <string name="optionsForLandscape">平板設置項和指引</string>
   <string name="editInVerticalCenter">垂直居中編輯</string>
   <string name="onlyWorkForHardwareKeyboard">僅在使用外接鍵盤時生效</string>
-  <string name="editInVerticalCenterSummary">使得目前編輯的行總是在螢幕垂直中央</string>
+  <string name="editInVerticalCenterSummary">使得当前编辑的行总是在屏幕垂直中央（可能无效，这属于输入法的问题，请见谅）</string>
   <string name="migrateImageAssets">遷移 Markdown 圖片資源到 Documents/PureWriter/Assets 目錄下</string>
   <string name="migrateImageAssetsSummary">這有助於您集中地轉移您的所有 Markdown 引用到的圖片到您的新設備上，您可以在此操作後，將 Documents/PureWriter/Assets 文件夾複製到新設備同樣目錄上，然後再恢復此設備的備份到新設備上，這樣新設備就可以順利地引用到原來的圖片了。</string>
   <string name="tipForFromPlayToAlipay">使用該付費方式，請確保您身處中國大陸，這個付費方式原則上僅是提供給中國大陸用戶使用，因為在中國無法使用 Google 和 Google Play 付費。</string>
@@ -624,4 +624,21 @@
   <string name="skuActive">有效</string>
   <string name="activating">啟動中…</string>
   <string name="updating">正在更新…</string>
+  <string name="themesAndPapers">主題和稿紙</string>
+  <string name="once">曾經</string>
+  <string name="selectALightTheme">請選擇一亮色主題</string>
+  <string name="selectADarkTheme">請選擇一暗色主題</string>
+  <string name="selectATheme">請選擇主題</string>
+  <string name="tipBadPaper">您選擇的圖片或顏色不符合要求，請重新選擇</string>
+  <string name="fixedThemeTitle">固定、不自動切換</string>
+  <string name="followSystemThemeTitle">跟隨系統自動切換</string>
+  <string name="scheduledThemeTitle">根據時間自動切換：\n7:00 - 17:00 採用亮色，其餘時間暗色</string>
+  <string name="paperSettingsHint">點擊可選擇或自訂稿紙</string>
+  <string name="lightTheme">亮色主題</string>
+  <string name="darkTheme">暗色主題</string>
+  <string name="realYes">是</string>
+  <string name="realNo">否</string>
+  <string name="whetherOverwriteSettings">是否覆蓋本地設置項和賬戶訊息？</string>
+  <string name="askOverwriteSettings">我們將會使用您的備份文件中的文章資料庫覆蓋本地文章資料庫，但我們不知道您是否需要我們使用備份文件中的配置項覆蓋本地的配置項。請選擇：</string>
+  <string name="privacyPolicySummary">純純寫作不會收集您的任何隱私訊息</string>
 </resources>

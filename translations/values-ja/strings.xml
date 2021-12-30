@@ -543,7 +543,11 @@
   <string name="autoConnectToDesktopNextTime">次回から自動的にデスクトップに接続</string>
   <string name="presetFreeFont">フリーLXGW WenKaiフォント</string>
   <string name="summaryPresetFreeFont">「カスタムフォント」が有効になっていない場合にのみ有効です</string>
-  <string name="restoreOptionsMessage">このバックアップを使用して、ローカルコンテンツを上書きしたり、ローカルコンテンツにマージしたりする必要がありますか？\n\n注：[マージ]を選択した場合、バックアップファイルの設定とクラウドバックアップアカウント情報はマージされないため、手動で再構成する必要がある場合があります。</string>
+  <string name="restoreOptionsMessage">このバックアップを使用して、ローカルコンテンツを上書きしたり、ローカルコンテンツにマージしたりする必要がありますか？
+
+注：[マージ]を選択した場合、バックアップファイルの設定とクラウドバックアップアカウント情報はマージされないため、手動で再構成する必要がある場合があります。
+
+また、記事の順序を変更したり、記事を削除したりすると、競合が発生するため、これらの操作はマージされません。 <b>したがって、「上書き」を使用することをお勧めします。一方のデバイスのデータを変更する場合は、「上書き」を使用して、もう一方のデバイスのデータをすぐに同期する必要があります。 </b></string>
   <string name="merge">マージ</string>
   <string name="editor2Tip">あなたは2番目のエディターにいて、その一番上のアイコンは最初のエディターの反対側にあります。 最初のエディターに戻りたい場合は、<b>エディターを左または右にスワイプできます</b>。</string>
   <string name="switchToAlipayPaymentMethod">Alipay支払い方法に切り替えます</string>
@@ -554,4 +558,25 @@
   <string name="skuActive">有効</string>
   <string name="activating">アクティベート中…</string>
   <string name="updating">更新中…</string>
+  <string name="themesAndPapers">テーマと壁紙</string>
+  <string name="once">一度</string>
+  <string name="selectALightTheme">明るいテーマを選択してください</string>
+  <string name="selectADarkTheme">ダークテーマを選択</string>
+  <string name="selectATheme">テーマを選択</string>
+  <string name="tipBadPaper">選択した画像または色が要件を満たしていません。もう一度選択してください</string>
+  <string name="fixedThemeTitle">修正済み、自動的に切り替えない</string>
+  <string name="followSystemThemeTitle">システムをフォロー（OSと同期）</string>
+  <string name="scheduledThemeTitle">時間に応じた自動切り替え：\n7：00〜17：00は明るいテーマを使用し、それ以外の場合は暗いテーマを使用します</string>
+  <string name="paperSettingsHint">クリックして壁紙/テーマを選択またはカスタマイズします</string>
+  <string name="lightTheme">軽いテーマ</string>
+  <string name="darkTheme">暗いテーマ</string>
+  <string name="autoComplete">オートコンプリート</string>
+  <string name="autoCompleteSummary">カーソルが記事の<b>最後</b>にある場合にのみ、ペアの記号を自動的に完成させます</string>
+  <string name="autoDeleteSymbolsInPairs">ペアのシンボルを自動削除</string>
+  <string name="autoDeleteSymbolsInPairsSummary">ペアのシンボルのコンテンツが<b>空</b>の場合のみ</string>
+  <string name="realYes">はい</string>
+  <string name="realNo">いいえ</string>
+  <string name="whetherOverwriteSettings">ローカル設定を上書きしますか？</string>
+  <string name="askOverwriteSettings">バックアップファイル内の記事データベースを使用してローカルの記事データベースを上書きしますが、バックアップファイル内の設定を使用してローカルの設定を上書きする必要があるかどうかはわかりません。選択してください。</string>
+  <string name="privacyPolicySummary">お客様の個人情報を収集することはございません</string>
 </resources>

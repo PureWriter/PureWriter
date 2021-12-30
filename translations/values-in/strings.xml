@@ -543,7 +543,7 @@
   <string name="desktopDialogNote">Catatan: Pure Writer Desktop masih dalam tahap alfa. Harap mengerti dan tunggu pembaruan selanjutnya.\n* Jika Anda melihat beberapa baris alamat IP, coba hubungkan satu per satu.</string>
   <string name="autoConnectToDesktop">Sambungkan otomatis ke versi Desktop</string>
   <string name="autoConnectToDesktopNextTime">Sambungkan ke Desktop secara otomatis di lain waktu</string>
-  <string name="restoreOptionsMessage">Apakah Anda perlu menggunakan cadangan ini untuk menimpa konten lokal atau menggabungkannya ke dalam konten lokal?\n\nCatatan: Jika Anda memilih Gabung, pengaturan dan informasi akun cadangan cloud dalam file cadangan tidak akan digabungkan, dan Anda mungkin perlu mengonfigurasi ulang secara manual.</string>
+  <string name="restoreOptionsMessage">Apakah Anda perlu menggunakan cadangan ini untuk menimpa konten lokal atau menggabungkannya ke dalam konten lokal?\n\nCatatan: Jika Anda memilih Gabung, pengaturan dan informasi akun cadangan cloud dalam file cadangan tidak akan digabungkan, dan Anda mungkin perlu mengonfigurasi ulang secara manual.\n\nSelain itu, jika Anda mengubah urutan artikel atau menghapus artikel, operasi ini tidak akan digabungkan, karena ini akan menyebabkan konflik. <b>Jadi sebaiknya Anda menggunakan \"overwrite\", dan jika Anda mengubah data di satu perangkat, Anda harus segera menyinkronkan data di perangkat lain melalui \"overwrite\". </b></string>
   <string name="merge">Menggabungkan</string>
   <string name="editor2Tip">Anda berada di editor kedua, dan ikon atasnya berlawanan dengan editor pertama. Jika Anda ingin kembali ke editor pertama, <b>Anda dapat menggeser ke kiri atau kanan pada editor</b>.</string>
   <string name="switchToAlipayPaymentMethod">Beralih ke metode pembayaran Alipay</string>
@@ -554,4 +554,25 @@
   <string name="skuActive">Aktif</string>
   <string name="activating">Mengaktifkan…</string>
   <string name="updating">Memperbarui…</string>
+  <string name="themesAndPapers"><![CDATA[Tema & Wallpaper]]></string>
+  <string name="once">pernah</string>
+  <string name="selectALightTheme">Pilih tema ringan</string>
+  <string name="selectADarkTheme">Pilih tema gelap</string>
+  <string name="selectATheme">Pilih tema</string>
+  <string name="tipBadPaper">Gambar atau warna yang Anda pilih tidak memenuhi persyaratan, silakan pilih lagi</string>
+  <string name="fixedThemeTitle">Tetap, jangan beralih secara otomatis</string>
+  <string name="followSystemThemeTitle">Ikuti sistem (Sinkronkan dengan OS)</string>
+  <string name="scheduledThemeTitle">Saklar otomatis sesuai waktu:\n7:00-17:00 gunakan tema terang, jika tidak tema gelap</string>
+  <string name="paperSettingsHint">Klik untuk memilih atau menyesuaikan wallpaper/tema</string>
+  <string name="lightTheme">Tema ringan</string>
+  <string name="darkTheme">Tema gelap</string>
+  <string name="autoComplete">Pelengkapan otomatis</string>
+  <string name="autoCompleteSummary">Lengkapi simbol berpasangan secara otomatis hanya ketika kursor berada <b>di akhir</b> artikel</string>
+  <string name="autoDeleteSymbolsInPairs">Hapus simbol secara otomatis berpasangan</string>
+  <string name="autoDeleteSymbolsInPairsSummary">Hanya jika konten dalam simbol berpasangan <b>kosong</b></string>
+  <string name="realYes">Ya</string>
+  <string name="realNo">Tidak</string>
+  <string name="whetherOverwriteSettings">Apakah Anda ingin menimpa pengaturan lokal?</string>
+  <string name="askOverwriteSettings">Kami akan menggunakan database artikel di file cadangan Anda untuk menimpa database artikel lokal, tetapi kami tidak tahu apakah Anda memerlukan kami untuk menggunakan pengaturan di file cadangan untuk menimpa pengaturan lokal. Tolong pilih:</string>
+  <string name="privacyPolicySummary">Kami tidak akan mengumpulkan informasi pribadi Anda</string>
 </resources>

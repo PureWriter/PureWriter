@@ -626,7 +626,7 @@
   <string name="typewriterModeMode0">Paragraph mode</string>
   <string name="typewriterModeMode1">Line mode</string>
   <string name="whyNoProForChineseUser" translatable="false">(<u>为什么没激活？</u>)</string>
-  <string name="restoreOptionsMessage">Do you need to use this backup to overwrite the local content or merge it into the local content?\n\nNote: If you choose Merge, the settings and cloud backup account information in the backup file will not be merged, and you may need to reconfigure them manually.</string>
+  <string name="restoreOptionsMessage">Do you need to use this backup to overwrite the local content or merge it into the local content?\n\nNote: If you choose Merge, the settings and cloud backup account information in the backup file will not be merged, and you may need to reconfigure them manually.\n\nIn addition, if you modify the order of articles or delete articles, these operations will not be merged, because this will cause conflicts. <b>So we recommend that you use \"overwrite\", and if you modify the data on one device, you should immediately synchronize the data on the other device through \"overwrite\". </b></string>
   <string name="merge">Merge</string>
   <string name="merging">Merging…</string>
   <string name="checkIntegrityOfBackup">Check the integrity of the backup file…</string>
@@ -655,7 +655,7 @@
   <string name="optionsForLandscape"><![CDATA[Landscape settings & guidelines]]></string>
   <string name="editInVerticalCenter">Edit in vertical center</string>
   <string name="onlyWorkForHardwareKeyboard">Only work for hardware keyboard</string>
-  <string name="editInVerticalCenterSummary">Makes the currently edited line is always in the middle of the screen</string>
+  <string name="editInVerticalCenterSummary">Makes the currently edited line is always in the middle of the screen (May be invalid, this is an input method problem, sorry for that!)</string>
   <string name="migrateImageAssets">Migrate Markdown images to Documents/PureWriter/Assets directory</string>
   <string name="migrateImageAssetsSummary">This helps you to centrally transfer all the images referenced by your Markdown to your new device. After this operation, you can copy the Documents/PureWriter/Assets folder to the same directory of the new device and then restore the device Backup to the new device, so that the new device can smoothly reference the original images.</string>
   <string name="tipForFromPlayToAlipay">To use this payment method, please make sure you are in mainland China. This payment method is in principle only available to users in mainland China, because Google and Google Play cannot be used to pay in China.</string>
@@ -666,4 +666,21 @@
   <string name="notesForGoogleSkus">Important:\n\n* Since Google does not provide an interface for canceling subscriptions, if you need to cancel a subscription, you need to click on your subscription or the \"Unsubscribe?\" above to proceed.\n\n* After you cancel the subscription of this app on Google Play, the app will not receive the latest status immediately, so you will see that the subscription item is still in the \"active\" state on this page. This is a normal phenomenon. You will get the correct result the next day, or wait until the end of the current subscription period.\n\n* If you plan to switch from a subscription to the \"Lifetime\" item, you should cancel your subscription first, and then purchase the \"Lifetime\" item. This app cannot cancel your subscription by itself.\n\n* If you encounter the DF-DFERH-01 error during the payment process, please try to restart your device and try again.\n\n* The payment result will be automatically bound to your system Google account, thanks!</string>
   <string name="activating">Activating…</string>
   <string name="updating">Updating…</string>
+  <string name="themesAndPapers"><![CDATA[Themes & Wallpapers]]></string>
+  <string name="once">ever</string>
+  <string name="selectALightTheme">Select a light theme</string>
+  <string name="selectADarkTheme">Select a dark theme</string>
+  <string name="selectATheme">Select a theme</string>
+  <string name="tipBadPaper">The image or color you selected does not meet the requirement, please select again</string>
+  <string name="fixedThemeTitle">Fixed, don\'t switch automatically</string>
+  <string name="followSystemThemeTitle">Follow system (Sync with OS)</string>
+  <string name="scheduledThemeTitle">Auto switch according to time:\n7:00-17:00 use light theme, otherwise dark theme</string>
+  <string name="paperSettingsHint">Click to select or customize wallpaper/theme</string>
+  <string name="lightTheme">Light theme</string>
+  <string name="darkTheme">Dark theme</string>
+  <string name="whetherOverwriteSettings">Overwrite local settings?</string>
+  <string name="realNo">No</string>
+  <string name="realYes">Yes</string>
+  <string name="askOverwriteSettings">We will use the article database in your backup file to overwrite the local article database, but we don\'t know if you need us to use the settings in the backup file to overwrite the local settings. Please choose:</string>
+  <string name="privacyPolicySummary">We will not collect any of your private information</string>
 </resources>

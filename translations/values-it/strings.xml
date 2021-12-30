@@ -547,7 +547,7 @@
   <string name="desktopDialogNote">Nota: Pure Writer Desktop è ancora nella sua fase alpha. Si prega di comprendere e attendere i suoi successivi aggiornamenti.\n* Se vedi più righe di indirizzi IP, prova a collegarle una per una.</string>
   <string name="autoConnectToDesktop">Connessione automatica alla versione desktop</string>
   <string name="autoConnectToDesktopNextTime">Connettiti automaticamente al desktop la prossima volta</string>
-  <string name="restoreOptionsMessage">È necessario utilizzare questo backup per sovrascrivere il contenuto locale o unirlo al contenuto locale?\n\nNota: se si sceglie Unisci, le impostazioni e le informazioni sull\'account di backup cloud nel file di backup non verranno unite e potrebbe essere necessario riconfigurarle manualmente.</string>
+  <string name="restoreOptionsMessage">È necessario utilizzare questo backup per sovrascrivere il contenuto locale o unirlo al contenuto locale?\n\nNota: se si sceglie Unisci, le impostazioni e le informazioni sull\'account di backup cloud nel file di backup non verranno unite e potrebbe essere necessario riconfigurarle manualmente.\n\nInoltre, se si modifica l\'ordine degli articoli o si eliminano articoli, queste operazioni non verranno unite, poiché ciò causerebbe conflitti. <b>Quindi ti consigliamo di utilizzare \"sovrascrivi\" e se modifichi i dati su un dispositivo, dovresti immediatamente sincronizzare i dati sull\'altro dispositivo tramite \"sovrascrivi\". </b></string>
   <string name="merge">Unisci</string>
   <string name="editor2Tip">Sei nel secondo editor e la sua icona in alto è di fronte al primo editor. Se vuoi tornare al primo editor, <b>puoi scorrere verso sinistra o destra sull\'editor</b>.</string>
   <string name="switchToAlipayPaymentMethod">Passa al metodo di pagamento Alipay</string>
@@ -558,4 +558,25 @@
   <string name="skuActive">Attiva</string>
   <string name="activating">Attivazione...</string>
   <string name="updating">In aggiornamento…</string>
+  <string name="themesAndPapers">Temi e sfondi</string>
+  <string name="once">sempre</string>
+  <string name="selectALightTheme">Seleziona un tema chiaro</string>
+  <string name="selectADarkTheme">Seleziona un tema scuro</string>
+  <string name="selectATheme">Seleziona un tema</string>
+  <string name="tipBadPaper">L\'immagine o il colore che hai selezionato non soddisfa i requisiti, seleziona di nuovo</string>
+  <string name="fixedThemeTitle">Risolto, non cambiare automaticamente</string>
+  <string name="followSystemThemeTitle">Segui il sistema (Sincronizza con il sistema operativo)</string>
+  <string name="scheduledThemeTitle">Commutazione automatica in base al tempo:\n7:00-17:00 usa il tema chiaro, altrimenti il tema scuro</string>
+  <string name="paperSettingsHint">Fare clic per selezionare o personalizzare lo sfondo/tema</string>
+  <string name="lightTheme">Tema chiaro</string>
+  <string name="darkTheme">Tema scuro</string>
+  <string name="autoComplete">Completamento automatico</string>
+  <string name="autoCompleteSummary">Completa automaticamente i simboli accoppiati solo quando il cursore è <b>alla fine</b> dell\'articolo</string>
+  <string name="autoDeleteSymbolsInPairs">Elimina automaticamente i simboli in coppia</string>
+  <string name="autoDeleteSymbolsInPairsSummary">Solo quando il contenuto nel simbolo associato è <b>vuoto</b></string>
+  <string name="realYes">sì</string>
+  <string name="realNo">No</string>
+  <string name="whetherOverwriteSettings">Volete sovrascrivere le impostazioni locali?</string>
+  <string name="askOverwriteSettings">Useremo il database degli articoli nel tuo file di backup per sovrascrivere il database locale degli articoli, ma non sappiamo se hai bisogno che usiamo le impostazioni nel file di backup per sovrascrivere le impostazioni locali. Per favore scegliete:</string>
+  <string name="privacyPolicySummary">Non raccoglieremo nessuna delle sue informazioni private</string>
 </resources>
