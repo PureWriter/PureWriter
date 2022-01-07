@@ -556,7 +556,7 @@
   <string name="mode">Modo</string>
   <string name="autoConnectToDesktop">Auto-conexão com a versão Desktop</string>
   <string name="autoConnectToDesktopNextTime">Conectar-se automaticamente à área de trabalho na próxima vez</string>
-  <string name="restoreOptionsMessage">Você precisa usar este backup para sobrescrever o conteúdo local ou fundi-lo com o conteúdo local?\n\nNota: Se você escolher Mesclar/Fundir, as configurações e informações da conta de backup em nuvem no arquivo de backup não serão mescladas, e você pode precisar reconfigurá-las manualmente.</string>
+  <string name="restoreOptionsMessage">Você precisa usar este backup para sobrescrever o conteúdo local ou fundi-lo com o conteúdo local?\n\nNota: Se você escolher Mesclar/Fundir, as configurações e informações da conta de backup em nuvem no arquivo de backup não serão mescladas, e você pode precisar reconfigurá-las manualmente.\n\nAlém disso, se você modificar a ordem dos artigos ou eliminar artigos, estas operações não serão fundidas, pois isto causará conflitos. <b> Então, recomendamos que você use \"sobrescrever\", e se você modificar os dados em um dispositivo, você deve imediatamente sincronizar os dados no outro dispositivo através de \"sobrescrever\". </b></string>
   <string name="merge">Fundir</string>
   <string name="editor2Tip">Você está no segundo editor, e seu ícone superior é oposto ao primeiro editor. Se você quiser voltar ao primeiro editor, <b>você pode deslizar para a esquerda ou direita no editor</b>.</string>
   <string name="switchToAlipayPaymentMethod">Mudar para o método de pagamento Alipay</string>
@@ -567,4 +567,25 @@
   <string name="skuActive">Ativa</string>
   <string name="updating">Atualizando...</string>
   <string name="activating">Ativando...</string>
+  <string name="themesAndPapers">Temas</string>
+  <string name="once">sempre</string>
+  <string name="selectALightTheme">Selecione um tema leve</string>
+  <string name="selectADarkTheme">Selecione um tema sombrio</string>
+  <string name="selectATheme">Selecione um tema</string>
+  <string name="tipBadPaper">A imagem ou cor que você selecionou não atende ao requisito, favor selecionar novamente</string>
+  <string name="fixedThemeTitle">Fixo, sem comutação automática</string>
+  <string name="followSystemThemeTitle">Sistema de acompanhamento (Sync with OS)</string>
+  <string name="scheduledThemeTitle">Interruptor automático de acordo com o tempo:\n7:00-17:00 usar tema claro, caso contrário tema escuro</string>
+  <string name="paperSettingsHint">Clique para selecionar ou personalizar o papel de parede/tema</string>
+  <string name="lightTheme">Tema leve</string>
+  <string name="darkTheme">Tema sombrio</string>
+  <string name="autoComplete">Autocompletar</string>
+  <string name="autoCompleteSummary">Símbolos emparelhados completos automaticamente somente quando o cursor estiver <b> no final</b> do artigo</string>
+  <string name="autoDeleteSymbolsInPairs">Símbolos de exclusão automática em pares</string>
+  <string name="autoDeleteSymbolsInPairsSummary">Somente quando o conteúdo no símbolo emparelhado for <b>empty</b></string>
+  <string name="realYes">Sim</string>
+  <string name="realNo">Não</string>
+  <string name="whetherOverwriteSettings">Você quer sobrescrever as configurações locais?</string>
+  <string name="askOverwriteSettings">Usaremos o banco de dados de artigos em seu arquivo de backup para sobrescrever o banco de dados local de artigos, mas não sabemos se você precisa que usemos as configurações no arquivo de backup para sobrescrever as configurações locais. Por favor, escolha:</string>
+  <string name="privacyPolicySummary">Não coletaremos nenhuma de suas informações particulares</string>
 </resources>

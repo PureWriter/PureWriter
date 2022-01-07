@@ -545,8 +545,8 @@
   <string name="desktopConnected">데스크탑이 연결됨</string>
   <string name="desktopDialogNote">참고 : Pure Writer Desktop은 아직 알파 단계입니다. 양해 부탁드리며, 후속 업데이트를 기다려 주세요.\n* 여러 줄의 IP 주소가 표시되는 경우 하나씩 연결해보십시오.</string>
   <string name="autoConnectToDesktop">데스크탑 버전에 자동 연결</string>
-  <string name="autoConnectToDesktopNextTime">다음에 데스크탑에 자동으로 연결하기</string>
-  <string name="restoreOptionsMessage">이 백업을 사용하여 로컬 콘텐츠를 덮어쓰거나 로컬 콘텐츠에 병합해야 합니까?\n\n참고: 병합을 선택하면 백업 파일의 설정 및 클라우드 백업 계정 정보가 병합되지 않으며 수동으로 재구성해야 할 수 있습니다.</string>
+  <string name="autoConnectToDesktopNextTime">다음에 데스크탑에 자동으로 연결</string>
+  <string name="restoreOptionsMessage">이 백업을 사용하여 로컬 콘텐츠를 덮어쓰거나 로컬 콘텐츠에 병합해야 합니까?\n\n참고: 병합을 선택하면 백업 파일의 설정 및 클라우드 백업 계정 정보가 병합되지 않으며 수동으로 재구성해야 할 수 있습니다.\n\n또한 기사의 순서를 수정하거나 기사를 삭제하면 충돌이 발생하므로 이러한 작업이 병합되지 않습니다. <b>따라서 \"덮어쓰기\"를 사용하는 것이 좋으며, 한 장치에서 데이터를 수정하는 경우 \"덮어쓰기\"를 통해 다른 장치의 데이터를 즉시 동기화해야 합니다. </b></string>
   <string name="merge">병합</string>
   <string name="editor2Tip">현재 제2 편집기에 있고, 상단 아이콘은 제1 편집기와 반대쪽에 있습니다. 제1 편집기로 돌아가려면 <b>편집기에서 왼쪽이나 오른쪽으로 스와이프</b>하세요.</string>
   <string name="switchToAlipayPaymentMethod">Alipay 결제 수단으로 전환</string>
@@ -557,4 +557,25 @@
   <string name="skuActive">구독 중</string>
   <string name="activating">활성화 중…</string>
   <string name="updating">업데이트 중…</string>
+  <string name="themesAndPapers">테마 및 배경 화면</string>
+  <string name="once">한번</string>
+  <string name="selectALightTheme">밝은 테마 선택</string>
+  <string name="selectADarkTheme">어두운 테마 선택</string>
+  <string name="selectATheme">테마 선택</string>
+  <string name="tipBadPaper">선택한 이미지 또는 색상이 요구 사항을 충족하지 않습니다. 다시 선택하십시오.</string>
+  <string name="fixedThemeTitle">수정됨, 자동으로 전환하지 않음</string>
+  <string name="followSystemThemeTitle">시스템 팔로우(OS와 동기화)</string>
+  <string name="scheduledThemeTitle">시간에 따른 자동 전환:\n7:00-17:00 밝은 테마 사용, 그렇지 않으면 어두운 테마 사용</string>
+  <string name="paperSettingsHint">배경 화면/테마를 선택하거나 사용자 지정하려면 클릭하세요.</string>
+  <string name="lightTheme">밝은 테마</string>
+  <string name="darkTheme">어두운 테마</string>
+  <string name="autoComplete">자동 완성</string>
+  <string name="autoCompleteSummary">커서가 기사의 <b>끝</b>에 있을 때만 쌍을 이루는 기호를 자동으로 완성합니다.</string>
+  <string name="autoDeleteSymbolsInPairs">쌍으로 기호 자동 삭제</string>
+  <string name="autoDeleteSymbolsInPairsSummary">쌍을 이루는 기호의 내용이 <b>비어 있는</b> 경우에만</string>
+  <string name="realYes">네</string>
+  <string name="realNo">아니</string>
+  <string name="whetherOverwriteSettings">로컬 설정을 덮어쓰시겠습니까?</string>
+  <string name="askOverwriteSettings">백업 파일의 기사 데이터베이스를 사용하여 로컬 기사 데이터베이스를 덮어쓰지만 백업 파일의 설정을 사용하여 로컬 설정을 덮어써야 하는지 여부는 알 수 없습니다. 선택하십시오:</string>
+  <string name="privacyPolicySummary">우리는 귀하의 개인 정보를 수집하지 않습니다</string>
 </resources>

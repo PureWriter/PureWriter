@@ -546,7 +546,7 @@
   <string name="desktopDialogNote">Remarque: Pure Writer Desktop est toujours dans sa phase alpha. Veuillez comprendre et attendre ses mises à jour ultérieures.\n* Si vous voyez plusieurs lignes d\'adresses IP, essayez de les connecter une par une.</string>
   <string name="autoConnectToDesktop">Se connecter automatiquement à la version de bureau</string>
   <string name="autoConnectToDesktopNextTime">Se connecter automatiquement au bureau la prochaine fois</string>
-  <string name="restoreOptionsMessage">Avez-vous besoin d\'utiliser cette sauvegarde pour écraser le contenu local ou le fusionner dans le contenu local?\n\nRemarque : si vous choisissez Fusionner, les paramètres et les informations de compte de sauvegarde cloud dans le fichier de sauvegarde ne seront pas fusionnés et vous devrez peut-être les reconfigurer manuellement.</string>
+  <string name="restoreOptionsMessage">Avez-vous besoin d\'utiliser cette sauvegarde pour écraser le contenu local ou le fusionner dans le contenu local?\n\nRemarque : si vous choisissez Fusionner, les paramètres et les informations de compte de sauvegarde cloud dans le fichier de sauvegarde ne seront pas fusionnés et vous devrez peut-être les reconfigurer manuellement.\n\nDe plus, si vous modifiez l\'ordre des articles ou supprimez des articles, ces opérations ne seront pas fusionnées, car cela provoquera des conflits. <b>Nous vous recommandons donc d\'utiliser \"écraser\", et si vous modifiez les données sur un appareil, vous devez immédiatement synchroniser les données sur l\'autre appareil via \"écraser\". </b></string>
   <string name="merge">Fusionner</string>
   <string name="editor2Tip">Vous êtes dans le deuxième éditeur et son icône du haut est à l\'opposé du premier éditeur. Si vous souhaitez revenir au premier éditeur, vous pouvez <b>balayer vers la gauche ou la droite sur l\'éditeur</b>.</string>
   <string name="switchToAlipayPaymentMethod">Passer au mode de paiement Alipay</string>
@@ -557,4 +557,25 @@
   <string name="skuActive">Actif</string>
   <string name="activating">Activation…</string>
   <string name="updating">Mise à jour…</string>
+  <string name="themesAndPapers">Thèmes</string>
+  <string name="once">jamais</string>
+  <string name="selectALightTheme">Sélectionnez un thème lumineux</string>
+  <string name="selectADarkTheme">Sélectionnez un thème sombre</string>
+  <string name="selectATheme">Sélectionnez un thème</string>
+  <string name="tipBadPaper">L\'image ou la couleur que vous avez sélectionnée ne répond pas aux exigences, veuillez sélectionner à nouveau</string>
+  <string name="fixedThemeTitle">Fixe, ne change pas automatiquement</string>
+  <string name="followSystemThemeTitle">Suivre le système (Sync avec OS)</string>
+  <string name="scheduledThemeTitle">Commutation automatique en fonction de l\'heure:\n7h00-17h00 utiliser le thème clair, sinon le thème sombre</string>
+  <string name="paperSettingsHint">Cliquez pour sélectionner ou personnaliser le fond d\'écran/thème</string>
+  <string name="lightTheme">Thème de la lumière</string>
+  <string name="darkTheme">Thème sombre</string>
+  <string name="autoComplete">Saisie automatique</string>
+  <string name="autoCompleteSummary">Complétez automatiquement les symboles appariés uniquement lorsque le curseur est <b>à la fin</b> de l\'article</string>
+  <string name="autoDeleteSymbolsInPairs">Supprimer automatiquement les symboles par paires</string>
+  <string name="autoDeleteSymbolsInPairsSummary">Uniquement lorsque le contenu du symbole associé est <b>vide</b></string>
+  <string name="realYes">Oui</string>
+  <string name="realNo">Non</string>
+  <string name="whetherOverwriteSettings">Voulez-vous écraser les paramètres locaux ?</string>
+  <string name="askOverwriteSettings">Nous utiliserons la base de données d\'articles de votre fichier de sauvegarde pour écraser la base de données d\'articles locale, mais nous ne savons pas si vous souhaitez que nous utilisions les paramètres du fichier de sauvegarde pour écraser les paramètres locaux. Veuillez choisir :</string>
+  <string name="privacyPolicySummary">Nous ne collecterons aucune de vos informations privées</string>
 </resources>

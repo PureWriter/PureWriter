@@ -538,7 +538,7 @@
   <string name="desktopConnected">Desktop is aangesloten</string>
   <string name="autoConnectToDesktop">Maak automatisch verbinding met de desktopversie</string>
   <string name="autoConnectToDesktopNextTime">De volgende keer automatisch verbinding maken met het bureaublad</string>
-  <string name="restoreOptionsMessage">Moet u deze back-up gebruiken om de lokale inhoud te overschrijven of deze samen te voegen met de lokale inhoud?\n\nOpmerking: als u Samenvoegen kiest, worden de instellingen en de accountgegevens van de cloudback-up in het back-upbestand niet samengevoegd en moet u ze mogelijk handmatig opnieuw configureren.</string>
+  <string name="restoreOptionsMessage">Moet u deze back-up gebruiken om de lokale inhoud te overschrijven of deze samen te voegen met de lokale inhoud?\n\nOpmerking: als u Samenvoegen kiest, worden de instellingen en de accountgegevens van de cloudback-up in het back-upbestand niet samengevoegd en moet u ze mogelijk handmatig opnieuw configureren.\n\nAls u bovendien de volgorde van artikelen wijzigt of artikelen verwijdert, worden deze bewerkingen niet samengevoegd, omdat dit voor conflicten zorgt. <b>Dus we raden u aan \"overschrijven\" te gebruiken en als u de gegevens op het ene apparaat wijzigt, moet u de gegevens op het andere apparaat onmiddellijk synchroniseren via \"overschrijven\". </b></string>
   <string name="merge">Samenvoegen</string>
   <string name="editor2Tip">U bevindt zich in de tweede editor en het bovenste pictogram staat tegenover de eerste editor. Als u wilt terugkeren naar de eerste editor, kunt u <b>naar links of rechts vegen op de editor</b>.</string>
   <string name="switchToAlipayPaymentMethod">Overschakelen naar Alipay-betaalmethode</string>
@@ -549,4 +549,25 @@
   <string name="skuActive">Actief</string>
   <string name="activating">Activeren…</string>
   <string name="updating">Updaten…</string>
+  <string name="themesAndPapers">Thema\'s</string>
+  <string name="once">ooit</string>
+  <string name="selectALightTheme">Selecteer een licht thema</string>
+  <string name="selectADarkTheme">Selecteer een donker thema</string>
+  <string name="selectATheme">Kies een thema</string>
+  <string name="tipBadPaper">De afbeelding of kleur die je hebt geselecteerd voldoet niet aan de vereiste, selecteer opnieuw</string>
+  <string name="fixedThemeTitle">Vast, niet automatisch overschakelen</string>
+  <string name="followSystemThemeTitle">Systeem volgen (Synchroniseren met OS)</string>
+  <string name="scheduledThemeTitle">Automatisch schakelen volgens tijd:\n7:00-17:00 gebruik een licht thema, anders een donker thema</string>
+  <string name="paperSettingsHint">Klik om achtergrond/thema te selecteren of aan te passen</string>
+  <string name="lightTheme">Licht thema</string>
+  <string name="darkTheme">Donker thema</string>
+  <string name="autoComplete">Automatisch aanvullen</string>
+  <string name="autoCompleteSummary">Vul gekoppelde symbolen alleen automatisch in als de cursor <b>aan het einde</b> van het artikel staat</string>
+  <string name="autoDeleteSymbolsInPairs">Symbolen automatisch verwijderen in paren</string>
+  <string name="autoDeleteSymbolsInPairsSummary">Alleen wanneer de inhoud in het gekoppelde symbool <b>leeg</b> is</string>
+  <string name="realYes">Ja</string>
+  <string name="realNo">Nee</string>
+  <string name="whetherOverwriteSettings">Wilt u de lokale instellingen overschrijven?</string>
+  <string name="askOverwriteSettings">Wij zullen de artikeldatabase in uw backupbestand gebruiken om de lokale artikeldatabase te overschrijven, maar we weten niet of u wilt dat wij de instellingen in het backupbestand gebruiken om de lokale instellingen te overschrijven. Kiest u alstublieft:</string>
+  <string name="privacyPolicySummary">Wij zullen geen van uw prive-informatie verzamelen</string>
 </resources>
