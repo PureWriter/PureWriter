@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="pureWriterLauncher">PureWriter</string>
+  <string name="pureWriter">Pure Writer</string>
+  <string name="titleHint">Cím</string>
+  <string name="editorTipAMenu">Először ki kell választania néhány szöveget</string>
+  <string name="editorHintContent">Kezdj el írni egy kis tartalmat...</string>
+  <string name="slogan">Gyors | Félelmetes élmény | Soha nem veszíti el a tartalmát</string>
+  <string name="iconDesc">A Pure Writer ikonja egy időgép\nAz időgép előre lebeg. Kívánságszavakkal a múlttal és a jövővel való összekapcsolódásra...</string>
+  <string name="undo">Undo</string>
+  <string name="redo">Redo</string>
+  <string name="about">Rólunk | Segítség</string>
+  <string name="defaultContent">Örvendek!\nEz egy gyors egyszerű szövegszerkesztő, amelyet úgy terveztek, hogy mi szerintünk \"jó írási élménynek\" kell lennie. A Pure Writer <b>minimalista, és lehetővé teszi, hogy bármikor és bárhol kedved szerint írj anélkül, hogy attól félne, hogy újra elveszíti a tartalmat.</b>\nA Pure Writer sor- és bekezdésköz funkciójával a szöveg világosabb és kényelmesebben olvasható. Nem csak ez, hanem sima görgetés, csúsztatással összecsukható billentyűzet és még sok más izgalmas funkció.\nAz egyszerűség rejtett bonyolultság. Titkosíthatja munkáját ujjlenyomatával, bármikor elkezdheti vagy leállíthatja az írást, és gyorsan megoszthatja tartalmát más alkalmazásokkal – mi gondoskodunk róla.\nA legfontosabb, <b>hacsak nem törli manuálisan, soha nem fogja elveszíteni a munkáját a szövegszerkesztő használata közben. Legyen szó véletlen törlésről vagy váratlan leállásról, továbbra is visszaállíthatja az előzményekből.</b>\nTovábbi funkciók: WebDAV felhőalapú biztonsági mentés, Material Design 2 téma, Markdown, írógép mód, exportálás hosszú szöveges képként, Time Machine…\nGyors és sima. Bármikor, bárhol megszakíthatja és folytathatja az írást.\nÉlvezze a Pure Writer használatát.</string>
+  <string name="share">Megosztás egy másik alkalmazással</string>
+  <string name="copyTitle">Másolja a címet</string>
+  <string name="lock">Lock</string>
+  <string name="history">Történelem</string>
+  <string name="tipShouldUnlock">Kérjük, először oldja fel</string>
+  <string name="tipShouldSetupFingerprint">Először hozzon létre ujjlenyomatot a rendszerbeállításokban!</string>
+  <string name="sendContentTo">"Küldje el a tartalmat a következő címre: "</string>
+  <string name="failedTitleIsEmpty">A cím nem lehet üres</string>
+  <string name="failedContentIsEmpty">A tartalom nem lehet üres</string>
+  <string name="copyTheTitleSuccessfully">Sikeresen lemásoltam a címet!</string>
+  <string name="copyTheContentSuccessfully">A tartalom másolása sikeres volt!</string>
+  <string name="titleAndContentAreEmpty">A cím és a tartalom üres!</string>
+  <string name="clearThisContent"><b>Törölje</b> ezt a tartalmat</string>
+  <string name="copyContent">A tartalom másolása</string>
+  <string name="wordCountShort">Count</string>
+  <string name="wordCountLong">Szószám</string>
+  <string name="wordCountOfCurrentArticle">A jelenlegi cikk teljes szószáma</string>
+  <string name="floatingWordCount">Lebegő szószám</string>
+  <string name="historyState">Megmentett</string>
+  <string name="tipNeedFingerprint">A megtekintéshez és szerkesztéshez kérjük, először az ujjlenyomatát használja a feloldáshoz.</string>
+  <string name="empty">Üres</string>
+  <string name="isRevertToThisFile">Visszaszerezni ezt a dokumentumot?</string>
+  <string name="noMore">Semmi több!</string>
+  <string name="goOn">Folytatás</string>
+  <string name="reject">Hulladék</string>
+  <string name="defaultTitle">Ahogy kívánod</string>
+  <string name="tipPermissionFailed">Az engedélyt nem adják meg. Az előzmények nem menthetők.</string>
+  <string name="titleStorePermissionFailed">Tárolási engedély megtagadva</string>
+  <string name="tipMessageStoragePermissionFirst">Kérjük, adjon engedélyt a tárolójához való hozzáférésre. A Pure Writer csak automatikus biztonsági mentésre használja a fájljait, hogy megakadályozza azok elvesztését!</string>
+  <string name="tipMessageStoragePermissionToSettings">Hozzáférésre van szükségünk a tárhelyéhez, hogy automatikusan mentse a fájljait. Kérjük, adja meg a hozzáférést manuálisan a készülék beállításaiban!</string>
+  <string name="actionOkGoSettings">Menjen a Beállítások menüpontba</string>
+  <string name="tipFingerAuthRetry">Nem sikerült felismerni az ujjlenyomatot. Még %d próbálkozás(ok) van(nak) hátra.</string>
+  <string name="tipFingerAuthFailed">Ujjlenyomat felfüggesztve. Kérjük, próbálja meg újra 1 perc múlva. Kilépés a Pure Writerből...</string>
+  <string name="tipRichText">A Pure Writer célja, hogy a felhasználók számára minimalista írói környezetet biztosítson, ezért nem tervezik a Rich Text funkció beépítését a jövőbeni fejlesztésekbe. Lehet, hogy észrevett néhány <b>félkövér szöveget</b> az előnézetben, de ez azért van, mert ez egy rejtett funkció – ráadásul a félkövér szedés nem jeleníthető meg .txt fájlokban. Sajnálom! Ha van jobb javaslata, forduljon hozzám. Köszönöm a támogatásod!</string>
+  <string name="settings">Beállítások</string>
+  <string name="on">On (English)</string>
+  <string name="off">Off (English)</string>
+  <string name="shortcutBar">Parancsikon sáv</string>
+  <string name="insertBlankLinesWhenExporting">Extra sorok hozzáadása exportáláskor</string>
+  <string name="indent">Behúzás</string>
+  <string name="format">Formátum</string>
+  <string name="iKnow">Megvan.</string>
+  <string name="contentTextSize">Tartalom betűméret</string>
+  <string name="tipIndent">Megjegyzés: A behúzás nem befolyásolja a meglévő szöveget.</string>
+  <string name="explanation">Magyarázat</string>
+  <string name="tipInsertBlankLines">Amíg ez a beállítás be van kapcsolva, a szöveg másolásakor vagy megosztásakor minden bekezdéshez egy plusz sor kerül hozzáadásra. Mivel a speciális bekezdésköz csak a Pure Writerben van megadva, az alkalmazáson kívül ugyanez a hatás csak extra sorokkal érhető el.</string>
+  <string name="deleteObsoleteFiles">Elavult fájlok törlése</string>
+  <string name="dayNightMode">Éjszakai üzemmód</string>
+  <string name="summaryPay">Pro funkciók beszerzése</string>
+  <string name="tipSettingNotSupport">Ez a beállítás még fejlesztés alatt áll.</string>
+  <string name="promptShortcutTitle">Rövid leírás (opcionális)</string>
+  <string name="promptShortcutContent">Shortcut tartalom (kötelező)</string>
+  <string name="createShortcut">Szöveges parancsikon létrehozása</string>
+  <string name="noteShortcutCursorIndex">A cikk beillesztése után a kurzor helyének beállításához mozgassa a kurzor pozícióját a tartalomban.</string>
+  <string name="indentShort">Behúzás</string>
+  <string name="delete">Törlés</string>
+  <string name="messageDeleteShortcut">Kattintson az OK gombra a parancsikon törléséhez</string>
+  <string name="features">Jellemzők</string>
+  <string name="sendTextFailedForTooLarge">A szöveged túl hosszú ahhoz, hogy közvetlenül elküldhessük más alkalmazásoknak. A szöveget már átmásolta a vágólapra.</string>
+  <string name="previewAndExport">Előnézet és exportálás...</string>
+  <string name="hasSavedToYourAlbum">Albumba mentve</string>
+  <string name="preview">Előnézet</string>
+  <string name="proReadMe">Ha úgy érzed, hogy a Pure Writer hasznos, és szeretnéd, ha tovább fejlesztenéd, hajlandó lenne néhány dollárral hozzájárulni a fejlesztőnek?\n\nAz Ön támogatása arra ösztönzi az olyan független fejlesztőket, mint én, hogy még több jól felépített alkalmazást fejlesszenek és vigyenek el Önnek.\n\nA támogatáshoz kattintson a Google Play gombra. <b>A hozzájárulás után ingyenes Pro-funkciókat kap, például Material Design 2, Vázlat, Exportálás, Egyedi papír/háttér, valamint a jövőbeni frissítések elismerése jeléül.</b>\nA hozzád hasonló támogatók miatt a Pure Writer arra törekszik, hogy jobb és naprakész legyen. Végül köszönöm a támogatást!</string>
+  <string name="tipRequirePro">Ez egy Pro funkció</string>
+  <string name="cancel">Törölje</string>
+  <string name="no">Törölje</string>
+  <string name="summaryPaid">Pro aktiválva</string>
+  <string name="labelUpdate">Egy új Pure Writer %1$s érhető el</string>
+  <string name="update">Frissítés</string>
+  <string name="messageDeleteArticlesToTrash">Biztos, hogy törölni akarja ezeket a cikkeket, és a szemetesbe akarja tenni őket?</string>
+  <string name="tipPurchasedStatusFailed">Vásárolt. Ha a vásárlási státusz nem frissült, kérjük, próbáljon meg újra a Pro elemre kattintani (így nem kell duplán fizetnie).</string>
+  <string name="ok">Jó</string>
+  <string name="yes">Jó</string>
+  <string name="createNew">Új cikk létrehozása</string>
+  <string name="autoLock">Automatikus reteszelés</string>
+  <string name="enabled">Engedélyezve</string>
+  <string name="titleOpenImportedFile">Úgy találta, hogy külső fájlt nyitott meg, kérjük, válasszon ki egy műveletet.</string>
+  <string name="copied">Másolva</string>
+  <string name="sort">Rendezési típus</string>
+  <string name="sortTypeModifiedTimeDown">Módosított idő</string>
+  <string name="sortTypeCreatedTimeDown">Létrehozott idő</string>
+  <string name="warningSavedFailed">A cikk mentése nem sikerült. Kérjük, másolja a tartalmat, és próbálja meg újraindítani az alkalmazást, hogy ellenőrizze, nem veszett-e el tartalom.</string>
+  <string name="backupNow">Biztonsági mentés most</string>
+  <string name="backupToLocalNow">Biztonsági mentés a helyi tárhelyre most</string>
+  <string name="backupToCloudNow">Biztonsági mentés felhő tárhelyre most</string>
+  <string name="summaryBackupToLocal">A biztonsági másolat fájl a Documents/PureWriter/Backups mappába kerül</string>
+  <string name="summaryBackupToCloud">A biztonsági másolat fájl a felhő tárhelyre kerül mentésre, ha be van állítva.</string>
+  <string name="restoreBackup">Biztonsági mentés visszaállítása</string>
+  <string name="summaryRestoreTheBackup">A biztonsági másolat fájl a Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto és a WebDAV, Dropbox vagy GoogleDrive mappából lesz letöltve.</string>
+  <string name="backupSuccessful">Biztonsági mentés sikeres</string>
+  <string name="restoreSuccessful">Biztonsági mentés sikeresen visszaállítva</string>
+  <string name="tipBackupList">Itt vannak a biztonsági mentési fájljai. Kattintással visszaállíthatja őket.\n<b>Ha biztonsági mentési fájlokat szeretne lekérni a Dropbox/WebDAV/GoogleDrive-ból, kérjük, először jelentkezzen be Dropbox/WebDAV/GoogleDrive-fiókjába!</b></string>
+  <string name="tipBackupNotExist">A biztonsági másolat fájl nem létezik. Kérjük, helyezze el a biztonsági másolatot a Documents/PureWriter/Backups könyvtárban, és próbálja meg újra.</string>
+  <string name="wordCountMode">Szószámláló üzemmód</string>
+  <string name="fab">Lebegő akciógomb</string>
+  <string name="tipFab">Tipp: Nyomja meg hosszan a Kezdőlap lebegő művelet gombot, hogy ideiglenesen elrejtse azt.</string>
+  <string name="tipCannotCreateNewWhenEmpty">Nem tud új cikket létrehozni, ha a cím és a tartalom is üres! A menü jobb felső sarkában lévő gombon keresztül azonban még mindig létrehozható.</string>
+  <string name="more">További</string>
+  <string name="notSupportOpeningTheLink">Link nem támogatott</string>
+  <string name="formatters">Formázók</string>
+  <string name="formatterSpace">A kínai és az angol szavak között legyen szóköz</string>
+  <string name="formatterIndent">Behúzás beillesztése minden bekezdés elejére</string>
+  <string name="formatterLineBreak">Hagyjon üres sort a bekezdések között</string>
+  <string name="formatterRemoveBreak">Távolítson el minden üres sort a bekezdések között</string>
+  <string name="titleAsAWordForACount">Számolja meg a szavakat egyenként</string>
+  <string name="trash">Szemét</string>
+  <string name="papers">Lapok</string>
+  <string name="custom">Custom</string>
+  <string name="promptCustomPaper">RGB-érték vagy kép URL-link</string>
+  <string name="readMeCustomPaper">Kérjük, adjon meg egy RGB-értéket vagy egy képkapcsolatot, pl. #000000 vagy https://unsplash.com/photos/x.jpg.</string>
+  <string name="apply">Alkalmazás</string>
+  <string name="defaultDark">Alapértelmezett sötét</string>
+  <string name="pureWhite">Tiszta fehér</string>
+  <string name="titleAlignCenter">A cím középre igazítása</string>
+  <string name="tipShortcutBarEnabled">Zárás nem ajánlott</string>
+  <string name="open">Nyisd ki</string>
+  <string name="summaryAutoBackup">Az alkalmazásból való kilépéskor az összes cikk automatikusan biztonsági mentést készít. A biztonsági mentés 25 legújabb fájlra korlátozódik.</string>
+  <string name="migratingData">Adatmigráció</string>
+  <string name="autoBackup">Automatikus biztonsági mentés</string>
+  <string name="summaryDeleteObsoleteFiles">Mostantól privát könyvtárakat használunk az összes tartalom tárolására. Erre kattintva törölheti az SD-kártyán maradt előzményfájlok régi verzióit.</string>
+  <string name="tipArticleDeleting">Cikkek törlése, ideiglenesen letiltott minden művelet</string>
+  <string name="noHistory">Nem találtak előzményeket</string>
+  <string name="formatterRemoveIndent">A behúzás eltávolítása</string>
+  <string name="keepScreenOn">Tartsa a képernyőt bekapcsolva</string>
+  <string name="gfmBreaksEnabled">Zárja be egy sortöréssel</string>
+  <string name="gfmBreaksDisabled">Legalább két sortörés szükséges az újsor megjelenítéséhez</string>
+  <string name="wordCountOfThisBook">Teljes szám</string>
+  <string name="wordCountOfThisBookDescription">A jelenlegi könyv teljes szószáma</string>
+  <string name="timeMachineGuide">Ez meg mi? Ezt tekintheted egy csevegőablaknak, vagy egy helynek, ahol rögzítheted az ötleteidet, vagy akár valami hasonlónak, mint a Google Assistant. Van egy különleges neve is, Time Machine. Örülök, hogy találkoztunk!</string>
+  <string name="copyDate">Másolás dátuma</string>
+  <string name="defaultBook">Alapértelmezett könyv</string>
+  <string name="books">Könyvek</string>
+  <string name="createNewBook">Új könyv létrehozása</string>
+  <string name="summaryOfAbout">Tudjon meg többet az eredeti ötletekről és koncepciókról, amelyeket ehhez az alkalmazáshoz terveztünk</string>
+  <string name="emptyTip">Még nem nyitottak meg cikkeket</string>
+  <string name="name">Név</string>
+  <string name="optionalDescription">Leírás (nem kötelező)</string>
+  <string name="createBookForDialogButton">Könyv létrehozása</string>
+  <string name="openSourceLicenses">Nyílt forráskódú licencek</string>
+  <string name="cannotDelete">Nem lehet törölni</string>
+  <string name="cannotDeleteNotEmptyBook">A könyv nem üres. A törléshez először törölje a benne lévő cikkeket egyenként.</string>
+  <string name="move">Mozgás</string>
+  <string name="moveTo">Mozgás a</string>
+  <string name="timeMachine">Időgép</string>
+  <string name="listFirst">A fejezetek megnyitása indításkor</string>
+  <string name="booksFirst">Nyissa meg a könyveket indításkor</string>
+  <string name="language">Nyelv</string>
+  <string name="followSystem">Rendszer követése</string>
+  <string name="localPicture">Helyi kép</string>
+  <string name="selectPicture">Kép kiválasztása</string>
+  <string name="toastCannotRetrieveSelectedImage">Nem lehet lekérni a kiválasztott képet</string>
+  <string name="picture">Kép</string>
+  <string name="saved">Megmentett</string>
+  <string name="sendTo">Küldje el a</string>
+  <string name="mode">Mód</string>
+  <string name="plainText">Egyszerű szöveg</string>
+  <string name="tipHasNotPermissionWithAutoBackup">A mentési kísérlet sikertelen volt, mivel a tárolóhoz való hozzáférési engedélyt megtagadták.</string>
+  <string name="hideTitleBarWhenPreviewingMarkdown">Címsor elrejtése Markdown előnézetben</string>
+  <string name="privacyPolicy">Adatvédelmi irányelvek</string>
+  <string name="beforeRestoringYourBackup">a-biztonsági-másolat-visszaállítása-előtt</string>
+  <string name="trashDescription">Törölt cikkeinek helyreállítása</string>
+  <string name="messageDeleteArticlesDirectly">E cikkek végleges törlése</string>
+  <string name="trashFolderTip">Ebben a szemét mappában nem hozhat létre új fájlt!</string>
+  <string name="tipLandscapeOrientation">Kérjük, fekvő módban használjon külső billentyűzetet</string>
+  <string name="promptShortcutOrder">Megrendelés</string>
+  <string name="editShortcut">Szöveg szerkesztése parancsikon</string>
+  <string name="fixedSync">Híd</string>
+  <string name="bridgeUpload">Híd: Feltöltés</string>
+  <string name="bridgeDownload">Híd: Hozd</string>
+  <string name="backupSettingTitle">Biztonsági mentés</string>
+  <string name="backupSettingSummary">Biztonsági mentés, visszaállítás, Dropbox, WebDAV, Google Drive</string>
+  <string name="syncNetwork">Felhőalapú biztonsági mentés</string>
+  <string name="syncOnlyWifi">Biztonsági mentés szinkronizálása a felhőbe csak akkor, ha a Wi-Fi aktív</string>
+  <string name="syncAllNetworks">Biztonsági mentés szinkronizálása a felhőbe minden hálózaton</string>
+  <string name="webDavAccount">WebDAV fiók</string>
+  <string name="webDavPassword">WebDAV jelszó</string>
+  <string name="autoBackupToCloud">Automatikus biztonsági mentés a felhő tárhelyre</string>
+  <string name="noWebDavConfigForUploading">A WebDAV konfigurációja hiányos vagy helytelen. Kérjük, a feltöltés előtt módosítsa a WebDAV konfigurációt.</string>
+  <string name="noWebDavConfig">A WebDAV konfigurációja hiányos vagy helytelen.</string>
+  <string name="uploadSuccessful">Feltöltés sikeres</string>
+  <string name="fetchSuccessful">Sikeres lekérdezés</string>
+  <string name="messageUpload">A Pure Writer létrehozott egy <b>javított</b> fájlt a felhőlemezén. A fájl neve <b>PureWriter.txt</b>. Az OK gombra kattintva feltöltheti aktuális cikkét ebbe a javított fájlba. Ezután szerkesztheti ezt a felhőfájlt más eszközökön. Ha megváltozik, le lehet húzni.\n\nSzeretné most felülírni az aktuális cikk tartalmát a felhőfájlba?</string>
+  <string name="typewriterMode">Írógép üzemmód</string>
+  <string name="edit">Szerkesztés</string>
+  <string name="editBook">Könyv szerkesztése</string>
+  <string name="tipFloatingWordCountDisabled">Miután kikapcsolta a lebegő szószámot, a fejezetek/cikkek listájában továbbra is láthatja a szószámot.</string>
+  <string name="shareText">Ajánlás: A Pure Writer egy funkciógazdag szövegszerkesztő alkalmazás, amely a funkcióival nyugalmat ad: Előzmények nyilvántartása, többrétegű védelem, amely megakadályozza, hogy elveszítse értékes tartalmait, valamint kényelmes írási környezetet is biztosít. További információ itt: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
+  <string name="shareMessage">Ha Ön is szívesen használja a Pure Writert, kérjük, segítsen nekünk terjeszteni a hírét! Kattintson a jobb oldali Megosztás gombra, ha meg szeretné osztani ezt az alkalmazást barátaival. Ez sokat jelent majd nekünk és az alkalmazásnak, mivel az a támogatásodnak köszönhetően fejlődik. Köszönjük!\n\nHa többet szeretne megtudni, kérjük, látogasson el a https://play.google.com/store/apps/details?id=com.drakeet.purewriter weboldalra.</string>
+  <string name="reduceDatabaseSize">Előzmények törlése az adatbázis méretének csökkentéséhez</string>
+  <string name="reduceDatabaseSizeMessage">Törölje az összes cikk előzményeit. \nMegjegyzés: Ez csak az Előzmények rekordokat törli, magát a cikket NEM. \n\nJavasoljuk, hogy a törléshez készítsen biztonsági mentést. \nAz adatbázis méretének csökkentése érdekében az előzményrekordok időnkénti törlése is javasolt!</string>
+  <string name="deleteSuccessful">Sikeres törlés</string>
+  <string name="unlockPro">Pro feloldása</string>
+  <string name="presetTitle1">Pure Writer - A múlt és a jövő összekapcsolása szavakkal</string>
+  <string name="presetContent1">A Pure Writer egy gyors és kényelmes szövegszerkesztő alkalmazás, amely megakadályozza, hogy elveszítse munkáit. A Google Playben a Pure Writer kommentjeit és értékeléseit böngészve olyan nagy dicséreteket találhatsz az alkalmazásról, mint például Nincs ennél jobb alkalmazás, A legmegfelelőbb alkalmazás, Annyira szeretem ezt az alkalmazást, Szerelem első látásra az alkalmazásba... Mint a Pure Writer egyetlen fejlesztője, a kommentek különösen örömmel töltöttek el. \n2017 júniusában, miután számtalan kényelmetlen, rosszul sikerült szövegszerkesztő terméken mentem keresztül, és elvesztettem értékes szövegfájljaimat, elhatároztam, hogy kifejlesztem saját szövegszerkesztő alkalmazásomat, amely lehetővé teszi a felhasználóinak, hogy bárhol, bármikor írjanak egy funkciógazdag és kényelmes környezetben, tudva, hogy a szavaik soha nem fognak eltűnni. Ezt az alkalmazást, ahogy elhatároztam, az író szemszögéből fogom fejleszteni. \nMindezek előtt részmunkaidőben egy gazdag szövegszerkesztő szoftveren dolgoztam. Bár a szívünket beleöntöttük, a szoftver nem úgy sikerült, ahogy szerettük volna. Ennek ellenére sikeresen kifejlesztettem néhány egyedi funkciót, ami bőven elég a Pure Writerhez. \nÍgy született meg a Pure Writer. A Pure Writer a kezdetektől fogva gondoskodott az egyes sorok és karaktertávolságok tökéletesítéséről Androidon. Ez az a különleges funkció, amit a Microsoft Wordön kívül egyetlen más szövegszerkesztő androidos alkalmazás sem ért el. Pedig a Microsoft Word csomagmérete több mint tízszer nagyobb, mint a Pure Writeré.\nNem csak ez, a Pure Writer olyan különleges funkciókat is biztosít, mint a szövegszerkesztő indítása az alkalmazás indításakor és különösen az előzményrekordok. Mivel magam is író vagyok, megértem az előzményrekordok rendkívüli fontosságát - lehetővé teszi, hogy az írásra koncentráljon, miközben nyugalmat ad, hogy soha, de soha nem veszítheti el, amit éppen ír. Még akkor is, ha a telefonod hirtelen, minden értesítés nélkül kikapcsol, a Pure Writer automatikusan elmenti a tartalmaidat. Így minden felhasználó akkor kezdheti el és hagyhatja abba az írást, amikor csak akarja, egy kényelmes szövegszerkesztőben, magabiztosan. \nEzen kívül a Pure Writer támogatja a beviteli parancsikonokat és a formázási eszközöket, a beviteli parancsikonok lehetővé teszi a felhasználók számára, hogy saját egyéni szavakat állítsanak be a parancsikon sávba, így könnyedén újra és újra felhasználhatják; a formázási eszközök segítenek a felhasználóknak, hogy gyorsan formázzák a szövegüket, például automatikus távolságtartással és elrendezéssel. \nNem csak ezek a funkciók, a Pure Writerben a legapróbb részletek tökéletesítésére is sok energiát fordítottak. A Pure Writer használata közben a képernyő egyszerű áthúzásával elrejtheti a lágy billentyűzetet, a kurzort pontosan oda tudja állítani, ahová szeretné, és a cikket is nyugton tudja tartani, miközben elrejti a lágy billentyűzetet... Ha a Pure Writert más szövegszerkesztő alkalmazásokhoz hasonlítaná, azt találná, hogy a Pure Writer tökéletesen gondoskodott minden olyan apró részletről, amely végül hozzájárul a tökéletes írási környezethez.\nA Pure Writer rendelkezik a szükséges szerkesztési eszközökkel, például: automatikus behúzás, cikk exportálása különböző fájlokként, beleértve a képeket is, lebegő szószámlálás, törlés, Markdown, egyéni háttértémák, éjszakai üzemmód, biometrikus titkosítás, automatikus szövegkiegészítés, megosztás és még sok más. Minden funkció és részlet ellenére a Pure Writer megőrizte minimalista stílusát, és követi a Material Design irányelveit. Készítettem egy Time Machine-t is a felhasználók számára, hogy kisebb jegyzeteket készíthessenek és megőrizhessenek. Az Időgép nevet a képregényből vettem, jelentése: a múlt és a jövő összekapcsolása szavakkal. \nA Pure Writer kódbázisa a mai napig több mint ezer commitot és több millió sornyi módosítást kapott. Bár a Pure Writer szinte minden szabadidőmet felemészti, mindig megkönnyebbüléssel tölt el, hogy egyre több felhasználó ad pozitív visszajelzést. Aktívan tartom a kapcsolatot a Pure Writer felhasználóival, gyűjtöm a visszajelzéseket és tökéletesítem az alkalmazást. Soha nem éreztem még ilyen boldognak magam a gondolattól, hogy hosszú távon készíthetek valamit, ami másoknak is segít. \nVégül köszönöm minden barátomnak, aki segített nekem ezen az úton. Nélkületek ez az alkalmazás soha nem tartana ott, ahol ma tart. Ezzel a bejegyzéssel bemutatom nektek a Pure Writer eredeti ötleteit és minden különleges funkcióját, és remélhetőleg minél többen jobban megismerhetik. Reméljük, hogy csodálatos emlékeket tudunk magunk mögött hagyni a rendelkezésünkre álló korlátozott idő alatt. Hagyjuk, hogy a Szavaink visszarepítsenek minket az időben, és elhozzák számunkra a jövő elképzelését.</string>
+  <string name="presetTitle2">Pure Writer - Védőmechanizmus</string>
+  <string name="presetContent2">A Pure Writer jelenlegi védelmi mechanizmusa a következő: \n1. A cikk elmentésre kerül, amint a tartalom megváltozik. Ha ez nem sikerül, a Pure Writer azonnal értesíti a felhasználót. \n2. A Pure Writer két másodpercenként ellenőrzi, hogy a tartalom el van-e mentve az adatbázisban. Ha ez nem sikerül, a Pure Writer azonnal értesíti a felhasználót. \n3. Ha nem sikerül az automatikus mentés, akkor a felhasználók nem tudnak teljesen kilépni az alkalmazásból. A kilépés gomb megnyomása ilyenkor ugyanolyan, mint a Home gomb megnyomása az alkalmazás teljes leállítása nélkül. Így a felhasználónak lesz némi ideje arra, hogy manuálisan mentse a tartalmát. \n4. Minden alkalommal, amikor az alkalmazás a háttérben fut vagy kilép, automatikusan biztonsági mentést készít a teljes adatbázisról, ha bármilyen tartalom szerkesztésre kerül. A biztonsági mentés fájl bármikor elérhető. A biztonsági mentés a biztonsági mentés előző verziójával együtt kerül elmentésre, hogy a felhasználók visszaállíthassák a biztonsági mentést.\n5. Az előzményrekord, visszavonás és visszavétel funkció minden cikkhez biztosított.  \n6. Rendelkezik szemetes mappával a cikkek véletlen törlésének megakadályozására.\n7. Felhőmentés: Ha a Pure Writer integrálva van a WebDAV-val, akkor automatikusan biztonsági mentést készít az adatbázis teljes tartalmáról, beleértve a cikkeket is, a felhőbe.</string>
+  <string name="presetContent3">Ha élvezted a Pure Writer használatát, és szeretnéd, hogy aktívan fejlesszék, nem bánnád, ha adnál néhány dollárt, hogy bátorítsd a fejlesztőt?\nAz Ön támogatása arra ösztönözheti a hozzám hasonló független fejlesztőket, hogy még több hasznos alkalmazást készítsenek. \nA hozzájáruláshoz a Beállítások oldal jobb felső sarkában található Unlock Pro gombra kattintva tudsz hozzájárulni. Megbecsülésed jeléül olyan Pro funkciókat kaphatsz, mint a Mentés másként... és az Egyéni háttér/papír. \nA Pure Writer is fejlődni fog a támogatásod eredményeként. Előre is köszönjük! Ha bármilyen kérdése vagy visszajelzése van, kérjük, ne habozzon, írjon nekem a drakeet@drakeet.com címre.</string>
+  <string name="presetTitle4">Pure Writer - Adatvédelmi szabályzat</string>
+  <string name="presetContent4">A Pure Writer nagyon komolyan veszi a felhasználók magánéletét, soha nem gyűjt semmilyen személyes adatot. \nTovábbá, nem fogja elolvasni vagy módosítani a vágólapján lévő tartalmakat anélkül, hogy erről előzetesen értesítené Önt.\nA Pure Writer által kért tárolási engedélyt kizárólag az automatikus biztonsági mentésre és a fájlok mentésére használja. Ezen kívül nem fogja olvasni vagy módosítani a tárolóban lévő fájljait anélkül, hogy erről előzetesen értesítené Önt.\nA Pure Writer támogatja a felhőalapú mentést, amely HTTPS titkosítást használ az adatbázis biztonsági mentéseinek a WebDAV felhőalapú tárhelyre történő átviteléhez. A felhőalapú biztonsági mentések csak az Ön által beállított felhőalapú tárhelyen tárolódnak, és soha nem töltődnek fel máshova.</string>
+  <string name="createAt">Készült a</string>
+  <string name="updatedAt">Frissítve</string>
+  <string name="forcedBlackTextColor">Fekete szövegszín kikényszerítése</string>
+  <string name="forcedWhiteTextColor">Kényszerített fehér szövegszín</string>
+  <string name="onlyAvailableWhenParagraphOn">Csak akkor érhető el, ha a bekezdések közötti távolság be van kapcsolva</string>
+  <string name="onlyAvailableWhenParagraphOff">Csak akkor érhető el, ha a bekezdésköz ki van kapcsolva</string>
+  <string name="lowProfile">Állapotsor fókusz mód</string>
+  <string name="chapters">Fejezetek</string>
+  <string name="sortTypeTitleUp">Cím rendezése A - Z</string>
+  <string name="sortTypeTitleDown">Cím rendezése Z - A</string>
+  <string name="sortByRank">Kézi válogatás</string>
+  <string name="modifyRanks"><i><b>Kézi rendezés végrehajtása</b></i></string>
+  <string name="markdownShortcutTip">Épp most illesztettél be egy Markdownt, ami csak Markdown előnézeti módban lép életbe. Szeretné aktiválni a Markdown módot?</string>
+  <string name="importedFileTooLargeToOpen">Az importált fájl túl nagy, a fájl megnyitása nem sikerült</string>
+  <string name="failed">Sikertelen</string>
+  <string name="insertCategoryAboveShort">Kategória beillesztése <b>fentebb</b></string>
+  <string name="insertCategoryBelowShort">Kategória beillesztése <b>alul</b></string>
+  <string name="insertCategoryBottomShort">Kategória beillesztése <b>alulra</b></string>
+  <string name="insertCategoryAboveLong">Kategória <b>az aktuális cikk fölé</b> beszúrása</string>
+  <string name="insertCategoryBelowLong">Kategória beillesztése <b>az aktuális cikk alá</b></string>
+  <string name="insertCategoryBottomLong">Új kategória beillesztése a fejezetlista <b>aljára</b>.</string>
+  <string name="insertCategory">Kategória beillesztése</string>
+  <string name="editCategory">Kategória szerkesztése</string>
+  <string name="category">Kategória</string>
+  <string name="deleteEmptyArticlesShort">Az összes üres cikk törlése</string>
+  <string name="deleteEmptyArticlesLong">Törölje az összes üres címmel és tartalommal rendelkező cikket ebben a könyvben.</string>
+  <string name="deleteCategory">Kategória törlése</string>
+  <string name="exportBook">Exportálja ezt a könyvet</string>
+  <string name="needManualSortingTitle">Ennek a funkciónak a használatához kézi szortírozásra kell váltania</string>
+  <string name="needManualSortingMessage">Meg akarja változtatni a beállításokat a Kézi válogatásra?</string>
+  <string name="doubleClickToExit">Az alkalmazásból való kilépéshez kattintson duplán a Vissza gombra</string>
+  <string name="doubleClickToExitTip">Kattintson vissza a kilépéshez</string>
+  <string name="markdownCheckBoxTip">Ez az opció a Markdown funkcióra vonatkozik. Ha bejelölte, a bekezdések távolsága és behúzása elveszíti a hatását. Ha nem ismeri a Markdownt, akkor nem ajánlott bejelölni ezt a négyzetet.\n\nA Markdown egy egyszerű szövegformázási szintaxissal rendelkező jelölőnyelv. Ha érdekli a Markdown, az interneten rákereshet a Markdownra.</string>
+  <string name="unlockValidityPeriod">Automatikus zár érvényességi időszaka</string>
+  <string name="unlockValidityPeriodSummary">%s\nMegjegyzés: ha megnyomja a Vissza gombot az alkalmazásból való kilépéshez, a következő alkalommal zárolva lesz</string>
+  <string name="lockImmediatelyIfAway">Ha távol van, azonnal zárjon be</string>
+  <string name="lockIfAwayMoreThan3Minutes">Zár, ha több mint 3 percig távol van</string>
+  <string name="font">Betűtípus</string>
+  <string name="appEmbeddedFont">App beágyazott betűtípus</string>
+  <string name="noInternetConnection">Nincs internetkapcsolat</string>
+  <string name="cloudBackup">Felhőalapú biztonsági mentés</string>
+  <string name="cloudConnection">Felhő kapcsolat típusa</string>
+  <string name="signIn">Bejelentkezés</string>
+  <string name="lockFallback">Ha nem tudja mindig feloldani a feloldást, akkor menjen a telefon rendszerbeállításaihoz, távolítsa el az összes ujjlenyomatot, és nyissa meg újra a Pure Writert.</string>
+  <string name="smoothScrollerTitle">Simán gördülő animáció a szövegsorra kattintáskor</string>
+  <string name="tipSmoothScrolling">Ha ez az opció be van kapcsolva, akkor a tartalmi szöveg egy sorára kattintva a szöveg nézete szükség esetén simán a fókuszált sorra gördül. Ha ez az opció ki van kapcsolva, akkor egy pillanat alatt az adott sorra ugrik. \nA görgetési animáció egyes eszközökön nem biztos, hogy jól működik, ezért kapcsolja ki ezt az opciót, ha úgy érzi, hogy elakadt.</string>
+  <string name="defaultMessageUpdateApk">Ez egy fontos verzió, kérjük, frissítsen erre a verzióra a lehető leghamarabb.</string>
+  <string name="readme">Bekapcsolta a Pure Writer új Material Design 2 dizájnját.\n\nA Material Design 2 új, teljes képernyőre merülő papírt és átlátszó felső sávot hoz a friss megjelenés érdekében.\n\nUgyanakkor azonban az új dizájnnal sok probléma is adódhat, ezért ez a Pure Writer kísérleti funkciója, amely a felhasználói felület vizuális problémáival járhat. Ezenkívül a Pure Writer szerzőjeként jobban kedvelem az eredeti Pure Writer dizájnt, amely szemet gyönyörködtetőbb és a szöveges tartalomra összpontosít, így ez a dizájnfunkció valójában egy kisszámú felhasználó erős igényeire válaszul került kifejlesztésre. Sok extra fejlesztési költséget igényel, és nem könnyű biztosítani, és mivel most már két Pure Writer dizájn lesz, a fejlesztők munkája megsokszorozódhat.\n\nEmiatt a Pure Writer azt ajánlja, hogy fizessen érte, de még sok ideje lehet a tapasztalatszerzésre és a végső fizetési döntés meghozatalára. Kérjük, próbálja meg támogatni. Ha a statisztikák azt mutatják, hogy a fizetni hajlandó felhasználók aránya kicsi, a fejlesztő törölheti vagy leállíthatja a Material Design 2 karbantartását. Ha az OK gombra kattint, akkor úgy tekintjük, hogy alapértelmezés szerint elfogadja ezt a tartalmat.\n\nKöszönjük mindenkinek! Mindent megteszek, hogy egyre jobb és jobb Pure Writert nyújtsak, kérem, élvezzétek!</string>
+  <string name="lowFreeStorageSpaceWarning">A telefonon csak %1$d MB szabad tárhely van, ami a Pure Writer mentési vagy mentési hibáját okozhatja. Kérjük, tisztítsa meg és hagyjon több mint %2$d MB-ot a Pure Writer használata előtt!</string>
+  <string name="lowCloudFreeStorageSpaceWarning">A %1$s csak %2$d MB szabad tárhellyel rendelkezik, ami miatt a Pure Writer mentése vagy a felhőbe történő mentés sikertelen lehet. Kérjük, tisztítsa meg és hagyjon több mint %3$d MB-ot, mielőtt a Pure Writer-t használná!</string>
+  <string name="findReplace">Keresés és csere</string>
+  <string name="replace">Cserélje ki</string>
+  <string name="find">Keresd meg a</string>
+  <string name="currentChapter">Jelenlegi fejezet</string>
+  <string name="currentText">Jelenlegi szöveg</string>
+  <string name="currentBook">Jelenlegi könyv</string>
+  <string name="ignoreCase">Ügy figyelmen kívül hagyása</string>
+  <string name="selectAll">Válasszon ki mindent</string>
+  <string name="inverseAll">Inverz Minden</string>
+  <string name="replaceConfirmMessage">Biztos, hogy a kiválasztott %d hely(ek) helyettesítésére van szükség?</string>
+  <string name="tipUndoReplace">Visszavonás:\nVisszaállítás: * A Pure Writer - Beállítások - Biztonsági mentés - Biztonsági mentés visszaállítása menüpontra kattintva az előző biztonsági mentésre kattintva visszaállíthatja a korábbi tartalmat.\n* Ha csak az aktuális fejezetet cserélte ki, akkor a jobb felső menüben az Előzmények oldalra léphet, és visszaállíthatja a korábbi tartalmat.</string>
+  <string name="backupRemarkForReplace">Mielőtt-Csere</string>
+  <string name="tipReplaceResult">%2$d tartalom %1$d cikkben le lett cserélve</string>
+  <string name="title">Cím</string>
+  <string name="content">Tartalom</string>
+  <string name="webDavAccountError">A WebDAV-fiókod tartalma helytelen, ezért a felhőalapú mentés nem engedélyezhető!</string>
+  <string name="fileAlreadyExistsInDirectory">Ez a fájl már létezik a könyvtárában</string>
+  <string name="overwrite">Felülírás</string>
+  <string name="doNotOverwrite">Ne írja felül</string>
+  <string name="signOut">Kijelentkezés</string>
+  <string name="changeAccount">Számla módosítása</string>
+  <string name="scrollToHideTopBar">Görgetés a felső sáv elrejtéséhez</string>
+  <string name="scrollToHideWordCount">Görgessen a szószám elrejtéséhez</string>
+  <string name="doNotOperate">Ne cserélje vagy módosítsa a cikkeket közben!</string>
+  <string name="aboutBackup"><b>A biztonsági mentésről</b></string>
+  <string name="backupReadme">A Pure Writer támogatja a helyi és felhőalapú biztonsági mentést. A helyi biztonsági mentés automatikus. A Pure Writer újratelepítésekor <b>visszaállíthatja az összes cikket a Backup segítségével</b>.\n\nA Pure Writer azonban <b>alapértelmezés szerint nem készít automatikusan felhőalapú biztonsági mentést</b>. A Cloud Backup engedélyezéséhez <b>be kell állítania egy felhőalapú biztonsági mentési fiókot</b> a Pure Writer - Beállítások - Biztonsági másolatok oldalon.\n\nA Pure Writer Cloud Backup jelenleg támogatja a Dropbox és a WebDAV felhőalapú tárolást.\n\n<b>A felhőalapú biztonsági mentés nagyon fontos. Ha nem állít be felhőalapú biztonsági mentési fiókot, akkor minden értékes tartalma elveszik, ha az eszköz elveszik, elromlik vagy visszaállítják a gyári beállításokat! Feltétlenül állítson be egy felhőalapú biztonsági mentési fiókot!</b></string>
+  <string name="tipParagraphSpacingInMD">A bekezdések közötti távolság nem lesz engedélyezve Markdown módban</string>
+  <string name="lineSpacing">Vonaltávolság</string>
+  <string name="paragraphSpacing">bekezdések közötti távolság</string>
+  <string name="defaultX">Alapértelmezett</string>
+  <string name="zoomIn">Nagyítás</string>
+  <string name="zoomOut">Kicsinyítés</string>
+  <string name="switchingBooksTooltip">Tipp: A könyv címére kattintva a tetején képes lesz váltani Könyvek</string>
+  <string name="scrollToTheCurrentArticle">Lapozzon az aktuális cikkhez</string>
+  <string name="allBooks">Minden könyv</string>
+  <string name="outlines">Vázlatok</string>
+  <string name="needToManuallyRestartToTakeEffect">Újra kell indítani a hatálybalépéshez</string>
+  <string name="spellChecker">Helyesírás-ellenőrző</string>
+  <string name="thisShortcutCannotBeEdited">Ez a parancsikon nem szerkeszthető</string>
+  <string name="createNewChapter">Új fejezet létrehozása</string>
+  <string name="hideSoftKeyboard">Billentyűzet elrejtése</string>
+  <string name="transparentTopBar">Átlátszó felső sáv</string>
+  <string name="transparentNavigationBar">Átlátszó navigációs sáv</string>
+  <string name="transparentNavigationBarWarning">Ez egy kísérleti funkció. Bekapcsolásakor előfordulhat, hogy a lágy billentyűzet magasságának ellenőrzése helytelenül történik, ami miatt a parancsikon sáv nem jelenik meg, és a szöveg nem fókuszálható. Ha ilyen problémákat tapasztal, kapcsolja ki ezt az opciót.</string>
+  <string name="titleAsAWordForACountSummary">Ha ez az elem be van kapcsolva, a következő Szószámláló üzemmód ki lesz kapcsolva. Ha használni szeretné a Szószámláló módban lévő lehetőségeket, kapcsolja ki ezt a lehetőséget.</string>
+  <string name="customFont">Egyéni betűtípus</string>
+  <string name="customFontTip">Helyezze a .ttf vagy .otf betűtípusfájlt a <b>/Documents/PureWriter/App</b> külső tárolási könyvtárba, és indítsa újra a Pure Writert a betűtípus automatikus alkalmazásához. \nMegjegyzés: Ebben a könyvtárban csak egy betűtípusfájl lehet, és egyes betűtípusfájlok (például a Google Sans) a kurzor elmozdulását okozhatják, kérjük, vegye figyelembe!</string>
+  <string name="customFontTipForAndroid11">Android 11+ ki kell választani a betűtípus fájlt, hogy hatékony legyen</string>
+  <string name="corruptBackupTip">A mentési fájl sérült! Kérjük, próbáljon meg más biztonsági másolatokat visszaállítani, és válassza ki a megfelelő méretű és idejű biztonsági másolatot!</string>
+  <string name="leftMargin">Bal margó</string>
+  <string name="rightMargin">Jobb margó</string>
+  <string name="spacingsAndMargins">Távolságok\nMargók</string>
+  <string name="autoBackupAndCloudBackupGuide"><i>felhőalapú biztonsági mentés bemutató</i></string>
+  <string name="bridgeSummary">Ezt a funkciót nagyon nehéz megérteni és használni, ezért nem ajánlott engedélyezni.</string>
+  <string name="messageCancelBridgeFeature">Ettől a verziótól kezdve az eredeti \"Bridge\" funkció alapértelmezés szerint el van rejtve, mert sok felhasználói visszajelzés érkezik minden nap, hogy nem tudják, mit jelent ez a funkció, nagyon sajnálom, hogy bajt hozok rád! De ugyanakkor rengeteg időt és energiát fordítottam arra is, hogy ezekre a visszajelzésekre válaszoljak - ezeket a termék fejlesztésére és csiszolására kellett volna fordítani. Tehát jelenleg ez a funkció alapértelmezés szerint ki van kapcsolva. Ha szereted és számítasz rá, akkor a biztonsági mentés beállításai oldal alján találsz egy opciót a megnyitásához. Kérjük megértésüket, köszönjük szépen!</string>
+  <string name="followingBackupsAre">A következők a biztonsági mentések az aktuális verzió telepítése előtt</string>
+  <string name="logInToCloudStorage">Bejelentkezés a felhő tárhelyre</string>
+  <string name="scrollToBottom">Görgessen az aljára</string>
+  <string name="scrollToTop">Görgessen a tetejére</string>
+  <string name="customColorTipOnShortcutPad">Tipp: A szerkesztő szövegének színét a Beállítások oldalon testre szabhatja.</string>
+  <string name="textColor">A Szerkesztő szövegének színe</string>
+  <string name="textColorSummary">Megjegyzés: A Papír váltásakor a szöveg színe automatikusan visszaáll az alapértelmezett színre.</string>
+  <string name="titleTextSize">Cím betűmérete</string>
+  <string name="restoreByThisBackup">Visszaállítás ezzel a biztonsági mentéssel?</string>
+  <string name="restoreByThisBackupWithAppName">Pure Writer: Visszaállítás ezzel a biztonsági másolattal</string>
+  <string name="collapseAllCategories">Összes kategória összezárása</string>
+  <string name="showMore">Mutasson többet</string>
+  <string name="textColorAlpha">Szöveg színe alfa / átláthatóság</string>
+  <string name="connectDesktop">Csatlakozás asztali verzió</string>
+  <string name="disconnectDesktop">Az asztali verzió leválasztása</string>
+  <string name="connect">Csatlakozás</string>
+  <string name="tipNotSupportThisDesktopVersion">A jelenlegi mobil és asztali verzió nem egyezik, és nem lehet összekapcsolni. Kérjük, frissítse mindkettőt a legújabb verzióra, és próbálja meg újra.</string>
+  <string name="desktopDialogGuide">Le kell töltenie a <b><i>Pure Writer Desktop 1.4.0-s (vagy újabb)</i></b> verzióját a https://writer.drakeet.com/desktop_en webhelyről.\n\nHa a mobil és a számítógép <b>ugyanazon a Wi-Fi hálózaton vagy hotspoton csatlakozik👈👈👈</b>, nyissa meg a Desktopot, és adja meg az alábbi IP-címet <b>a Desktop beviteli mezőjébe</b> a csatlakozáshoz Pure Writer, akkor valós időben szinkronizálhatja és szerkesztheti az aktuális cikket.</string>
+  <string name="desktopDialogNote">Note: Pure Writer Desktop is still in its alpha stage. Please understand and wait for its subsequent updates.\n* If you see <b>multiple lines of IP addresses</b>, try connecting them one by one.</string>
+  <string name="connectionIsStopping">Megjegyzés: A Pure Writer Desktop még mindig az alfa fázisban van. Kérjük, értse meg, és várja meg a későbbi frissítéseket.\n* Ha <b>több sor IP-címet</b> lát, próbálja meg egyesével összekapcsolni őket.</string>
+  <string name="createShortcutLabel">Szöveges parancsikon</string>
+  <string name="cursorPositionForNewArticle">A kurzor pozíciója az új cikkhez</string>
+  <string name="stop_waiting_connection">Ne várjon tovább a kapcsolatokra</string>
+  <string name="undoValidTip">Az aktuálisan fókuszált beviteli terület már nem vonható vissza újra, a tartalmat a jobb felső sarokban található Előzmények menüből próbálhatja visszaállítani.</string>
+  <string name="desktopDisconnected">Az asztali verzió le van választva</string>
+  <string name="desktopConnected">Az asztali verzió csatlakoztatva van</string>
+  <string name="toDoCloudBackupButton">Felhőalapú biztonsági mentési fiók beállítása</string>
+  <string name="ignoreCloudBackupCheckBox">Nem akarok felhőmentést létrehozni, ne emlékeztess rá. Hajlandó vagyok viselni a felhőmentés hiányának minden következményét, beleértve az összes értékes cikkem elvesztését, ha a telefon elromlik, elveszik vagy visszaállítják, mert nincs felhőmentés!</string>
+  <string name="selectMore">Válasszon többet</string>
+  <string name="addChapterBelowThis">Fejezet hozzáadása alább</string>
+  <string name="addChapterAboveThis">Fenti fejezet hozzáadása</string>
+  <string name="moveToOtherBook">Mozgás egy másik könyvre</string>
+  <string name="paragraphSpacingSettingSummary">A szuper hosszú szövegek jobb teljesítményt nyújtanak, ha a bekezdésközök ki vannak kapcsolva.</string>
+  <string name="autoInsertBlankLineWhenWrapping">Automatikus üres sor beillesztése, amikor a csomagolást</string>
+  <string name="markdownAsDefault">Markdown az új cikkek alapértelmezett módjaként</string>
+  <string name="needToPayForMarkdownRenderer">Ez a Markdown gyors előnézeti oldal, amelynek használatához fizetnie kell a Pure Writer Pro programért.</string>
+  <string name="fabContextCreateNewAfterCurrent">Új cikk az aktuális cikk után</string>
+  <string name="fabContextCreateNewAtTheBottom">Szúrjon be egy új cikket a cikklista aljára</string>
+  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Szúrjon be egy új cikket az aktuális kategória aljára</string>
+  <string name="fabContextHideFabUntilNextStart">Rejtse el ezt a gombot a következő indításig</string>
+  <string name="fabContextHideFabTemporarily">A fő lebegő gomb ideiglenes elrejtése</string>
+  <string name="license">Licenc</string>
+  <string name="customPapers">Custom Papers\nFinom, magával ragadó</string>
+  <string name="markdownQuickPreview">Markdown gyors előnézet</string>
+  <string name="exportToPicMdTxt">Exportálás hosszú kép/md/txt formátumban</string>
+  <string name="materialDesign2ThemeWithLineBreak">Material Design 2\ntéma</string>
+  <string name="ProIntroductionMarkdown"><![CDATA[
+| #### Custom Papers
+|
+| Szabadon választhatsz egy képet a mobiltelefonodról vagy egy távoli képet a szerkesztőd papírjának és hátterének:
+|
+| ![Kép](https://gitee.com/PureWriter/resources/raw/master/pro/en/0.webp)
+|
+| #### Editor 2 ✨
+|
+| A szerkesztő lapot **vízszintesen letörölheti** a 2. szerkesztő gyors eléréséhez:
+|
+| ![Kép](https://gitee.com/PureWriter/resources/raw/master/pro/en/1.webp)
+|
+| #### Exportálás hosszú szöveges kép / md / txt fájlként
+|
+| A cikkeket hosszú szöveges képként vagy .md .txt fájlként exportálhatja:
+|
+| ![Kép](https://gitee.com/PureWriter/resources/raw/master/pro/en/2.webp)
+|
+| #### Könyv exportálása
+|
+| Ezt az opciót a bal oldali fiók felső menüjében találja, ez segít az összes fejezet tartalmának egy egyszerű szöveges fájlba történő egyesítésében:
+|
+| ![Kép](https://gitee.com/PureWriter/resources/raw/master/pro/en/3.webp)
+|
+| #### Keresés és csere
+|
+| Megkeresheti a célkulcsszavakat bármely cikkben, és tételesen kicserélheti őket:
+|
+| ![Kép](https://gitee.com/PureWriter/resources/raw/master/pro/en/4.webp)
+|
+| #### Material Design 2 téma
+|
+| | Ha a Material Design 2 téma engedélyezve van, átlátszó felső sávot kap, amely már nem tiszta fekete, és egy sokkal magával ragadóbb és szebb felhasználói felületet kaphat:
+|
+| ![Kép](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
+|
+| #### Pure Writer Desktop
+|
+| ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
+|
+| A Pure Writer Desktopot a főszerkesztő tetején található felhő ikon ☁️ segítségével szerezheti be, és csatlakozhat az Asztalhoz.
+|
+| Jelenleg az Asztal még alfa stádiumban van. Csak alapvető valós idejű kapcsolatot és szinkronszerkesztést tud biztosítani.
+|
+| Sok időmbe és energiámba került, és a támogatásotok segít nekünk abban, hogy tökéletesebbé és jobbá tegyük.
+    ]]></string>
+  <string name="unlimitedWords">Korlátlan szavak</string>
+  <string name="neverLost">Soha nem veszett el</string>
+  <string name="veryVerySmooth">Nagyon-nagyon sima</string>
+  <string name="nightMode">Éjszakai üzemmód</string>
+  <string name="supportParagraphSpacing">bekezdések közötti távolság</string>
+  <string name="keyboardStateRestoring">Billentyűzet állapotának helyreállítása</string>
+  <string name="greatCursorFocus">Nagyszerű kurzorfókusz</string>
+  <string name="crazyUpdateBetterAndBetter">Őrült frissítés, egyre jobb és jobb</string>
+  <string name="moreAdvantagesOfPureWriter">A Pure Writer további előnyei</string>
+  <string name="account">Számla</string>
+  <string name="privilegeOfPureWriterPro">A Pure Writer Pro kiváltsága</string>
+  <string name="messageThankYouForYourSupport">Támogatásodnak köszönhetően a Pure Writer jobban fejlődik, továbbra is rendkívüli termékeket tudunk készíteni, miközben több független fejlesztőt motiválsz. \n\nAz Ön támogatásának köszönhetően a Pure Writer folyamatosan frissülhet és fejlődhet. Köszönjük szépen!</string>
+  <string name="emailAddress">E-mail cím</string>
+  <string name="password">Jelszó</string>
+  <string name="signUpOrSignIn">Regisztráció / Bejelentkezés</string>
+  <string name="emailAddressIsEmptyOrIllegal">Az e-mail cím üres vagy illegális</string>
+  <string name="passwordMustBeAtLeast6Characters">A jelszónak legalább 6 karakterből kell állnia</string>
+  <string name="helperTextForNewAccount">Ez egy új fiók, regisztrálni fogjuk Önnek.</string>
+  <string name="helperTextForRegisteredAccount">Ez a fiók regisztrálva van, be fogunk jelentkezni az Ön számára.</string>
+  <string name="forgetPassword">Elfelejtette a jelszót?</string>
+  <string name="latex">LaTeX képlet</string>
+  <string name="syntaxHighlighting">Szintaxis kiemelés</string>
+  <string name="notSignedIn">Nincs bejelentkezve</string>
+  <string name="requiresAtLeast6Characters">Legalább 6 karakter szükséges</string>
+  <string name="signedIn">Aláírva</string>
+  <string name="emailOrPasswordIsIncorrect">Az e-mail cím vagy a jelszó helytelen</string>
+  <string name="messageCustomFontAndPro">Ellenőrizte, hogy az Egyéni betűtípust használja-e, amelyhez Pure Writer Pro szükséges. Az OK gombra kattintva megkapja a Pure Writer Pro-t és a fejlettebb funkciókat, vagy az Egyéni betűtípus visszavonásához kattintson a gombra (a következő indításkor lép hatályba).</string>
+  <string name="introductionOfReadOnlyMode">* Ha a kurzor NEM látható, a kurzor elhelyezéséhez és a szerkesztési módba való belépéshez dupla kattintásra van szükség.\n* Ha a kurzor látható, a szöveg szerkeszthető vagy módosítható egyetlen kattintással, bármilyen módon.\n* Ha a kurzor látható, a Vissza billentyű megnyomásával elrejtheti a kurzort és beléphet a Csak olvasás módba.</string>
+  <string name="messageReadOnlyModeAndPro">A Speciális csak olvasási módhoz Pure Writer Pro szükséges. Az OK gombra kattintva megkapja a Pure Writer Pro és a fejlettebb funkciókat, vagy a Cancel gombra kattintva a következő indítás után automatikusan törlődik.</string>
+  <string name="messageNeedToPay">Ez egy Pro funkció. A Pure Writer Pro használatához fizetnie kell a Pure Writer Pro szolgáltatásért. Kattintson az OK gombra, ha meg szeretné ismerni a Pure Writer Pro összes fejlett funkcióját. Ha megvásárolja a Pure Writer Pro-t, használhatja az összes fejlett funkciót.</string>
+  <string name="notYetActivated">Még nem aktivált</string>
+  <string name="notYetActivatedOrExpired">Nem aktivált vagy lejárt</string>
+  <string name="signingInIsInvalid">A bejelentkezés érvénytelen</string>
+  <string name="verificationCode">Ellenőrző kód</string>
+  <string name="buyPureWriterPro">Pure Writer Pro megvásárlása</string>
+  <string name="tipMarkdownQuickPreview">Lapozzunk vízszintesen a következő oldalra\na Markdown gyors előnézethez</string>
+  <string name="lifetime">Élethosszig tartó</string>
+  <string name="proExpired">Pro Lejárt</string>
+  <string name="expiresOn">Lejár:</string>
+  <string name="useLegacyRender">Régi renderelő használata</string>
+  <string name="changelog">Változási napló</string>
+  <string name="advancedReadOnlyMode">Speciális csak olvasható mód</string>
+  <string name="needOpenArticleFirst">Először meg kell nyitnia egy cikket, hogy használni tudja ezt az opciót.</string>
+  <string name="restoreArticleScrollPosition">A cikk görgetési pozíciójának visszaállítása</string>
+  <string name="savedStateModeAuto">Automatikus (az utoljára szerkesztett cikket a következő alkalommal visszaállítja; a nem utoljára szerkesztett cikket akkor állítja vissza, ha az utolsó megnyitási időponttól számított egy héten belül van, különben visszatér a tetejére).</string>
+  <string name="savedStateModeEnableAll">Mindenesetre, engedélyezve minden cikkre</string>
+  <string name="savedStateModeDisableAll">Mindenesetre, letiltva minden cikk</string>
+  <string name="summaryScrollToBottom">Megjelenítse-e ezt a gombot a szerkesztőben</string>
+  <string name="cloudBackupFailed">A felhőalapú biztonsági mentés nem sikerült</string>
+  <string name="dropboxBackupFailed">A Dropbox biztonsági mentés sikertelen, kérjük, próbáljon meg újra bejelentkezni a Dropbox fiókjába a Pure Writer felhőalapú biztonsági mentés beállításakor.</string>
+  <string name="tipJianguoyunURL">Kérjük, töltse ki a következő három tartalmi elemet</string>
+  <string name="dropboxBackupFailedDueToInsufficientSpace">A felhőalapú biztonsági mentés meghiúsult: A Dropbox kifogyott a helyből</string>
+  <string name="tipImageDialog">Kérjük, adja meg a beilleszteni kívánt webes kép linkjét az alábbiakban. \nVagy kattintson az alábbi \"Helyi kép\" gombra, hogy kiválasszon egy helyi képet, és automatikusan megkapja a kép helyi linkjét.</string>
+  <string name="imageUrl">Kép URL</string>
+  <string name="imageDesc">Képleírás (opcionális)</string>
+  <string name="width">szélesség</string>
+  <string name="insertMarkdownImage">Markdown kép beillesztése</string>
+  <string name="youNeedToSignInAgain">Újra be kell jelentkeznie</string>
+  <string name="moreAndBetter">Több és jobb</string>
+  <string name="clickBottomAddNewBlankLine">Kattintson az Alsó gombra egy üres sor beszúrásához</string>
+  <string name="summaryClickBottomAddNewBlankLine">Ha az utolsó sor nem üres sor, akkor a szerkesztő alján lévő üres területre kattintva automatikusan új üres sor kerül a szöveg végére és fókuszálásra.</string>
+  <string name="deleteCompletely">Teljesen törölni</string>
+  <string name="openArticleListAfterSwitchingBooks">Cikklista megnyitása könyvváltás után</string>
+  <string name="searchArticles">Cikkek keresése / Gyors ugrás a cikkekhez</string>
+  <string name="searchTip">Tipp: Több kulcsszót is megadhat a sorváltások szerinti kereséshez, de csak az első kulcsszó lesz kiemelve az eredményekben.</string>
+  <string name="duplicate">Duplikátum</string>
+  <string name="tipGoogleDriveAppScope">Tipp: Mivel a Google Drive alkalmazás privát könyvtára nem látható a felhasználók számára, a Bridge funkció automatikusan le lesz tiltva.</string>
+  <string name="unlimitedStorage">Korlátlan tárolás</string>
+  <string name="noteDateTimeShortcut"><![CDATA[
+| Ezen kívül idő- és dátumváltozókat is beilleszthetünk, amelyeket a fenti első beviteli mezőbe a `${<format>}` beírásával állíthatunk be, ahol a `<format>` helyett például dátum/idő formátumot kell megadnunk:
+|
+| `$${yyyy-MM-dd HH:mm}` generál:
+| `2020-04-01 21:43`
+|
+| `${${yyyy-M-d hh:mm}` a következőt generálja: "$${yyyy-M-d hh:mm}":
+| `2020-4-1 09:43`
+|
+| (A fenti példákat **hosszan megnyomva** kiválaszthatja és másolhatja, hogy kipróbálhassa)
+|
+| További **formátummeghatározó** és szabad kombinációkat talál a **táblázatban** ezen a [dokumentumoldalon](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html).
+    ]]></string>
+  <string name="read">Olvassa el</string>
+  <string name="doNotRemindAgain">Ne emlékeztessen újra</string>
+  <string name="homeFab">Kezdőlap lebegő akciógomb Mód</string>
+  <string name="fabOverflowModeSingleClick">Egyszeri kattintással megnyithatja a felugró menüt, és a menüben kiválaszthatja a cikk létrehozását.</string>
+  <string name="fabOverflowModeLongPress">Egyszeri kattintással közvetlenül létrehozhat egy cikket, és hosszú nyomással megnyithatja a felugró menüt.</string>
+  <string name="safeMode">Biztonságos mód</string>
+  <string name="summarySafeMode">Amikor ez az alkalmazás a háttérbe vagy a legutóbbi feladatok listájának oldalára kerül, az alkalmazás tartalma eltakarásra vagy elrejtésre kerül; ha ez az elem be van kapcsolva, a képernyőképek készítése az alkalmazásban szintén tilos lesz.</string>
+  <string name="pressBackToClearCursor">A kurzor el van rejtve és csak olvasható üzemmódba lépett</string>
+  <string name="PureWriterManual">Pure Writer kézikönyv</string>
+  <string name="cursorJoyTutorial">Nyomja meg és tartsa lenyomva a fenti rázógombot, majd mozgassa az ujját a kurzor mozgatásához.</string>
+  <string name="tipBlueInputBox">Tipp: A bevitel után nyomja meg az Enter billentyűt ⏎ a kék beviteli mezőből való kilépéshez.</string>
+  <string name="cursorJoy">Joy-Con kurzor</string>
+  <string name="textShortcut">Szöveges parancsikon</string>
+  <string name="copyCurrent">Kijelölt vagy aktuális teljes szöveg másolása</string>
+  <string name="formatterAction">Formátum</string>
+  <string name="orSelectShortcutFunction">Vagy válassza ki a gyorsbillentyű funkciót</string>
+  <string name="joyNotSupportTitleNow">A funkció jelenleg nem támogatott a címben</string>
+  <string name="blueInputBox">Kék beviteli mező</string>
+  <string name="editorMarkdownSyncScrolling">Szinkronizált görgetés a szerkesztőhöz ⇋ Markdown</string>
+  <string name="smoothCursor">Sima kurzor</string>
+  <string name="typeOfTimeDisplayed">A megjelenített idő típusa</string>
+  <string name="timeModified">Módosított idő</string>
+  <string name="timeCreated">Létrehozott idő</string>
+  <string name="timeCreatedAndModified">Létrehozás és módosítás időpontja</string>
+  <string name="editor2">Szerkesztő 2</string>
+  <string name="currentChapterWordCount">Az aktuális fejezet szószáma</string>
+  <string name="currentBookWordCount">Az egész könyv szószáma</string>
+  <string name="splitLayout">Osztott elrendezés</string>
+  <string name="rating">Értékelés</string>
+  <string name="thankYou">Köszönöm!</string>
+  <string name="theTry">Próbálja ki a  címet.</string>
+  <string name="selectFolder">Mappa kiválasztása</string>
+  <string name="fileTypeNotSupported">A fájltípus nem támogatott</string>
+  <string name="grantStoragePermission">Tárolási engedély megadása</string>
+  <string name="folderNoLongerExists">A mappa vagy tároló már nem létezik!</string>
+  <string name="tipNotRecommendedFolder">Ez a mappa nem felel meg az általunk ajánlott mappának, és a Pure Writer nem fogja tudni beolvasni a régi biztonsági mentési fájlokat. Kérjük, figyeljen erre, vagy térjen vissza az előző lépéshez a javításhoz!</string>
+  <string name="tipTargetFolder">"A kiválasztott mappának megfelelően a Pure Writer végső tárolási könyvtára a következő: "</string>
+  <string name="messageWhyNeedSAF">A felhasználók adatainak jobb védelme érdekében az Android 11-től kezdődően a Pure Writer **nem igényel többé teljes külső tárhely olvasási/írási engedélyeket**, hanem lehetővé teszi a **felhasználók számára, hogy **megadjanak egy mappakönyvtárat**, és a Pure Writer csak olvasási/írási hozzáféréssel rendelkezik ehhez a könyvtárhoz.\n\nEzért az alábbi gombra kattintva ki kell választania egy mappát. Annak érdekében, hogy a jövőbeni újratelepítéskor visszaállíthassa a régi adatokat, **nyomatékosan javasoljuk**, hogy a ***`Documents`*** mappát válassza 🙏.</string>
+  <string name="pureWriterFolder">PureWriter mappa</string>
+  <string name="selectFont">Betűtípus kiválasztása</string>
+  <string name="materialFilesNote">Jelenleg az alábbi megnyitási lehetőség csak a zhanghai/MaterialFiles programmal való megnyitást támogatja. Ha szükséges, letöltheti ezt az alkalmazást saját maga, vagy manuálisan használhatja a fájlkezelőt a rendszerében a fenti elérési útvonal megnyitásához.</string>
+  <string name="changeFolder">Mappa módosítása</string>
+  <string name="yourFolderIs">"A kiválasztott mappakönyvtár a következő: "</string>
+  <string name="changeFolderNote">Ha az alábbiakban a *Mappa módosítása* lehetőséget választja, akkor **először **kézzel** át kell helyeznie a PureWriter mappát az új célmappába, majd meg kell változtatnia azt.</string>
+  <string name="previous">Előző</string>
+  <string name="autoConnectToDesktop">Automatikus csatlakozás az asztali verzióhoz</string>
+  <string name="autoConnectToDesktopNextTime">Legközelebb automatikusan csatlakozik az Asztalhoz</string>
+  <string name="optionsForTheFewPeople">Lehetőségek néhány ember számára</string>
+  <string name="summaryPie">Néhány olyan beállítás megadása, amelyet nem kellene megadni</string>
+  <string name="stretchEdgeEffect">Stretch edge hatás</string>
+  <string name="staticCursor">Statikus kurzor (nem villog)</string>
+  <string name="cursorJoyModePosition"><![CDATA[Kurzor öröm mód és pozíció]]></string>
+  <string name="cursorJoyModePosition0">Véletlen érintés elleni üzemmód, jobb oldalon</string>
+  <string name="cursorJoyModePosition1">\"Közvetlen érintés a mozgáshoz\" módban, a parancsikonlistában</string>
+  <string name="typewriterModeMode0">bekezdés mód</string>
+  <string name="typewriterModeMode1">Vonal üzemmód</string>
+  <string name="restoreOptionsMessage">Használnia kell ezt a biztonsági másolatot a helyi tartalom felülírásához vagy a helyi tartalommal való egyesítéséhez?\n\nMegjegyzés: Ha az Egyesítés lehetőséget választja, a biztonsági mentési fájlban lévő beállítások és a felhőalapú biztonsági mentési fiók adatai nem egyesülnek, és előfordulhat, hogy manuálisan újra kell konfigurálnia őket.\n\nEzenkívül, ha módosítja a cikkek sorrendjét vagy törli a cikkeket, ezek a műveletek nem egyesülnek, mert ez ütközéseket okoz. <b>Tehát azt javasoljuk, hogy használja a „felülírás” funkciót, és ha módosítja az adatokat az egyik eszközön, azonnal szinkronizálja az adatokat a másik eszközön a „felülírás” funkcióval. </b></string>
+  <string name="merge">Összevonás</string>
+  <string name="merging">Összeolvadás...</string>
+  <string name="checkIntegrityOfBackup">Ellenőrizze a mentési fájl sértetlenségét...</string>
+  <string name="noteBeforeRestoringBackup">Mielőtt minden elkezdődik, készítsen biztonsági mentést az aktuális adatokról...</string>
+  <string name="startMerging">Kezdje el az összevonást...</string>
+  <string name="insertANewBook">Új könyv beillesztése</string>
+  <string name="insertANewCategory">Új kategória beillesztése</string>
+  <string name="insertingOrUpdatingArticles">Cikkek beillesztése vagy frissítése...</string>
+  <string name="insertANewArticle">Új cikk beillesztése</string>
+  <string name="summary">Összefoglaló</string>
+  <string name="updateAnExistingArticle">Meglévő cikk frissítése</string>
+  <string name="totalNumberOfArticlesInsertedOrUpdated">A beillesztett vagy frissített cikkek száma összesen</string>
+  <string name="insertANewShortcut">Új parancsikon beillesztése</string>
+  <string name="totalNumberOfNewTimeMachineMessagesInserted">A beillesztett új időgépes üzenetek száma összesen</string>
+  <string name="mergeDone">Kész!</string>
+  <string name="relaunch">Újraindítás</string>
+  <string name="autoComplete">Automatikus befejezés</string>
+  <string name="autoCompleteSummary">A párosított szimbólumok automatikus kiegészítése csak akkor, ha a kurzor <b>a cikk végén</b> van.</string>
+  <string name="autoDeleteSymbolsInPairs">Páros szimbólumok automatikus törlése</string>
+  <string name="autoDeleteSymbolsInPairsSummary">Csak akkor, ha a párosított szimbólum tartalma <b>üres</b>.</string>
+  <string name="tip">Fő fogadás</string>
+  <string name="editor2Tip">You are in the second editor, and its top icon is opposite to the first editor. If you want to return to the first editor, you can <b>swipe left or right on the editor</b>.</string>
+  <string name="needCursorTip">Kattintson a szövegre a kurzor elhelyezéséhez a folytatás előtt.</string>
+  <string name="shortcutKeysForShortcut">A gyorsbillentyűk a gyorsbillentyű bejegyzésekhez</string>
+  <string name="shortcutKeysForShortcutSummary">Nyomja meg az Alt vagy a Ctrl + szám billentyűkombinációt a szöveg hívásához Rövidzáras bejegyzések</string>
+  <string name="optionsForLandscape"><![CDATA[Tájképi beállítások és irányelvek]]></string>
+  <string name="editInVerticalCenter">Szerkesztés függőlegesen középen</string>
+  <string name="onlyWorkForHardwareKeyboard">Csak hardveres billentyűzet esetén működik</string>
+  <string name="editInVerticalCenterSummary">Az aktuálisan szerkesztett sor mindig a képernyő közepén van (Lehet, hogy érvénytelen, ez egy beviteli módszer probléma, bocsánat ezért!)</string>
+  <string name="migrateImageAssets">Markdown képek migrálása a Documents/PureWriter/Assets könyvtárba</string>
+  <string name="migrateImageAssetsSummary">Ez segít központilag átvinni a Markdown által hivatkozott összes képet az új eszközre. E művelet után a Documents/PureWriter/Assets mappát átmásolhatja az új eszköz azonos könyvtárába, majd visszaállíthatja az eszköz biztonsági mentését az új eszközre, így az új eszköz zökkenőmentesen hivatkozhat az eredeti képekre.</string>
+  <string name="tipForFromPlayToAlipay">Ennek a fizetési módnak a használatához győződjön meg arról, hogy Kínában tartózkodik. Ez a fizetési mód elvileg csak a kínai szárazföldi felhasználók számára érhető el, mivel Kínában a Google és a Google Play nem használható fizetésre.</string>
+  <string name="switchToAlipayPaymentMethod">Váltson Alipay fizetési módra</string>
+  <string name="switchToGooglePlayPaymentMethod">Váltás a Google Play fizetési módra</string>
+  <string name="skuActive">Aktív</string>
+  <string name="askUnsubscribe"><u>Leiratkozás?</u></string>
+  <string name="notesForGoogleSkus">Fontos:\n\n* Mivel a Google nem biztosít felületet az előfizetések lemondásához, ha le kell mondania egy előfizetést, a folytatáshoz kattintson az előfizetésére vagy a fenti \"Leiratkozás?\" gombra.\n\n* Miután lemondta az alkalmazás előfizetését a Google Play-en, az alkalmazás nem kapja meg azonnal a legújabb állapotot, így ezen az oldalon azt fogja látni, hogy az előfizetési elem még mindig \"aktív\" állapotban van. Ez egy normális jelenség. A helyes eredményt a következő napon kapja meg, vagy várjon az aktuális előfizetési időszak végéig.\n\n* Ha az előfizetésről az \"Élethosszig tartó\" elemre kíván váltani, akkor először az előfizetését kell lemondania, majd megvásárolnia az \"Élethosszig tartó\" elemet. Ez az alkalmazás önmagában nem tudja megszüntetni az előfizetését.\n\n* Ha a fizetési folyamat során a DF-DFERH-01 hibát tapasztalja, kérjük, próbálja újraindítani a készülékét, és próbálja meg újra.\n\n* A fizetés eredménye automatikusan a rendszer Google-fiókjához lesz kötve, köszönjük!</string>
+  <string name="activating">Aktiválás...</string>
+  <string name="updating">Frissítés...</string>
+  <string name="themesAndPapers"><![CDATA[Témák és háttérképek]]></string>
+  <string name="once">valaha</string>
+  <string name="selectALightTheme">Világos téma kiválasztása</string>
+  <string name="selectADarkTheme">Sötét téma kiválasztása</string>
+  <string name="selectATheme">Válasszon témát</string>
+  <string name="tipBadPaper">A kiválasztott kép vagy szín nem felel meg a követelménynek, kérjük, válassza ki újra.</string>
+  <string name="fixedThemeTitle">Javítva, nem kapcsol automatikusan</string>
+  <string name="followSystemThemeTitle">Kövesse a rendszert (szinkronizálás az operációs rendszerrel)</string>
+  <string name="scheduledThemeTitle">Automatikus váltás az idő függvényében:\n7:00-17:00 világos téma, különben sötét téma</string>
+  <string name="paperSettingsHint">Kattintson a háttérkép/téma kiválasztásához vagy testreszabásához.</string>
+  <string name="lightTheme">Fény téma</string>
+  <string name="darkTheme">Sötét téma</string>
+  <string name="whetherOverwriteSettings">Helyi beállítások felülírása?</string>
+  <string name="realNo">Nem</string>
+  <string name="realYes">Igen</string>
+  <string name="askOverwriteSettings">A biztonsági mentési fájlban lévő cikkadatbázist a helyi cikkadatbázis felülírására fogjuk használni, de nem tudjuk, hogy szükséged van-e arra, hogy a biztonsági mentési fájlban lévő beállításokat használjuk a helyi beállítások felülírására. Kérjük, válassza ezt a lehetőséget:</string>
+  <string name="privacyPolicySummary">Nem gyűjtünk semmilyen személyes adatot</string>
+</resources>

@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="pureWriter">Pure Writer</string>
+  <string name="titleHint">Titel</string>
+  <string name="editorTipAMenu">Du måste först välja en text</string>
+  <string name="editorHintContent">Börja skriva innehåll...</string>
+  <string name="slogan">Snabbt | Fantastisk upplevelse | Förlora aldrig ditt innehåll</string>
+  <string name="iconDesc">Ikonen för Pure Writer är en tidsmaskin\nTidsmaskinen flyter framåt. Önskar att ord kan ta oss till det förflutna och framtiden...</string>
+  <string name="undo">Ångra</string>
+  <string name="redo">Gör om</string>
+  <string name="about">Om | Hjälp</string>
+  <string name="defaultContent">Trevligt att träffas!\nDetta är en snabb redigerare för vanlig text som är designad med vad vi anser att \"en bra skrivupplevelse\" borde vara. Pure Writer är <b>minimalistisk och låter dig skriva vad du vill när som helst och var som helst utan att vara rädd för att du någonsin kommer att förlora ditt innehåll igen.</b>\nMed Pure Writers rad- och styckeavståndsfunktion blir din text tydligare och mer bekväm att läsa. Inte bara det, utan den har också mjuk rullning, svep för att komprimera-tangentbord och många fler spännande funktioner.\nEnkelhet är dold komplexitet. Du kan kryptera ditt arbete med ditt fingeravtryck, börja eller sluta skriva när du vill och dela ditt innehåll snabbt till andra appar – vi har dig täckt.\nViktigast av allt, <b>om du inte raderar det manuellt, kommer du aldrig att förlora ditt arbete när du använder denna textredigerare. Oavsett om det är en oavsiktlig radering eller en oväntad avstängning, kommer du fortfarande att kunna återställa den från historiken.</b>\nFler funktioner: WebDAV molnsäkerhetskopiering, Material Design 2-tema, Markdown, skrivmaskinsläge, export som lång textbild, Time Machine...\nDet är snabbt och smidigt. Du kan avbryta och fortsätta skriva när som helst och var som helst.\nNjut av att använda Pure Writer.</string>
+  <string name="share">Dela till en annan app</string>
+  <string name="copyTitle">Kopiera titeln</string>
+  <string name="lock">Lås</string>
+  <string name="history">Historia</string>
+  <string name="tipShouldUnlock">Lås upp först</string>
+  <string name="tipShouldSetupFingerprint">Skapa först ett fingeravtryck i systeminställningarna!</string>
+  <string name="sendContentTo">"Skicka innehållet till: "</string>
+  <string name="failedTitleIsEmpty">Titeln får inte vara tom.</string>
+  <string name="failedContentIsEmpty">Innehållet kan inte vara tomt</string>
+  <string name="copyTheTitleSuccessfully">Kopierade titeln framgångsrikt!</string>
+  <string name="copyTheContentSuccessfully">Kopierade innehållet framgångsrikt!</string>
+  <string name="titleAndContentAreEmpty">Titel och innehåll är tomma!</string>
+  <string name="clearThisContent"><b>Rensa</b> detta innehåll</string>
+  <string name="copyContent">Kopiera innehållet</string>
+  <string name="wordCountShort">Räkna</string>
+  <string name="wordCountLong">Antal ord</string>
+  <string name="wordCountOfCurrentArticle">Totalt antal ord i den aktuella artikeln</string>
+  <string name="floatingWordCount">Flytande antal ord</string>
+  <string name="historyState">Sparad</string>
+  <string name="tipNeedFingerprint">För att visa och redigera, använd först ditt fingeravtryck för att låsa upp.</string>
+  <string name="empty">Tomt</string>
+  <string name="isRevertToThisFile">Återskapa det här dokumentet?</string>
+  <string name="noMore">Inget mer!</string>
+  <string name="goOn">Fortsätt</string>
+  <string name="reject">Avfall</string>
+  <string name="defaultTitle">Som du vill</string>
+  <string name="tipPermissionFailed">Tillstånd beviljas inte. Historiken kan inte sparas.</string>
+  <string name="titleStorePermissionFailed">Lagringstillstånd nekas</string>
+  <string name="tipMessageStoragePermissionFirst">Ge oss tillåtelse att få tillgång till ditt lagringsutrymme. Pure Writer kommer endast att använda den för att automatiskt säkerhetskopiera dina filer för att förhindra att du förlorar dem!</string>
+  <string name="tipMessageStoragePermissionToSettings">Vi behöver tillgång till ditt lagringsutrymme för att automatiskt säkerhetskopiera dina filer. Bevilja åtkomsten manuellt i enhetens inställningar!</string>
+  <string name="actionOkGoSettings">Gå till Inställningar</string>
+  <string name="tipFingerAuthRetry">Kan inte känna igen fingeravtryck. Du har %d försök kvar.</string>
+  <string name="tipFingerAuthFailed">Fingeravtrycket är avstängt. Försök igen om 1 minut. Slutar Pure Writer...</string>
+  <string name="tipRichText">Pure Writer syftar till att ge användarna en minimalistisk skrivmiljö, så det finns inga planer på att inkludera Rich Text-funktionen i framtida utvecklingar. Du kanske har märkt en del <b>fet text</b> i förhandsgranskningen, men det beror på att det är en dold funktion – fetstil kan inte heller visas i .txt-filer. Förlåt! Om du har bättre förslag, kontakta mig. Tack för ditt stöd!</string>
+  <string name="settings">Inställningar</string>
+  <string name="on">På (English: On)</string>
+  <string name="off">Av (English: Off)</string>
+  <string name="shortcutBar">Snabbkommandofältet</string>
+  <string name="insertBlankLinesWhenExporting">Lägg till extra rader vid export</string>
+  <string name="indent">Inställningsmärke</string>
+  <string name="format">Format</string>
+  <string name="contentTextSize">Innehållets teckenstorlek</string>
+  <string name="iKnow">Jag har den.</string>
+  <string name="tipIndent">Observera: Inställningarna påverkar inte den befintliga texten.</string>
+  <string name="explanation">Förklaring</string>
+  <string name="tipInsertBlankLines">När den här inställningen är aktiverad läggs en extra rad till i varje stycke när texten kopieras eller delas. Eftersom det särskilda styckeavståndet endast finns i Pure Writer krävs extra rader för att få samma effekt utanför denna app.</string>
+  <string name="deleteObsoleteFiles">Ta bort föråldrade filer</string>
+  <string name="dayNightMode">Nattläge</string>
+  <string name="summaryPay">Få Pro-funktioner</string>
+  <string name="tipSettingNotSupport">Denna inställning är fortfarande under utveckling.</string>
+  <string name="promptShortcutTitle">Beskrivning av genväg (valfritt)</string>
+  <string name="promptShortcutContent">Genvägsinnehåll (obligatoriskt)</string>
+  <string name="createShortcut">Skapa en genväg för text</string>
+  <string name="noteShortcutCursorIndex">Flytta markörens position i innehållet för att ställa in markörens placering efter att artikeln har infogats.</string>
+  <string name="indentShort">Inställningsmärke</string>
+  <string name="delete">Ta bort</string>
+  <string name="messageDeleteShortcut">Klicka på OK för att ta bort denna genväg</string>
+  <string name="features">Funktioner</string>
+  <string name="sendTextFailedForTooLarge">Din text är för lång för att skickas direkt till andra appar. Texten har redan kopierats till klippbordet.</string>
+  <string name="previewAndExport">Förhandsgranska och exportera...</string>
+  <string name="hasSavedToYourAlbum">Saved to album</string>
+  <string name="preview">Förhandsgranska</string>
+  <string name="proReadMe">Om du känner att Pure Writer är till hjälp och önskar att den fortsätter att utvecklas, skulle du ha något emot att bidra med några dollar till utvecklaren?\n\nDitt stöd uppmuntrar oberoende utvecklare som jag att utveckla och ta med mer välbyggda appar till dig.\n\nFör att stödja kan du klicka på Google Play-knappen. <b>Efter att ha bidragit kommer du att få Pro-funktioner som Material Design 2, Outline, Export, Custom Paper / Background och även framtida uppdateringar gratis som ett tecken på uppskattning.</b>\nPå grund av supportrar som du strävar Pure Writer efter att bli bättre och uppdaterad. Till sist, tack för ditt stöd!</string>
+  <string name="tipRequirePro">Detta är en Pro-funktion</string>
+  <string name="cancel">Avbryt</string>
+  <string name="no">Avbryt</string>
+  <string name="summaryPaid">Pro aktiverad</string>
+  <string name="labelUpdate">En ny Pure Writer %1$s är tillgänglig</string>
+  <string name="update">Uppdatera</string>
+  <string name="messageDeleteArticlesToTrash">Är du säker på att du vill radera dessa artiklar och flytta dem till papperskorgen?</string>
+  <string name="tipPurchasedStatusFailed">Köpte. Om köpstatusen inte uppdaterades kan du försöka klicka på Pro-objektet igen (du kommer inte att debiteras dubbelt om du gör det).</string>
+  <string name="createNew">Skapa en ny artikel</string>
+  <string name="autoLock">Autolås</string>
+  <string name="enabled">Aktiverad</string>
+  <string name="titleOpenImportedFile">Vi har upptäckt att du har öppnat en extern fil, välj en åtgärd.</string>
+  <string name="copied">Kopierad</string>
+  <string name="sort">Typ av sortering</string>
+  <string name="sortTypeModifiedTimeDown">Tid ändrad</string>
+  <string name="sortTypeCreatedTimeDown">Tid skapad</string>
+  <string name="warningSavedFailed">Sparandet av artikeln misslyckades. Kopiera ditt innehåll och försök att starta om appen för att kontrollera om något innehåll har gått förlorat.</string>
+  <string name="backupNow">Säkerhetskopiera nu</string>
+  <string name="backupToLocalNow">Säkerhetskopiera till lokal lagring nu</string>
+  <string name="backupToCloudNow">Säkerhetskopiera till molnlagring nu</string>
+  <string name="summaryBackupToLocal">Säkerhetskopieringsfilen kommer att sparas i Documents/PureWriter/Backups</string>
+  <string name="summaryBackupToCloud">Backupfilen sparas till ditt molnlagringsutrymme om den är inställd.</string>
+  <string name="restoreBackup">Återställa säkerhetskopiering</string>
+  <string name="summaryRestoreTheBackup">Säkerhetskopieringsfilen kommer att hämtas från Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto och din WebDAV eller Dropbox eller GoogleDrive</string>
+  <string name="backupSuccessful">Backup successful</string>
+  <string name="restoreSuccessful">Backup restored successfully</string>
+  <string name="tipBackupList">Här är dina säkerhetskopior. Du kan klicka för att återställa dem.\n<b>Om du vill hämta säkerhetskopior från Dropbox/WebDAV/GoogleDrive, logga in på ditt Dropbox/WebDAV/GoogleDrive-konto först!</b></string>
+  <string name="tipBackupNotExist">Säkerhetskopieringsfilen finns inte. Placera säkerhetskopian i Documents/PureWriter/Backups och försök igen.</string>
+  <string name="wordCountMode">Läge för ordräkning</string>
+  <string name="fab">Flytande åtgärdsknapp för hemmet</string>
+  <string name="tipFab">Tips: Tryck länge på den flytande åtgärdsknappen Hem för att dölja den tillfälligt.</string>
+  <string name="tipCannotCreateNewWhenEmpty">Det går inte att skapa en ny artikel när både titel och innehåll är tomma! Du kan dock fortfarande skapa den via knappen i det övre högra hörnet av menyn.</string>
+  <string name="more">Mer</string>
+  <string name="notSupportOpeningTheLink">Länken stöds inte</string>
+  <string name="formatters">Formatters</string>
+  <string name="formatterSpace">Inkludera ett mellanslag mellan kinesiska och engelska ord.</string>
+  <string name="formatterIndent">Infoga indragning i början av alla stycken</string>
+  <string name="formatterLineBreak">Lämna en tom rad mellan styckena</string>
+  <string name="formatterRemoveBreak">Ta bort alla tomma rader mellan styckena.</string>
+  <string name="titleAsAWordForACount">Räkna ord individuellt</string>
+  <string name="trash">Skräp</string>
+  <string name="papers">Papper/teman</string>
+  <string name="custom">Anpassad</string>
+  <string name="promptCustomPaper">RGB-värde eller länk till bild-URL</string>
+  <string name="readMeCustomPaper">Ange ett RGB-värde eller en bildlänk, t.ex. #000000 eller https://unsplash.com/photos/x.jpg.</string>
+  <string name="apply">Ansök på</string>
+  <string name="defaultDark">Standard mörkt</string>
+  <string name="pureWhite">Ren vit</string>
+  <string name="titleAlignCenter">Rikta titeln till mitten</string>
+  <string name="tipShortcutBarEnabled">Stängning rekommenderas inte</string>
+  <string name="open">Öppna</string>
+  <string name="summaryAutoBackup">Alla dina artiklar säkerhetskopieras automatiskt när du avslutar appen. Säkerhetskopieringen är begränsad till 25 nyaste filer.</string>
+  <string name="migratingData">Migrering av data</string>
+  <string name="autoBackup">Automatisk säkerhetskopiering</string>
+  <string name="summaryDeleteObsoleteFiles">Vi använder nu privata kataloger för att lagra allt ditt innehåll. Klicka här för att radera gamla versioner av historikfilerna som finns kvar på ditt SD-kort.</string>
+  <string name="tipArticleDeleting">Radering av artiklar, tillfälligt inaktiverade alla åtgärder</string>
+  <string name="noHistory">Ingen historik hittad</string>
+  <string name="formatterRemoveIndent">Ta bort indragning</string>
+  <string name="keepScreenOn">Låt skärmen vara på</string>
+  <string name="gfmBreaksEnabled">Omsluta med en radbrytning</string>
+  <string name="gfmBreaksDisabled">Kräver minst två radbrytningar för att återge ett nytt streck.</string>
+  <string name="wordCountOfThisBook">Totalt antal</string>
+  <string name="wordCountOfThisBookDescription">Totalt antal ord för den aktuella boken</string>
+  <string name="timeMachineGuide">Vad är det här? Du kan se det här som ett chattfönster eller en plats där du kan registrera dina idéer, eller till och med något som liknar Google Assistant. Den har ett särskilt namn som heter Time Machine. Det är trevligt att träffa dig!</string>
+  <string name="copyDate">Datum för kopiering</string>
+  <string name="defaultBook">Standardbok</string>
+  <string name="books">Böcker</string>
+  <string name="createNewBook">Skapa en ny bok</string>
+  <string name="summaryOfAbout">Läs mer om de ursprungliga idéerna och koncepten som vi utformade för den här applikationen.</string>
+  <string name="emptyTip">Inga artiklar har öppnats ännu</string>
+  <string name="name">Namn</string>
+  <string name="optionalDescription">Beskrivning (valfritt)</string>
+  <string name="createBookForDialogButton">Skapa en bok</string>
+  <string name="openSourceLicenses">Licenser för öppen källkod</string>
+  <string name="cannotDelete">Det går inte att radera</string>
+  <string name="cannotDeleteNotEmptyBook">Boken är inte tom. Om du vill radera den måste du först radera artiklarna i den individuellt.</string>
+  <string name="move">Flytta</string>
+  <string name="moveTo">Flytta till</string>
+  <string name="timeMachine">Tidsmaskin</string>
+  <string name="listFirst">Öppna kapitlen vid start</string>
+  <string name="booksFirst">Öppna böckerna vid start</string>
+  <string name="language">Språk</string>
+  <string name="followSystem">Följ systemet</string>
+  <string name="localPicture">Lokal bild</string>
+  <string name="selectPicture">Välj bild</string>
+  <string name="toastCannotRetrieveSelectedImage">Kan inte hämta vald bild</string>
+  <string name="picture">Bild</string>
+  <string name="saved">Sparad</string>
+  <string name="sendTo">Skicka till</string>
+  <string name="mode">Läge</string>
+  <string name="plainText">Klartext</string>
+  <string name="tipHasNotPermissionWithAutoBackup">Försöket till säkerhetskopiering misslyckades eftersom tillstånd att komma åt lagringsutrymmet nekades.</string>
+  <string name="hideTitleBarWhenPreviewingMarkdown">Dölj titelfältet vid förhandsgranskning av Markdown</string>
+  <string name="privacyPolicy">Integritetspolicy</string>
+  <string name="beforeRestoringYourBackup">innan-du-återställer-din-säkerhetskopia</string>
+  <string name="trashDescription">Återskapa dina raderade artiklar</string>
+  <string name="messageDeleteArticlesDirectly">Ta bort dessa artiklar permanent</string>
+  <string name="trashFolderTip">Du kan inte skapa en ny fil i den här papperskorgen!</string>
+  <string name="tipLandscapeOrientation">Använd ett externt tangentbord i liggande läge</string>
+  <string name="promptShortcutOrder">Beställ</string>
+  <string name="editShortcut">Redigera text Genväg</string>
+  <string name="fixedSync">Bro</string>
+  <string name="bridgeUpload">Bro: Ladda upp</string>
+  <string name="bridgeDownload">Bro: Hämta</string>
+  <string name="backupSettingTitle">Säkerhetskopiering</string>
+  <string name="backupSettingSummary">Säkerhetskopiering, återställning, Dropbox, WebDAV, Google Drive</string>
+  <string name="syncNetwork">Säkerhetskopiering i molnet</string>
+  <string name="syncOnlyWifi">Synkronisera säkerhetskopiering till molnet endast när Wi-Fi är aktivt</string>
+  <string name="syncAllNetworks">Synkronisera säkerhetskopiering till molnet i alla nätverk</string>
+  <string name="webDavRootURL">WebDAV <b>URL</b></string>
+  <string name="webDavAccount">WebDAV-konto</string>
+  <string name="webDavPassword">WebDAV-lösenord</string>
+  <string name="autoBackupToCloud">Automatisk säkerhetskopiering till molnlagring</string>
+  <string name="noWebDavConfigForUploading">WebDAV-konfigurationen är ofullständig eller felaktig. Vänligen ändra WebDAV-konfigurationen innan du laddar upp.</string>
+  <string name="noWebDavConfig">WebDAV-konfigurationen är ofullständig eller felaktig.</string>
+  <string name="uploadSuccessful">Uppladdning lyckad</string>
+  <string name="fetchSuccessful">Hämtning lyckad</string>
+  <string name="messageUpload">Pure Writer skapade en <b>fixad</b> fil på din molndisk. Filnamnet är <b>PureWriter.txt</b>. Du kan klicka på OK för att ladda upp din nuvarande artikel till den här fixade filen. Sedan kan du redigera denna molnfil på andra enheter. När den ändras kan du dra ner den.\n\nVill du nu skriva över det aktuella artikelinnehållet till den molnfilen?</string>
+  <string name="typewriterMode">Skrivmaskinsläge</string>
+  <string name="edit">Redigera</string>
+  <string name="editBook">Redigera boken</string>
+  <string name="tipFloatingWordCountDisabled">När du har stängt av den flytande ordräkningen kan du fortfarande se ordräkningen i listan över kapitel/artiklar.</string>
+  <string name="shareText">Rekommendation: Pure Writer är en app för textredigering med många funktioner som ger dig sinnesro med sina funktioner: Det finns även en bekväm skrivmiljö: History Records, skydd i flera lager som förhindrar att du förlorar ditt värdefulla innehåll och även en bekväm skrivmiljö. Läs mer här: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
+  <string name="shareMessage">Om du tycker om att använda Pure Writer, hjälp oss att sprida ordet! Klicka på Dela-knappen till höger för att dela den här appen med dina vänner. Det kommer att betyda mycket för oss och för appen när den förbättras tack vare ditt stöd. Tack!\n\nMer information finns på följande webbplats: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
+  <string name="reduceDatabaseSize">Rensa historik för att minska databasstorleken</string>
+  <string name="reduceDatabaseSizeMessage">Radera historik för alla artiklar. \nObservera: Detta raderar endast historikposterna och INTE själva artikeln. \n\nDu rekommenderas att göra en säkerhetskopia innan du tar bort artikeln. \nDu rekommenderas också att radera historikposterna då och då för att minska databasens storlek!</string>
+  <string name="deleteSuccessful">Radera framgångsrikt</string>
+  <string name="unlockPro">Lås upp Pro</string>
+  <string name="presetTitle1">Pure Writer - Att koppla samman det förflutna och framtiden med ord</string>
+  <string name="presetContent1">Pure Writer är en snabb och bekväm textredigeringsapp som förhindrar att du tappar bort dina verk. När du bläddrar bland kommentarerna och recensionerna av Pure Writer i Google Play kan du hitta en del lovord för den här appen, till exempel Det finns ingen bättre app än den här, Den mest tillfredsställande appen, Jag älskar den här appen så mycket, Kärlek vid första ögonkastet för den här appen... Som den enda utvecklaren av Pure Writer var kommentarerna särskilt glädjande för mig. \nI juni 2017, efter att jag gått igenom otaliga obekväma, dåligt utförda textredigeringsprodukter och förlorat mina värdefulla textfiler, är jag fast besluten att utveckla min egen textredigeringsapp som gör det möjligt för dess användare att skriva när som helst och var som helst i en funktionsfylld och bekväm miljö, med vetskapen om att deras ord aldrig kommer att försvinna. Den här appen kommer, som jag bestämt mig för, att utvecklas med ett författarperspektiv. \nFöre allt detta arbetade jag på deltid med ett program för redigering av rik text. Trots att vi lade ner våra hjärtan på den blev programvaran inte som vi ville att den skulle bli. Trots det utvecklade jag framgångsrikt några unika funktioner som är mer än tillräckligt för Pure Writer. \nOch så föddes Pure Writer. Redan från början tog Pure Writer hand om att perfektionera varje rad och teckenavstånd på Android. Detta är den speciella funktion som ingen annan textredigeringsapp för Android har uppnått förutom Microsoft Word. Och ändå är paketstorleken för Microsoft Word mer än tio gånger större än Pure Writers.\nInte bara det, Pure Writer erbjuder också specialfunktioner som att starta textredigeraren vid appstart och särskilt historikposter. Eftersom jag själv är författare förstår jag den yttersta vikten av att ha en historikpost - den gör att du kan fokusera på ditt skrivande samtidigt som den ger dig en trygghet i att du aldrig, aldrig någonsin kommer att förlora det du skriver. Även om din telefon plötsligt stängs av utan förvarning kan Pure Writer ändå spara ditt innehåll automatiskt. På så sätt kan alla användare tryggt börja och sluta skriva när de vill i en bekväm textredigerare. \nDessutom stöder Pure Writer inmatningsgenvägar och formateringsverktyg, inmatningsgenvägar gör det möjligt för användare att ställa in sina egna anpassade ord i genvägsfältet, så att de kan återanvända dem om och om igen med lätthet, och formateringsverktyg hjälper användare att snabbt formatera sin text, till exempel genom automatiskt avståndstagande och arrangemang. \nFörutom dessa funktioner har man lagt ner mycket arbete på att finslipa minsta detalj i Pure Writer. När du använder Pure Writer kan du dölja det mjuka tangentbordet genom att helt enkelt svepa över skärmen, få markören att vara exakt där du vill att den ska vara och även hålla artikeln stilla medan du döljer det mjuka tangentbordet... Om du skulle jämföra Pure Writer med andra textredigeringsappar kommer du att märka att Pure Writer har tagit perfekt hand om alla små detaljer som i slutändan bidrar till en perfekt skrivmiljö.\nPure Writer har de redigeringsverktyg du behöver, till exempel: automatisk indragning, exportera artikeln som olika filer inklusive bilder, flytande ordräkning, avbrytning, Markdown, anpassade bakgrundsteman, nattläge, biometrisk kryptering, automatisk textkomplettering, delning och mycket mer. Trots alla funktioner och detaljer har Pure Writer ändå behållit sin minimalistiska stil och följer riktlinjerna för Material Design. Jag gjorde också en Time Machine för att användarna ska kunna göra små anteckningar och behålla dem. Namnet Time Machine är hämtat från serietidningen, med innebörden att man kopplar samman det förflutna och framtiden med ord. \nFram till idag har Pure Writers kodbas fått över tusen commits och miljontals radändringar. Även om Pure Writer upptar nästan all min fritid är det alltid en lättnad att fler och fler användare ger mig positiv feedback. Jag har aktiv kontakt med Pure Writers användare, samlar in feedback och finslipar appen. Jag har aldrig känt mig lyckligare vid tanken på att göra något långsiktigt som hjälper andra människor. \nSlutligen vill jag tacka alla mina vänner som har hjälpt mig under hela den här resan. Utan er hade den här appen aldrig varit där den är idag. Med det här inlägget presenterar jag dig för de ursprungliga idéerna bakom Pure Writer och alla dess specialfunktioner, och förhoppningsvis kan fler lära känna den bättre. Låt oss hoppas att vi kan lämna underbara minnen bakom oss under den begränsade tid vi har. Låt våra ord ta oss tillbaka i tiden och få oss att föreställa oss framtiden.</string>
+  <string name="presetTitle2">Pure Writer - Skyddsmekanism</string>
+  <string name="presetContent2">Den nuvarande skyddsmekanismen som Pure Writer har är: \n1. Artikeln sparas när innehållet ändras. Om detta misslyckas kommer Pure Writer att meddela användaren omedelbart. \n2. Pure Writer kontrollerar varannan sekund om innehållet sparas i databasen. Om det misslyckas kommer Pure Writer att meddela användaren omedelbart. \n3. Om den misslyckas med autosparandet kommer användarna inte att kunna avsluta appen helt och hållet. Att trycka på avslutningsknappen vid detta tillfälle är detsamma som att trycka på hemknappen utan att helt stoppa appen. Detta ger användaren en viss tid att manuellt spara sitt innehåll. \n4. Varje gång appen körs i bakgrunden eller avslutas kommer den automatiskt att säkerhetskopiera hela databasen om något innehåll redigeras. Säkerhetskopieringsfilen kan nås när som helst. Säkerhetskopian kommer att sparas tillsammans med den tidigare versionen av säkerhetskopian så att användarna kan återställa säkerhetskopian.\n5. Historikregistret, Undo och Redo-funktionen tillhandahålls för varje artikel.  \n6. Har en papperskorg för att förhindra oavsiktlig radering av artiklar.\n7. Säkerhetskopiering i molnet: Om Pure Writer är integrerad med WebDAV kommer den automatiskt att säkerhetskopiera allt databasinnehåll inklusive artiklarna till molnet.</string>
+  <string name="presetContent3">Om du tyckte om att använda Pure Writer och vill att det ska utvecklas aktivt, skulle du kunna bidra med några pengar för att uppmuntra utvecklaren?\nDitt stöd kan uppmuntra oberoende utvecklare som jag att göra fler användbara appar. \nFör att bidra kan du trycka på knappen Unlock Pro i det övre högra hörnet på sidan Inställningar. Som ett tecken på uppskattning kommer du att kunna få Pro-funktioner som Spara som... och Anpassad bakgrund/papper. \nPure Writer kommer också att förbättras som ett resultat av ditt stöd. Tack på förhand! Om du har några frågor eller feedback, tveka inte att skicka ett e-postmeddelande till mig på drakeet@drakeet.com.</string>
+  <string name="presetTitle4">Pure Writer - Integritetspolicy</string>
+  <string name="presetContent4">Pure Writer tar sina användares integritet på största allvar och kommer aldrig att samla in någon av dina privata uppgifter. \nDen kommer inte heller att läsa eller ändra något innehåll i ditt klippbord utan att först meddela dig.\nLagringstillståndet som Pure Writer bad om används enbart för automatisk säkerhetskopiering och för att spara dina filer. I övrigt kommer den inte att läsa eller ändra några av dina filer i lagret utan att först meddela dig.\nPure Writer stöder molnbackup, som använder HTTPS-kryptering för att överföra dina databasbackuper till din WebDAV-molnlagring. Dina molnbackuper kommer endast att lagras i det molnlagringsutrymme som du har ställt in, och de kommer aldrig att laddas upp till andra platser.</string>
+  <string name="createAt">Skapad på</string>
+  <string name="updatedAt">Uppdaterad på</string>
+  <string name="onlyAvailableWhenParagraphOn">Endast tillgänglig när styckeavstånd är aktiverat</string>
+  <string name="onlyAvailableWhenParagraphOff">Endast tillgänglig när styckeavståndet är avstängt</string>
+  <string name="lowProfile">Fokusläge för statusfältet</string>
+  <string name="chapters">Kapitel</string>
+  <string name="sortTypeTitleUp">Sortera titel A - Z</string>
+  <string name="sortTypeTitleDown">Sortera titel Z - A</string>
+  <string name="sortByRank">Manuell sortering</string>
+  <string name="modifyRanks"><i><b>Gör manuell sortering</b></i></string>
+  <string name="markdownShortcutTip">Du har just infogat en Markdown, som endast kommer att gälla i Markdown Preview-läget. Vill du aktivera Markdown-läget?</string>
+  <string name="importedFileTooLargeToOpen">Den importerade filen är för stor, öppnandet av filen misslyckades</string>
+  <string name="failed">Misslyckad</string>
+  <string name="insertCategoryAboveShort">Infoga kategori <b>ovanför</b></string>
+  <string name="insertCategoryBelowShort">Infoga kategori <b>under</b></string>
+  <string name="insertCategoryBottomShort">Infoga kategori i <b>botten</b></string>
+  <string name="insertCategoryAboveLong">Infoga kategori <b>över</b> den aktuella artikeln</string>
+  <string name="insertCategoryBelowLong">Infoga kategori <b>under</b> den aktuella artikeln</string>
+  <string name="insertCategoryBottomLong">Infoga en ny kategori i <b>botten</b> av kapitellistan</string>
+  <string name="insertCategory">Infoga kategori</string>
+  <string name="editCategory">Redigera kategori</string>
+  <string name="category">Kategori</string>
+  <string name="deleteEmptyArticlesShort">Ta bort alla tomma artiklar</string>
+  <string name="deleteEmptyArticlesLong">Ta bort alla artiklar med tomma rubriker och innehåll i denna bok.</string>
+  <string name="deleteCategory">Ta bort kategori</string>
+  <string name="exportBook">Exportera denna bok</string>
+  <string name="needManualSortingTitle">Du måste byta till manuell sortering för att kunna använda den här funktionen.</string>
+  <string name="needManualSortingMessage">Vill du ändra inställningarna till manuell sortering?</string>
+  <string name="doubleClickToExit">Dubbelklicka på Tillbaka-tangenten för att avsluta appen</string>
+  <string name="doubleClickToExitTip">Klicka tillbaka igen för att avsluta</string>
+  <string name="markdownCheckBoxTip">Det här alternativet är för Markdown-funktionen. När du markerar det förlorar du effekten av avstånd och indragning av stycken. Om du inte är bekant med Markdown rekommenderas du att inte markera den här rutan.\n\nMarkdown är ett markupspråk med syntax för formatering av vanlig text. Du kan söka på nätet efter Markdown om du är intresserad.</string>
+  <string name="unlockValidityPeriod">Autolås Giltighetsperiod</string>
+  <string name="unlockValidityPeriodSummary">%s\nObservera: Om du trycker på Tillbaka för att avsluta appen kommer den att låsas nästa gång.</string>
+  <string name="lockImmediatelyIfAway">Lås omedelbart om du är borta</string>
+  <string name="lockIfAwayMoreThan3Minutes">Lås om du är borta i mer än 3 minuter</string>
+  <string name="font">Typsnitt</string>
+  <string name="appEmbeddedFont">Inbäddat typsnitt i appen</string>
+  <string name="noInternetConnection">Ingen internetuppkoppling</string>
+  <string name="cloudBackup">Säkerhetskopiering i molnet</string>
+  <string name="cloudConnection">Typ av molnanslutning</string>
+  <string name="signIn">Logga in</string>
+  <string name="lockFallback">Om du inte kan låsa upp den hela tiden kan du gå till telefonens systeminställningar, ta bort alla dina fingeravtryck och öppna Pure Writer igen.</string>
+  <string name="smoothScrollerTitle">Smidig rullningsanimation när du klickar på en textrad</string>
+  <string name="tipSmoothScrolling">Om det här alternativet är aktiverat, när du klickar på en rad i innehållstexten, kommer textvyn att rulla smidigt till den fokuserade raden om det behövs. Om det här alternativet är avstängt kommer den att hoppa till den raden på ett ögonblick. \nRullningsanimationen kanske inte fungerar bra på vissa enheter, så stäng av det här alternativet om du känner dig fast.</string>
+  <string name="defaultMessageUpdateApk">Detta är en viktig version, uppdatera den så snart som möjligt.</string>
+  <string name="readme">Du har aktiverat den nya Material Design 2-designen för Pure Writer.\n\nMaterial Design 2 ger ett nytt papper för nedsänkning i fullskärmsläge och en genomskinlig övre balk för ett fräschare utseende.\n\nMen samtidigt kan det finnas många problem med den nya designen, så det här är en experimentell funktion i Pure Writer, som kan ha vissa visuella problem med UI. Dessutom föredrar jag som författare till Pure Writer den ursprungliga Pure Writer-designen, som är mer iögonfallande och fokuserad på textinnehållet, så den här designfunktionen är faktiskt utvecklad som svar på de starka kraven från ett litet antal användare. Det kräver en hel del extra utvecklingskostnader och det är inte lätt att tillhandahålla, och eftersom det kommer att finnas två Pure Writer-designar nu kan utvecklarnas arbete mångdubblas.\n\nPå grund av detta kommer Pure Writer att rekommendera dig att betala för den, men du kan fortfarande ha mycket tid på dig att uppleva och fatta ett slutgiltigt betalningsbeslut. Försök gärna att stödja det. Om statistiken visar att andelen användare som är villiga att betala är liten kan utvecklaren avbryta eller sluta underhålla Material Design 2. När du klickar på OK anses du som standard godkänna detta innehåll.\n\nTack alla! Jag kommer att göra mitt bästa för att tillhandahålla en bättre och bättre Pure Writer, njut gärna!</string>
+  <string name="lowFreeStorageSpaceWarning">Din telefon har endast %1$d MB ledigt lagringsutrymme, vilket kan orsaka att Pure Writer inte sparar eller att säkerhetskopieringen misslyckades. Rensa upp och lämna mer än %2$d MB innan du använder Pure Writer!</string>
+  <string name="lowCloudFreeStorageSpaceWarning">Din %1$s har endast %2$d MB ledigt lagringsutrymme, vilket kan leda till att Pure Writer misslyckades med att spara eller säkerhetskopiera till molnet. Rensa upp och lämna mer än %3$d MB innan du använder Pure Writer!</string>
+  <string name="findReplace">Hitta och ersätta</string>
+  <string name="replace">Byt ut</string>
+  <string name="find">Hitta</string>
+  <string name="currentChapter">Nuvarande kapitel</string>
+  <string name="currentText">Nuvarande text</string>
+  <string name="currentBook">Aktuell bok</string>
+  <string name="ignoreCase">Ignorera fall</string>
+  <string name="selectAll">Välj alla</string>
+  <string name="inverseAll">Omvänt Alla</string>
+  <string name="replaceConfirmMessage">Är du säker på att du vill ersätta de valda %d platserna?</string>
+  <string name="tipUndoReplace">Ångra:\n* Du kan gå till Pure Writer - Inställningar - Säkerhetskopiering - Återställa säkerhetskopiering, klicka på den tidigare säkerhetskopian för att återställa till det tidigare innehållet.\n* Om du just har ersatt det aktuella kapitlet kan du gå till sidan Historik via menyn uppe till höger och återgå till det tidigare innehållet.</string>
+  <string name="backupRemarkForReplace">FöreEtt-byte</string>
+  <string name="tipReplaceResult">%2$d innehåll i %1$d artiklar har ersatts.</string>
+  <string name="title">Titel</string>
+  <string name="content">Innehåll</string>
+  <string name="webDavAccountError">Innehållet i ditt WebDAV-konto är felaktigt, så molnbackup kan inte aktiveras!</string>
+  <string name="fileAlreadyExistsInDirectory">Den här filen finns redan i din katalog</string>
+  <string name="overwrite">Skriv över</string>
+  <string name="doNotOverwrite">Skriv inte över.</string>
+  <string name="signOut">Logga ut</string>
+  <string name="changeAccount">Ändra konto</string>
+  <string name="scrollToHideTopBar">Rulla för att dölja det översta fältet</string>
+  <string name="scrollToHideWordCount">Rulla för att dölja ordräkningen</string>
+  <string name="doNotOperate">Byt eller ändra inte artiklar under processen!</string>
+  <string name="aboutBackup"><b>Om säkerhetskopiering</b></string>
+  <string name="backupReadme">Pure Writer stöder lokal och molnsäkerhetskopiering. Lokal säkerhetskopiering sker automatiskt. När du installerar om Pure Writer <b>kan du återställa alla dina artiklar med säkerhetskopiering</b>.\n\nPure Writer <b>gör dock inte automatiskt Cloud Backups som standard</b>. För att aktivera Cloud Backup <b>måste du konfigurera ett cloud backup-konto</b> på sidan Pure Writer - Inställningar - Säkerhetskopiering.\n\nPure Writer Cloud Backup stöder för närvarande Dropbox och WebDAV molnlagring.\n\n<b>Molnsäkerhetskopiering är väldigt viktigt. Om du inte ställer in ett molnbackupkonto kommer du att förlora allt ditt värdefulla innehåll om den här enheten tappas bort, går sönder eller återställs till fabriksinställningarna! Se till att konfigurera ett molnbackupkonto!</b></string>
+  <string name="tipParagraphSpacingInMD">Avstånd mellan stycken aktiveras inte i Markdown-läget</string>
+  <string name="lineSpacing">Radavstånd</string>
+  <string name="paragraphSpacing">Avstånd mellan stycken</string>
+  <string name="defaultX">Standard</string>
+  <string name="zoomIn">Zooma in</string>
+  <string name="zoomOut">Zooma ut</string>
+  <string name="switchingBooksTooltip">Tips: Om du klickar på bokens titel högst upp kan du växla mellan böckerna.</string>
+  <string name="scrollToTheCurrentArticle">Bläddra till aktuell artikel</string>
+  <string name="allBooks">Alla böcker</string>
+  <string name="needToManuallyRestartToTakeEffect">Måste startas om för att få effekt</string>
+  <string name="spellChecker">Stavningskontroll</string>
+  <string name="thisShortcutCannotBeEdited">Denna genväg kan inte redigeras</string>
+  <string name="createNewChapter">Skapa ett nytt kapitel</string>
+  <string name="hideSoftKeyboard">Dölj tangentbordet</string>
+  <string name="transparentTopBar">Genomskinlig övre balk</string>
+  <string name="transparentNavigationBar">Transparent navigeringsfält</string>
+  <string name="transparentNavigationBarWarning">Detta är en experimentell funktion. När den är aktiverad kan det hända att den mjuka tangentbordshöjden kontrolleras felaktigt, vilket kan leda till att genvägsfältet inte visas och att texten inte är i fokus. Om du stöter på dessa problem ska du stänga av det här alternativet.</string>
+  <string name="titleAsAWordForACountSummary">När det här objektet är påslaget är nästa ordräkningsläge inaktiverat. Om du vill använda alternativen i Word Count Mode, stäng av detta.</string>
+  <string name="customFont">Anpassat typsnitt</string>
+  <string name="customFontTip">Placera .ttf- eller .otf-teckensnittsfilen i den externa lagringskatalogen <b>/Documents/PureWriter/App</b> och starta om Pure Writer för att tillämpa teckensnittet automatiskt. \nObs: Det kan bara finnas en typsnittsfil i den här katalogen och vissa typsnittsfiler (t.ex. Google Sans) kan göra att markören flyttas, var medveten om det!</string>
+  <string name="customFontTipForAndroid11">Android 11+ måste välja teckensnittsfilen för att det ska bli effektivt.</string>
+  <string name="corruptBackupTip">Säkerhetskopian är skadad! Försök att återställa andra säkerhetskopior och välj rätt storlek och tid för säkerhetskopiering!</string>
+  <string name="leftMargin">Vänstermarginal</string>
+  <string name="rightMargin">Höger marginal</string>
+  <string name="spacingsAndMargins">Avstånd\nMarginaler</string>
+  <string name="autoBackupAndCloudBackupGuide"><i>Molnbackup handledning</i></string>
+  <string name="bridgeSummary">Den här funktionen är mycket svår att förstå och använda, så det är inte rekommenderat att aktivera den.</string>
+  <string name="messageCancelBridgeFeature">Från och med den här versionen är den ursprungliga funktionen \"Bridge\" dold som standard, eftersom det finns många användaråterkopplingar varje dag som berättar för mig att de inte vet vad den här funktionen betyder, jag är väldigt ledsen att ge dig problem! Men samtidigt har jag också lagt ner mycket tid och energi på att svara på dessa återkopplingar - de borde ha använts för att utveckla och finslipa den här produkten. Så för närvarande är den här funktionen avstängd som standard. Om du gillar och förlitar dig på den kan du gå längst ner på sidan med inställningar för säkerhetskopiering och du kommer att se ett alternativ för att öppna den. Vänligen förstå, tack så mycket!</string>
+  <string name="followingBackupsAre">Följande är säkerhetskopiorna innan du installerar den aktuella versionen</string>
+  <string name="logInToCloudStorage">Logga in på molnlagret</string>
+  <string name="scrollToBottom">Bläddra till botten</string>
+  <string name="scrollToTop">Bläddra till toppen</string>
+  <string name="customColorTipOnShortcutPad">Tips: Du kan anpassa textfärgen för redigeraren på sidan Inställningar.</string>
+  <string name="textColor">Textfärg för redaktör</string>
+  <string name="textColorSummary">Obs: När du byter papper återställs textfärgen automatiskt till standardfärgen.</string>
+  <string name="titleTextSize">Typsnittsstorlek för titeln</string>
+  <string name="restoreByThisBackup">Återställa med denna säkerhetskopia?</string>
+  <string name="restoreByThisBackupWithAppName">Pure Writer: Återställ med denna säkerhetskopia</string>
+  <string name="collapseAllCategories">Visa alla kategorier</string>
+  <string name="showMore">Visa mer</string>
+  <string name="textColorAlpha">Textfärg alfa/transparens</string>
+  <string name="connectDesktop">Anslut skrivbord</string>
+  <string name="disconnectDesktop">Koppla bort skrivbordet</string>
+  <string name="connect">Anslut</string>
+  <string name="tipNotSupportThisDesktopVersion">De nuvarande mobila och stationära versionerna är inte kompatibla och kan inte kopplas samman. Uppdatera båda till den senaste versionen och försök igen.</string>
+  <string name="desktopDialogGuide">Du måste ladda ner <b><i>Pure Writer Desktop 1.4.0 (eller senare)</i></b> från https://writer.drakeet.com/desktop_en\n\nNär din mobil och dator är på <b>samma Wi-Fi-nätverk eller hotspot👈👈👈</b>, öppna Desktop och skriv in IP-adressen nedan <b>i inmatningsfältet på Desktop</b> för att ansluta till Pure Writer, då kan du synkronisera och redigera den aktuella artikeln i realtid.</string>
+  <string name="desktopDialogNote">Obs: Pure Writer Desktop är fortfarande i alfastadiet. Vänligen förstå och vänta på dess efterföljande uppdateringar.\n* Om du ser <b>flera rader med IP-adresser</b>, försök att ansluta dem en efter en.</string>
+  <string name="connectionIsStopping">Anslutningen avbryts, försök igen senare!</string>
+  <string name="createShortcutLabel">Genväg för text</string>
+  <string name="cursorPositionForNewArticle">Markörens position för ny artikel</string>
+  <string name="stop_waiting_connection">Sluta vänta på anslutningar</string>
+  <string name="undoValidTip">Det aktuella fokuserade inmatningsområdet kan inte längre ångras igen, men du kan försöka återställa ditt innehåll från menyn Historik i det övre högra hörnet.</string>
+  <string name="desktopDisconnected">Skrivbordet är bortkopplat</string>
+  <string name="desktopConnected">Skrivbordet är anslutet</string>
+  <string name="toDoCloudBackupButton">Gå till att skapa ett konto för säkerhetskopiering i molnet</string>
+  <string name="ignoreCloudBackupCheckBox">Jag vill inte ställa in en molnbackup, påminn mig inte om det. Jag är villig att bära alla konsekvenser av att inte ha en molnbackup, inklusive att förlora alla mina värdefulla artiklar när telefonen går sönder eller förloras eller återställs eftersom det inte finns någon molnbackup!</string>
+  <string name="selectMore">Välj mer</string>
+  <string name="addChapterBelowThis">Lägg till kapitel nedan</string>
+  <string name="addChapterAboveThis">Lägg till kapitel ovan</string>
+  <string name="moveToOtherBook">Flytta till en annan bok</string>
+  <string name="paragraphSpacingSettingSummary">Superlång text får bättre prestanda när styckeavståndet är avstängt</string>
+  <string name="autoInsertBlankLineWhenWrapping">Infoga en tom rad automatiskt vid omslag</string>
+  <string name="markdownAsDefault">Markdown som standardläge för nya artiklar</string>
+  <string name="needToPayForMarkdownRenderer">Det här är sidan Markdown Quick Preview, som kräver att du betalar för Pure Writer Pro för att kunna använda den.</string>
+  <string name="fabContextCreateNewAfterCurrent">Ny artikel efter den aktuella artikeln</string>
+  <string name="fabContextCreateNewAtTheBottom">Ny artikel längst ner i artikelförteckningen</string>
+  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Ny artikel längst ner i den aktuella kategorin</string>
+  <string name="fabContextHideFabUntilNextStart">Göm den här knappen till nästa lansering</string>
+  <string name="fabContextHideFabTemporarily">Dölja den flytande huvudknappen tillfälligt</string>
+  <string name="license">Licens</string>
+  <string name="customPapers">Anpassade papper\nDelikat, uppslukande</string>
+  <string name="markdownQuickPreview">Snabb förhandsgranskning av Markdown</string>
+  <string name="exportToPicMdTxt">Exportera som lång bild/md/txt</string>
+  <string name="materialDesign2ThemeWithLineBreak">Materialdesign 2\ntema</string>
+  <string name="ProIntroductionMarkdown"><![CDATA[
+| #### Anpassade dokument
+|
+| Du kan fritt välja en bild i din mobiltelefon eller en fjärrbild som papper och bakgrund för din redaktör:
+|
+| ![Bild](https://gitee.com/PureWriter/resources/raw/master/pro/en/0.webp)
+|
+| #### Editor 2 ✨
+|
+| Du kan **torka redigerarsidan horisontellt** för att snabbt komma åt Editor 2:
+|
+| ![Bild](https://gitee.com/PureWriter/resources/raw/master/pro/en/1.webp)
+|
+| #### Exportera som en lång textbild/md/txt-fil
+|
+| Du kan exportera artiklar som långa textbilder eller .md .txt-filer:
+|
+| ![Bild](https://gitee.com/PureWriter/resources/raw/master/pro/en/2.webp)
+|
+| #### Exportera bok
+|
+| Du hittar det här alternativet i den övre menyn i den vänstra lådan, det hjälper dig att sammanföra allt kapitelinnehåll till en vanlig textfil:
+|
+| ![Bild](https://gitee.com/PureWriter/resources/raw/master/pro/en/3.webp)
+|
+| #### Hitta och ersätta
+|
+| Du kan hitta nyckelord i en artikel och ersätta dem i omgångar:
+|
+| ![Bild](https://gitee.com/PureWriter/resources/raw/master/pro/en/4.webp)
+|
+| #### Material Design 2-tema
+|
+| När Material Design 2-temat är aktiverat får du en genomskinlig övre balk, som inte längre är helt svart, och du kan få ett mer uppslukande och vackert användargränssnitt:
+|
+| ![Bild](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
+|
+| #### Pure Writer Desktop
+|
+| ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
+|
+| Du kan hämta Pure Writer Desktop och ansluta till skrivbordet via molnikonen ☁️ högst upp i huvudredigeraren.
+|
+| För närvarande befinner sig skrivbordet fortfarande i alfastadiet. Den kan endast tillhandahålla grundläggande realtidsanslutning och synkron redigering.
+|
+| Det har tagit mig mycket tid och energi, och ditt stöd kommer att hjälpa oss att göra det perfekt och bättre.
+    ]]></string>
+  <string name="unlimitedWords">Obegränsat antal ord</string>
+  <string name="neverLost">Aldrig förlorad</string>
+  <string name="veryVerySmooth">Mycket mycket smidig</string>
+  <string name="nightMode">Nattläge</string>
+  <string name="supportParagraphSpacing">Avstånd mellan stycken</string>
+  <string name="keyboardStateRestoring">Återställning av tangentbordstillstånd</string>
+  <string name="greatCursorFocus">Bra fokus för markören</string>
+  <string name="crazyUpdateBetterAndBetter">Galet uppdaterad, bättre och bättre</string>
+  <string name="moreAdvantagesOfPureWriter">Fler fördelar med Pure Writer</string>
+  <string name="account">Konto</string>
+  <string name="privilegeOfPureWriterPro">Privilegium av Pure Writer Pro</string>
+  <string name="messageThankYouForYourSupport">Ditt stöd kommer att göra Pure Writer bättre utvecklad, göra det möjligt för oss att skapa extraordinära produkter och motivera fler oberoende utvecklare. \n\nPure Writer kan kontinuerligt uppdateras och förbättras tack vare ditt stöd. Tack så mycket!</string>
+  <string name="emailAddress">E-postadress</string>
+  <string name="password">Lösenord</string>
+  <string name="signUpOrSignIn">Registrera dig / Logga in</string>
+  <string name="emailAddressIsEmptyOrIllegal">E-postadressen är tom eller olaglig</string>
+  <string name="passwordMustBeAtLeast6Characters">Lösenordet måste bestå av minst 6 tecken</string>
+  <string name="helperTextForNewAccount">Det här är ett nytt konto, vi kommer att registrera det åt dig.</string>
+  <string name="helperTextForRegisteredAccount">Det här kontot är registrerat, vi loggar in det åt dig.</string>
+  <string name="forgetPassword">Har du glömt lösenordet?</string>
+  <string name="latex">LaTeX-formel</string>
+  <string name="syntaxHighlighting">Syntaxmarkering</string>
+  <string name="notSignedIn">Inte inloggad</string>
+  <string name="requiresAtLeast6Characters">Kräver minst 6 tecken</string>
+  <string name="signedIn">Undertecknad i</string>
+  <string name="emailOrPasswordIsIncorrect">E-postmeddelandet eller lösenordet är felaktigt</string>
+  <string name="messageCustomFontAndPro">Vi har kontrollerat att du använder den anpassade teckensnittet, vilket kräver Pure Writer Pro. Du kan klicka på OK för att få Pure Writer Pro och mer avancerade funktioner, eller klicka på för att avbryta Custom Font (kommer att träda i kraft vid nästa lansering).</string>
+  <string name="introductionOfReadOnlyMode">* När markören INTE är synlig krävs dubbelklick för att placera markören och gå in i redigeringsläget.\n* När markören är synlig kan texten redigeras eller ändras med ett enkelt klick på vilket sätt som helst.\n* När markören är synlig kan du trycka på bakåt-tangenten för att dölja markören och gå in i skrivskyddsläge.</string>
+  <string name="messageReadOnlyModeAndPro">Avancerat skrivskyddsläge kräver Pure Writer Pro. Du kan klicka på OK för att få Pure Writer Pro och mer avancerade funktioner, eller klicka på Avbryt för att automatiskt avbryta det efter nästa lansering.</string>
+  <string name="messageNeedToPay">Detta är en Pro-funktion. Du måste betala för Pure Writer Pro innan du kan använda den. Klicka på OK för att läsa om alla avancerade funktioner i Pure Writer Pro. När du köper Pure Writer Pro kan du använda alla avancerade funktioner.</string>
+  <string name="notYetActivated">Ännu inte aktiverad</string>
+  <string name="notYetActivatedOrExpired">Ej aktiverad eller upphör att gälla</string>
+  <string name="signingInIsInvalid">Inloggningen är ogiltig</string>
+  <string name="verificationCode">Verifieringskod</string>
+  <string name="buyPureWriterPro">Köp Pure Writer Pro</string>
+  <string name="tipMarkdownQuickPreview">Svep horisontellt till nästa sida\nför Markdown Snabb förhandsgranskning</string>
+  <string name="lifetime">Livstid</string>
+  <string name="proExpired">Pro Utgången</string>
+  <string name="expiresOn">Gäller den:</string>
+  <string name="useLegacyRender">Använd äldre renderingsverktyg</string>
+  <string name="changelog">Ändringslista</string>
+  <string name="advancedReadOnlyMode">Avancerat skrivskyddsläge</string>
+  <string name="needOpenArticleFirst">Du måste först öppna en artikel för att kunna använda det här alternativet.</string>
+  <string name="restoreArticleScrollPosition">Återställa artikelns rullposition</string>
+  <string name="savedStateModeAuto">Auto (den senast redigerade artikeln kommer att återställas nästa gång; en icke senast redigerad artikel kommer att återställas om den är inom en vecka från den senaste öppningstiden, annars kommer den att återgå till toppen).</string>
+  <string name="savedStateModeEnableAll">Hur som helst, aktiverad för alla artiklar</string>
+  <string name="savedStateModeDisableAll">I vilket fall som helst, inaktiverad för alla artiklar</string>
+  <string name="summaryScrollToBottom">Om denna knapp ska visas i editorn</string>
+  <string name="cloudBackupFailed">Säkerhetskopiering i molnet misslyckades</string>
+  <string name="dropboxBackupFailed">Dropbox-backupen misslyckades, försök att logga in på Dropbox-kontot igen på Pure Writer molnbackup Inställning</string>
+  <string name="tipJianguoyunURL">Vänligen fyll i följande tre innehåll</string>
+  <string name="dropboxBackupFailedDueToInsufficientSpace">Backup i molnet misslyckades: Dropbox får slut på utrymme</string>
+  <string name="tipImageDialog">Ange länken till den webbbild som du vill infoga nedan. \nDu kan också klicka på \"Lokal bild\" nedan för att välja en lokal bild och automatiskt få en lokal länk till den bilden.</string>
+  <string name="imageUrl">URL till bilden</string>
+  <string name="imageDesc">Bildbeskrivning (valfritt)</string>
+  <string name="width">bredd</string>
+  <string name="insertMarkdownImage">Infoga Markdown-bild</string>
+  <string name="youNeedToSignInAgain">Du måste logga in igen</string>
+  <string name="pureWriterDesktop">Pure Writer\nSkrivbord</string>
+  <string name="moreAndBetter">Mer och bättre</string>
+  <string name="clickBottomAddNewBlankLine">Klicka på botten för att infoga en tom rad</string>
+  <string name="summaryClickBottomAddNewBlankLine">Om den sista raden inte är en tom rad, när du klickar på det tomma området längst ner i redigeringsverktyget, kommer en ny tom rad automatiskt att infogas i slutet av texten och fokuseras.</string>
+  <string name="deleteCompletely">Ta bort helt och hållet</string>
+  <string name="openArticleListAfterSwitchingBooks">Öppna artikellistan efter att ha bytt bok</string>
+  <string name="searchArticles">Sök artiklar / Hoppa snabbt till artiklar</string>
+  <string name="searchTip">Tips: Du kan ange flera sökord för att söka efter radbrytningar, men endast det första sökordet markeras i resultatet.</string>
+  <string name="duplicate">Dubbla</string>
+  <string name="tipGoogleDriveAppScope">Tips: Eftersom appens privata katalog i Google Drive inte är synlig för användarna, inaktiveras Bridge-funktionen automatiskt.</string>
+  <string name="unlimitedStorage">Obegränsad lagring</string>
+  <string name="noteDateTimeShortcut"><![CDATA[
+| Dessutom kan du också infoga variabler för tid och datum genom att skriva in `${<format>}` i den första inmatningsrutan ovan, där `<format>` måste ersättas med datum/tid-format, till exempel:
+|
+| `$${yyyyyy-MM-dd HH:mm}` kommer att generera:
+| `2020-04-01 21:43`
+|
+| `${yyyyyy-M-d hh:mm}` genererar:
+| `2020-4-1 09:43`
+|
+| (Du kan **långtrycka** för att välja och kopiera ovanstående exempel för att prova)
+|
+| Du kan också kontrollera **tabellen** i denna [dokumentsida] (https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) för fler **formatspecifikationer** och fria kombinationer.
+    ]]></string>
+  <string name="read">Läs</string>
+  <string name="doNotRemindAgain">Påminn inte igen.</string>
+  <string name="homeFab">Hem Flytande åtgärdsknapp Läge</string>
+  <string name="fabOverflowModeSingleClick">Genom att klicka en gång öppnas popup-menyn och du kan välja att skapa en artikel i menyn.</string>
+  <string name="fabOverflowModeLongPress">Klicka en gång för att skapa en artikel direkt och tryck länge för att öppna popup-menyn.</string>
+  <string name="safeMode">Säkert läge</string>
+  <string name="summarySafeMode">När den här appen kommer in i bakgrunden eller i listan över senaste uppgifter kommer innehållet i den här appen att döljas; när den här punkten är aktiverad kommer skärmdumpar i appen också att vara förbjudna.</string>
+  <string name="pressBackToClearCursor">Markören är dold och har gått in i skrivskyddat läge.</string>
+  <string name="PureWriterManual">Manual för Pure Writer</string>
+  <string name="cursorJoyTutorial">Tryck på och håll in knappen ovan och rör sedan fingret för att styra markörens rörelse.</string>
+  <string name="tipBlueInputBox">Tips: Tryck på Enter-tangenten ⏎ för att hoppa ut ur den blå inmatningsrutan efter att du har skrivit in något.</string>
+  <string name="cursorJoy">Cursor Joy-Con</string>
+  <string name="textShortcut">Genväg för text</string>
+  <string name="copyCurrent">Kopiera vald eller aktuell fulltext</string>
+  <string name="formatterAction">Format</string>
+  <string name="orSelectShortcutFunction">Eller välj genvägsfunktion</string>
+  <string name="joyNotSupportTitleNow">Funktionen stöds för närvarande inte i titeln</string>
+  <string name="blueInputBox">Blå inmatningsruta</string>
+  <string name="editorMarkdownSyncScrolling">Synkronisera rullning för Editor ⇋ Markdown</string>
+  <string name="smoothCursor">Smidig markör</string>
+  <string name="typeOfTimeDisplayed">Typ av tid som visas</string>
+  <string name="timeModified">Tid ändrad</string>
+  <string name="timeCreated">Tid skapad</string>
+  <string name="timeCreatedAndModified">Tid Skapad och ändrad</string>
+  <string name="editor2">Redaktör 2</string>
+  <string name="currentChapterWordCount">Antal ord i det aktuella kapitlet</string>
+  <string name="currentBookWordCount">Antal ord i hela boken</string>
+  <string name="splitLayout">Uppdelad layout</string>
+  <string name="rating">Betyg</string>
+  <string name="thankYou">Tack!</string>
+  <string name="theTry">Prova</string>
+  <string name="selectFolder">Välj mapp</string>
+  <string name="fileTypeNotSupported">Filtypen stöds inte</string>
+  <string name="grantStoragePermission">Bevilja lagringstillstånd</string>
+  <string name="folderNoLongerExists">Mappen eller lagringsutrymmet finns inte längre!</string>
+  <string name="tipNotRecommendedFolder">Den här mappen motsvarar inte vår rekommenderade mapp, och Pure Writer kommer inte att kunna läsa sina gamla säkerhetskopior. Var uppmärksam eller gå tillbaka till föregående steg för att rätta till det!</string>
+  <string name="tipTargetFolder">"Enligt den mapp du väljer är den slutliga lagringskatalogen för Pure Writer: "</string>
+  <string name="messageWhyNeedSAF">För att bättre skydda användarnas integritet kräver Pure Writer **inte längre full läs- och skrivbehörighet för extern lagring**, utan låter **användare ange en mappkatalog**, och Pure Writer får endast läs- och skrivbehörighet till den katalogen.\n\nDärför måste du välja en mapp genom att klicka på knappen nedan. För att kunna återställa gamla data när du installerar om i framtiden, rekommenderar vi starkt att du väljer mappen ***`Documents`*** 🙏.</string>
+  <string name="pureWriterFolder">Mapp PureWriter</string>
+  <string name="selectFont">Välj typsnitt</string>
+  <string name="materialFilesNote">För närvarande stöder öppningen nedan endast öppning med zhanghai/MaterialFiles. Vid behov kan du ladda ner den här appen själv eller manuellt använda filhanteraren i ditt system för att öppna ovanstående sökväg.</string>
+  <string name="changeFolder">Ändra mapp</string>
+  <string name="yourFolderIs">"Den mappkatalog som du har valt är: "</string>
+  <string name="changeFolderNote">Om du väljer *Change folder* nedan måste du **manuellt** flytta PureWriter-mappen till den nya målmappen ** först** och sedan ändra den.</string>
+  <string name="previous">Föregående</string>
+  <string name="autoConnectToDesktop">Automatisk anslutning till skrivbordsversionen</string>
+  <string name="autoConnectToDesktopNextTime">Anslut automatiskt till skrivbordet nästa gång</string>
+  <string name="optionsForTheFewPeople">Anslut automatiskt till skrivbordet nästa gång</string>
+  <string name="summaryPie">Ange några inställningar som inte bör tillhandahållas</string>
+  <string name="stretchEdgeEffect">Stretch edge-effekt</string>
+  <string name="staticCursor">Statisk markör (blinkar inte)</string>
+  <string name="cursorJoyModePosition"><![CDATA[Markörglädjeläge & position]]></string>
+  <string name="cursorJoyModePosition0">Läge mot oavsiktlig beröring, till höger</string>
+  <string name="cursorJoyModePosition1">Läget \"Rör direkt för att flytta\", i genvägslistan</string>
+  <string name="typewriterModeMode0">Styckningsläge</string>
+  <string name="typewriterModeMode1">Linjeläge</string>
+  <string name="restoreOptionsMessage">Behöver du använda den här säkerhetskopian för att skriva över det lokala innehållet eller slå samman det med det lokala innehållet?\n\nObs: Om du väljer Sammanfoga kommer inställningarna och kontoinformationen för molnsäkerhetskopiering i säkerhetskopieringsfilen inte att slås samman, och du kan behöva konfigurera om dem manuellt.\n\nDessutom, om du ändrar ordningen på artiklar eller tar bort artiklar, kommer dessa operationer inte att slås samman, eftersom detta kommer att orsaka konflikter. <b>Så vi rekommenderar att du använder \"skriv över\", och om du ändrar data på en enhet bör du omedelbart synkronisera data på den andra enheten genom \"skriv över\". </b></string>
+  <string name="merge">Slå ihop</string>
+  <string name="merging">Sammanslagning...</string>
+  <string name="checkIntegrityOfBackup">Kontrollera säkerhetskopieringsfilens integritet...</string>
+  <string name="noteBeforeRestoringBackup">Innan allt börjar, gör en säkerhetskopia av de aktuella uppgifterna...</string>
+  <string name="startMerging">Börja sammanfoga...</string>
+  <string name="insertANewBook">Infoga en ny bok</string>
+  <string name="insertANewCategory">Infoga en ny kategori</string>
+  <string name="insertingOrUpdatingArticles">Infoga eller uppdatera artiklar...</string>
+  <string name="insertANewArticle">Infoga en ny artikel</string>
+  <string name="summary">Sammanfattning</string>
+  <string name="updateAnExistingArticle">Uppdatera en befintlig artikel</string>
+  <string name="totalNumberOfArticlesInsertedOrUpdated">Totalt antal artiklar som införts eller uppdaterats</string>
+  <string name="insertANewShortcut">Infoga en ny genväg</string>
+  <string name="totalNumberOfNewTimeMachineMessagesInserted">Totalt antal nya meddelanden från tidsmaskinen som lagts in</string>
+  <string name="mergeDone">Klart!</string>
+  <string name="relaunch">Återlansera</string>
+  <string name="autoComplete">Automatisk komplettering</string>
+  <string name="autoCompleteSummary">Komplettera automatiskt parade symboler endast när markören befinner sig <b>i slutet</b> av artikeln.</string>
+  <string name="autoDeleteSymbolsInPairs">Automatisk radering av symboler i par</string>
+  <string name="autoDeleteSymbolsInPairsSummary">Endast när innehållet i den parade symbolen är <b>tomt</b>.</string>
+  <string name="tip">Tips</string>
+  <string name="editor2Tip">Du befinner dig i den andra redigeraren och dess översta ikon är motsatt den första redigeraren. Om du vill gå tillbaka till den första redigeraren kan du <b>svepa åt vänster eller höger på redigeraren</b>.</string>
+  <string name="needCursorTip">Måste klicka på texten för att placera markören innan du fortsätter.</string>
+  <string name="shortcutKeysForShortcut">Genvägstangenter för genvägsposter</string>
+  <string name="shortcutKeysForShortcutSummary">Tryck på Alt eller Ctrl + nummer för att ringa upp texten Genvägar</string>
+  <string name="optionsForLandscape"><![CDATA[Landskapsinställningar och riktlinjer]]></string>
+  <string name="editInVerticalCenter">Redigera i vertikalt centrum</string>
+  <string name="onlyWorkForHardwareKeyboard">Fungerar endast för hårdvarutangentbord</string>
+  <string name="editInVerticalCenterSummary">Gör att den redigerade raden alltid är i mitten av skärmen (kan vara ogiltig, detta är ett problem med inmatningsmetoden, ursäkta!)</string>
+  <string name="migrateImageAssets">Migrera Markdown-bilder till katalogen Documents/PureWriter/Assets</string>
+  <string name="migrateImageAssetsSummary">Detta hjälper dig att centralt överföra alla bilder som refereras till i Markdown till din nya enhet. Efter denna operation kan du kopiera mappen Documents/PureWriter/Assets till samma katalog på den nya enheten och sedan återställa enhetens säkerhetskopia till den nya enheten, så att den nya enheten smidigt kan referera till de ursprungliga bilderna.</string>
+  <string name="tipForFromPlayToAlipay">Om du vill använda denna betalningsmetod måste du se till att du befinner dig i Kina. Den här betalningsmetoden är i princip endast tillgänglig för användare i Kina, eftersom Google och Google Play inte kan användas för att betala i Kina.</string>
+  <string name="switchToAlipayPaymentMethod">Byt till betalningsmetoden Alipay</string>
+  <string name="switchToGooglePlayPaymentMethod">Byt till betalningsmetod för Google Play</string>
+  <string name="skuActive">Aktiv</string>
+  <string name="askUnsubscribe"><u>Avsluta prenumeration?</u></string>
+  <string name="notesForGoogleSkus">Viktigt:\n\n* Eftersom Google inte tillhandahåller något gränssnitt för att säga upp prenumerationer måste du klicka på din prenumeration eller på \"Avsluta prenumeration?\" ovan för att fortsätta om du vill säga upp en prenumeration.\n\n* När du har sagt upp prenumerationen av den här appen på Google Play får appen inte den senaste statusen omedelbart, så du kommer att se att prenumerationsobjektet fortfarande är i statusen \"aktiv\" på den här sidan. Detta är ett normalt fenomen. Du får det korrekta resultatet nästa dag, eller vänta till slutet av den aktuella prenumerationsperioden.\n\n* Om du planerar att byta från en prenumeration till en \"livstids\"-artikel bör du först säga upp din prenumeration och sedan köpa \"livstids\"-artikeln. Den här appen kan inte avbryta din prenumeration på egen hand.\n\n* Om du stöter på felet DF-DFERH-01 under betalningsprocessen ska du försöka starta om enheten och försöka igen.\n\n* Betalningsresultatet kommer automatiskt att knytas till ditt system Google-konto, tack!</string>
+  <string name="activating">Aktivera...</string>
+  <string name="updating">Uppdatering...</string>
+  <string name="themesAndPapers"><![CDATA[Teman och bakgrundsbilder]]></string>
+  <string name="once">någonsin</string>
+  <string name="selectALightTheme">Välj ett ljust tema</string>
+  <string name="selectADarkTheme">Välj ett mörkt tema</string>
+  <string name="selectATheme">Välj ett tema</string>
+  <string name="tipBadPaper">Bilden eller färgen du valde uppfyller inte kraven, välj igen.</string>
+  <string name="fixedThemeTitle">Fastställd, växlar inte automatiskt</string>
+  <string name="followSystemThemeTitle">Följ systemet (synkronisera med operativsystemet)</string>
+  <string name="scheduledThemeTitle">Automatisk växling enligt tid:\n7:00-17:00 använder ljus tema, annars mörkt tema</string>
+  <string name="paperSettingsHint">Klicka för att välja eller anpassa bakgrundsbild/tema</string>
+  <string name="lightTheme">Ljus tema</string>
+  <string name="darkTheme">Mörkt tema</string>
+  <string name="whetherOverwriteSettings">Skriva över lokala inställningar?</string>
+  <string name="realNo">Ingen</string>
+  <string name="realYes">Ja</string>
+  <string name="askOverwriteSettings">Vi kommer att använda artikeldatabasen i din säkerhetskopia för att skriva över den lokala artikeldatabasen, men vi vet inte om du vill att vi ska använda inställningarna i säkerhetskopian för att skriva över de lokala inställningarna. Välj:</string>
+  <string name="privacyPolicySummary">Vi kommer inte att samla in någon av dina privata uppgifter</string>
+</resources>
