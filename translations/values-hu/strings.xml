@@ -585,7 +585,7 @@
   <string name="notesForGoogleSkus">Fontos:\n\n* Mivel a Google nem biztosít felületet az előfizetések lemondásához, ha le kell mondania egy előfizetést, a folytatáshoz kattintson az előfizetésére vagy a fenti \"Leiratkozás?\" gombra.\n\n* Miután lemondta az alkalmazás előfizetését a Google Play-en, az alkalmazás nem kapja meg azonnal a legújabb állapotot, így ezen az oldalon azt fogja látni, hogy az előfizetési elem még mindig \"aktív\" állapotban van. Ez egy normális jelenség. A helyes eredményt a következő napon kapja meg, vagy várjon az aktuális előfizetési időszak végéig.\n\n* Ha az előfizetésről az \"Élethosszig tartó\" elemre kíván váltani, akkor először az előfizetését kell lemondania, majd megvásárolnia az \"Élethosszig tartó\" elemet. Ez az alkalmazás önmagában nem tudja megszüntetni az előfizetését.\n\n* Ha a fizetési folyamat során a DF-DFERH-01 hibát tapasztalja, kérjük, próbálja újraindítani a készülékét, és próbálja meg újra.\n\n* A fizetés eredménye automatikusan a rendszer Google-fiókjához lesz kötve, köszönjük!</string>
   <string name="activating">Aktiválás...</string>
   <string name="updating">Frissítés...</string>
-  <string name="themesAndPapers"><![CDATA[Témák és háttérképek]]></string>
+  <string name="themesAndPapers"><![CDATA[Témák]]></string>
   <string name="once">valaha</string>
   <string name="selectALightTheme">Világos téma kiválasztása</string>
   <string name="selectADarkTheme">Sötét téma kiválasztása</string>

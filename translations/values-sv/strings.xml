@@ -581,7 +581,7 @@
   <string name="notesForGoogleSkus">Viktigt:\n\n* Eftersom Google inte tillhandahåller något gränssnitt för att säga upp prenumerationer måste du klicka på din prenumeration eller på \"Avsluta prenumeration?\" ovan för att fortsätta om du vill säga upp en prenumeration.\n\n* När du har sagt upp prenumerationen av den här appen på Google Play får appen inte den senaste statusen omedelbart, så du kommer att se att prenumerationsobjektet fortfarande är i statusen \"aktiv\" på den här sidan. Detta är ett normalt fenomen. Du får det korrekta resultatet nästa dag, eller vänta till slutet av den aktuella prenumerationsperioden.\n\n* Om du planerar att byta från en prenumeration till en \"livstids\"-artikel bör du först säga upp din prenumeration och sedan köpa \"livstids\"-artikeln. Den här appen kan inte avbryta din prenumeration på egen hand.\n\n* Om du stöter på felet DF-DFERH-01 under betalningsprocessen ska du försöka starta om enheten och försöka igen.\n\n* Betalningsresultatet kommer automatiskt att knytas till ditt system Google-konto, tack!</string>
   <string name="activating">Aktivera...</string>
   <string name="updating">Uppdatering...</string>
-  <string name="themesAndPapers"><![CDATA[Teman och bakgrundsbilder]]></string>
+  <string name="themesAndPapers"><![CDATA[Teman]]></string>
   <string name="once">någonsin</string>
   <string name="selectALightTheme">Välj ett ljust tema</string>
   <string name="selectADarkTheme">Välj ett mörkt tema</string>

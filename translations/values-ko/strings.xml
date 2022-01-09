@@ -103,7 +103,7 @@
   <string name="backupNow">지금 백업하기</string>
   <string name="backupToLocalNow">로컬 스토리지로 백업</string>
   <string name="backupToCloudNow">클라우드 스토리지로 백업</string>
-  <string name="summaryBackupToLocal">백업 파일은 / backups 에 저장됩니다</string>
+  <string name="summaryBackupToLocal">백업 파일은 Documents/PureWriter/Backups 에 저장됩니다.</string>
   <string name="summaryBackupToCloud">백업 파일은 설정된 경우 클라우드 저장소에 저장됩니다</string>
   <string name="restoreBackup">백업 복원</string>
   <string name="summaryRestoreTheBackup">백업 파일은 Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto 와 당신의 WebDAV 또는 Dropbox 또는 Google Drive 에서 검색됩니다.</string>

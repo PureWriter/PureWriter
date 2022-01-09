@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="titleHint">ชื่อ</string>
+  <string name="editorTipAMenu">คุณจะต้องเลือกข้อความก่อน</string>
+  <string name="editorHintContent">เริ่มเขียนเนื้อหาบางส่วน...</string>
+  <string name="slogan">เร็ว | ประสบการณ์ที่ยอดเยี่ยม | ไม่เคยสูญเสียเนื้อหาของคุณ</string>
+  <string name="iconDesc">ไอคอนของ Pure Writer เป็นเครื่องย้อนเวลา\nไทม์แมชชีนลอยไปข้างหน้า คำอธิษฐานสามารถพาเราไปเชื่อมต่อกับอดีตและอนาคต...</string>
+  <string name="undo">เลิกทำ</string>
+  <string name="redo">ทำซ้ำ</string>
+  <string name="about">เกี่ยวกับ | ช่วย</string>
+  <string name="defaultContent">ยินดีที่ได้พบคุณ!\nนี่คือโปรแกรมแก้ไขข้อความธรรมดาที่รวดเร็วซึ่งได้รับการออกแบบโดยคำนึงถึงสิ่งที่เราเชื่อว่า \"ควรได้รับประสบการณ์การเขียนที่ดี\" Pure Writer <b>เรียบง่ายและช่วยให้คุณเขียนเนื้อหาได้ตามใจชอบทุกที่ทุกเวลาโดยไม่ต้องกลัวว่าเนื้อหาจะสูญหายอีก</b>\nด้วยคุณสมบัติการเว้นวรรคบรรทัดและย่อหน้าของ Pure Writer ข้อความของคุณจะชัดเจนขึ้นและสะดวกสบายในการอ่าน ไม่เพียงเท่านั้น แต่ยังมีการเลื่อนที่ราบรื่น เลื่อนเพื่อยุบแป้นพิมพ์ และคุณสมบัติที่น่าตื่นเต้นอีกมากมาย\nความเรียบง่ายคือความซับซ้อนที่ซ่อนอยู่ คุณสามารถเข้ารหัสงานของคุณด้วยลายนิ้วมือ เริ่มหรือหยุดเขียนเมื่อใดก็ได้ตามต้องการ และแบ่งปันเนื้อหาของคุณไปยังแอปอื่นๆ ได้อย่างรวดเร็ว — เราพร้อมดูแลคุณ\nที่สำคัญที่สุด <b>คุณจะไม่มีวันสูญเสียงานของคุณไปในขณะที่ใช้โปรแกรมแก้ไขข้อความนี้ เว้นแต่คุณจะลบออกด้วยตนเอง ไม่ว่าจะเป็นการลบโดยไม่ได้ตั้งใจหรือการปิดระบบโดยไม่คาดคิด คุณยังสามารถกู้คืนจากประวัติได้</b>\nคุณสมบัติเพิ่มเติม: การสำรองข้อมูลบนคลาวด์ WebDAV, ธีม Material Design 2, Markdown, โหมดเครื่องพิมพ์ดีด, การส่งออกเป็นรูปภาพข้อความขนาดยาว, Time Machine...\nมันรวดเร็วและราบรื่น คุณสามารถขัดจังหวะและเขียนต่อได้ทุกที่ทุกเวลา\nสนุกกับการใช้ Pure Writer</string>
+  <string name="share">แชร์ไปยังแอปอื่น</string>
+  <string name="copyTitle">คัดลอกชื่อเรื่อง</string>
+  <string name="lock">ล็อค</string>
+  <string name="history">ประวัติศาสตร์</string>
+  <string name="tipShouldUnlock">กรุณาปลดล็อคก่อน</string>
+  <string name="tipShouldSetupFingerprint">สร้างลายนิ้วมือในการตั้งค่าระบบก่อน!</string>
+  <string name="sendContentTo">ส่งเนื้อหาไปที่:</string>
+  <string name="failedTitleIsEmpty">ชื่อไม่สามารถเว้นว่างได้</string>
+  <string name="failedContentIsEmpty">เนื้อหาต้องไม่ว่างเปล่า</string>
+  <string name="copyTheTitleSuccessfully">คัดลอกชื่อเรื่องสำเร็จ!</string>
+  <string name="copyTheContentSuccessfully">คัดลอกเนื้อหาสำเร็จ!</string>
+  <string name="titleAndContentAreEmpty">ชื่อเรื่องและเนื้อหาว่างเปล่า!</string>
+  <string name="clearThisContent"><b>ล้าง</b> เนื้อหานี้</string>
+  <string name="copyContent">คัดลอกเนื้อหา</string>
+  <string name="wordCountShort">นับ</string>
+  <string name="wordCountLong">การนับจำนวนคำ</string>
+  <string name="wordCountOfCurrentArticle">จำนวนคำทั้งหมดของบทความปัจจุบัน</string>
+  <string name="floatingWordCount">จำนวนคำลอยตัว</string>
+  <string name="historyState">บันทึกแล้ว</string>
+  <string name="tipNeedFingerprint">หากต้องการดูและแก้ไข โปรดใช้ลายนิ้วมือเพื่อปลดล็อกก่อน</string>
+  <string name="empty">เปล่า</string>
+  <string name="isRevertToThisFile">กู้คืนเอกสารนี้?</string>
+  <string name="noMore">ไม่มีอะไรมาก!</string>
+  <string name="goOn">ดำเนินการต่อ</string>
+  <string name="reject">ปฏิเสธ</string>
+  <string name="defaultTitle">ตามที่ขอ</string>
+  <string name="tipPermissionFailed">ไม่ได้รับอนุญาต ไม่สามารถบันทึกประวัติได้</string>
+  <string name="titleStorePermissionFailed">สิทธิ์การจัดเก็บถูกปฏิเสธ</string>
+  <string name="tipMessageStoragePermissionFirst">โปรดให้สิทธิ์เราในการเข้าถึงที่เก็บข้อมูลของคุณ Pure Writer จะใช้เพื่อสำรองไฟล์ของคุณโดยอัตโนมัติเท่านั้นเพื่อป้องกันไม่ให้คุณสูญหาย!</string>
+  <string name="tipMessageStoragePermissionToSettings">เราจำเป็นต้องเข้าถึงที่เก็บข้อมูลของคุณเพื่อสำรองไฟล์ของคุณโดยอัตโนมัติ โปรดให้สิทธิ์การเข้าถึงด้วยตนเองในการตั้งค่าอุปกรณ์ของคุณ!</string>
+  <string name="actionOkGoSettings">ไปที่การตั้งค่า</string>
+  <string name="tipFingerAuthRetry">จำลายนิ้วมือไม่ได้ คุณพยายามเหลืออีก %d ครั้ง</string>
+  <string name="tipFingerAuthFailed">ลายนิ้วมือถูกระงับ โปรดลองอีกครั้งใน 1 นาที ออกจาก Pure Writer…</string>
+  <string name="tipRichText">Pure Writer มีเป้าหมายเพื่อให้ผู้ใช้มีสภาพแวดล้อมการเขียนที่เรียบง่าย ดังนั้นจึงไม่มีแผนที่จะรวมคุณลักษณะ Rich Text ไว้ในการพัฒนาในอนาคต คุณอาจสังเกตเห็น<b>ข้อความตัวหนา</b>บางส่วนในการแสดงตัวอย่าง แต่นั่นเป็นเพราะเป็นคุณลักษณะที่ซ่อนอยู่ และยังไม่สามารถแสดงตัวหนาในไฟล์ .txt ได้ เสียใจ! หากคุณมีข้อเสนอแนะที่ดีกว่า โปรดติดต่อฉัน ขอบคุณสำหรับการสนับสนุน!</string>
+  <string name="settings">การตั้งค่า</string>
+  <string name="shortcutBar">แถบทางลัด</string>
+  <string name="insertBlankLinesWhenExporting">เพิ่มบรรทัดพิเศษเมื่อส่งออก</string>
+  <string name="indent">เยื้อง</string>
+  <string name="format">รูปแบบ</string>
+  <string name="contentTextSize">ขนาดตัวอักษรของเนื้อหา</string>
+  <string name="iKnow">เข้าใจแล้ว</string>
+  <string name="tipIndent">หมายเหตุ: การเยื้องจะไม่ส่งผลต่อข้อความที่มีอยู่</string>
+  <string name="explanation">คำอธิบาย</string>
+  <string name="tipInsertBlankLines">ขณะที่การตั้งค่านี้เปิดอยู่ จะมีการเพิ่มบรรทัดพิเศษในแต่ละย่อหน้าเมื่อคัดลอกหรือแชร์ข้อความ เนื่องจากการเว้นวรรคแบบพิเศษมีให้ใน Pure Writer เท่านั้น จึงจำเป็นต้องมีบรรทัดเพิ่มเติมเพื่อให้มีผลเช่นเดียวกันนอกแอปนี้</string>
+  <string name="deleteObsoleteFiles">ลบไฟล์ที่ล้าสมัย</string>
+  <string name="dayNightMode">โหมดกลางคืน</string>
+  <string name="summaryPay">รับคุณสมบัติระดับโปร</string>
+  <string name="tipSettingNotSupport">การตั้งค่านี้ยังอยู่ระหว่างการพัฒนา</string>
+  <string name="promptShortcutTitle">คำอธิบายทางลัด (ไม่บังคับ)</string>
+  <string name="promptShortcutContent">เนื้อหาทางลัด (จำเป็น)</string>
+  <string name="createShortcut">สร้างทางลัดข้อความ</string>
+  <string name="noteShortcutCursorIndex">กรุณาย้ายตำแหน่งเคอร์เซอร์ในเนื้อหาเพื่อกำหนดตำแหน่งของเคอร์เซอร์หลังจากแทรกบทความ</string>
+  <string name="indentShort">เยื้อง</string>
+  <string name="delete">ลบ</string>
+  <string name="messageDeleteShortcut">คลิกตกลงเพื่อลบทางลัดนี้</string>
+  <string name="features">คุณสมบัติ</string>
+  <string name="sendTextFailedForTooLarge">ข้อความของคุณยาวเกินไปที่จะส่งไปยังแอพอื่นโดยตรง ได้คัดลอกข้อความไปยังคลิปบอร์ดของคุณแล้ว</string>
+  <string name="previewAndExport">ดูตัวอย่างและส่งออก...</string>
+  <string name="hasSavedToYourAlbum">บันทึกไว้ในอัลบั้ม</string>
+  <string name="preview">ดูตัวอย่าง</string>
+  <string name="proReadMe">หากคุณรู้สึกว่า Pure Writer มีประโยชน์ และหวังว่ามันจะพัฒนาต่อไป คุณจะช่วยบริจาคเงินสักสองสามเหรียญให้กับนักพัฒนาหรือไม่\n\nการสนับสนุนของคุณสนับสนุนให้นักพัฒนาอิสระเช่นฉันพัฒนาและนำแอปที่สร้างมาอย่างดีมาให้คุณ\n\nเพื่อสนับสนุน คุณสามารถคลิกที่ปุ่ม Google Play <b>หลังจากร่วมให้ข้อมูลแล้ว คุณจะได้รับฟีเจอร์ระดับโปร เช่น Material Design 2, Outline, Export, Custom Paper / Background และการอัปเดตในอนาคตฟรีเพื่อเป็นการแสดงความขอบคุณ</b>\nเนื่องจากผู้สนับสนุนเช่นคุณ Pure Writer มุ่งมั่นที่จะพัฒนาและปรับปรุงให้ดีขึ้น สุดท้ายนี้ ขอขอบคุณสำหรับการสนับสนุนของคุณ!</string>
+  <string name="tipRequirePro">นี่คือคุณสมบัติ Pro</string>
+  <string name="ok">ตกลง</string>
+  <string name="cancel">ยกเลิก</string>
+  <string name="yes">ตกลง</string>
+  <string name="no">ยกเลิก</string>
+  <string name="summaryPaid">โปรเปิดใช้งาน</string>
+  <string name="labelUpdate">มี Pure Writer %1$s ใหม่แล้ว</string>
+  <string name="update">อัปเดต</string>
+  <string name="messageDeleteArticlesToTrash">คุณแน่ใจหรือไม่ว่าต้องการลบบทความเหล่านี้และย้ายไปที่ถังขยะ</string>
+  <string name="tipPurchasedStatusFailed">ซื้อแล้ว. หากสถานะการซื้อไม่อัปเดต โปรดลองคลิกรายการ Pro อีกครั้ง (คุณจะไม่ถูกเรียกเก็บเงินสองครั้งในการทำเช่นนั้น)</string>
+  <string name="createNew">สร้างบทความใหม่</string>
+  <string name="autoLock">ล็อคอัตโนมัติ</string>
+  <string name="enabled">เปิดใช้งาน</string>
+  <string name="titleOpenImportedFile">พบว่าคุณเปิดไฟล์ภายนอก โปรดเลือกการดำเนินการ</string>
+  <string name="copied">คัดลอกแล้ว</string>
+  <string name="sort">ประเภทการจัดเรียง</string>
+  <string name="sortTypeModifiedTimeDown">เวลาปรับเปลี่ยน</string>
+  <string name="sortTypeCreatedTimeDown">เวลาที่สร้าง</string>
+  <string name="warningSavedFailed">บันทึกบทความล้มเหลว โปรดคัดลอกเนื้อหาของคุณและลองรีสตาร์ทแอปเพื่อตรวจสอบว่าเนื้อหาสูญหายหรือไม่</string>
+  <string name="backupNow">การสำรองข้อมูลในขณะนี้</string>
+  <string name="backupToLocalNow">สำรองข้อมูลไปยังที่จัดเก็บในเครื่องทันที</string>
+  <string name="backupToCloudNow">สำรองข้อมูลไปยังที่เก็บข้อมูลบนคลาวด์ทันที</string>
+  <string name="summaryBackupToLocal">ไฟล์สำรองจะถูกบันทึกลงใน Documents/PureWriter/Backups</string>
+  <string name="summaryBackupToCloud">ไฟล์สำรองจะถูกบันทึกลงในที่เก็บข้อมูลบนคลาวด์ของคุณหากตั้งค่า</string>
+  <string name="restoreBackup">กู้คืนข้อมูลสำรอง</string>
+  <string name="summaryRestoreTheBackup">ไฟล์สำรองจะถูกดึงมาจาก Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto และ WebDAV หรือ Dropbox หรือ GoogleDrive ของคุณ</string>
+  <string name="backupSuccessful">สำรองข้อมูลสำเร็จ</string>
+  <string name="restoreSuccessful">สำรองข้อมูลเรียบร้อยแล้ว</string>
+  <string name="tipBackupList">นี่คือไฟล์สำรองของคุณ คุณสามารถคลิกเพื่อกู้คืนได้\n<b>หากคุณต้องการดึงไฟล์สำรองจาก Dropbox/WebDAV/GoogleDrive โปรดลงชื่อเข้าใช้บัญชี Dropbox/WebDAV/GoogleDrive ของคุณก่อน!</b></string>
+  <string name="tipBackupNotExist">ไม่มีไฟล์สำรอง โปรดวางไฟล์สำรองใน Documents/PureWriter/Backups แล้วลองอีกครั้ง</string>
+  <string name="wordCountMode">โหมดการนับคำ</string>
+  <string name="fab">ปุ่มแอ็คชันลอยน้ำหน้าแรก</string>
+  <string name="tipFab">เคล็ดลับ: กดปุ่มการทำงานแบบลอยค้างไว้เพื่อซ่อนชั่วคราว</string>
+  <string name="tipCannotCreateNewWhenEmpty">ไม่สามารถสร้างบทความใหม่เมื่อทั้งชื่อและเนื้อหาว่างเปล่า! คุณยังสามารถสร้างได้โดยใช้ปุ่มที่มุมบนขวาของเมนู</string>
+  <string name="more">มากกว่า</string>
+  <string name="notSupportOpeningTheLink">ไม่รองรับลิงค์</string>
+  <string name="formatters">ตัวจัดรูปแบบ</string>
+  <string name="formatterSpace">ใส่ช่องว่างระหว่างคำภาษาจีนและภาษาอังกฤษ</string>
+  <string name="formatterIndent">แทรกการเยื้องที่จุดเริ่มต้นของย่อหน้าทั้งหมด</string>
+  <string name="formatterLineBreak">เว้นบรรทัดว่างไว้ระหว่างย่อหน้า</string>
+  <string name="formatterRemoveBreak">ลบบรรทัดว่างทั้งหมดระหว่างย่อหน้า</string>
+  <string name="titleAsAWordForACount">นับคำทีละคำ</string>
+  <string name="trash">ขยะ</string>
+  <string name="papers">เอกสาร</string>
+  <string name="custom">กำหนดเอง</string>
+  <string name="promptCustomPaper">ค่า RGB หรือลิงค์ URL รูปภาพ</string>
+  <string name="readMeCustomPaper">โปรดใส่ค่า RGB หรือลิงก์รูปภาพ เช่น #000000 หรือ https://unsplash.com/photos/x.jpg</string>
+  <string name="apply">นำมาใช้</string>
+  <string name="defaultDark">ค่าเริ่มต้นมืด</string>
+  <string name="pureWhite">ขาวบริสุทธิ์</string>
+  <string name="titleAlignCenter">จัดตำแหน่งหัวเรื่องให้ตรงกลาง</string>
+  <string name="tipShortcutBarEnabled">ไม่แนะนำให้ปิด</string>
+  <string name="open">เปิด</string>
+  <string name="summaryAutoBackup">บทความทั้งหมดของคุณจะสำรองข้อมูลโดยอัตโนมัติเมื่อออกจากแอป การสำรองข้อมูล จำกัด ไว้ที่ 25 ไฟล์ใหม่ล่าสุด</string>
+  <string name="migratingData">การโยกย้ายข้อมูล</string>
+  <string name="autoBackup">สำรองข้อมูลอัตโนมัติ</string>
+  <string name="summaryDeleteObsoleteFiles">ขณะนี้เราใช้ไดเร็กทอรีส่วนตัวเพื่อจัดเก็บเนื้อหาทั้งหมดของคุณ คลิกที่นี่เพื่อลบไฟล์ประวัติเวอร์ชันเก่าที่เหลืออยู่ในการ์ด SD ของคุณ</string>
+  <string name="tipArticleDeleting">การลบบทความ ปิดใช้งานการดำเนินการทั้งหมดชั่วคราว</string>
+  <string name="noHistory">ไม่พบประวัติ</string>
+  <string name="formatterRemoveIndent">ลบการเยื้อง</string>
+  <string name="keepScreenOn">เปิดหน้าจอไว้</string>
+  <string name="gfmBreaksEnabled">ห่อด้วยตัวแบ่งบรรทัด</string>
+  <string name="gfmBreaksDisabled">ต้องมีตัวแบ่งบรรทัดอย่างน้อยสองบรรทัดเพื่อแสดงขึ้นบรรทัดใหม่</string>
+  <string name="wordCountOfThisBook">นับทั้งหมด</string>
+  <string name="wordCountOfThisBookDescription">จำนวนคำทั้งหมดสำหรับหนังสือเล่มปัจจุบันนี้</string>
+  <string name="timeMachineGuide">อะไรเนี่ย? คุณอาจมองว่านี่เป็นหน้าต่างแชทหรือที่สำหรับบันทึกความคิดของคุณ หรือแม้แต่บางอย่างที่คล้ายกับ Google Assistant มีชื่อพิเศษว่า Time Machine ยินดีที่ได้พบคุณ!</string>
+  <string name="copyDate">วันที่คัดลอก</string>
+  <string name="defaultBook">หนังสือเริ่มต้น</string>
+  <string name="books">หนังสือ</string>
+  <string name="createNewBook">สร้างหนังสือใหม่</string>
+  <string name="summaryOfAbout">เรียนรู้เพิ่มเติมเกี่ยวกับแนวคิดและแนวคิดดั้งเดิมที่เราออกแบบมาสำหรับแอปพลิเคชันนี้</string>
+  <string name="emptyTip">ยังไม่มีการเปิดบทความ</string>
+  <string name="name">ชื่อ</string>
+  <string name="optionalDescription">คำอธิบาย (ไม่บังคับ)</string>
+  <string name="createBookForDialogButton">สร้างหนังสือ</string>
+  <string name="openSourceLicenses">ใบอนุญาตโอเพ่นซอร์ส</string>
+  <string name="cannotDelete">ลบไม่ได้</string>
+  <string name="cannotDeleteNotEmptyBook">หนังสือไม่ว่างเปล่า หากต้องการลบ โปรดลบบทความภายในทีละรายการก่อน</string>
+  <string name="move">เคลื่อนไหว</string>
+  <string name="moveTo">ย้ายไปที่</string>
+  <string name="timeMachine">เครื่องย้อนเวลา</string>
+  <string name="listFirst">เปิดบทเมื่อเริ่มต้น</string>
+  <string name="booksFirst">เปิดหนังสือเมื่อเริ่มต้น</string>
+  <string name="language">ภาษา</string>
+  <string name="followSystem">ติดตามระบบ</string>
+  <string name="localPicture">ภาพท้องถิ่น</string>
+  <string name="selectPicture">เลือกรูปภาพ</string>
+  <string name="toastCannotRetrieveSelectedImage">ไม่สามารถเรียกภาพที่เลือก</string>
+  <string name="picture">ภาพ</string>
+  <string name="saved">บันทึกแล้ว</string>
+  <string name="sendTo">ส่งถึง</string>
+  <string name="mode">โหมด</string>
+  <string name="plainText">ข้อความธรรมดา</string>
+  <string name="tipHasNotPermissionWithAutoBackup">การสำรองข้อมูลที่พยายามล้มเหลวเนื่องจากการอนุญาตให้เข้าถึงที่เก็บข้อมูลถูกปฏิเสธ</string>
+  <string name="hideTitleBarWhenPreviewingMarkdown">ซ่อนแถบชื่อเรื่องเมื่อดูตัวอย่าง Markdown</string>
+  <string name="privacyPolicy">นโยบายความเป็นส่วนตัว</string>
+  <string name="beforeRestoringYourBackup">ก่อนกู้คืนข้อมูลสำรองของคุณ</string>
+  <string name="trashDescription">กู้คืนบทความที่ถูกลบของคุณ</string>
+  <string name="messageDeleteArticlesDirectly">ลบบทความเหล่านี้อย่างถาวร</string>
+  <string name="trashFolderTip">คุณไม่สามารถสร้างไฟล์ใหม่ในโฟลเดอร์ถังขยะนี้ได้!</string>
+  <string name="tipLandscapeOrientation">โปรดใช้แป้นพิมพ์ภายนอกในโหมดแนวนอน</string>
+  <string name="promptShortcutOrder">คำสั่ง</string>
+  <string name="editShortcut">แก้ไขข้อความทางลัด</string>
+  <string name="fixedSync">สะพาน</string>
+  <string name="bridgeUpload">สะพาน: อัพโหลด</string>
+  <string name="bridgeDownload">สะพาน: Fetch</string>
+  <string name="backupSettingTitle">สำรอง</string>
+  <string name="backupSettingSummary">สำรอง กู้คืน Dropbox, WebDAV, Google Drive</string>
+  <string name="syncNetwork">การสำรองข้อมูลบนคลาวด์</string>
+  <string name="syncOnlyWifi">ซิงค์ข้อมูลสำรองไปยัง Cloud เมื่อเปิดใช้งาน Wi-Fi เท่านั้น</string>
+  <string name="syncAllNetworks">ซิงค์ข้อมูลสำรองไปยัง Cloud ในทุกเครือข่าย</string>
+  <string name="webDavAccount">บัญชี WebDAV</string>
+  <string name="webDavPassword">รหัสผ่าน WebDAV</string>
+  <string name="autoBackupToCloud">สำรองข้อมูลอัตโนมัติไปยังที่เก็บข้อมูลบนคลาวด์</string>
+  <string name="noWebDavConfigForUploading">การกำหนดค่า WebDAV ของคุณไม่สมบูรณ์หรือไม่ถูกต้อง โปรดแก้ไขการกำหนดค่า WebDAV ก่อนอัปโหลด</string>
+  <string name="noWebDavConfig">การกำหนดค่า WebDAV ของคุณไม่สมบูรณ์หรือไม่ถูกต้อง</string>
+  <string name="uploadSuccessful">อัพโหลดสำเร็จ</string>
+  <string name="fetchSuccessful">เรียกสำเร็จ</string>
+  <string name="messageUpload">Pure Writer สร้างไฟล์ <b>แก้ไข</b> บนดิสก์คลาวด์ของคุณ ชื่อไฟล์คือ <b>PureWriter.txt</b> คุณสามารถคลิกตกลงเพื่ออัปโหลดบทความปัจจุบันของคุณไปยังไฟล์คงที่นี้ จากนั้นคุณสามารถแก้ไขไฟล์ระบบคลาวด์นี้บนอุปกรณ์อื่นได้ เมื่อมีการเปลี่ยนแปลงคุณสามารถดึงลงได้\n\nคุณต้องการเขียนทับเนื้อหาบทความปัจจุบันไปยังไฟล์ระบบคลาวด์นั้นหรือไม่</string>
+  <string name="typewriterMode">โหมดเครื่องพิมพ์ดีด</string>
+  <string name="edit">แก้ไข</string>
+  <string name="editBook">แก้ไขหนังสือ</string>
+  <string name="tipFloatingWordCountDisabled">หลังจากปิดการนับจำนวนคำแบบลอยตัว คุณจะยังคงสามารถนับจำนวนคำในรายการบท/บทความได้</string>
+  <string name="shareText">คำแนะนำ: Pure Writer เป็นแอปแก้ไขข้อความที่มีฟีเจอร์ซึ่งช่วยให้คุณวางใจได้ด้วยฟีเจอร์ต่างๆ เช่น ประวัติประวัติ การป้องกันหลายชั้นที่ป้องกันไม่ให้คุณสูญเสียเนื้อหาอันมีค่าของคุณ และสภาพแวดล้อมการเขียนที่สะดวกสบาย ค้นหาข้อมูลเพิ่มเติมได้ที่นี่: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
+  <string name="shareMessage">หากคุณสนุกกับการใช้ Pure Writer โปรดช่วยเรากระจายข่าว! คลิกปุ่มแชร์ทางด้านขวาเพื่อแชร์แอปนี้กับเพื่อนของคุณ มันจะมีความหมายมากสำหรับเราและแอปเมื่อได้รับการปรับปรุงเนื่องจากการสนับสนุนของคุณ ขอบคุณ!\n\nหากต้องการข้อมูลเพิ่มเติม โปรดไปที่: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
+  <string name="reduceDatabaseSize">ล้างประวัติเพื่อลดขนาดฐานข้อมูล</string>
+  <string name="reduceDatabaseSizeMessage">ลบประวัติสำหรับบทความทั้งหมด\nหมายเหตุ: การดำเนินการนี้จะลบเฉพาะบันทึกประวัติและจะไม่ลบตัวบทความเอง\n\nคุณควรสำรองข้อมูลเพื่อดำเนินการลบ\nคุณยังควรลบบันทึกประวัติเป็นครั้งคราวเพื่อลดขนาดฐานข้อมูล!</string>
+  <string name="deleteSuccessful">ลบสำเร็จ</string>
+  <string name="unlockPro">ปลดล็อคโปร</string>
+  <string name="presetTitle1">Pure Writer - เชื่อมโยงอดีตและอนาคตด้วยคำพูด</string>
+  <string name="presetContent1">Pure Writer เป็นแอปแก้ไขข้อความที่รวดเร็วและสะดวกสบายซึ่งช่วยป้องกันไม่ให้งานของคุณสูญหาย ขณะเลื่อนดูความคิดเห็นและคำวิจารณ์ของ Pure Writer ใน Google Play คุณอาจพบว่าแอปนี้ได้รับคำชมอย่างสูง เช่น ไม่มีแอปใดดีไปกว่านี้อีกแล้ว แอปที่น่าพอใจที่สุด รักแอปนี้มาก รักแรกพบสำหรับแอปนี้... เช่น ผู้พัฒนาเพียงรายเดียวสำหรับ Pure Writer ความคิดเห็นนั้นทำให้ฉันพอใจเป็นพิเศษ\nในเดือนมิถุนายน 2017 หลังจากที่ฉันผ่านผลิตภัณฑ์แก้ไขข้อความที่ทำได้ไม่ดีและอึดอัดนับไม่ถ้วนและไฟล์ข้อความอันมีค่าของฉันหาย ฉันมุ่งมั่นที่จะพัฒนาแอปแก้ไขข้อความของตัวเองที่อนุญาตให้ผู้ใช้เขียนทุกที่ทุกเวลาในสภาพแวดล้อมที่เต็มไปด้วยฟีเจอร์และสะดวกสบาย รู้ว่าคำพูดของพวกเขาจะไม่หายไป แอปนี้ ตามที่ฉันตัดสินใจ จะได้รับการพัฒนาด้วยมุมมองของนักเขียน\nก่อนหน้านี้ ฉันทำงานพาร์ทไทม์กับซอฟต์แวร์แก้ไข Rich Text แม้ว่าเราจะทุ่มเทให้กับมัน แต่ซอฟต์แวร์ไม่ได้เป็นไปตามที่เราต้องการ อย่างไรก็ตาม ฉันประสบความสำเร็จในการพัฒนาคุณลักษณะพิเศษบางอย่างที่เพียงพอสำหรับ Pure Writer\nดังนั้น Pure Writer จึงถือกำเนิดขึ้น ตั้งแต่เริ่มต้น Pure Writer ได้ดูแลปรับปรุงแต่ละบรรทัดและระยะห่างระหว่างอักขระบน Android นี่เป็นคุณสมบัติพิเศษที่ไม่มีแอป Android แก้ไขข้อความอื่นใดที่ทำได้นอกจาก Microsoft Word และขนาดแพ็คเกจของ Microsoft Word นั้นใหญ่กว่าของ Pure Writer ถึงสิบเท่า\nไม่เพียงเท่านั้น Pure Writer ยังมีคุณสมบัติพิเศษ เช่น เปิดใช้โปรแกรมแก้ไขข้อความในการเริ่มแอป และโดยเฉพาะบันทึกประวัติ ในฐานะนักเขียน ฉันเข้าใจถึงความสำคัญสูงสุดของการมีบันทึกประวัติศาสตร์ ซึ่งช่วยให้คุณจดจ่อกับงานเขียนของคุณ ในขณะที่ให้ความอุ่นใจว่าคุณจะไม่มีวันสูญเสียสิ่งที่คุณเขียนไป แม้ว่าโทรศัพท์ของคุณจะปิดลงกะทันหันโดยไม่ได้แจ้งให้ทราบ Pure Writer ยังสามารถบันทึกเนื้อหาของคุณได้โดยอัตโนมัติ ด้วยวิธีนี้ ผู้ใช้ทุกคนสามารถเริ่มและหยุดเขียนได้ทุกเมื่อที่ต้องการด้วยโปรแกรมแก้ไขข้อความที่สะดวกสบายด้วยความมั่นใจ\nนอกจากนั้น Pure Writer ยังรองรับอินพุตทางลัดและเครื่องมือการจัดรูปแบบ ช็อตคัตอินพุตช่วยให้ผู้ใช้ตั้งค่าคำที่กำหนดเองของตนเองลงในแถบช็อตคัต เพื่อให้สามารถใช้ซ้ำได้ซ้ำแล้วซ้ำอีกอย่างง่ายดาย เครื่องมือการจัดรูปแบบช่วยให้ผู้ใช้จัดรูปแบบข้อความได้อย่างรวดเร็ว เช่น การเว้นวรรคและการจัดเรียงอัตโนมัติ\nไม่เพียงแค่คุณสมบัติเหล่านี้เท่านั้น แต่ยังทุ่มเทอย่างมากในการปรับแต่งรายละเอียดที่เล็กที่สุดใน Pure Writer ขณะใช้ Pure Writer คุณสามารถซ่อนซอฟต์คีย์บอร์ดได้ด้วยการปัดหน้าจอ ให้เคอร์เซอร์อยู่ในตำแหน่งที่คุณต้องการให้อยู่ตรง และเก็บบทความไว้นิ่งๆ ในขณะที่คุณซ่อนซอฟต์คีย์บอร์ด... ถ้าคุณจะเปรียบเทียบเพียว ผู้เขียนไปยังแอปแก้ไขข้อความอื่นๆ คุณจะพบว่า Pure Writer ได้ดูแลรายละเอียดเล็กๆ น้อยๆ ทั้งหมดอย่างสมบูรณ์ ซึ่งในที่สุดจะนำไปสู่สภาพแวดล้อมการเขียนที่สมบูรณ์แบบ\nPure Writer มีเครื่องมือแก้ไขที่คุณต้องการ เช่น การเยื้องอัตโนมัติ ส่งออกบทความเป็นไฟล์ต่างๆ รวมถึงรูปภาพ การนับจำนวนคำแบบลอย การยกเลิก Markdown ธีมพื้นหลังแบบกำหนดเอง โหมดกลางคืน การเข้ารหัสไบโอเมตริกซ์ การเติมข้อความอัตโนมัติ การแชร์ และอื่นๆ อีกมากมาย แม้จะมีคุณลักษณะและรายละเอียดทั้งหมด แต่ Pure Writer ยังคงรักษาสไตล์มินิมอลและปฏิบัติตามหลักเกณฑ์ดีไซน์ Material ฉันยังสร้าง Time Machine ให้ผู้ใช้จดบันทึกย่อและเก็บไว้ ชื่อ Time Machine มาจากการ์ตูนเรื่อง Connecting the Past and Future ด้วยคำพูด\nจนถึงวันนี้ ฐานโค้ดของ Pure Writer ได้รับการคอมมิตมากกว่าหนึ่งพันครั้งและมีการเปลี่ยนแปลงหลายล้านบรรทัด แม้ว่า Pure Writer จะใช้เวลาว่างเกือบทั้งหมดของฉัน แต่ก็รู้สึกโล่งใจเสมอที่มีผู้ใช้ให้คำติชมเชิงบวกกับฉันมากขึ้นเรื่อยๆ ฉันติดต่อกับผู้ใช้ Pure Writer อย่างจริงจัง รวบรวมคำติชมและปรับปรุงแอปให้สมบูรณ์แบบ ฉันไม่เคยรู้สึกมีความสุขมากขึ้นเมื่อคิดจะทำอะไรบางอย่างในระยะยาวเพื่อช่วยเหลือผู้อื่น\nสุดท้ายนี้ ขอขอบคุณเพื่อนๆ ทุกคนที่ช่วยเหลือฉันตลอดการเดินทางครั้งนี้ หากไม่มีคุณ แอปนี้จะไม่มีอยู่ในทุกวันนี้ ด้วยโพสต์นี้ ฉันแนะนำให้คุณรู้จักกับแนวคิดดั้งเดิมของ Pure Writer และคุณสมบัติพิเศษทั้งหมด และหวังว่าผู้คนจะรู้จักมันมากขึ้น หวังว่าเราจะสามารถทิ้งความทรงจำอันแสนวิเศษไว้ข้างหลังได้ในเวลาจำกัดที่เรามี ให้พระคำของเรานำเราย้อนเวลากลับไป และทำให้เราจินตนาการถึงอนาคต</string>
+  <string name="presetTitle2">Pure Writer - กลไกป้องกัน</string>
+  <string name="presetContent2">กลไกการป้องกันปัจจุบันที่ Pure Writer มีคือ:\n1. บทความจะถูกบันทึกเมื่อมีการเปลี่ยนแปลงเนื้อหา หากไม่สำเร็จ Pure Writer จะแจ้งให้ผู้ใช้ทราบทันที\n2. Pure Writer จะตรวจสอบว่าเนื้อหาของคุณถูกบันทึกไว้ในฐานข้อมูลทุกสองวินาทีหรือไม่ หากล้มเหลว Pure Writer จะแจ้งให้ผู้ใช้ทราบทันที\n3. หากไม่สามารถบันทึกอัตโนมัติได้ ผู้ใช้จะไม่สามารถออกจากแอปได้อย่างสมบูรณ์ การกดปุ่มออกในเวลานี้จะเหมือนกับการกดปุ่มโฮมโดยไม่ทำให้แอปหยุดโดยสมบูรณ์ ซึ่งจะทำให้ผู้ใช้มีเวลาในการบันทึกเนื้อหาด้วยตนเอง\n4. ทุกครั้งที่แอปทำงานในพื้นหลังหรือออก แอปจะสำรองฐานข้อมูลทั้งหมดโดยอัตโนมัติหากมีการแก้ไขเนื้อหาใดๆ ไฟล์สำรองสามารถเข้าถึงได้ทุกเวลา การสำรองข้อมูลจะถูกบันทึกพร้อมกับเวอร์ชันก่อนหน้าของการสำรองข้อมูลเพื่อให้ผู้ใช้สามารถคืนค่าการสำรองข้อมูลได้\n5. มีการบันทึกประวัติการเลิกทำและทำซ้ำคุณสมบัติให้กับทุกบทความ\n6. มีโฟลเดอร์ถังขยะเพื่อป้องกันการลบบทความโดยไม่ได้ตั้งใจ\n7. การสำรองข้อมูลบนคลาวด์: หาก Pure Writer ถูกรวมเข้ากับ WebDAV มันจะสำรองเนื้อหาฐานข้อมูลทั้งหมดโดยอัตโนมัติรวมถึงบทความไปยังคลาวด์</string>
+  <string name="presetContent3">หากคุณสนุกกับการใช้ Pure Writer และต้องการพัฒนาอย่างจริงจัง คุณอยากจะบริจาคเงินสักสองสามเหรียญเพื่อสนับสนุนนักพัฒนาหรือไม่\nการสนับสนุนจากคุณสามารถกระตุ้นให้นักพัฒนาอิสระเช่นฉันสร้างแอปที่มีประโยชน์มากขึ้น\nหากต้องการมีส่วนร่วม คุณสามารถกดปุ่ม Unlock Pro ที่มุมบนขวาของหน้าการตั้งค่า เพื่อเป็นการแสดงความขอบคุณ คุณจะสามารถรับคุณสมบัติ Pro เช่น บันทึกเป็น... และพื้นหลัง/เอกสารที่กำหนดเองได้\nPure Writer จะปรับปรุงด้วยผลจากการสนับสนุนของคุณ ขอบคุณล่วงหน้า! หากคุณมีคำถามหรือข้อเสนอแนะ โปรดอย่าลังเลที่จะส่งอีเมลถึงฉันที่ drakeet@drakeet.com</string>
+  <string name="presetTitle4">Pure Writer - นโยบายความเป็นส่วนตัว</string>
+  <string name="presetContent4">Pure Writer ให้ความสำคัญกับความเป็นส่วนตัวของผู้ใช้เป็นอย่างมาก โดยจะไม่รวบรวมข้อมูลส่วนตัวใดๆ ของคุณ\nนอกจากนี้ จะไม่อ่านหรือแก้ไขเนื้อหาใด ๆ ในคลิปบอร์ดของคุณโดยไม่ได้แจ้งให้คุณทราบก่อน\nสิทธิ์ในการจัดเก็บข้อมูลที่ Pure Writer ขอใช้สำหรับการสำรองข้อมูลอัตโนมัติและบันทึกไฟล์ของคุณเท่านั้น นอกจากนั้น จะไม่อ่านหรือแก้ไขไฟล์ใดๆ ของคุณในที่จัดเก็บข้อมูลโดยไม่แจ้งให้คุณทราบก่อน\nPure Writer รองรับการสำรองข้อมูลบนคลาวด์ ซึ่งใช้การเข้ารหัส HTTPS เพื่อถ่ายโอนข้อมูลสำรองฐานข้อมูลของคุณไปยังที่เก็บข้อมูลบนคลาวด์ WebDAV ของคุณ ข้อมูลสำรองบนระบบคลาวด์ของคุณจะถูกเก็บไว้ในที่เก็บข้อมูลบนคลาวด์ที่คุณตั้งค่าไว้เท่านั้น และจะไม่อัปโหลดไปยังที่อื่น</string>
+  <string name="createAt">สร้างที่</string>
+  <string name="updatedAt">ปรับปรุงที่</string>
+  <string name="onlyAvailableWhenParagraphOn">ใช้ได้เฉพาะเมื่อเปิดการเว้นวรรคย่อหน้า</string>
+  <string name="onlyAvailableWhenParagraphOff">ใช้ได้เฉพาะเมื่อการเว้นวรรคย่อหน้าปิดอยู่</string>
+  <string name="lowProfile">โหมดโฟกัสแถบสถานะ</string>
+  <string name="chapters">บทที่</string>
+  <string name="sortTypeTitleUp">เรียงชื่อเรื่อง A - Z</string>
+  <string name="sortTypeTitleDown">เรียงชื่อเรื่อง Z - A</string>
+  <string name="sortByRank">การเรียงลำดับด้วยตนเอง</string>
+  <string name="modifyRanks"><i><b>ทำการเรียงลำดับด้วยตนเอง</b></i></string>
+  <string name="markdownShortcutTip">คุณเพิ่งแทรก Markdown ซึ่งจะมีผลเฉพาะในโหมดแสดงตัวอย่าง Markdown คุณต้องการเปิดใช้งานโหมด Markdown หรือไม่?</string>
+  <string name="importedFileTooLargeToOpen">ไฟล์ที่นำเข้ามีขนาดใหญ่เกินไป การเปิดไฟล์ล้มเหลว</string>
+  <string name="failed">ล้มเหลว</string>
+  <string name="insertCategoryAboveShort">แทรกหมวดหมู่ <b>ด้านบน</b></string>
+  <string name="insertCategoryBelowShort">แทรกหมวดหมู่ <b>ด้านล่าง</b></string>
+  <string name="insertCategoryBottomShort">แทรกหมวดหมู่ไปที่ <b>ด้านล่าง</b></string>
+  <string name="insertCategoryAboveLong">แทรกหมวดหมู่ <b>ด้านบน</b> บทความปัจจุบัน</string>
+  <string name="insertCategoryBelowLong">แทรกหมวดหมู่ <b>ด้านล่าง</b> บทความปัจจุบัน</string>
+  <string name="insertCategoryBottomLong">แทรกหมวดหมู่ใหม่ที่ <b>ด้านล่าง</b> ของรายการบท</string>
+  <string name="insertCategory">แทรกหมวดหมู่</string>
+  <string name="editCategory">แก้ไขหมวดหมู่</string>
+  <string name="category">หมวดหมู่</string>
+  <string name="deleteEmptyArticlesShort">ลบบทความเปล่าทั้งหมด</string>
+  <string name="deleteEmptyArticlesLong">ลบบทความทั้งหมดที่มีชื่อและเนื้อหาว่างเปล่าในหนังสือเล่มนี้</string>
+  <string name="deleteCategory">ลบหมวดหมู่</string>
+  <string name="exportBook">ส่งออกหนังสือเล่มนี้</string>
+  <string name="needManualSortingTitle">ต้องเปลี่ยนเป็นการเรียงลำดับด้วยตนเองเพื่อใช้คุณสมบัตินี้</string>
+  <string name="needManualSortingMessage">คุณต้องการเปลี่ยนการตั้งค่าเป็นการเรียงลำดับด้วยตนเองหรือไม่?</string>
+  <string name="doubleClickToExit">ดับเบิลคลิกที่ปุ่มย้อนกลับเพื่อออกจากแอป</string>
+  <string name="doubleClickToExitTip">คลิกกลับอีกครั้งเพื่อออก</string>
+  <string name="markdownCheckBoxTip">ตัวเลือกนี้มีไว้สำหรับคุณลักษณะ Markdown หลังจากตรวจสอบแล้ว การเว้นวรรคและการเยื้องของย่อหน้าจะสูญเสียผลไป หากคุณไม่คุ้นเคยกับ Markdown ขอแนะนำว่าอย่าทำเครื่องหมายที่ช่องนี้\n\nMarkdown เป็นภาษามาร์กอัปที่มีรูปแบบข้อความธรรมดา คุณสามารถค้นหาออนไลน์สำหรับ Markdown หากคุณสนใจ</string>
+  <string name="unlockValidityPeriod">ระยะเวลาการล็อกอัตโนมัติ</string>
+  <string name="unlockValidityPeriodSummary">%s\nหมายเหตุ: หากคุณกดย้อนกลับเพื่อออกจากแอป ครั้งต่อไปจะถูกล็อค</string>
+  <string name="lockImmediatelyIfAway">ล็อคทันทีหากไม่อยู่</string>
+  <string name="lockIfAwayMoreThan3Minutes">ล็อคหากห่างเกิน 3 นาที</string>
+  <string name="font">แบบอักษร</string>
+  <string name="appEmbeddedFont">แบบอักษรฝังแอป</string>
+  <string name="noInternetConnection">ไม่มีการเชื่อมต่ออินเทอร์เน็ต</string>
+  <string name="cloudBackup">การสำรองข้อมูลบนคลาวด์</string>
+  <string name="cloudConnection">ประเภทการเชื่อมต่อบนคลาวด์</string>
+  <string name="signIn">เข้าสู่ระบบ</string>
+  <string name="lockFallback">หากคุณไม่สามารถปลดล็อกได้ตลอดเวลา คุณสามารถไปที่การตั้งค่าระบบของโทรศัพท์ ลบลายนิ้วมือทั้งหมด แล้วเปิด Pure Writer อีกครั้ง</string>
+  <string name="smoothScrollerTitle">แอนิเมชั่นการเลื่อนที่ราบรื่นสำหรับการคลิกบนบรรทัดข้อความ</string>
+  <string name="tipSmoothScrolling">หากเปิดตัวเลือกนี้ เมื่อคุณคลิกที่บรรทัดของข้อความเนื้อหา มุมมองข้อความจะเลื่อนไปยังบรรทัดที่โฟกัสอย่างราบรื่น หากจำเป็น หากปิดตัวเลือกนี้ ระบบจะข้ามไปที่บรรทัดนั้นทันที\nภาพเคลื่อนไหวแบบเลื่อนอาจทำงานได้ไม่ดีในอุปกรณ์บางรุ่น ดังนั้นให้ปิดตัวเลือกนี้หากคุณรู้สึกว่าติดขัด</string>
+  <string name="defaultMessageUpdateApk">นี่เป็นเวอร์ชันที่สำคัญ โปรดอัปเดตเป็นเวอร์ชันนี้โดยเร็วที่สุด</string>
+  <string name="readme">คุณได้เปิดดีไซน์ Material Design 2 ใหม่ของ Pure Writer แล้ว\n\nMaterial Design 2 นำเสนอกระดาษแบบจุ่มเต็มหน้าจอแบบใหม่และแถบด้านบนแบบโปร่งใสเพื่อให้ดูสดยิ่งขึ้น\n\nอย่างไรก็ตาม ในขณะเดียวกัน อาจมีปัญหามากมายกับการออกแบบใหม่ ดังนั้น นี่เป็นคุณลักษณะทดลองของ Pure Writer ซึ่งอาจมีปัญหาด้านภาพ UI บางอย่าง นอกจากนี้ ในฐานะผู้เขียน Pure Writer ฉันชอบการออกแบบ Pure Writer ดั้งเดิม ซึ่งดึงดูดสายตาและเน้นที่เนื้อหาข้อความมากกว่า ดังนั้นคุณสมบัติการออกแบบนี้จึงได้รับการพัฒนาจริง ๆ เพื่อตอบสนองความต้องการที่แข็งแกร่งของผู้ใช้จำนวนน้อย ต้องใช้ต้นทุนการพัฒนาเพิ่มเติมจำนวนมาก และไม่ใช่เรื่องง่ายที่จะจัดหา และเนื่องจากตอนนี้จะมีการออกแบบ Pure Writer สองแบบ ผลงานของนักพัฒนาอาจทวีคูณ\n\nด้วยเหตุนี้ Pure Writer จะแนะนำให้คุณชำระเงิน แต่คุณยังสามารถมีเวลาอีกมากในการสัมผัสและตัดสินใจชำระเงินขั้นสุดท้าย ลองอุดหนุนกันดูนะครับ หากสถิติแสดงให้เห็นว่าสัดส่วนของผู้ใช้ที่ยินดีจ่ายมีน้อย ผู้พัฒนาอาจยกเลิกหรือหยุดการรักษาดีไซน์ Material 2 เมื่อคุณคลิกตกลง คุณจะถือว่ายอมรับเนื้อหานี้โดยค่าเริ่มต้น\n\nขอบคุณทุกคน! ฉันจะทำให้ดีที่สุดเพื่อให้ Pure Writer ดีขึ้นและดีขึ้น โปรดสนุก!</string>
+  <string name="lowFreeStorageSpaceWarning">โทรศัพท์ของคุณมีพื้นที่เก็บข้อมูลฟรีเพียง %1$d MB ซึ่งอาจทำให้ Pure Writer บันทึกหรือสำรองข้อมูลล้มเหลว โปรดล้างข้อมูลและปล่อยให้มากกว่า %2$d MB ก่อนใช้ Pure Writer!</string>
+  <string name="lowCloudFreeStorageSpaceWarning">%1$s ของคุณมีพื้นที่เก็บข้อมูลฟรีเพียง %2$d MB ซึ่งอาจทำให้ Pure Writer บันทึกหรือสำรองข้อมูลไปยังระบบคลาวด์ล้มเหลว โปรดล้างข้อมูลและปล่อยให้มากกว่า %3$d MB ก่อนใช้ Pure Writer!</string>
+  <string name="findReplace">ค้นหาและแทนที่</string>
+  <string name="replace">แทนที่</string>
+  <string name="find">หา</string>
+  <string name="currentChapter">บทปัจจุบัน</string>
+  <string name="currentText">ข้อความปัจจุบัน</string>
+  <string name="currentBook">เล่มปัจจุบัน</string>
+  <string name="ignoreCase">ละเว้นกรณี</string>
+  <string name="selectAll">เลือกทั้งหมด</string>
+  <string name="inverseAll">ผกผันทั้งหมด</string>
+  <string name="replaceConfirmMessage">คุณแน่ใจหรือว่าจะเปลี่ยนสถานที่ที่เลือก %d แห่ง</string>
+  <string name="tipUndoReplace">เลิกทำ:\n* คุณสามารถไปที่ Pure Writer - การตั้งค่า - สำรองข้อมูล - กู้คืนข้อมูลสำรอง คลิกที่ข้อมูลสำรองก่อนหน้าเพื่อกู้คืนไปยังเนื้อหาก่อนหน้า\n* หากคุณเพิ่งเปลี่ยนบทปัจจุบัน คุณสามารถไปที่หน้าประวัติผ่านเมนูด้านบนขวาและเปลี่ยนกลับเป็นเนื้อหาก่อนหน้า</string>
+  <string name="backupRemarkForReplace">ก่อนแทนที่</string>
+  <string name="tipReplaceResult">%2$d เนื้อหาใน %1$d บทความถูกแทนที่แล้ว</string>
+  <string name="title">ชื่อ</string>
+  <string name="content">เนื้อหา</string>
+  <string name="webDavAccountError">เนื้อหาในบัญชี WebDAV ของคุณไม่ถูกต้อง ดังนั้นจึงไม่สามารถเปิดใช้งานการสำรองข้อมูลบนคลาวด์ได้!</string>
+  <string name="fileAlreadyExistsInDirectory">ไฟล์นี้มีอยู่แล้วในไดเร็กทอรีของคุณ</string>
+  <string name="overwrite">เขียนทับ</string>
+  <string name="doNotOverwrite">อย่าเขียนทับ</string>
+  <string name="changeAccount">เปลี่ยนบัญชี</string>
+  <string name="signOut">ออกจากระบบ</string>
+  <string name="scrollToHideTopBar">เลื่อนเพื่อซ่อนแถบด้านบน</string>
+  <string name="scrollToHideWordCount">เลื่อนเพื่อซ่อน Word Count</string>
+  <string name="doNotOperate">อย่าเปลี่ยนหรือแก้ไขบทความในกระบวนการ!</string>
+  <string name="aboutBackup"><b>เกี่ยวกับการสำรองข้อมูล</b></string>
+  <string name="backupReadme">Pure Writer รองรับการสำรองข้อมูลในเครื่องและคลาวด์ การสำรองข้อมูลในเครื่องเป็นไปโดยอัตโนมัติ เมื่อคุณติดตั้ง Pure Writer อีกครั้ง <b>คุณสามารถกู้คืนบทความทั้งหมดของคุณได้โดยการสำรองข้อมูล</b>\n\nอย่างไรก็ตาม Pure Writer <b>ไม่ได้ทำการสำรองข้อมูลบนคลาวด์โดยอัตโนมัติตามค่าเริ่มต้น</b> ในการเปิดใช้งานการสำรองข้อมูลบนคลาวด์ <b>คุณต้องตั้งค่าบัญชีสำรองข้อมูลบนคลาวด์</b> บนหน้า Pure Writer - การตั้งค่า - การสำรองข้อมูล\n\nปัจจุบันการสำรองข้อมูลบนคลาวด์ของ Pure Writer รองรับที่เก็บข้อมูลบนคลาวด์ Dropbox และ WebDAV\n\n<b>การสำรองข้อมูลบนคลาวด์มีความสำคัญมาก หากคุณไม่ได้ตั้งค่าบัญชีสำรองข้อมูลบนคลาวด์ คุณจะสูญเสียเนื้อหาอันมีค่าทั้งหมดของคุณหากอุปกรณ์นี้สูญหาย ใช้งานไม่ได้ หรือกู้คืนกลับเป็นการตั้งค่าจากโรงงาน! อย่าลืมตั้งค่าบัญชีสำรองข้อมูลบนคลาวด์!</b></string>
+  <string name="tipParagraphSpacingInMD">ระยะห่างของย่อหน้าจะไม่ถูกเปิดใช้งานในโหมด Markdown</string>
+  <string name="lineSpacing">ระยะห่างบรรทัด</string>
+  <string name="paragraphSpacing">ระยะห่างย่อหน้า</string>
+  <string name="defaultX">ค่าเริ่มต้น</string>
+  <string name="zoomIn">ขยายเข้า</string>
+  <string name="zoomOut">ซูมออก</string>
+  <string name="switchingBooksTooltip">เคล็ดลับ: การคลิกที่ชื่อหนังสือที่ด้านบนสุดจะสามารถสลับหนังสือได้</string>
+  <string name="scrollToTheCurrentArticle">เลื่อนไปที่บทความปัจจุบัน</string>
+  <string name="allBooks">หนังสือทั้งหมด</string>
+  <string name="needToManuallyRestartToTakeEffect">ต้องรีสตาร์ทจึงจะมีผล</string>
+  <string name="spellChecker">เครื่องตรวจตัวสะกด</string>
+  <string name="thisShortcutCannotBeEdited">แก้ไขทางลัดนี้ไม่ได้</string>
+  <string name="createNewChapter">สร้างบทใหม่</string>
+  <string name="hideSoftKeyboard">ซ่อนแป้นพิมพ์</string>
+  <string name="transparentTopBar">แถบด้านบนโปร่งใส</string>
+  <string name="transparentNavigationBar">แถบนำทางโปร่งใส</string>
+  <string name="transparentNavigationBarWarning">นี่เป็นคุณลักษณะทดลอง เมื่อเปิดเครื่อง อาจทำให้ตรวจสอบความสูงของแป้นพิมพ์แบบซอฟต์ไม่ถูกต้อง ซึ่งอาจทำให้แถบทางลัดไม่แสดงและข้อความไม่อยู่ในโฟกัส หากคุณพบปัญหาเหล่านี้ ให้ปิดตัวเลือกนี้</string>
+  <string name="titleAsAWordForACountSummary">เมื่อเปิดรายการนี้ โหมดการนับจำนวนคำถัดไปจะถูกปิดใช้งาน หากคุณต้องการใช้ตัวเลือกในโหมดการนับจำนวนคำ ให้ปิดตัวเลือกนี้</string>
+  <string name="customFont">แบบอักษรที่กำหนดเอง</string>
+  <string name="customFontTip">วางไฟล์ฟอนต์ .ttf หรือ .otf ในไดเร็กทอรีจัดเก็บข้อมูลภายนอก <b>/Documents/PureWriter/App</b> และรีสตาร์ท Pure Writer เพื่อใช้ฟอนต์โดยอัตโนมัติ\nหมายเหตุ: มีไฟล์ฟอนต์ได้เพียงไฟล์เดียวในไดเรกทอรีนี้ และไฟล์ฟอนต์บางไฟล์ (เช่น Google Sans) อาจทำให้เคอร์เซอร์ขยับได้ โปรดทราบ!</string>
+  <string name="customFontTipForAndroid11">Android 11+ ต้องเลือกไฟล์ฟอนต์เพื่อให้มีประสิทธิภาพ</string>
+  <string name="corruptBackupTip">ไฟล์สำรองเสียหาย! โปรดลองกู้คืนข้อมูลสำรองอื่นๆ แล้วเลือกขนาดและเวลาสำรองที่ถูกต้อง!</string>
+  <string name="leftMargin">ระยะขอบซ้าย</string>
+  <string name="rightMargin">ขอบขวา</string>
+  <string name="spacingsAndMargins">ระยะห่าง\nระยะขอบ</string>
+  <string name="autoBackupAndCloudBackupGuide"><i>กวดวิชาการสำรองข้อมูลบนคลาวด์</i></string>
+  <string name="bridgeSummary">คุณลักษณะนี้เข้าใจและใช้งานได้ยากมาก ไม่แนะนำให้เปิดใช้งาน</string>
+  <string name="messageCancelBridgeFeature">จากเวอร์ชันนี้ คุณลักษณะ \"สะพาน\" ดั้งเดิมจะถูกซ่อนไว้โดยค่าเริ่มต้น เนื่องจากมีคำติชมของผู้ใช้จำนวนมากทุกวัน ซึ่งบอกฉันว่าพวกเขาไม่รู้ว่าคุณลักษณะนี้หมายถึงอะไร เราเสียใจเป็นอย่างยิ่งที่ทำให้คุณเดือดร้อน! แต่ในขณะเดียวกัน ฉันก็ใช้เวลาและพลังงานอย่างมากในการตอบสนองต่อผลตอบกลับเหล่านี้ ซึ่งควรถูกนำมาใช้เพื่อพัฒนาและขัดเกลาผลิตภัณฑ์นี้ ดังนั้นขณะนี้คุณลักษณะนี้จึงถูกปิดโดยค่าเริ่มต้น หากคุณต้องการและไว้วางใจ คุณสามารถไปที่ด้านล่างของหน้าการตั้งค่าการสำรองข้อมูล แล้วคุณจะเห็นตัวเลือกให้เปิดขึ้นมา โปรดเข้าใจ ขอบคุณมาก!</string>
+  <string name="followingBackupsAre">ต่อไปนี้เป็นข้อมูลสำรองก่อนติดตั้งเวอร์ชันปัจจุบัน</string>
+  <string name="logInToCloudStorage">เข้าสู่ระบบที่เก็บข้อมูลบนคลาวด์</string>
+  <string name="scrollToBottom">เลื่อนไปด้านล่าง</string>
+  <string name="scrollToTop">เลื่อนขึ้นด้านบน</string>
+  <string name="customColorTipOnShortcutPad">เคล็ดลับ: คุณสามารถปรับแต่งสีข้อความของตัวแก้ไขได้ในหน้าการตั้งค่า</string>
+  <string name="textColor">สีข้อความของบรรณาธิการ</string>
+  <string name="textColorSummary">หมายเหตุ: เมื่อคุณเปลี่ยนกระดาษ สีข้อความจะถูกรีเซ็ตโดยอัตโนมัติเป็นสีเริ่มต้น</string>
+  <string name="titleTextSize">ขนาดตัวอักษรชื่อเรื่อง</string>
+  <string name="restoreByThisBackup">กู้คืนโดยข้อมูลสำรองนี้หรือไม่</string>
+  <string name="restoreByThisBackupWithAppName">Pure Writer: กู้คืนโดยการสำรองข้อมูลนี้</string>
+  <string name="collapseAllCategories">ยุบหมวดหมู่ทั้งหมด</string>
+  <string name="showMore">แสดงมากขึ้น</string>
+  <string name="textColorAlpha">สีข้อความอัลฟ่า / ความโปร่งใส</string>
+  <string name="connectDesktop">เชื่อมต่อเวอร์ชันเดสก์ท็อป</string>
+  <string name="disconnectDesktop">ยกเลิกการเชื่อมต่อเวอร์ชันเดสก์ท็อป</string>
+  <string name="connect">เชื่อมต่อ</string>
+  <string name="tipNotSupportThisDesktopVersion">เวอร์ชันมือถือและเดสก์ท็อปปัจจุบันไม่ตรงกันและไม่สามารถเชื่อมต่อได้ โปรดอัปเดตทั้งเป็นเวอร์ชันล่าสุดแล้วลองอีกครั้ง</string>
+  <string name="desktopDialogGuide">คุณต้องดาวน์โหลด <b><i>Pure Writer Desktop 1.4.0 (หรือสูงกว่า)</i></b> จาก https://writer.drakeet.com/desktop_en\n\nเมื่อมือถือและคอมพิวเตอร์ของคุณใช้ <b>เครือข่าย Wi-Fi หรือฮอตสปอตเดียวกัน👈👈👈</b> ให้เปิดเดสก์ท็อปแล้วป้อนที่อยู่ IP ด้านล่าง <b>ลงในช่องป้อนข้อมูลของเดสก์ท็อป</b> เพื่อเชื่อมต่อ Pure Writer จากนั้นคุณสามารถซิงค์และแก้ไขบทความปัจจุบันได้แบบเรียลไทม์</string>
+  <string name="desktopDialogNote">หมายเหตุ: Pure Writer Desktop ยังอยู่ในช่วงอัลฟ่า โปรดเข้าใจและรอการอัปเดตในภายหลัง\n* หากคุณเห็น <b>ที่อยู่ IP หลายบรรทัด</b> ให้ลองเชื่อมต่อทีละรายการ</string>
+  <string name="connectionIsStopping">การเชื่อมต่อหยุด โปรดลองอีกครั้งในภายหลัง!</string>
+  <string name="createShortcutLabel">ทางลัดข้อความ</string>
+  <string name="cursorPositionForNewArticle">ตำแหน่งเคอร์เซอร์สำหรับบทความใหม่</string>
+  <string name="stop_waiting_connection">หยุดรอการเชื่อมต่อ</string>
+  <string name="undoValidTip">ไม่สามารถเลิกทำพื้นที่ป้อนข้อมูลที่โฟกัสอยู่ในขณะนี้ได้อีก คุณสามารถลองกู้คืนเนื้อหาของคุณจากเมนูประวัติที่มุมบนขวา</string>
+  <string name="desktopDisconnected">เดสก์ท็อปถูกตัดการเชื่อมต่อ</string>
+  <string name="desktopConnected">เดสก์ท็อปเชื่อมต่ออยู่</string>
+  <string name="toDoCloudBackupButton">ไปที่ตั้งค่าบัญชีสำรองข้อมูลบนคลาวด์</string>
+  <string name="ignoreCloudBackupCheckBox">ฉันไม่ต้องการตั้งค่าการสำรองข้อมูลบนคลาวด์ ไม่ต้องเตือนฉัน ฉันยินดีที่จะแบกรับผลที่ตามมาทั้งหมดจากการไม่มีการสำรองข้อมูลบนคลาวด์ รวมถึงการสูญเสียบทความที่มีค่าทั้งหมดของฉันเมื่อโทรศัพท์เสียหรือสูญหายหรือรีเซ็ตเพราะไม่มีการสำรองข้อมูลบนคลาวด์!</string>
+  <string name="selectMore">เลือกเพิ่มเติม</string>
+  <string name="addChapterBelowThis">เพิ่มบทด้านล่าง</string>
+  <string name="addChapterAboveThis">เพิ่มบทด้านบน</string>
+  <string name="moveToOtherBook">ย้ายไปที่หนังสือเล่มอื่น</string>
+  <string name="paragraphSpacingSettingSummary">ข้อความที่ยาวเป็นพิเศษจะได้ประสิทธิภาพที่ดีขึ้นเมื่อปิดการเว้นวรรคย่อหน้า</string>
+  <string name="autoInsertBlankLineWhenWrapping">แทรกบรรทัดว่างโดยอัตโนมัติเมื่อห่อ</string>
+  <string name="markdownAsDefault">Markdown เป็นโหมดเริ่มต้นสำหรับบทความใหม่</string>
+  <string name="needToPayForMarkdownRenderer">นี่คือหน้าแสดงตัวอย่างด่วนของ Markdown ซึ่งคุณต้องชำระเงินสำหรับ Pure Writer Pro เพื่อใช้งาน</string>
+  <string name="fabContextCreateNewAfterCurrent">บทความใหม่ต่อจากบทความปัจจุบัน</string>
+  <string name="fabContextCreateNewAtTheBottom">แทรกบทความใหม่ที่ด้านล่างของรายการบทความ</string>
+  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">แทรกบทความใหม่ที่ด้านล่างของหมวดหมู่ปัจจุบัน</string>
+  <string name="fabContextHideFabUntilNextStart">ซ่อนปุ่มนี้จนกว่าจะถึงการเปิดตัวครั้งถัดไป</string>
+  <string name="fabContextHideFabTemporarily">ซ่อนปุ่มลอยหลักชั่วคราว</string>
+  <string name="license">ใบอนุญาต</string>
+  <string name="customPapers">เอกสารที่กำหนดเอง\nละเอียดอ่อน ดื่มด่ำ</string>
+  <string name="markdownQuickPreview">Markdown ดูตัวอย่างด่วน</string>
+  <string name="exportToPicMdTxt">ส่งออกเป็นรูปภาพขนาดยาว/md/txt</string>
+  <string name="materialDesign2ThemeWithLineBreak">การออกแบบวัสดุ2\nธีม</string>
+  <string name="ProIntroductionMarkdown"><![CDATA[
+| #### เอกสารที่กำหนดเอง
+|
+| คุณสามารถเลือกรูปภาพในโทรศัพท์มือถือหรือรูปภาพระยะไกลได้อย่างอิสระเพื่อเป็นกระดาษและพื้นหลังสำหรับเครื่องมือแก้ไขของคุณ:
+|
+| ![รูปภาพ](https://gitee.com/PureWriter/resources/raw/master/pro/en/0.webp)
+|
+| #### บรรณาธิการ 2 ✨
+|
+| คุณสามารถ **ปัดหน้าตัวแก้ไขในแนวนอน** เพื่อเข้าถึงตัวแก้ไข 2:
+|
+| ![รูปภาพ](https://gitee.com/PureWriter/resources/raw/master/pro/en/1.webp)
+|
+| #### ส่งออกเป็นรูปภาพข้อความยาว / md / txt file
+|
+| คุณสามารถส่งออกบทความเป็นรูปภาพข้อความยาวหรือไฟล์ .md .txt ได้:
+|
+| ![รูปภาพ](https://gitee.com/PureWriter/resources/raw/master/pro/en/2.webp)
+|
+| #### ส่งออกหนังสือ
+|
+| คุณจะพบตัวเลือกนี้ในเมนูด้านบนของลิ้นชักด้านซ้าย ซึ่งจะช่วยให้คุณรวมเนื้อหาบททั้งหมดเป็นไฟล์ข้อความธรรมดาได้:
+|
+| ![รูปภาพ](https://gitee.com/PureWriter/resources/raw/master/pro/en/3.webp)
+|
+| #### ค้นหาและแทนที่
+|
+| คุณสามารถค้นหาคำหลักเป้าหมายในบทความใดก็ได้และแทนที่เป็นชุด:
+|
+| ![รูปภาพ](https://gitee.com/PureWriter/resources/raw/master/pro/en/4.webp)
+|
+| #### การออกแบบวัสดุ 2 ธีม
+|
+| เมื่อเปิดใช้ธีม Material Design 2 คุณจะได้รับแถบด้านบนแบบโปร่งใส ซึ่งไม่ใช่สีดำล้วนอีกต่อไป และคุณจะได้รับ UI ที่สมจริงและสวยงามยิ่งขึ้น:
+|
+| ![รูปภาพ](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
+|
+| #### Pure Writer Desktop
+|
+| ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
+|
+| คุณสามารถรับ Pure Writer Desktop และเชื่อมต่อกับเดสก์ท็อปผ่านไอคอนคลาวด์ ☁️ ที่ด้านบนของตัวแก้ไขหลัก
+|
+| ปัจจุบันเดสก์ท็อปยังอยู่ในช่วงอัลฟ่า สามารถให้การเชื่อมต่อตามเวลาจริงขั้นพื้นฐานและการแก้ไขแบบซิงโครนัสเท่านั้น
+|
+| ฉันต้องใช้เวลาและพลังงานอย่างมาก และการสนับสนุนของคุณจะช่วยให้เราทำให้มันสมบูรณ์แบบและดีขึ้นได้
+    ]]></string>
+  <string name="unlimitedWords">ไม่จำกัดคำ</string>
+  <string name="neverLost">ไม่เคยแพ้</string>
+  <string name="veryVerySmooth">เนียนมาก</string>
+  <string name="nightMode">โหมดกลางคืน</string>
+  <string name="supportParagraphSpacing">ระยะห่างย่อหน้า</string>
+  <string name="keyboardStateRestoring">การกู้คืนสถานะแป้นพิมพ์</string>
+  <string name="greatCursorFocus">โฟกัสเคอร์เซอร์ที่ยอดเยี่ยม</string>
+  <string name="crazyUpdateBetterAndBetter">อัพเดทบ้าๆ ดีขึ้นเรื่อยๆ</string>
+  <string name="moreAdvantagesOfPureWriter">ข้อดีเพิ่มเติมของ Pure Writer</string>
+  <string name="account">บัญชี</string>
+  <string name="privilegeOfPureWriterPro">สิทธิพิเศษของ Pure Writer Pro</string>
+  <string name="messageThankYouForYourSupport">การสนับสนุนของคุณจะทำให้ Pure Writer พัฒนาได้ดียิ่งขึ้น ทำให้เราสามารถสร้างสรรค์ผลิตภัณฑ์ที่ไม่ธรรมดาได้ ในขณะเดียวกันก็สร้างแรงจูงใจให้นักพัฒนาอิสระมากขึ้น\n\nPure Writer สามารถอัปเดตและปรับปรุงอย่างต่อเนื่องเนื่องจากการสนับสนุนของคุณ ขอบคุณมาก!</string>
+  <string name="emailAddress">ที่อยู่อีเมล</string>
+  <string name="password">รหัสผ่าน</string>
+  <string name="signUpOrSignIn">ลงทะเบียน / เข้าสู่ระบบ</string>
+  <string name="emailAddressIsEmptyOrIllegal">ที่อยู่อีเมลว่างเปล่าหรือผิดกฎหมาย</string>
+  <string name="passwordMustBeAtLeast6Characters">รหัสผ่านต้องมีอย่างน้อย 6 ตัวอักษร</string>
+  <string name="helperTextForNewAccount">นี่คือบัญชีใหม่ เราจะลงทะเบียนให้คุณ</string>
+  <string name="helperTextForRegisteredAccount">บัญชีนี้ลงทะเบียนแล้ว เราจะลงชื่อเข้าใช้ให้คุณ</string>
+  <string name="forgetPassword">ลืมรหัสผ่าน?</string>
+  <string name="latex">สูตรน้ำยางข้น</string>
+  <string name="syntaxHighlighting">การเน้นไวยากรณ์</string>
+  <string name="notSignedIn">ไม่ได้ลงชื่อเข้าใช้</string>
+  <string name="requiresAtLeast6Characters">ต้องมีอักขระอย่างน้อย 6 ตัว</string>
+  <string name="signedIn">ลงทะเบียนเข้า</string>
+  <string name="emailOrPasswordIsIncorrect">อีเมลหรือรหัสผ่านไม่ถูกต้อง</string>
+  <string name="messageCustomFontAndPro">ตรวจสอบว่าคุณใช้แบบอักษรที่กำหนดเองซึ่งต้องใช้ Pure Writer Pro คุณสามารถคลิก ตกลง เพื่อรับ Pure Writer Pro และคุณสมบัติขั้นสูงอื่นๆ หรือคลิกเพื่อยกเลิก Custom Font (จะมีผลในการเปิดใช้ครั้งต่อไป)</string>
+  <string name="introductionOfReadOnlyMode">* เมื่อมองไม่เห็นเคอร์เซอร์ ต้องดับเบิลคลิกเพื่อวางเคอร์เซอร์และเข้าสู่โหมดแก้ไข\n* เมื่อมองเห็นเคอร์เซอร์ ข้อความสามารถแก้ไขได้ด้วยการคลิกเพียงครั้งเดียว\n* เมื่อมองเห็นเคอร์เซอร์ คุณสามารถกดปุ่มย้อนกลับเพื่อซ่อนเคอร์เซอร์และเข้าสู่โหมดอ่านอย่างเดียวได้</string>
+  <string name="messageReadOnlyModeAndPro">โหมดอ่านอย่างเดียวขั้นสูงต้องใช้ Pure Writer Pro คุณสามารถคลิก ตกลง เพื่อรับ Pure Writer Pro และคุณสมบัติขั้นสูงอื่นๆ หรือคลิก ยกเลิก เพื่อยกเลิกโดยอัตโนมัติหลังจากการเปิดใช้ครั้งถัดไป</string>
+  <string name="messageNeedToPay">นี่คือคุณสมบัติ Pro คุณต้องชำระเงินสำหรับ Pure Writer Pro ก่อนจึงจะใช้งานได้ คลิกตกลงเพื่อเรียนรู้เกี่ยวกับคุณสมบัติขั้นสูงทั้งหมดของ Pure Writer Pro เมื่อคุณได้รับ Pure Writer Pro คุณสามารถใช้คุณสมบัติขั้นสูงทั้งหมดได้</string>
+  <string name="notYetActivated">ยังไม่เปิดใช้งาน</string>
+  <string name="notYetActivatedOrExpired">ไม่ได้เปิดใช้งานหรือหมดอายุ</string>
+  <string name="signingInIsInvalid">การลงชื่อเข้าใช้ไม่ถูกต้อง</string>
+  <string name="verificationCode">รหัสยืนยัน</string>
+  <string name="buyPureWriterPro">ซื้อ Pure Writer Pro</string>
+  <string name="tipMarkdownQuickPreview">ปัดในแนวนอนไปยังหน้าถัดไป\nเพื่อดูตัวอย่างด่วนของ Markdown</string>
+  <string name="lifetime">อายุการใช้งาน</string>
+  <string name="proExpired">Pro หมดอายุ</string>
+  <string name="expiresOn">หมดอายุเมื่อ:</string>
+  <string name="useLegacyRender">ใช้ตัวแสดงดั้งเดิม</string>
+  <string name="changelog">บันทึกการเปลี่ยนแปลง</string>
+  <string name="advancedReadOnlyMode">โหมดอ่านอย่างเดียวขั้นสูง</string>
+  <string name="needOpenArticleFirst">คุณต้องเปิดบทความก่อนจึงจะใช้ตัวเลือกนี้ได้</string>
+  <string name="restoreArticleScrollPosition">คืนค่าตำแหน่งเลื่อนบทความ</string>
+  <string name="savedStateModeAuto">อัตโนมัติ (บทความที่แก้ไขล่าสุดจะถูกกู้คืนในครั้งต่อไป บทความที่ไม่ได้แก้ไขล่าสุดจะถูกกู้คืนหากภายในหนึ่งสัปดาห์นับจากเวลาเปิดล่าสุด มิฉะนั้นจะกลับไปด้านบน)</string>
+  <string name="savedStateModeEnableAll">อย่างไรก็ตาม เปิดใช้งานสำหรับบทความทั้งหมด</string>
+  <string name="savedStateModeDisableAll">อย่างไรก็ตาม ปิดการใช้งานสำหรับบทความทั้งหมด</string>
+  <string name="summaryScrollToBottom">จะแสดงปุ่มนี้บนตัวแก้ไขหรือไม่</string>
+  <string name="cloudBackupFailed">การสำรองข้อมูลบนคลาวด์ล้มเหลว</string>
+  <string name="dropboxBackupFailed">การสำรองข้อมูล Dropbox ล้มเหลว โปรดลองลงชื่อเข้าใช้บัญชี Dropbox อีกครั้งบนการตั้งค่าการสำรองข้อมูลบนคลาวด์ Pure Writer</string>
+  <string name="tipJianguoyunURL">โปรดกรอกเนื้อหาสามส่วนต่อไปนี้</string>
+  <string name="dropboxBackupFailedDueToInsufficientSpace">การสำรองข้อมูลบนคลาวด์ล้มเหลว: พื้นที่ Dropbox ไม่เพียงพอ</string>
+  <string name="tipImageDialog">การสำรองข้อมูลบนคลาวด์ล้มเหลว: พื้นที่ว่าง Dropbox ไม่มี โปรดป้อนลิงก์รูปภาพของเว็บที่คุณต้องการแทรกด้านล่าง\nหรือคุณสามารถคลิก \"รูปภาพในเครื่อง\" ด้านล่างเพื่อเลือกรูปภาพในเครื่องและรับลิงก์ในเครื่องสำหรับรูปภาพนั้นโดยอัตโนมัติ</string>
+  <string name="imageUrl">URL รูปภาพ</string>
+  <string name="imageDesc">คำอธิบายรูปภาพ (ไม่บังคับ)</string>
+  <string name="width">ความกว้าง</string>
+  <string name="insertMarkdownImage">แทรกรูปภาพ Markdown</string>
+  <string name="youNeedToSignInAgain">คุณต้องลงชื่อเข้าใช้อีกครั้ง</string>
+  <string name="moreAndBetter">ดีขึ้นเรื่อยๆ</string>
+  <string name="clickBottomAddNewBlankLine">คลิกด้านล่างเพื่อแทรกบรรทัดว่าง</string>
+  <string name="summaryClickBottomAddNewBlankLine">หากบรรทัดสุดท้ายไม่ใช่บรรทัดว่าง เมื่อคลิกพื้นที่ว่างที่ด้านล่างของตัวแก้ไข บรรทัดว่างใหม่จะถูกแทรกโดยอัตโนมัติที่ส่วนท้ายของข้อความและโฟกัส</string>
+  <string name="deleteCompletely">ลบให้หมด</string>
+  <string name="openArticleListAfterSwitchingBooks">เปิดรายการบทความหลังจากเปลี่ยนหนังสือ</string>
+  <string name="searchArticles">ค้นหาบทความ / ข้ามไปที่บทความอย่างรวดเร็ว</string>
+  <string name="searchTip">เคล็ดลับ: คุณสามารถป้อนคำหลักหลายคำเพื่อค้นหาตามการขึ้นบรรทัดใหม่ แต่จะเน้นเฉพาะคำหลักแรกในผลลัพธ์</string>
+  <string name="duplicate">ทำซ้ำ</string>
+  <string name="tipGoogleDriveAppScope">เคล็ดลับ: เนื่องจากผู้ใช้ไม่สามารถมองเห็นไดเร็กทอรีส่วนตัวของแอปของ Google ไดรฟ์ ฟังก์ชัน Bridge จะถูกปิดใช้งานโดยอัตโนมัติ</string>
+  <string name="unlimitedStorage">พื้นที่เก็บข้อมูลไม่จำกัด</string>
+  <string name="noteDateTimeShortcut"><![CDATA[
+| นอกจากนี้ คุณยังสามารถแทรกตัวแปรเวลาและวันที่ โดยตั้งค่าโดยป้อน `${<format>}` ในช่องป้อนข้อมูลแรกด้านบน โดยที่ `<format>` จะต้องแทนที่ด้วยรูปแบบวันที่/เวลา เช่น
+|
+| `${yyyy-MM-dd HH:mm}` จะสร้าง:
+| `2020-04-01 21:43`
+|
+| `${yyyy-M-d hh:mm}` จะสร้าง:
+| `2020-4-1 09:43`
+|
+| (คุณสามารถ **กดค้าง** เพื่อเลือกและคัดลอกตัวอย่างด้านบนเพื่อลอง)
+|
+| คุณยังสามารถตรวจสอบ **ตาราง** ใน [หน้าเอกสาร](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) เพื่อดู **ตัวระบุรูปแบบ** เพิ่มเติมและชุดค่าผสมฟรี .
+     ]]></string>
+  <string name="read">อ่าน</string>
+  <string name="doNotRemindAgain">อย่าเตือนอีก</string>
+  <string name="homeFab">โหมดปุ่มแอ็คชันลอยน้ำหน้าแรก</string>
+  <string name="fabOverflowModeSingleClick">คลิกเพียงครั้งเดียวเพื่อเปิดเมนูป๊อปอัป และคุณสามารถเลือกสร้างบทความในเมนูได้</string>
+  <string name="fabOverflowModeLongPress">คลิกเพียงครั้งเดียวเพื่อสร้างบทความโดยตรง และกดค้างไว้เพื่อเปิดเมนูป๊อปอัป</string>
+  <string name="safeMode">โหมดปลอดภัย</string>
+  <string name="summarySafeMode">เมื่อแอพนี้เข้าสู่พื้นหลังหรือหน้ารายการงานล่าสุด เนื้อหาของแอพนี้จะถูกบดบังหรือซ่อน เมื่อเปิดรายการนี้ ภาพหน้าจอในแอปจะถูกห้ามด้วย</string>
+  <string name="pressBackToClearCursor">เคอร์เซอร์ถูกซ่อนและเข้าสู่โหมดอ่านอย่างเดียว</string>
+  <string name="PureWriterManual">คู่มือ Pure Writer</string>
+  <string name="cursorJoyTutorial">กดปุ่มสั่นด้านบนค้างไว้ จากนั้นเลื่อนนิ้วเพื่อควบคุมการเคลื่อนไหวของเคอร์เซอร์</string>
+  <string name="tipBlueInputBox">เคล็ดลับ: หลังจากป้อนข้อมูลแล้ว ให้กดปุ่ม Enter ⏎ เพื่อกระโดดออกจากช่องป้อนข้อมูลสีน้ำเงิน</string>
+  <string name="cursorJoy">เคอร์เซอร์ Joy-Con</string>
+  <string name="textShortcut">ทางลัดข้อความ</string>
+  <string name="copyCurrent">คัดลอกข้อความเต็มที่เลือกหรือปัจจุบัน</string>
+  <string name="formatterAction">รูปแบบ</string>
+  <string name="orSelectShortcutFunction">หรือเลือกฟังก์ชั่นทางลัด</string>
+  <string name="joyNotSupportTitleNow">ฟีเจอร์นี้ยังไม่รองรับในชื่อเรื่อง</string>
+  <string name="blueInputBox">กล่องใส่ข้อมูลสีน้ำเงิน</string>
+  <string name="editorMarkdownSyncScrolling">ซิงค์การเลื่อนสำหรับตัวแก้ไข ⇋ Markdown</string>
+  <string name="smoothCursor">เคอร์เซอร์เรียบ</string>
+  <string name="typeOfTimeDisplayed">ประเภทเวลาที่แสดง</string>
+  <string name="timeModified">เวลาปรับเปลี่ยน</string>
+  <string name="timeCreated">เวลาที่สร้าง</string>
+  <string name="timeCreatedAndModified">เวลาที่สร้างและแก้ไข</string>
+  <string name="editor2">บรรณาธิการ 2</string>
+  <string name="currentChapterWordCount">จำนวนคำในบทปัจจุบัน</string>
+  <string name="currentBookWordCount">จำนวนคำทั้งเล่ม</string>
+  <string name="splitLayout">เค้าโครงแยก</string>
+  <string name="rating">เรตติ้ง</string>
+  <string name="thankYou">ขอขอบคุณ!</string>
+  <string name="theTry">ลอง</string>
+  <string name="selectFolder">เลือกโฟลเดอร์</string>
+  <string name="fileTypeNotSupported">ไม่รองรับประเภทไฟล์</string>
+  <string name="grantStoragePermission">ให้สิทธิ์การจัดเก็บ</string>
+  <string name="folderNoLongerExists">โฟลเดอร์หรือที่เก็บข้อมูลไม่มีอยู่แล้ว!</string>
+  <string name="tipNotRecommendedFolder">โฟลเดอร์นี้ไม่ตรงกับโฟลเดอร์ที่เราแนะนำ และ Pure Writer จะไม่สามารถอ่านไฟล์สำรองเก่าได้ โปรดระวังหรือกลับไปที่ขั้นตอนก่อนหน้าเพื่อแก้ไข!</string>
+  <string name="tipTargetFolder">ตามโฟลเดอร์ที่คุณเลือก ไดเร็กทอรีจัดเก็บข้อมูลสุดท้ายของ Pure Writer คือ:</string>
+  <string name="messageWhyNeedSAF">เพื่อปกป้องความเป็นส่วนตัวของผู้ใช้ได้ดียิ่งขึ้น เริ่มด้วย Android 11 Pure Writer **ไม่ต้องการสิทธิ์การอ่าน/เขียนที่จัดเก็บข้อมูลภายนอกแบบเต็มอีกต่อไป** แต่ให้ **ผู้ใช้ระบุไดเรกทอรีของโฟลเดอร์** และ Pure Writer จะมีเพียงการอ่าน/ การเข้าถึงการเขียนไปยังไดเร็กทอรีนั้น\n\nดังนั้น คุณต้องเลือกโฟลเดอร์โดยคลิกที่ปุ่มด้านล่าง เพื่อที่จะกู้คืนข้อมูลเก่าเมื่อทำการติดตั้งใหม่ในอนาคต เรา **ขอแนะนำอย่างยิ่ง** คุณเลือกโฟลเดอร์ ***`Documents`*** 🙏</string>
+  <string name="pureWriterFolder">โฟลเดอร์ PureWriter</string>
+  <string name="selectFont">เลือกแบบอักษร</string>
+  <string name="materialFilesNote">ปัจจุบัน \"เปิด\" ด้านล่างรองรับเฉพาะการเปิดด้วย zhanghai/MaterialFiles หากจำเป็น คุณสามารถดาวน์โหลดแอปนี้ด้วยตนเองหรือใช้ตัวจัดการไฟล์ในระบบของคุณเพื่อเปิดเส้นทางด้านบน</string>
+  <string name="changeFolder">เปลี่ยนโฟลเดอร์</string>
+  <string name="yourFolderIs">ไดเร็กทอรีโฟลเดอร์ที่คุณเลือกคือ:</string>
+  <string name="changeFolderNote">หากคุณเลือก *เปลี่ยนโฟลเดอร์* ด้านล่าง คุณต้อง **ด้วยตนเอง** ย้ายโฟลเดอร์ PureWriter ไปยังโฟลเดอร์เป้าหมายใหม่ **ก่อน** แล้วจึงเปลี่ยน</string>
+  <string name="previous">ก่อนหน้า</string>
+  <string name="autoConnectToDesktop">เชื่อมต่ออัตโนมัติกับเวอร์ชันเดสก์ท็อป</string>
+  <string name="autoConnectToDesktopNextTime">เชื่อมต่อกับเดสก์ท็อปโดยอัตโนมัติในครั้งต่อไป</string>
+  <string name="optionsForTheFewPeople">ตัวเลือกสำหรับคนไม่กี่คน</string>
+  <string name="summaryPie">ระบุการตั้งค่าบางอย่างที่ไม่ควรมีให้</string>
+  <string name="stretchEdgeEffect">เอฟเฟกต์ขอบยืด</string>
+  <string name="staticCursor">เคอร์เซอร์แบบคงที่ (ไม่กะพริบ)</string>
+  <string name="cursorJoyModePosition"><![CDATA[โหมดและตำแหน่งของเคอร์เซอร์จอย]]></string>
+  <string name="cursorJoyModePosition0">โหมดสัมผัสป้องกันการไม่ตั้งใจทางด้านขวา</string>
+  <string name="cursorJoyModePosition1">โหมด \"สัมผัสโดยตรงเพื่อย้าย\" ในรายการทางลัด</string>
+  <string name="typewriterModeMode0">โหมดย่อหน้า</string>
+  <string name="typewriterModeMode1">โหมดไลน์</string>
+  <string name="restoreOptionsMessage">คุณจำเป็นต้องใช้ข้อมูลสำรองนี้เพื่อเขียนทับเนื้อหาในเครื่องหรือรวมเข้ากับเนื้อหาในเครื่องหรือไม่\n\nหมายเหตุ: หากคุณเลือกผสาน การตั้งค่าและข้อมูลบัญชีสำรองบนคลาวด์ในไฟล์สำรองข้อมูลจะไม่ถูกรวมเข้าด้วยกัน และคุณอาจต้องกำหนดค่าใหม่ด้วยตนเอง\n\nนอกจากนี้ หากคุณแก้ไขลำดับของบทความหรือลบบทความ การดำเนินการเหล่านี้จะไม่ถูกรวมเข้าด้วยกัน เนื่องจากจะทำให้เกิดข้อขัดแย้ง <b>ดังนั้น เราขอแนะนำให้คุณใช้ \"เขียนทับ\" และหากคุณแก้ไขข้อมูลในอุปกรณ์เครื่องหนึ่ง คุณควรซิงโครไนซ์ข้อมูลในอุปกรณ์อีกเครื่องทันทีโดยใช้ \"เขียนทับ\" </b></string>
+  <string name="merge">ผสาน</string>
+  <string name="merging">กำลังรวม...</string>
+  <string name="checkIntegrityOfBackup">ตรวจสอบความสมบูรณ์ของไฟล์สำรอง...</string>
+  <string name="noteBeforeRestoringBackup">ก่อนที่ทุกอย่างจะเริ่มต้น ให้สำรองข้อมูลปัจจุบัน...</string>
+  <string name="startMerging">เริ่มการรวม...</string>
+  <string name="insertANewBook">ใส่หนังสือเล่มใหม่</string>
+  <string name="insertANewCategory">แทรกหมวดหมู่ใหม่</string>
+  <string name="insertingOrUpdatingArticles">กำลังแทรกหรืออัปเดตบทความ...</string>
+  <string name="insertANewArticle">ใส่บทความใหม่</string>
+  <string name="summary">สรุป</string>
+  <string name="updateAnExistingArticle">อัพเดทบทความที่มีอยู่</string>
+  <string name="totalNumberOfArticlesInsertedOrUpdated">จำนวนบทความที่แทรกหรืออัปเดตทั้งหมด</string>
+  <string name="insertANewShortcut">แทรกทางลัดใหม่</string>
+  <string name="totalNumberOfNewTimeMachineMessagesInserted">เพิ่มจำนวนข้อความไทม์แมชชีนใหม่ทั้งหมด</string>
+  <string name="mergeDone">เสร็จแล้ว!</string>
+  <string name="relaunch">เปิดใหม่</string>
+  <string name="autoComplete">เติมข้อความอัตโนมัติ</string>
+  <string name="autoCompleteSummary">เติมสัญลักษณ์ที่จับคู่โดยอัตโนมัติเฉพาะเมื่อเคอร์เซอร์อยู่ที่ <b>ที่ส่วนท้าย</b> ของบทความ</string>
+  <string name="autoDeleteSymbolsInPairs">ลบสัญลักษณ์อัตโนมัติเป็นคู่</string>
+  <string name="autoDeleteSymbolsInPairsSummary">เฉพาะเมื่อเนื้อหาในสัญลักษณ์ที่จับคู่เป็น <b>ว่างเปล่า</b></string>
+  <string name="tip">เคล็ดลับ</string>
+  <string name="editor2Tip">คุณอยู่ในตัวแก้ไขที่สอง และไอคอนบนสุดอยู่ตรงข้ามกับตัวแก้ไขตัวแรก หากคุณต้องการกลับไปที่ตัวแก้ไขแรก คุณสามารถ <b>ปัดไปทางซ้ายหรือขวาบนตัวแก้ไข</b></string>
+  <string name="needCursorTip">ต้องคลิกที่ข้อความเพื่อวางเคอร์เซอร์ก่อนดำเนินการต่อ</string>
+  <string name="shortcutKeysForShortcut">ปุ่มลัดสำหรับรายการทางลัด</string>
+  <string name="shortcutKeysForShortcutSummary">กด Alt หรือ Ctrl + หมายเลขเพื่อเรียกข้อความรายการทางลัด</string>
+  <string name="optionsForLandscape"><![CDATA[การตั้งค่าและหลักเกณฑ์แนวนอน]]></string>
+  <string name="editInVerticalCenter">แก้ไขในแนวตั้งตรงกลาง</string>
+  <string name="onlyWorkForHardwareKeyboard">ใช้งานได้กับแป้นพิมพ์ฮาร์ดแวร์เท่านั้น</string>
+  <string name="editInVerticalCenterSummary">ทำให้บรรทัดที่แก้ไขในปัจจุบันอยู่ตรงกลางหน้าจอเสมอ (อาจไม่ถูกต้อง นี่เป็นปัญหาของวิธีการป้อนข้อมูล ขออภัยด้วย!)</string>
+  <string name="migrateImageAssets">ย้ายรูปภาพ Markdown ไปยังไดเร็กทอรี Documents/PureWriter/Assets</string>
+  <string name="migrateImageAssetsSummary">ซึ่งจะช่วยให้คุณถ่ายโอนรูปภาพทั้งหมดที่ Markdown อ้างอิงไปยังอุปกรณ์เครื่องใหม่ได้จากศูนย์กลาง หลังจากการดำเนินการนี้ คุณสามารถคัดลอกโฟลเดอร์ Documents/PureWriter/Assets ไปยังไดเร็กทอรีเดียวกันของอุปกรณ์ใหม่ จากนั้นคืนค่าอุปกรณ์ที่สำรองข้อมูลไปยังอุปกรณ์ใหม่ เพื่อให้อุปกรณ์ใหม่สามารถอ้างอิงภาพต้นฉบับได้อย่างราบรื่น</string>
+  <string name="tipForFromPlayToAlipay">หากต้องการใช้วิธีการชำระเงินนี้ โปรดตรวจสอบว่าคุณอยู่ในจีนแผ่นดินใหญ่ โดยหลักการแล้ววิธีการชำระเงินนี้มีให้สำหรับผู้ใช้ในจีนแผ่นดินใหญ่เท่านั้น เนื่องจาก Google และ Google Play ไม่สามารถใช้ชำระเงินในประเทศจีนได้</string>
+  <string name="switchToAlipayPaymentMethod">เปลี่ยนไปใช้วิธีการชำระเงิน Alipay</string>
+  <string name="switchToGooglePlayPaymentMethod">เปลี่ยนไปใช้วิธีการชำระเงิน Google Play</string>
+  <string name="skuActive">คล่องแคล่ว</string>
+  <string name="askUnsubscribe"><u>ยกเลิกการสมัคร?</u></string>
+  <string name="notesForGoogleSkus">สำคัญ:\n\n* เนื่องจาก Google ไม่มีอินเทอร์เฟซสำหรับการยกเลิกการสมัครสมาชิก หากคุณต้องการยกเลิกการสมัคร คุณต้องคลิกที่การสมัครของคุณหรือ \"ยกเลิกการสมัคร\" ด้านบนเพื่อดำเนินการต่อ\n\n* หลังจากที่คุณยกเลิกการสมัครรับข้อมูลของแอปนี้บน Google Play แล้ว แอปจะไม่ได้รับสถานะล่าสุดในทันที ดังนั้นคุณจะเห็นว่ารายการสมัครรับข้อมูลยังอยู่ในสถานะ \"ใช้งานอยู่\" ในหน้านี้ นี่เป็นปรากฏการณ์ปกติ คุณจะได้รับผลลัพธ์ที่ถูกต้องในวันถัดไป หรือรอจนกว่าจะสิ้นสุดระยะเวลาการสมัครปัจจุบัน\n\n* หากคุณวางแผนที่จะเปลี่ยนจากการสมัครสมาชิกเป็นรายการ \"ตลอดชีพ\" คุณควรยกเลิกการสมัครของคุณก่อน แล้วจึงซื้อรายการ \"ตลอดอายุ\" แอปนี้ไม่สามารถยกเลิกการสมัครรับข้อมูลของคุณได้เอง\n\n* หากคุณพบข้อผิดพลาด DF-DFERH-01 ระหว่างขั้นตอนการชำระเงิน โปรดลองรีสตาร์ทอุปกรณ์ของคุณแล้วลองอีกครั้ง\n\n* ผลการชำระเงินจะถูกผูกไว้กับบัญชี Google ระบบของคุณโดยอัตโนมัติ ขอบคุณ!</string>
+  <string name="activating">กำลังเปิดใช้งาน...</string>
+  <string name="updating">กำลังอัปเดต…</string>
+  <string name="themesAndPapers"><![CDATA[ธีมและวอลเปเปอร์]]></string>
+  <string name="once">เคย</string>
+  <string name="selectALightTheme">เลือกธีมสีอ่อน</string>
+  <string name="selectADarkTheme">เลือกธีมสีเข้ม</string>
+  <string name="selectATheme">เลือกธีม</string>
+  <string name="tipBadPaper">รูปภาพหรือสีที่คุณเลือกไม่ตรงตามข้อกำหนด กรุณาเลือกอีกครั้ง</string>
+  <string name="fixedThemeTitle">แก้ไขแล้วไม่เปลี่ยนโดยอัตโนมัติ</string>
+  <string name="followSystemThemeTitle">ระบบติดตาม (ซิงค์กับระบบปฏิบัติการ)</string>
+  <string name="scheduledThemeTitle">สลับอัตโนมัติตามเวลา:\n7:00–17:00 ใช้ธีมสีอ่อน หรือธีมสีเข้ม</string>
+  <string name="paperSettingsHint">คลิกเพื่อเลือกหรือปรับแต่งวอลเปเปอร์/ธีม</string>
+  <string name="lightTheme">ธีมไฟ</string>
+  <string name="darkTheme">ธีมมืด</string>
+  <string name="whetherOverwriteSettings">เขียนทับการตั้งค่าท้องถิ่นไหม</string>
+  <string name="realNo">ไม่</string>
+  <string name="realYes">ใช่</string>
+  <string name="askOverwriteSettings">เราจะใช้ฐานข้อมูลบทความในไฟล์สำรองของคุณเพื่อเขียนทับฐานข้อมูลบทความในเครื่อง แต่เราไม่ทราบว่าคุณต้องการให้เราใช้การตั้งค่าในไฟล์สำรองเพื่อเขียนทับการตั้งค่าในเครื่องหรือไม่ กรุณาเลือก:</string>
+  <string name="privacyPolicySummary">เราจะไม่รวบรวมข้อมูลส่วนบุคคลใด ๆ ของคุณ</string>
+</resources>

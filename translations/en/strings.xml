@@ -127,10 +127,13 @@
   <string name="tipBackupNotExist">The backup file does not exist. Please place the backup file in Documents/PureWriter/Backups and try again.</string>
   <string name="wordCountMode">Word count mode</string>
   <string-array name="wordCountModeEntries">
-    <item>Exclude spaces and line breaks</item>
-    <item>Include all symbols and text</item>
-    <item><b>Exclude all punctuation</b>, spaces, and line breaks</item>
+    <item>@string/wordCountModeEntriesItem1</item>
+    <item>@string/wordCountModeEntriesItem2</item>
+    <item>@string/wordCountModeEntriesItem3</item>
   </string-array>
+  <string name="wordCountModeEntriesItem1">Exclude spaces and line breaks</string>
+  <string name="wordCountModeEntriesItem2">Include all symbols and text</string>
+  <string name="wordCountModeEntriesItem3"><b>Exclude all punctuation</b>, spaces, and line breaks</string>
   <string name="fab">Home Floating Action Button</string>
   <string name="tipFab">Tip: Long press the Home Floating Action Button to hide it temporarily</string>
   <string name="tipCannotCreateNewWhenEmpty">Can\'t create a new article when title and content are both blank! You can still create it through the button in the top right corner of the menu though.</string>
@@ -178,7 +181,7 @@
   <string name="gfmBreaksEnabled">Wrap with a line break</string>
   <string name="gfmBreaksDisabled">Require at least two line breaks to render the newline</string>
   <!--time machine-->
-  <string name="timeMachineHintInput" translatable="false">Message</string>
+  <string name="timeMachineHintInput">Message</string>
   <!--action-->
   <string name="wordCountOfThisBook">Total Count</string>
   <string name="wordCountOfThisBookDescription">Total Word Count for this current Book</string>
