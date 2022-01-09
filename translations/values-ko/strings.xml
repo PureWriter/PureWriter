@@ -4,11 +4,11 @@
   <string name="editorTipAMenu">먼저 텍스트를 선택해야 합니다</string>
   <string name="editorHintContent">내용을 쓰기 시작하세요…</string>
   <string name="slogan">| 빠르고 멋진 경험 및 내용 분실 방지 |</string>
-  <string name="iconDesc">Pure Writer의 아이콘은 타임머신입니다.\n타임머신이 앞으로 다가오고 있습니다. 소원의 말은 과거와 미래를 연결하는 데 도움이 됩니다…</string>
+  <string name="iconDesc">Pure Writer 의 아이콘은 타임머신입니다.\n타임머신이 앞으로 다가오고 있습니다. 소원의 말은 과거와 미래를 연결하는 데 도움이 됩니다…</string>
   <string name="undo">실행 취소</string>
   <string name="redo">다시 하기</string>
   <string name="about">소개</string>
-  <string name="defaultContent">환영합니다!\n이 앱은 저희가 생각하는 \"좋은 글쓰기 경험\"으로 디자인된 빠른 일반 텍스트 편집기입니다. Pure Writer는 미니멀리즘을 추구하며 콘텐츠를 잃어버릴 염려 없이 언제 어디서나 마음속 콘텐츠를 쓸 수 있습니다.\nPure Writer의 줄 간격 및 단락 간격 기능을 사용하면 텍스트를 보다 명확하고 읽기 쉽게 읽을 수 있습니다. 뿐만 아니라 부드러운 스크롤, 스와이프하여 축소 키보드 등의 많은 흥미로운 기능이 있답니다.\n단순성은 숨겨진 복잡성입니다. 작업 내용을 지문으로 암호화하고, 원할 때마다 글쓰기를 시작 또는 중지할 수 있으며, 컨텐츠를 다른 앱과 빠르게 공유할 수 있습니다.\n가장 중요한 것은 수동으로 삭제하지 않는 한 이 텍스트 편집기를 사용하는 동안은 작업물을 잃어 버리지 않을 것이라는 겁니다. 실수로 삭제하거나 예기치 않게 종료 된 경우에도 기록에서 복구할 수 있습니다.\n추가 기능 : WebDAV 클라우드 백업, 머티리얼 디자인 2 테마, 마크다운, 타자기 모드, 긴 텍스트 이미지로 내보내기, Time Machine…\n빠르고 매끄러우며 언제 어디서나 중단하고 계속 쓸 수 있습니다.\nPure Writer를 사용하십시오.</string>
+  <string name="defaultContent">환영합니다!\n이 앱은 저희가 생각하는 \"좋은 글쓰기 경험\"으로 디자인된 빠른 일반 텍스트 편집기입니다. Pure Writer 는 미니멀리즘을 추구하며 콘텐츠를 잃어버릴 염려 없이 언제 어디서나 마음속 콘텐츠를 쓸 수 있습니다.\nPure Writer 의 줄 간격 및 단락 간격 기능을 사용하면 텍스트를 보다 명확하고 읽기 쉽게 읽을 수 있습니다. 뿐만 아니라 부드러운 스크롤, 스와이프하여 축소 키보드 등의 많은 흥미로운 기능이 있답니다.\n단순성은 숨겨진 복잡성입니다. 작업 내용을 지문으로 암호화하고, 원할 때마다 글쓰기를 시작 또는 중지할 수 있으며, 컨텐츠를 다른 앱과 빠르게 공유할 수 있습니다.\n가장 중요한 것은 수동으로 삭제하지 않는 한 이 텍스트 편집기를 사용하는 동안은 작업물을 잃어 버리지 않을 것이라는 겁니다. 실수로 삭제하거나 예기치 않게 종료 된 경우에도 기록에서 복구할 수 있습니다.\n추가 기능 : WebDAV 클라우드 백업, 머티리얼 디자인 2 테마, 마크다운, 타자기 모드, 긴 텍스트 이미지로 내보내기, Time Machine…\n빠르고 매끄러우며 언제 어디서나 중단하고 계속 쓸 수 있습니다.\nPure Writer 를 사용하십시오.</string>
   <string name="share">다른 앱으로 공유</string>
   <string name="copyTitle">제목 복사</string>
   <string name="lock">잠그기</string>
@@ -44,8 +44,8 @@
   <string name="tipMessageStoragePermissionToSettings">파일을 자동 백업하려면 저장 공간에 액세스해야 합니다. 기기의 설정에서 수동으로 액세스 권한을 부여하십시오!</string>
   <string name="actionOkGoSettings">설정으로 바로 가기</string>
   <string name="tipFingerAuthRetry">지문을 인식할 수 없습니다. %d 번의 시도가 남아 있습니다.</string>
-  <string name="tipFingerAuthFailed">지문 인식이 정지되었습니다. 1분 후에 다시 시도하십시오. Pure Writer를 종료하는 중…</string>
-  <string name="tipRichText">Pure Writer는 사용자에게 미니멀한 글쓰기 환경을 제공하는 것을 목표로 하므로 향후 개발에 리치 텍스트 기능을 포함시킬 계획이 없습니다. 미리보기에서 굵은 텍스트가 표시 될 수 있지만 숨겨진 기능이기 때문에 볼드체는 .txt 파일로 표시할 수 없습니다. 죄송합니다! 더 나은 제안이 있으시면 저희에게 연락해 주세요. 지원에 감사드립니다!</string>
+  <string name="tipFingerAuthFailed">지문 인식이 정지되었습니다. 1분 후에 다시 시도하십시오. Pure Writer 를 종료하는 중…</string>
+  <string name="tipRichText">Pure Writer 는 사용자에게 미니멀한 글쓰기 환경을 제공하는 것을 목표로 하므로 향후 개발에 리치 텍스트 기능을 포함시킬 계획이 없습니다. 미리보기에서 굵은 텍스트가 표시 될 수 있지만 숨겨진 기능이기 때문에 볼드체는 .txt 파일로 표시할 수 없습니다. 죄송합니다! 더 나은 제안이 있으시면 저희에게 연락해 주세요. 지원에 감사드립니다!</string>
   <string name="settings">설정</string>
   <string name="on">켬</string>
   <string name="off">끔</string>
@@ -57,7 +57,7 @@
   <string name="iKnow">확인</string>
   <string name="tipIndent">참고 : 들여 쓰기는 기존 텍스트에 영향을 미치지 않습니다</string>
   <string name="explanation">설명</string>
-  <string name="tipInsertBlankLines">이 설정을 사용하면 텍스트를 복사하거나 공유할 때 각 단락에 추가 줄이 추가됩니다. 특수 단락 간격은 Pure Writer에서만 제공되므로 이 앱 외부에서 동일한 효과를 보려면 추가 행이 필요합니다.</string>
+  <string name="tipInsertBlankLines">이 설정을 사용하면 텍스트를 복사하거나 공유할 때 각 단락에 추가 줄이 추가됩니다. 특수 단락 간격은 Pure Writer 에서만 제공되므로 이 앱 외부에서 동일한 효과를 보려면 추가 행이 필요합니다.</string>
   <string name="deleteObsoleteFiles">더 이상 사용되지 않는 파일 삭제</string>
   <string name="dayNightMode">야간 모드</string>
   <string name="summaryPay">프로 기능 받기</string>
@@ -79,7 +79,7 @@
   <string name="previewAndExport">미리보기 및 내보내기</string>
   <string name="hasSavedToYourAlbum">앨범에 저장됨</string>
   <string name="preview">미리보기</string>
-  <string name="proReadMe">Pure Writer가 도움이 된다고 생각하고 계속 발전하기를 원하신다면, 개발자에게 약간의 비용을 공헌하시겠습니까?\n\n귀하의 지원으로 저와 같은 독립 개발자가 보다 잘 구축된 앱을 개발하고 제공할 수 있습니다.\n\n지원하려면 Google Play 버튼을 클릭하십시오. 결제 후에는 머티리얼 디자인 2, 개요, 내보내기, 사용자 정의 용지/배경 등과 같은 프로 기능을 받게 될 것입니다. 또한 감사의 표시로 향후 업데이트도 무료로 제공됩니다.\n여러분과 같은 지지자 덕분에 Pure Writer는 더 나은 업데이트를 위해 노력합니다. 마지막으로 지원해 주셔서 감사합니다!</string>
+  <string name="proReadMe">Pure Writer 가 도움이 된다고 생각하고 계속 발전하기를 원하신다면, 개발자에게 약간의 비용을 공헌하시겠습니까?\n\n귀하의 지원으로 저와 같은 독립 개발자가 보다 잘 구축된 앱을 개발하고 제공할 수 있습니다.\n\n지원하려면 Google Play 버튼을 클릭하십시오. 결제 후에는 머티리얼 디자인 2, 개요, 내보내기, 사용자 정의 용지/배경 등과 같은 프로 기능을 받게 될 것입니다. 또한 감사의 표시로 향후 업데이트도 무료로 제공됩니다.\n여러분과 같은 지지자 덕분에 Pure Writer 는 더 나은 업데이트를 위해 노력합니다. 마지막으로 지원해 주셔서 감사합니다!</string>
   <string name="tipRequirePro">이것은 프로 기능입니다</string>
   <string name="ok">승인</string>
   <string name="cancel">취소</string>
@@ -106,7 +106,7 @@
   <string name="summaryBackupToLocal">백업 파일은 / backups 에 저장됩니다</string>
   <string name="summaryBackupToCloud">백업 파일은 설정된 경우 클라우드 저장소에 저장됩니다</string>
   <string name="restoreBackup">백업 복원</string>
-  <string name="summaryRestoreTheBackup">백업 파일은 Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto와 당신의 WebDAV 또는 Dropbox 또는 Google Drive에서 검색됩니다.</string>
+  <string name="summaryRestoreTheBackup">백업 파일은 Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto 와 당신의 WebDAV 또는 Dropbox 또는 Google Drive 에서 검색됩니다.</string>
   <string name="backupSuccessful">백업 성공</string>
   <string name="restoreSuccessful">백업이 성공적으로 복원되었습니다</string>
   <string name="tipBackupList">백업 파일입니다. 클릭하여 복원할 수 있습니다.\n<b>Dropbox / WebDAV / GoogleDrive 에서 백업 파일을 검색하려면 먼저 Dropbox / WebDAV / GoogleDrive 계정에 로그인하십시오!</b></string>
@@ -208,30 +208,30 @@
   <string name="noWebDavConfig">WebDAV 구성이 불완전하거나 올바르지 않습니다.</string>
   <string name="uploadSuccessful">업로드 성공</string>
   <string name="fetchSuccessful">가져 오기 성공</string>
-  <string name="messageUpload">Pure Writer는 클라우드 디스크에 고정 파일을 작성했습니다. 파일 이름은 <b>PureWriter.txt</b>입니다. 확인을 클릭하여 현재 문서를 이 고정 파일에 업로드할 수 있습니다. 그런 다음 다른 장치에서이 클라우드 파일을 편집할 수 있습니다. 변경되면 아래로 당길 수 있습니다.\n\n현재 기사 내용을 해당 클라우드 파일로 덮어 쓰시겠습니까?</string>
+  <string name="messageUpload">Pure Writer 는 클라우드 디스크에 고정 파일을 작성했습니다. 파일 이름은 <b>PureWriter.txt</b>입니다. 확인을 클릭하여 현재 문서를 이 고정 파일에 업로드할 수 있습니다. 그런 다음 다른 장치에서이 클라우드 파일을 편집할 수 있습니다. 변경되면 아래로 당길 수 있습니다.\n\n현재 기사 내용을 해당 클라우드 파일로 덮어 쓰시겠습니까?</string>
   <string name="typewriterMode">타자기 모드</string>
   <string name="edit">편집</string>
   <string name="editBook">책 편집</string>
   <string name="tipFloatingWordCountDisabled">부동어 수 계산을 해제 한 후에도 문서 목록에서 단어 수를 확인할 수 있습니다.</string>
-  <string name="shareText">권장 사항: Pure Writer는 다양한 기능으로 안심할 수 있는 텍스트 편집 앱으로 역사 기록, 소중한 콘텐츠를 잃어버리지 않도록 하는 다층 보호 기능, 편안한 쓰기 환경을 제공해줍니다. 자세한 내용은 https://play.google.com/store/apps/details?id=com.drakeet.purewriter를 참조하십시오.</string>
-  <string name="shareMessage">Pure Writer를 잘 사용하고 계시다면 이 앱이 널리 퍼지도록 도와주세요! 이 앱을 친구들과 공유하려면 오른쪽의 공유 버튼을 클릭하세요. 여러분의 지원으로 인해 앱이 향상되는 것은 저희와 앱에 큰 의미가 될 것입니다. 감사합니다!\n\n자세한 내용은 https://play.google.com/store/apps/details?id=com.drakeet.purewriter를 참조하십시오.</string>
+  <string name="shareText">권장 사항: Pure Writer 는 다양한 기능으로 안심할 수 있는 텍스트 편집 앱으로 역사 기록, 소중한 콘텐츠를 잃어버리지 않도록 하는 다층 보호 기능, 편안한 쓰기 환경을 제공해줍니다. 자세한 내용은 https://play.google.com/store/apps/details?id=com.drakeet.purewriter를 참조하십시오.</string>
+  <string name="shareMessage">Pure Writer 를 잘 사용하고 계시다면 이 앱이 널리 퍼지도록 도와주세요! 이 앱을 친구들과 공유하려면 오른쪽의 공유 버튼을 클릭하세요. 여러분의 지원으로 인해 앱이 향상되는 것은 저희와 앱에 큰 의미가 될 것입니다. 감사합니다!\n\n자세한 내용은 https://play.google.com/store/apps/details?id=com.drakeet.purewriter를 참조하십시오.</string>
   <string name="reduceDatabaseSize">데이터베이스 크기를 줄이기 위한 기록 지우기</string>
   <string name="reduceDatabaseSizeMessage">모든 문서에 대한 기록을 삭제합니다.\n참고: 문서 자체가 아닌 역사 기록만 삭제됩니다.\n\n백업을 삭제하여 삭제하는 것이 좋습니다.\n데이터베이스 크기를 줄이기 위해 역사 기록을 가끔씩 삭제하는 것이 좋습니다!</string>
   <string name="deleteSuccessful">삭제 성공</string>
   <string name="unlockPro">프로 잠금 해제</string>
   <string name="presetTitle1">Pure Writer - 과거와 미래를 단어로 연결합니다</string>
-  <string name="presetContent1">Pure Writer는 빠르고 편안한 텍스트 편집 앱으로 작품을 잃지 않도록 합니다. Google Play에서 Pure Writer의 댓글과 리뷰를 확인하다 보면 "이보다 더 좋은 앱은 없음", "가장 만족스러운 앱", "이 앱이 너무 좋음", "이 앱과 첫눈에 반했음"와 같은 극찬들이 발견됩니다. Pure Writer의 유일한 개발자로서, 특히 저게에는 만족스러운 댓글이었습니다.\n2017년 6월, 수많은 불편한 텍스트 편집 제품을 겪고 귀중한 텍스트 파일을 잃어버린 후, 저는 사용자들이 자신의 작품이 결코 사라지지 않을 것이라는 것을 알고 기능이 풍부하고 편안한 환경에서 언제 어디서나 쓸 수있는 자체 텍스트 편집 앱을 개발하기로 다짐했습니다. 다짐한 대로, 이 앱은 작가의 관점에서 개발 될 것입니다.\n이 모든 것을 하기 전에, 저는 리치 텍스트 편집 소프트웨어에서 아르바이트하고 있었습니다. 저희는 마음을 쏟아 부었지만 소프트웨어는 저희가 원하는 방식으로 되지 않았습니다. 그럼에도 불구하고, 저는 Pure Writer가 가지고 있는 것 이상의 독특한 특징을 성공적으로 개발했습니다.\n그리고 Pure Writer가 탄생했죠. 처음부터 Pure Writer는 Android에서 각 줄과 문자 간격을 완벽하게 처리했습니다. 이것은 Microsoft Word 외에 어떤 텍스트 편집 Android 앱도 달성하지 못한 특수 기능입니다. 그러나 Microsoft Word의 패키지 크기는 Pure Writer보다 10 배 이상 큽니다.\n뿐만 아니라 Pure Writer는 '앱 시작시 텍스트 편집기 실행' 및 특히 '역사 기록'와 같은 특수 기능도 제공합니다. 작가로서, 저는 역사 기록을 갖는 것의 가장 중요한 점을 이해합니다. 그것은 바로 여러분이 쓰고 있는 것을 절대, 절대 잃지 않을 것이라는 마음의 평화를 주면서 글쓰기에 집중할 수 있게 해 준다는 점입니다. 아무런 예고 없이 휴대폰이 갑자기 종료 되더라도 Pure Writer는 컨텐츠를 자동으로 저장할 수 있습니다. 이를 통해 모든 사용자는 편안한 텍스트 편집기에서 원하는 때에 글쓰기를 시작하고 중지 할 수 있습니다.\n또한 Pure Writer는 '입력 단축키'와 '형식 도구'를 지원하며, 입력 단축키는 사용자가 자신의 맞춤 단어를 바로 가기 표시줄에 설정하여 쉽게 반복해서 사용할 수 있도록 합니다. 서식 도구를 사용하면 자동 간격 및 배열과 같이 텍스트의 서식을 빠르게 지정할 수 있습니다.\n이러한 기능뿐만 아니라 저희는 Pure Writer에서 가장 세세한 부분까지 완벽하게 하기 위해 많은 노력을 기울였습니다. Pure Writer를 사용하는 동안 단순히 화면을 스와이프하여 소프트 키보드를 숨기고, 커서를 원하는 위치에 정확하게 놓고, 소프트 키보드를 숨기는 동안 기사를 계속 유지할 수 있습니다. Pure Writer와 다른 텍스트 편집 앱들을 비교해보면, Pure Writer가 결국 완벽한 글쓰기 환경에 기여하는 모든 사소한 디테일을 완벽하게 처리했다는 것을 알 수 있습니다.\nPure Writer에는 자동 들여 쓰기, 이미지, 부동어 수, 취소, 마크다운, 사용자 정의 배경 테마, 야간 모드, 생체 인식 암호화, 텍스트 자동 완성, 공유 등 다양한 파일로 기사 내보내기 등의 편집 도구가 있습니다. 모든 기능과 세부 사항에도 불구하고 Pure Writer는 여전히 최소한의 스타일을 유지했으며 머티리얼 디자인 지침을 따릅니다. 또한 사용자가 작은 메모를 작성하고 유지할 수 있도록 타임 머신을 만들었습니다. 타임 머신이라는 이름은 만화에서 가져 왔으며, 과거와 미래를 단어로 연결한다는 의미입니다.\n오늘날까지 Pure Writer의 코드베이스는 수천 개의 커밋과 수백만 줄의 변경을 받았습니다. Pure Writer는 거의 모든 여가 시간을 소비하지만 점점 더 많은 사용자가 저에게 긍정적 인 피드백을 주고 있다는 것은 항상 안심입니다. 저는 Pure Writer의 사용자와 적극적으로 연결하여 피드백을 수집하고 앱을 완성합니다. 저는 다른 사람들을 돕는 무언가를 장기적으로 만드는 것에 대해 더 행복하다고 느낀 적이 없습니다.\n마지막으로, 이 여정을 통해 저를 도와준 모든 친구들에게 감사합니다. 당신이 없었다면 이 앱은 지금과 같을 수 없었을 것입니다. 이 글을 통해 Pure Writer의 독창적인 아이디어와 모든 특수 기능을 소개하고 더 많은 사람들이 더 잘 알기를 바랍니다. 우리에게 남은 여생 동안 멋진 추억을 남길 수 있기를 바랍니다. 우리의 말이 시간을 거슬러 올라가고 미래를 상상하게 해주길.</string>
+  <string name="presetContent1">Pure Writer 는 빠르고 편안한 텍스트 편집 앱으로 작품을 잃지 않도록 합니다. Google Play 에서 Pure Writer 의 댓글과 리뷰를 확인하다 보면 "이보다 더 좋은 앱은 없음", "가장 만족스러운 앱", "이 앱이 너무 좋음", "이 앱과 첫눈에 반했음"와 같은 극찬들이 발견됩니다. Pure Writer 의 유일한 개발자로서, 특히 저게에는 만족스러운 댓글이었습니다.\n2017년 6월, 수많은 불편한 텍스트 편집 제품을 겪고 귀중한 텍스트 파일을 잃어버린 후, 저는 사용자들이 자신의 작품이 결코 사라지지 않을 것이라는 것을 알고 기능이 풍부하고 편안한 환경에서 언제 어디서나 쓸 수있는 자체 텍스트 편집 앱을 개발하기로 다짐했습니다. 다짐한 대로, 이 앱은 작가의 관점에서 개발 될 것입니다.\n이 모든 것을 하기 전에, 저는 리치 텍스트 편집 소프트웨어에서 아르바이트하고 있었습니다. 저희는 마음을 쏟아 부었지만 소프트웨어는 저희가 원하는 방식으로 되지 않았습니다. 그럼에도 불구하고, 저는 Pure Writer 가 가지고 있는 것 이상의 독특한 특징을 성공적으로 개발했습니다.\n그리고 Pure Writer 가 탄생했죠. 처음부터 Pure Writer 는 Android 에서 각 줄과 문자 간격을 완벽하게 처리했습니다. 이것은 Microsoft Word 외에 어떤 텍스트 편집 Android 앱도 달성하지 못한 특수 기능입니다. 그러나 Microsoft Word 의 패키지 크기는 Pure Writer 보다 10 배 이상 큽니다.\n뿐만 아니라 Pure Writer 는 \'앱 시작시 텍스트 편집기 실행\' 및 특히 \'역사 기록\'와 같은 특수 기능도 제공합니다. 작가로서, 저는 역사 기록을 갖는 것의 가장 중요한 점을 이해합니다. 그것은 바로 여러분이 쓰고 있는 것을 절대, 절대 잃지 않을 것이라는 마음의 평화를 주면서 글쓰기에 집중할 수 있게 해 준다는 점입니다. 아무런 예고 없이 휴대폰이 갑자기 종료 되더라도 Pure Writer 는 컨텐츠를 자동으로 저장할 수 있습니다. 이를 통해 모든 사용자는 편안한 텍스트 편집기에서 원하는 때에 글쓰기를 시작하고 중지 할 수 있습니다.\n또한 Pure Writer 는 \'입력 단축키\'와 \'형식 도구\'를 지원하며, 입력 단축키는 사용자가 자신의 맞춤 단어를 바로 가기 표시줄에 설정하여 쉽게 반복해서 사용할 수 있도록 합니다. 서식 도구를 사용하면 자동 간격 및 배열과 같이 텍스트의 서식을 빠르게 지정할 수 있습니다.\n이러한 기능뿐만 아니라 저희는 Pure Writer 에서 가장 세세한 부분까지 완벽하게 하기 위해 많은 노력을 기울였습니다. Pure Writer 를 사용하는 동안 단순히 화면을 스와이프하여 소프트 키보드를 숨기고, 커서를 원하는 위치에 정확하게 놓고, 소프트 키보드를 숨기는 동안 기사를 계속 유지할 수 있습니다. Pure Writer 와 다른 텍스트 편집 앱들을 비교해보면, Pure Writer 가 결국 완벽한 글쓰기 환경에 기여하는 모든 사소한 디테일을 완벽하게 처리했다는 것을 알 수 있습니다.\nPure Writer 에는 자동 들여 쓰기, 이미지, 부동어 수, 취소, 마크다운, 사용자 정의 배경 테마, 야간 모드, 생체 인식 암호화, 텍스트 자동 완성, 공유 등 다양한 파일로 기사 내보내기 등의 편집 도구가 있습니다. 모든 기능과 세부 사항에도 불구하고 Pure Writer 는 여전히 최소한의 스타일을 유지했으며 머티리얼 디자인 지침을 따릅니다. 또한 사용자가 작은 메모를 작성하고 유지할 수 있도록 타임 머신을 만들었습니다. 타임 머신이라는 이름은 만화에서 가져 왔으며, 과거와 미래를 단어로 연결한다는 의미입니다.\n오늘날까지 Pure Writer 의 코드베이스는 수천 개의 커밋과 수백만 줄의 변경을 받았습니다. Pure Writer 는 거의 모든 여가 시간을 소비하지만 점점 더 많은 사용자가 저에게 긍정적 인 피드백을 주고 있다는 것은 항상 안심입니다. 저는 Pure Writer 의 사용자와 적극적으로 연결하여 피드백을 수집하고 앱을 완성합니다. 저는 다른 사람들을 돕는 무언가를 장기적으로 만드는 것에 대해 더 행복하다고 느낀 적이 없습니다.\n마지막으로, 이 여정을 통해 저를 도와준 모든 친구들에게 감사합니다. 당신이 없었다면 이 앱은 지금과 같을 수 없었을 것입니다. 이 글을 통해 Pure Writer 의 독창적인 아이디어와 모든 특수 기능을 소개하고 더 많은 사람들이 더 잘 알기를 바랍니다. 우리에게 남은 여생 동안 멋진 추억을 남길 수 있기를 바랍니다. 우리의 말이 시간을 거슬러 올라가고 미래를 상상하게 해주길.</string>
   <string name="presetTitle2">Pure Writer - 보호 메커니즘</string>
-  <string name="presetContent2">Pure Writer의 현재 보호 메커니즘은 다음과 같습니다.\n1. 내용이 변경되면  저장됩니다. 실패하면 Pure Writer가 사용자에게 즉시 알립니다.\n2. Pure Writer는 2초마다 콘텐츠가 데이터베이스에 저장되어 있는지 확인합니다. 실패하면 Pure Writer는 사용자에게 즉시 알립니다.\n3. 자동 저장에 실패하면 사용자가 앱을 완전히 종료할 수 없습니다. 이때 종료 버튼을 누르는 것은 앱을 완전히 중단하지 않고 홈 버튼을 누르는 것과 같습니다. 이것은 사용자가 자신의 컨텐츠를 수동으로 저장할 수있는 시간을 허용합니다.\n4. 앱이 백그라운드에서 실행 중이거나 종료 될 때마다 콘텐츠가 편집되면 전체 데이터베이스가 자동으로 백업됩니다. 백업 파일은 언제든지 액세스할 수 있습니다. 백업은 사용자가 백업을 되돌릴 수 있도록 이전 버전의 백업과 함께 저장됩니다.\n5. 역사 기록, 실행 취소 및 다시 실행 기능은 모든 기사에 제공됩니다.\n6. 실수로 기사를 삭제하지 못하도록 휴지통 폴더가 있습니다.\n7. 클라우드 백업 : Pure Writer가 WebDAV와 통합 된 경우 기사를 포함한 모든 데이터베이스 컨텐츠를 클라우드에 자동으로 백업합니다.</string>
+  <string name="presetContent2">Pure Writer 의 현재 보호 메커니즘은 다음과 같습니다.\n1. 내용이 변경되면  저장됩니다. 실패하면 Pure Writer 가 사용자에게 즉시 알립니다.\n2. Pure Writer 는 2초마다 콘텐츠가 데이터베이스에 저장되어 있는지 확인합니다. 실패하면 Pure Writer 는 사용자에게 즉시 알립니다.\n3. 자동 저장에 실패하면 사용자가 앱을 완전히 종료할 수 없습니다. 이때 종료 버튼을 누르는 것은 앱을 완전히 중단하지 않고 홈 버튼을 누르는 것과 같습니다. 이것은 사용자가 자신의 컨텐츠를 수동으로 저장할 수있는 시간을 허용합니다.\n4. 앱이 백그라운드에서 실행 중이거나 종료 될 때마다 콘텐츠가 편집되면 전체 데이터베이스가 자동으로 백업됩니다. 백업 파일은 언제든지 액세스할 수 있습니다. 백업은 사용자가 백업을 되돌릴 수 있도록 이전 버전의 백업과 함께 저장됩니다.\n5. 역사 기록, 실행 취소 및 다시 실행 기능은 모든 기사에 제공됩니다.\n6. 실수로 기사를 삭제하지 못하도록 휴지통 폴더가 있습니다.\n7. 클라우드 백업 : Pure Writer 가 WebDAV 와 통합 된 경우 기사를 포함한 모든 데이터베이스 컨텐츠를 클라우드에 자동으로 백업합니다.</string>
   <string name="presetTitle3">Pure Writer 프로</string>
-  <string name="presetContent3">Pure Writer 사용을 즐기고 적극적으로 개발하기를 원한다면 개발자를 격려하기 위해 약간의 비용을들이시겠습니까?\n귀하의 지원으로 저와 같은 독립 개발자가보다 유용한 앱을 만들 수 있습니다.\n참여하려면 설정 페이지의 오른쪽 상단에있는 잠금 해제 프로 버튼을 누를 수 있습니다. 감사의 표시로 다른 이름으로 저장… 및 사용자 정의 배경/용지와 같은 프로 기능을 사용할 수 있습니다.\nPure Writer는 또한 귀하의 지원의 결과로 향상 될 것입니다. 미리 감사드립니다! 질문이나 의견이 있으면 drakeet@drakeet.com으로 이메일을 보내주십시오.</string>
+  <string name="presetContent3">Pure Writer 사용을 즐기고 적극적으로 개발하기를 원한다면 개발자를 격려하기 위해 약간의 비용을들이시겠습니까?\n귀하의 지원으로 저와 같은 독립 개발자가보다 유용한 앱을 만들 수 있습니다.\n참여하려면 설정 페이지의 오른쪽 상단에있는 잠금 해제 프로 버튼을 누를 수 있습니다. 감사의 표시로 다른 이름으로 저장… 및 사용자 정의 배경/용지와 같은 프로 기능을 사용할 수 있습니다.\nPure Writer 는 또한 귀하의 지원의 결과로 향상 될 것입니다. 미리 감사드립니다! 질문이나 의견이 있으면 drakeet@drakeet.com으로 이메일을 보내주십시오.</string>
   <string name="presetTitle4">Pure Writer - 개인 정보 보호 정책</string>
-  <string name="presetContent4">Pure Writer는 사용자의 개인 정보를 매우 중요하게 생각하며 개인 정보를 수집하지 않습니다.\n또한 먼저 알리지 않고 클립 보드의 내용을 읽거나 수정하지 않습니다.\nPure Writer가 요청한 저장 권한은 자동 백업 및 파일 저장에만 사용됩니다. 그 외에는 먼저 사용자에게 알리지 않고 스토리지의 파일을 읽거나 수정하지 않습니다.\nPure Writer는 HTTPS 백업을 사용하여 데이터베이스 백업을 WebDAV 클라우드 스토리지로 전송하는 클라우드 백업을 지원합니다. 클라우드 백업은 설정 한 클라우드 스토리지에만 저장되며 다른 위치에 업로드되지 않습니다.</string>
+  <string name="presetContent4">Pure Writer 는 사용자의 개인 정보를 매우 중요하게 생각하며 개인 정보를 수집하지 않습니다.\n또한 먼저 알리지 않고 클립 보드의 내용을 읽거나 수정하지 않습니다.\nPure Writer 가 요청한 저장 권한은 자동 백업 및 파일 저장에만 사용됩니다. 그 외에는 먼저 사용자에게 알리지 않고 스토리지의 파일을 읽거나 수정하지 않습니다.\nPure Writer 는 HTTPS 백업을 사용하여 데이터베이스 백업을 WebDAV 클라우드 스토리지로 전송하는 클라우드 백업을 지원합니다. 클라우드 백업은 설정 한 클라우드 스토리지에만 저장되며 다른 위치에 업로드되지 않습니다.</string>
   <string name="createAt">생성된 날짜</string>
   <string name="updatedAt">마지막으로 수정한 날짜:</string>
   <string name="forcedBlackTextColor">검은색 텍스트 강제 적용</string>
   <string name="forcedWhiteTextColor">흰색 텍스트 강제 적용</string>
-  <string name="onlyAvailableWhenParagraphOn">단락 간격이 '켬'으로 설정된 경우에만 사용 가능</string>
+  <string name="onlyAvailableWhenParagraphOn">단락 간격이 \'켬\'으로 설정된 경우에만 사용 가능</string>
   <string name="lowProfile">상태 표시줄 포커스 모드</string>
   <string name="chapters">챕터</string>
   <string name="sortTypeTitleUp">제목 오름차순</string>
@@ -258,7 +258,7 @@
   <string name="needManualSortingMessage">설정을 수동 정렬로 변경 하시겠습니까?</string>
   <string name="doubleClickToExit">뒤로가기를 두 번 누르면 앱이 종료됩니다</string>
   <string name="doubleClickToExitTip">뒤로가기를 한 번 더 누르면 종료됩니다</string>
-  <string name="markdownCheckBoxTip">이 옵션은 마크다운 기능을 위한 것입니다. 이 기능을 선택하면 문단 띄어쓰기와 들여쓰기는 효과를 잃게 됩니다. 마크다운에 익숙하지 않은 경우엔 이 확인란을 선택하지 않는 것이 좋습니다.\n\n마크다운은 일반 텍스트 서식 구문을 사용하는 마크업 언어입니다. 관심이 있다면 인터넷에 '마크다운'을 검색해보세요.</string>
+  <string name="markdownCheckBoxTip">이 옵션은 마크다운 기능을 위한 것입니다. 이 기능을 선택하면 문단 띄어쓰기와 들여쓰기는 효과를 잃게 됩니다. 마크다운에 익숙하지 않은 경우엔 이 확인란을 선택하지 않는 것이 좋습니다.\n\n마크다운은 일반 텍스트 서식 구문을 사용하는 마크업 언어입니다. 관심이 있다면 인터넷에 \'마크다운\'을 검색해보세요.</string>
   <string name="unlockValidityPeriod">자동 잠금 유효 기간</string>
   <string name="unlockValidityPeriodSummary">%s\n참고: 뒤로가기를 눌러 앱을 종료하면 다음 번에 앱이 잠깁니다.</string>
   <string name="lockImmediatelyIfAway">떨어져 있으면 즉시 잠금</string>
@@ -269,12 +269,12 @@
   <string name="cloudBackup">클라우드 백업</string>
   <string name="cloudConnection">클라우드 연결 유형</string>
   <string name="signIn">로그인</string>
-  <string name="lockFallback">계속 잠금을 해제할 수 없는 경우 휴대폰의 시스템 설정으로 이동하여 모든 지문을 제거한 다음 Pure Writer를 다시 실행해 보십시오.</string>
+  <string name="lockFallback">계속 잠금을 해제할 수 없는 경우 휴대폰의 시스템 설정으로 이동하여 모든 지문을 제거한 다음 Pure Writer 를 다시 실행해 보십시오.</string>
   <string name="smoothScrollerTitle">한 줄의 텍스트를 클릭하기 위한 부드러운 스크롤 애니메이션</string>
   <string name="tipSmoothScrolling">이 옵션이 설정되어 있으면 내용 텍스트의 한 줄을 누르면 텍스트 보기가 필요한 경우 포커스가 있는 줄까지 부드럽게 스크롤됩니다. 이 옵션이 꺼져 있으면 즉시 해당 라인으로 이동합니다.\n일부 기기에서는 스크롤 애니메이션이 제대로 실행되지 않을 수 있으므로 문제가 발생하면 이 옵션을 끄십시오.</string>
   <string name="defaultMessageUpdateApk">이것은 중요한 버전입니다. 가능한 빨리 이 버전으로 업데이트하십시오</string>
-  <string name="readme">Pure Writer의 새로운 머티리얼 디자인 2 디자인을 켰습니다.\n\n머티리얼 디자인 2는 새로운 전체 화면과 투명한 상단 바를 제공하여 보다 신선한 느낌을 줍니다.\n\n그러나 동시에 새로운 디자인에는 많은 문제가 있을 수 있으므로 이는 UI 시각적 문제가 있을 수 있는 Pure Writer의 실험적인 기능입니다. 또한 Pure Writer의 제작자로서 좀 더 시선을 사로잡고 텍스트 콘텐츠에 초점을 맞춘 Pure Writer의 기존 디자인을 선호하기 때문에, 이 디자인 기능은 실제로 소수 사용자들의 강력한 요구에 부응해 개발된 것입니다. 추가 개발 비용이 많이 들고, 제공하기가 쉽지 않으며, 현재 두 가지 Pure Writer 디자인이 나올 예정이라 개발자의 작업이 배가 될 수 있습니다.\n\n이 때문에 Pure Writer는 여러분께 유료 버전 결제를 권유하지만, 최종 지불 결정을 경험하고 경험할 시간은 여전히 많습니다. 고민해 보시고 저희를 지원해주세요. 통계에 따르면 결제하려는 사용자의 비율이 적을 경우 개발자는 머티리얼 디자인 2 유지보수를 취소하거나 중지할 수도 있습니다. '확인'을 클릭하면 기본적으로 이 내용에 동의하는 것으로 간주됩니다.\n\n모두들 감사합니다! 더 나은 Pure Writer를 제공하기 위해 최선을 다하겠습니다. 즐거운 하루 되세요!</string>
-  <string name="lowFreeStorageSpaceWarning">기기의 저장 공간이 %1$dMB 밖에 남지 않아 Pure Writer가 저장되거나 백업되지 않을 수 있습니다. Pure Writer를 사용하기 전에 저장 공간을 정리하고 %2$d 이상을 남겨 주세요!</string>
+  <string name="readme">Pure Writer 의 새로운 머티리얼 디자인 2 디자인을 켰습니다.\n\n머티리얼 디자인 2는 새로운 전체 화면과 투명한 상단 바를 제공하여 보다 신선한 느낌을 줍니다.\n\n그러나 동시에 새로운 디자인에는 많은 문제가 있을 수 있으므로 이는 UI 시각적 문제가 있을 수 있는 Pure Writer 의 실험적인 기능입니다. 또한 Pure Writer 의 제작자로서 좀 더 시선을 사로잡고 텍스트 콘텐츠에 초점을 맞춘 Pure Writer 의 기존 디자인을 선호하기 때문에, 이 디자인 기능은 실제로 소수 사용자들의 강력한 요구에 부응해 개발된 것입니다. 추가 개발 비용이 많이 들고, 제공하기가 쉽지 않으며, 현재 두 가지 Pure Writer 디자인이 나올 예정이라 개발자의 작업이 배가 될 수 있습니다.\n\n이 때문에 Pure Writer 는 여러분께 유료 버전 결제를 권유하지만, 최종 지불 결정을 경험하고 경험할 시간은 여전히 많습니다. 고민해 보시고 저희를 지원해주세요. 통계에 따르면 결제하려는 사용자의 비율이 적을 경우 개발자는 머티리얼 디자인 2 유지보수를 취소하거나 중지할 수도 있습니다. \'확인\'을 클릭하면 기본적으로 이 내용에 동의하는 것으로 간주됩니다.\n\n모두들 감사합니다! 더 나은 Pure Writer 를 제공하기 위해 최선을 다하겠습니다. 즐거운 하루 되세요!</string>
+  <string name="lowFreeStorageSpaceWarning">기기의 저장 공간이 %1$dMB 밖에 남지 않아 Pure Writer 가 저장되거나 백업되지 않을 수 있습니다. Pure Writer 를 사용하기 전에 저장 공간을 정리하고 %2$d 이상을 남겨 주세요!</string>
   <string name="pureWriterBBS">Pure Writer 게시판</string>
   <string name="findReplace">찾기 &amp; 바꾸기</string>
   <string name="replace">바꾸기</string>
@@ -300,7 +300,7 @@
   <string name="scrollToHideTopBar">스크롤해서 상단 바 숨기기</string>
   <string name="doNotOperate">작업 중에 문서를 전환하거나 수정하지 마십시오!</string>
   <string name="aboutBackup"><b>백업에 대해</b></string>
-  <string name="backupReadme">Pure Writer는 로컬 및 클라우드 백업을 지원합니다. 로컬 백업은 자동입니다. Pure Writer를 다시 설치하면 백업으로 모든 를 복원할 수 있습니다.\n\n그러나 Pure Writer는 기본적으로 클라우드 백업을 자동으로 수행하지 않습니다. 클라우드 백업을 활성화하려면 Pure Writer-[설정]-[백업] 창에서 클라우드 백업 계정을 설정해야 합니다.\n\nPure Writer 클라우드 백업은 현재 Dropbox 및 WebDAV 클라우드 스토리지를 지원합니다.\n\n<b>클라우드 백업은 매우 중요합니다. 클라우드 백업 계정을 설정하지 않으면이 기기를 분실, 고장 또는 공장 설정으로 복원하면 모든 귀중한 컨텐츠가 손실됩니다! 클라우드 백업 계정을 설정하십시오!</b></string>
+  <string name="backupReadme">Pure Writer 는 로컬 및 클라우드 백업을 지원합니다. 로컬 백업은 자동입니다. Pure Writer 를 다시 설치하면 백업으로 모든 를 복원할 수 있습니다.\n\n그러나 Pure Writer 는 기본적으로 클라우드 백업을 자동으로 수행하지 않습니다. 클라우드 백업을 활성화하려면 Pure Writer-[설정]-[백업] 창에서 클라우드 백업 계정을 설정해야 합니다.\n\nPure Writer 클라우드 백업은 현재 Dropbox 및 WebDAV 클라우드 스토리지를 지원합니다.\n\n<b>클라우드 백업은 매우 중요합니다. 클라우드 백업 계정을 설정하지 않으면이 기기를 분실, 고장 또는 공장 설정으로 복원하면 모든 귀중한 컨텐츠가 손실됩니다! 클라우드 백업 계정을 설정하십시오!</b></string>
   <string name="tipParagraphSpacingInMD">마크다운 모드에서는 단락 간격이 활성화되지 않습니다.</string>
   <string name="lineSpacing">줄 간격</string>
   <string name="paragraphSpacing">문단 간격</string>
@@ -380,7 +380,7 @@
   <string name="unlimitedWords">단어 수 무제한</string>
   <string name="customPapers">섬세하고 몰입감 있는\n맞춤형 용지</string>
   <string name="markdownQuickPreview">마크다운 미리보기</string>
-  <string name="exportToPicMdTxt">긴 이미지/.md/.txt로 내보내기</string>
+  <string name="exportToPicMdTxt">긴 이미지/.md/.txt 로 내보내기</string>
   <string name="materialDesign2ThemeWithLineBreak">머티리얼 디자인 2 테마</string>
   <string name="neverLost">분실 방지</string>
   <string name="veryVerySmooth">매우 부드러움</string>
@@ -388,7 +388,7 @@
   <string name="keyboardStateRestoring">키보드 상태 복원</string>
   <string name="greatCursorFocus">훌륭한 커서 초점</string>
   <string name="crazyUpdateBetterAndBetter">더 나은 업데이트 유지</string>
-  <string name="moreAdvantagesOfPureWriter">Pure Writer의 장점</string>
+  <string name="moreAdvantagesOfPureWriter">Pure Writer 의 장점</string>
   <string name="account">계정 정보</string>
   <string name="privilegeOfPureWriterPro">Pure Writer 프로의 권한</string>
   <string name="messageCustomFontAndPro">Pure Writer 프로가 필요한 사용자 정의 글꼴을 사용하고 있는지 확인하십시오. 확인을 클릭하여 Pure Writer 프로 및 고급 기능을 사용하거나 사용자 정의 글꼴을 클릭하여 취소할 수 있습니다(다음 실행시 적용됨).</string>
@@ -434,7 +434,7 @@
 |
 |        #### Pure Writer 데스크탑
 |
-|        ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
+|        ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
 |
 |        Pure Writer 데스크탑을 가져와서 메인 편집기 상단의 클라우드 아이콘 ☁️ 을 통해 연결할 수 있습니다.
 |
@@ -456,7 +456,7 @@
   <string name="summaryScrollToBottom">편집기에 이 버튼을 표시할지 여부</string>
   <string name="cloudBackupFailed">클라우드 백업 실패</string>
   <string name="dropboxBackupFailed">Dropbox 백업에 실패했습니다. Pure Writer 클라우드 백업에서 Dropbox 계정에 다시 로그인하십시오.</string>
-  <string name="dropboxBackupFailedDueToInsufficientSpace">클라우드 백업 실패 : Dropbox에 공간이 부족합니다</string>
+  <string name="dropboxBackupFailedDueToInsufficientSpace">클라우드 백업 실패 : Dropbox 에 공간이 부족합니다</string>
   <string name="tipImageDialog">아래에 삽입하려는 웹 이미지 링크를 입력하십시오.\n또는 아래 \"로컬 이미지\"를 클릭하여 로컬 이미지를 선택하고 해당 이미지에 대한 로컬 링크를 자동으로 가져올 수 있습니다.</string>
   <string name="imageUrl">이미지 URL</string>
   <string name="imageDesc">이미지 설명 (선택 사항)</string>
@@ -471,24 +471,24 @@
   <string name="searchArticles">문서 검색 / 문서로 빠르게 이동</string>
   <string name="searchTip">도움말: 줄 바꿈으로 검색할 키워드를 여러 개 입력할 수 있지만 결과에서는 첫 번째 키워드만 강조 표시됩니다.</string>
   <string name="duplicate">복제</string>
-  <string name="lowCloudFreeStorageSpaceWarning">%1$s에 %2$d MB의 사용 가능한 저장 공간이 있으므로 Pure Writer가 클라우드에 저장하거나 백업하지 못할 수 있습니다. Pure Writer를 사용하기 전에 저장 공간을 정리하고 %3$d MB 이상 남겨 주십시오!</string>
+  <string name="lowCloudFreeStorageSpaceWarning">%1$s에 %2$d MB의 사용 가능한 저장 공간이 있으므로 Pure Writer 가 클라우드에 저장하거나 백업하지 못할 수 있습니다. Pure Writer 를 사용하기 전에 저장 공간을 정리하고 %3$d MB 이상 남겨 주십시오!</string>
   <string name="unlimitedStorage">저장 공간 무제한</string>
   <string name="noteDateTimeShortcut"><![CDATA[
 |        또한 위의 첫 번째 입력 상자에 `${<format>}` 을 입력하여 설정한 시간 및 날짜 변수를 삽입할 수도 있습니다. 여기서 `<format>` 은 날짜 / 시간 형식으로 바꿔야 합니다.
 |
-|        `${yyyy-MM-dd HH:mm}` 는 다음을 생성합니다 :
-|        `2020-04-01 21:43`
+|        `${yyyy-MM-dd HH:mm}` 는 다음을 생성합니다 :
+|        `2020-04-01 21:43`
 |
-|        `${yyyy-M-d hh:mm}` 는 다음을 생성합니다 :
-|        `2020-4-1 09:43`
+|        `${yyyy-M-d hh:mm}` 는 다음을 생성합니다 :
+|        `2020-4-1 09:43`
 |
-|        (위의 예를 선택하고 복사하려면 길게 눌러보십시오)
+|        (위의 예를 선택하고 복사하려면 길게 눌러보십시오)
 |
 |        더 많은 형식 지정자와 무료 조합에 대해서는 이 [문서 페이지](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) 의 표를 확인해보세요.
     ]]></string>
   <string name="read">읽기</string>
   <string name="introductionOfReadOnlyMode">* 커서가 보이지 않으면 커서를 놓고 편집 모드로 들어가려면 두 번 클릭해야 합니다.\n* 커서가 보이면 클릭 한 번으로 텍스트를 편집하거나 수정할 수 있습니다\n* 커서가 표시되면 뒤로 가기를 눌러 커서를 숨기고 읽기 전용 모드로 들어갈 수 있습니다</string>
-  <string name="messageReadOnlyModeAndPro">고급 읽기 전용 모드에는 Pure Writer Pro가 필요합니다. 확인을 클릭하여 Pure Writer Pro 및 고급 기능을 얻거나 취소를 클릭하여 다음 실행 후 자동으로 취소 할 수 있습니다.</string>
+  <string name="messageReadOnlyModeAndPro">고급 읽기 전용 모드에는 Pure Writer Pro 가 필요합니다. 확인을 클릭하여 Pure Writer Pro 및 고급 기능을 얻거나 취소를 클릭하여 다음 실행 후 자동으로 취소 할 수 있습니다.</string>
   <string name="doNotRemindAgain">다시 상기시키지 마십시오</string>
   <string name="fabOverflowModeSingleClick">한 번 클릭하여 팝업 메뉴를 열고 메뉴에서 문서를 만들도록 선택할 수 있습니다</string>
   <string name="fabOverflowModeLongPress">한 번 클릭하여 문서를 직접 만들고 길게 누르면 팝업 메뉴가 열립니다.</string>
@@ -523,27 +523,27 @@
   <string name="fileTypeNotSupported">파일 형식이 지원되지 않습니다.</string>
   <string name="grantStoragePermission">저장 권한 부여</string>
   <string name="folderNoLongerExists">폴더 또는 저장소가 더 이상 존재하지 않습니다!</string>
-  <string name="tipNotRecommendedFolder">이 폴더는 권장 폴더를 충족하지 않으며 Pure Writer는 이전 백업 파일을 읽을 수 없습니다. 주의하거나 이전 단계로 돌아가서 수정하십시오!</string>
-  <string name="tipTargetFolder">"선택한 폴더에 따라 Pure Writer의 최종 저장 디렉토리는 다음과 같습니다: "</string>
-  <string name="messageWhyNeedSAF">사용자 개인 정보를 더 잘 보호하기 위해 Android 11부터 Pure Writer는 더 이상 전체 외부 저장소 읽기 / 쓰기 권한이 필요하지 않습니다. 대신 사용자가 폴더 디렉터리를 지정할 수 있으며 Pure Writer는 해당 디렉터리에 대한 읽기 / 쓰기 권한만 갖습니다.\n\n따라서 아래 버튼을 클릭하여 폴더를 선택해야합니다. 나중에 재설치 할 때 이전 데이터를 복원하려면 ***`Documents`*** 🙏 폴더를 선택하는 것이 좋습니다.</string>
+  <string name="tipNotRecommendedFolder">이 폴더는 권장 폴더를 충족하지 않으며 Pure Writer 는 이전 백업 파일을 읽을 수 없습니다. 주의하거나 이전 단계로 돌아가서 수정하십시오!</string>
+  <string name="tipTargetFolder">"선택한 폴더에 따라 Pure Writer 의 최종 저장 디렉토리는 다음과 같습니다: "</string>
+  <string name="messageWhyNeedSAF">사용자 개인 정보를 더 잘 보호하기 위해 Android 11부터 Pure Writer 는 더 이상 전체 외부 저장소 읽기 / 쓰기 권한이 필요하지 않습니다. 대신 사용자가 폴더 디렉터리를 지정할 수 있으며 Pure Writer 는 해당 디렉터리에 대한 읽기 / 쓰기 권한만 갖습니다.\n\n따라서 아래 버튼을 클릭하여 폴더를 선택해야합니다. 나중에 재설치 할 때 이전 데이터를 복원하려면 ***`Documents`*** 🙏 폴더를 선택하는 것이 좋습니다.</string>
   <string name="pureWriterFolder">PureWriter 폴더</string>
   <string name="selectFont">글꼴 선택</string>
-  <string name="materialFilesNote">현재 아래의 \"열기\"는 zhanghai/MaterialFiles로 열기만 지원합니다. 필요한 경우 이 앱을 직접 다운로드하거나 시스템의 파일 관리자를 수동으로 사용하여 위의 경로를 열 수 있습니다.</string>
+  <string name="materialFilesNote">현재 아래의 \"열기\"는 zhanghai/MaterialFiles 로 열기만 지원합니다. 필요한 경우 이 앱을 직접 다운로드하거나 시스템의 파일 관리자를 수동으로 사용하여 위의 경로를 열 수 있습니다.</string>
   <string name="changeFolder">폴더 변경</string>
   <string name="yourFolderIs">"선택한 폴더 디렉토리는 다음과 같습니다: "</string>
   <string name="changeFolderNote">아래의 \"폴더 변경\"을 선택하는 경우 먼저 PureWriter 폴더를 새 대상 폴더로 수동으로 이동 한 다음 변경해야합니다.</string>
   <string name="previous">이전</string>
   <string name="rating">평가</string>
   <string name="customFontTipForAndroid11">Android 11 이상부터는 글꼴 파일을 선택해야 합니다.</string>
-    <string name="connectDesktop">데스크탑에 연결</string>
+  <string name="connectDesktop">데스크탑에 연결</string>
   <string name="disconnectDesktop">데스크탑 연결 해제</string>
   <string name="connect">연결하기</string>
-  <string name="desktopDialogGuide">https://writer.drakeet.com/desktop_en 에서 <b><i> Pure Writer Desktop 1.4.0 이상 </i></b>을 다운로드해야 합니다.\n\n모바일과 컴퓨터가 <b> 동일한 Wi-Fi 네트워크 또는 핫스팟 👈👈👈 </b>에 있을 때, 데스크탑을 열고 아래의 IP 주소를 데스크탑의 입력 필드에 입력하여 Pure Writer에 연결하면 현재 문서를 동기화하고 실시간으로 편집할 수 있습니다.</string>
+  <string name="desktopDialogGuide">https://writer.drakeet.com/desktop_en 에서 <b><i> Pure Writer Desktop 1.4.0 이상 </i></b>을 다운로드해야 합니다.\n\n모바일과 컴퓨터가 <b> 동일한 Wi-Fi 네트워크 또는 핫스팟 👈👈👈 </b>에 있을 때, 데스크탑을 열고 아래의 IP 주소를 데스크탑의 입력 필드에 입력하여 Pure Writer 에 연결하면 현재 문서를 동기화하고 실시간으로 편집할 수 있습니다.</string>
   <string name="connectionIsStopping">연결이 중지됩니다. 나중에 다시 시도하세요!</string>
   <string name="stop_waiting_connection">연결 대기 중지</string>
   <string name="desktopDisconnected">데스크탑 연결이 끊어졌습니다.</string>
   <string name="desktopConnected">데스크탑이 연결됨</string>
-  <string name="desktopDialogNote">참고 : Pure Writer Desktop은 아직 알파 단계입니다. 양해 부탁드리며, 후속 업데이트를 기다려 주세요.\n* 여러 줄의 IP 주소가 표시되는 경우 하나씩 연결해보십시오.</string>
+  <string name="desktopDialogNote">참고 : Pure Writer Desktop 은 아직 알파 단계입니다. 양해 부탁드리며, 후속 업데이트를 기다려 주세요.\n* 여러 줄의 IP 주소가 표시되는 경우 하나씩 연결해보십시오.</string>
   <string name="autoConnectToDesktop">데스크탑 버전에 자동 연결</string>
   <string name="autoConnectToDesktopNextTime">다음에 데스크탑에 자동으로 연결</string>
   <string name="restoreOptionsMessage">이 백업을 사용하여 로컬 콘텐츠를 덮어쓰거나 로컬 콘텐츠에 병합해야 합니까?\n\n참고: 병합을 선택하면 백업 파일의 설정 및 클라우드 백업 계정 정보가 병합되지 않으며 수동으로 재구성해야 할 수 있습니다.\n\n또한 기사의 순서를 수정하거나 기사를 삭제하면 충돌이 발생하므로 이러한 작업이 병합되지 않습니다. <b>따라서 \"덮어쓰기\"를 사용하는 것이 좋으며, 한 장치에서 데이터를 수정하는 경우 \"덮어쓰기\"를 통해 다른 장치의 데이터를 즉시 동기화해야 합니다. </b></string>
@@ -551,9 +551,9 @@
   <string name="editor2Tip">현재 제2 편집기에 있고, 상단 아이콘은 제1 편집기와 반대쪽에 있습니다. 제1 편집기로 돌아가려면 <b>편집기에서 왼쪽이나 오른쪽으로 스와이프</b>하세요.</string>
   <string name="switchToAlipayPaymentMethod">Alipay 결제 수단으로 전환</string>
   <string name="switchToGooglePlayPaymentMethod">Google Play 결제 수단으로 전환</string>
-  <string name="tipForFromPlayToAlipay">이 지불 방법을 사용하려면 중국 본토에 있는지 확인하십시오. 이 결제 수단은 원칙적으로 중국 본토 사용자만 사용할 수 있습니다. (중국에서는 Google 및 Google Play를 사용하여 결제할 수 없기 때문입니다)</string>
+  <string name="tipForFromPlayToAlipay">이 지불 방법을 사용하려면 중국 본토에 있는지 확인하십시오. 이 결제 수단은 원칙적으로 중국 본토 사용자만 사용할 수 있습니다. (중국에서는 Google 및 Google Play 를 사용하여 결제할 수 없기 때문입니다)</string>
   <string name="askUnsubscribe"><u> 구독을 취소하시겠습니까? </u></string>
-  <string name="notesForGoogleSkus">메모:\n\n* 구글은 구독 취소 인터페이스를 제공하지 않기 때문에 구독을 취소할 경우 위의 구독 또는 \"구독 취소?\"를 클릭해야 합니다.\n\n* Google Play에서 이 앱의 구독을 취소한 후 앱은 최신 상태를 즉시 수신하지 않으므로 이 페이지에서 구독 항목이 여전히 \"구독 중\" 상태임을 확인할 수 있습니다. 이것은 정상적인 현상입니다. 다음 날 올바른 결과를 얻거나 현재 구독 기간이 끝날 때까지 기다리십시오.\n\n* 구독에서 \"평생\" 항목으로 전환하려는 경우 먼저 구독을 취소한 다음 \"평생\" 항목을 구매해야 합니다. 이 앱은 자체적으로 구독을 취소할 수 없습니다.\n\n* 결제 과정에서 DF-DFERH-01 오류가 발생하면 기기를 다시 시작하고 다시 시도하십시오.\n\n* 결제 결과는 자동으로 시스템 Google 계정에 연결됩니다. 감사합니다!</string>
+  <string name="notesForGoogleSkus">메모:\n\n* 구글은 구독 취소 인터페이스를 제공하지 않기 때문에 구독을 취소할 경우 위의 구독 또는 \"구독 취소?\"를 클릭해야 합니다.\n\n* Google Play 에서 이 앱의 구독을 취소한 후 앱은 최신 상태를 즉시 수신하지 않으므로 이 페이지에서 구독 항목이 여전히 \"구독 중\" 상태임을 확인할 수 있습니다. 이것은 정상적인 현상입니다. 다음 날 올바른 결과를 얻거나 현재 구독 기간이 끝날 때까지 기다리십시오.\n\n* 구독에서 \"평생\" 항목으로 전환하려는 경우 먼저 구독을 취소한 다음 \"평생\" 항목을 구매해야 합니다. 이 앱은 자체적으로 구독을 취소할 수 없습니다.\n\n* 결제 과정에서 DF-DFERH-01 오류가 발생하면 기기를 다시 시작하고 다시 시도하십시오.\n\n* 결제 결과는 자동으로 시스템 Google 계정에 연결됩니다. 감사합니다!</string>
   <string name="skuActive">구독 중</string>
   <string name="activating">활성화 중…</string>
   <string name="updating">업데이트 중…</string>
@@ -565,7 +565,7 @@
   <string name="tipBadPaper">선택한 이미지 또는 색상이 요구 사항을 충족하지 않습니다. 다시 선택하십시오.</string>
   <string name="fixedThemeTitle">수정됨, 자동으로 전환하지 않음</string>
   <string name="followSystemThemeTitle">시스템 팔로우(OS와 동기화)</string>
-  <string name="scheduledThemeTitle">시간에 따른 자동 전환:\n7:00-17:00 밝은 테마 사용, 그렇지 않으면 어두운 테마 사용</string>
+  <string name="scheduledThemeTitle">시간에 따른 자동 전환:\n7:00–17:00 밝은 테마 사용, 그렇지 않으면 어두운 테마 사용</string>
   <string name="paperSettingsHint">배경 화면/테마를 선택하거나 사용자 지정하려면 클릭하세요.</string>
   <string name="lightTheme">밝은 테마</string>
   <string name="darkTheme">어두운 테마</string>
@@ -578,4 +578,5 @@
   <string name="whetherOverwriteSettings">로컬 설정을 덮어쓰시겠습니까?</string>
   <string name="askOverwriteSettings">백업 파일의 기사 데이터베이스를 사용하여 로컬 기사 데이터베이스를 덮어쓰지만 백업 파일의 설정을 사용하여 로컬 설정을 덮어써야 하는지 여부는 알 수 없습니다. 선택하십시오:</string>
   <string name="privacyPolicySummary">우리는 귀하의 개인 정보를 수집하지 않습니다</string>
+  <string name="messageThankYouForYourSupport">귀하의 지원은 Pure Writer 를 더 잘 개발하고 더 많은 독립 개발자에게 동기를 부여하면서 뛰어난 제품을 만들 수 있도록 합니다. \n\nPure Writer 는 여러분의 지원 덕분에 지속적으로 업데이트되고 개선될 수 있습니다. 매우 감사합니다!</string>
 </resources>
