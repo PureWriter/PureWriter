@@ -357,7 +357,7 @@
   <string name="showMore">显示更多</string>
   <string name="textColorAlpha">字体颜色透明度</string>
   <string name="tipNotSupportThisDesktopVersion">当前手机端和桌面端版本不匹配，无法连接，请各自更新到最新版后重试</string>
-  <string name="desktopDialogGuide">您需要从\nhttps://writer.drakeet.com/desktop \n下载<b><i>纯纯写作桌面版 1.4.0 或以上版本</i></b>。\n\n当手机与电脑<b>处于同一个 Wi-Fi 网络或热点</b>时👈👈👈，打开桌面版后将以下的 IP 地址<b>输入于桌面版中的输入栏中</b>，即可与桌面版实时连接，双向同步编辑当前文章。</string>
+  <string name="desktopDialogGuide">您需要从\nhttps://writer.drakeet.com/desktop \n下载<b><i>纯纯写作桌面版1.5.1 或以上版本</i></b>。\n\n当手机与电脑<b>处于同一个 Wi-Fi 网络或热点</b>时👈👈👈，打开桌面版后将以下的 IP 地址<b>输入于桌面版中的输入栏中</b>，即可与桌面版实时连接，双向同步编辑当前文章。</string>
   <string name="desktopDialogNote">注意：当前纯纯写作桌面版还处于非常初级阶段，许多功能未完善，请您理解和静待其后续更新。\n* 若您看到<b>多行 IP 地址</b>，请逐一尝试连接它们。</string>
   <string name="connect">连接</string>
   <string name="connectDesktop">连接纯纯写作桌面版</string>

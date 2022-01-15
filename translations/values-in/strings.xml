@@ -535,7 +535,7 @@
     <string name="connectDesktop">Hubungkan ke desktop</string>
   <string name="disconnectDesktop">Putuskan sambungan Desktop</string>
   <string name="connect">Hubungkan</string>
-  <string name="desktopDialogGuide">Anda perlu mengunduh <b><i> Pure Writer Desktop 1.4.0 (atau lebih tinggi) </i></b> dari https://writer.drakeet.com/desktop_en\n\nKetika ponsel dan komputer Anda berada di <b>jaringan Wi-Fi atau hotspot yang sama👈👈👈 </b>, buka Desktop dan masukkan alamat IP di bawah ini ke dalam bidang input Desktop untuk terhubung ke Pure Writer, lalu Anda dapat menyinkronkan dan edit artikel saat ini secara real-time.</string>
+  <string name="desktopDialogGuide">Anda perlu mengunduh <b><i> Pure Writer Desktop1.5.1 (atau lebih tinggi) </i></b> dari https://writer.drakeet.com/desktop_en\n\nKetika ponsel dan komputer Anda berada di <b>jaringan Wi-Fi atau hotspot yang sama👈👈👈 </b>, buka Desktop dan masukkan alamat IP di bawah ini ke dalam bidang input Desktop untuk terhubung ke Pure Writer, lalu Anda dapat menyinkronkan dan edit artikel saat ini secara real-time.</string>
   <string name="connectionIsStopping">Koneksi terhenti, coba lagi nanti!</string>
   <string name="stop_waiting_connection">Berhenti menunggu koneksi</string>
   <string name="desktopDisconnected">Desktop terputus</string>

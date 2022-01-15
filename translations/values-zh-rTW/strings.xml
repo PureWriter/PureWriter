@@ -353,7 +353,7 @@
   <string name="collapseAllCategories">收起所有卷</string>
   <string name="showMore">顯示更多</string>
   <string name="textColorAlpha">字型顏色透明度</string>
-  <string name="desktopDialogGuide">您需要從\nhttps://writer.drakeet.com/desktop_zh \n下載<b><i>純純寫作桌面版 1.4.0 或以上版本</i></b>。\n\n當手機與電腦<b>處於同一個 Wi-Fi 網路或行動基站台</b>時👈👈👈，打開桌面版後將以下的 IP 位址<b>輸入於桌面版中的輸入列中</b>，即可與桌面版即時連線，雙向同步編輯目前文章。</string>
+  <string name="desktopDialogGuide">您需要從\nhttps://writer.drakeet.com/desktop_zh \n下載<b><i>純純寫作桌面版1.5.1 或以上版本</i></b>。\n\n當手機與電腦<b>處於同一個 Wi-Fi 網路或行動基站台</b>時👈👈👈，打開桌面版後將以下的 IP 位址<b>輸入於桌面版中的輸入列中</b>，即可與桌面版即時連線，雙向同步編輯目前文章。</string>
   <string name="desktopDialogNote">注意：目前純純寫作桌面版還處於非常初期階段，許多功能未完善，請您理解和靜待其後續更新。\n* 若您看到<b>多行 IP 位址</b>，請逐一嘗試連結它們。</string>
   <string name="tipNotSupportThisDesktopVersion">目前手機端和桌面端版本不匹配，無法連結，請各自更新到最新版後重試</string>
   <string name="connect">連結</string>

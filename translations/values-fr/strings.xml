@@ -538,7 +538,7 @@
     <string name="connectDesktop">Se connecter au bureau</string>
   <string name="disconnectDesktop">Déconnecter le bureau</string>
   <string name="connect">Se connecter</string>
-  <string name="desktopDialogGuide">Vous devez télécharger <b><i>Pure Writer Desktop 1.4.0 (ou supérieur)</i></b> sur https://writer.drakeet.com/desktop_en \n\nLorsque votre mobile et votre ordinateur sont sur <b>le même réseau Wi-Fi ou hotspot👈👈👈</b>, ouvrez Desktop et entrez l\'adresse IP ci-dessous <b>dans le champ de saisie de Desktop</b> pour vous connecter à Pure Writer, puis vous pouvez synchroniser et modifier l\'article en cours en temps réel.</string>
+  <string name="desktopDialogGuide">Vous devez télécharger <b><i>Pure Writer Desktop1.5.1 (ou supérieur)</i></b> sur https://writer.drakeet.com/desktop_en \n\nLorsque votre mobile et votre ordinateur sont sur <b>le même réseau Wi-Fi ou hotspot👈👈👈</b>, ouvrez Desktop et entrez l\'adresse IP ci-dessous <b>dans le champ de saisie de Desktop</b> pour vous connecter à Pure Writer, puis vous pouvez synchroniser et modifier l\'article en cours en temps réel.</string>
   <string name="connectionIsStopping">La connexion s\'arrête, réessayez plus tard!</string>
   <string name="stop_waiting_connection">Arrêtez d\'attendre les connexions</string>
   <string name="desktopDisconnected">Le bureau est déconnecté</string>

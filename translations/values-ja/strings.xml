@@ -533,7 +533,7 @@
   <string name="connectDesktop">デスクトップに接続する</string>
   <string name="disconnectDesktop">デスクトップを切断します</string>
   <string name="connect">接続する</string>
-  <string name="desktopDialogGuide">https://writer.drakeet.com/desktop_en から<b><i> Pure Writer Desktop 1.4.0（またはそれ以降）</i></b>をダウンロードする必要があります\n\nモバイルとコンピューターが<b>同じWi-Fiネットワークまたはホットスポット👈👈👈</b>にある場合は、デスクトップを開き、デスクトップの入力フィールドに以下のIPアドレスを入力して、Pure Writer に接続します。同期できます。 現在の記事をリアルタイムで編集します。</string>
+  <string name="desktopDialogGuide">https://writer.drakeet.com/desktop_en から<b><i> Pure Writer Desktop1.5.1（またはそれ以降）</i></b>をダウンロードする必要があります\n\nモバイルとコンピューターが<b>同じWi-Fiネットワークまたはホットスポット👈👈👈</b>にある場合は、デスクトップを開き、デスクトップの入力フィールドに以下のIPアドレスを入力して、Pure Writer に接続します。同期できます。 現在の記事をリアルタイムで編集します。</string>
   <string name="connectionIsStopping">接続が停止しています。しばらくしてからもう一度お試しください。</string>
   <string name="stop_waiting_connection">接続を待つのをやめる</string>
   <string name="desktopDisconnected">デスクトップが切断されている</string>
