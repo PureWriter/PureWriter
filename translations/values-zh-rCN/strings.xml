@@ -79,7 +79,7 @@
   <string name="features">功能特性</string>
   <string name="sendTextFailedForTooLarge">您的文本太长，无法直接发送到其他 App，已经转而帮您把文本复制到您的剪贴板了</string>
   <string name="hasSavedToYourAlbum">已保存到您的相册</string>
-  <string name="previewAndExport">预览 &amp; 另存为…</string>
+  <string name="previewAndExport">长图片\n预览 &amp; 另存为…</string>
   <string name="tipRequirePro">该功能需要购买高级版</string>
   <string name="proReadMe">如果您觉得 纯纯写作 很棒，希望它能更好地坚持开发下去，可否愿意花一点点钱作为对于开发者的激励？\n\n这能够使我们一直坚持好的方向，良心的产品，同时激励更多的独立开发者。\n\n您可以点击「Google Play」按钮，开启 Google Pay 支付。或者点击「支付宝」购买激活码。作为回报，<b>付费后，将获得「另存为」和「自定义稿纸背景」等高级功能，对于不断更新的高级内容不再收费</b>。\n纯纯写作因为您的支持而能够不断更新、完善，非常感谢您的支持！</string>
   <string name="preview">预览</string>
@@ -643,4 +643,15 @@
   <string name="realYes">是</string>
   <string name="askOverwriteSettings">我们将会使用您的备份文件中的文章数据库覆盖本地文章数据库，但我们不知道您是否需要我们使用备份文件中的配置项覆盖本地的配置项。请选择：</string>
   <string name="privacyPolicySummary">纯纯写作不会收集您的任何隐私信息</string>
+  <string name="sortingOptions">排序选项</string>
+  <string name="modifyOrderOfChapters">修改章节的顺序</string>
+  <string name="modifyOrderOfCategories">修改卷的顺序</string>
+  <string name="saveAsTxtFile">保存为 .txt 文件</string>
+  <string name="saveAsMdFile">保存为 .md 文件</string>
+  <string name="saveAsLongImage">保存为长图片(.png)</string>
+  <string name="previewThemeSmartisan">主题：仿锤子便签风格</string>
+  <string name="previewThemeDark">主题：暗色</string>
+  <string name="previewThemeLight">主题：亮色</string>
+  <string name="useAppFont">使用应用字体</string>
+  <string name="useSystemFont">使用系统字体</string>
 </resources>

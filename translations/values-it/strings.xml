@@ -579,4 +579,15 @@
   <string name="whetherOverwriteSettings">Volete sovrascrivere le impostazioni locali?</string>
   <string name="askOverwriteSettings">Useremo il database degli articoli nel tuo file di backup per sovrascrivere il database locale degli articoli, ma non sappiamo se hai bisogno che usiamo le impostazioni nel file di backup per sovrascrivere le impostazioni locali. Per favore scegliete:</string>
   <string name="privacyPolicySummary">Non raccoglieremo nessuna delle sue informazioni private</string>
+  <string name="sortingOptions">Opzioni di ordinamento</string>
+  <string name="modifyOrderOfChapters">Modifica l\'ordine dei capitoli</string>
+  <string name="modifyOrderOfCategories">Modifica l\'ordine delle Categorie</string>
+  <string name="saveAsTxtFile">Salva come file .txt</string>
+  <string name="saveAsMdFile">Salva come file .md</string>
+  <string name="saveAsLongImage">Salva come immagine lunga (.png)</string>
+  <string name="previewThemeSmartisan">Tema: Smartisan</string>
+  <string name="previewThemeDark">Tema: Scuro</string>
+  <string name="previewThemeLight">Tema: Luce</string>
+  <string name="useAppFont">Usa il carattere dell\'app</string>
+  <string name="useSystemFont">Usa carattere di sistema</string>
 </resources>

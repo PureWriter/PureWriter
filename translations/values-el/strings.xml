@@ -614,4 +614,15 @@
   <string name="undo">Ξεκάνω</string>
   <string name="redo">Ξανακάνω</string>
   <string name="merging">Συγχώνευση…</string>
+  <string name="sortingOptions">Επιλογές ταξινόμησης</string>
+  <string name="modifyOrderOfChapters">Τροποποιήστε τη σειρά των κεφαλαίων</string>
+  <string name="modifyOrderOfCategories">Τροποποιήστε τη σειρά των Κατηγοριών</string>
+  <string name="saveAsTxtFile">Αποθήκευση ως αρχείο .txt</string>
+  <string name="saveAsMdFile">Αποθήκευση ως αρχείο .md</string>
+  <string name="saveAsLongImage">Αποθήκευση ως μεγάλης εικόνας (.png)</string>
+  <string name="previewThemeSmartisan">Θέμα: Smartisan</string>
+  <string name="previewThemeDark">Θέμα: Σκοτεινό</string>
+  <string name="previewThemeLight">Θέμα: Φως</string>
+  <string name="useAppFont">Χρησιμοποιήστε γραμματοσειρά εφαρμογής</string>
+  <string name="useSystemFont">Χρησιμοποιήστε γραμματοσειρά συστήματος</string>
 </resources>

@@ -613,4 +613,19 @@
   <string name="realYes">Да</string>
   <string name="askOverwriteSettings">Ще използваме базата данни със статии във вашия архивен файл, за да презапишем локалната база данни със статии, но не знаем дали трябва да използваме настройките в архивния файл, за да презапишем локалните настройки. Моля, изберете:</string>
   <string name="privacyPolicySummary">Няма да събираме никаква ваша лична информация.</string>
+  <string name="sortingOptions">Опции за сортиране</string>
+  <string name="modifyOrderOfChapters">Променете реда на главите</string>
+  <string name="modifyOrderOfCategories">Променете реда на категориите</string>
+  <string name="saveAsTxtFile">Запазете като .txt файл</string>
+  <string name="saveAsMdFile">Запазете като .md файл</string>
+  <string name="saveAsLongImage">Запазване като дълго изображение (.png)</string>
+  <string name="previewThemeSmartisan">Тема: Smartisan</string>
+  <string name="previewThemeDark">Тема: Тъмно</string>
+  <string name="previewThemeLight">Тема: Светлина</string>
+  <string name="useAppFont">Използвайте шрифт на приложението</string>
+  <string name="useSystemFont">Използвайте системен шрифт</string>
+  <string name="wordCountModeEntriesItem1">Изключване на интервали и прекъсвания на редове</string>
+  <string name="wordCountModeEntriesItem2">Включете всички символи и текст</string>
+  <string name="wordCountModeEntriesItem3"><b>Изключете всички препинателни знаци</b>, интервали и прекъсвания на редове</string>
+  <string name="timeMachineHintInput">Съобщение</string>
 </resources>

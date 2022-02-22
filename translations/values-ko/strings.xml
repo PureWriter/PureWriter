@@ -579,4 +579,15 @@
   <string name="askOverwriteSettings">백업 파일의 기사 데이터베이스를 사용하여 로컬 기사 데이터베이스를 덮어쓰지만 백업 파일의 설정을 사용하여 로컬 설정을 덮어써야 하는지 여부는 알 수 없습니다. 선택하십시오:</string>
   <string name="privacyPolicySummary">우리는 귀하의 개인 정보를 수집하지 않습니다</string>
   <string name="messageThankYouForYourSupport">귀하의 지원은 Pure Writer 를 더 잘 개발하고 더 많은 독립 개발자에게 동기를 부여하면서 뛰어난 제품을 만들 수 있도록 합니다. \n\nPure Writer 는 여러분의 지원 덕분에 지속적으로 업데이트되고 개선될 수 있습니다. 매우 감사합니다!</string>
+  <string name="sortingOptions">정렬 옵션</string>
+  <string name="modifyOrderOfChapters">챕터 순서 수정</string>
+  <string name="modifyOrderOfCategories">카테고리 순서 수정</string>
+  <string name="saveAsTxtFile">.txt 파일로 저장</string>
+  <string name="saveAsMdFile">.md 파일로 저장</string>
+  <string name="saveAsLongImage">긴 이미지(.png)로 저장</string>
+  <string name="previewThemeSmartisan">테마: Smartisan</string>
+  <string name="previewThemeDark">테마: 다크</string>
+  <string name="previewThemeLight">주제: 빛</string>
+  <string name="useAppFont">앱 글꼴 사용</string>
+  <string name="useSystemFont">시스템 글꼴 사용</string>
 </resources>

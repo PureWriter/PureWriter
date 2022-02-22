@@ -595,4 +595,15 @@
   <string name="realYes">ใช่</string>
   <string name="askOverwriteSettings">เราจะใช้ฐานข้อมูลบทความในไฟล์สำรองของคุณเพื่อเขียนทับฐานข้อมูลบทความในเครื่อง แต่เราไม่ทราบว่าคุณต้องการให้เราใช้การตั้งค่าในไฟล์สำรองเพื่อเขียนทับการตั้งค่าในเครื่องหรือไม่ กรุณาเลือก:</string>
   <string name="privacyPolicySummary">เราจะไม่รวบรวมข้อมูลส่วนบุคคลใด ๆ ของคุณ</string>
+  <string name="sortingOptions">ตัวเลือกการเรียงลำดับ</string>
+  <string name="modifyOrderOfChapters">แก้ไขลำดับของบท</string>
+  <string name="modifyOrderOfCategories">แก้ไขลำดับของหมวดหมู่</string>
+  <string name="useSystemFont">ใช้แบบอักษรของระบบ</string>
+  <string name="useAppFont">ใช้แบบอักษรของแอป</string>
+  <string name="previewThemeLight">กระทู้: แสง</string>
+  <string name="previewThemeDark">กระทู้: มืด</string>
+  <string name="previewThemeSmartisan">กระทู้: Smartisan</string>
+  <string name="saveAsLongImage">บันทึกเป็นรูปภาพขนาดยาว (.png)</string>
+  <string name="saveAsMdFile">บันทึกเป็นไฟล์ .md</string>
+  <string name="saveAsTxtFile">บันทึกเป็นไฟล์ .txt</string>
 </resources>

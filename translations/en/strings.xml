@@ -686,4 +686,15 @@
   <string name="realYes">Yes</string>
   <string name="askOverwriteSettings">We will use the article database in your backup file to overwrite the local article database, but we don\'t know if you need us to use the settings in the backup file to overwrite the local settings. Please choose:</string>
   <string name="privacyPolicySummary">We will not collect any of your private information</string>
+  <string name="sortingOptions">Sorting options</string>
+  <string name="modifyOrderOfChapters">Modify the order of Chapters</string>
+  <string name="modifyOrderOfCategories">Modify the order of Categories</string>
+  <string name="saveAsTxtFile">Save as .txt file</string>
+  <string name="saveAsMdFile">Save as .md file</string>
+  <string name="saveAsLongImage">Save as long image (.png)</string>
+  <string name="previewThemeSmartisan">Theme: Smartisan</string>
+  <string name="previewThemeDark">Theme: Dark</string>
+  <string name="previewThemeLight">Theme: Light</string>
+  <string name="useAppFont">Use app font</string>
+  <string name="useSystemFont">Use system font</string>
 </resources>

@@ -610,4 +610,15 @@
   <string name="merging">Sloučení...</string>
   <string name="updating">Aktualizace...</string>
   <string name="once">někdy</string>
+  <string name="sortingOptions">Možnosti řazení</string>
+  <string name="modifyOrderOfChapters">Upravte pořadí kapitol</string>
+  <string name="modifyOrderOfCategories">Upravte pořadí kategorií</string>
+  <string name="saveAsTxtFile">Uložit jako soubor .txt</string>
+  <string name="saveAsMdFile">Uložit jako soubor .md</string>
+  <string name="saveAsLongImage">Uložit jako dlouhý obrázek (.png)</string>
+  <string name="previewThemeSmartisan">Téma: Smartisan</string>
+  <string name="previewThemeDark">Téma: Tmavý</string>
+  <string name="previewThemeLight">Téma: Světlo</string>
+  <string name="useAppFont">Použijte písmo aplikace</string>
+  <string name="useSystemFont">Použijte systémové písmo</string>
 </resources>

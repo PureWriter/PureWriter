@@ -569,4 +569,15 @@
   <string name="whetherOverwriteSettings">क्या आप स्थानीय सेटिंग्स को अधिलेखित करना चाहते हैं?</string>
   <string name="askOverwriteSettings">हम स्थानीय लेख डेटाबेस को अधिलेखित करने के लिए आपकी बैकअप फ़ाइल में आलेख डेटाबेस का उपयोग करेंगे, लेकिन हम नहीं जानते कि स्थानीय सेटिंग्स को अधिलेखित करने के लिए आपको बैकअप फ़ाइल में सेटिंग्स का उपयोग करने की आवश्यकता है या नहीं। कृपया चुने:</string>
   <string name="privacyPolicySummary">हम आपकी कोई भी निजी जानकारी एकत्र नहीं करेंगे</string>
+  <string name="modifyOrderOfCategories">श्रेणियों के क्रम को संशोधित करें</string>
+  <string name="modifyOrderOfChapters">अध्यायों के क्रम को संशोधित करें</string>
+  <string name="sortingOptions">छँटाई विकल्प</string>
+  <string name="useSystemFont">सिस्टम फ़ॉन्ट का प्रयोग करें</string>
+  <string name="useAppFont">ऐप फ़ॉन्ट का प्रयोग करें</string>
+  <string name="previewThemeLight">थीम: लाइट</string>
+  <string name="previewThemeDark">थीम: डार्क</string>
+  <string name="previewThemeSmartisan">थीम: Smartisan</string>
+  <string name="saveAsLongImage">लंबी छवि के रूप में सहेजें (.png)</string>
+  <string name="saveAsMdFile">.md फ़ाइल के रूप में सहेजें</string>
+  <string name="saveAsTxtFile">.txt फ़ाइल के रूप में सहेजें</string>
 </resources>

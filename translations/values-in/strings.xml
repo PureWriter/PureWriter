@@ -575,4 +575,15 @@
   <string name="whetherOverwriteSettings">Apakah Anda ingin menimpa pengaturan lokal?</string>
   <string name="askOverwriteSettings">Kami akan menggunakan database artikel di file cadangan Anda untuk menimpa database artikel lokal, tetapi kami tidak tahu apakah Anda memerlukan kami untuk menggunakan pengaturan di file cadangan untuk menimpa pengaturan lokal. Tolong pilih:</string>
   <string name="privacyPolicySummary">Kami tidak akan mengumpulkan informasi pribadi Anda</string>
+  <string name="modifyOrderOfCategories">Ubah urutan Kategori</string>
+  <string name="modifyOrderOfChapters">Ubah urutan Bab</string>
+  <string name="sortingOptions">Opsi pengurutan</string>
+  <string name="useSystemFont">Gunakan font sistem</string>
+  <string name="useAppFont">Gunakan font aplikasi</string>
+  <string name="previewThemeLight">Tema: Cahaya</string>
+  <string name="previewThemeDark">Tema: Gelap</string>
+  <string name="previewThemeSmartisan">Tema: Smartisan</string>
+  <string name="saveAsLongImage">Simpan sebagai gambar panjang (.png)</string>
+  <string name="saveAsMdFile">Simpan sebagai file .md</string>
+  <string name="saveAsTxtFile">Simpan sebagai file .txt</string>
 </resources>

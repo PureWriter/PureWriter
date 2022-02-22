@@ -623,4 +623,15 @@
   <string name="typewriterModeMode0">Kappaletila</string>
   <string name="merging">Yhdistetään…</string>
   <string name="once">koskaan</string>
+  <string name="modifyOrderOfCategories">Muokkaa kategorioiden järjestystä</string>
+  <string name="modifyOrderOfChapters">Muokkaa lukujen järjestystä</string>
+  <string name="sortingOptions">Lajitteluvaihtoehdot</string>
+  <string name="saveAsTxtFile">Tallenna .txt-tiedostona</string>
+  <string name="saveAsMdFile">Tallenna .md-tiedostona</string>
+  <string name="saveAsLongImage">Tallenna pitkänä kuvana (.png)</string>
+  <string name="previewThemeSmartisan">Teema: Smartisan</string>
+  <string name="previewThemeDark">Teema: Tumma</string>
+  <string name="previewThemeLight">Teema: Valo</string>
+  <string name="useAppFont">Käytä sovellusfonttia</string>
+  <string name="useSystemFont">Käytä järjestelmäfonttia</string>
 </resources>

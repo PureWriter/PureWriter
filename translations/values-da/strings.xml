@@ -614,5 +614,16 @@
   <string name="typewriterModeMode0">Afsnitstilstand</string>
   <string name="typewriterModeMode1">Linjetilstand</string>
   <string name="updating">Opdaterer...</string>
+  <string name="modifyOrderOfCategories">Rediger rækkefølgen af kategorier</string>
+  <string name="modifyOrderOfChapters">Ændre rækkefølgen af kapitler</string>
+  <string name="sortingOptions">Sorteringsmuligheder</string>
+  <string name="saveAsTxtFile">Gem som .txt-fil</string>
+  <string name="saveAsMdFile">Gem som .md-fil</string>
+  <string name="saveAsLongImage">Gem som langt billede (.png)</string>
+  <string name="previewThemeSmartisan">Tema: Smartisan</string>
+  <string name="previewThemeDark">Tema: Mørk</string>
+  <string name="previewThemeLight">Tema: Lys</string>
+  <string name="useAppFont">Brug app-skrifttype</string>
+  <string name="useSystemFont">Brug systemskrifttype</string>
 </resources>
 

@@ -598,4 +598,15 @@
   <string name="realYes">Ja</string>
   <string name="askOverwriteSettings">Vi kommer att använda artikeldatabasen i din säkerhetskopia för att skriva över den lokala artikeldatabasen, men vi vet inte om du vill att vi ska använda inställningarna i säkerhetskopian för att skriva över de lokala inställningarna. Välj:</string>
   <string name="privacyPolicySummary">Vi kommer inte att samla in någon av dina privata uppgifter</string>
+  <string name="modifyOrderOfCategories">Ändra ordningen på kategorierna</string>
+  <string name="modifyOrderOfChapters">Ändra ordningen på kapitlen</string>
+  <string name="sortingOptions">Sorteringsalternativ</string>
+  <string name="saveAsTxtFile">Spara som .txt-fil</string>
+  <string name="saveAsMdFile">Spara som .md-fil</string>
+  <string name="saveAsLongImage">Spara som lång bild (.png)</string>
+  <string name="previewThemeSmartisan">Tema: Smartisan</string>
+  <string name="previewThemeDark">Tema: Mörkt</string>
+  <string name="previewThemeLight">Tema: Ljus</string>
+  <string name="useAppFont">Använd app-font</string>
+  <string name="useSystemFont">Använd systemteckensnitt</string>
 </resources>

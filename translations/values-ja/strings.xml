@@ -579,4 +579,20 @@
   <string name="whetherOverwriteSettings">ローカル設定を上書きしますか？</string>
   <string name="askOverwriteSettings">バックアップファイル内の記事データベースを使用してローカルの記事データベースを上書きしますが、バックアップファイル内の設定を使用してローカルの設定を上書きする必要があるかどうかはわかりません。選択してください。</string>
   <string name="privacyPolicySummary">お客様の個人情報を収集することはございません</string>
+  <string name="modifyOrderOfCategories">カテゴリの順序を変更する</string>
+  <string name="modifyOrderOfChapters">章の順序を変更する</string>
+  <string name="sortingOptions">並べ替えオプション</string>
+  <string name="useSystemFont">システムフォントを使用する</string>
+  <string name="useAppFont">アプリフォントを使用する</string>
+  <string name="previewThemeLight">テーマ：光</string>
+  <string name="previewThemeDark">テーマ：ダーク</string>
+  <string name="previewThemeSmartisan">テーマ：Smartisan</string>
+  <string name="saveAsLongImage">長い画像として保存（.png）</string>
+  <string name="saveAsMdFile">.mdファイルとして保存</string>
+  <string name="saveAsTxtFile">.txtファイルとして保存</string>
+  <string name="migrateImageAssetsSummary">これにより、Markdownから参照されるすべての画像を新しいデバイスに一元的に転送することができます。この操作の後、Documents/PureWriter/Assetsフォルダを新しいデバイスの同じディレクトリにコピーし、デバイスBackupを新しいデバイスに復元すれば、新しいデバイスはスムーズに元の画像を参照することができるようになります。</string>
+  <string name="migrateImageAssets">Markdownの画像をDocuments/PureWriter/Assetsディレクトリに移行する</string>
+  <string name="optionsForTheFewPeople">少数派のための選択肢</string>
+  <string name="summaryPie">提供すべきでない設定も提供する</string>
+  <string name="tipGoogleDriveAppScope">ヒント：Googleドライブのアプリ・プライベートディレクトリはユーザーから見えないため、ブリッジ機能は自動的に無効化されます。</string>
 </resources>

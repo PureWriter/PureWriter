@@ -624,4 +624,15 @@
   <string name="no">Kanselahin</string>
   <string name="books">Books</string>
   <string name="currentChapter">Kasalukuyang kabanata</string>
+  <string name="sortingOptions">Mga pagpipilian sa pag-uuri</string>
+  <string name="modifyOrderOfChapters">Baguhin ang pagkakasunud-sunod ng mga Kabanata</string>
+  <string name="modifyOrderOfCategories">Baguhin ang pagkakasunud-sunod ng Mga Kategorya</string>
+  <string name="useSystemFont">Gumamit ng font ng system</string>
+  <string name="useAppFont">Gumamit ng font ng app</string>
+  <string name="previewThemeLight">Tema: Liwanag</string>
+  <string name="previewThemeDark">Tema: Madilim</string>
+  <string name="previewThemeSmartisan">Tema: Smartisan</string>
+  <string name="saveAsLongImage">I-save bilang mahabang larawan (.png)</string>
+  <string name="saveAsMdFile">I-save bilang .md file</string>
+  <string name="saveAsTxtFile">I-save bilang .txt file</string>
 </resources>

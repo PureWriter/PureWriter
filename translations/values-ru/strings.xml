@@ -571,4 +571,15 @@
   <string name="whetherOverwriteSettings">Хотите перезаписать локальные настройки?</string>
   <string name="askOverwriteSettings">Мы будем использовать базу данных статей в вашем резервном файле для перезаписи локальной базы данных статей, но мы не знаем, нужно ли вам, чтобы мы использовали настройки в резервном файле для перезаписи локальных настроек. Пожалуйста, выберите:</string>
   <string name="privacyPolicySummary">Мы не будем собирать никакую вашу частную информацию</string>
+  <string name="modifyOrderOfCategories">Изменить порядок категорий</string>
+  <string name="modifyOrderOfChapters">Изменить порядок глав</string>
+  <string name="sortingOptions">Параметры сортировки</string>
+  <string name="saveAsTxtFile">Сохранить как файл .txt</string>
+  <string name="saveAsMdFile">Сохранить как файл .md</string>
+  <string name="saveAsLongImage">Сохранить как длинное изображение (.png)</string>
+  <string name="previewThemeSmartisan">Тема: Мастерская</string>
+  <string name="previewThemeDark">Тема: Темный</string>
+  <string name="previewThemeLight">Тема: Свет</string>
+  <string name="useAppFont">Использовать шрифт приложения</string>
+  <string name="useSystemFont">Использовать системный шрифт</string>
 </resources>

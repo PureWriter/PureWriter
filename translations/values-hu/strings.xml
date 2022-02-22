@@ -602,4 +602,15 @@
   <string name="realYes">Igen</string>
   <string name="askOverwriteSettings">A biztonsági mentési fájlban lévő cikkadatbázist a helyi cikkadatbázis felülírására fogjuk használni, de nem tudjuk, hogy szükséged van-e arra, hogy a biztonsági mentési fájlban lévő beállításokat használjuk a helyi beállítások felülírására. Kérjük, válassza ezt a lehetőséget:</string>
   <string name="privacyPolicySummary">Nem gyűjtünk semmilyen személyes adatot</string>
+  <string name="sortingOptions">Rendezési lehetőségek</string>
+  <string name="modifyOrderOfChapters">Módosítsa a fejezetek sorrendjét</string>
+  <string name="modifyOrderOfCategories">Módosítsa a kategóriák sorrendjét</string>
+  <string name="saveAsTxtFile">Mentés .txt fájlként</string>
+  <string name="saveAsMdFile">Mentés .md fájlként</string>
+  <string name="saveAsLongImage">Mentés hosszú képként (.png)</string>
+  <string name="previewThemeSmartisan">Téma: Smartisan</string>
+  <string name="previewThemeDark">Téma: Sötét</string>
+  <string name="previewThemeLight">Téma: Fény</string>
+  <string name="useAppFont">Használja az alkalmazás betűtípusát</string>
+  <string name="useSystemFont">Rendszer betűtípus használata</string>
 </resources>

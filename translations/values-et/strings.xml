@@ -616,4 +616,15 @@
   <string name="empty">Tühi</string>
   <string name="insertCategoryAboveLong">Sisesta kategooria praeguse artikli <b>ülemale</b></string>
   <string name="desktopDialogNote">Märkus. Pure Writer Desktop on endiselt alfafaasis. Palun mõistke ja oodake selle edasisi värskendusi.\n* Kui näete <b>mitu rida IP-aadresse</b>, proovige need ükshaaval ühendada.</string>
+  <string name="modifyOrderOfCategories">Muutke kategooriate järjekorda</string>
+  <string name="modifyOrderOfChapters">Muutke peatükkide järjekorda</string>
+  <string name="sortingOptions">Sorteerimisvalikud</string>
+  <string name="saveAsTxtFile">Salvesta .txt-failina</string>
+  <string name="saveAsMdFile">Salvesta .md-failina</string>
+  <string name="saveAsLongImage">Salvesta pika pildina (.png)</string>
+  <string name="previewThemeSmartisan">Teema: Smartisan</string>
+  <string name="previewThemeDark">Teema: Tume</string>
+  <string name="previewThemeLight">Teema: Valgus</string>
+  <string name="useAppFont">Kasutage rakenduse fonti</string>
+  <string name="useSystemFont">Kasutage süsteemi fonti</string>
 </resources>

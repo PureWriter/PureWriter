@@ -611,4 +611,15 @@
   <string name="introductionOfReadOnlyMode">* Gdy kursor nie jest widoczny, dwukrotne kliknięcie jest wymagane, aby umieścić kursor i przejść do trybu edycji\n* Gdy kursor jest widoczny, tekst można edytować lub modyfikować jednym kliknięciem w dowolny sposób\n* Gdy kursor jest widoczny, możesz nacisnąć klawisz Wstecz, aby ukryć kursor i przejść do trybu tylko do odczytu</string>
   <string name="orSelectShortcutFunction">Lub wybierz funkcję skrótu</string>
   <string name="messageWhyNeedSAF">Aby lepiej chronić prywatność użytkowników, począwszy od Androida 11, Pure Writer **nie wymaga już pełnych uprawnień do odczytu/zapisu pamięci zewnętrznej**, zamiast tego pozwala **użytkownikom określić katalog folderów**, a Pure Writer będzie miał tylko dostęp do odczytu/ dostęp do zapisu w tym katalogu.\n\nDlatego musisz wybrać folder, klikając poniższy przycisk. Aby przywrócić stare dane podczas ponownej instalacji w przyszłości, **zdecydowanie** zalecamy wybranie folderu ***`Documents`*** 🙏</string>
+  <string name="sortingOptions">Opcje sortowania</string>
+  <string name="modifyOrderOfChapters">Zmień kolejność rozdziałów</string>
+  <string name="modifyOrderOfCategories">Zmień kolejność kategorii</string>
+  <string name="saveAsTxtFile">Zapisz jako plik .txt</string>
+  <string name="saveAsMdFile">Zapisz jako plik .md</string>
+  <string name="saveAsLongImage">Zapisz jako długi obraz (.png)</string>
+  <string name="previewThemeSmartisan">Motyw: Smartisan</string>
+  <string name="previewThemeDark">Motyw: Ciemny</string>
+  <string name="previewThemeLight">Motyw: Światło</string>
+  <string name="useAppFont">Użyj czcionki aplikacji</string>
+  <string name="useSystemFont">Użyj czcionki systemowej</string>
 </resources>

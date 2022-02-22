@@ -609,4 +609,15 @@
   <string name="no">Anulați</string>
   <string name="books">Cărți</string>
   <string name="currentChapter">Capitolul curent</string>
+  <string name="sortingOptions">Opțiuni de sortare</string>
+  <string name="modifyOrderOfChapters">Modificarea ordinii capitolelor</string>
+  <string name="modifyOrderOfCategories">Modificați ordinea categoriilor</string>
+  <string name="useSystemFont">Utilizați fontul de sistem</string>
+  <string name="useAppFont">Folosiți fontul aplicației</string>
+  <string name="previewThemeLight">Tema: Lumina</string>
+  <string name="previewThemeDark">Tema: Întuneric</string>
+  <string name="previewThemeSmartisan">Tema: Smartisan</string>
+  <string name="saveAsLongImage">Salvați ca imagine lungă (.png)</string>
+  <string name="saveAsMdFile">Salvați ca fișier .md</string>
+  <string name="saveAsTxtFile">Salvați ca fișier .txt</string>
 </resources>

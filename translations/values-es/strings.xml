@@ -574,4 +574,21 @@
   <string name="whetherOverwriteSettings">¿Quiere sobrescribir la configuración local?</string>
   <string name="askOverwriteSettings">Utilizaremos la base de datos de artículos de su archivo de copia de seguridad para sobrescribir la base de datos de artículos local, pero no sabemos si necesita que utilicemos la configuración del archivo de copia de seguridad para sobrescribir la configuración local. Por favor, elija:</string>
   <string name="privacyPolicySummary">No recogeremos ninguna información privada suya</string>
+  <string name="sortingOptions">Opciones de clasificación</string>
+  <string name="modifyOrderOfChapters">Modificar el orden de los capítulos</string>
+  <string name="modifyOrderOfCategories">Modificar el orden de las Categorías</string>
+  <string name="useSystemFont">Usar fuente del sistema</string>
+  <string name="useAppFont">Usar la fuente de la aplicación</string>
+  <string name="previewThemeLight">Tema: Luz</string>
+  <string name="previewThemeDark">Tema: Oscuro</string>
+  <string name="previewThemeSmartisan">Tema: Smartisan</string>
+  <string name="saveAsLongImage">Guardar como imagen larga (.png)</string>
+  <string name="saveAsMdFile">Guardar como archivo .md</string>
+  <string name="saveAsTxtFile">Guardar como archivo .txt</string>
+  <string name="tipGoogleDriveAppScope">Consejo: Como el directorio privado de la aplicación de Google Drive no es visible para los usuarios, la función Bridge se desactivará automáticamente.</string>
+  <string name="wordCountModeEntriesItem1">Excluir espacios y saltos de línea</string>
+  <string name="wordCountModeEntriesItem2">Incluir todos los símbolos y textos</string>
+  <string name="wordCountModeEntriesItem3"><b>Excluir todos los signos de puntuación</b>, espacios y saltos de línea</string>
+  <string name="migrateImageAssetsSummary">Esto le ayuda a transferir de forma centralizada todas las imágenes referenciadas por su Markdown a su nuevo dispositivo. Después de esta operación, puede copiar la carpeta Documents/PureWriter/Assets en el mismo directorio del nuevo dispositivo y, a continuación, restaurar la copia de seguridad del dispositivo en el nuevo dispositivo, para que éste pueda referenciar sin problemas las imágenes originales.</string>
+  <string name="migrateImageAssets">Migrar las imágenes de Markdown al directorio Documents/PureWriter/Assets</string>
 </resources>

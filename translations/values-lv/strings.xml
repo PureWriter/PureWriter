@@ -613,4 +613,15 @@
   <string name="yes">Labi</string>
   <string name="no">Atcelt</string>
   <string name="books">Grāmatas</string>
+  <string name="modifyOrderOfCategories">Mainiet kategoriju secību</string>
+  <string name="modifyOrderOfChapters">Mainiet nodaļu secību</string>
+  <string name="sortingOptions">Šķirošanas iespējas</string>
+  <string name="useSystemFont">Izmantojiet sistēmas fontu</string>
+  <string name="useAppFont">Izmantojiet lietotnes fontu</string>
+  <string name="previewThemeLight">Tēma: Gaisma</string>
+  <string name="previewThemeDark">Tēma: Tumšs</string>
+  <string name="previewThemeSmartisan">Tēma: Smartisan</string>
+  <string name="saveAsLongImage">Saglabāt kā garu attēlu (.png)</string>
+  <string name="saveAsMdFile">Saglabāt kā .md failu</string>
+  <string name="saveAsTxtFile">Saglabāt kā .txt failu</string>
 </resources>
