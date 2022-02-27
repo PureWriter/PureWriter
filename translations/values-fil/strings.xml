@@ -258,7 +258,7 @@
   <string name="connectDesktop">Connect Desktop version</string>
   <string name="disconnectDesktop">Idiskonekta ang bersyon ng Desktop</string>
   <string name="tipNotSupportThisDesktopVersion">Ang kasalukuyang mga bersyon ng mobile at desktop ay hindi tugma at hindi maaaring konektado. Paki-update pareho sa pinakabagong bersyon at subukang muli.</string>
-  <string name="desktopDialogGuide">Kailangan mong i-download ang <b><i>Pure Writer Desktop1.5.1 (o mas mataas)</i></b> mula sa https://writer.drakeet.com/desktop_en \n \nKapag ang iyong mobile at computer ay nasa <b>parehong Wi-Fi network o hotspot👈👈👈</b>, buksan ang Desktop at ilagay ang IP address sa ibaba <b>sa input field ng Desktop</b> upang kumonekta sa Pure Writer, pagkatapos ay maaari mong i-sync at i-edit ang kasalukuyang artikulo nang real time.</string>
+  <string name="desktopDialogGuide">Kailangan mong i-download ang <b><i>Pure Writer Desktop1.5.2 (o mas mataas)</i></b> mula sa https://writer.drakeet.com/desktop_en \n \nKapag ang iyong mobile at computer ay nasa <b>parehong Wi-Fi network o hotspot👈👈👈</b>, buksan ang Desktop at ilagay ang IP address sa ibaba <b>sa input field ng Desktop</b> upang kumonekta sa Pure Writer, pagkatapos ay maaari mong i-sync at i-edit ang kasalukuyang artikulo nang real time.</string>
   <string name="desktopDialogNote">Tandaan: Nasa alpha stage pa rin ang Pure Writer Desktop. Mangyaring unawain at hintayin ang mga kasunod na update nito.\n* Kung makakita ka ng <b>maraming linya ng mga IP address</b>, subukang ikonekta ang mga ito nang paisa-isa.</string>
   <string name="connectionIsStopping">Tumitigil ang koneksyon, subukang muli mamaya!</string>
 

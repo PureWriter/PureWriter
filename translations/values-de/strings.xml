@@ -522,7 +522,7 @@
     <string name="connectDesktop">Verbinden mit dem Desktop</string>
   <string name="disconnectDesktop">Trennen des Desktops</string>
   <string name="connect">Verbinden</string>
-  <string name="desktopDialogGuide">Sie müssen <b><i>Pure Writer Desktop1.5.1 (oder höher)</i></b> von https://writer.drakeet.com/desktop_en herunterladen. \n\nWenn sich Ihr Handy und Ihr Computer im <b>das gleiche Wi-Fi-Netzwerk oder Hotspot👈👈👈</b> befinden, öffnen Sie Desktop und geben Sie die IP-Adresse unten <b>in das Eingabefeld von Desktop</b> ein, um sich mit Pure Writer zu verbinden, dann können Sie den aktuellen Artikel in Echtzeit synchronisieren und bearbeiten.</string>
+  <string name="desktopDialogGuide">Sie müssen <b><i>Pure Writer Desktop1.5.2 (oder höher)</i></b> von https://writer.drakeet.com/desktop_en herunterladen. \n\nWenn sich Ihr Handy und Ihr Computer im <b>das gleiche Wi-Fi-Netzwerk oder Hotspot👈👈👈</b> befinden, öffnen Sie Desktop und geben Sie die IP-Adresse unten <b>in das Eingabefeld von Desktop</b> ein, um sich mit Pure Writer zu verbinden, dann können Sie den aktuellen Artikel in Echtzeit synchronisieren und bearbeiten.</string>
   <string name="connectionIsStopping">Die Verbindung wird unterbrochen, versuchen Sie es später erneut!</string>
   <string name="stop_waiting_connection">Hören Sie auf, auf Verbindungen zu warten</string>
   <string name="desktopDisconnected">Desktop ist nicht verbunden</string>

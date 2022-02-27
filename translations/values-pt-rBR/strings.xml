@@ -376,7 +376,7 @@
   <string name="password">Senha</string>
   <string name="nightMode">Modo Noturno</string>
   <string name="connectDesktop">Conectar Desktop</string>
-  <string name="desktopDialogGuide">Você precisa baixar o <b><i>Pure Writer Desktop1.5.1 (ou superior)</i></b> em https://writer.drakeet.com/desktop_en \n\nQuando seu dispositivo móvel e seu PC estiverem na <b>mesma rede Wi-Fi ou roteador</b>, abra o desktop e insira o endereço IP abaixo <b>na caixa de entrada</b> para conectar ao Pure Writer, assim você será capaz de sincronizar e editar o artigo atual em tempo real.</string>
+  <string name="desktopDialogGuide">Você precisa baixar o <b><i>Pure Writer Desktop1.5.2 (ou superior)</i></b> em https://writer.drakeet.com/desktop_en \n\nQuando seu dispositivo móvel e seu PC estiverem na <b>mesma rede Wi-Fi ou roteador</b>, abra o desktop e insira o endereço IP abaixo <b>na caixa de entrada</b> para conectar ao Pure Writer, assim você será capaz de sincronizar e editar o artigo atual em tempo real.</string>
   <string name="disconnectDesktop">Desconectar Desktop</string>
   <string name="connect">Conectar</string>
   <string name="desktopDialogNote">Nota: o Pure Writer Desktop ainda está em estágio alfa. Por favor, entenda e aguarde novas atualizações. \n* Se você ver <b>múltiplas linhas de endereços IPs</b>, tente conectá-los um por um.</string>

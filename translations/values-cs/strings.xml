@@ -306,7 +306,7 @@
   <string name="disconnectDesktop">Odpojení verze Desktop</string>
   <string name="connect">Připojit</string>
   <string name="tipNotSupportThisDesktopVersion">Aktuální mobilní a desktopová verze se neshodují a nelze je připojit. Aktualizujte prosím obě verze na nejnovější a zkuste to znovu.</string>
-  <string name="desktopDialogGuide">Musíte si stáhnout <b><i>Pure Writer Desktop1.5.1 (nebo vyšší)</i></b> z adresy https://writer.drakeet.com/desktop_en \n\nPokud jsou váš mobilní telefon a počítač ve <b>stejné síti Wi-Fi nebo hotspotu👈👈👈</b>, otevřete aplikaci Desktop a zadejte níže uvedenou IP adresu <b>do vstupního pole aplikace Desktop</b>, abyste se připojili k aplikaci Pure Writer, pak můžete synchronizovat a upravovat aktuální článek v reálném čase.</string>
+  <string name="desktopDialogGuide">Musíte si stáhnout <b><i>Pure Writer Desktop1.5.2 (nebo vyšší)</i></b> z adresy https://writer.drakeet.com/desktop_en \n\nPokud jsou váš mobilní telefon a počítač ve <b>stejné síti Wi-Fi nebo hotspotu👈👈👈</b>, otevřete aplikaci Desktop a zadejte níže uvedenou IP adresu <b>do vstupního pole aplikace Desktop</b>, abyste se připojili k aplikaci Pure Writer, pak můžete synchronizovat a upravovat aktuální článek v reálném čase.</string>
   <string name="desktopDialogNote">Poznámka: Aplikace Pure Writer Desktop je stále ve fázi alfa. Prosíme o pochopení a vyčkejte na jeho následné aktualizace.\n* Pokud se zobrazí <b>více řádků IP adres</b>, zkuste je připojit jeden po druhém.</string>
   <string name="connectionIsStopping">Připojení se zastavuje, zkuste to později!</string>
   <string name="createShortcutLabel">Textová zkratka</string>

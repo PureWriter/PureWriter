@@ -529,7 +529,7 @@
   <string name="connectDesktop">डेस्कटॉप से कनेक्ट करें</string>
   <string name="disconnectDesktop">डेस्कटॉप को डिस्कनेक्ट करें</string>
   <string name="connect">कनेक्ट करें</string>
-  <string name="desktopDialogGuide">आपको https://writer.drakeet.com/desktop_en से <b><i> Pure Writer Desktop1.5.1 (या इससे ऊपर) </i></b> डाउनलोड करना होगा\n\nजब आपका मोबाइल और कंप्यूटर <b> एक ही वाई-फाई नेटवर्क या हॉटस्पॉट </b> पर हो, तो डेस्कटॉप खोलें और नीचे दिए गए IP पते को Pure Writer से कनेक्ट करने के लिए डेस्कटॉप के इनपुट फ़ील्ड में दर्ज करें, फिर आप सिंक कर सकते हैं और वर्तमान लेख को वास्तविक समय में संपादित करें।</string>
+  <string name="desktopDialogGuide">आपको https://writer.drakeet.com/desktop_en से <b><i> Pure Writer Desktop1.5.2 (या इससे ऊपर) </i></b> डाउनलोड करना होगा\n\nजब आपका मोबाइल और कंप्यूटर <b> एक ही वाई-फाई नेटवर्क या हॉटस्पॉट </b> पर हो, तो डेस्कटॉप खोलें और नीचे दिए गए IP पते को Pure Writer से कनेक्ट करने के लिए डेस्कटॉप के इनपुट फ़ील्ड में दर्ज करें, फिर आप सिंक कर सकते हैं और वर्तमान लेख को वास्तविक समय में संपादित करें।</string>
   <string name="connectionIsStopping">कनेक्शन रुक रहा है, बाद में पुन: प्रयास करें!</string>
   <string name="stop_waiting_connection">कनेक्शन के लिए इंतजार करना बंद करो</string>
   <string name="desktopDisconnected">डेस्कटॉप काट दिया गया है</string>
