@@ -629,7 +629,6 @@
   <string name="selectALightTheme">請選擇一亮色主題</string>
   <string name="selectADarkTheme">請選擇一暗色主題</string>
   <string name="selectATheme">請選擇主題</string>
-  <string name="tipBadPaper">您選擇的圖片或顏色不符合要求，請重新選擇</string>
   <string name="fixedThemeTitle">固定、不自動切換</string>
   <string name="followSystemThemeTitle">跟隨系統自動切換</string>
   <string name="scheduledThemeTitle">根據時間自動切換：\n7:00 - 17:00 採用亮色，其餘時間暗色</string>
@@ -652,4 +651,25 @@
   <string name="previewThemeLight">主題：亮色</string>
   <string name="useAppFont">使用應用字體</string>
   <string name="useSystemFont">使用系統字體</string>
+  <string name="tipBadThemeBackground">當前選擇的背景圖片或顏色與當前主題的字體顏色不匹配，請重新選擇，如果您認為此提示錯誤，請忽略此提示。</string>
+  <string name="keywordDetection">敏感詞</string>
+  <string name="confirmDeletion">確認刪除</string>
+  <string name="addAKeyword">新增敏感詞</string>
+  <string name="clearAllKeywords">清空所有敏感詞</string>
+  <string name="pleaseSeeTheKeywordsFile">請見敏感詞文件</string>
+  <string name="export">匯出</string>
+  <string name="import2">匯入</string>
+  <string name="keywordsAreAsFollow">敏感詞內容如下，一行一個</string>
+  <string name="tipEmptyKeywords">目前[敏感詞]庫為空，您可以點擊頂部的添加或匯入按鈕匯入敏感詞，符合敏感詞的文字將會在編輯器中被即時標註出來。</string>
+  <string name="keywordsManagement">敏感詞管理</string>
+  <string name="uploadingKeywordsToCloud">正在上傳敏感詞到雲端...</string>
+  <string name="downloadingKeywordsFromCloud">正在從雲端下載敏感詞...</string>
+  <string name="keywordRetrieval">敏感詞檢索</string>
+  <string name="retrieveCurrentArticle">檢索目前文章</string>
+  <string name="previousOne">上一個</string>
+  <string name="nextOne">下一個</string>
+  <string name="uploadToCloudStorage">上傳到雲端硬碟</string>
+  <string name="downloadFromCloudStorage">從雲端硬碟拉取</string>
+  <string name="disableKeywordsFeature">禁用敏感詞功能</string>
+  <string name="filter">過濾或搜尋</string>
 </resources>

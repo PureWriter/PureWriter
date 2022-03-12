@@ -191,6 +191,7 @@
   <string name="trashFolderTip">Vous ne pouvez pas créer un nouveau fichier dans le dossier de la corbeille!</string>
   <plurals name="confirmDeleteMessages">
     <item quantity="one">Êtes-vous sûr de supprimer ce %d message?</item>
+    <item quantity="many">Êtes-vous sûr de supprimer ces %d messages?</item>
     <item quantity="other">Êtes-vous sûr de supprimer ces %d messages?</item>
   </plurals>
   <string name="tipLandscapeOrientation">Veuillez utiliser un clavier externe en mode paysage</string>
@@ -562,7 +563,6 @@
   <string name="selectALightTheme">Sélectionnez un thème lumineux</string>
   <string name="selectADarkTheme">Sélectionnez un thème sombre</string>
   <string name="selectATheme">Sélectionnez un thème</string>
-  <string name="tipBadPaper">L\'image ou la couleur que vous avez sélectionnée ne répond pas aux exigences, veuillez sélectionner à nouveau</string>
   <string name="fixedThemeTitle">Fixe, ne change pas automatiquement</string>
   <string name="followSystemThemeTitle">Suivre le système (Sync avec OS)</string>
   <string name="scheduledThemeTitle">Commutation automatique en fonction de l\'heure:\n7h00-17h00 utiliser le thème clair, sinon le thème sombre</string>
@@ -629,4 +629,25 @@
   <string name="totalNumberOfNewTimeMachineMessagesInserted">Nombre total de nouveaux messages de machines à affranchir insérés</string>
   <string name="mergeDone">C\'est fait !</string>
   <string name="relaunch">Relancez</string>
+  <string name="tipBadThemeBackground">L\'image ou la couleur d\'arrière-plan actuellement sélectionnée ne correspond pas à la couleur de police du thème actuel, veuillez la sélectionner à nouveau ou ignorer cette invite si vous pensez qu\'elle est erronée.</string>
+  <string name="keywordDetection">Détection de mots clés</string>
+  <string name="confirmDeletion">Confirmer la suppression</string>
+  <string name="addAKeyword">Ajouter un mot clé</string>
+  <string name="clearAllKeywords">Effacer tous les mots clés</string>
+  <string name="pleaseSeeTheKeywordsFile">Veuillez consulter le fichier de mots-clés</string>
+  <string name="export">Exporter</string>
+  <string name="import2">Importer</string>
+  <string name="keywordsAreAsFollow">Les mots clés sont les suivants, un par ligne</string>
+  <string name="filter">Filtre</string>
+  <string name="tipEmptyKeywords">La bibliothèque [mot-clé] actuelle est vide, vous pouvez cliquer sur le bouton Ajouter ou Importer en haut pour importer le mot-clé, et le texte qui correspond au mot-clé sera marqué dans l\'éditeur en temps réel. </string>
+  <string name="keywordsManagement">Gestion des mots clés</string>
+  <string name="uploadingKeywordsToCloud">Télécharger des mots-clés sur votre stockage cloud...</string>
+  <string name="downloadingKeywordsFromCloud">Téléchargement des mots-clés depuis votre stockage cloud...</string>
+  <string name="keywordRetrieval">Récupération de mots-clés</string>
+  <string name="retrieveCurrentArticle">Récupérer l\'article actuel</string>
+  <string name="previousOne">Précédent</string>
+  <string name="nextOne">Suivant</string>
+  <string name="uploadToCloudStorage">Télécharger vers le stockage cloud</string>
+  <string name="downloadFromCloudStorage">Télécharger à partir du stockage cloud</string>
+  <string name="disableKeywordsFeature">Désactiver la fonctionnalité de mots-clés</string>
 </resources>

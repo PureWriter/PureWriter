@@ -555,7 +555,6 @@
   <string name="selectALightTheme">Выберите светлую тему</string>
   <string name="selectADarkTheme">Выберите темную тему</string>
   <string name="selectATheme">Выберите тему</string>
-  <string name="tipBadPaper">Выбранное изображение или цвет не соответствуют требованиям, выберите еще раз.</string>
   <string name="fixedThemeTitle">Исправлено, не переключаться автоматически</string>
   <string name="followSystemThemeTitle">Следить за системой (синхронизация с ОС)</string>
   <string name="scheduledThemeTitle">Автоматическое переключение по времени:\n7: 00-17: 00 используйте светлую тему, в противном случае темную тему.</string>
@@ -582,4 +581,25 @@
   <string name="previewThemeLight">Тема: Свет</string>
   <string name="useAppFont">Использовать шрифт приложения</string>
   <string name="useSystemFont">Использовать системный шрифт</string>
+  <string name="tipBadThemeBackground">Текущее выбранное фоновое изображение или цвет не соответствует цвету шрифта текущей темы, выберите его еще раз или проигнорируйте это приглашение, если считаете, что оно неверно.</string>
+  <string name="keywordDetection">Распознавание ключевых слов</string>
+  <string name="confirmDeletion">Подтвердить удаление</string>
+  <string name="addAKeyword">Добавить ключевое слово</string>
+  <string name="clearAllKeywords">Удалить все ключевые слова</string>
+  <string name="pleaseSeeTheKeywordsFile">Пожалуйста, посмотрите файл ключевых слов</string>
+  <string name="export">Экспорт</string>
+  <string name="import2">Импорт</string>
+  <string name="keywordsAreAsFollow">Ключевые слова следующие, по одному в строке</string>
+  <string name="filter">Фильтр</string>
+  <string name="tipEmptyKeywords">Текущая библиотека [ключевых слов] пуста, вы можете нажать кнопку "Добавить" или "Импорт" вверху, чтобы импортировать ключевое слово, и текст, соответствующий ключевому слову, будет отмечен в редакторе в режиме реального времени. </string>
+  <string name="keywordsManagement">Управление ключевыми словами</string>
+  <string name="uploadingKeywordsToCloud">Загрузка ключевых слов в облачное хранилище...</string>
+  <string name="downloadingKeywordsFromCloud">Загрузка ключевых слов из облачного хранилища...</string>
+  <string name="keywordRetrieval">Поиск ключевых слов</string>
+  <string name="retrieveCurrentArticle">Получить текущую статью</string>
+  <string name="previousOne">Предыдущий</string>
+  <string name="nextOne">Следующий</string>
+  <string name="uploadToCloudStorage">Загрузить в облачное хранилище</string>
+  <string name="downloadFromCloudStorage">Загрузить из облачного хранилища</string>
+  <string name="disableKeywordsFeature">Отключить функцию ключевых слов</string>
 </resources>

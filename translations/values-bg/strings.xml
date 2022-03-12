@@ -601,7 +601,6 @@
   <string name="selectALightTheme">Изберете светла тема</string>
   <string name="selectADarkTheme">Изберете тъмна тема</string>
   <string name="selectATheme">Изберете тема</string>
-  <string name="tipBadPaper">Изображението или цветът, които сте избрали, не отговарят на изискванията, моля, изберете отново</string>
   <string name="fixedThemeTitle">Поправено, не се превключва автоматично</string>
   <string name="followSystemThemeTitle">Следване на системата (Синхронизиране с операционната система)</string>
   <string name="scheduledThemeTitle">Автоматично превключване в зависимост от времето:\n7:00-17:00 използвайте светла тема, в противен случай тъмна тема</string>
@@ -628,4 +627,27 @@
   <string name="wordCountModeEntriesItem2">Включете всички символи и текст</string>
   <string name="wordCountModeEntriesItem3"><b>Изключете всички препинателни знаци</b>, интервали и прекъсвания на редове</string>
   <string name="timeMachineHintInput">Съобщение</string>
+  <string name="tipBadThemeBackground">Избраното в момента фоново изображение или цвят не съвпада с цвета на шрифта на текущата тема, моля, изберете го отново или игнорирайте тази подкана, ако смятате, че тази подкана е грешна.</string>
+  <string name="forcedBlackTextColor">Принудително черен цвят на текста</string>
+  <string name="forcedWhiteTextColor">Принудително бял цвят на текста</string>
+  <string name="keywordDetection">Откриване на ключова дума</string>
+  <string name="confirmDeletion">Потвърдете изтриването</string>
+  <string name="addAKeyword">Добавяне на ключова дума</string>
+  <string name="clearAllKeywords">Изчистване на всички ключови думи</string>
+  <string name="pleaseSeeTheKeywordsFile">Моля, вижте файла с ключови думи</string>
+  <string name="export">Експортиране</string>
+  <string name="import2">Импортиране</string>
+  <string name="keywordsAreAsFollow">Ключовите думи са както следва, по една на ред</string>
+  <string name="filter">Филтър</string>
+  <string name="tipEmptyKeywords">Текущата библиотека [ключова дума] е празна, можете да щракнете върху бутона Добавяне или Импортиране в горната част, за да импортирате ключовата дума и текстът, който съответства на ключовата дума, ще бъде маркиран в редактора в реално време. </string>
+  <string name="keywordsManagement">Управление на ключови думи</string>
+  <string name="uploadingKeywordsToCloud">Качване на ключови думи във вашето облачно хранилище...</string>
+  <string name="downloadingKeywordsFromCloud">Изтегляне на ключови думи от вашето облачно хранилище...</string>
+  <string name="keywordRetrieval">Извличане на ключова дума</string>
+  <string name="retrieveCurrentArticle">Извличане на текущата статия</string>
+  <string name="previousOne">Предишна</string>
+  <string name="nextOne">Следващ</string>
+  <string name="uploadToCloudStorage">Качване в облачно хранилище</string>
+  <string name="downloadFromCloudStorage">Изтегляне от облачно хранилище</string>
+  <string name="disableKeywordsFeature">Деактивиране на функцията за ключови думи</string>
 </resources>

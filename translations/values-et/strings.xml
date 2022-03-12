@@ -599,7 +599,6 @@
   <string name="selectALightTheme">Valida kerge teema</string>
   <string name="selectADarkTheme">Valige tume teema</string>
   <string name="selectATheme">Vali teema</string>
-  <string name="tipBadPaper">Valitud pilt või värv ei vasta nõuetele, palun valige uuesti</string>
   <string name="fixedThemeTitle">Parandatud, ärge lülituge automaatselt</string>
   <string name="followSystemThemeTitle">Süsteemi järgimine (sünkroonimine operatsioonisüsteemiga)</string>
   <string name="scheduledThemeTitle">Automaatne ümberlülitamine vastavalt kellaajale:\n7:00–17:00 kasuta heledat teemat, muidu tumedat teemat</string>
@@ -627,4 +626,27 @@
   <string name="previewThemeLight">Teema: Valgus</string>
   <string name="useAppFont">Kasutage rakenduse fonti</string>
   <string name="useSystemFont">Kasutage süsteemi fonti</string>
+  <string name="tipBadThemeBackground">Praegu valitud taustapilt või -värv ei ühti praeguse teema fondivärviga, palun valige see uuesti või ignoreerige seda viipa, kui arvate, et see viip on vale.</string>
+  <string name="forcedBlackTextColor">Sunni must teksti värv</string>
+  <string name="forcedWhiteTextColor">Sunni valge teksti värv</string>
+  <string name="keywordDetection">Märksõna tuvastamine</string>
+  <string name="confirmDeletion">Kinnitage kustutamine</string>
+  <string name="addAKeyword">Lisage märksõna</string>
+  <string name="clearAllKeywords">Kustutage kõik märksõnad</string>
+  <string name="pleaseSeeTheKeywordsFile">Vaadake märksõnade faili</string>
+  <string name="export">Ekspordi</string>
+  <string name="import2">Impordi</string>
+  <string name="keywordsAreAsFollow">Märksõnad on järgmised, üks rea kohta</string>
+  <string name="filter">Filter</string>
+  <string name="tipEmptyKeywords">Praegune teek [märksõna] on tühi, märksõna importimiseks võite klõpsata ülaosas nupul Lisa või Impordi ning märksõnale vastav tekst märgitakse redaktoris reaalajas. </string>
+  <string name="keywordsManagement">Märksõnade haldamine</string>
+  <string name="uploadingKeywordsToCloud">Märksõnade üleslaadimine teie pilvesalvestusse...</string>
+  <string name="downloadingKeywordsFromCloud">Märksõnade allalaadimine teie pilvesalvestusest...</string>
+  <string name="keywordRetrieval">Märksõna otsimine</string>
+  <string name="retrieveCurrentArticle">Too praegune artikkel</string>
+  <string name="previousOne">Eelmine</string>
+  <string name="nextOne">Järgmine</string>
+  <string name="uploadToCloudStorage">Laadi üles pilvesalvestusse</string>
+  <string name="downloadFromCloudStorage">Laadi alla pilvesalvestusest</string>
+  <string name="disableKeywordsFeature">Keela märksõnade funktsioon</string>
 </resources>

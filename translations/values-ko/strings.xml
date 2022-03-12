@@ -562,7 +562,6 @@
   <string name="selectALightTheme">밝은 테마 선택</string>
   <string name="selectADarkTheme">어두운 테마 선택</string>
   <string name="selectATheme">테마 선택</string>
-  <string name="tipBadPaper">선택한 이미지 또는 색상이 요구 사항을 충족하지 않습니다. 다시 선택하십시오.</string>
   <string name="fixedThemeTitle">수정됨, 자동으로 전환하지 않음</string>
   <string name="followSystemThemeTitle">시스템 팔로우(OS와 동기화)</string>
   <string name="scheduledThemeTitle">시간에 따른 자동 전환:\n7:00–17:00 밝은 테마 사용, 그렇지 않으면 어두운 테마 사용</string>
@@ -590,4 +589,25 @@
   <string name="previewThemeLight">주제: 빛</string>
   <string name="useAppFont">앱 글꼴 사용</string>
   <string name="useSystemFont">시스템 글꼴 사용</string>
+  <string name="tipBadThemeBackground">현재 선택한 배경 이미지 또는 색상이 현재 테마의 글꼴 색상과 일치하지 않습니다. 다시 선택하거나 이 프롬프트가 잘못되었다고 생각되면 이 프롬프트를 무시하십시오.</string>
+  <string name="keywordDetection">키워드 감지</string>
+  <string name="confirmDeletion">삭제 확인</string>
+  <string name="addAKeyword">키워드 추가</string>
+  <string name="clearAllKeywords">모든 키워드 지우기</string>
+  <string name="pleaseSeeTheKeywordsFile">키워드 파일을 참조하십시오.</string>
+  <string name="export">내보내기</string>
+  <string name="import2">가져오기</string>
+  <string name="keywordsAreAsFollow">키워드는 다음과 같습니다. 한 줄에 하나씩</string>
+  <string name="filter">필터</string>
+  <string name="tipEmptyKeywords">현재 [keyword] 라이브러리는 비어 있으며, 상단의 추가 또는 가져오기 버튼을 클릭하여 키워드를 가져올 수 있으며, 키워드와 일치하는 텍스트는 실시간으로 편집기에 표시됩니다. </string>
+  <string name="keywordsManagement">키워드 관리</string>
+  <string name="uploadingKeywordsToCloud">클라우드 저장소에 키워드 업로드 중...</string>
+  <string name="downloadingKeywordsFromCloud">클라우드 저장소에서 키워드 다운로드 중...</string>
+  <string name="keywordRetrieval">키워드 검색</string>
+  <string name="retrieveCurrentArticle">현재 기사 검색</string>
+  <string name="previousOne">이전</string>
+  <string name="nextOne">다음 항목</string>
+  <string name="uploadToCloudStorage">클라우드 스토리지에 업로드</string>
+  <string name="downloadFromCloudStorage">클라우드 저장소에서 다운로드</string>
+  <string name="disableKeywordsFeature">키워드 기능 비활성화</string>
 </resources>

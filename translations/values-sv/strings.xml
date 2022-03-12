@@ -586,7 +586,6 @@
   <string name="selectALightTheme">Välj ett ljust tema</string>
   <string name="selectADarkTheme">Välj ett mörkt tema</string>
   <string name="selectATheme">Välj ett tema</string>
-  <string name="tipBadPaper">Bilden eller färgen du valde uppfyller inte kraven, välj igen.</string>
   <string name="fixedThemeTitle">Fastställd, växlar inte automatiskt</string>
   <string name="followSystemThemeTitle">Följ systemet (synkronisera med operativsystemet)</string>
   <string name="scheduledThemeTitle">Automatisk växling enligt tid:\n7:00-17:00 använder ljus tema, annars mörkt tema</string>
@@ -609,4 +608,27 @@
   <string name="previewThemeLight">Tema: Ljus</string>
   <string name="useAppFont">Använd app-font</string>
   <string name="useSystemFont">Använd systemteckensnitt</string>
+  <string name="tipBadThemeBackground">Den för närvarande valda bakgrundsbilden eller färgen stämmer inte överens med teckensnittsfärgen för det aktuella temat, vänligen välj det igen, eller ignorera denna uppmaning om du tycker att den här uppmaningen är fel.</string>
+  <string name="forcedBlackTextColor">Forcera svart textfärg</string>
+  <string name="forcedWhiteTextColor">Forcera vit textfärg</string>
+  <string name="keywordDetection">Sökordsidentifiering</string>
+  <string name="confirmDeletion">Bekräfta borttagning</string>
+  <string name="addAKeyword">Lägg till ett sökord</string>
+  <string name="clearAllKeywords">Rensa alla sökord</string>
+  <string name="pleaseSeeTheKeywordsFile">Se sökordsfilen</string>
+  <string name="export">Exportera</string>
+  <string name="import2">Importera</string>
+  <string name="keywordsAreAsFollow">Nyckelorden är följande, ett per rad</string>
+  <string name="filter">Filter</string>
+  <string name="tipEmptyKeywords">Det aktuella [keyword]-biblioteket är tomt, du kan klicka på knappen Lägg till eller Importera högst upp för att importera nyckelordet, och texten som matchar nyckelordet kommer att markeras i redigeraren i realtid. </string>
+  <string name="keywordsManagement">Sökordshantering</string>
+  <string name="uploadingKeywordsToCloud">Överför sökord till din molnlagring...</string>
+  <string name="downloadingKeywordsFromCloud">Hämtar sökord från din molnlagring...</string>
+  <string name="keywordRetrieval">Hämtning av sökord</string>
+  <string name="retrieveCurrentArticle">Hämta aktuell artikel</string>
+  <string name="previousOne">Föregående</string>
+  <string name="nextOne">Nästa</string>
+  <string name="uploadToCloudStorage">Ladda upp till molnlagring</string>
+  <string name="downloadFromCloudStorage">Ladda ner från molnlagring</string>
+  <string name="disableKeywordsFeature">Inaktivera sökordsfunktionen</string>
 </resources>

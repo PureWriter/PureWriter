@@ -524,7 +524,7 @@
   <string name="previous">पिछला</string>
   <string name="rating">रेटिंग</string>
   <string name="customFontTipForAndroid11">Android 11+ को इसे प्रभावी बनाने के लिए फ़ॉन्ट फ़ाइल का चयन करने की आवश्यकता है</string>
-    <string name="shareText">सिफारिश: Pure Writer एक फीचर-भरा टेक्स्ट एडिटिंग ऐप है जो आपको इसकी विशेषताओं के साथ मानसिक शांति प्रदान करता है: इतिहास रिकॉर्ड्स, बहु-परत सुरक्षा जो आपको अपनी कीमती सामग्री को खोने से रोकता है, और एक आरामदायक लेखन वातावरण भी। https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
+  <string name="shareText">सिफारिश: Pure Writer एक फीचर-भरा टेक्स्ट एडिटिंग ऐप है जो आपको इसकी विशेषताओं के साथ मानसिक शांति प्रदान करता है: इतिहास रिकॉर्ड्स, बहु-परत सुरक्षा जो आपको अपनी कीमती सामग्री को खोने से रोकता है, और एक आरामदायक लेखन वातावरण भी। https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="shareMessage">यदि आप Pure Writer का उपयोग करने का आनंद लेते हैं, तो कृपया हमें इस शब्द को फैलाने में मदद करें! अपने दोस्तों के साथ साझा करने के लिए दाईं ओर दिए गए शेयर बटन पर क्लिक करें। यह हमारे लिए बहुत मायने रखेगा और आपके समर्थन के कारण इसमें सुधार होने पर एप्लिकेशन को धन्यवाद!\n\nअधिक जानने के लिए, कृपया देखें: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="connectDesktop">डेस्कटॉप से कनेक्ट करें</string>
   <string name="disconnectDesktop">डेस्कटॉप को डिस्कनेक्ट करें</string>
@@ -553,7 +553,6 @@
   <string name="selectALightTheme">एक हल्की थीम चुनें</string>
   <string name="selectADarkTheme">एक डार्क थीम चुनें</string>
   <string name="selectATheme">एक विषय का चयन करें</string>
-  <string name="tipBadPaper">आपके द्वारा चयनित छवि या रंग आवश्यकता को पूरा नहीं करता है, कृपया फिर से चयन करें</string>
   <string name="fixedThemeTitle">फिक्स्ड, स्वचालित रूप से स्विच न करें</string>
   <string name="followSystemThemeTitle">सिस्टम का पालन करें (OS के साथ सिंक करें)</string>
   <string name="scheduledThemeTitle">समय के अनुसार ऑटो स्विच:\n7:00-17: 00 लाइट थीम का उपयोग करें, अन्यथा डार्क थीम</string>
@@ -580,4 +579,25 @@
   <string name="saveAsLongImage">लंबी छवि के रूप में सहेजें (.png)</string>
   <string name="saveAsMdFile">.md फ़ाइल के रूप में सहेजें</string>
   <string name="saveAsTxtFile">.txt फ़ाइल के रूप में सहेजें</string>
+  <string name="tipBadThemeBackground">वर्तमान में चयनित पृष्ठभूमि छवि या रंग वर्तमान थीम के फ़ॉन्ट रंग से मेल नहीं खाता है, कृपया इसे फिर से चुनें, या यदि आपको लगता है कि यह संकेत गलत है तो इस संकेत को अनदेखा करें।</string>
+  <string name="keywordDetection">कीवर्ड डिटेक्शन</string>
+  <string name="confirmDeletion">हटाने की पुष्टि करें</string>
+  <string name="addAKeyword">एक कीवर्ड जोड़ें</string>
+  <string name="clearAllKeywords">सभी कीवर्ड साफ़ करें</string>
+  <string name="pleaseSeeTheKeywordsFile">कृपया कीवर्ड फ़ाइल देखें</string>
+  <string name="export">निर्यात करें</string>
+  <string name="import2">आयात करें</string>
+  <string name="keywordsAreAsFollow">कीवर्ड इस प्रकार हैं, प्रति पंक्ति एक</string>
+  <string name="filter">फ़िल्टर करें</string>
+  <string name="tipEmptyKeywords">वर्तमान [कीवर्ड] लाइब्रेरी खाली है, आप कीवर्ड आयात करने के लिए शीर्ष पर जोड़ें या आयात करें बटन पर क्लिक कर सकते हैं, और कीवर्ड से मेल खाने वाला टेक्स्ट रीयल टाइम में संपादक में चिह्नित किया जाएगा। </string>
+  <string name="keywordsManagement">कीवर्ड प्रबंधन</string>
+  <string name="uploadingKeywordsToCloud">कीवर्ड को आपके क्लाउड स्टोरेज में अपलोड कर रहा है...</string>
+  <string name="downloadingKeywordsFromCloud">आपके क्लाउड स्टोरेज से कीवर्ड डाउनलोड हो रहे हैं...</string>
+  <string name="keywordRetrieval">कीवर्ड पुनर्प्राप्ति</string>
+  <string name="retrieveCurrentArticle">वर्तमान लेख पुनर्प्राप्त करें</string>
+  <string name="previousOne">पिछला वाला</string>
+  <string name="nextOne">अगला एक</string>
+  <string name="uploadToCloudStorage">क्लाउड स्टोरेज पर अपलोड करें</string>
+  <string name="downloadFromCloudStorage">क्लाउड स्टोरेज से डाउनलोड करें</string>
+  <string name="disableKeywordsFeature">कीवर्ड फीचर अक्षम करें</string>
 </resources>

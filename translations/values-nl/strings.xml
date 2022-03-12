@@ -554,7 +554,6 @@
   <string name="selectALightTheme">Selecteer een licht thema</string>
   <string name="selectADarkTheme">Selecteer een donker thema</string>
   <string name="selectATheme">Kies een thema</string>
-  <string name="tipBadPaper">De afbeelding of kleur die je hebt geselecteerd voldoet niet aan de vereiste, selecteer opnieuw</string>
   <string name="fixedThemeTitle">Vast, niet automatisch overschakelen</string>
   <string name="followSystemThemeTitle">Systeem volgen (Synchroniseren met OS)</string>
   <string name="scheduledThemeTitle">Automatisch schakelen volgens tijd:\n7:00-17:00 gebruik een licht thema, anders een donker thema</string>
@@ -625,4 +624,25 @@
   <string name="editInVerticalCenterSummary">Zorgt ervoor dat de huidige bewerkte regel altijd in het midden van het scherm staat (Kan ongeldig zijn, dit is een probleem met de invoermethode, sorry daarvoor!)</string>
   <string name="migrateImageAssets">Markdown-afbeeldingen migreren naar map Documents/PureWriter/Assets</string>
   <string name="migrateImageAssetsSummary">Dit helpt u om alle afbeeldingen waarnaar uw Markdown verwijst centraal over te zetten naar uw nieuwe apparaat. Na deze operatie kunt u de map Documents/PureWriter/Assets naar dezelfde map van het nieuwe apparaat kopiëren en vervolgens de apparaatback-up terugzetten op het nieuwe apparaat, zodat het nieuwe apparaat probleemloos naar de oorspronkelijke afbeeldingen kan verwijzen.</string>
+  <string name="tipBadThemeBackground">De momenteel geselecteerde achtergrondafbeelding of kleur komt niet overeen met de letterkleur van het huidige thema. Selecteer deze opnieuw of negeer deze prompt als u denkt dat deze prompt onjuist is.</string>
+  <string name="keywordDetection">Zoekwoorddetectie</string>
+  <string name="confirmDeletion">Verwijdering bevestigen</string>
+  <string name="addAKeyword">Voeg een trefwoord toe</string>
+  <string name="clearAllKeywords">Wis alle zoekwoorden</string>
+  <string name="pleaseSeeTheKeywordsFile">Zie het trefwoordenbestand</string>
+  <string name="export">Exporteren</string>
+  <string name="import2">Importeren</string>
+  <string name="keywordsAreAsFollow">De zoekwoorden zijn als volgt, één per regel</string>
+  <string name="filter">Filter</string>
+  <string name="tipEmptyKeywords">De huidige [keyword]-bibliotheek is leeg, je kunt bovenaan op de knop Toevoegen of Importeren klikken om het trefwoord te importeren, en de tekst die overeenkomt met het trefwoord wordt in realtime gemarkeerd in de editor. </string>
+  <string name="keywordsManagement">Zoekwoordenbeheer</string>
+  <string name="uploadingKeywordsToCloud">Trefwoorden uploaden naar je cloudopslag...</string>
+  <string name="downloadingKeywordsFromCloud">Trefwoorden downloaden van uw cloudopslag...</string>
+  <string name="keywordRetrieval">Zoekwoord ophalen</string>
+  <string name="retrieveCurrentArticle">Huidige artikel ophalen</string>
+  <string name="previousOne">Vorige</string>
+  <string name="nextOne">Volgende</string>
+  <string name="uploadToCloudStorage">Uploaden naar cloudopslag</string>
+  <string name="downloadFromCloudStorage">Downloaden van cloudopslag</string>
+  <string name="disableKeywordsFeature">De functie voor zoekwoorden uitschakelen</string>
 </resources>

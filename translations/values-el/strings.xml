@@ -596,7 +596,6 @@
   <string name="selectALightTheme">Επιλογή ελαφρού θέματος</string>
   <string name="selectADarkTheme">Επιλογή ενός σκοτεινού θέματος</string>
   <string name="selectATheme">Επιλογή ενός θέματος</string>
-  <string name="tipBadPaper">Η εικόνα ή το χρώμα που επιλέξατε δεν ανταποκρίνεται στις απαιτήσεις, παρακαλούμε επιλέξτε ξανά</string>
   <string name="fixedThemeTitle">Το θέμα έχει καθοριστεί, δεν αλλάζει αυτόματα</string>
   <string name="followSystemThemeTitle">Ακολουθήστε το σύστημα (Συγχρονισμός με το λειτουργικό σύστημα)</string>
   <string name="scheduledThemeTitle">Αυτόματη εναλλαγή ανάλογα με την ώρα:\n7:00-17:00 χρησιμοποιήστε ανοιχτό θέμα, διαφορετικά σκούρο θέμα</string>
@@ -625,4 +624,27 @@
   <string name="previewThemeLight">Θέμα: Φως</string>
   <string name="useAppFont">Χρησιμοποιήστε γραμματοσειρά εφαρμογής</string>
   <string name="useSystemFont">Χρησιμοποιήστε γραμματοσειρά συστήματος</string>
+  <string name="tipBadThemeBackground">Η τρέχουσα επιλεγμένη εικόνα φόντου ή χρώμα δεν ταιριάζει με το χρώμα της γραμματοσειράς του τρέχοντος θέματος, επιλέξτε το ξανά ή αγνοήστε αυτό το μήνυμα εάν πιστεύετε ότι αυτό το μήνυμα είναι λάθος.</string>
+  <string name="forcedBlackTextColor">Επιβολή μαύρου χρώματος κειμένου</string>
+  <string name="forcedWhiteTextColor">Επιβολή λευκού χρώματος κειμένου</string>
+  <string name="keywordDetection">Ανίχνευση λέξεων-κλειδιών</string>
+  <string name="confirmDeletion">Επιβεβαίωση διαγραφής</string>
+  <string name="addAKeyword">Προσθέστε μια λέξη-κλειδί</string>
+  <string name="clearAllKeywords">Εκκαθάριση όλων των λέξεων-κλειδιών</string>
+  <string name="pleaseSeeTheKeywordsFile">Δείτε το αρχείο λέξεων-κλειδιών</string>
+  <string name="export">Εξαγωγή</string>
+  <string name="import2">Εισαγωγή</string>
+  <string name="keywordsAreAsFollow">Οι λέξεις-κλειδιά είναι οι εξής, μία ανά γραμμή</string>
+  <string name="filter">Φίλτρο</string>
+  <string name="tipEmptyKeywords">Η τρέχουσα βιβλιοθήκη [λέξεων-κλειδιών] είναι κενή, μπορείτε να κάνετε κλικ στο κουμπί Προσθήκη ή Εισαγωγή στο επάνω μέρος για να εισαγάγετε τη λέξη-κλειδί και το κείμενο που ταιριάζει με τη λέξη-κλειδί θα επισημανθεί στο πρόγραμμα επεξεργασίας σε πραγματικό χρόνο. </string>
+  <string name="keywordsManagement">Διαχείριση λέξεων-κλειδιών</string>
+  <string name="uploadingKeywordsToCloud">Μεταφόρτωση λέξεων-κλειδιών στο χώρο αποθήκευσης cloud...</string>
+  <string name="downloadingKeywordsFromCloud">Λήψη λέξεων-κλειδιών από τον αποθηκευτικό χώρο στο cloud...</string>
+  <string name="keywordRetrieval">Ανάκτηση λέξης-κλειδιού</string>
+  <string name="retrieveCurrentArticle">Ανάκτηση τρέχοντος άρθρου</string>
+  <string name="previousOne">Προηγούμενο</string>
+  <string name="nextOne">Επόμενο</string>
+  <string name="uploadToCloudStorage">Μεταφόρτωση στο χώρο αποθήκευσης cloud</string>
+  <string name="downloadFromCloudStorage">Λήψη από αποθήκευση στο cloud</string>
+  <string name="disableKeywordsFeature">Απενεργοποίηση της λειτουργίας λέξεων-κλειδιών</string>
 </resources>

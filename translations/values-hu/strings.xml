@@ -590,7 +590,6 @@
   <string name="selectALightTheme">Világos téma kiválasztása</string>
   <string name="selectADarkTheme">Sötét téma kiválasztása</string>
   <string name="selectATheme">Válasszon témát</string>
-  <string name="tipBadPaper">A kiválasztott kép vagy szín nem felel meg a követelménynek, kérjük, válassza ki újra.</string>
   <string name="fixedThemeTitle">Javítva, nem kapcsol automatikusan</string>
   <string name="followSystemThemeTitle">Kövesse a rendszert (szinkronizálás az operációs rendszerrel)</string>
   <string name="scheduledThemeTitle">Automatikus váltás az idő függvényében:\n7:00-17:00 világos téma, különben sötét téma</string>
@@ -613,4 +612,25 @@
   <string name="previewThemeLight">Téma: Fény</string>
   <string name="useAppFont">Használja az alkalmazás betűtípusát</string>
   <string name="useSystemFont">Rendszer betűtípus használata</string>
+  <string name="tipBadThemeBackground">Az aktuálisan kiválasztott háttérkép vagy -szín nem egyezik az aktuális téma betűszínével, kérjük, válassza ki újra, vagy hagyja figyelmen kívül ezt a figyelmeztetést, ha úgy gondolja, hogy ez hibás.</string>
+  <string name="keywordDetection">Kulcsszóészlelés</string>
+  <string name="confirmDeletion">Törlés megerősítése</string>
+  <string name="addAKeyword">Kulcsszó hozzáadása</string>
+  <string name="clearAllKeywords">Az összes kulcsszó törlése</string>
+  <string name="pleaseSeeTheKeywordsFile">Kérjük, tekintse meg a kulcsszófájlt</string>
+  <string name="export">Exportálás</string>
+  <string name="import2">Importálás</string>
+  <string name="keywordsAreAsFollow">A kulcsszavak a következők, soronként egy</string>
+  <string name="filter">Szűrő</string>
+  <string name="tipEmptyKeywords">A jelenlegi [kulcsszó] könyvtár üres, a tetején található Hozzáadás vagy Importálás gombra kattintva importálhatja a kulcsszót, és a kulcsszónak megfelelő szöveg valós időben meg lesz jelölve a szerkesztőben. </string>
+  <string name="keywordsManagement">Kulcsszavak kezelése</string>
+  <string name="uploadingKeywordsToCloud">Kulcsszavak feltöltése a felhőtárhelyre...</string>
+  <string name="downloadingKeywordsFromCloud">Kulcsszavak letöltése a felhőalapú tárhelyről...</string>
+  <string name="keywordRetrieval">Kulcsszó lekérése</string>
+  <string name="retrieveCurrentArticle">Az aktuális cikk lekérése</string>
+  <string name="previousOne">Előző</string>
+  <string name="nextOne">Következő</string>
+  <string name="uploadToCloudStorage">Feltöltés felhőtárhelyre</string>
+  <string name="downloadFromCloudStorage">Letöltés felhőtárhelyről</string>
+  <string name="disableKeywordsFeature">A kulcsszavak funkció letiltása</string>
 </resources>

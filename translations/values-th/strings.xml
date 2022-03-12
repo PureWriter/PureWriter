@@ -583,7 +583,6 @@
   <string name="selectALightTheme">เลือกธีมสีอ่อน</string>
   <string name="selectADarkTheme">เลือกธีมสีเข้ม</string>
   <string name="selectATheme">เลือกธีม</string>
-  <string name="tipBadPaper">รูปภาพหรือสีที่คุณเลือกไม่ตรงตามข้อกำหนด กรุณาเลือกอีกครั้ง</string>
   <string name="fixedThemeTitle">แก้ไขแล้วไม่เปลี่ยนโดยอัตโนมัติ</string>
   <string name="followSystemThemeTitle">ระบบติดตาม (ซิงค์กับระบบปฏิบัติการ)</string>
   <string name="scheduledThemeTitle">สลับอัตโนมัติตามเวลา:\n7:00–17:00 ใช้ธีมสีอ่อน หรือธีมสีเข้ม</string>
@@ -606,4 +605,27 @@
   <string name="saveAsLongImage">บันทึกเป็นรูปภาพขนาดยาว (.png)</string>
   <string name="saveAsMdFile">บันทึกเป็นไฟล์ .md</string>
   <string name="saveAsTxtFile">บันทึกเป็นไฟล์ .txt</string>
+  <string name="tipBadThemeBackground">รูปภาพหรือสีพื้นหลังที่เลือกอยู่ในปัจจุบันไม่ตรงกับสีแบบอักษรของธีมปัจจุบัน โปรดเลือกอีกครั้ง หรือละเว้นข้อความแจ้งนี้หากคุณคิดว่าข้อความแจ้งนี้ไม่ถูกต้อง</string>
+  <string name="forcedBlackTextColor">บังคับสีข้อความสีดำ</string>
+  <string name="forcedWhiteTextColor">บังคับสีข้อความสีขาว</string>
+  <string name="keywordDetection">การตรวจหาคีย์เวิร์ด</string>
+  <string name="confirmDeletion">ยืนยันการลบ</string>
+  <string name="addAKeyword">เพิ่มคำสำคัญ</string>
+  <string name="clearAllKeywords">ล้างคีย์เวิร์ดทั้งหมด</string>
+  <string name="pleaseSeeTheKeywordsFile">โปรดดูไฟล์คีย์เวิร์ด</string>
+  <string name="export">ส่งออก</string>
+  <string name="import2">นำเข้า</string>
+  <string name="keywordsAreAsFollow">คีย์เวิร์ดมีดังนี้ หนึ่งคำต่อบรรทัด</string>
+  <string name="filter">ตัวกรอง</string>
+  <string name="tipEmptyKeywords">ไลบรารี [คีย์เวิร์ด] ปัจจุบันว่างเปล่า คุณสามารถคลิกปุ่มเพิ่มหรือนำเข้าที่ด้านบนสุดเพื่อนำเข้าคีย์เวิร์ด และข้อความที่ตรงกับคีย์เวิร์ดจะถูกทำเครื่องหมายในตัวแก้ไขแบบเรียลไทม์ </string>
+  <string name="keywordsManagement">การจัดการคีย์เวิร์ด</string>
+  <string name="uploadingKeywordsToCloud">กำลังอัปโหลดคำหลักไปยังที่เก็บข้อมูลบนคลาวด์ของคุณ...</string>
+  <string name="downloadingKeywordsFromCloud">กำลังดาวน์โหลดคำสำคัญจากที่เก็บข้อมูลบนคลาวด์ของคุณ...</string>
+  <string name="keywordRetrieval">การดึงคีย์เวิร์ด</string>
+  <string name="retrieveCurrentArticle">ดึงข้อมูลบทความปัจจุบัน</string>
+  <string name="previousOne">อันก่อนหน้า</string>
+  <string name="nextOne">อันถัดไป</string>
+  <string name="uploadToCloudStorage">อัปโหลดไปยังที่เก็บข้อมูลบนคลาวด์</string>
+  <string name="downloadFromCloudStorage">ดาวน์โหลดจากที่เก็บข้อมูลบนคลาวด์</string>
+  <string name="disableKeywordsFeature">ปิดใช้งานคุณลักษณะคำหลัก</string>
 </resources>

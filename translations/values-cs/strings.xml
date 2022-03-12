@@ -559,7 +559,6 @@
   <string name="selectALightTheme">Vyberte světlé téma</string>
   <string name="selectADarkTheme">Vyberte tmavé téma</string>
   <string name="selectATheme">Vyberte téma</string>
-  <string name="tipBadPaper">Vybraný obrázek nebo barva nesplňuje požadavky, vyberte prosím znovu</string>
   <string name="fixedThemeTitle">Fixed, nepřepíná se automaticky</string>
   <string name="followSystemThemeTitle">Sledovat systém (synchronizace s OS)</string>
   <string name="scheduledThemeTitle">Automatické přepínání podle času:\n7:00–17:00 použijte světlé téma, jinak tmavé téma</string>
@@ -621,4 +620,27 @@
   <string name="previewThemeLight">Téma: Světlo</string>
   <string name="useAppFont">Použijte písmo aplikace</string>
   <string name="useSystemFont">Použijte systémové písmo</string>
+  <string name="tipBadThemeBackground">Aktuálně vybraný obrázek nebo barva pozadí neodpovídá barvě písma aktuálního motivu, vyberte ji prosím znovu, nebo tuto výzvu ignorujte, pokud si myslíte, že je chybná.</string>
+  <string name="forcedBlackTextColor">Vynutit černou barvu textu</string>
+  <string name="forcedWhiteTextColor">Vynutit bílou barvu textu</string>
+  <string name="keywordDetection">Detekce klíčových slov</string>
+  <string name="confirmDeletion">Potvrdit smazání</string>
+  <string name="addAKeyword">Přidejte klíčové slovo</string>
+  <string name="clearAllKeywords">Vymazat všechna klíčová slova</string>
+  <string name="pleaseSeeTheKeywordsFile">Prohlédněte si soubor klíčových slov</string>
+  <string name="export">Exportovat</string>
+  <string name="import2">Importovat</string>
+  <string name="keywordsAreAsFollow">Klíčová slova jsou následující, jedno na řádek</string>
+  <string name="filter">Filtrovat</string>
+  <string name="tipEmptyKeywords">Aktuální knihovna [klíčových slov] je prázdná, můžete kliknout na tlačítko Přidat nebo Importovat nahoře a importovat klíčové slovo a text, který se s klíčovým slovem shoduje, bude v editoru označen v reálném čase. </string>
+  <string name="keywordsManagement">Správa klíčových slov</string>
+  <string name="uploadingKeywordsToCloud">Nahrávání klíčových slov do cloudového úložiště...</string>
+  <string name="downloadingKeywordsFromCloud">Stahování klíčových slov z vašeho cloudového úložiště...</string>
+  <string name="keywordRetrieval">Načítání klíčových slov</string>
+  <string name="retrieveCurrentArticle">Načíst aktuální článek</string>
+  <string name="previousOne">Předchozí</string>
+  <string name="nextOne">Další</string>
+  <string name="uploadToCloudStorage">Nahrát do cloudového úložiště</string>
+  <string name="downloadFromCloudStorage">Stáhnout z cloudového úložiště</string>
+  <string name="disableKeywordsFeature">Deaktivujte funkci klíčových slov</string>
 </resources>

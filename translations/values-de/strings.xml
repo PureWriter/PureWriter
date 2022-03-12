@@ -546,7 +546,6 @@
   <string name="selectALightTheme">Wählen Sie ein Lichtthema aus</string>
   <string name="selectADarkTheme">Wähle ein dunkles Design</string>
   <string name="selectATheme">Wähle ein Thema</string>
-  <string name="tipBadPaper">Das von Ihnen ausgewählte Bild oder die ausgewählte Farbe entspricht nicht den Anforderungen, bitte erneut auswählen</string>
   <string name="fixedThemeTitle">Behoben, nicht automatisch wechseln</string>
   <string name="followSystemThemeTitle">System folgen (mit OS synchronisieren)</string>
   <string name="scheduledThemeTitle">Automatische Umschaltung nach Zeit:\n7:00-17:00 helles Thema verwenden, ansonsten dunkles Thema</string>
@@ -589,4 +588,25 @@
   <string name="summaryPie">Bereitstellung einiger Einstellungen, die nicht bereitgestellt werden sollten</string>
   <string name="migrateImageAssets">Markdown-Bilder in das Verzeichnis Documents/PureWriter/Assets migrieren</string>
   <string name="migrateImageAssetsSummary">Dies hilft Ihnen, alle Bilder, auf die Ihr Markdown verweist, zentral auf Ihr neues Gerät zu übertragen. Nach diesem Vorgang können Sie den Ordner \"Documents/PureWriter/Assets\" in das gleiche Verzeichnis des neuen Geräts kopieren und dann das Geräte-Backup auf dem neuen Gerät wiederherstellen, so dass das neue Gerät problemlos auf die ursprünglichen Bilder verweisen kann.</string>
+  <string name="tipBadThemeBackground">Das aktuell ausgewählte Hintergrundbild oder die Farbe stimmt nicht mit der Schriftfarbe des aktuellen Designs überein. Bitte wählen Sie es erneut aus oder ignorieren Sie diese Aufforderung, wenn Sie der Meinung sind, dass diese Aufforderung falsch ist.</string>
+  <string name="keywordDetection">Schlüsselworterkennung</string>
+  <string name="confirmDeletion">Löschen bestätigen</string>
+  <string name="addAKeyword">Schlüsselwort hinzufügen</string>
+  <string name="clearAllKeywords">Alle Keywords löschen</string>
+  <string name="pleaseSeeTheKeywordsFile">Bitte sehen Sie sich die Keywords-Datei an</string>
+  <string name="export">Exportieren</string>
+  <string name="import2">Importieren</string>
+  <string name="keywordsAreAsFollow">Die Schlüsselwörter lauten wie folgt, eines pro Zeile</string>
+  <string name="filter">Filter</string>
+  <string name="tipEmptyKeywords">Die aktuelle [Schlüsselwort]-Bibliothek ist leer, Sie können oben auf die Schaltfläche Hinzufügen oder Importieren klicken, um das Schlüsselwort zu importieren, und der Text, der mit dem Schlüsselwort übereinstimmt, wird in Echtzeit im Editor markiert. </string>
+  <string name="keywordsManagement">Schlüsselwortverwaltung</string>
+  <string name="uploadingKeywordsToCloud">Keywords werden in Ihren Cloud-Speicher hochgeladen...</string>
+  <string name="downloadingKeywordsFromCloud">Schlüsselwörter werden aus Ihrem Cloud-Speicher heruntergeladen...</string>
+  <string name="keywordRetrieval">Schlüsselwortabruf</string>
+  <string name="retrieveCurrentArticle">Aktuellen Artikel abrufen</string>
+  <string name="previousOne">Vorheriger</string>
+  <string name="nextOne">Nächster</string>
+  <string name="uploadToCloudStorage">Auf Cloud-Speicher hochladen</string>
+  <string name="downloadFromCloudStorage">Vom Cloud-Speicher herunterladen</string>
+  <string name="disableKeywordsFeature">Keywords-Funktion deaktivieren</string>
 </resources>

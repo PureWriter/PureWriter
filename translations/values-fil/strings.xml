@@ -491,7 +491,6 @@
   <string name="selectALightTheme">Pumili ng magaan na tema</string>
   <string name="selectADarkTheme">Pumili ng madilim na tema</string>
   <string name="selectATheme">Pumili ng tema</string>
-  <string name="tipBadPaper">Ang larawan o kulay na iyong pinili ay hindi nakakatugon sa kinakailangan, mangyaring pumili muli</string>
   <string name="fixedThemeTitle">Naayos na, huwag awtomatikong lumipat</string>
   <string name="followSystemThemeTitle">Sundin ang system (Sync with OS)</string>
   <string name="scheduledThemeTitle">Awtomatikong lumipat ayon sa oras:\n7:00–17:00 gumamit ng magaan na tema, kung hindi man ay madilim na tema</string>
@@ -635,4 +634,27 @@
   <string name="saveAsLongImage">I-save bilang mahabang larawan (.png)</string>
   <string name="saveAsMdFile">I-save bilang .md file</string>
   <string name="saveAsTxtFile">I-save bilang .txt file</string>
+  <string name="tipBadThemeBackground">Ang kasalukuyang napiling larawan o kulay sa background ay hindi tumutugma sa kulay ng font ng kasalukuyang tema, mangyaring piliin itong muli, o huwag pansinin ang prompt na ito kung sa tingin mo ay mali ang prompt na ito.</string>
+  <string name="forcedBlackTextColor">Pilitin ang itim na kulay ng teksto</string>
+  <string name="forcedWhiteTextColor">Pilitin ang puting kulay ng teksto</string>
+  <string name="keywordDetection">Pagtuklas ng keyword</string>
+  <string name="confirmDeletion">Kumpirmahin ang pagtanggal</string>
+  <string name="addAKeyword">Magdagdag ng keyword</string>
+  <string name="clearAllKeywords">I-clear ang lahat ng keyword</string>
+  <string name="pleaseSeeTheKeywordsFile">Pakitingnan ang file ng mga keyword</string>
+  <string name="export">I-export</string>
+  <string name="import2">Import</string>
+  <string name="keywordsAreAsFollow">Ang mga keyword ay ang mga sumusunod, isa bawat linya</string>
+  <string name="filter">Filter</string>
+  <string name="tipEmptyKeywords">Walang laman ang kasalukuyang library ng [keyword], maaari mong i-click ang button na Magdagdag o Mag-import sa itaas upang i-import ang keyword, at ang teksto na tumutugma sa keyword ay mamarkahan sa editor sa real time. </string>
+  <string name="keywordsManagement">Pamamahala ng mga keyword</string>
+  <string name="uploadingKeywordsToCloud">Ina-upload ang mga keyword sa iyong cloud storage...</string>
+  <string name="downloadingKeywordsFromCloud">Dina-download ang mga keyword mula sa iyong cloud storage...</string>
+  <string name="keywordRetrieval">Pagkuha ng keyword</string>
+  <string name="retrieveCurrentArticle">Kunin ang kasalukuyang artikulo</string>
+  <string name="previousOne">Nakaraan</string>
+  <string name="nextOne">Susunod na</string>
+  <string name="uploadToCloudStorage">I-upload sa cloud storage</string>
+  <string name="downloadFromCloudStorage">I-download mula sa cloud storage</string>
+  <string name="disableKeywordsFeature">Huwag paganahin ang feature ng mga keyword</string>
 </resources>

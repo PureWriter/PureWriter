@@ -563,7 +563,6 @@
   <string name="selectALightTheme">Seleziona un tema chiaro</string>
   <string name="selectADarkTheme">Seleziona un tema scuro</string>
   <string name="selectATheme">Seleziona un tema</string>
-  <string name="tipBadPaper">L\'immagine o il colore che hai selezionato non soddisfa i requisiti, seleziona di nuovo</string>
   <string name="fixedThemeTitle">Risolto, non cambiare automaticamente</string>
   <string name="followSystemThemeTitle">Segui il sistema (Sincronizza con il sistema operativo)</string>
   <string name="scheduledThemeTitle">Commutazione automatica in base al tempo:\n7:00-17:00 usa il tema chiaro, altrimenti il tema scuro</string>
@@ -590,4 +589,25 @@
   <string name="previewThemeLight">Tema: Luce</string>
   <string name="useAppFont">Usa il carattere dell\'app</string>
   <string name="useSystemFont">Usa carattere di sistema</string>
+  <string name="tipBadThemeBackground">L\'immagine o il colore di sfondo attualmente selezionato non corrisponde al colore del carattere del tema corrente, selezionalo di nuovo o ignora questo messaggio se ritieni che questo messaggio sia sbagliato.</string>
+  <string name="keywordDetection">Rilevamento delle parole chiave</string>
+  <string name="confirmDeletion">Conferma eliminazione</string>
+  <string name="addAKeyword">Aggiungi una parola chiave</string>
+  <string name="clearAllKeywords">Cancella tutte le parole chiave</string>
+  <string name="pleaseSeeTheKeywordsFile">Consulta il file delle parole chiave</string>
+  <string name="export">Esporta</string>
+  <string name="import2">Importa</string>
+  <string name="keywordsAreAsFollow">Le parole chiave sono le seguenti, una per riga</string>
+  <string name="filter">Filtro</string>
+  <string name="tipEmptyKeywords">La libreria [keyword] corrente è vuota, puoi fare clic sul pulsante Aggiungi o Importa in alto per importare la parola chiave e il testo che corrisponde alla parola chiave verrà contrassegnato nell\'editor in tempo reale. </string>
+  <string name="keywordsManagement">Gestione delle parole chiave</string>
+  <string name="uploadingKeywordsToCloud">Caricamento di parole chiave nel tuo cloud storage...</string>
+  <string name="downloadingKeywordsFromCloud">Download di parole chiave dal tuo archivio cloud...</string>
+  <string name="keywordRetrieval">Recupero delle parole chiave</string>
+  <string name="retrieveCurrentArticle">Recupera l\'articolo corrente</string>
+  <string name="previousOne">Precedente</string>
+  <string name="nextOne">Il prossimo</string>
+  <string name="uploadToCloudStorage">Carica su cloud storage</string>
+  <string name="downloadFromCloudStorage">Scarica dal cloud storage</string>
+  <string name="disableKeywordsFeature">Disabilita la funzione delle parole chiave</string>
 </resources>

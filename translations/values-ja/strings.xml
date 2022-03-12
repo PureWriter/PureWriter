@@ -528,7 +528,7 @@
   <string name="previous">前へ</string>
   <string name="rating">評価</string>
   <string name="customFontTipForAndroid11">Android 11以降では、フォントファイルを有効にするにはフォントファイルを選択する必要があります</string>
-    <string name="shareMessage">Pure Writerの使用を楽しんでいる場合は、私たちが情報を広めるのを手伝ってください！このアプリを友達と共有するには、右側の[共有]ボタンをクリックしてください。 ！！\n\n詳細については、https://play.google.com/store/apps/details?id=com.drakeet.purewriter をご覧ください。</string>
+  <string name="shareMessage">Pure Writerの使用を楽しんでいる場合は、私たちが情報を広めるのを手伝ってください！このアプリを友達と共有するには、右側の[共有]ボタンをクリックしてください。 ！！\n\n詳細については、https://play.google.com/store/apps/details?id=com.drakeet.purewriter をご覧ください。</string>
   <string name="shareText">おすすめです。Pure Writerは、機能が充実していて、安心して使えるテキスト編集アプリです。履歴の記録、大切なコンテンツを失わないための多層保護機能、さらに快適な執筆環境を備えています。詳細はこちら： https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="connectDesktop">デスクトップに接続する</string>
   <string name="disconnectDesktop">デスクトップを切断します</string>
@@ -563,7 +563,6 @@
   <string name="selectALightTheme">明るいテーマを選択してください</string>
   <string name="selectADarkTheme">ダークテーマを選択</string>
   <string name="selectATheme">テーマを選択</string>
-  <string name="tipBadPaper">選択した画像または色が要件を満たしていません。もう一度選択してください</string>
   <string name="fixedThemeTitle">修正済み、自動的に切り替えない</string>
   <string name="followSystemThemeTitle">システムをフォロー（OSと同期）</string>
   <string name="scheduledThemeTitle">時間に応じた自動切り替え：\n7：00〜17：00は明るいテーマを使用し、それ以外の場合は暗いテーマを使用します</string>
@@ -595,4 +594,25 @@
   <string name="optionsForTheFewPeople">少数派のための選択肢</string>
   <string name="summaryPie">提供すべきでない設定も提供する</string>
   <string name="tipGoogleDriveAppScope">ヒント：Googleドライブのアプリ・プライベートディレクトリはユーザーから見えないため、ブリッジ機能は自動的に無効化されます。</string>
+  <string name="tipBadThemeBackground">現在選択されている背景画像または色が現在のテーマのフォントの色と一致しません。もう一度選択するか、このプロンプトが間違っていると思われる場合は無視してください。</string>
+  <string name="keywordDetection">キーワード検出</string>
+  <string name="confirmDeletion">削除の確認</string>
+  <string name="addAKeyword">キーワードを追加</string>
+  <string name="clearAllKeywords">すべてのキーワードをクリア</string>
+  <string name="pleaseSeeTheKeywordsFile">キーワードファイルをご覧ください</string>
+  <string name="export">エクスポート</string>
+  <string name="import2">インポート</string>
+  <string name="keywordsAreAsFollow">キーワードは次のとおりです。1行に1つずつ</string>
+  <string name="filter">フィルター</string>
+  <string name="tipEmptyKeywords">現在の[キーワード]ライブラリは空です。上部の[追加]または[インポート]ボタンをクリックしてキーワードをインポートすると、キーワードに一致するテキストがリアルタイムでエディターにマークされます。 </string>
+  <string name="keywordsManagement">キーワード管理</string>
+  <string name="uploadingKeywordsToCloud">クラウドストレージにキーワードをアップロードしています... </string>
+  <string name="downloadingKeywordsFromCloud">クラウドストレージからキーワードをダウンロードしています... </string>
+  <string name="keywordRetrieval">キーワード検索</string>
+  <string name="retrieveCurrentArticle">現在の記事を取得する</string>
+  <string name="previousOne">前のもの</string>
+  <string name="nextOne">次のもの</string>
+  <string name="uploadToCloudStorage">クラウドストレージにアップロード</string>
+  <string name="downloadFromCloudStorage">クラウドストレージからダウンロード</string>
+  <string name="disableKeywordsFeature">キーワード機能を無効にする</string>
 </resources>

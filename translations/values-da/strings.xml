@@ -595,7 +595,6 @@
   <string name="selectALightTheme">Vælg et lyst tema</string>
   <string name="selectADarkTheme">Vælg et mørkt tema</string>
   <string name="selectATheme">Vælg et tema</string>
-  <string name="tipBadPaper">Billedet eller farven, du har valgt, opfylder ikke kravet, vælg venligst igen</string>
   <string name="fixedThemeTitle">Fikseret, skifter ikke automatisk</string>
   <string name="followSystemThemeTitle">Følg systemet (Synkroniseres med OS)</string>
   <string name="scheduledThemeTitle">Automatisk skift efter tid:\n7:00–17:00 brug lyst tema, ellers mørkt tema</string>
@@ -625,5 +624,28 @@
   <string name="previewThemeLight">Tema: Lys</string>
   <string name="useAppFont">Brug app-skrifttype</string>
   <string name="useSystemFont">Brug systemskrifttype</string>
+  <string name="tipBadThemeBackground">Det aktuelt valgte baggrundsbillede eller farve matcher ikke skriftfarven på det aktuelle tema. Vælg venligst det igen, eller ignorer denne prompt, hvis du mener, at denne prompt er forkert.</string>
+  <string name="forcedBlackTextColor">Tving sort tekstfarve</string>
+  <string name="forcedWhiteTextColor">Tving hvid tekstfarve</string>
+  <string name="keywordDetection">Søgeordsgenkendelse</string>
+  <string name="confirmDeletion">Bekræft sletning</string>
+  <string name="addAKeyword">Tilføj et søgeord</string>
+  <string name="clearAllKeywords">Ryd alle søgeord</string>
+  <string name="pleaseSeeTheKeywordsFile">Se søgeordsfilen</string>
+  <string name="export">Eksporter</string>
+  <string name="import2">Importer</string>
+  <string name="keywordsAreAsFollow">Nøgleordene er som følger, ét pr. linje</string>
+  <string name="filter">Filter</string>
+  <string name="tipEmptyKeywords">Det aktuelle [søgeord]-bibliotek er tomt, du kan klikke på knappen Tilføj eller Importer øverst for at importere søgeordet, og teksten, der matcher søgeordet, vil blive markeret i editoren i realtid. </string>
+  <string name="keywordsManagement">Søgeordsadministration</string>
+  <string name="uploadingKeywordsToCloud">Uploader søgeord til dit skylager...</string>
+  <string name="downloadingKeywordsFromCloud">Downloader søgeord fra dit skylager...</string>
+  <string name="keywordRetrieval">Søgeordshentning</string>
+  <string name="retrieveCurrentArticle">Hent aktuel artikel</string>
+  <string name="previousOne">Forrige</string>
+  <string name="nextOne">Næste</string>
+  <string name="uploadToCloudStorage">Upload til skylager</string>
+  <string name="downloadFromCloudStorage">Download fra skylageret</string>
+  <string name="disableKeywordsFeature">Deaktiver søgeordsfunktionen</string>
 </resources>
 

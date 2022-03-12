@@ -602,7 +602,6 @@
   <string name="selectALightTheme">Valitse vaalea teema</string>
   <string name="selectADarkTheme">Valitse tumma teema</string>
   <string name="selectATheme">Valitse teema</string>
-  <string name="tipBadPaper">Valitsemasi kuva tai väri ei täytä vaatimuksia, valitse uudelleen</string>
   <string name="fixedThemeTitle">Korjattu, älä vaihda automaattisesti</string>
   <string name="followSystemThemeTitle">Seuraa järjestelmää (Synkronoi käyttöjärjestelmän kanssa)</string>
   <string name="scheduledThemeTitle">Automaattinen vaihtaminen kellonajan mukaan:\n7:00-17:00 käytä vaaleaa teemaa, muuten tumma teema</string>
@@ -634,4 +633,27 @@
   <string name="previewThemeLight">Teema: Valo</string>
   <string name="useAppFont">Käytä sovellusfonttia</string>
   <string name="useSystemFont">Käytä järjestelmäfonttia</string>
+  <string name="tipBadThemeBackground">Tällä hetkellä valittu taustakuva tai väri ei vastaa nykyisen teeman kirjasinväriä, valitse se uudelleen tai jätä tämä kehote huomioimatta, jos tämä kehote on mielestäsi väärä.</string>
+  <string name="forcedBlackTextColor">Pakota tekstin musta väri</string>
+  <string name="forcedWhiteTextColor">Pakota tekstin valkoinen väri</string>
+  <string name="keywordDetection">Avainsanan tunnistus</string>
+  <string name="confirmDeletion">Vahvista poisto</string>
+  <string name="addAKeyword">Lisää avainsana</string>
+  <string name="clearAllKeywords">Poista kaikki avainsanat</string>
+  <string name="pleaseSeeTheKeywordsFile">Katso avainsanatiedosto</string>
+  <string name="export">Vie</string>
+  <string name="import2">Tuo</string>
+  <string name="keywordsAreAsFollow">Avainsanat ovat seuraavat, yksi riviä kohden</string>
+  <string name="filter">Suodatin</string>
+  <string name="tipEmptyKeywords">Nykyinen [avainsana]-kirjasto on tyhjä. Voit tuoda avainsanan napsauttamalla yläreunassa olevaa Lisää- tai Tuo-painiketta, jolloin avainsanaa vastaava teksti merkitään editorissa reaaliajassa. </string>
+  <string name="keywordsManagement">Avainsanojen hallinta</string>
+  <string name="uploadingKeywordsToCloud">Ladataan avainsanoja pilvitallennustilaan...</string>
+  <string name="downloadingKeywordsFromCloud">Ladataan avainsanoja pilvitallennustilasta...</string>
+  <string name="keywordRetrieval">Avainsanojen haku</string>
+  <string name="retrieveCurrentArticle">Hae nykyinen artikkeli</string>
+  <string name="previousOne">Edellinen</string>
+  <string name="nextOne">Seuraava</string>
+  <string name="uploadToCloudStorage">Lataa pilvitallennustilaan</string>
+  <string name="downloadFromCloudStorage">Lataa pilvitallennustilasta</string>
+  <string name="disableKeywordsFeature">Poista avainsanaominaisuus käytöstä</string>
 </resources>

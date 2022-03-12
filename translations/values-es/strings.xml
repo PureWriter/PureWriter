@@ -558,7 +558,6 @@
   <string name="selectALightTheme">Seleccione un tema claro</string>
   <string name="selectADarkTheme">Seleccione un tema oscuro</string>
   <string name="selectATheme">Selecciona un tema</string>
-  <string name="tipBadPaper">La imagen o el color que seleccionó no cumple con el requisito, seleccione nuevamente</string>
   <string name="fixedThemeTitle">Fijo, no cambia automáticamente</string>
   <string name="followSystemThemeTitle">Seguir el sistema (sincronizar con el sistema operativo)</string>
   <string name="scheduledThemeTitle">Cambio automático según el tiempo:\n7: 00-17: 00 use tema claro, de lo contrario tema oscuro</string>
@@ -591,4 +590,25 @@
   <string name="wordCountModeEntriesItem3"><b>Excluir todos los signos de puntuación</b>, espacios y saltos de línea</string>
   <string name="migrateImageAssetsSummary">Esto le ayuda a transferir de forma centralizada todas las imágenes referenciadas por su Markdown a su nuevo dispositivo. Después de esta operación, puede copiar la carpeta Documents/PureWriter/Assets en el mismo directorio del nuevo dispositivo y, a continuación, restaurar la copia de seguridad del dispositivo en el nuevo dispositivo, para que éste pueda referenciar sin problemas las imágenes originales.</string>
   <string name="migrateImageAssets">Migrar las imágenes de Markdown al directorio Documents/PureWriter/Assets</string>
+  <string name="tipBadThemeBackground">La imagen o el color de fondo seleccionado actualmente no coincide con el color de fuente del tema actual, selecciónelo nuevamente o ignore este mensaje si cree que este mensaje es incorrecto.</string>
+  <string name="keywordDetection">Detección de palabras clave</string>
+  <string name="confirmDeletion">Confirmar eliminación</string>
+  <string name="addAKeyword">Añadir una palabra clave</string>
+  <string name="clearAllKeywords">Borrar todas las palabras clave</string>
+  <string name="pleaseSeeTheKeywordsFile">Consulte el archivo de palabras clave</string>
+  <string name="export">Exportar</string>
+  <string name="import2">Importar</string>
+  <string name="keywordsAreAsFollow">Las palabras clave son las siguientes, una por línea</string>
+  <string name="filter">Filtro</string>
+  <string name="tipEmptyKeywords">La biblioteca actual de [palabras clave] está vacía, puede hacer clic en el botón Agregar o Importar en la parte superior para importar la palabra clave, y el texto que coincida con la palabra clave se marcará en el editor en tiempo real. </string>
+  <string name="keywordsManagement">Administración de palabras clave</string>
+  <string name="uploadingKeywordsToCloud">Cargando palabras clave a su almacenamiento en la nube...</string>
+  <string name="downloadingKeywordsFromCloud">Descargando palabras clave de su almacenamiento en la nube...</string>
+  <string name="keywordRetrieval">Recuperación de palabras clave</string>
+  <string name="retrieveCurrentArticle">Recuperar artículo actual</string>
+  <string name="previousOne">Anterior</string>
+  <string name="nextOne">Siguiente</string>
+  <string name="uploadToCloudStorage">Subir al almacenamiento en la nube</string>
+  <string name="downloadFromCloudStorage">Descargar desde almacenamiento en la nube</string>
+  <string name="disableKeywordsFeature">Deshabilitar la función de palabras clave</string>
 </resources>

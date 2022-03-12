@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="editorTipAMenu">Спочатку вам потрібно буде вибрати текст</string>
+  <string name="editorHintContent">Почніть писати вміст…</string>
+  <string name="iconDesc">Значок Pure Writer – це машина часу\nМашина часу пливе вперед. Слова побажання можуть привести нас до зв’язку з минулим і майбутнім…</string>
+
+  <string name="defaultContent">Приємно познайомитися!\nЦе швидкий текстовий редактор, розроблений відповідно до того, як ми вважаємо, має бути \"хороший досвід написання\". Pure Writer <b>мінімалістичний, і він дозволяє вам писати в будь-який час і в будь-якому місці, не боячись, що ви знову втратите свій вміст.</b>\nЗа допомогою рядка та абзацу Pure Writer\. функція інтервалу, ваш текст буде чіткішим і зручнішим для читання. Мало того, він також має плавну прокрутку, клавіатуру згортання та багато інших захоплюючих функцій.\nПростота – це прихована складність. Ви можете зашифрувати свою роботу за допомогою відбитка пальця, починати або припиняти писати, коли забажаєте, і швидко ділитися своїм вмістом з іншими програмами — ми гарантуємо вам.\nНайголовніше, <b>якщо ви не видалите його вручну, ви Ви ніколи не втратите свою роботу під час використання цього текстового редактора. Будь то випадкове видалення чи несподіване вимкнення, ви все одно зможете відновити його з історії.</b>\nДодаткові функції: хмарне резервне копіювання WebDAV, тема Material Design 2, Markdown, режим друкарської машинки, експорт у вигляді довгого текстового зображення, Машина часу…\nВона працює швидко та плавно. Ви можете перервати та продовжити писати будь-коли та будь-де.\nНасолоджуйтесь використанням Pure Writer.</string>
+  <string name="copyTitle">Скопіюйте заголовок</string>
+  <string name="tipShouldUnlock">Спершу розблокуйте</string>
+  <string name="tipShouldSetupFingerprint">Спершу створіть відбиток пальця в налаштуваннях системи!</string>
+  <string name="sendContentTo">Надіслати вміст до: </string>
+  <string name="failedTitleIsEmpty">Назва не може бути порожнім</string>
+  <string name="failedContentIsEmpty">Вміст не може бути порожнім</string>
+  <string name="copyTheTitleSuccessfully">Заголовок успішно скопійовано!</string>
+  <string name="copyTheContentSuccessfully">Вміст успішно скопійовано!</string>
+  <string name="titleAndContentAreEmpty">Назва та вміст пусті!</string>
+  <string name="copyContent">Копіювати вміст</string>
+  <string name="wordCountShort">Кількість</string>
+  <string name="wordCountLong">Кількість слів</string>
+  <string name="wordCountOfCurrentArticle">Загальна кількість слів поточної статті</string>
+  <string name="floatingWordCount">Плаваюча кількість слів</string>
+  <string name="historyState">Збережено</string>
+  <string name="tipNeedFingerprint">Щоб переглянути та відредагувати, спершу розблокуйте його відбитком пальця</string>
+  <string name="isRevertToThisFile">Відновити цей документ?</string>
+  <string name="noMore">Нічого більше!</string>
+
+  <string name="tipPermissionFailed">Дозвіл не надано. Неможливо зберегти історію.</string>
+  <string name="titleStorePermissionFailed">Відмовлено у дозволі на зберігання</string>
+  <string name="tipMessageStoragePermissionFirst">Будь ласка, надайте нам дозвіл на доступ до вашого сховища. Pure Writer використовуватиме його лише для автоматичного резервного копіювання ваших файлів, щоб уникнути їх втрати!</string>
+  <string name="tipMessageStoragePermissionToSettings">Нам потрібен доступ до вашого сховища, щоб автоматично створювати резервні копії ваших файлів. Будь ласка, надайте доступ вручну в налаштуваннях свого пристрою!</string>
+  <string name="actionOkGoSettings">Перейти до налаштувань</string>
+  <string name="tipFingerAuthRetry">Не вдається розпізнати відбиток пальця. У вас залишилося %d спроб.</string>
+  <string name="tipFingerAuthFailed">Відбиток пальця призупинено. Повторіть спробу через 1 хвилину. Вихід із Pure Writer…</string>
+  <string name="tipRichText">Pure Writer прагне надати користувачам мінімалістичне середовище письма, тому не планується включати функцію Rich Text в майбутні розробки. Можливо, ви помітили деякий <b>жирний текст</b> у попередньому перегляді, але це тому, що це прихована функція, а також жирний шрифт не може відображатися у файлах .txt. Вибачте! Якщо у вас є кращі пропозиції, зв’яжіться зі мною. Дякуємо за підтримку!</string>
+  <string name="shortcutBar">Панель ярликів</string>
+  <string name="insertBlankLinesWhenExporting">Додати додаткові рядки під час експорту</string>
+  <string name="contentTextSize">Розмір шрифту вмісту</string>
+  <string name="iKnow">Зрозуміло</string>
+  <string name="tipIndent">Примітка: відступ не вплине на наявний текст</string>
+  <string name="tipInsertBlankLines">Поки цей параметр увімкнено, до кожного абзацу буде додано додатковий рядок, коли текст буде скопійовано або надано доступу. Оскільки спеціальний інтервал між абзацами передбачено лише в Pure Writer, потрібні додаткові рядки, щоб мати той самий ефект за межами цієї програми.</string>
+  <string name="deleteObsoleteFiles">Видалити застарілі файли</string>
+  <string name="dayNightMode">Нічний режим</string>
+  <string name="summaryPay">Отримати функції Pro</string>
+  <string name="tipSettingNotSupport">Це налаштування ще розробляється.</string>
+  <string name="promptShortcutTitle">Опис ярлика (необов\'язково)</string>
+  <string name="promptShortcutContent">Вміст ярлика (обов\'язково)</string>
+  <string name="createShortcut">Створити текстовий ярлик</string>
+  <string name="noteShortcutCursorIndex">Будь ласка, перемістіть курсор у вмісті, щоб встановити розташування курсору після вставки статті</string>
+  <string name="indentShort">Відступ</string>
+  <string name="delete">Видалити</string>
+  <string name="messageDeleteShortcut">Натисніть OK, щоб видалити цей ярлик</string>
+  <string name="features">Функції</string>
+  <string name="sendTextFailedForTooLarge">Ваш текст задовгий, щоб надсилати його безпосередньо в інші програми. Він уже скопіював текст у ваш буфер обміну</string>
+  <string name="previewAndExport">Попередній перегляд &amp; Експортувати…</string>
+  <string name="hasSavedToYourAlbum">Збережено в альбом</string>
+  <string name="preview">Попередній перегляд</string>
+  <string name="tipRequirePro">Це функція Pro</string>
+  <string name="summaryPaid">Pro активовано</string>
+  <string name="labelUpdate">Доступний новий Pure Writer %1$s</string>
+  <string name="update">Оновити</string>
+  <string name="messageDeleteArticlesToTrash">Ви впевнені, що хочете видалити ці статті та перемістити їх у кошик?</string>
+  <string name="tipPurchasedStatusFailed">Придбано. Якщо статус покупки не оновився, спробуйте ще раз натиснути пункт Pro (при цьому з вас не стягуватиметься подвійна плата)</string>
+  <string name="createNew">Створити нову статтю</string>
+  <string name="autoLock">Автоблокування</string>
+  <string name="titleOpenImportedFile">Встановлено, що ви відкрили зовнішній файл, будь ласка, виберіть дію</string>
+  <string name="sort">Тип сортування</string>
+  <string name="sortTypeModifiedTimeDown">Час зміни</string>
+  <string name="sortTypeCreatedTimeDown">Час створення</string>
+  <string name="warningSavedFailed">Не вдалося зберегти статтю. Скопіюйте свій вміст і спробуйте перезапустити програму, щоб перевірити, чи не втрачено будь-який вміст.</string>
+  <string name="backupNow">Створіть резервну копію зараз</string>
+  <string name="backupToLocalNow">Створіть резервну копію в локальному сховищі зараз</string>
+  <string name="backupToCloudNow">Створіть резервну копію в хмарному сховищі зараз</string>
+
+  <string name="summaryBackupToLocal">Файл резервної копії буде збережено в Documents/PureWriter/Backups</string>
+  <string name="summaryBackupToCloud">Файл резервної копії буде збережено у вашому хмарному сховищі, якщо налаштовано</string>
+  <string name="restoreBackup">Відновити резервну копію</string>
+  <string name="summaryRestoreTheBackup">Файл резервної копії буде отримано з Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto і вашого WebDAV або Dropbox або GoogleDrive</string>
+  <string name="backupSuccessful">Резервне копіювання успішно</string>
+  <string name="restoreSuccessful">Резервну копію успішно відновлено</string>
+  <string name="tipBackupNotExist">Файл резервної копії не існує. Будь ласка, помістіть файл резервної копії в Documents/PureWriter/Backups і повторіть спробу.</string>
+  <string name="wordCountMode">Режим підрахунку слів</string>
+  <string name="wordCountModeEntriesItem1">Виключити пробіли та розриви рядків</string>
+  <string name="wordCountModeEntriesItem2">Включити всі символи та текст</string>
+  <string name="wordCountModeEntriesItem3"><b>Виключити всі розділові знаки</b>, пробіли та розриви рядків</string>
+  <string name="tipCannotCreateNewWhenEmpty">Неможливо створити нову статтю, якщо назва та вміст порожні! Ви все одно можете створити його за допомогою кнопки у верхньому правому куті меню.</string>
+  <string name="notSupportOpeningTheLink">Посилання не підтримується</string>
+  <string name="formatters">Форматери</string>
+  <string name="formatterSpace">Включіть пробіл між китайськими та англійськими словами</string>
+  <string name="formatterIndent">Вставити відступ на початку всіх абзаців</string>
+  <string name="formatterLineBreak">Залиште порожній рядок між абзацами</string>
+  <string name="formatterRemoveBreak">Видалити всі порожні рядки між абзацами</string>
+  <string name="titleAsAWordForACount">Порахуйте слова окремо</string>
+  <string name="promptCustomPaper">Значення RGB або посилання на URL-адресу зображення</string>
+  <string name="readMeCustomPaper">Будь ласка, вставте значення RGB або посилання на зображення, наприклад #000000 або https://unsplash.com/photos/x.jpg</string>
+  <string name="pureWhite">Чистий білий</string>
+  <string name="titleAlignCenter">Вирівняти заголовок по центру</string>
+  <string name="tipShortcutBarEnabled">Закривати не рекомендується</string>
+  <string name="open">Відкрити</string>
+  <string name="summaryAutoBackup">Усі ваші статті автоматично створюватимуться під час виходу з програми. резервне копіювання обмежено 25 найновішими файлами.</string>
+  <string name="migratingData">Міграція даних</string>
+  <string name="autoBackup">Автоматичне резервне копіювання</string>
+  <string name="summaryDeleteObsoleteFiles">Тепер ми використовуємо приватні каталоги для зберігання всього вашого вмісту. Натисніть це, щоб видалити старі версії файлів історії, які залишилися на вашій картці SD</string>
+  <string name="tipArticleDeleting">Видалення статей, тимчасово вимкнення всіх дій</string>
+  <string name="noHistory">Історії не знайдено</string>
+  <string name="formatterRemoveIndent">Видалити відступ</string>
+  <string name="keepScreenOn">Залишити екран увімкненим</string>
+  <string name="gfmBreaksEnabled">Обтікання з розривом рядка</string>
+  <string name="gfmBreaksDisabled">Потрібні принаймні два розриви рядка для відтворення нового рядка</string>
+  <string name="timeMachineHintInput">Повідомлення</string>
+  <string name="wordCountOfThisBook">Загальна кількість</string>
+  <string name="wordCountOfThisBookDescription">Загальна кількість слів для цієї поточної книги</string>
+  <string name="timeMachineGuide">Що це? Ви можете розглядати це як вікно чату або місце для запису ваших ідей, або навіть щось подібне до Google Assistant. Він має спеціальну назву під назвою «Машина часу». Приємно познайомитися!</string>
+  <string name="copyDate">Копіювати дату</string>
+  <string name="defaultBook">Книга за замовчуванням</string>
+  <string name="createNewBook">Створити нову книгу</string>
+  <string name="summaryOfAbout">Дізнайтеся більше про оригінальні ідеї та концепції, які ми розробили для цієї програми</string>
+  <string name="emptyTip">Ще не відкрито жодної статті</string>
+  <string name="optionalDescription">Опис (необов\'язково)</string>
+  <string name="createBookForDialogButton">Створити нову книгу</string>
+  <string name="openSourceLicenses">Ліцензії з відкритим кодом</string>
+  <string name="cannotDelete">Не вдається видалити</string>
+
+  <string name="cannotDeleteNotEmptyBook">Книга не порожня. Щоб видалити його, спершу видаліть статті всередині нього окремо.</string>
+  <string name="timeMachine">Машина часу</string>
+  <string name="listFirst">Відкривайте розділи під час запуску</string>
+  <string name="booksFirst">Відкрийте книги під час запуску</string>
+  <string name="followSystem">Слідкуйте за системою</string>
+  <string name="localPicture">Локальне зображення</string>
+  <string name="selectPicture">Вибрати зображення</string>
+  <string name="toastCannotRetrieveSelectedImage">Не вдається отримати вибране зображення</string>
+  <string name="sendTo">Надіслати</string>
+  <string name="tipHasNotPermissionWithAutoBackup">Спроба резервного копіювання не вдалася, оскільки було відмовлено у доступі до сховища.</string>
+  <string name="hideTitleBarWhenPreviewingMarkdown">Сховати рядок заголовка під час попереднього перегляду Markdown</string>
+  <string name="privacyPolicy">Політика конфіденційності</string>
+  <string name="beforeRestoringYourBackup">beforeRestoringYourBackup</string>
+  <string name="trashDescription">Відновити видалені статті</string>
+  <string name="messageDeleteArticlesDirectly">Видалити ці статті назавжди</string>
+  <string name="trashFolderTip">Ви не можете створити новий файл у цій папці для сміття!</string>
+  <string name="tipLandscapeOrientation">Використовуйте зовнішню клавіатуру в альбомному режимі</string>
+  <string name="editShortcut">Ярлик редагування тексту</string>
+  <string name="syncOnlyWifi">Синхронізувати резервне копіювання з хмарою, лише коли Wi-Fi активний</string>
+  <string name="syncAllNetworks">Синхронізувати резервне копіювання з хмарою в усіх мережах</string>
+  <string name="webDavAccount">Обліковий запис WebDAV</string>
+  <string name="webDavPassword">Пароль WebDAV</string>
+  <string name="autoBackupToCloud">Автоматичне резервне копіювання в хмарне сховище</string>
+  <string name="noWebDavConfigForUploading">Ваша конфігурація WebDAV неповна або неправильна. Будь ласка, змініть конфігурацію WebDAV перед завантаженням.</string>
+  <string name="noWebDavConfig">Ваша конфігурація WebDAV неповна або неправильна.</string>
+  <string name="uploadSuccessful">Завантаження успішно</string>
+  <string name="fetchSuccessful">Отримання успішно</string>
+  <string name="messageUpload">Pure Writer створив <b>виправлений</b> файл на вашому хмарному диску. Ім’я файлу – <b>PureWriter.txt</b>. Ви можете натиснути «ОК», щоб завантажити поточну статтю до цього виправленого файлу. Потім ви зможете редагувати цей хмарний файл на інших пристроях. Коли він зміниться, ви можете потягнути його вниз. \n\nТепер ви хочете перезаписати вміст поточної статті у цей хмарний файл?</string>
+  <string name="typewriterMode">Режим друкарської машинки</string>
+  <string name="editBook">Редагувати книгу</string>
+  <string name="tipFloatingWordCountDisabled">Після вимкнення плаваючої кількості слів ви все одно зможете отримати кількість слів у списку розділів/статей.</string>
+  <string name="shareText">Рекомендація: Pure Writer – це програма для редагування тексту з наповненими функціями, яка забезпечує спокій завдяки своїм функціям: запис історії, багаторівневий захист, що запобігає втраті дорогоцінного вмісту, а також комфортне письмове середовище. Дізнайтеся більше тут: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
+  <string name="shareMessage">Якщо вам подобається користуватися Pure Writer, допоможіть нам розповсюдити інформацію! Натисніть кнопку Поділитися праворуч, щоб поділитися цією програмою зі своїми друзями. Завдяки вашій підтримці це буде багато означати для нас і програми, оскільки вона вдосконалюється. Дякую!\n\nЩоб дізнатися більше, відвідайте: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
+  <string name="reduceDatabaseSize">Очистити історію, щоб зменшити розмір бази даних</string>
+  <string name="reduceDatabaseSizeMessage">Видалити історію для всіх статей. \nПримітка: це видалить лише записи історії, а не саму статтю. \n\nРекомендуємо створити резервну копію, щоб продовжити видалення. \nВам також радимо час від часу видаляти записи історії, щоб зменшити розмір бази даних!</string>
+  <string name="deleteSuccessful">Видалення успішне</string>
+  <string name="presetTitle1">Pure Writer – поєднання минулого і майбутнього за допомогою слів</string>
+
+  <string name="presetContent1">Pure Writer – це швидка й зручна програма для редагування тексту, яка запобігає втраті своїх робіт. Прокручуючи коментарі та огляди Pure Writer у Google Play, ви можете знайти високу оцінку цього додатка, як-от «Немає кращого додатка, ніж цей», «Найбільш приємний додаток», «Дуже люблю цю програму», «Кохання з першого погляду до цієї програми»… Як єдиного розробника для Pure Writer, коментарі були особливо вдоволені для мене. \nУ червні 2017 року, після того, як я пройшов через незручні, погано виконані продукти для редагування тексту та втратив свої дорогоцінні текстові файли, я вирішив розробити власну програму для редагування тексту, яка дозволить користувачам писати в будь-який час у будь-якому місці в зручному середовищі, наповненому функціями. , знаючи, що їхні слова ніколи не зникнуть. Цей додаток, як я вирішив, буде розроблено з точки зору письменника. \nДо всього цього я працював неповний робочий день над програмним забезпеченням для редагування розширеного тексту. Незважаючи на те, що ми вилили на це наші серця, програмне забезпечення виявилося не таким, яким ми хотіли. Незважаючи на це, я успішно розробив деякі унікальні функції, яких більш ніж достатньо для Pure Writer. \nТак народжується Pure Writer. З самого початку Pure Writer подбала про вдосконалення кожного рядка та інтервалу між символами на Android. Це особлива функція, якої не досягли жодні інші програми для редагування тексту для Android, окрім Microsoft Word. І все ж розмір пакета Microsoft Word більш ніж у десять разів більший, ніж у Pure Writer.\nНе тільки це, Pure Writer також надає спеціальні функції, такі як «запуск текстового редактора під час запуску програми» і особливо «Записи історії». Як письменник, я розумію надзвичайну важливість запису історії — це дає вам змогу зосередитися на написанні, водночас даючи вам спокій, що ви ніколи, ніколи не втратите те, що пишете. Навіть якщо ваш телефон раптово вимкнеться без попередження, Pure Writer все одно може автоматично зберігати ваш вміст. Таким чином, усі користувачі можуть впевнено починати і зупиняти писати в зручному текстовому редакторі, коли захочуть. \nНа додаток до цього, Pure Writer підтримує «Ярлики введення» та «Інструменти форматування», ярлики введення дозволяють користувачам встановлювати власні слова на панелі ярликів, щоб вони могли легко використовувати їх знову і знову; Інструменти форматування допомагають користувачам швидко відформатувати текст, наприклад, автоматичне впорядкування та впорядкування. \nНе лише ці функції, багато зусиль було додано до досконалості до найдрібніших деталей у Pure Writer. Використовуючи Pure Writer, ви можете приховати програмну клавіатуру, просто провівши по екрану, встановити курсор саме там, де ви хочете, а також залишити статтю нерухомою, приховуючи програмну клавіатуру… Якщо ви хочете порівняти Pure Writer до інших програм для редагування тексту, ви побачите, що Pure Writer ідеально подбає про всі дрібні деталі, які в кінцевому підсумку сприяють ідеальному середовищу для написання.\nPure Writer має інструменти редагування, які вам потрібні, наприклад: автоматичний відступ, експорт статті як різні файли, включаючи зображення, плаваючу кількість слів, скасування, Markdown, спеціальні фонові теми, нічний режим, біометричне шифрування, автоматичне заповнення тексту, обмін та багато іншого. Незважаючи на всі особливості та деталі, Pure Writer все ще зберіг свій мінімалістичний стиль і слідує рекомендаціям Material Design. Я також зробив «Машину часу», щоб користувачі могли робити невеликі нотатки та зберігати їх. Назва «Машина часу» взята з коміксу, що означає «З’єднати минуле і майбутнє словами». \nДо сьогодні база коду Pure Writer отримала понад тисячу комітів і мільйони змінених рядків. Хоча Pure Writer займає майже весь мій вільний час, завжди приємно, що все більше користувачів залишають мені позитивні відгуки. Я активно спілкуюся з користувачами Pure Writer, збираю відгуки та вдосконалюю програму. Я ніколи не відчував себе щасливішим від думки про те, щоб створити щось довгострокове, що допоможе іншим людям. \nНарешті, дякую всім моїм друзям, які допомагали мені протягом цієї подорожі. Без вас цей додаток ніколи б не був таким, яким він є сьогодні. У цій публікації я знайомлю вас з оригінальними ідеями Pure Writer і всіма його особливими можливостями, і, сподіваюся, більше людей дізнаються про нього краще. Будемо сподіватися, що ми зможемо залишити по собі чудові спогади за обмежений час, який у нас є. Нехай наші слова перенесуть нас у минуле та дозволять уявити майбутнє.</string>
+  <string name="presetTitle2">Pure Writer – захисний механізм</string>
+
+  <string name="presetContent2">Поточний захисний механізм Pure Writer: \n1. Після зміни вмісту стаття буде збережена. Якщо це не вдасться, Pure Writer негайно повідомить користувача. \n2. Pure Writer кожні дві секунди перевірятиме, чи ваш вміст зберігається в базі даних. Якщо це не вдасться, Pure Writer негайно повідомить користувача. \n3. Якщо його не вдасться автоматично зберегти, користувачі не зможуть повністю вийти з програми. Натиснути кнопку виходу в цей час те саме, що натиснути кнопку «Додому», не зупиняючи програму повністю. Це дасть користувачеві деякий час, щоб вручну зберегти свій вміст. \n4. Кожен раз, коли програма працює у фоновому режимі або виходить із неї, вона автоматично створює резервну копію всієї бази даних, якщо будь-який вміст буде відредаговано. Доступ до файлу резервної копії можна отримати в будь-який час. Резервну копію буде збережено разом із попередньою версією резервної копії, щоб користувачі могли відновити резервну копію.\n5. Функція запису історії, скасування та повторення надається кожній статті \n6. Має папку "Кошик", щоб запобігти випадковому видаленню статей.\n7. Хмарні резервні копії: якщо Pure Writer інтегровано з WebDAV, він автоматично створить резервні копії всього вмісту бази даних, включаючи статті, у хмару.</string>
+  <string name="presetContent3">Якщо вам сподобалося користуватися Pure Writer і ви хочете, щоб його активно розвивали, чи не могли б ви внести кілька доларів, щоб заохотити розробника?\nВаша підтримка може спонукати таких незалежних розробників, як я, створювати корисніші програми. \nЩоб зробити внесок, ви можете натиснути кнопку «Розблокувати Pro» у верхньому правому куті сторінки налаштувань. На знак вдячності ви зможете отримати професійні функції, як-от «Зберегти як…» та «Спеціальний фон/документи». \nPure Writer також покращиться завдяки вашій підтримці. Спасибі заздалегідь! Якщо у вас виникли запитання чи відгук, будь ласка, не соромтеся надсилати мені електронного листа на drakeet@drakeet.com</string>
+  <string name="presetTitle4">Pure Writer – Політика конфіденційності</string>
+  <string name="presetContent4">Pure Writer дуже серйозно ставиться до конфіденційності своїх користувачів, він ніколи не збирає вашу особисту інформацію. \nКрім того, він не буде читати або змінювати будь-який вміст у вашому буфері обміну без попереднього сповіщення.\nДозвіл на зберігання, який запитав Pure Writer, використовується виключно для автоматичного резервного копіювання та збереження ваших файлів. Окрім цього, він не читатиме та не змінюватиме жодні з ваших файлів у сховищі без попереднього сповіщення.\nPure Writer підтримує хмарне резервне копіювання, яке використовує шифрування HTTPS для перенесення резервних копій вашої бази даних у ваше хмарне сховище WebDAV. Ваші хмарні резервні копії зберігатимуться лише у хмарному сховищі, яке ви вибрали, і ніколи не завантажуватимуться в інші місця.</string>
+  <string name="createAt">Створено о</string>
+  <string name="updatedAt">Оновлено о</string>
+  <string name="onlyAvailableWhenParagraphOn">Доступно, лише якщо інтервал увімкнено</string>
+  <string name="onlyAvailableWhenParagraphOff">Доступно, лише якщо інтервал між абзацами вимкнено</string>
+  <string name="lowProfile">Режим фокусування рядка стану</string>
+  <string name="chapters">Розділи</string>
+  <string name="sortTypeTitleUp">Сортувати заголовок А - Я</string>
+  <string name="sortTypeTitleDown">Сортувати заголовок Я – А</string>
+  <string name="sortByRank">Ручне сортування</string>
+  <string name="modifyRanks"><i><b>Виконайте сортування вручну</b></i></string>
+  <string name="markdownShortcutTip">Ви щойно вставили Markdown, який набуде чинності лише в режимі попереднього перегляду Markdown. Ви хочете активувати режим Markdown?</string>
+  <string name="importedFileTooLargeToOpen">Імпортований файл завеликий, не вдалося відкрити файл</string>
+  <string name="deleteEmptyArticlesShort">Видалити всі порожні статті</string>
+  <string name="deleteEmptyArticlesLong">Видалити всі статті з пустими назвами та вмістом у цій книзі</string>
+  <string name="deleteCategory">Видалити категорію</string>
+  <string name="exportBook">Експортувати цю книгу</string>
+  <string name="needManualSortingTitle">Щоб використовувати цю функцію, потрібно змінити сортування вручну</string>
+  <string name="needManualSortingMessage">Ви хочете змінити налаштування на "Сортування вручну"?</string>
+  <string name="doubleClickToExit">Двічі клацніть клавішу Назад, щоб вийти з програми</string>
+  <string name="doubleClickToExitTip">Щоб вийти, клацніть назад</string>
+  <string name="markdownCheckBoxTip">Цей параметр призначений для функції Markdown. Після його перевірки інтервал і відступ абзаців втратять свою силу. Якщо ви не знайомі з Markdown, радимо не встановлювати цей прапорець.\n\nMarkdown – це мова розмітки із синтаксисом форматування простого тексту. Ви можете шукати в Інтернеті "Markdown", якщо вам це цікаво.</string>
+  <string name="unlockValidityPeriod">Період дії автоматичного блокування</string>
+  <string name="lockImmediatelyIfAway">Негайно заблокувати, якщо немає</string>
+  <string name="lockIfAwayMoreThan3Minutes">Заблокувати, якщо немає більше 3 хвилин</string>
+  <string name="appEmbeddedFont">Шрифт, вбудований у програму</string>
+
+  <string name="noInternetConnection">Немає підключення до Інтернету</string>
+  <string name="cloudBackup">Резервне копіювання в хмару</string>
+  <string name="cloudConnection">Тип підключення до хмари</string>
+  <string name="signIn">Увійти</string>
+  <string name="lockFallback">Якщо ви не можете розблокувати його постійно, ви можете перейти до системних налаштувань телефону, видалити всі відбитки пальців і знову відкрити Pure Writer.</string>
+  <string name="smoothScrollerTitle">Анімація плавного прокручування для натискання рядка тексту</string>
+  <string name="tipSmoothScrolling">Якщо цей параметр увімкнено, коли ви клацнете рядок тексту вмісту, у разі потреби текстове подання буде плавно прокручуватися до рядка у фокусі. Якщо цей параметр вимкнено, він миттєво перейде до цього рядка. \nАнімація прокручування може не працювати добре на деяких пристроях, тому вимкніть цю опцію, якщо ви застрягли.</string>
+  <string name="defaultMessageUpdateApk">Це важлива версія, будь ласка, оновіть цю версію якомога швидше</string>
+  <string name="readme">Ви ввімкнули новий дизайн Material Design 2 Pure Writer.\n\nMaterial Design 2 пропонує новий повноекранний папір для занурення та прозору верхню панель для більш свіжого вигляду.\n\ nОднак у той же час з новим дизайном може виникнути багато проблем, тому це експериментальна функція Pure Writer, яка може мати деякі проблеми з візуальним інтерфейсом інтерфейсу. Крім того, як автор Pure Writer, я віддаю перевагу оригінальному дизайну Pure Writer, який більше привертає увагу та зосереджений на текстовому вмісті, тому ця функція дизайну фактично розроблена у відповідь на високі вимоги невеликої кількості користувачів. Це вимагає багато додаткових витрат на розробку, і це нелегко забезпечити, а оскільки зараз буде два дизайну Pure Writer, робота розробників може збільшитися.\n\nЧерез це Pure Writer рекомендує вам заплатити за це, але ви все ще можете мати багато часу, щоб випробувати та прийняти остаточне рішення щодо оплати. Будь ласка, спробуйте це підтримати. Якщо статистика показує, що частка користувачів, які готові платити, невелика, розробник може скасувати або припинити підтримку Material Design 2. Після того, як ви натиснете кнопку ОК, вважатиметься, що ви погоджуєтеся з цим вмістом за замовчуванням.\n\ n Дякую всім! Я зроблю все можливе, щоб забезпечити все кращого Pure Writer, будь ласка, насолоджуйтесь!</string>
+  <string name="lowFreeStorageSpaceWarning">У вашому телефоні є лише %1$d МБ вільної пам’яті, що може призвести до збереження або резервного копіювання Pure Writer. Будь ласка, очистіть і залиште більше %2$d МБ перед використанням Pure Writer!</string>
+  <string name="lowCloudFreeStorageSpaceWarning">Ваш %1$s має лише %2$d МБ безкоштовного сховища, через що Pure Writer може зберегти або резервне копіювання в хмару не вдалося. Будь ласка, очистіть і залиште більше %3$d МБ перед використанням Pure Writer!</string>
+  <string name="currentText">Поточний текст</string>
+  <string name="currentBook">Поточна книга</string>
+  <string name="ignoreCase">Ігнорувати регістр</string>
+  <string name="selectAll">Вибрати всі</string>
+  <string name="inverseAll">Інверсувати всі</string>
+  <string name="replaceConfirmMessage">Ви впевнені замінити вибраних місць (%d)?</string>
+  <string name="tipReplaceResult">%2$d вмісту в %1$d статті замінено</string>
+  <string name="content">Вміст</string>
+  <string name="webDavAccountError">Вміст вашого облікового запису WebDAV неправильний, тому не можна ввімкнути хмарне резервне копіювання!</string>
+  <string name="fileAlreadyExistsInDirectory">Цей файл уже існує у вашому каталозі</string>
+  <string name="signOut">Вийти</string>
+  <string name="changeAccount">Змінити обліковий запис</string>
+  <string name="scrollToHideTopBar">Прокрутіть, щоб приховати верхню панель</string>
+  <string name="scrollToHideWordCount">Прокрутіть, щоб приховати кількість слів</string>
+  <string name="doNotOperate">Не перемикайте та не змінюйте статті під час цього процесу!</string>
+  <string name="aboutBackup"><b>Про резервне копіювання</b></string>
+  <string name="backupReadme">Pure Writer підтримує локальне та хмарне резервне копіювання. Локальне резервне копіювання відбувається автоматично. Коли ви перевстановите Pure Writer, <b>ви можете відновити всі свої статті за допомогою резервної копії</b>.\n\nОднак Pure Writer <b>за умовчанням автоматично не створює хмарні резервні копії</b>. Щоб увімкнути хмарне резервне копіювання, <b>потрібно налаштувати обліковий запис хмарного резервного копіювання</b> на сторінці Pure Writer - Налаштування - резервні копії.\n\n Резервне копіювання Pure Writer Cloud наразі підтримує Dropbox і хмарне сховище WebDAV.\n\n <b>Хмарне резервне копіювання дуже важливо. Якщо ви не налаштуєте обліковий запис хмарного резервного копіювання, ви втратите весь свій цінний вміст, якщо цей пристрій буде втрачено, зламано або відновлено до заводських налаштувань! Обов’язково налаштуйте обліковий запис хмарного резервного копіювання!</b></string>
+  <string name="tipParagraphSpacingInMD">Відстань між абзацами не буде ввімкнено в режимі Markdown</string>
+  <string name="lineSpacing">Відстань між рядками</string>
+  <string name="paragraphSpacing">Інтервал між абзацами</string>
+
+  <string name="switchingBooksTooltip">Порада: натиснувши назву книги вгорі, можна буде перемикати книги</string>
+  <string name="scrollToTheCurrentArticle">Прокрутити до поточної статті</string>
+  <string name="allBooks">Усі книги</string>
+  <string name="needToManuallyRestartToTakeEffect">Щоб вступити в силу, потрібно перезапустити</string>
+  <string name="spellChecker">Перевірка орфографії</string>
+  <string name="thisShortcutCannotBeEdited">Цей ярлик не можна редагувати</string>
+  <string name="createNewChapter">Створити новий розділ</string>
+  <string name="hideSoftKeyboard">Сховати клавіатуру</string>
+  <string name="transparentTopBar">Прозора верхня панель</string>
+  <string name="transparentNavigationBar">Прозора панель навігації</string>
+  <string name="transparentNavigationBarWarning">Це експериментальна функція. Якщо його увімкнути, це може призвести до неправильної перевірки висоти програмної клавіатури, що може призвести до того, що панель швидкого доступу не відображатиметься, а текст буде не в фокусі. Якщо у вас виникли такі проблеми, вимкніть цей параметр.</string>
+  <string name="titleAsAWordForACountSummary">Коли цей елемент увімкнено, наступний режим підрахунку слів буде вимкнено. Якщо ви хочете використовувати параметри в режимі підрахунку слів, вимкніть цей параметр.</string>
+  <string name="customFont">Спеціальний шрифт</string>
+  <string name="customFontTip">Помістіть файл шрифту .ttf або .otf у каталог зовнішнього сховища <b>/Documents/PureWriter/App</b> і перезапустіть Pure Writer, щоб шрифт застосувати автоматично. \nПримітка. У цьому каталозі може бути лише один файл шрифтів, а деякі файли шрифтів (наприклад, Google Sans) можуть спричинити зміщення курсору, будь ласка, знайте!</string>
+  <string name="customFontTipForAndroid11">Android 11+ потрібно вибрати файл шрифту, щоб він був ефективним</string>
+  <string name="corruptBackupTip">Файл резервної копії пошкоджено! Спробуйте відновити інші резервні копії та виберіть правильний розмір та час резервної копії!</string>
+  <string name="leftMargin">Ліве поле</string>
+  <string name="rightMargin">Праве поле</string>
+  <string name="autoBackupAndCloudBackupGuide"><i>Посібник із резервного копіювання в хмару</i></string>
+  <string name="bridgeSummary">Цю функцію дуже важко зрозуміти та використовувати, не рекомендується її вмикати.</string>
+  <string name="messageCancelBridgeFeature">У цій версії оригінальна функція \"Bridge\" прихована за замовчуванням, тому що кожен день багато відгуків користувачів говорять мені, що вони не знають, що ця функція означає, я дуже вибачте, що завдав вам неприємностей! Але в той же час я також витратив багато часу та енергії, реагуючи на ці відгуки – їх слід було використати для розробки та полірування цього продукту. Тому наразі ця функція вимкнена за замовчуванням. Якщо вам це подобається та покладаєтесь на це, ви можете перейти до нижньої частини сторінки налаштувань резервного копіювання, і ви побачите опцію, щоб відкрити її. Будь ласка, зрозумійте, дуже дякую!</string>
+  <string name="followingBackupsAre">Нижче наведено резервні копії перед встановленням поточної версії</string>
+  <string name="logInToCloudStorage">Увійдіть у хмарне сховище</string>
+  <string name="scrollToBottom">Прокрутити вниз</string>
+  <string name="scrollToTop">Прокрутити вгору</string>
+  <string name="customColorTipOnShortcutPad">Порада. Ви можете налаштувати колір тексту редактора на сторінці налаштувань.</string>
+  <string name="textColor">Колір тексту редактора</string>
+  <string name="textColorSummary">Примітка. Коли ви змінюєте папір, колір тексту буде автоматично скинуто до кольору за замовчуванням.</string>
+  <string name="titleTextSize">Розмір шрифту заголовка</string>
+  <string name="restoreByThisBackup">Відновити за допомогою цієї резервної копії?</string>
+  <string name="collapseAllCategories">Згорнути всі категорії</string>
+  <string name="showMore">Показати більше</string>
+  <string name="textColorAlpha">Альфа-/прозорість кольору тексту</string>
+  <string name="connectDesktop">Підключити версію для ПК</string>
+  <string name="disconnectDesktop">Відключити версію для ПК</string>
+  <string name="tipNotSupportThisDesktopVersion">Поточні мобільні та настільні версії не збігаються та не можуть бути підключені. Оновіть обидві до останньої версії та спробуйте ще раз.</string>
+  <string name="desktopDialogGuide">Треба завантажити <b><i>Pure Writer Desktop 1.5.2 (або вище)</i></b> з https://writer.drakeet.com/desktop_en \n\ nКоли ваш мобільний телефон і комп'ютер підключені до <b>однієї мережі Wi-Fi або точки доступу👈👈👈</b>, відкрийте Робочий стіл і введіть IP-адресу нижче <b>у поле введення Робочого столу</b>, щоб підключитися до Pure Writer, тоді ви зможете синхронізувати й редагувати поточну статтю в режимі реального часу.</string>
+  <string name="desktopDialogNote">Примітка: Pure Writer Desktop все ще знаходиться на стадії альфа-версії. Будь ласка, зрозумійте та зачекайте його наступних оновлень.\n* Якщо ви бачите <b>кілька рядків IP-адрес</b>, спробуйте підключити їх один за одним.</string>
+  <string name="connectionIsStopping">З\'єднання припиняється, спробуйте пізніше!</string>
+
+  <string name="createShortcutLabel">Текстовий ярлик</string>
+  <string name="cursorPositionForNewArticle">Позиція курсора для нової статті</string>
+  <string name="stop_waiting_connection">Зупинити очікування на з\'єднання</string>
+  <string name="undoValidTip">Наразі зосереджену область введення більше не можна скасувати знову. Ви можете спробувати відновити свій вміст із меню Історія у верхньому правому куті.</string>
+  <string name="desktopDisconnected">Настільна версія відключена</string>
+  <string name="desktopConnected">Настільна версія підключена</string>
+  <string name="toDoCloudBackupButton">Перейти до налаштування облікового запису хмарного резервного копіювання</string>
+  <string name="ignoreCloudBackupCheckBox">Я не хочу налаштовувати хмарне резервне копіювання, не нагадуйте мені. Я готовий нести всі наслідки відсутності резервної копії в хмарі, включно з втратою всіх моїх цінних статей, коли телефон зламався, втратив чи скинувся, оскільки немає хмарного резервного копіювання!</string>
+  <string name="selectMore">Вибрати більше</string>
+  <string name="addChapterBelowThis">Додати розділ нижче</string>
+  <string name="addChapterAboveThis">Додати главу вище</string>
+  <string name="moveToOtherBook">Перейти до іншої книги</string>
+  <string name="paragraphSpacingSettingSummary">Супердовгий текст покращиться, якщо інтервал між абзацами вимкнено</string>
+  <string name="autoInsertBlankLineWhenWrapping">Автоматично вставляти порожній рядок під час перенесення</string>
+  <string name="markdownAsDefault">Розцінка як режим за замовчуванням для нових статей</string>
+  <string name="needToPayForMarkdownRenderer">Це сторінка швидкого попереднього перегляду Markdown, яка вимагає від вас заплатити за Pure Writer Pro, щоб використовувати її.</string>
+  <string name="fabContextCreateNewAfterCurrent">Нова стаття після поточної</string>
+  <string name="fabContextCreateNewAtTheBottom">Вставте нову статтю внизу списку статей</string>
+  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Вставити нову статтю внизу поточної категорії</string>
+  <string name="fabContextHideFabUntilNextStart">Сховати цю кнопку до наступного запуску</string>
+  <string name="fabContextHideFabTemporarily">Тимчасово приховати головну плаваючу кнопку</string>
+  <string name="markdownQuickPreview">Швидкий попередній перегляд Markdown</string>
+  <string name="exportToPicMdTxt">Експортувати як довге зображення/md/txt</string>
+  <string name="materialDesign2ThemeWithLineBreak">Тема Material Design 2</string>
+  <string name="ProIntroductionMarkdown"><![CDATA[
+| #### Спеціальні папери
+|
+| Ви можете вільно вибрати зображення у своєму мобільному телефоні або віддалену картинку як папір і фон для свого редактора:
+|
+| ![Зображення](https://gitee.com/PureWriter/resources/raw/master/pro/en/0.webp)
+|
+| #### Редактор 2 ✨
+|
+| Ви можете **гортати сторінку редактора по горизонталі**, щоб швидко отримати доступ до редактора 2:
+|
+| ![Зображення](https://gitee.com/PureWriter/resources/raw/master/pro/en/1.webp)
+|
+| #### Експортувати як довге текстове зображення / md / txt файл
+|
+| Ви можете експортувати статті у вигляді довгих текстових зображень або файлів .md .txt:
+|
+| ![Зображення](https://gitee.com/PureWriter/resources/raw/master/pro/en/2.webp)
+|
+| #### Експортувати книгу
+|
+| Ви можете знайти цей параметр у верхньому меню лівого ящика, він допоможе вам об’єднати весь вміст глави в звичайний текстовий файл:
+|
+| ![Зображення](https://gitee.com/PureWriter/resources/raw/master/pro/en/3.webp)
+|
+| #### Знайти та замінити
+|
+| Ви можете знайти цільові ключові слова в будь-якій статті та замінити їх групами:
+|
+| ![Зображення](https://gitee.com/PureWriter/resources/raw/master/pro/en/4.webp)
+|
+| #### Тема Material Design 2
+|
+| Коли тема Material Design 2 увімкнено, ви отримаєте прозору верхню панель, яка більше не є чисто чорною, і ви зможете отримати більш захоплюючий та красивий інтерфейс користувача:
+|
+| ![Зображення](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
+|
+| #### Pure Writer Desktop
+|
+| ![Робочий стіл Pure Writer](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
+|
+| Ви можете отримати Pure Writer Desktop та підключитися до робочого столу за допомогою значка хмари ☁️ у верхній частині головного редактора.
+|
+| На даний момент робочий стіл все ще знаходиться в альфа-стадії. Він може забезпечити лише базове підключення в режимі реального часу та синхронне редагування.
+|
+| Це зайняло у мене багато часу та енергії, і ваша підтримка допоможе нам зробити його досконалим і кращим.
+    ]]></string>
+  <string name="unlimitedWords">Необмежена кількість слів</string>
+  <string name="neverLost">Ніколи не втрачався</string>
+  <string name="veryVerySmooth">Дуже дуже гладко</string>
+  <string name="nightMode">Нічний режим</string>
+  <string name="keyboardStateRestoring">Відновлення стану клавіатури</string>
+  <string name="greatCursorFocus">Чудовий фокус курсору</string>
+
+  <string name="crazyUpdateBetterAndBetter">Божевільне оновлення, все краще й краще</string>
+  <string name="moreAdvantagesOfPureWriter">Більше переваг Pure Writer</string>
+  <string name="privilegeOfPureWriterPro">Привілей Pure Writer Pro</string>
+  <string name="messageThankYouForYourSupport">Ваша підтримка покращить розвиток Pure Writer, дозволить нам створювати надзвичайні продукти, мотивуючи при цьому більше незалежних розробників. \n\nPure Writer можна постійно оновлювати та вдосконалювати завдяки вашій підтримці. Щиро дякую!</string>
+  <string name="emailAddress">Адреса електронної пошти</string>
+  <string name="signUpOrSignIn">Зареєструватися/Увійти</string>
+  <string name="emailAddressIsEmptyOrIllegal">Адреса електронної пошти порожня або незаконна</string>
+  <string name="passwordMustBeAtLeast6Characters">Пароль має містити щонайменше 6 символів</string>
+  <string name="helperTextForNewAccount">Це новий обліковий запис, ми зареєструємо його для вас</string>
+  <string name="helperTextForRegisteredAccount">Цей обліковий запис зареєстровано, ми ввіймо його замість вас</string>
+  <string name="forgetPassword">Забули пароль?</string>
+  <string name="syntaxHighlighting">Висвітлення синтаксису</string>
+  <string name="notSignedIn">Не ввійшов</string>
+  <string name="requiresAtLeast6Characters">Потрібно щонайменше 6 символів</string>
+  <string name="emailOrPasswordIsIncorrect">Неправильна електронна адреса або пароль</string>
+  <string name="messageCustomFontAndPro">Перевірено, що ви використовуєте "Спеціальний шрифт", для якого потрібен Pure Writer Pro. Ви можете натиснути «ОК», щоб отримати Pure Writer Pro та додаткові функції, або натиснути, щоб скасувати користувацький шрифт (набуде чинності при наступному запуску).</string>
+  <string name="introductionOfReadOnlyMode">* Якщо курсор не видно, потрібно двічі клацнути, щоб розмістити курсор і перейти в режим редагування\n* Коли курсор видимий, текст можна редагувати або змінювати одним клацанням будь-якої way\n* Коли курсор видно, ви можете натиснути клавішу Назад, щоб приховати курсор та увійти в режим лише для читання</string>
+  <string name="messageReadOnlyModeAndPro">Для розширеного режиму лише для читання потрібен Pure Writer Pro. Ви можете натиснути «ОК», щоб отримати Pure Writer Pro та додаткові функції, або натиснути «Скасувати», щоб автоматично скасувати його після наступного запуску.</string>
+  <string name="messageNeedToPay">Це професійна функція. Вам потрібно заплатити за Pure Writer Pro, перш ніж ви зможете ним користуватися. Натисніть OK, щоб дізнатися про всі розширені функції Pure Writer Pro. Отримавши Pure Writer Pro, ви зможете користуватися всіма розширеними функціями.</string>
+  <string name="notYetActivated">Ще не активовано</string>
+  <string name="notYetActivatedOrExpired">Не активовано або минув</string>
+  <string name="signingInIsInvalid">Недійсний вхід</string>
+  <string name="verificationCode">Код підтвердження</string>
+  <string name="buyPureWriterPro">Придбайте Pure Writer Pro</string>
+  <string name="tipMarkdownQuickPreview">Проведіть пальцем по горизонталі до наступної сторінки для швидкого перегляду Markdown</string>
+  <string name="expiresOn">Термін дії закінчується:</string>
+  <string name="useLegacyRender">Використовувати застарілий засіб візуалізації</string>
+  <string name="advancedReadOnlyMode">Розширений режим лише для читання</string>
+  <string name="needOpenArticleFirst">Щоб використовувати цю опцію, спочатку потрібно відкрити статтю</string>
+  <string name="restoreArticleScrollPosition">Відновити позицію прокручування статті</string>
+  <string name="savedStateModeAuto">Автоматично (остання відредаговану статтю буде відновлено наступного разу; неостанню відредаговану статтю буде відновлено, якщо вона пройшла протягом тижня з часу останнього відкриття, інакше вона повернеться вгору)</ рядок>
+  <string name="savedStateModeEnableAll">У всякому разі, увімкнено для всіх статей</string>
+  <string name="savedStateModeDisableAll">У всякому разі, вимкнено для всіх статей</string>
+  <string name="summaryScrollToBottom">Чи показувати цю кнопку в редакторі</string>
+  <string name="cloudBackupFailed">Помилка резервного копіювання в хмару</string>
+  <string name="dropboxBackupFailed">Помилка резервного копіювання Dropbox, спробуйте повторно ввійти у свій обліковий запис Dropbox у налаштуваннях хмарного резервного копіювання Pure Writer</string>
+  <string name="tipJianguoyunURL">Будь ласка, заповніть наступні три вмісту</string>
+  <string name="dropboxBackupFailedDueToInsufficientSpace">Помилка резервного копіювання в хмару: у Dropbox не вистачає місця</string>
+  <string name="tipImageDialog">Введіть нижче посилання на веб-зображення, яке потрібно вставити. \nАбо ви можете натиснути \"Локальне зображення\" нижче, щоб вибрати локальне зображення та автоматично отримати локальне посилання для цього зображення.</string>
+  <string name="imageUrl">URL-адреса зображення</string>
+  <string name="imageDesc">Опис зображення (необов\'язково)</string>
+  <string name="width">ширина</string>
+  <string name="insertMarkdownImage">Вставити зображення Markdown</string>
+  <string name="youNeedToSignInAgain">Вам потрібно ввійти знову</string>
+
+  <string name="moreAndBetter">Більше і краще</string>
+  <string name="clickBottomAddNewBlankLine">Натисніть нижню область, щоб вставити порожній рядок</string>
+  <string name="summaryClickBottomAddNewBlankLine">Якщо останній рядок не є порожнім рядком, коли клацніть порожню область внизу редактора, новий порожній рядок буде автоматично вставлено в кінець тексту та буде фокусуватися.</string>
+  <string name="deleteCompletely">Видалити повністю</string>
+  <string name="openArticleListAfterSwitchingBooks">Відкрити список статей після зміни книги</string>
+  <string name="searchArticles">Швидкий пошук статей/швидкий перехід до статей</string>
+  <string name="unlimitedStorage">Необмежене сховище</string>
+  <string name="noteDateTimeShortcut"><![CDATA[
+| Крім того, ви також можете вставити змінні часу та дати, встановлені шляхом введення `${<format>}` у першому полі введення вище, де `<format>` потрібно замінити на формат дати/часу, наприклад:
+|
+| `${yyyy-MM-dd HH:mm}` створить:
+| `2020-04-01 21:43`
+|
+| `${yyyy-M-d hh:mm}` створить:
+| `2020-4-1 09:43`
+|
+| (Ви можете **довго натискати**, щоб вибрати та скопіювати наведені вище приклади, щоб спробувати)
+|
+| Ви також можете перевірити **таблицю** на цій [сторінці документа](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html), щоб дізнатися більше про **специфікатор формату** і безкоштовну комбінацію .
+    ]]></string>
+  <string name="doNotRemindAgain">Не нагадувати знову</string>
+  <string name="homeFab">Головний режим плаваючої кнопки дії</string>
+  <string name="fabOverflowModeSingleClick">Один клацніть, щоб відкрити спливаюче меню, і ви можете створити статтю в меню</string>
+  <string name="fabOverflowModeLongPress">Один клацніть, щоб створити статтю безпосередньо, і утримуйте, щоб відкрити спливаюче меню</string>
+  <string name="safeMode">Безпечний режим</string>
+  <string name="summarySafeMode">Коли ця програма переходить на фонову сторінку або сторінку списку останніх завдань, вміст цієї програми буде приховано або приховано; коли цей пункт увімкнено, знімки екрана в додатку також будуть заборонені</string>
+  <string name="pressBackToClearCursor">Курсор прихований і перейшов у режим "лише читання"</string>
+  <string name="PureWriterManual">Посібник для Pure Writer</string>
+  <string name="cursorJoyTutorial">Натисніть і утримуйте наведену вище кнопку струшування, потім перемістіть палець, щоб керувати рухом курсору</string>
+  <string name="tipBlueInputBox">Порада: після введення натисніть клавішу Enter ⏎, щоб вискочити з синього поля введення</string>
+  <string name="defaultShortcut1">\"\"</string>
+  <string name="defaultShortcut2">null</string>
+  <string name="defaultShortcut3">()</string>
+  <string name="textShortcut">Текстовий ярлик</string>
+  <string name="copyCurrent">Копіювати виділений або поточний повний текст</string>
+  <string name="orSelectShortcutFunction">Або виберіть функцію швидкого доступу</string>
+  <string name="joyNotSupportTitleNow">Ця функція наразі не підтримується в назві</string>
+  <string name="blueInputBox">Синє поле введення</string>
+  <string name="editorMarkdownSyncScrolling">Синхронізувати прокручування для редактора ⇋ Markdown</string>
+  <string name="smoothCursor">Гладкий курсор</string>
+  <string name="typeOfTimeDisplayed">Тип відображеного часу</string>
+  <string name="timeModified">Час змінено</string>
+  <string name="timeCreated">Час створення</string>
+  <string name="timeCreatedAndModified">Час створення &amp; Змінено</string>
+
+  <string name="currentChapterWordCount">Кількість слів поточного розділу</string>
+  <string name="currentBookWordCount">Кількість слів у всій книзі</string>
+  <string name="selectFolder">Вибрати папку</string>
+  <string name="fileTypeNotSupported">Тип файлу не підтримується</string>
+  <string name="grantStoragePermission">Надати дозвіл на зберігання</string>
+  <string name="folderNoLongerExists">Тека або сховище більше не існує!</string>
+  <string name="tipNotRecommendedFolder">Ця папка не відповідає нашим рекомендованим папкам, і Pure Writer не зможе прочитати свої старі файли резервної копії. Будь ласка, зверніть увагу або поверніться до попереднього кроку, щоб виправити це!</string>
+  <string name="tipTargetFolder">"Відповідно до вибраної папки, остаточний каталог зберігання Pure Writer: "</string>
+  <string name="messageWhyNeedSAF">Щоб краще захистити конфіденційність користувачів, починаючи з Android 11, Pure Writer **більше не вимагає повних дозволів на читання/запис у зовнішньому сховищі**, натомість він дозволяє **користувачам вказувати каталог папок**, і Pure Writer матиме доступ лише для читання/запису до цього каталогу.\n\nТому вам потрібно вибрати папку, натиснувши кнопку нижче. Щоб відновити старі дані під час перевстановлення в майбутньому, ми **настійно рекомендуємо** вибрати папку ***`Documents`*** 🙏</string>
+  <string name="pureWriterFolder">Папка PureWriter</string>
+  <string name="selectFont">Виберіть шрифт</string>
+  <string name="materialFilesNote">Наразі "open" нижче підтримує відкриття лише за допомогою zhanghai/MaterialFiles. За потреби ви можете завантажити цю програму самостійно або вручну скористатись файловим менеджером у вашій системі, щоб відкрити наведений вище шлях.</string>
+  <string name="changeFolder">Змінити папку</string>
+  <string name="yourFolderIs">"Вибраний каталог папок: "</string>
+  <string name="changeFolderNote">Якщо ви виберете "Змінити папку" нижче, вам потрібно **вручну** перемістити папку PureWriter до нової цільової папки **спочатку**, а потім змінити її.</string>
+  <string name="autoConnectToDesktop">Автоматичне підключення до версії для комп’ютера</string>
+  <string name="desktopLink">https://writer.drakeet.com/desktop_en</string>
+  <string name="autoConnectToDesktopNextTime">Наступного разу автоматично підключатися до робочого столу</string>
+  <string name="optionsForTheFewPeople">Параметри для небагатьох людей</string>
+  <string name="summaryPie">Укажіть деякі параметри, які не слід надавати</string>
+  <string name="stretchEdgeEffect">Ефект розтягування краю</string>
+  <string name="staticCursor">Статичний курсор (не блимає)</string>
+  <string name="cursorJoyModePosition"><![CDATA[Режим і положення контролера курсору]]></string>
+  <string name="cursorJoyModePosition0">Режим захисту від випадкового дотику, праворуч</string>
+  <string name="restoreOptionsMessage">Чи потрібно використовувати цю резервну копію, щоб перезаписати локальний вміст або об’єднати його з локальним вмістом?\n\nПримітка. Якщо вибрати Об’єднати, налаштування та інформація облікового запису хмарного резервного копіювання у файлі резервної копії буде не будуть об’єднані, і вам може знадобитися переналаштувати їх вручну.\n\nКрім того, якщо ви зміните порядок статей або видалите статті, ці операції не будуть об’єднані, оскільки це призведе до конфліктів. <b>Тому ми рекомендуємо використовувати \"overwrite\", і якщо ви змінюєте дані на одному пристрої, вам слід негайно синхронізувати дані на іншому пристрої за допомогою функції \"overwrite\". </b></string>
+  <string name="checkIntegrityOfBackup">Перевірте цілісність файлу резервної копії…</string>
+  <string name="noteBeforeRestoringBackup">Перш ніж все почнеться, зробіть резервну копію поточних даних…</string>
+  <string name="startMerging">Почати об’єднання…</string>
+  <string name="insertANewBook">Вставте нову книгу</string>
+  <string name="insertANewCategory">Вставити нову категорію</string>
+  <string name="insertingOrUpdatingArticles">Вставка або оновлення статей…</string>
+  <string name="insertANewArticle">Вставити нову статтю</string>
+  <string name="updateAnExistingArticle">Оновити наявну статтю</string>
+  <string name="totalNumberOfArticlesInsertedOrUpdated">Загальна кількість вставлених або оновлених статей</string>
+  <string name="insertANewShortcut">Вставити новий ярлик</string>
+  <string name="totalNumberOfNewTimeMachineMessagesInserted">Загальна кількість вставлених нових повідомлень машини часу</string>
+  <string name="autoComplete">Автозавершення</string>
+  <string name="autoCompleteSummary">Автоматично заповнювати парні символи, лише коли курсор знаходиться <b>в кінці</b> статті</string>
+  <string name="autoDeleteSymbolsInPairs">Автоматичне видалення символів у парах</string>
+  <string name="autoDeleteSymbolsInPairsSummary">Лише якщо вміст у парному символі <b>порожній</b></string>
+  <string name="editor2Tip">Ви перебуваєте в другому редакторі, і його верхній значок знаходиться навпроти першого редактора. Якщо ви хочете повернутися до першого редактора, ви можете <b>провести ліворуч або праворуч по редактору</b>.</string>
+  <string name="needCursorTip">Перш ніж продовжити, потрібно натиснути на текст, щоб розмістити курсор</string>
+
+  <string name="shortcutKeysForShortcut">Клавіші швидкого доступу для записів швидкого доступу</string>
+  <string name="shortcutKeysForShortcutSummary">Натисніть Alt або Ctrl + число, щоб викликати текстові ярлики</string>
+  <string name="optionsForLandscape"><![CDATA[Налаштування та вказівки ландшафту]]></string>
+  <string name="editInVerticalCenter">Редагувати у вертикальному центрі</string>
+  <string name="onlyWorkForHardwareKeyboard">Працює лише для апаратної клавіатури</string>
+  <string name="editInVerticalCenterSummary">Зробить поточний відредагований рядок завжди посередині екрана (Можливо, це проблема методу введення, вибачте за це!)</string>
+  <string name="migrateImageAssets">Перемістити зображення Markdown в каталог Documents/PureWriter/Assets</string>
+  <string name="migrateImageAssetsSummary">Це допомагає централізовано переносити всі зображення, на які посилається ваш Markdown, на новий пристрій. Після цієї операції ви можете скопіювати папку Documents/PureWriter/Assets до того самого каталогу нового пристрою, а потім відновити резервну копію пристрою на новому пристрої, щоб новий пристрій міг плавно посилатися на оригінальні зображення.</string>
+  <string name="tipForFromPlayToAlipay">Щоб скористатися цим способом оплати, переконайтеся, що ви перебуваєте в материковому Китаї. Цей спосіб оплати в принципі доступний лише користувачам із материкового Китаю, оскільки Google і Google Play не можна використовувати для оплати в Китаї.</string>
+  <string name="switchToAlipayPaymentMethod">Перейти на спосіб оплати Alipay</string>
+  <string name="switchToGooglePlayPaymentMethod">Перейти до способу оплати Google Play</string>
+  <string name="notesForGoogleSkus">Важливо:\n\n* Оскільки Google не надає інтерфейс для скасування підписки, якщо вам потрібно скасувати підписку, вам потрібно натиснути свою підписку або натиснути кнопку \"Скасувати підписку?\" вище. щоб продовжити.\n\n* Після того, як ви скасуєте підписку на цю програму в Google Play, програма не відразу отримає останній статус, тому ви побачите, що елемент підписки все ще знаходиться в \"активному\" ​​стані на цьому сторінка. Це нормальне явище. Ви отримаєте правильний результат наступного дня або зачекайте до кінця поточного періоду підписки.\n\n* Якщо ви плануєте перейти з підписки на елемент \"Довічна\", спершу потрібно скасувати підписку, а потім придбайте елемент \"Довічна\". Ця програма не може самостійно скасувати вашу підписку.\n\n* Якщо ви зіткнетеся з помилкою DF-DFERH-01 під час процесу оплати, спробуйте перезавантажити пристрій і повторіть спробу.\n\n* Результат оплати буде автоматично прив’язано до вашого системного облікового запису Google, дякую!</string>
+  <string name="themesAndPapers"><![CDATA[Теми та шпалери]]></string>
+  <string name="selectALightTheme">Виберіть світлу тему</string>
+  <string name="selectADarkTheme">Виберіть темну тему</string>
+  <string name="selectATheme">Виберіть тему</string>
+  <string name="fixedThemeTitle">Виправлено, не перемикатися автоматично</string>
+  <string name="followSystemThemeTitle">Система відслідковування (синхронізація з ОС)</string>
+  <string name="scheduledThemeTitle">Автоматичне перемикання відповідно до часу:\n7:00–17:00 використовувати світлу тему, інакше – темну</string>
+  <string name="paperSettingsHint">Натисніть, щоб вибрати або налаштувати шпалери/тему</string>
+  <string name="whetherOverwriteSettings">Перезаписати локальні налаштування?</string>
+  <string name="realNo">Ні</string>
+  <string name="realYes">Так</string>
+  <string name="askOverwriteSettings">Ми будемо використовувати базу даних статей у вашому файлі резервної копії, щоб замінити локальну базу даних статей, але ми не знаємо, чи потрібно нам використовувати налаштування файлу резервної копії, щоб перезаписати локальні налаштування. Будь ласка, виберіть:</string>
+  <string name="privacyPolicySummary">Ми не будемо збирати вашу особисту інформацію</string>
+  <string name="on">Увімкнено (англійською)</string>
+  <string name="off">Вимкнено (англійською)</string>
+
+  <string name="history">Історія</string>
+  <string name="password">Пароль</string>
+  <string name="backupRemarkForReplace">BeforeReplace</string>
+  <string name="formatterAction">Формат</string>
+  <string name="splitLayout">Розділене макет</string>
+  <string name="rating">Рейтинг</string>
+  <string name="summary">Підсумок</string>
+  <string name="once">завжди</string>
+  <string name="font">Шрифт</string>
+  <string name="findReplace">Знайти &amp; Замінити</string>
+  <string name="replace">Замінити</string>
+  <string name="find">Знайти</string>
+  <string name="tipUndoReplace">Скасувати:\n* Ви можете перейти до Pure Writer - Налаштування - резервна копія - Відновити резервну копію, клацніть попередню резервну копію, щоб відновити попередній вміст.\n* Якщо ви щойно замінили поточний розділ, Ви можете перейти на сторінку Історія через меню у верхньому правому куті та повернутися до попереднього вмісту.</string>
+  <string name="overwrite">Перезаписати</string>
+  <string name="doNotOverwrite">Не перезаписувати</string>
+  <string name="defaultDark">Темний за замовчуванням</string>
+  <string name="defaultX">За замовчуванням</string>
+  <string name="zoomIn">Збільшити</string>
+  <string name="zoomOut">Зменшити</string>
+  <string name="restoreByThisBackupWithAppName">Pure Writer: відновлення за допомогою цієї резервної копії</string>
+  <string name="backupSettingTitle">Резервна копія</string>
+  <string name="connect">Підключитися</string>
+  <string name="customPapers">Спеціальні документи\nДелікатний, захоплюючий</string>
+  <string name="supportParagraphSpacing">Інтервал між абзацами</string>
+  <string name="account">Обліковий запис</string>
+  <string name="lifetime">Час життя</string>
+  <string name="proExpired">Термін дії Pro минув</string>
+  <string name="changelog">Журнал змін</string>
+  <string name="duplicate">Дублікат</string>
+  <string name="read">Читати</string>
+  <string name="cursorJoy">Курсор Joy-Con</string>
+  <string name="indent">Відступ</string>
+  <string name="format">Формат</string>
+  <string name="theTry">Спробуйте</string>
+  <string name="cursorJoyModePosition1">Режим \"Прямо торкніться, щоб перемістити\", у списку ярликів</string>
+  <string name="merge">Об’єднати</string>
+  <string name="merging">Об’єднання…</string>
+  <string name="mergeDone">Готово!</string>
+  <string name="relaunch">Перезапустити</string>
+  <string name="skuActive">Активний</string>
+  <string name="activating">Активація…</string>
+  <string name="updating">Оновлення…</string>
+  <string name="askUnsubscribe"><u>Скасувати підписку?</u></string>
+  <string name="lightTheme">Світла тема</string>
+  <string name="darkTheme">Темна тема</string>
+  <string name="tip">Порада</string>
+  <string name="tipGoogleDriveAppScope">Порада. Оскільки приватний каталог додатків на Диску Google не видимий для користувачів, функція Bridge буде автоматично вимкнена.</string>
+  <string name="searchTip">Порада. Ви можете ввести кілька ключових слів для пошуку за розривами рядків, але в результатах буде виділено лише перше ключове слово.</string>
+  <string name="tipFab">Порада. Щоб тимчасово приховати її, утримуйте і утримуйте кнопку з плаваючою функцією Home.</string>
+  <string name="clearThisContent"><b>Очистити</b> цей вміст</string>
+  <string name="title">Назва</string>
+  <string name="titleHint">Назва</string>
+  <string name="slogan">Швидко | Чудовий досвід | Ніколи не втрачайте свій вміст</string>
+  <string name="undo">Скасувати</string>
+  <string name="redo">Повторити</string>
+  <string name="about">Про | Довідка</string>
+  <string name="share">Надати доступ до іншої програми</string>
+  <string name="lock">Замок</string>
+  <string name="goOn">Продовжити</string>
+  <string name="reject">Відмовитися</string>
+  <string name="empty">Порожній</string>
+  <string name="defaultTitle">Як хочете</string>
+  <string name="settings">Налаштування</string>
+  <string name="explanation">Пояснення</string>
+  <string name="proReadMe">"Якщо ви вважаєте, що Pure Writer корисний, і бажаєте, щоб він продовжував розвиватися, чи не могли б ви внести кілька доларів розробнику?\n\nВаша підтримка заохочує таких незалежних розробників, як я, розвивати й розвивати й розвивати. запропонуйте більше добре створених програм. \n\nЩоб підтримати, ви можете натиснути кнопку Google Play. <b>Після внеску ви отримаєте професійні функції, такі як Material Design 2, Outline, Export, Custom Paper / Background і також майбутні оновлення безкоштовно на знак вдячності.</b>\nЧерез таких прихильників, як ви, Pure Writer прагне бути кращим і оновленим. Нарешті, дякуємо за вашу підтримку! "</string>
+  <string name="copied">Скопійовано</string>
+  <string name="enabled">Увімкнено</string>
+  <string name="tipBackupList">Ось ваші файли резервної копії. Ви можете натиснути, щоб відновити їх.\n<b>Якщо ви хочете отримати резервні копії файлів із Dropbox/WebDAV/GoogleDrive, спершу увійдіть у свій обліковий запис Dropbox/WebDAV/GoogleDrive!</b></string>
+  <string name="fab">Кнопка з плаваючою діяльністю Home</string>
+  <string name="more">Більше</string>
+  <string name="trash">Кошик</string>
+  <string name="apply">Застосувати</string>
+  <string name="papers">Документи</string>
+  <string name="custom">Власний</string>
+  <string name="language">Мова</string>
+  <string name="name">Назва</string>
+
+  <string name="move">Перемістити</string>
+  <string name="moveTo">Перемістити до</string>
+  <string name="picture">Зображення</string>
+  <string name="saved">Збережено</string>
+  <string name="mode">Режим</string>
+  <string name="plainText">Звичайний текст</string>
+  <string name="promptShortcutOrder">Порядок</string>
+  <string name="fixedSync">Міст</string>
+  <string name="bridgeUpload">Міст: завантаження</string>
+  <string name="bridgeDownload">Міст: отримувати</string>
+  <string name="backupSettingSummary">Резервне копіювання, відновлення, Dropbox, WebDAV, Google Drive</string>
+  <string name="syncNetwork">Резервне копіювання в хмару</string>
+  <string name="unlockPro">Розблокувати Pro</string>
+  <string name="edit">Редагувати</string>
+  <string name="category">Категорія</string>
+  <string name="failed">Помилка</string>
+  <string name="insertCategoryAboveShort">Вставити категорію <b>вгорі</b></string>
+  <string name="insertCategoryBelowShort">Вставити категорію <b>нижче</b></string>
+  <string name="insertCategoryBottomShort">Вставити категорію <b>внизу</b></string>
+  <string name="insertCategoryAboveLong">Вставити категорію <b>над</b> поточну статтю</string>
+  <string name="insertCategoryBelowLong">Вставити категорію <b>під</b> поточну статтю</string>
+  <string name="insertCategoryBottomLong">Вставте нову категорію в <b>нижню частину</b> списку розділів</string>
+  <string name="insertCategory">Вставити нову категорію</string>
+  <string name="editCategory">Редагувати категорію</string>
+  <string name="unlockValidityPeriodSummary">%s\nПримітка: якщо натиснути кнопку Назад, щоб вийти з програми, наступного разу вона буде заблокована</string>
+  <string name="spacingsAndMargins">Інтервали та поля</string>
+  <string name="license">Ліцензія</string>
+  <string name="latex">Формула LaTeX</string>
+  <string name="signedIn">Ви ввійшли</string>
+  <string name="thankYou">Дякуємо!</string>
+  <string name="editor2">Редактор 2</string>
+  <string name="previous">Попередній</string>
+  <string name="typewriterModeMode0">Режим абзацу</string>
+  <string name="typewriterModeMode1">Лінійний режим</string>
+  <string name="ok">ОК</string>
+  <string name="cancel">Скасувати</string>
+  <string name="yes">ОК</string>
+  <string name="no">Скасувати</string>
+  <string name="books">Книги</string>
+  <string name="currentChapter">Поточний розділ</string>
+
+  <string name="sortingOptions">Параметри сортування</string>
+  <string name="modifyOrderOfChapters">Змінити порядок розділів</string>
+  <string name="modifyOrderOfCategories">Змінити порядок категорій</string>
+  <string name="saveAsTxtFile">Зберегти як файл .txt</string>
+  <string name="saveAsMdFile">Зберегти як файл .md</string>
+  <string name="saveAsLongImage">Зберегти як довге зображення (.png)</string>
+  <string name="previewThemeSmartisan">Тема: Smartisan</string>
+  <string name="previewThemeDark">Тема: Темна</string>
+  <string name="previewThemeLight">Тема: Світло</string>
+  <string name="useAppFont">Використовуйте шрифт програми</string>
+  <string name="useSystemFont">Використовуйте системний шрифт</string>
+  <string name="tipBadThemeBackground">Вибране на даний момент фонове зображення або колір не збігаються з кольором шрифту поточної теми, будь ласка, виберіть його ще раз або проігноруйте цей запит, якщо ви вважаєте, що це підказка неправильна.</string>
+  <string name="keywordDetection">Визначення ключових слів</string>
+  <string name="confirmDeletion">Підтвердити видалення</string>
+  <string name="addAKeyword">Додати ключове слово</string>
+  <string name="clearAllKeywords">Очистити всі ключові слова</string>
+  <string name="pleaseSeeTheKeywordsFile">Будь ласка, перегляньте файл ключових слів</string>
+  <string name="export">Експортувати</string>
+  <string name="import2">Імпорт</string>
+  <string name="keywordsAreAsFollow">Ключові слова наведені нижче, по одному на рядок</string>
+  <string name="filter">Фільтр</string>
+  <string name="tipEmptyKeywords">Поточна бібліотека [ключового слова] порожня, ви можете натиснути кнопку Додати або Імпортувати вгорі, щоб імпортувати ключове слово, і текст, який відповідає ключовому слову, буде позначено в редакторі в режимі реального часу. </string>
+  <string name="keywordsManagement">Керування ключовими словами</string>
+  <string name="uploadingKeywordsToCloud">Завантаження ключових слів у ваше хмарне сховище...</string>
+  <string name="downloadingKeywordsFromCloud">Завантаження ключових слів із вашого хмарного сховища...</string>
+  <string name="keywordRetrieval">Вилучення ключового слова</string>
+  <string name="retrieveCurrentArticle">Отримати поточну статтю</string>
+  <string name="previousOne">Попередній</string>
+  <string name="nextOne">Наступний</string>
+  <string name="uploadToCloudStorage">Завантажити в хмарне сховище</string>
+  <string name="downloadFromCloudStorage">Завантажити з хмарного сховища</string>
+  <string name="disableKeywordsFeature">Вимкнути функцію ключових слів</string>
+
+  <string name="forcedBlackTextColor">Примусово чорний колір тексту</string>
+  <string name="forcedWhiteTextColor">Примусово білий колір тексту</string>
+</resources>

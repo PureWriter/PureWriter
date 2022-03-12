@@ -459,7 +459,6 @@
   <string name="selectALightTheme">Wybierz jasny motyw</string>
   <string name="selectADarkTheme">Wybierz ciemny motyw</string>
   <string name="selectATheme">Wybierz motyw</string>
-  <string name="tipBadPaper">Wybrany obraz lub kolor nie spełnia wymagań, proszę wybrać ponownie</string>
   <string name="fixedThemeTitle">Poprawione, nie przełączaj automatycznie</string>
   <string name="followSystemThemeTitle">Podążaj za systemem (Synchronizacja z OS)</string>
   <string name="scheduledThemeTitle">Automatyczne przełączanie zgodnie z czasem:\N7:00-17:00 używaj jasnego motywu, w przeciwnym razie ciemny motyw</string>
@@ -622,4 +621,27 @@
   <string name="previewThemeLight">Motyw: Światło</string>
   <string name="useAppFont">Użyj czcionki aplikacji</string>
   <string name="useSystemFont">Użyj czcionki systemowej</string>
+  <string name="tipBadThemeBackground">Aktualnie wybrany obraz lub kolor tła nie pasuje do koloru czcionki bieżącego motywu, wybierz go ponownie lub zignoruj ten monit, jeśli uważasz, że ten monit jest nieprawidłowy.</string>
+  <string name="forcedBlackTextColor">Wymuś czarny kolor tekstu</string>
+  <string name="forcedWhiteTextColor">Wymuś biały kolor tekstu</string>
+  <string name="keywordDetection">Wykrywanie słów kluczowych</string>
+  <string name="confirmDeletion">Potwierdź usunięcie</string>
+  <string name="addAKeyword">Dodaj słowo kluczowe</string>
+  <string name="clearAllKeywords">Wyczyść wszystkie słowa kluczowe</string>
+  <string name="pleaseSeeTheKeywordsFile">Proszę zobaczyć plik słów kluczowych</string>
+  <string name="export">Eksportuj</string>
+  <string name="import2">Importuj</string>
+  <string name="keywordsAreAsFollow">Słowa kluczowe są następujące, po jednym w wierszu</string>
+  <string name="filter">Filtr</string>
+  <string name="tipEmptyKeywords">Bieżąca biblioteka [keyword] jest pusta, możesz kliknąć przycisk Dodaj lub Importuj u góry, aby zaimportować słowo kluczowe, a tekst pasujący do słowa kluczowego zostanie zaznaczony w edytorze w czasie rzeczywistym. </string>
+  <string name="keywordsManagement">Zarządzanie słowami kluczowymi</string>
+  <string name="uploadingKeywordsToCloud">Przesyłanie słów kluczowych do pamięci w chmurze...</string>
+  <string name="downloadingKeywordsFromCloud">Pobieranie słów kluczowych z pamięci w chmurze...</string>
+  <string name="keywordRetrieval">Pobieranie słów kluczowych</string>
+  <string name="retrieveCurrentArticle">Pobierz bieżący artykuł</string>
+  <string name="previousOne">Poprzedni</string>
+  <string name="nextOne">Następny</string>
+  <string name="uploadToCloudStorage">Prześlij do pamięci w chmurze</string>
+  <string name="downloadFromCloudStorage">Pobierz z pamięci w chmurze</string>
+  <string name="disableKeywordsFeature">Wyłącz funkcję słów kluczowych</string>
 </resources>

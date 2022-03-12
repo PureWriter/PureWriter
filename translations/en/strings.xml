@@ -265,8 +265,8 @@
   <string name="presetContent4">Pure Writer takes its users\' privacy very seriously, it will never collect any of your private information. \nAlso, it will not read or modify any content on your clipboard without first notifying you.\nThe storage permission that Pure Writer asked for is solely used for auto backup and save your files. Other than that, it will not read or modify any of your files in the storage without first notifying you.\nPure Writer supports cloud backup, which uses HTTPS encryption to transfer your database backups to your WebDAV cloud storage. Your cloud backups will only be stored in the cloud storage you set, and they will never be uploaded to other places.</string>
   <string name="createAt">Created at</string>
   <string name="updatedAt">Updated at</string>
-  <string name="forcedBlackTextColor" translatable="false">Force Black Text Color</string>
-  <string name="forcedWhiteTextColor" translatable="false">Force White Text Color</string>
+  <string name="forcedBlackTextColor">Force Black Text Color</string>
+  <string name="forcedWhiteTextColor">Force White Text Color</string>
   <string name="onlyAvailableWhenParagraphOn">Only available when paragraph spacing is on</string>
   <string name="onlyAvailableWhenParagraphOff">Only available when paragraph spacing is off</string>
   <string name="lowProfile">Status bar focus mode</string>
@@ -666,7 +666,7 @@
   <string name="switchToGooglePlayPaymentMethod">Switch to Google Play payment method</string>
   <string name="skuActive">Active</string>
   <string name="askUnsubscribe"><u>Unsubscribe?</u></string>
-  <string name="notesForGoogleSkus">Important:\n\n* Since Google does not provide an interface for canceling subscriptions, if you need to cancel a subscription, you need to click on your subscription or the \"Unsubscribe?\" above to proceed.\n\n* After you cancel the subscription of this app on Google Play, the app will not receive the latest status immediately, so you will see that the subscription item is still in the \"active\" state on this page. This is a normal phenomenon. You will get the correct result the next day, or wait until the end of the current subscription period.\n\n* If you plan to switch from a subscription to the \"Lifetime\" item, you should cancel your subscription first, and then purchase the \"Lifetime\" item. This app cannot cancel your subscription by itself.\n\n* If you encounter the DF-DFERH-01 error during the payment process, please try to restart your device and try again.\n\n* The payment result will be automatically bound to your system Google account, thanks!</string>
+  <string name="notesForGoogleSkus">Important:\n\n* Since Google does not provide an interface for canceling subscriptions, if you need to cancel a subscription, you need to click on your subscription or the \"Unsubscribe?\" above to proceed.\n\n* After you cancel the subscription of this app on Google Play, the app will not receive the latest status immediately, so you will see that the subscription item is still in the \"active\" state on this page. This is a normal phenomenon. You will get the correct result the next day, or wait until the end of the current subscription period.\n\n* If you plan to switch from a subscription to the \"Lifetime\" item, you should cancel your subscription first, and then purchase the \"Lifetime\" item. This app cannot cancel your subscription by itself.\n\n* If you encounter the DF-DFERH-01 error during the payment process, please try to restart your device and try again.\n\n* If you subscribe or buy Pro, you will have access to all Pro features of Pure Writer, otherwise you will have access to free features other than Pro.\n\n* In addition, most of the Pro functions will provide a \"Try\" option for trial. The trial is generally 7 days. After the expiration, Pure Writer will NOT automatically charge. In other words, Pure Writer will not automatically switch to a paid subscription. So you don\'t need to worry about the trial.\n\n* The payment result will be automatically bound to your system Google account, thanks!</string>
   <string name="activating">Activating…</string>
   <string name="updating">Updating…</string>
   <string name="themesAndPapers"><![CDATA[Themes & Wallpapers]]></string>
@@ -674,7 +674,6 @@
   <string name="selectALightTheme">Select a light theme</string>
   <string name="selectADarkTheme">Select a dark theme</string>
   <string name="selectATheme">Select a theme</string>
-  <string name="tipBadPaper">The image or color you selected does not meet the requirement, please select again</string>
   <string name="fixedThemeTitle">Fixed, don\'t switch automatically</string>
   <string name="followSystemThemeTitle">Follow system (Sync with OS)</string>
   <string name="scheduledThemeTitle">Auto switch according to time:\n7:00-17:00 use light theme, otherwise dark theme</string>
@@ -697,4 +696,25 @@
   <string name="previewThemeLight">Theme: Light</string>
   <string name="useAppFont">Use app font</string>
   <string name="useSystemFont">Use system font</string>
+  <string name="tipBadThemeBackground">The currently selected background image or color does not match the font color of the current theme, please select it again, or ignore this prompt if you think this prompt is wrong.</string>
+  <string name="keywordDetection">Keyword detection</string>
+  <string name="confirmDeletion">Confirm deletion</string>
+  <string name="addAKeyword">Add a keyword</string>
+  <string name="clearAllKeywords">Clear all keywords</string>
+  <string name="pleaseSeeTheKeywordsFile">Please see the keywords file</string>
+  <string name="export">Export</string>
+  <string name="import2">Import</string>
+  <string name="keywordsAreAsFollow">The keywords are as follows, one per line</string>
+  <string name="filter">Filter</string>
+  <string name="tipEmptyKeywords">The current [keyword] library is empty, you can click the Add or Import button at the top to import the keyword, and the text that matches the keyword will be marked in the editor in real time.</string>
+  <string name="keywordsManagement">Keywords management</string>
+  <string name="uploadingKeywordsToCloud">Uploading keywords to your cloud storage...</string>
+  <string name="downloadingKeywordsFromCloud">Downloading keywords from your cloud storage...</string>
+  <string name="keywordRetrieval">Keyword retrieval</string>
+  <string name="retrieveCurrentArticle">Retrieve current article</string>
+  <string name="previousOne">Previous one</string>
+  <string name="nextOne">Next one</string>
+  <string name="uploadToCloudStorage">Upload to cloud storage</string>
+  <string name="downloadFromCloudStorage">Download from cloud storage</string>
+  <string name="disableKeywordsFeature">Disable the keywords feature</string>
 </resources>

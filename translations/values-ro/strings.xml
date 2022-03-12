@@ -480,7 +480,6 @@
   <string name="selectALightTheme">Selectați o temă ușoară</string>
   <string name="selectADarkTheme">Selectați o temă întunecată</string>
   <string name="selectATheme">Selectați o temă</string>
-  <string name="tipBadPaper">Imaginea sau culoarea pe care ați selectat-o nu corespunde cerințelor, vă rugăm să selectați din nou</string>
   <string name="fixedThemeTitle">Fixat, nu se schimbă automat</string>
   <string name="followSystemThemeTitle">Follow system (Sync with OS)</string>
   <string name="scheduledThemeTitle">Schimbare automată în funcție de oră:\n7:00-17:00 folosiți tema ușoară, altfel tema întunecată</string>
@@ -620,4 +619,27 @@
   <string name="saveAsLongImage">Salvați ca imagine lungă (.png)</string>
   <string name="saveAsMdFile">Salvați ca fișier .md</string>
   <string name="saveAsTxtFile">Salvați ca fișier .txt</string>
+  <string name="tipBadThemeBackground">Imaginea sau culoarea de fundal selectată în prezent nu se potrivește cu culoarea fontului temei curente, vă rugăm să o selectați din nou sau ignorați această solicitare dacă credeți că această solicitare este greșită.</string>
+  <string name="forcedBlackTextColor">Forțați culoarea textului negru</string>
+  <string name="forcedWhiteTextColor">Forțați culoarea textului alb</string>
+  <string name="keywordDetection">Detecția cuvintelor cheie</string>
+  <string name="confirmDeletion">Confirmați ștergerea</string>
+  <string name="addAKeyword">Adăugați un cuvânt cheie</string>
+  <string name="clearAllKeywords">Ștergeți toate cuvintele cheie</string>
+  <string name="pleaseSeeTheKeywordsFile">Vă rugăm să vedeți fișierul de cuvinte cheie</string>
+  <string name="export">Export</string>
+  <string name="import2">Import</string>
+  <string name="keywordsAreAsFollow">Cuvintele cheie sunt după cum urmează, unul pe rând</string>
+  <string name="filter">Filtru</string>
+  <string name="tipEmptyKeywords">Biblioteca actuală [keyword] este goală, puteți face clic pe butonul Adăugare sau Import din partea de sus pentru a importa cuvântul cheie, iar textul care se potrivește cu cuvântul cheie va fi marcat în editor în timp real. </string>
+  <string name="keywordsManagement">Gestionarea cuvintelor cheie</string>
+  <string name="uploadingKeywordsToCloud">Se încarcă cuvinte cheie în stocarea în cloud...</string>
+  <string name="downloadingKeywordsFromCloud">Se descarcă cuvinte cheie din stocarea în cloud...</string>
+  <string name="keywordRetrieval">Preluare cuvinte cheie</string>
+  <string name="retrieveCurrentArticle">Preluați articolul curent</string>
+  <string name="previousOne">Anterior</string>
+  <string name="nextOne">Următorul</string>
+  <string name="uploadToCloudStorage">Încărcați în spațiul de stocare în cloud</string>
+  <string name="downloadFromCloudStorage">Descărcați din stocarea în cloud</string>
+  <string name="disableKeywordsFeature">Dezactivați funcția de cuvinte cheie</string>
 </resources>

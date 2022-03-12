@@ -484,7 +484,6 @@
   <string name="selectALightTheme">Izvēlieties gaismas tēmu</string>
   <string name="selectADarkTheme">Izvēlieties tumšu tēmu</string>
   <string name="selectATheme">Izvēlieties tēmu</string>
-  <string name="tipBadPaper">Izvēlētais attēls vai krāsa neatbilst prasībām, lūdzu, izvēlieties vēlreiz</string>
   <string name="fixedThemeTitle">Fiksēts, nepārslēdzas automātiski</string>
   <string name="followSystemThemeTitle">Sekot sistēmai (sinhronizācija ar OS)</string>
   <string name="scheduledThemeTitle">Automātiski pārslēgties atkarībā no laika:\n7:00-17:00 izmantot gaišo tēmu, citādi tumšo tēmu</string>
@@ -624,4 +623,27 @@
   <string name="saveAsLongImage">Saglabāt kā garu attēlu (.png)</string>
   <string name="saveAsMdFile">Saglabāt kā .md failu</string>
   <string name="saveAsTxtFile">Saglabāt kā .txt failu</string>
+  <string name="tipBadThemeBackground">Pašlaik atlasītais fona attēls vai krāsa neatbilst pašreizējā motīva fonta krāsai. Lūdzu, atlasiet to vēlreiz vai ignorējiet šo uzvedni, ja uzskatāt, ka šī uzvedne ir nepareiza.</string>
+  <string name="forcedBlackTextColor">Piespiedu melnā teksta krāsa</string>
+  <string name="forcedWhiteTextColor">Piespiedu teksta krāsa baltā krāsā</string>
+  <string name="keywordDetection">Atslēgvārdu noteikšana</string>
+  <string name="confirmDeletion">Apstiprināt dzēšanu</string>
+  <string name="addAKeyword">Pievienojiet atslēgvārdu</string>
+  <string name="clearAllKeywords">Notīrīt visus atslēgvārdus</string>
+  <string name="pleaseSeeTheKeywordsFile">Lūdzu, skatiet atslēgvārdu failu</string>
+  <string name="export">Eksportēt</string>
+  <string name="import2">Importēt</string>
+  <string name="keywordsAreAsFollow">Atslēgvārdi ir šādi, pa vienam katrā rindā</string>
+  <string name="filter">Filtrs</string>
+  <string name="tipEmptyKeywords">Pašreizējā [atslēgvārdu] bibliotēka ir tukša. Varat noklikšķināt uz pogas Pievienot vai Importēt augšpusē, lai importētu atslēgvārdu, un atslēgvārdam atbilstošais teksts tiks atzīmēts redaktorā reāllaikā. </string>
+  <string name="keywordsManagement">Atslēgvārdu pārvaldība</string>
+  <string name="uploadingKeywordsToCloud">Notiek atslēgvārdu augšupielāde jūsu mākoņkrātuvē...</string>
+  <string name="downloadingKeywordsFromCloud">Notiek atslēgvārdu lejupielāde no mākoņa krātuves...</string>
+  <string name="keywordRetrieval">Atslēgvārdu izguve</string>
+  <string name="retrieveCurrentArticle">Izgūt pašreizējo rakstu</string>
+  <string name="previousOne">Iepriekšējā</string>
+  <string name="nextOne">Nākamais</string>
+  <string name="uploadToCloudStorage">Augšupielādēt mākoņkrātuvē</string>
+  <string name="downloadFromCloudStorage">Lejupielādēt no mākoņa krātuves</string>
+  <string name="disableKeywordsFeature">Atspējojiet atslēgvārdu funkciju</string>
 </resources>

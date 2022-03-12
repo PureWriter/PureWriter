@@ -559,7 +559,6 @@
   <string name="selectALightTheme">Pilih tema ringan</string>
   <string name="selectADarkTheme">Pilih tema gelap</string>
   <string name="selectATheme">Pilih tema</string>
-  <string name="tipBadPaper">Gambar atau warna yang Anda pilih tidak memenuhi persyaratan, silakan pilih lagi</string>
   <string name="fixedThemeTitle">Tetap, jangan beralih secara otomatis</string>
   <string name="followSystemThemeTitle">Ikuti sistem (Sinkronkan dengan OS)</string>
   <string name="scheduledThemeTitle">Saklar otomatis sesuai waktu:\n7:00-17:00 gunakan tema terang, jika tidak tema gelap</string>
@@ -586,4 +585,25 @@
   <string name="saveAsLongImage">Simpan sebagai gambar panjang (.png)</string>
   <string name="saveAsMdFile">Simpan sebagai file .md</string>
   <string name="saveAsTxtFile">Simpan sebagai file .txt</string>
+  <string name="tipBadThemeBackground">Gambar atau warna latar belakang yang dipilih saat ini tidak cocok dengan warna font tema saat ini, harap pilih lagi, atau abaikan perintah ini jika menurut Anda perintah ini salah.</string>
+  <string name="keywordDetection">Deteksi kata kunci</string>
+  <string name="confirmDeletion">Konfirmasi penghapusan</string>
+  <string name="addAKeyword">Tambahkan kata kunci</string>
+  <string name="clearAllKeywords">Hapus semua kata kunci</string>
+  <string name="pleaseSeeTheKeywordsFile">Silakan lihat file kata kunci</string>
+  <string name="export">Ekspor</string>
+  <string name="import2">Impor</string>
+  <string name="keywordsAreAsFollow">Kata kuncinya adalah sebagai berikut, satu per baris</string>
+  <string name="filter">Filter</string>
+  <string name="tipEmptyKeywords">Perpustakaan [kata kunci] saat ini kosong, Anda dapat mengklik tombol Tambah atau Impor di bagian atas untuk mengimpor kata kunci, dan teks yang cocok dengan kata kunci akan ditandai di editor secara waktu nyata. </string>
+  <string name="keywordsManagement">Manajemen kata kunci</string>
+  <string name="uploadingKeywordsToCloud">Mengunggah kata kunci ke penyimpanan cloud Anda...</string>
+  <string name="downloadingKeywordsFromCloud">Mengunduh kata kunci dari penyimpanan cloud Anda...</string>
+  <string name="keywordRetrieval">Pengambilan kata kunci</string>
+  <string name="retrieveCurrentArticle">Ambil artikel saat ini</string>
+  <string name="previousOne">Yang sebelumnya</string>
+  <string name="nextOne">Yang berikutnya</string>
+  <string name="uploadToCloudStorage">Unggah ke penyimpanan awan</string>
+  <string name="downloadFromCloudStorage">Unduh dari penyimpanan awan</string>
+  <string name="disableKeywordsFeature">Nonaktifkan fitur kata kunci</string>
 </resources>

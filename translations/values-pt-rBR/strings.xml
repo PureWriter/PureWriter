@@ -233,8 +233,8 @@
   <string name="presetContent4">Pure Writer leva muito a sério a privacidade de seus usuários e nunca coletará informações pessoais. \nTampouco lerá ou modificará qualquer conteúdo presente na sua área de transferência sem antes notificá-lo(a).\nA permissão de armazenamento que Pure Writer requisita é usada somente para backups automáticos e para salvar seus arquivos. Apesar disso, sinta-se livre para negá-la, embora isso desative o recurso de backup automático. O app nunca enviará seu conteúdo para outros lugares, com exceção de relatórios de falhas para fins de depuração e análise. O relatório conterá apenas o título do artigo e nada mais.</string>
   <string name="createAt">Criado</string>
   <string name="updatedAt">Atualizado</string>
-  <string name="forcedBlackTextColor">Texto preto</string>
-  <string name="forcedWhiteTextColor">Texto branco</string>
+  <string name="forcedBlackTextColor">Forçar a cor preta do texto</string>
+  <string name="forcedWhiteTextColor">Forçar a cor do texto branco</string>
   <string name="paragraphSpacing">Espaço de parágrafo</string>
   <string name="onlyAvailableWhenParagraphOn">Disponível somente enquanto o espaçamento de parágrafo estiver ativo</string>
   <string name="lowProfile">Barra de status limitada</string>
@@ -572,7 +572,6 @@
   <string name="selectALightTheme">Selecione um tema leve</string>
   <string name="selectADarkTheme">Selecione um tema sombrio</string>
   <string name="selectATheme">Selecione um tema</string>
-  <string name="tipBadPaper">A imagem ou cor que você selecionou não atende ao requisito, favor selecionar novamente</string>
   <string name="fixedThemeTitle">Fixo, sem comutação automática</string>
   <string name="followSystemThemeTitle">Sistema de acompanhamento (Sync with OS)</string>
   <string name="scheduledThemeTitle">Interruptor automático de acordo com o tempo:\n7:00-17:00 usar tema claro, caso contrário tema escuro</string>
@@ -648,4 +647,25 @@
   <string name="wordCountModeEntriesItem1">Excluir espaços e quebras de linha</string>
   <string name="wordCountModeEntriesItem2">Incluir todos os símbolos e textos</string>
   <string name="wordCountModeEntriesItem3"><b>Excluir todas as pontuações</b>, espaços, e quebras de linha</string>
+  <string name="tipBadThemeBackground">A imagem ou cor de fundo atualmente selecionada não corresponde à cor da fonte do tema atual, favor selecioná-la novamente, ou ignorar este aviso se você achar que este aviso está errado.</string>
+  <string name="keywordDetection">Detecção da palavra-chave</string>
+  <string name="confirmDeletion">Confirmar eliminação</string>
+  <string name="addAKeyword">Adicionar uma palavra-chave</string>
+  <string name="clearAllKeywords">Clear todas as palavras-chave</string>
+  <string name="pleaseSeeTheKeywordsFile">Por favor, veja as palavras-chave arquivo</string>
+  <string name="export">Exportar</string>
+  <string name="import2">Import</string>
+  <string name="keywordsAreAsFollow">As palavras-chave são as seguintes, uma por linha</string>
+  <string name="filter">Filtro</string>
+  <string name="tipEmptyKeywords">A biblioteca atual [palavra-chave] está vazia, você pode clicar no botão Adicionar ou Importar no topo para importar a palavra-chave, e o texto que corresponde à palavra-chave será marcado no editor em tempo real.</string>
+  <string name="keywordsManagement">Gerenciamento de palavras-chave</string>
+  <string name="uploadingKeywordsToCloud">Upload de palavras-chave para seu armazenamento em nuvem...</string>
+  <string name="downloadingKeywordsFromCloud">Download keywords from your cloud storage...</string>
+  <string name="keywordRetrieval">Recuperação da palavra-chave</string>
+  <string name="retrieveCurrentArticle">Retomar artigo atual</string>
+  <string name="previousOne">Corda anterior</string>
+  <string name="nextOne">Próxima corda</string>
+  <string name="uploadToCloudStorage">Upload to cloud storage</string>
+  <string name="downloadFromCloudStorage">Download from cloud storage</string>
+  <string name="disableKeywordsFeature">Disable the keywords feature</string>
 </resources>
