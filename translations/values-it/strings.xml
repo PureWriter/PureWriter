@@ -125,7 +125,7 @@
   <string name="more">La nostra esperienza</string>
   <string name="notSupportOpeningTheLink">Collegamento non supportato</string>
   <string name="formatters">Formattatori</string>
-  <string name="formatterSpace">Includi uno spazio tra le parole cinesi e quelle inglesi</string>
+  <string name="formatterSpace">Inserisci uno spazio tra il testo dell\'Asia orientale e quello latino</string>
   <string name="formatterIndent">Inserisci una indentazione a inizio di tutti i paragrafi</string>
   <string name="formatterLineBreak">Lascia una linea vuota tra tutti i paragrafi</string>
   <string name="formatterRemoveBreak">Rimuovi tutte le linee vuote tra i paragrafi</string>
@@ -221,7 +221,7 @@
   <string name="shareText">Raccomandazione: Pure Writer e\' un\'applicazione per l\'editing del testo ricca di funzioni che ti da\' tranquillita\' con le sue caratteristiche: History Records, protezione multistrato che impedisce di perdere i vostri preziosi contenuti, e anche un ambiente di scrittura confortevole. Scopri di piu\' qui: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="shareMessage">Se ti piace usare Pure Writer, per favore aiutaci a passare parola! Clicca sul pulsante Condividi a destra per condividere questa applicazione con i tuoi amici. Significhera\' molto per noi e per l\'app, in quanto essa migliora proprio grazie al tuo supporto. Grazie! Per saperne di piu\', visita il sito: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="reduceDatabaseSize">Elimina la cronologia per ridurre la grandezza del DataBase</string>
-  <string name="reduceDatabaseSizeMessage">Elimina la cronologia per tutti gli articoli. \nNota: Questo eliminera\' solo i record della cronologia e NON gli articoli stessi. \n\nSei avvisato di effettuare il backup prima di procedere alla eliminazione. \nSei anche avvisato di eliminare occasionalmente i record di Cronologia per ridurre la grandezza del DataBase!</string>
+  <string name="reduceDatabaseSizeMessage">Elimina la cronologia per tutti gli articoli. \nNota: Questo eliminera\' solo i record della cronologia e NON gli articoli stessi.</string>
   <string name="deleteSuccessful">Eliminazione eseguita con successo</string>
   <string name="unlockPro">Sblocca Pro</string>
   <string name="presetTitle1">Pure Writer - Connettere il passato ed il futuro tramite le parole</string>
@@ -610,4 +610,25 @@
   <string name="uploadToCloudStorage">Carica su cloud storage</string>
   <string name="downloadFromCloudStorage">Scarica dal cloud storage</string>
   <string name="disableKeywordsFeature">Disabilita la funzione delle parole chiave</string>
+  <string name="limit1080wForPreviewImages">Limita la larghezza massima a 1080</string>
+
+  <string name="dailyStatistics">Statistiche giornaliere</string>
+  <string name="dailyExtraNote">* Nota: poiché ci sono articoli precedenti a <i>Statistiche giornaliere</i> in questo giorno, alcuni dei dati sopra riportati sono dati dedotti aggiuntivi, ad esempio, il tempo di scrittura può essere calcolato come "ora dell'ultimo aggiornamento dell'articolo - ora di creazione dell'articolo", che potrebbe non essere accurata, solo come riferimento!</string>
+  <string name="currentBookAndItsWordCount">Libro attuale e conteggio delle parole</string>
+  <string name="allBooksWordCount">Numero totale di parole in tutti i libri</string>
+  <string name="other">Altro</string>
+  <string name="minute">minuto</string>
+  <string name="hour">ora</string>
+  <string name="millisecond">millisecondo</string>
+  <string name="second">secondo</string>
+  <string name="wordCountFull">Conteggio parole</string>
+  <string name="speed">Velocità</string>
+  <string name="writingTimeAkaInputStatus">Tempo di scrittura (stato di input)</string>
+  <string name="appInForegroundTime">App in primo piano</string>
+  <string name="writingStartTime">Ora di inizio scrittura</string>
+  <string name="lastTime">Ultima volta</string>
+  <string name="modifyWordCount4MaxLevel">Modifica il conteggio delle parole per il livello massimo</string>
+  <string name="noteDailyWidgetSetting">La griglia nella parte superiore della pagina delle statistiche giornaliere è un grafico della tua scrittura nello stile dei contributi di GitHub. Per il colore della griglia, oltre al livello di conteggio di 0 parole predefinito, il colore della griglia ha 4 livelli, di cui il livello massimo predefinito è di 2000 parole e oltre, puoi modificare questo conteggio di parole di livello massimo come obiettivo:</string>
+  <string name="overview">Panoramica</string>
+  <string name="purchaseTime">Tempo di acquisto</string>
 </resources>

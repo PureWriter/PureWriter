@@ -97,7 +97,7 @@
   <string name="more">Více</string>
   <string name="notSupportOpeningTheLink">Odkaz není podporován</string>
   <string name="formatters">Formatters</string>
-  <string name="formatterSpace">Vložení mezery mezi čínská a anglická slova</string>
+  <string name="formatterSpace">Mezi východoasijský a latinský text vložte mezeru</string>
   <string name="formatterIndent">Vloží odsazení na začátek všech odstavců</string>
   <string name="formatterLineBreak">Ponechat mezi odstavci prázdný řádek</string>
   <string name="formatterRemoveBreak">Odstraní všechny prázdné řádky mezi odstavci</string>
@@ -183,7 +183,7 @@
   <string name="shareText">Doporučení: Pure Writer je funkcemi nabitá aplikace pro úpravu textu, která vám svými funkcemi zajistí klid na práci: Záznamy o historii, vícevrstvou ochranu, která zabraňuje ztrátě vašeho cenného obsahu, a také pohodlné prostředí pro psaní. Více informací najdete zde: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>.
   <string name="shareMessage">Pokud se vám používání aplikace Pure Writer líbí, pomozte nám ji šířit dál! Klikněte na tlačítko Sdílet vpravo a sdílejte tuto aplikaci se svými přáteli. Bude to pro nás i pro aplikaci hodně znamenat, protože se díky vaší podpoře bude zlepšovat. Díky!\n\nChcete-li se dozvědět více, navštivte prosím: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>.
   <string name="reduceDatabaseSize">Vymazání historie pro snížení velikosti databáze</string>
-  <string name="reduceDatabaseSizeMessage">Vymazat historii pro všechny články. \nPoznámka: Tím se odstraní pouze záznamy Historie, nikoliv samotný článek. \n\nDoporučujeme vám zálohovat pokračování v mazání. \nDoporučujeme také občas smazat záznamy Historie, aby se zmenšila velikost databáze!</string>
+  <string name="reduceDatabaseSizeMessage">Vymazat historii pro všechny články. \nPoznámka: Tím se odstraní pouze záznamy Historie, nikoliv samotný článek.</string>
   <string name="deleteSuccessful">Uspěšné smazání</string>
   <string name="unlockPro">Odemknout Pro</string>
   <string name="presetTitle1">Pure Writer - Spojení minulosti a budoucnosti pomocí slov</string>
@@ -643,4 +643,25 @@
   <string name="uploadToCloudStorage">Nahrát do cloudového úložiště</string>
   <string name="downloadFromCloudStorage">Stáhnout z cloudového úložiště</string>
   <string name="disableKeywordsFeature">Deaktivujte funkci klíčových slov</string>
+  <string name="limit1080wForPreviewImages">Omezte maximální šířku na 1080</string>
+
+  <string name="dailyStatistics">Denní statistiky</string>
+  <string name="dailyExtraNote">* Poznámka: Protože v tento den existují články starší než <i>Denní statistika</i>, některá z výše uvedených údajů jsou doplňková odvozená data, například lze vypočítat dobu psaní jako „čas poslední aktualizace článku – čas vytvoření článku“, což nemusí být přesné, pouze pro informaci!</string>
+  <string name="currentBookAndItsWordCount">Aktuální kniha a její počet slov</string>
+  <string name="allBooksWordCount">Celkový počet slov ve všech knihách</string>
+  <string name="other">Jiné</string>
+  <string name="minute">minuta</string>
+  <string name="hour">hodina</string>
+  <string name="millisecond">milisekunda</string>
+  <string name="second">sekunda</string>
+  <string name="wordCountFull">Počet slov</string>
+  <string name="speed">Rychlost</string>
+  <string name="writingTimeAkaInputStatus">Čas zápisu (stav vstupu)</string>
+  <string name="appInForegroundTime">Aplikace v čase v popředí</string>
+  <string name="writingStartTime">Čas zahájení psaní</string>
+  <string name="lastTime">Naposledy</string>
+  <string name="modifyWordCount4MaxLevel">Upravit počet slov pro maximální úroveň</string>
+  <string name="noteDailyWidgetSetting">Mřížka v horní části stránky denních statistik je grafem vašeho psaní ve stylu příspěvků na GitHubu. Pro barvu mřížky má barva mřížky kromě výchozí úrovně počtu slov 0, 4 úrovně, z nichž výchozí maximální úroveň je 2 000 slov a více, můžete tuto maximální úroveň počtu slov upravit jako cíl:</string>
+  <string name="overview">Přehled</string>
+  <string name="purchaseTime">Čas nákupu</string>
 </resources>

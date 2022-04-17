@@ -116,7 +116,7 @@
   <string name="more">もっと</string>
   <string name="notSupportOpeningTheLink">Link not supported</string>
   <string name="formatters">Formatters</string>
-  <string name="formatterSpace">Include a space between Chinese and English words</string>
+  <string name="formatterSpace">東アジアとラテン語のテキストの間にスペースを挿入します</string>
   <string name="formatterIndent">Insert indentation at the start of all paragraphs</string>
   <string name="formatterLineBreak">Leave a blank line between paragraphs</string>
   <string name="formatterRemoveBreak">Remove all blank lines between the paragraphs</string>
@@ -208,7 +208,7 @@
   <string name="tipFloatingWordCountDisabled">フローティングワードカウントをオフにした後でも、記事リストでワードカウントを取得できます。</string>
   <string name="reduceDatabaseSize">データベースサイズを縮小する</string>
   <string name="deleteSuccessful">Deleted successfully</string>
-  <string name="reduceDatabaseSizeMessage">すべての記事のすべての履歴を削除します。\n歴史だけでは、記事自体は削除されません。\n\n削除する前にバックアップを作成することをお勧めします。\n\nEnglish: \nDelete all history of all articles. \nJust history, the article itself will not be deleted. \n\nYou\'d better make a backup before you delete it.</string>
+  <string name="reduceDatabaseSizeMessage">すべての記事のすべての履歴を削除します。\n歴史だけでは、記事自体は削除されません。</string>
   <string name="unlockPro">Unlock Pro</string>
   <string name="presetTitle1">Pure Writer - Connecting the Past and Future with Words</string>
   <string name="presetContent1">Pure Writer is a fast and comfortable text editing app that prevents you from losing your works. While scrolling the comments and reviews of Pure Writer in Google Play, you might find some high praises for this app like "There\'s no app better than this", "The most satisfying app", "Love this app so much", "Love at first sight for this app"… As the only developer for Pure Writer, the comments were especially gratifying for me. \nIn June 2017, after I went through countless uncomfortable, poorly done text editing products and lost my precious text files, I am determined to develop my own text editing app that allows its users to write anytime anywhere in a feature-filled and comfortable environment, knowing that their words will never disappear. This app, as I decided, will be developed with a writer\'s perspective. \nBefore all this, I was working part-time on a rich text editing software. Although we poured our hearts over it, the software did not turn out the way we wanted it to be. Despite that, I successfully developed some unique features that is more than enough for Pure Writer. \nAnd so Pure Writer is born. From the very beginning, Pure Writer took care of perfecting each line and character spacing on Android. This is the special feature that no other text editing android apps has achieved besides Microsoft Word. And yet the package size of Microsoft Word is more than ten times larger than Pure Writer\'s.\nNot only that, Pure Writer also provides special features like "launch text editor on app start" and especially "History records". As a writer myself, I understand the utmost importance of having a history record — it allows you to focus on your writing while giving you a peace of mind that you will never, ever lose what you are writing. Even if your phone shuts down suddenly without any notice, Pure Writer can still save your content automatically. This way, all users are able to start and stop writing whenever they wish in a comfortable text editor with confidence. \nIn addition to that, Pure Writer supports "Input Shortcuts" and "Formatting tools", input shortcuts allows users to set their own custom words into the shortcut bar, so that they can reuse it over and over again with ease; formatting tools help users to quickly format their text for example auto spacing and arranging. \nNot only these features, a lot of effort was put into perfecting the tiniest detail in Pure Writer. While using Pure Writer, you are able to hide the soft keyboard by simply swiping the screen, get the cursor to be exactly where you want it to be and also keep the article still while you hide the soft keyboard… If you were to compare Pure Writer to the other text editing apps, you will find that Pure Writer has perfectly taken care of all the small details that eventually contribute to a perfect writing environment.\nPure Writer has the editing tools you need for example: auto indentation, export article as various files including images, floating word count, canceling, Markdown, custom background themes, night mode, biometric encryption, text auto complete, sharing and much more. Despite all the features and details, Pure Writer still kept its minimalistic style and follows the Material Design guidelines. I also made a "Time Machine" for users to make small notes and keep them. The name "Time Machine" is taken from the comic, with the meaning of "Connecting the Past and Future with words". \nUntil today, Pure Writer\'s code base has received over one thousand commits and millions of lines changes. Although Pure Writer consumes almost all of my free time, it is always a relief that more and more users are giving me positive feedback. I actively connect with Pure Writer\'s users, collecting feedback and perfecting the app. I\'ve never felt happier at the thought of making something long term that helps other people. \nFinally, thank you to all my friends who helped me throughout this journey. Without you, this app would never be where it is today. With this post, I introduce you to the original ideas of Pure Writer and all of its special features, and hopefully more people would get to know it better. Let\'s hope that we are able to leave wonderful memories behind in the limited time we have. Let our Words take us back in time, and bring us to imagine the future.</string>
@@ -615,4 +615,25 @@
   <string name="uploadToCloudStorage">クラウドストレージにアップロード</string>
   <string name="downloadFromCloudStorage">クラウドストレージからダウンロード</string>
   <string name="disableKeywordsFeature">キーワード機能を無効にする</string>
+  <string name="limit1080wForPreviewImages">最大幅を1080に制限する</string>
+
+  <string name="dailyStatistics">毎日の統計</string>
+  <string name="dailyExtraNote">* 注：この日の <i>毎日の統計</i>より前の記事があるため、上記のデータの一部は追加の推定データです。たとえば、書き込み時間は計算される場合があります。 「記事の最終更新時刻-記事の作成時刻」として、正確ではない可能性があります。参照用です！</string>
+  <string name="currentBookAndItsWordCount">現在の本とその単語数</string>
+  <string name="allBooksWordCount">すべての書籍の単語の総数</string>
+  <string name="other">その他</string>
+  <string name="minute">分</string>
+  <string name="hour">時間</string>
+  <string name="millisecond">ミリ秒</string>
+  <string name="second">秒</string>
+  <string name="wordCountFull">単語数</string>
+  <string name="speed">速度</string>
+  <string name="writingTimeAkaInputStatus">書き込み時間（入力ステータス）</string>
+  <string name="appInForegroundTime">フォアグラウンド時間のアプリ</string>
+  <string name="writingStartTime">書き込み開始時刻</string>
+  <string name="lastTime">前回</string>
+  <string name="modifyWordCount4MaxLevel">単語数を最大レベルに変更</string>
+  <string name="noteDailyWidgetSetting"> Daily Statisticsページの上部にあるグリッドは、GitHubコントリビューションのスタイルでの書き込みのグラフです。グリッドカラーの場合、デフォルトの0ワードカウントレベルに加えて、グリッドカラーには4つのレベルがあり、そのうちのデフォルトの最大レベルは2000ワード以上です。この最大レベルのワードカウントをターゲットとして変更できます：</string>
+  <string name="overview">概要</string>
+  <string name="purchaseTime">購入時間</string>
 </resources>

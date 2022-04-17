@@ -111,7 +111,7 @@
   <string name="more">Lisää</string>
   <string name="notSupportOpeningTheLink">Linkkiä ei tueta</string>
   <string name="formatters">Muotoilijat</string>
-  <string name="formatterSpace">Lisää välilyönti kiinan- ja englanninkielisten sanojen väliin</string>
+  <string name="formatterSpace">Lisää välilyönti itä-aasialaisen ja latinalaisen tekstin väliin</string>
   <string name="formatterIndent">Sisällytä sisennys kaikkien kappaleiden alkuun</string>
   <string name="formatterLineBreak">Jätä tyhjä rivi kappaleiden väliin</string>
   <string name="formatterRemoveBreak">Poista kaikki tyhjät viivat kappaleiden välistä</string>
@@ -205,7 +205,7 @@
   <string name="shareText">Suositus: Pure Writer on ominaisuuksiltaan monipuolinen tekstinkäsittelysovellus, joka antaa sinulle mielenrauhaa ominaisuuksillaan: Historiatietueet, monikerroksinen suojaus, joka estää sinua menettämästä arvokasta sisältöäsi, sekä mukava kirjoitusympäristö. Lue lisää täältä: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="shareMessage">Jos nautit Pure Writerin käytöstä, auta meitä levittämään sanaa! Napsauta oikealla olevaa Jaa-painiketta jakaaksesi tämän sovelluksen ystäviesi kanssa. Se \ merkitsee meille ja sovellukselle paljon, kun se kehittyy tukesi ansiosta. Kiitos!\n\nTutustu tarkemmin osoitteessa: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>.
   <string name="reduceDatabaseSize">Tyhjennä historia tietokannan koon pienentämiseksi</string>
-  <string name="reduceDatabaseSizeMessage">Poista kaikkien artikkelien historia. \nHuomaa: Tämä poistaa vain Historia-tietueet eikä itse artikkelia. \n\nSinua kehotetaan varmuuskopioimaan, kun poistat artikkelin. \nTeitä suositellaan myös poistamaan historiatietueet ajoittain tietokannan koon pienentämiseksi!</string>.
+  <string name="reduceDatabaseSizeMessage">Poista kaikkien artikkelien historia. \nHuomaa: Tämä poistaa vain Historia-tietueet eikä itse artikkelia.</string>.
   <string name="deleteSuccessful">Poisto onnistui</string>
   <string name="unlockPro">Avaa Pro</string>
   <string name="presetTitle1">Pure Writer - Menneisyyden ja tulevaisuuden yhdistäminen sanoilla</string>
@@ -656,4 +656,25 @@
   <string name="uploadToCloudStorage">Lataa pilvitallennustilaan</string>
   <string name="downloadFromCloudStorage">Lataa pilvitallennustilasta</string>
   <string name="disableKeywordsFeature">Poista avainsanaominaisuus käytöstä</string>
+  <string name="limit1080wForPreviewImages">Rajoita enimmäisleveys 1080:een</string>
+
+  <string name="dailyStatistics">Päivittäiset tilastot</string>
+  <string name="dailyExtraNote">* Huomautus: koska tänä päivänä on artikkeleita, jotka ovat aikaisempia kuin <i>Päivittäiset tilastot</i>, osa yllä olevista tiedoista on lisätietoa, esimerkiksi kirjoitusaika voidaan laskea "artikkelin viimeinen päivitysaika - artikkelin luomisaika", joka ei välttämättä ole tarkka, vain viitteeksi!</string>
+  <string name="currentBookAndItsWordCount">Nykyinen kirja ja sen sanamäärä</string>
+  <string name="allBooksWordCount">Kaikissa kirjoissa olevien sanojen kokonaismäärä</string>
+  <string name="other">Muu</string>
+  <string name="minute">minuutti</string>
+  <string name="hour">tunti</string>
+  <string name="millisecond">millisekunti</string>
+  <string name="second">sekunti</string>
+  <string name="wordCountFull">Sanojen määrä</string>
+  <string name="speed">Nopeus</string>
+  <string name="writingTimeAkaInputStatus">Kirjoitusaika (syöttötila)</string>
+  <string name="appInForegroundTime">Sovellus etualalla</string>
+  <string name="writingStartTime">Kirjoittamisen aloitusaika</string>
+  <string name="lastTime">Viimeinen kerta</string>
+  <string name="modifyWordCount4MaxLevel">Muokkaa sanamäärää enimmäistasolle</string>
+  <string name="noteDailyWidgetSetting">Päivittäiset tilastot -sivun yläosassa oleva ruudukko on GitHub-sisällön tyyliin kirjoitettu kaavio. Ruudukkovärissä oletusarvoisen 0 sanamäärän tason lisäksi ruudukon värillä on 4 tasoa, joista oletusmaksimitaso on 2 000 sanaa tai enemmän. Voit muokata tätä enimmäissanamäärää tavoitteeksesi:</string>
+  <string name="overview">Yleiskatsaus</string>
+  <string name="purchaseTime">Ostoaika</string>
 </resources>

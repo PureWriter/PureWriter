@@ -125,7 +125,7 @@
   <string name="more">Plus</string>
   <string name="notSupportOpeningTheLink">Lien non supporté</string>
   <string name="formatters">Mise en forme</string>
-  <string name="formatterSpace">Inclure un espace entre les mots anglais et chinois</string>
+  <string name="formatterSpace">Insérer un espace entre le texte est-asiatique et latin</string>
   <string name="formatterIndent">Insérer une indentation au début de chaque paragraphe</string>
   <string name="formatterLineBreak">Laisser une ligne vide entre deux paragraphes</string>
   <string name="formatterRemoveBreak">Supprimer toutes les lignes vides entre les paragraphes</string>
@@ -221,7 +221,7 @@
   <string name="shareText">Recommandation: Pure Writer est une application d\'édition de texte pleine de fonctionnalités qui vous tranquilise l\'esprit avec ses fonctionnalités: History Records, une protection multicouche qui vous évite de perdre votre précieux contenu, et aussi un environnement d\'écriture confortable. Pour en savoir plus: https://play.google.com/store/apps/details?id=com.drakeet.purewriter=com.drakeet.purewriter</string>
   <string name="shareMessage">Si vous aimez utiliser Pure Writer, aidez-nous à faire passer le mot! Cliquez sur le bouton Partager à droite pour partager cette application avec vos amis. Cela signifiera beaucoup pour nous et pour l\'application à mesure qu\'elle s\'améliorera grâce à votre soutien. Merci! Pour en savoir plus, visitez: https://play.google.com/store/apps/details?id=com.drakeet.purewriter=com.drakeet.purewriter</string>
   <string name="reduceDatabaseSize">Vider l\'Historique pour réduire la taille de la base de données</string>
-  <string name="reduceDatabaseSizeMessage">Supprimer l\'Historique pour tous les articles. \nNote: ceci ne supprimera que les sauvegardes de des articles, PAS les articles en eux-même. \n\nNous vous conseillons de sauvegarder la procédure de suppression. \nIl vous est conseillé de supprimer l\'Historique de tous les articles occasionnellement pour réduire la taille de la base de données!</string>
+  <string name="reduceDatabaseSizeMessage">Supprimer l\'Historique pour tous les articles. \nNote: ceci ne supprimera que les sauvegardes de des articles, PAS les articles en eux-même.</string>
   <string name="deleteSuccessful">Suppression réussie</string>
   <string name="unlockPro">Débloquer Pro</string>
   <string name="presetTitle1">Pure Writer - Connectez le passé et le futur avec des mots</string>
@@ -404,7 +404,7 @@
   <string name="ProIntroductionMarkdown"><![CDATA[
 |        #### Papiers personnalisés
 |
-|        Vous pouvez choisir librement une image dans votre téléphone portable ou une image distante comme papier et arrière-plan pour votre éditeur:
+|Vous pouvez choisir librement une image dans votre téléphone portable ou une image distante comme papier et arrière-plan pour votre éditeur:
 |
 |        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/0.webp)
 |
@@ -416,37 +416,37 @@
 |
 |        #### Exporter en tant qu\'image texte longue / fichier md / txt
 |
-|        Vous pouvez exporter des articles sous forme d\'images texte longues ou de fichiers .md .txt:
+|Vous pouvez exporter des articles sous forme d\'images texte longues ou de fichiers .md .txt:
 |
 |        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/2.webp)
 |
 |        #### Exporter le livre
 |
-|        Vous pouvez trouver cette option dans le menu supérieur du tiroir de gauche, elle vous aidera à fusionner tout le contenu du chapitre dans un fichier texte brut:
+|Vous pouvez trouver cette option dans le menu supérieur du tiroir de gauche, elle vous aidera à fusionner tout le contenu du chapitre dans un fichier texte brut:
 |
 |        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/3.webp)
 |
 |        #### Rechercher et remplacer
 |
-|        Vous pouvez trouver des mots clés cibles dans n\'importe quel article et les remplacer par lots:
+|Vous pouvez trouver des mots clés cibles dans n\'importe quel article et les remplacer par lots:
 |
 |        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/4.webp)
 |
 |        #### Thème Material Design 2
 |
-|        Lorsque le thème Material Design 2 est activé, vous obtiendrez une barre supérieure transparente, qui n\'est plus du noir pur, et vous pouvez obtenir une interface utilisateur plus immersive et plus belle:
+|Lorsque le thème Material Design 2 est activé, vous obtiendrez une barre supérieure transparente, qui n\'est plus du noir pur, et vous pouvez obtenir une interface utilisateur plus immersive et plus belle:
 |
 |        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
 |
 |        #### Pure Writer Desktop
 |
-|        ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
+|![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
 |
-|        Vous pouvez obtenir Pure Writer Desktop et vous y connecter via l\'icône cloud ☁️ en haut de l\'éditeur principal.
+|Vous pouvez obtenir Pure Writer Desktop et vous y connecter via l\'icône cloud ☁️ en haut de l\'éditeur principal.
 |
-|        À l\'heure actuelle, Pure Writer Desktop est toujours au stade alpha. Il ne peut fournir qu\'une connexion de base en temps réel et une édition synchrone.
+|À l\'heure actuelle, Pure Writer Desktop est toujours au stade alpha. Il ne peut fournir qu\'une connexion de base en temps réel et une édition synchrone.
 |
-|        Cela m\'a pris beaucoup de temps et d\'énergie, et votre soutien nous aidera à le rendre parfait et meilleur.
+|Cela m\'a pris beaucoup de temps et d\'énergie, et votre soutien nous aidera à le rendre parfait et meilleur.
     ]]></string>
   <string name="buyPureWriterPro">Acheter Pure Writer Pro</string>
   <string name="tipMarkdownQuickPreview">Balayez horizontalement vers la page suivante pour un aperçu rapide de Markdown</string>
@@ -481,15 +481,15 @@
   <string name="noteDateTimeShortcut"><![CDATA[
 |        De plus, vous pouvez également insérer des variables d\'heure et de date, définies en saisissant `${<format>}` dans la première zone de saisie ci-dessus, où `<format>` doit être remplacé par un format date / heure, par exemple:
 |
-|        `${yyyy-MM-dd HH:mm}` générera:
-|        `2020-04-01 21:43`
+|`${yyyy-MM-dd HH:mm}` générera:
+|`2020-04-01 21:43`
 |
-|        `${yyyy-M-d hh:mm}` générera:
-|        `2020-4-1 09:43`
+|`${yyyy-M-d hh:mm}` générera:
+|`2020-4-1 09:43`
 |
-|        (Vous pouvez **appuyer longuement** pour sélectionner et copier les exemples ci-dessus pour essayer)
+|(Vous pouvez **appuyer longuement** pour sélectionner et copier les exemples ci-dessus pour essayer)
 |
-|        Vous pouvez également consulter le **tableau** dans cette [page de document](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) pour plus de **spécificateur de format** et une combinaison gratuite.
+|Vous pouvez également consulter le **tableau** dans cette [page de document](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) pour plus de **spécificateur de format** et une combinaison gratuite.
     ]]></string>
   <string name="read">Lis</string>
   <string name="introductionOfReadOnlyMode">* Lorsque le curseur n\'est pas visible, un double-clic est nécessaire pour placer le curseur et passer en mode édition\n* Lorsque le curseur est visible, le texte peut être édité ou modifié d\'un simple clic\n* Lorsque le curseur est visible, vous pouvez appuyer sur la touche Retour pour le masquer et passer en mode lecture seule</string>
@@ -553,7 +553,7 @@
   <string name="switchToAlipayPaymentMethod">Passer au mode de paiement Alipay</string>
   <string name="switchToGooglePlayPaymentMethod">Passer au mode de paiement Google Play</string>
   <string name="tipForFromPlayToAlipay">Pour utiliser ce mode de paiement, veuillez vous assurer que vous êtes en Chine continentale. Ce mode de paiement n\'est en principe disponible que pour les utilisateurs en Chine continentale, car Google et Google Play ne peuvent pas être utilisés pour payer en Chine.</string>
-  <string name="askUnsubscribe"><u> Se désinscrire ? </u></string>
+  <string name="askUnsubscribe"><u> Se désinscrire? </u></string>
   <string name="notesForGoogleSkus">Noter:\n\n* Étant donné que Google ne fournit pas d\'interface pour annuler les abonnements, si vous devez annuler un abonnement, vous devez cliquer sur votre abonnement ou sur le bouton «Se désinscrire?» ci-dessus pour continuer.\n\n* Après avoir annulé l\'abonnement de cette application sur Google Play, l\'application ne recevra pas le dernier statut immédiatement, vous verrez donc que l\'élément d\'abonnement est toujours à l\'état \"Actif\" sur cette page. C\'est un phénomène normal. Vous obtiendrez le résultat correct le lendemain ou attendez la fin de la période d\'abonnement en cours.\n\n* Si vous envisagez de passer d\'un abonnement à l\'article \"À vie\", vous devez d\'abord annuler votre abonnement, puis acheter l\'article \"À vie\". Cette application ne peut pas annuler votre abonnement par elle-même.\n\n* Si vous rencontrez l\'erreur DF-DFERH-01 lors du processus de paiement, veuillez essayer de redémarrer votre appareil et réessayer.\n\n* Le résultat du paiement sera automatiquement lié à votre compte Google système, merci pour votre soutien !</string>
   <string name="skuActive">Actif</string>
   <string name="activating">Activation…</string>
@@ -591,7 +591,7 @@
   <string name="saveAsTxtFile">Enregistrer en tant que fichier .txt</string>
   <string name="migrateImageAssetsSummary">Cela vous aide à transférer de manière centralisée toutes les images référencées par votre Markdown vers votre nouvel appareil. Après cette opération, vous pouvez copier le dossier Documents/PureWriter/Assets dans le même répertoire du nouveau périphérique, puis restaurer la sauvegarde du périphérique sur le nouveau périphérique, afin que le nouveau périphérique puisse facilement référencer les images d\'origine.</string>
   <string name="migrateImageAssets">Migrer les images Markdown vers le répertoire Documents/PureWriter/Assets</string>
-  <string name="editInVerticalCenterSummary">Fait en sorte que la ligne actuellement éditée soit toujours au milieu de l\'écran (Peut être invalide, c\'est un problème de méthode de saisie, désolé pour ça !)</string>
+  <string name="editInVerticalCenterSummary">Fait en sorte que la ligne actuellement éditée soit toujours au milieu de l\'écran (Peut être invalide, c\'est un problème de méthode de saisie, désolé pour ça!)</string>
   <string name="onlyWorkForHardwareKeyboard">Ne fonctionne que pour le clavier matériel</string>
   <string name="editInVerticalCenter">Modifier au centre vertical</string>
   <string name="optionsForLandscape"><![CDATA[Paramètres de paysage et directives]]></string>
@@ -650,4 +650,25 @@
   <string name="uploadToCloudStorage">Télécharger vers le stockage cloud</string>
   <string name="downloadFromCloudStorage">Télécharger à partir du stockage cloud</string>
   <string name="disableKeywordsFeature">Désactiver la fonctionnalité de mots-clés</string>
+  <string name="limit1080wForPreviewImages">Limiter la largeur maximale à 1080</string>
+
+  <string name="dailyStatistics">Statistiques quotidiennes</string>
+  <string name="dailyExtraNote">* Remarque: étant donné qu\'il existe des articles antérieurs à <i>Statistiques quotidiennes</i> ce jour-là, certaines des données ci-dessus sont des données déduites supplémentaires, par exemple, le temps d\'écriture peut être calculé comme "heure de la dernière mise à jour de l\'article - heure de création de l\'article", ce qui peut ne pas être exact, à titre de référence uniquement!</string>
+  <string name="currentBookAndItsWordCount">Livre actuel et son nombre de mots</string>
+  <string name="allBooksWordCount">Nombre total de mots dans tous les livres</string>
+  <string name="other">Autre</string>
+  <string name="minute">minute</string>
+  <string name="hour">heure</string>
+  <string name="millisecond">milliseconde</string>
+  <string name="second">seconde</string>
+  <string name="wordCountFull">Nombre de mots</string>
+  <string name="speed">Vitesse</string>
+  <string name="writingTimeAkaInputStatus">Temps d\'écriture (statut d\'entrée)</string>
+  <string name="appInForegroundTime">Application au premier plan</string>
+  <string name="writingStartTime">Heure de début d\'écriture</string>
+  <string name="lastTime">Dernière fois</string>
+  <string name="modifyWordCount4MaxLevel">Modifier le nombre de mots pour le niveau maximum</string>
+  <string name="noteDailyWidgetSetting">La grille en haut de la page Statistiques quotidiennes est un graphique de votre écriture dans le style des contributions GitHub. Pour la couleur de la grille, en plus du niveau de nombre de mots par défaut de 0, la couleur de la grille a 4 niveaux, dont le niveau maximum par défaut est de 2000 mots et plus, vous pouvez modifier ce nombre de mots de niveau maximum comme cible:</string>
+  <string name="overview">Aperçu</string>
+  <string name="purchaseTime">Temps d\'achat</string>
 </resources>

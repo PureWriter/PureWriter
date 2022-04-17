@@ -124,7 +124,7 @@
   <string name="more">Mais</string>
   <string name="notSupportOpeningTheLink">Link não suportado</string>
   <string name="formatters">Formatadores</string>
-  <string name="formatterSpace">Incluir um espaço entre palavras em chinês e inglês</string>
+  <string name="formatterSpace">Inserir um espaço entre o texto asiático oriental e latino</string>
   <string name="formatterIndent">Inserir recuo no começo de todos os parágrafos</string>
   <string name="formatterLineBreak">Deixar uma linha em branco entre parágrafos</string>
   <string name="formatterRemoveBreak">Remover todas as linhas em branco entre parágrafos</string>
@@ -220,7 +220,7 @@
   <string name="shareText">Recomendação: Pure Writer é um aplicativo editor de texto cheio de recursos que lhe dá tranquilidade com suas características: Histórico de mudanças, sistema de proteção de multicamadas que previne você de perder seu precioso conteúdo, e também um ambiente de escrita confortável. Encontre mais informações aqui: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="shareMessage">Se você gosta de usar o Pure Writer, por favor nos ajude a divulgá-lo! Toque no botão Compartilhar à direita para compartilhar este aplicativo com seus amigos. Significará muito para nós e para o aplicativo, uma vez que ele melhora por causa do seu apoio. Obrigado!\n\nPara mais informações, visite: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="reduceDatabaseSize">Limpar histórico para reduzir o tamanho do banco de dados</string>
-  <string name="reduceDatabaseSizeMessage">Excluir Histórico de todos os artigos. \nNota: Isto vai apenas excluir os registros do Histórico e NÃO os artigos. \n\nRecomenda-se que você faça um backup antes de prosseguir e excluir. \nRecomenda-se também que você exclua ocasionalmente os registros do Histórico para reduzir o tamanho do banco de dados!</string>
+  <string name="reduceDatabaseSizeMessage">Excluir Histórico de todos os artigos. \nNota: Isto vai apenas excluir os registros do Histórico e NÃO os artigos.</string>
   <string name="deleteSuccessful">Excluído(s) com sucesso</string>
   <string name="unlockPro">Desbloquear Pro</string>
   <string name="presetTitle1">Pure Writer - Conectando o passado e o futuro com palavras</string>
@@ -668,4 +668,25 @@
   <string name="uploadToCloudStorage">Upload to cloud storage</string>
   <string name="downloadFromCloudStorage">Download from cloud storage</string>
   <string name="disableKeywordsFeature">Disable the keywords feature</string>
+  <string name="limit1080wForPreviewImages">Limitar a largura máxima a 1080</string>
+  <string name="dailyStatistics">Estatísticas diárias</string>
+  <string name="dailyExtraNote">* Nota: Como há artigos anteriores a <i>Estatísticas diárias</i> neste dia, alguns dos dados acima são dados adicionais inferidos, por exemplo, o tempo de escrita pode ser calculado como a última atualização do artigo - tempo de criação do artigo, que pode não ser exato, apenas para referência!</string>
+  <string name="currentBookAndItsWordCount">Livro atual e sua contagem de palavras</string>
+  <string name="allBooksWordCount">Número total de palavras em todos os livros</string>
+  <string name="other">Outros</string>
+  <string name="minute">minuto</string>
+  <string name="hour">hora</string>
+  <string name="millisecond">milissegundo</string>
+  <string name="second">segundo</string>
+  <string name="wordCountFull">Contagem de palavras</string>
+  <string name="speed">Velocidade</string>
+  <string name="writingTimeAkaInputStatus">Tempo de escrita (status de entrada)</string>
+  <string name="appInForegroundTime">Aplicação em tempo de primeiro plano</string>
+  <string name="writingStartTime">Hora de início da escrita</string>
+  <string name="lastTime">Última vez</string>
+  <string name="modifyWordCount4MaxLevel">Modificar a contagem de palavras para o nível máximo</string>
+  <string name="noteDailyWidgetSetting">A grade no topo da página Estatísticas diárias é um gráfico de sua escrita no estilo das contribuições de GitHub. Para a cor da grade, além do nível padrão de contagem de palavras 0, a cor da grade tem 4 níveis, dos quais o nível máximo padrão é de 2000 palavras e acima, você pode modificar este nível máximo de contagem de palavras como seu alvo:</string>
+  <string name="overview">Visão geral</string>
+  <string name="purchaseTime">Tempo de compra</string>
+
 </resources>

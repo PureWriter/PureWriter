@@ -110,7 +110,7 @@
   <string name="more">Περισσότερα</string>
   <string name="notSupportOpeningTheLink">Ο σύνδεσμος δεν υποστηρίζεται</string>
   <string name="formatters">Μορφοποιητές</string>
-  <string name="formatterSpace">Ενσωματώστε ένα κενό μεταξύ των κινεζικών και των αγγλικών λέξεων</string>
+  <string name="formatterSpace">Εισαγάγετε ένα κενό μεταξύ του κειμένου της Ανατολικής Ασίας και του λατινικού κειμένου</string>
   <string name="formatterIndent">Εισαγωγή εσοχής στην αρχή όλων των παραγράφων</string>
   <string name="formatterLineBreak">Αφήστε μια κενή γραμμή μεταξύ των παραγράφων</string>
   <string name="formatterRemoveBreak">Αφαίρεση όλων των κενών γραμμών μεταξύ των παραγράφων</string>
@@ -206,7 +206,7 @@
   <string name="shareText">Σύσταση: Το Pure Writer είναι μια εφαρμογή επεξεργασίας κειμένου με πολλές δυνατότητες που σας δίνει το κεφάλι ήσυχο με τα χαρακτηριστικά της: Αρχεία ιστορικού, προστασία πολλαπλών επιπέδων που σας αποτρέπει από το να χάσετε το πολύτιμο περιεχόμενό σας, καθώς και ένα άνετο περιβάλλον γραφής. Μάθετε περισσότερα εδώ: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="shareMessage">Αν σας αρέσει να χρησιμοποιείτε το Pure Writer, βοηθήστε μας να το διαδώσουμε! Κάντε κλικ στο κουμπί Share στα δεξιά για να μοιραστείτε αυτή την εφαρμογή με τους φίλους σας. Θα σημαίνει πολλά για εμάς και την εφαρμογή, καθώς θα βελτιώνεται λόγω της υποστήριξής σας. Ευχαριστούμε!\n\nΓια να μάθετε περισσότερα, παρακαλούμε επισκεφθείτε: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="reduceDatabaseSize">Καθαρίστε το ιστορικό για να μειώσετε το μέγεθος της βάσης δεδομένων</string>
-  <string name="reduceDatabaseSizeMessage">Διαγραφή του ιστορικού για όλα τα άρθρα. \nΣημείωση: Αυτό θα διαγράψει μόνο τις εγγραφές ιστορικού και όχι το ίδιο το άρθρο. \n\nΣας συμβουλεύουμε να δημιουργήσετε αντίγραφα ασφαλείας πριν από τη διαγραφή. \nΣας συμβουλεύουμε επίσης να διαγράφετε τις εγγραφές ιστορικού περιστασιακά για να μειώσετε το μέγεθος της βάσης δεδομένων!</string>
+  <string name="reduceDatabaseSizeMessage">Διαγραφή του ιστορικού για όλα τα άρθρα. \nΣημείωση: Αυτό θα διαγράψει μόνο τις εγγραφές ιστορικού και όχι το ίδιο το άρθρο.</string>
   <string name="deleteSuccessful">Διαγραφή επιτυχής</string>
   <string name="unlockPro">Αποκλεισμός Pro</string>
   <string name="presetTitle1">Pure Writer - Σύνδεση του παρελθόντος και του μέλλοντος με λέξεις</string>
@@ -647,4 +647,25 @@
   <string name="uploadToCloudStorage">Μεταφόρτωση στο χώρο αποθήκευσης cloud</string>
   <string name="downloadFromCloudStorage">Λήψη από αποθήκευση στο cloud</string>
   <string name="disableKeywordsFeature">Απενεργοποίηση της λειτουργίας λέξεων-κλειδιών</string>
+  <string name="limit1080wForPreviewImages">Περιορίστε το μέγιστο πλάτος στα 1080</string>
+
+  <string name="dailyStatistics">Καθημερινά στατιστικά</string>
+  <string name="dailyExtraNote">* Σημείωση: Επειδή υπάρχουν άρθρα νωρίτερα από τα <i>Ημερήσια στατιστικά στοιχεία</i> αυτήν την ημέρα, ορισμένα από τα παραπάνω δεδομένα είναι πρόσθετα συναγόμενα δεδομένα, για παράδειγμα, μπορεί να υπολογιστεί ο χρόνος εγγραφής ως "χρόνος τελευταίας ενημέρωσης άρθρου - χρόνος δημιουργίας άρθρου", το οποίο μπορεί να μην είναι ακριβές, μόνο για αναφορά!</string>
+  <string name="currentBookAndItsWordCount">Το τρέχον βιβλίο και ο αριθμός των λέξεων του</string>
+  <string name="allBooksWordCount">Συνολικός αριθμός λέξεων σε όλα τα βιβλία</string>
+  <string name="other">Άλλο</string>
+  <string name="minute">λεπτό</string>
+  <string name="hour">ώρα</string>
+  <string name="millisecond">χιλιοστά του δευτερολέπτου</string>
+  <string name="second">δεύτερο</string>
+  <string name="wordCountFull">Αριθμός λέξεων</string>
+  <string name="speed">Ταχύτητα</string>
+  <string name="writingTimeAkaInputStatus">Χρόνος γραφής (κατάσταση εισαγωγής)</string>
+  <string name="appInForegroundTime">Εφαρμογή στο προσκήνιο</string>
+  <string name="writingStartTime">Ώρα έναρξης γραφής</string>
+  <string name="lastTime">Τελευταία φορά</string>
+  <string name="modifyWordCount4MaxLevel">Τροποποίηση αριθμού λέξεων για μέγιστο επίπεδο</string>
+  <string name="noteDailyWidgetSetting">Το πλέγμα στην κορυφή της σελίδας Ημερήσια στατιστικά είναι ένα γράφημα της γραφής σας στο στυλ των συνεισφορών του GitHub. Για το χρώμα πλέγματος, εκτός από το προεπιλεγμένο επίπεδο πλήθους 0 λέξεων, το χρώμα πλέγματος έχει 4 επίπεδα, εκ των οποίων το προεπιλεγμένο μέγιστο επίπεδο είναι 2000 λέξεις και άνω, μπορείτε να τροποποιήσετε αυτό το μέγιστο επίπεδο μέτρησης λέξεων ως στόχο:</string>
+  <string name="overview">Επισκόπηση</string>
+  <string name="purchaseTime">Χρόνος αγοράς</string>
 </resources>

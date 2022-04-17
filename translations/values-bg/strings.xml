@@ -111,7 +111,7 @@
   <string name="more">Още</string>
   <string name="notSupportOpeningTheLink">Връзката не се поддържа</string>
   <string name="formatters">Форматори</string>
-  <string name="formatterSpace">Поставете интервал между китайските и английските думи.</string>
+  <string name="formatterSpace">Вмъкнете интервал между източноазиатски и латински текст</string>
   <string name="formatterIndent">Поставяне на отстъп в началото на всички параграфи</string>
   <string name="formatterLineBreak">Оставете празен ред между параграфите</string>
   <string name="formatterRemoveBreak">Премахнете всички празни редове между параграфите</string>
@@ -201,7 +201,7 @@
   <string name="shareText">Препоръка: Pure Writer е функционално приложение за редактиране на текст, което ви дава спокойствие със своите функции: Записи на историята, многопластова защита, която ви предпазва от загуба на ценното ви съдържание, а също и удобна среда за писане. Научете повече тук: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="shareMessage">Ако ви харесва да използвате Pure Writer, моля, помогнете ни да разпространим информацията! Щракнете върху бутона Share (Споделяне) вдясно, за да споделите това приложение с приятелите си. Това ще означава много за нас и за приложението, тъй като то се подобрява благодарение на вашата подкрепа. Благодаря!\n\nЗа да научите повече, моля, посетете: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="reduceDatabaseSize">Изчистване на историята за намаляване на размера на базата данни</string>
-  <string name="reduceDatabaseSizeMessage">Изтриване на историята за всички статии. \nЗабележка: Това ще изтрие само записите от историята, но НЕ и самата статия. \n\nСъветваме ви да направите резервно копие, за да пристъпите към изтриване. \nСъщо така ви съветваме да изтривате записите от историята от време на време, за да намалите размера на базата данни!</string>
+  <string name="reduceDatabaseSizeMessage">Изтриване на историята за всички статии. \nЗабележка: Това ще изтрие само записите от историята, но НЕ и самата статия.</string>
   <string name="deleteSuccessful">Успешно изтриване</string>
   <string name="unlockPro">Отключване на Pro</string>
   <string name="presetTitle1">Pure Writer - Свързване на миналото и бъдещето с помощта на думите</string>
@@ -650,4 +650,25 @@
   <string name="uploadToCloudStorage">Качване в облачно хранилище</string>
   <string name="downloadFromCloudStorage">Изтегляне от облачно хранилище</string>
   <string name="disableKeywordsFeature">Деактивиране на функцията за ключови думи</string>
+  <string name="limit1080wForPreviewImages">Ограничете максималната ширина до 1080</string>
+
+  <string name="dailyStatistics">Ежедневна статистика</string>
+  <string name="dailyExtraNote">* Забележка: Тъй като на този ден има статии по-рано от <i>Ежедневна статистика</i>, някои от горните данни са допълнителни изведени данни, например времето за писане може да бъде изчислено като "последно актуализирано време на статията - време за създаване на статия", което може да не е точно, само за справка!</string>
+  <string name="currentBookAndItsWordCount">Текущата книга и нейния брой думи</string>
+  <string name="allBooksWordCount">Общ брой думи във всички книги</string>
+  <string name="other">Други</string>
+  <string name="minute">минута</string>
+  <string name="hour">час</string>
+  <string name="millisecond">милисекунда</string>
+  <string name="second">втора</string>
+  <string name="wordCountFull">Брой думи</string>
+  <string name="speed">Скорост</string>
+  <string name="writingTimeAkaInputStatus">Време за писане (състояние на въвеждане)</string>
+  <string name="appInForegroundTime">Приложение във време на преден план</string>
+  <string name="writingStartTime">Начален час на запис</string>
+  <string name="lastTime">Последен път</string>
+  <string name="modifyWordCount4MaxLevel">Промяна на броя на думите за максимално ниво</string>
+  <string name="noteDailyWidgetSetting">Решетката в горната част на страницата с ежедневна статистика е графика на вашето писане в стила на приносите на GitHub. За цвета на мрежата, в допълнение към нивото на броя на думите по подразбиране 0, цветът на мрежата има 4 нива , от които максималното ниво по подразбиране е 2000 думи и повече, можете да промените това максимално ниво на броя на думите като ваша цел:</string>
+  <string name="overview">Общ преглед</string>
+  <string name="purchaseTime">Време за покупка</string>
 </resources>

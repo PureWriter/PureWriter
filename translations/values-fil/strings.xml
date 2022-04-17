@@ -84,7 +84,7 @@
   <string name="tipCannotCreateNewWhenEmpty">Hindi makalikha ng bagong artikulo kapag ang pamagat at nilalaman ay parehong blangko! Magagawa mo pa rin ito sa pamamagitan ng button sa kanang sulok sa itaas ng menu.</string>
   <string name="notSupportOpeningTheLink">Hindi sinusuportahan ang link</string>
   <string name="formatters">Formatters</string>
-  <string name="formatterSpace">Magsama ng espasyo sa pagitan ng mga salitang Chinese at English</string>
+  <string name="formatterSpace">Maglagay ng puwang sa pagitan ng tekstong silangang Asya at Latin</string>
   <string name="formatterIndent">Ipasok ang indentation sa simula ng lahat ng mga talata</string>
   <string name="formatterLineBreak">Mag-iwan ng blangkong linya sa pagitan ng mga talata</string>
   <string name="formatterRemoveBreak">Alisin ang lahat ng blangkong linya sa pagitan ng mga talata</string>
@@ -153,7 +153,7 @@
   <string name="shareText">Rekomendasyon: Ang Pure Writer ay isang feature-filled text editing app na nagbibigay sa iyo ng kapayapaan ng isip sa mga feature nito: History Records, multi-layer na proteksyon na pumipigil sa iyong mawala ang iyong mahalagang content, at pati na rin ang isang komportableng kapaligiran sa pagsulat. Alamin ang higit pa dito: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="shareMessage">Kung nasiyahan ka sa paggamit ng Pure Writer, mangyaring tulungan kaming ipalaganap ang salita! I-click ang button na Ibahagi sa kanan upang ibahagi ang app na ito sa iyong mga kaibigan. Malaki ang magiging kahulugan nito sa amin at sa app habang bumubuti ito dahil sa iyong suporta. Salamat!\n\nPara malaman ang higit pa, pakibisita ang: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="reduceDatabaseSize">I-clear ang History para Bawasan ang Laki ng Database</string>
-  <string name="reduceDatabaseSizeMessage">Tanggalin ang History para sa lahat ng artikulo. \nTandaan: Tatanggalin lamang nito ang mga tala ng Kasaysayan at hindi ang mismong artikulo. \n\nIkaw ay pinapayuhan na i-backup ang magpatuloy sa pagtanggal. \nPinapayuhan ka rin na tanggalin ang mga tala ng History paminsan-minsan upang bawasan ang laki ng database!</string>
+  <string name="reduceDatabaseSizeMessage">Tanggalin ang History para sa lahat ng artikulo. \nTandaan: Tatanggalin lamang nito ang mga tala ng Kasaysayan at hindi ang mismong artikulo.</string>
   <string name="deleteSuccessful">Matagumpay na tanggalin</string>
   <string name="presetTitle1">Pure Writer - Pag-uugnay sa nakaraan at hinaharap gamit ang mga salita</string>
 
@@ -657,4 +657,25 @@
   <string name="uploadToCloudStorage">I-upload sa cloud storage</string>
   <string name="downloadFromCloudStorage">I-download mula sa cloud storage</string>
   <string name="disableKeywordsFeature">Huwag paganahin ang feature ng mga keyword</string>
+  <string name="limit1080wForPreviewImages">Limitahan ang max na lapad sa 1080</string>
+
+  <string name="dailyStatistics">Pang-araw-araw na istatistika</string>
+  <string name="dailyExtraNote">* Tandaan: Dahil may mga artikulong mas maaga kaysa sa <i>Pang-araw-araw na istatistika</i> sa araw na ito, ang ilan sa mga data sa itaas ay karagdagang inferred data, halimbawa, ang oras ng pagsulat ay maaaring kalkulahin bilang "panahon ng huling na-update na artikulo - oras ng paggawa ng artikulo", na maaaring hindi tumpak, para sa sanggunian lamang!</string>
+  <string name="currentBookAndItsWordCount">Kasalukuyang aklat at bilang ng salita nito</string>
+  <string name="allBooksWordCount">Kabuuang bilang ng mga salita sa lahat ng aklat</string>
+  <string name="other">Iba pa</string>
+  <string name="minute">minuto</string>
+  <string name="hour">hour</string>
+  <string name="millisecond">millisecond</string>
+  <string name="second">second</string>
+  <string name="wordCountFull">Bilang ng salita</string>
+  <string name="speed">Bilis</string>
+  <string name="writingTimeAkaInputStatus">Tagal ng pagsulat (input status)</string>
+  <string name="appInForegroundTime">App sa foreground time</string>
+  <string name="writingStartTime">Oras ng pagsisimula ng pagsulat</string>
+  <string name="lastTime">Huling beses</string>
+  <string name="modifyWordCount4MaxLevel">Baguhin ang bilang ng salita para sa max na antas</string>
+  <string name="noteDailyWidgetSetting">Ang grid sa tuktok ng pahina ng Pang-araw-araw na Istatistika ay isang graph ng iyong pagsulat sa istilo ng mga kontribusyon sa GitHub. Para sa kulay ng grid, bilang karagdagan sa default na 0 na antas ng bilang ng salita, ang kulay ng grid ay may 4 na antas, kung saan ang default na maximum na antas ay 2000 salita at pataas, maaari mong baguhin ang pinakamataas na antas ng bilang ng salita bilang iyong target:</string>
+  <string name="overview">Pangkalahatang-ideya</string>
+  <string name="purchaseTime">Oras ng pagbili</string>
 </resources>

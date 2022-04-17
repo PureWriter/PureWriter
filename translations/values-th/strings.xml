@@ -107,7 +107,7 @@
   <string name="more">มากกว่า</string>
   <string name="notSupportOpeningTheLink">ไม่รองรับลิงค์</string>
   <string name="formatters">ตัวจัดรูปแบบ</string>
-  <string name="formatterSpace">ใส่ช่องว่างระหว่างคำภาษาจีนและภาษาอังกฤษ</string>
+  <string name="formatterSpace">แทรกช่องว่างระหว่างข้อความเอเชียตะวันออกและละติน</string>
   <string name="formatterIndent">แทรกการเยื้องที่จุดเริ่มต้นของย่อหน้าทั้งหมด</string>
   <string name="formatterLineBreak">เว้นบรรทัดว่างไว้ระหว่างย่อหน้า</string>
   <string name="formatterRemoveBreak">ลบบรรทัดว่างทั้งหมดระหว่างย่อหน้า</string>
@@ -196,7 +196,7 @@
   <string name="shareText">คำแนะนำ: Pure Writer เป็นแอปแก้ไขข้อความที่มีฟีเจอร์ซึ่งช่วยให้คุณวางใจได้ด้วยฟีเจอร์ต่างๆ เช่น ประวัติประวัติ การป้องกันหลายชั้นที่ป้องกันไม่ให้คุณสูญเสียเนื้อหาอันมีค่าของคุณ และสภาพแวดล้อมการเขียนที่สะดวกสบาย ค้นหาข้อมูลเพิ่มเติมได้ที่นี่: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="shareMessage">หากคุณสนุกกับการใช้ Pure Writer โปรดช่วยเรากระจายข่าว! คลิกปุ่มแชร์ทางด้านขวาเพื่อแชร์แอปนี้กับเพื่อนของคุณ มันจะมีความหมายมากสำหรับเราและแอปเมื่อได้รับการปรับปรุงเนื่องจากการสนับสนุนของคุณ ขอบคุณ!\n\nหากต้องการข้อมูลเพิ่มเติม โปรดไปที่: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="reduceDatabaseSize">ล้างประวัติเพื่อลดขนาดฐานข้อมูล</string>
-  <string name="reduceDatabaseSizeMessage">ลบประวัติสำหรับบทความทั้งหมด\nหมายเหตุ: การดำเนินการนี้จะลบเฉพาะบันทึกประวัติและจะไม่ลบตัวบทความเอง\n\nคุณควรสำรองข้อมูลเพื่อดำเนินการลบ\nคุณยังควรลบบันทึกประวัติเป็นครั้งคราวเพื่อลดขนาดฐานข้อมูล!</string>
+  <string name="reduceDatabaseSizeMessage">ลบประวัติสำหรับบทความทั้งหมด\nหมายเหตุ: การดำเนินการนี้จะลบเฉพาะบันทึกประวัติและจะไม่ลบตัวบทความเอง</string>
   <string name="deleteSuccessful">ลบสำเร็จ</string>
   <string name="unlockPro">ปลดล็อคโปร</string>
   <string name="presetTitle1">Pure Writer - เชื่อมโยงอดีตและอนาคตด้วยคำพูด</string>
@@ -628,4 +628,25 @@
   <string name="uploadToCloudStorage">อัปโหลดไปยังที่เก็บข้อมูลบนคลาวด์</string>
   <string name="downloadFromCloudStorage">ดาวน์โหลดจากที่เก็บข้อมูลบนคลาวด์</string>
   <string name="disableKeywordsFeature">ปิดใช้งานคุณลักษณะคำหลัก</string>
+  <string name="limit1080wForPreviewImages">จำกัดความกว้างสูงสุดที่ 1080</string>
+
+  <string name="dailyStatistics">สถิติรายวัน</string>
+  <string name="dailyExtraNote">* หมายเหตุ: เนื่องจากมีบทความที่เก่ากว่า <i>สถิติรายวัน</i> ในวันนี้ ข้อมูลบางส่วนข้างต้นจึงเป็นข้อมูลที่อนุมานเพิ่มเติม เช่น เวลาในการเขียนอาจคำนวณได้ เป็น "บทความเวลาปรับปรุงล่าสุด - เวลาสร้างบทความ" ซึ่งอาจไม่ถูกต้องสำหรับการอ้างอิงเท่านั้น!</string>
+  <string name="currentBookAndItsWordCount">หนังสือปัจจุบันและจำนวนคำในเล่ม</string>
+  <string name="allBooksWordCount">จำนวนคำทั้งหมดในหนังสือทุกเล่ม</string>
+  <string name="other">อื่นๆ</string>
+  <string name="minute">นาที</string>
+  <string name="hour">ชั่วโมง</string>
+  <string name="millisecond">มิลลิวินาที</string>
+  <string name="second">วินาที</string>
+  <string name="wordCountFull">จำนวนคำ</string>
+  <string name="speed">ความเร็ว</string>
+  <string name="writingTimeAkaInputStatus">เวลาในการเขียน (สถานะอินพุต)</string>
+  <string name="appInForegroundTime">แอปในเวลาเบื้องหน้า</string>
+  <string name="writingStartTime">เขียนเวลาเริ่มต้น</string>
+  <string name="lastTime">ครั้งสุดท้าย</string>
+  <string name="modifyWordCount4MaxLevel">แก้ไขจำนวนคำสำหรับระดับสูงสุด</string>
+  <string name="noteDailyWidgetSetting">ตารางที่ด้านบนสุดของหน้าสถิติรายวันคือกราฟของงานเขียนของคุณในรูปแบบของการมีส่วนร่วมของ GitHub สำหรับสีกริด นอกเหนือจากระดับการนับคำเริ่มต้น 0 แล้ว สีตารางมี 4 ระดับ ซึ่งระดับสูงสุดเริ่มต้นคือ 2,000 คำขึ้นไป คุณสามารถแก้ไขจำนวนคำระดับสูงสุดนี้เป็นเป้าหมาย:</string>
+  <string name="overview">ภาพรวม</string>
+  <string name="purchaseTime">ซื้อเวลา</string>
 </resources>

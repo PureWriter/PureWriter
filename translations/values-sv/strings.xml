@@ -108,7 +108,7 @@
   <string name="more">Mer</string>
   <string name="notSupportOpeningTheLink">Länken stöds inte</string>
   <string name="formatters">Formatters</string>
-  <string name="formatterSpace">Inkludera ett mellanslag mellan kinesiska och engelska ord.</string>
+  <string name="formatterSpace">Infoga ett mellanslag mellan östasiatisk och latinsk text</string>
   <string name="formatterIndent">Infoga indragning i början av alla stycken</string>
   <string name="formatterLineBreak">Lämna en tom rad mellan styckena</string>
   <string name="formatterRemoveBreak">Ta bort alla tomma rader mellan styckena.</string>
@@ -198,7 +198,7 @@
   <string name="shareText">Rekommendation: Pure Writer är en app för textredigering med många funktioner som ger dig sinnesro med sina funktioner: Det finns även en bekväm skrivmiljö: History Records, skydd i flera lager som förhindrar att du förlorar ditt värdefulla innehåll och även en bekväm skrivmiljö. Läs mer här: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="shareMessage">Om du tycker om att använda Pure Writer, hjälp oss att sprida ordet! Klicka på Dela-knappen till höger för att dela den här appen med dina vänner. Det kommer att betyda mycket för oss och för appen när den förbättras tack vare ditt stöd. Tack!\n\nMer information finns på följande webbplats: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="reduceDatabaseSize">Rensa historik för att minska databasstorleken</string>
-  <string name="reduceDatabaseSizeMessage">Radera historik för alla artiklar. \nObservera: Detta raderar endast historikposterna och INTE själva artikeln. \n\nDu rekommenderas att göra en säkerhetskopia innan du tar bort artikeln. \nDu rekommenderas också att radera historikposterna då och då för att minska databasens storlek!</string>
+  <string name="reduceDatabaseSizeMessage">Radera historik för alla artiklar. \nObservera: Detta raderar endast historikposterna och INTE själva artikeln.</string>
   <string name="deleteSuccessful">Radera framgångsrikt</string>
   <string name="unlockPro">Lås upp Pro</string>
   <string name="presetTitle1">Pure Writer - Att koppla samman det förflutna och framtiden med ord</string>
@@ -631,4 +631,25 @@
   <string name="uploadToCloudStorage">Ladda upp till molnlagring</string>
   <string name="downloadFromCloudStorage">Ladda ner från molnlagring</string>
   <string name="disableKeywordsFeature">Inaktivera sökordsfunktionen</string>
+  <string name="limit1080wForPreviewImages">Begränsa maxbredden till 1080</string>
+
+  <string name="dailyStatistics">Daglig statistik</string>
+  <string name="dailyExtraNote">* Obs: Eftersom det finns artiklar tidigare än <i>Daglig statistik</i> denna dag, är en del av ovanstående data ytterligare härledda data, till exempel kan skrivtiden beräknas som "artikel senast uppdaterad tid - artikel skapande", vilket kanske inte är korrekt, endast för referens!</string>
+  <string name="currentBookAndItsWordCount">Aktuell bok och dess ordantal</string>
+  <string name="allBooksWordCount">Totalt antal ord i alla böcker</string>
+  <string name="other">Övrigt</string>
+  <string name="minute">minut</string>
+  <string name="hour">timme</string>
+  <string name="millisecond">millisecond</string>
+  <string name="second">sekund</string>
+  <string name="wordCountFull">Antal ord</string>
+  <string name="speed">Hastighet</string>
+  <string name="writingTimeAkaInputStatus">Skrivtid (inmatningsstatus)</string>
+  <string name="appInForegroundTime">App i förgrundstid</string>
+  <string name="writingStartTime">Skrivstarttid</string>
+  <string name="lastTime">Sista gången</string>
+  <string name="modifyWordCount4MaxLevel">Ändra antal ord för maxnivå</string>
+  <string name="noteDailyWidgetSetting">Rasteret överst på sidan Daglig statistik är en graf över ditt skrivande i stil med GitHub-bidrag. För rutnätsfärg, utöver standardnivån för 0 ord, har rutnätsfärgen 4 nivåer, varav standardgränsen är 2000 ord och mer. Du kan ändra detta maximala ordantal som ditt mål:</string>
+  <string name="overview">Översikt</string>
+  <string name="purchaseTime">Köptid</string>
 </resources>

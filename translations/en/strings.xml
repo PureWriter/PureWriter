@@ -140,7 +140,7 @@
   <string name="more">More</string>
   <string name="notSupportOpeningTheLink">Link not supported</string>
   <string name="formatters">Formatters</string>
-  <string name="formatterSpace">Include a space between Chinese and English words</string>
+  <string name="formatterSpace">Insert a space between East Asian and Latin text</string>
   <string name="formatterIndent">Insert indentation at the start of all paragraphs</string>
   <string name="formatterLineBreak">Leave a blank line between paragraphs</string>
   <string name="formatterRemoveBreak">Remove all blank lines between the paragraphs</string>
@@ -252,7 +252,7 @@
   <string name="shareText">Recommendation: Pure Writer is a feature-filled text editing app that gives you a peace of mind with its features: History Records, multi-layer protection that prevents you from losing your precious content, and also a comfortable writing environment. Find out more here: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="shareMessage">If you enjoy using Pure Writer, please help us to spread the word! Click the Share button on the right to share this app with your friends. It\'ll mean a lot to us and the app as it improves because of your support. Thanks!\n\nTo find out more, please visit: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="reduceDatabaseSize">Clear History to Reduce Database Size</string>
-  <string name="reduceDatabaseSizeMessage">Delete History for all articles. \nNote: This will only delete the History records and NOT the article itself. \n\nYou are advised to backup proceeding to delete. \nYou are also advised to delete the History records occasionally to reduce the database size!</string>
+  <string name="reduceDatabaseSizeMessage">Delete History for all articles. \nNote: This will only delete the History records and NOT the article itself.</string>
   <string name="deleteSuccessful">Delete successful</string>
   <string name="unlockPro">Unlock Pro</string>
   <string name="presetTitle1">Pure Writer - Connecting the past and future with words</string>
@@ -644,6 +644,7 @@
   <string name="totalNumberOfArticlesInsertedOrUpdated">Total number of articles inserted or updated</string>
   <string name="insertANewShortcut">Insert a new shortcut</string>
   <string name="totalNumberOfNewTimeMachineMessagesInserted">Total number of new time machine messages inserted</string>
+  <string name="totalNumberOfDailyUpdatedOrInserted">Total number of daily statistics updated or inserted</string>
   <string name="mergeDone">Done!</string>
   <string name="relaunch">Relaunch</string>
   <string name="autoComplete">Auto complete</string>
@@ -717,4 +718,28 @@
   <string name="uploadToCloudStorage">Upload to cloud storage</string>
   <string name="downloadFromCloudStorage">Download from cloud storage</string>
   <string name="disableKeywordsFeature">Disable the keywords feature</string>
+  <string name="goodHeartFromPureWriter">❤ from Pure Writer</string>
+  <string name="goodHeartMessage">Since Ukraine is at war and Russian users can no longer pay for apps with Google Play Services. So we now provide all Pure Writer Pro content for free to all Ukrainian and Russian users, you can click \"OK\" below to get it, this will last until the war is over and Google Play restores Russian pay.\n\nOur original intention of doing this is purely out of good intentions, hoping to bring comfort to ordinary people at war, and at the same time, Russian users should not be unable to use our Pro features. If you feel strongly against this, please write to us and we will try to respect your opinion as much as possible: drakeet@drakeet.com\n\nMay everyone enjoy Pure Writer and writing.\n\n* PLEASE NOTE: If you accept the free Pro, you will still see the Inactive or Unsubscribed status on the Pure Writer Pro page, that\'s okay, just ignore it and you\'ll be able to use all the Pro features.</string>
+  <string name="goodHeartOK">OK (you will get all Pure Writer Pro functions for free)</string>
+  <string name="goodHeartNote">PLEASE NOTE: If you accept the free Pro, you will still see the Inactive or Unsubscribed status on the Pure Writer Pro page, that\'s okay, just ignore it and you\'ll be able to use all the Pro features.</string>
+  <string name="limit1080wForPreviewImages">Limit max width to 1080</string>
+  <string name="dailyStatistics">Daily statistics</string>
+  <string name="dailyExtraNote">* Note: Because there are articles earlier than <i>Daily Statistics</i> on this day, some of the above data are additional inferred data, for example, the writing time may be calculated as article last updated time - article creation time, which may not be accurate, for reference only!</string>
+  <string name="currentBookAndItsWordCount">Current book and its word count</string>
+  <string name="allBooksWordCount">Total number of words in all books</string>
+  <string name="other">Other</string>
+  <string name="minute">minute</string>
+  <string name="hour">hour</string>
+  <string name="millisecond">millisecond</string>
+  <string name="second">second</string>
+  <string name="wordCountFull">Word count</string>
+  <string name="speed">Speed</string>
+  <string name="writingTimeAkaInputStatus">Writing time (input status)</string>
+  <string name="appInForegroundTime">App in foreground time</string>
+  <string name="writingStartTime">Writing start time</string>
+  <string name="lastTime">Last time</string>
+  <string name="modifyWordCount4MaxLevel">Modify word count for max level</string>
+  <string name="noteDailyWidgetSetting">The grid at the top of the Daily Statistics page is a graph of your writing in the style of GitHub contributions. For grid color, in addition to the default 0 word count level, grid color has 4 levels, of which the default maximum level is 2000 words and above, you can modify this maximum level word count as your target:</string>
+  <string name="overview">Overview</string>
+  <string name="purchaseTime">Purchase time</string>
 </resources>

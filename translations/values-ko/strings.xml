@@ -123,7 +123,7 @@
   <string name="more">더</string>
   <string name="notSupportOpeningTheLink">지원되지 않는 링크</string>
   <string name="formatters">포맷터</string>
-  <string name="formatterSpace">한국어와 영어 단어 사이에 공백 포함</string>
+  <string name="formatterSpace">동아시아 문자와 라틴 문자 사이에 공백 삽입</string>
   <string name="formatterIndent">모든 문단의 시작 부분에 들여 쓰기 삽입</string>
   <string name="formatterLineBreak">문단 사이에 빈 줄 삽입</string>
   <string name="formatterRemoveBreak">단락 사이의 빈 줄 모두 제거</string>
@@ -216,7 +216,7 @@
   <string name="shareText">권장 사항: Pure Writer는 다양한 기능으로 안심할 수 있는 텍스트 편집 앱으로 역사 기록, 소중한 콘텐츠를 잃어버리지 않도록 하는 다층 보호 기능, 편안한 쓰기 환경을 제공해줍니다. 자세한 내용은 https://play.google.com/store/apps/details?id=com.drakeet.purewriter를 참조하십시오.</string>
   <string name="shareMessage">Pure Writer를 잘 사용하고 계시다면 이 앱이 널리 퍼지도록 도와주세요! 이 앱을 친구들과 공유하려면 오른쪽의 공유 버튼을 클릭하세요. 여러분의 지원으로 인해 앱이 향상되는 것은 저희와 앱에 큰 의미가 될 것입니다. 감사합니다!\n\n자세한 내용은 https://play.google.com/store/apps/details?id=com.drakeet.purewriter를 참조하십시오.</string>
   <string name="reduceDatabaseSize">데이터베이스 크기를 줄이기 위한 기록 지우기</string>
-  <string name="reduceDatabaseSizeMessage">모든 문서에 대한 기록을 삭제합니다.\n참고: 문서 자체가 아닌 역사 기록만 삭제됩니다.\n\n백업을 삭제하여 삭제하는 것이 좋습니다.\n데이터베이스 크기를 줄이기 위해 역사 기록을 가끔씩 삭제하는 것이 좋습니다!</string>
+  <string name="reduceDatabaseSizeMessage">모든 문서에 대한 기록을 삭제합니다.\n참고: 문서 자체가 아닌 역사 기록만 삭제됩니다.</string>
   <string name="deleteSuccessful">삭제 성공</string>
   <string name="unlockPro">프로 잠금 해제</string>
   <string name="presetTitle1">Pure Writer - 과거와 미래를 단어로 연결합니다</string>
@@ -610,4 +610,25 @@
   <string name="uploadToCloudStorage">클라우드 스토리지에 업로드</string>
   <string name="downloadFromCloudStorage">클라우드 저장소에서 다운로드</string>
   <string name="disableKeywordsFeature">키워드 기능 비활성화</string>
+  <string name="limit1080wForPreviewImages">최대 너비를 1080으로 제한</string>
+
+  <string name="dailyStatistics">일일 통계</string>
+  <string name="dailyExtraNote">* 참고: 이날 <i>일일 통계</i> 이전 기사가 있기 때문에 위 데이터 중 일부는 추가로 유추된 데이터입니다. 예를 들어 작성 시간이 계산될 수 있습니다. "기사 마지막 업데이트 시간 - 기사 생성 시간"으로 표시되며 정확하지 않을 수 있습니다. 참고용으로만!</string>
+  <string name="currentBookAndItsWordCount">현재 책 및 단어 수</string>
+  <string name="allBooksWordCount">모든 책의 총 단어 수</string>
+  <string name="other">기타</string>
+  <string name="minute">분</string>
+  <string name="hour">시</string>
+  <string name="millisecond">밀리초</string>
+  <string name="second">초</string>
+  <string name="wordCountFull">단어 수</string>
+  <string name="speed">속도</string>
+  <string name="writingTimeAkaInputStatus">쓰기 시간(입력 상태)</string>
+  <string name="appInForegroundTime">포그라운드 시간의 앱</string>
+  <string name="writingStartTime">쓰기 시작 시간</string>
+  <string name="lastTime">마지막 시간</string>
+  <string name="modifyWordCount4MaxLevel">최대 수준의 단어 수 수정</string>
+  <string name="noteDailyWidgetSetting">일별 통계 페이지 상단의 그리드는 GitHub 기여 스타일로 작성한 글의 그래프입니다. 그리드 색상의 경우 기본 0단어 수 수준 외에도 그리드 색상에는 4가지 수준이 있으며 그 중 기본 최대 수준은 2000단어 이상이며 이 최대 수준 단어 수를 대상으로 수정할 수 있습니다.</string>
+  <string name="overview">개요</string>
+  <string name="purchaseTime">구매 시간</string>
 </resources>

@@ -111,7 +111,7 @@
   <string name="more">További</string>
   <string name="notSupportOpeningTheLink">Link nem támogatott</string>
   <string name="formatters">Formázók</string>
-  <string name="formatterSpace">A kínai és az angol szavak között legyen szóköz</string>
+  <string name="formatterSpace">Szúrjon be egy szóközt a kelet-ázsiai és a latin szöveg közé</string>
   <string name="formatterIndent">Behúzás beillesztése minden bekezdés elejére</string>
   <string name="formatterLineBreak">Hagyjon üres sort a bekezdések között</string>
   <string name="formatterRemoveBreak">Távolítson el minden üres sort a bekezdések között</string>
@@ -200,7 +200,7 @@
   <string name="shareText">Ajánlás: A Pure Writer egy funkciógazdag szövegszerkesztő alkalmazás, amely a funkcióival nyugalmat ad: Előzmények nyilvántartása, többrétegű védelem, amely megakadályozza, hogy elveszítse értékes tartalmait, valamint kényelmes írási környezetet is biztosít. További információ itt: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="shareMessage">Ha Ön is szívesen használja a Pure Writert, kérjük, segítsen nekünk terjeszteni a hírét! Kattintson a jobb oldali Megosztás gombra, ha meg szeretné osztani ezt az alkalmazást barátaival. Ez sokat jelent majd nekünk és az alkalmazásnak, mivel az a támogatásodnak köszönhetően fejlődik. Köszönjük!\n\nHa többet szeretne megtudni, kérjük, látogasson el a https://play.google.com/store/apps/details?id=com.drakeet.purewriter weboldalra.</string>
   <string name="reduceDatabaseSize">Előzmények törlése az adatbázis méretének csökkentéséhez</string>
-  <string name="reduceDatabaseSizeMessage">Törölje az összes cikk előzményeit. \nMegjegyzés: Ez csak az Előzmények rekordokat törli, magát a cikket NEM. \n\nJavasoljuk, hogy a törléshez készítsen biztonsági mentést. \nAz adatbázis méretének csökkentése érdekében az előzményrekordok időnkénti törlése is javasolt!</string>
+  <string name="reduceDatabaseSizeMessage">Törölje az összes cikk előzményeit. \nMegjegyzés: Ez csak az Előzmények rekordokat törli, magát a cikket NEM.</string>
   <string name="deleteSuccessful">Sikeres törlés</string>
   <string name="unlockPro">Pro feloldása</string>
   <string name="presetTitle1">Pure Writer - A múlt és a jövő összekapcsolása szavakkal</string>
@@ -633,4 +633,25 @@
   <string name="uploadToCloudStorage">Feltöltés felhőtárhelyre</string>
   <string name="downloadFromCloudStorage">Letöltés felhőtárhelyről</string>
   <string name="disableKeywordsFeature">A kulcsszavak funkció letiltása</string>
+  <string name="limit1080wForPreviewImages">Korlátozza a maximális szélességet 1080-ra</string>
+
+  <string name="dailyStatistics">Napi statisztikák</string>
+  <string name="dailyExtraNote">* Megjegyzés: Mivel ezen a napon vannak olyan cikkek, amelyek régebbiek, mint a <i>Napi statisztikák</i>, a fenti adatok egy része további kikövetkeztetett adat, például előfordulhat, hogy az írási idő kiszámításra kerül. mint "cikk utolsó frissítésének ideje – cikk létrehozásának ideje", ami nem biztos, hogy pontos, csak referenciaként!</string>
+  <string name="currentBookAndItsWordCount">Aktuális könyv és szószáma</string>
+  <string name="allBooksWordCount">A szavak teljes száma az összes könyvben</string>
+  <string name="other">Egyéb</string>
+  <string name="minute">perc</string>
+  <string name="hour">óra</string>
+  <string name="millisecond">ezredmásodperc</string>
+  <string name="second">másodperc</string>
+  <string name="wordCountFull">Szószám</string>
+  <string name="speed">Sebesség</string>
+  <string name="writingTimeAkaInputStatus">Írás ideje (beviteli állapot)</string>
+  <string name="appInForegroundTime">Alkalmazás az előtérben</string>
+  <string name="writingStartTime">Az írás kezdési időpontja</string>
+  <string name="lastTime">Utoljára</string>
+  <string name="modifyWordCount4MaxLevel">Szószám módosítása a maximális szinthez</string>
+  <string name="noteDailyWidgetSetting">A Napi statisztikák oldal tetején lévő rács az Ön írásának grafikonja a GitHub-hozzájárulások stílusában. A rácsszínhez az alapértelmezett 0 szószám mellett a rácsszínnek 4 szintje van, amelyek közül az alapértelmezett maximális szint 2000 szó vagy több, ezt a maximális szószámot módosíthatja célként:</string>
+  <string name="overview">Áttekintés</string>
+  <string name="purchaseTime">Vásárlási idő</string>
 </resources>

@@ -125,7 +125,7 @@
   <string name="more">Lebih</string>
   <string name="notSupportOpeningTheLink">Tautan tidak didukung</string>
   <string name="formatters">Pemformat</string>
-  <string name="formatterSpace">Termasuk ruang antara kata-kata Cina dan Inggris</string>
+  <string name="formatterSpace">Sisipkan spasi antara teks Asia timur dan Latin</string>
   <string name="formatterIndent">Masukkan lekukan di awal semua paragraf</string>
   <string name="formatterLineBreak">Tinggalkan garis kosong di antara paragraf</string>
   <string name="formatterRemoveBreak">Hapus semua baris kosong di antara paragraf</string>
@@ -218,7 +218,7 @@
   <string name="shareText">Rekomendasi: Pure Writer adalah aplikasi pengeditan teks penuh fitur yang memberi Anda ketenangan pikiran dengan fitur-fiturnya: History Records, perlindungan multi-layer yang mencegah Anda dari kehilangan konten berharga Anda, dan juga lingkungan penulisan yang nyaman. Cari tahu lebih lanjut di sini: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="shareMessage">Jika Anda menikmati menggunakan Pure Writer, tolong bantu kami untuk menyebarkan berita! Klik tombol Bagikan di sebelah kanan untuk berbagi aplikasi ini dengan teman-teman Anda. Ini akan sangat berarti bagi kami dan aplikasi karena semakin membaik karena dukungan Anda. Terima kasih!\n\nUntuk mengetahui lebih lanjut, silakan kunjungi: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="reduceDatabaseSize">Hapus Riwayat untuk Mengurangi Ukuran Basis Data</string>
-  <string name="reduceDatabaseSizeMessage">Hapus Riwayat untuk semua artikel.\nCatatan: Ini hanya akan menghapus catatan Riwayat dan BUKAN artikel itu sendiri.\n\nAnda disarankan untuk melanjutkan proses pencadangan untuk menghapus.\nAnda juga disarankan untuk menghapus catatan Riwayat sesekali untuk mengurangi ukuran basis data!</string>
+  <string name="reduceDatabaseSizeMessage">Hapus Riwayat untuk semua artikel.\nCatatan: Ini hanya akan menghapus catatan Riwayat dan BUKAN artikel itu sendiri.</string>
   <string name="deleteSuccessful">Hapus berhasil</string>
   <string name="unlockPro">Buka kunci Pro</string>
   <string name="presetTitle1">Pure Writer - Menghubungkan masa lalu dan masa depan dengan kata-kata</string>
@@ -606,4 +606,25 @@
   <string name="uploadToCloudStorage">Unggah ke penyimpanan awan</string>
   <string name="downloadFromCloudStorage">Unduh dari penyimpanan awan</string>
   <string name="disableKeywordsFeature">Nonaktifkan fitur kata kunci</string>
+  <string name="limit1080wForPreviewImages">Batasi lebar maksimal hingga 1080</string>
+
+  <string name="dailyStatistics">Statistik harian</string>
+  <string name="dailyExtraNote">* Catatan: Karena ada artikel lebih awal dari <i>Statistik Harian</i> pada hari ini, beberapa data di atas adalah data tambahan yang disimpulkan, misalnya, waktu penulisan dapat dihitung sebagai "waktu terakhir artikel diperbarui - waktu pembuatan artikel", yang mungkin tidak akurat, hanya untuk referensi!</string>
+  <string name="currentBookAndItsWordCount">Buku saat ini dan jumlah katanya</string>
+  <string name="allBooksWordCount">Total jumlah kata di semua buku</string>
+  <string name="other">Lainnya</string>
+  <string name="minute">menit</string>
+  <string name="hour">jam</string>
+  <string name="millisecond">milidetik</string>
+  <string name="second">kedua</string>
+  <string name="wordCountFull">Jumlah kata</string>
+  <string name="speed">Kecepatan</string>
+  <string name="writingTimeAkaInputStatus">Waktu penulisan (status masukan)</string>
+  <string name="appInForegroundTime">Aplikasi di waktu latar depan</string>
+  <string name="writingStartTime">Waktu mulai menulis</string>
+  <string name="lastTime">Terakhir kali</string>
+  <string name="modifyWordCount4MaxLevel">Ubah jumlah kata untuk level maksimal</string>
+  <string name="noteDailyWidgetSetting">Kisi di bagian atas halaman Statistik Harian adalah grafik tulisan Anda dengan gaya kontribusi GitHub. Untuk warna grid, selain tingkat default 0 hitungan kata, warna grid memiliki 4 level, di mana level maksimum default adalah 2000 kata ke atas, Anda dapat mengubah jumlah kata level maksimum ini sebagai target Anda:</string>
+  <string name="overview">Ikhtisar</string>
+  <string name="purchaseTime">Waktu pembelian</string>
 </resources>

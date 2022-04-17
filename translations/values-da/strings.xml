@@ -112,7 +112,7 @@
   <string name="more">Mere</string>
   <string name="notSupportOpeningTheLink">Link understøttes ikke</string>
   <string name="formatters">Formatters</string>
-  <string name="formatterSpace">Inkluderer et mellemrum mellem kinesiske og engelske ord</string>
+  <string name="formatterSpace">Indsæt et mellemrum mellem østasiatisk og latinsk tekst</string>
   <string name="formatterIndent">Indsæt indrykning i starten af alle afsnit</string>
   <string name="formatterLineBreak">Lad en tom linje mellem afsnit</string>
   <string name="formatterRemoveBreak">Fjern alle tomme linjer mellem afsnittene</string>
@@ -208,7 +208,7 @@
   <string name="shareText">Anbefaling: Pure Writer er en app til tekstredigering med mange funktioner, der giver dig ro i sindet med sine funktioner: Historik Records, beskyttelse i flere lag, der forhindrer dig i at miste dit dyrebare indhold, og også et behageligt skrivemiljø. Få mere at vide her: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="shareMessage">Hvis du nyder at bruge Pure Writer, så hjælp os med at sprede budskabet! Klik på knappen Del til højre for at dele denne app med dine venner. Det vil betyde meget for os og for appen, når den forbedres på grund af din støtte. Tak!\n\nFor at finde ud af mere, kan du besøge: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="reduceDatabaseSize">Ryd historik for at reducere databasestørrelsen</string>
-  <string name="reduceDatabaseSizeMessage">Slet historik for alle artikler. \nBemærk: Dette vil kun slette historikposterne og ikke selve artiklen. \n\nDu anbefales at tage en sikkerhedskopi af artiklen, inden du fortsætter med at slette. \nDu anbefales også at slette historikposterne lejlighedsvis for at reducere databasestørrelsen!</string>
+  <string name="reduceDatabaseSizeMessage">Slet historik for alle artikler. \nBemærk: Dette vil kun slette historikposterne og ikke selve artiklen.</string>
   <string name="deleteSuccessful">Sletning lykkedes</string>
   <string name="unlockPro">Lås Pro op</string>
   <string name="presetTitle1">Pure Writer - Forbindelse mellem fortid og fremtid med ord</string>
@@ -647,5 +647,26 @@
   <string name="uploadToCloudStorage">Upload til skylager</string>
   <string name="downloadFromCloudStorage">Download fra skylageret</string>
   <string name="disableKeywordsFeature">Deaktiver søgeordsfunktionen</string>
+  <string name="limit1080wForPreviewImages">Begræns maks. bredde til 1080</string>
+
+  <string name="dailyStatistics">Daglig statistik</string>
+  <string name="dailyExtraNote">* Bemærk: Fordi der er artikler tidligere end <i>Daglig statistik</i> på denne dag, er nogle af ovenstående data yderligere udledte data, f.eks. kan skrivetiden beregnes som "artikel sidst opdaterede tidspunkt - artiklens oprettelsestid", hvilket muligvis ikke er nøjagtigt, kun til reference!</string>
+  <string name="currentBookAndItsWordCount">Nuværende bog og dens ordantal</string>
+  <string name="allBooksWordCount">Samlet antal ord i alle bøger</string>
+  <string name="other">Andet</string>
+  <string name="minute">minut</string>
+  <string name="hour">time</string>
+  <string name="millisecond">millisecond</string>
+  <string name="second">sekund</string>
+  <string name="wordCountFull">Ordantal</string>
+  <string name="speed">Hastighed</string>
+  <string name="writingTimeAkaInputStatus">Skrivetid (inputstatus)</string>
+  <string name="appInForegroundTime">App i forgrundstid</string>
+  <string name="writingStartTime">Skrivestarttidspunkt</string>
+  <string name="lastTime">Sidste gang</string>
+  <string name="modifyWordCount4MaxLevel">Rediger ordantal for maks. niveau</string>
+  <string name="noteDailyWidgetSetting">Gitteret øverst på siden Daglig statistik er en graf over din skrivning i stil med GitHub-bidrag. For gitterfarve har gitterfarve, ud over standardniveauet for 0 ordtælling, 4 niveauer, hvoraf standard maksimumniveauet er 2000 ord og derover. Du kan ændre dette maksimale ordantal som dit mål:</string>
+  <string name="overview">Oversigt</string>
+  <string name="purchaseTime">Købstid</string>
 </resources>
 

@@ -112,7 +112,7 @@
   <string name="more">More</string>
   <string name="notSupportOpeningTheLink">Linki ei toetata</string>
   <string name="formatters">Formatters</string>
-  <string name="formatterSpace">Esita tühik hiina- ja ingliskeelsete sõnade vahele</string>
+  <string name="formatterSpace">Sisestage Ida-Aasia ja ladinakeelse teksti vahele tühik</string>
   <string name="formatterIndent">Sisaldab kõigi lõigete algusesse taande</string>
   <string name="formatterLineBreak">Jätab lõigete vahele tühja rea</string>
   <string name="formatterRemoveBreak">Vabastada kõik tühjad read lõigete vahel</string>
@@ -204,7 +204,7 @@
   <string name="shareText">Soovitus: Pure Writer on täisfunktsionaalne tekstitöötlusrakendus, mis annab teile oma funktsioonidega meelerahu: Ajaloo salvestused, mitmekihiline kaitse, mis takistab teil kaotada oma väärtuslikku sisu, ja ka mugav kirjutamiskeskkond. Lisateavet leiad siit: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="shareMessage">Kui sulle meeldib Pure Writeri kasutamine, siis aita meil seda levitada! Vajuta paremal asuvat Share-nuppu, et jagada seda rakendust oma sõpradega. See \ tähendab meile ja rakendusele palju, kuna see paraneb tänu teie toetusele. Täname!\n\n\nKui soovite rohkem teada saada, külastage palun: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>.
   <string name="reduceDatabaseSize">Andmebaasi suuruse vähendamiseks kustutage ajalugu</string>
-  <string name="reduceDatabaseSizeMessage">Kustuta kõigi artiklite ajalugu. \n Märkus: Sellega kustutatakse ainult ajaloo kirjed, mitte artikkel ise. \n\nSoovitatakse kustutamiseks teha varukoopia. \nSoovitame ka aeg-ajalt kustutada ajalookirjeid, et vähendada andmebaasi suurust!</string>.
+  <string name="reduceDatabaseSizeMessage">Kustuta kõigi artiklite ajalugu. \nMärkus: Sellega kustutatakse ainult ajaloo kirjed, mitte artikkel ise.</string>.
   <string name="deleteSuccessful">Kustutamine õnnestus</string>
   <string name="unlockPro">Ava Pro</string>
   <string name="presetTitle1">Pure Writer - mineviku ja tuleviku ühendamine sõnadega</string>
@@ -649,4 +649,25 @@
   <string name="uploadToCloudStorage">Laadi üles pilvesalvestusse</string>
   <string name="downloadFromCloudStorage">Laadi alla pilvesalvestusest</string>
   <string name="disableKeywordsFeature">Keela märksõnade funktsioon</string>
+  <string name="limit1080wForPreviewImages">Piirake maksimaalset laiust 1080-ni</string>
+
+  <string name="dailyStatistics">Päevastatistika</string>
+  <string name="dailyExtraNote">* Märkus. Kuna sellel päeval on artikleid, mis on varasemad kui <i>päevastatistika</i>, on osa ülaltoodud andmetest täiendavad oletatud andmed, näiteks võidakse arvutada kirjutamisaeg kui "artikli viimati värskendamise aeg – artikli loomise aeg", mis ei pruugi olla täpne, ainult viitamiseks!</string>
+  <string name="currentBookAndItsWordCount">Praegune raamat ja selle sõnade arv</string>
+  <string name="allBooksWordCount">Kõigis raamatutes olevate sõnade koguarv</string>
+  <string name="other">Muu</string>
+  <string name="minute">minut</string>
+  <string name="hour">tund</string>
+  <string name="millisecond">millisekund</string>
+  <string name="second">teine</string>
+  <string name="wordCountFull">Sõnade arv</string>
+  <string name="speed">Kiirus</string>
+  <string name="writingTimeAkaInputStatus">Kirjutusaeg (sisestuse olek)</string>
+  <string name="appInForegroundTime">Rakendus esiplaanil</string>
+  <string name="writingStartTime">Kirjutamise algusaeg</string>
+  <string name="lastTime">Viimane kord</string>
+  <string name="modifyWordCount4MaxLevel">Maksimaalse taseme sõnade arvu muutmine</string>
+  <string name="noteDailyWidgetSetting">Päevastatistika lehe ülaosas olev ruudustik on teie kirjutamise graafik GitHubi kaastööde stiilis. Ruudustiku värvi puhul on ruudustiku värvil lisaks vaikimisi 0 sõnade arvu tasemele 4 taset, millest vaikimisi maksimaalne tase on 2000 sõna ja rohkem, saate seda maksimaalset sõnade arvu sihtmärgiks muuta:</string>
+  <string name="overview">Ülevaade</string>
+  <string name="purchaseTime">Ostuaeg</string>
 </resources>

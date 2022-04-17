@@ -123,7 +123,7 @@
   <string name="more">Más</string>
   <string name="notSupportOpeningTheLink">El URL no es soportado</string>
   <string name="formatters">Formateadores</string>
-  <string name="formatterSpace">Incluir un espacio entre las palabras en chino e inglés</string>
+  <string name="formatterSpace">Insertar un espacio entre el texto latino y asiático oriental</string>
   <string name="formatterIndent">Insertar sangría al comienzo de todos los párrafos</string>
   <string name="formatterLineBreak">Dejar una línea en blanco entre párrafos</string>
   <string name="formatterRemoveBreak">Eliminar todas las líneas en blanco entre los párrafos</string>
@@ -217,7 +217,7 @@
   <string name="shareText">Recomendación: Pure Writer es una aplicación de edición de texto llena de funciones que te brinda tranquilidad con sus características: historial de registros, protección de múltiples capas que impide perder tu valioso contenido y también un entorno de escritura cómodo. Descubre más aquí: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="shareMessage">Si te gusta Pure Writer, ¡ayúdenos a correr la voz! Haz clic en el botón de Compartir que está al lado derecho y con esto podrás enviar esta aplicación a tus amigos. Significaría mucho para nosotros ya que mejoraríamos el desarrollo por el apoyo que recibamos, ¡gracias!\n\nDescubre más aquí: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="reduceDatabaseSize">Borrar historial para reducir el tamaño de la base de datos</string>
-  <string name="reduceDatabaseSizeMessage">Eliminar historial de todos los artículos. \nNota: Esto solo eliminará los registros del historial y NO el artículo en sí. \n\nSe recomienda realizar una Copia de Seguridad para proceder la eliminación. \nTambién se recomienda eliminar ocasionalmente los registros del historial para reducir el tamaño de la base de datos!</string>
+  <string name="reduceDatabaseSizeMessage">Eliminar historial de todos los artículos. \nNota: Esto solo eliminará los registros del historial y NO el artículo en sí.</string>
   <string name="deleteSuccessful">Eliminación exitosa</string>
   <string name="unlockPro">Desbloquear Pro</string>
   <string name="presetTitle1">Pure Writer - Conectando el pasado y el futuro con palabras</string>
@@ -611,4 +611,25 @@
   <string name="uploadToCloudStorage">Subir al almacenamiento en la nube</string>
   <string name="downloadFromCloudStorage">Descargar desde almacenamiento en la nube</string>
   <string name="disableKeywordsFeature">Deshabilitar la función de palabras clave</string>
+  <string name="limit1080wForPreviewImages">Limite el ancho máximo a 1080</string>
+
+  <string name="dailyStatistics">Estadísticas diarias</string>
+  <string name="dailyExtraNote">* Nota: debido a que hay artículos anteriores a las <i>Daily Statistics</i> de este día, algunos de los datos anteriores son datos adicionales inferidos, por ejemplo, se puede calcular el tiempo de escritura como "hora de la última actualización del artículo - hora de creación del artículo", que puede no ser precisa, ¡solo como referencia!</string>
+  <string name="currentBookAndItsWordCount">Libro actual y su número de palabras</string>
+  <string name="allBooksWordCount">Número total de palabras en todos los libros</string>
+  <string name="other">Otro</string>
+  <string name="minute">minuto</string>
+  <string name="hour">hora</string>
+  <string name="millisecond">milisegundo</string>
+  <string name="second">segundo</string>
+  <string name="wordCountFull">Recuento de palabras</string>
+  <string name="speed">Velocidad</string>
+  <string name="writingTimeAkaInputStatus">Tiempo de escritura (estado de entrada)</string>
+  <string name="appInForegroundTime">Aplicación en primer plano</string>
+  <string name="writingStartTime">Hora de inicio de escritura</string>
+  <string name="lastTime">Última vez</string>
+  <string name="modifyWordCount4MaxLevel">Modificar el recuento de palabras para el nivel máximo</string>
+  <string name="noteDailyWidgetSetting">La cuadrícula en la parte superior de la página Estadísticas diarias es un gráfico de su escritura al estilo de las contribuciones de GitHub. Para el color de la cuadrícula, además del nivel de conteo de palabras predeterminado de 0, el color de la cuadrícula tiene 4 niveles, de los cuales el nivel máximo predeterminado es de 2000 palabras y más, puede modificar este conteo de palabras de nivel máximo como su objetivo:</string>
+  <string name="overview">Resumen</string>
+  <string name="purchaseTime">Tiempo de compra</string>
 </resources>
