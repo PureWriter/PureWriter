@@ -517,6 +517,7 @@
   <string name="timeModified">Muudetud aeg</string>
   <string name="timeCreated">Loodud aeg</string>
   <string name="timeCreatedAndModified">Loodud ja muudetud aeg</string>
+  <string name="editor1">Toimetaja 1</string>
   <string name="editor2">Toimetaja 2</string>
   <string name="currentChapterWordCount">Sõnade arv praeguses peatükis</string>
   <string name="currentBookWordCount">Sõnade arv kogu raamatus</string>
@@ -670,4 +671,9 @@
   <string name="noteDailyWidgetSetting">Päevastatistika lehe ülaosas olev ruudustik on teie kirjutamise graafik GitHubi kaastööde stiilis. Ruudustiku värvi puhul on ruudustiku värvil lisaks vaikimisi 0 sõnade arvu tasemele 4 taset, millest vaikimisi maksimaalne tase on 2000 sõna ja rohkem, saate seda maksimaalset sõnade arvu sihtmärgiks muuta:</string>
   <string name="overview">Ülevaade</string>
   <string name="purchaseTime">Ostuaeg</string>
+  <string name="ignoreBatteryOptimizationsTip">Stabiilsema töölauaühenduse saamiseks lülitage aku optimeerimine välja (ärge muretsege, Pure Writer ei tarbi palju energiat, kuid teie süsteemi aku optimeerimine võib teie võrguühenduse katkestada)</string>
+  <string name="hideStatusBar">Peida olekuriba</string>
+  <string name="hideStatusBarSummary">Kehtib ainult koduredaktori ekraanil</string>
+  <string name="noNetworkPermission">Võrguluba pole</string>
+  <string name="noNetworkPermissionMessage">Olete Pure Writeri jaoks võrguload keelanud, mis takistab sellel ühenduse loomist. See takistab Pure Writeril pilvevarukoopiaid tegemast, seega andke Pure Writeri võrguload!</string>
 </resources>

@@ -518,6 +518,7 @@
   <string name="timeModified">Heure modifiée</string>
   <string name="timeCreated">Temps créé</string>
   <string name="thankYou">Merci!</string>
+  <string name="editor1">Éditeur 1</string>
   <string name="editor2">Éditeur 2</string>
   <string name="theTry">Essayez</string>
   <string name="selectFolder">Sélectionner le dossier</string>
@@ -671,4 +672,9 @@
   <string name="noteDailyWidgetSetting">La grille en haut de la page Statistiques quotidiennes est un graphique de votre écriture dans le style des contributions GitHub. Pour la couleur de la grille, en plus du niveau de nombre de mots par défaut de 0, la couleur de la grille a 4 niveaux, dont le niveau maximum par défaut est de 2000 mots et plus, vous pouvez modifier ce nombre de mots de niveau maximum comme cible:</string>
   <string name="overview">Aperçu</string>
   <string name="purchaseTime">Temps d\'achat</string>
+  <string name="ignoreBatteryOptimizationsTip">Désactivez l\'optimisation de la batterie pour une connexion de bureau plus stable (ne vous inquiétez pas, Pure Writer ne consommera pas beaucoup d\'énergie, mais l\'optimisation de la batterie de votre système peut couper votre connexion réseau)</string>
+  <string name="hideStatusBar">Masquer la barre d\'état</string>
+  <string name="hideStatusBarSummary">Ne prend effet que sur l\'écran d\'accueil de l\'éditeur</string>
+  <string name="noNetworkPermission">Aucune autorisation de réseau</string>
+  <string name="noNetworkPermissionMessage">Vous avez désactivé les autorisations de mise en réseau pour Pure Writer, ce qui l\'empêche de se connecter. Cela empêchera Pure Writer d\'effectuer des sauvegardes dans le cloud, veuillez donc accorder les autorisations réseau à Pure Writer !</string>
 </resources>

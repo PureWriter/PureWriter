@@ -514,6 +514,7 @@
   <string name="timeModified">Waktu diubah</string>
   <string name="timeCreated">Waktu diciptakan</string>
   <string name="thankYou">Terima kasih!</string>
+  <string name="editor1">Editor 1</string>
   <string name="editor2">Editor 2</string>
   <string name="theTry">Cobalah</string>
   <string name="selectFolder">Pilih folder</string>
@@ -627,4 +628,9 @@
   <string name="noteDailyWidgetSetting">Kisi di bagian atas halaman Statistik Harian adalah grafik tulisan Anda dengan gaya kontribusi GitHub. Untuk warna grid, selain tingkat default 0 hitungan kata, warna grid memiliki 4 level, di mana level maksimum default adalah 2000 kata ke atas, Anda dapat mengubah jumlah kata level maksimum ini sebagai target Anda:</string>
   <string name="overview">Ikhtisar</string>
   <string name="purchaseTime">Waktu pembelian</string>
+  <string name="ignoreBatteryOptimizationsTip">Matikan pengoptimalan baterai untuk koneksi desktop yang lebih stabil (jangan khawatir, Pure Writer tidak akan menghabiskan banyak daya, tetapi pengoptimalan baterai sistem Anda dapat memutus koneksi jaringan Anda)</string>
+  <string name="hideStatusBar">Sembunyikan bilah status</string>
+  <string name="hideStatusBarSummary">Hanya berlaku di layar editor beranda</string>
+  <string name="noNetworkPermission">Tidak ada izin jaringan</string>
+  <string name="noNetworkPermissionMessage">Anda telah menonaktifkan izin jaringan untuk Pure Writer, yang mencegahnya terhubung. Ini akan mencegah Pure Writer melakukan pencadangan cloud, jadi berikan izin jaringan Pure Writer!</string>
 </resources>

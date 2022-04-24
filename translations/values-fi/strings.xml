@@ -522,6 +522,7 @@
   <string name="timeModified">Aika muutettu</string>
   <string name="timeCreated">Luotu aika</string>
   <string name="timeCreatedAndModified">Luotu ja muokattu aika</string>
+  <string name="editor1">Toimittaja 1</string>
   <string name="editor2">Toimittaja 2</string>
   <string name="currentChapterWordCount">Tämän luvun sanamäärä</string>
   <string name="currentBookWordCount">Koko kirjan sanamäärä</string>
@@ -677,4 +678,9 @@
   <string name="noteDailyWidgetSetting">Päivittäiset tilastot -sivun yläosassa oleva ruudukko on GitHub-sisällön tyyliin kirjoitettu kaavio. Ruudukkovärissä oletusarvoisen 0 sanamäärän tason lisäksi ruudukon värillä on 4 tasoa, joista oletusmaksimitaso on 2 000 sanaa tai enemmän. Voit muokata tätä enimmäissanamäärää tavoitteeksesi:</string>
   <string name="overview">Yleiskatsaus</string>
   <string name="purchaseTime">Ostoaika</string>
+  <string name="ignoreBatteryOptimizationsTip">Poista akun optimointi käytöstä vakaamman työpöytäyhteyden saamiseksi (älä huoli, Pure Writer ei kuluta paljon virtaa, mutta järjestelmäsi akun optimointi voi katkaista verkkoyhteytesi)</string>
+  <string name="hideStatusBar">Piilota tilapalkki</string>
+  <string name="hideStatusBarSummary">Vaikuttaa vain kotieditorin näytöllä</string>
+  <string name="noNetworkPermission">Ei verkkolupaa</string>
+  <string name="noNetworkPermissionMessage">Olet poistanut Pure Writerin verkkokäyttöoikeudet, mikä estää sitä muodostamasta yhteyttä. Tämä estää Pure Writeriä tekemästä pilvivarmuuskopioita, joten anna Pure Writer -verkkokäyttöoikeudet!</string>
 </resources>

@@ -508,6 +508,7 @@
   <string name="timeModified">Время изменено</string>
   <string name="timeCreated">Время создано</string>
   <string name="thankYou">Спасибо!</string>
+  <string name="editor1">Редактор 1</string>
   <string name="editor2">Редактор 2</string>
   <string name="theTry">Попробовать</string>
   <string name="selectFolder">Выберите папку</string>
@@ -627,4 +628,9 @@
   <string name="noteDailyWidgetSetting">Сетка в верхней части страницы "Ежедневная статистика" представляет собой график вашего письма в стиле вкладов GitHub. Для цвета сетки, в дополнение к уровню количества слов по умолчанию 0, цвет сетки имеет 4 уровня, из которых максимальный уровень по умолчанию составляет 2000 слов и выше, вы можете изменить этот максимальный уровень количества слов в качестве цели:</string>
   <string name="overview">Обзор</string>
   <string name="purchaseTime">Время покупки</string>
+  <string name="ignoreBatteryOptimizationsTip">Отключите оптимизацию батареи для более стабильного подключения к рабочему столу (не беспокойтесь, Pure Writer не будет потреблять много энергии, но оптимизация батареи вашей системы может прервать ваше сетевое соединение)</string>
+  <string name="hideStatusBar">Скрыть строку состояния</string>
+  <string name="hideStatusBarSummary">Действует только на экране домашнего редактора</string>
+  <string name="noNetworkPermission">Нет разрешения сети</string>
+  <string name="noNetworkPermissionMessage">Вы отключили сетевые разрешения для Pure Writer, что не позволяет ему подключиться. Это не позволит Pure Writer выполнять резервное копирование в облако, поэтому предоставьте Pure Writer сетевые разрешения!</string>
 </resources>

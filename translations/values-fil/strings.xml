@@ -613,6 +613,7 @@
   <string name="latex">LaTeX formula</string>
   <string name="signedIn">Naka-sign in</string>
   <string name="thankYou">Salamat!</string>
+  <string name="editor1">Editor 1</string>
   <string name="editor2">Editor 2</string>
   <string name="previous">Nakaraan</string>
   <string name="typewriterModeMode0">Paragraph mode</string>
@@ -678,4 +679,9 @@
   <string name="noteDailyWidgetSetting">Ang grid sa tuktok ng pahina ng Pang-araw-araw na Istatistika ay isang graph ng iyong pagsulat sa istilo ng mga kontribusyon sa GitHub. Para sa kulay ng grid, bilang karagdagan sa default na 0 na antas ng bilang ng salita, ang kulay ng grid ay may 4 na antas, kung saan ang default na maximum na antas ay 2000 salita at pataas, maaari mong baguhin ang pinakamataas na antas ng bilang ng salita bilang iyong target:</string>
   <string name="overview">Pangkalahatang-ideya</string>
   <string name="purchaseTime">Oras ng pagbili</string>
+  <string name="ignoreBatteryOptimizationsTip">I-off ang pag-optimize ng baterya para sa mas matatag na koneksyon sa desktop (huwag mag-alala, hindi kumonsumo ng maraming kuryente ang Pure Writer, ngunit maaaring putulin ng pag-optimize ng baterya ng iyong system ang iyong koneksyon sa network)</string>
+  <string name="hideStatusBar">Itago ang status bar</string>
+  <string name="hideStatusBarSummary">Magkakabisa lang sa screen ng home editor</string>
+  <string name="noNetworkPermission">Walang pahintulot sa network</string>
+  <string name="noNetworkPermissionMessage">Hindi mo pinagana ang mga pahintulot sa networking para sa Pure Writer, na pumipigil sa pagkonekta nito. Pipigilan nito ang Pure Writer na magsagawa ng mga cloud backup, kaya mangyaring magbigay ng mga pahintulot sa networking ng Pure Writer!</string>
 </resources>

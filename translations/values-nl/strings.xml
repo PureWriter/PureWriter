@@ -509,6 +509,7 @@
   <string name="timeModified">Tijd gewijzigd</string>
   <string name="timeCreated">Tijd gemaakt</string>
   <string name="thankYou">Dank je!</string>
+  <string name="editor1">Editor 1</string>
   <string name="editor2">Editor 2</string>
   <string name="theTry">Proberen</string>
   <string name="selectFolder">Selecteer map</string>
@@ -666,4 +667,9 @@
   <string name="noteDailyWidgetSetting">Het raster bovenaan de pagina met dagelijkse statistieken is een grafiek van je schrijven in de stijl van GitHub-bijdragen. Voor rasterkleur, naast het standaard 0 woordentellingsniveau, heeft rasterkleur 4 niveaus, waarvan het standaard maximumniveau 2000 woorden en hoger is, u kunt dit maximale woordenaantal als uw doel wijzigen:</string>
   <string name="overview">Overzicht</string>
   <string name="purchaseTime">Aankooptijd</string>
+  <string name="ignoreBatteryOptimizationsTip">Schakel batterij-optimalisatie uit voor een stabielere desktopverbinding (maak je geen zorgen, Pure Writer verbruikt niet veel stroom, maar de batterij-optimalisatie van je systeem kan je netwerkverbinding verbreken)</string>
+  <string name="hideStatusBarSummary">Wordt alleen van kracht op het startscherm van de editor</string>
+  <string name="hideStatusBar">Verberg status balk</string>
+  <string name="noNetworkPermission">Geen netwerktoestemming</string>
+  <string name="noNetworkPermissionMessage">U hebt netwerkmachtigingen voor Pure Writer uitgeschakeld, waardoor het geen verbinding kan maken. Dit voorkomt dat Pure Writer back-ups in de cloud uitvoert, dus verleen Pure Writer netwerkrechten!</string>
 </resources>

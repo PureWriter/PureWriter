@@ -520,6 +520,7 @@
   <string name="timeModified">Tid ændret</string>
   <string name="timeCreated">Tidspunkt oprettet</string>
   <string name="timeCreatedAndModified">Tid oprettet &amp; Ændret</string>
+  <string name="editor1">Redaktør 1</string>
   <string name="editor2">Redaktør 2</string>
   <string name="currentChapterWordCount">Ordtallet for det aktuelle kapitel</string>
   <string name="currentBookWordCount">Ordtallet for hele bogen</string>
@@ -668,5 +669,10 @@
   <string name="noteDailyWidgetSetting">Gitteret øverst på siden Daglig statistik er en graf over din skrivning i stil med GitHub-bidrag. For gitterfarve har gitterfarve, ud over standardniveauet for 0 ordtælling, 4 niveauer, hvoraf standard maksimumniveauet er 2000 ord og derover. Du kan ændre dette maksimale ordantal som dit mål:</string>
   <string name="overview">Oversigt</string>
   <string name="purchaseTime">Købstid</string>
+  <string name="ignoreBatteryOptimizationsTip">Slå batterioptimering fra for en mere stabil desktopforbindelse (bare rolig, Pure Writer bruger ikke meget strøm, men dit systems batterioptimering kan afbryde din netværksforbindelse)</string>
+  <string name="hideStatusBar">Skjul statuslinje</string>
+  <string name="hideStatusBarSummary">Træder kun i kraft på hjemmeredigeringsskærmen</string>
+  <string name="noNetworkPermission">Ingen netværkstilladelse</string>
+  <string name="noNetworkPermissionMessage">Du har deaktiveret netværkstilladelser for Pure Writer, hvilket forhindrer den i at oprette forbindelse. Dette vil forhindre Pure Writer i at udføre cloud-sikkerhedskopier, så giv venligst Pure Writer-netværkstilladelser!</string>
 </resources>
 

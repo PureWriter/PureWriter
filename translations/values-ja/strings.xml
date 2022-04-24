@@ -510,6 +510,7 @@
   <string name="timeCreated">作成された時間</string>
   <string name="timeCreatedAndModified">作成+更新時間</string>
   <string name="thankYou">ありがとうございました！</string>
+  <string name="editor1">エディター1</string>
   <string name="editor2">エディター2</string>
   <string name="theTry">試用</string>
   <string name="selectFolder">フォルダーを選択</string>
@@ -636,4 +637,9 @@
   <string name="noteDailyWidgetSetting"> Daily Statisticsページの上部にあるグリッドは、GitHubコントリビューションのスタイルでの書き込みのグラフです。グリッドカラーの場合、デフォルトの0ワードカウントレベルに加えて、グリッドカラーには4つのレベルがあり、そのうちのデフォルトの最大レベルは2000ワード以上です。この最大レベルのワードカウントをターゲットとして変更できます：</string>
   <string name="overview">概要</string>
   <string name="purchaseTime">購入時間</string>
+  <string name="ignoreBatteryOptimizationsTip">より安定したデスクトップ接続のためにバッテリーの最適化をオフにします（心配しないでください。PureWriterは多くの電力を消費しませんが、システムのバッテリーの最適化によってネットワーク接続が切断される可能性があります）</string>
+  <string name="hideStatusBar">ステータスバーを非表示</string>
+  <string name="hideStatusBarSummary">ホームエディタ画面でのみ有効になります</string>
+  <string name="noNetworkPermission">ネットワーク許可なし</string>
+  <string name="noNetworkPermissionMessage">Pure Writerのネットワーク権限を無効にしました。これにより、PureWriterが接続できなくなります。 これにより、PureWriterがクラウドバックアップを実行できなくなります。PureWriterのネットワーク権限を付与してください。</string>
 </resources>

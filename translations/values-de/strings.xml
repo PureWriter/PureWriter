@@ -501,6 +501,7 @@
   <string name="newOutline">Neue Gliederung</string>
   <string name="smoothCursor">Smooth Cursor</string>
   <string name="thankYou">Dankeschön!</string>
+  <string name="editor1">Editor 1</string>
   <string name="editor2">Editor 2</string>
   <string name="theTry">Ausprobieren</string>
   <string name="selectFolder">Ordner auswählen</string>
@@ -630,4 +631,9 @@
   <string name="noteDailyWidgetSetting">Das Raster oben auf der Seite "Tagesstatistik" ist eine Grafik Ihres Schreibens im Stil von GitHub-Beiträgen. Für die Rasterfarbe hat die Rasterfarbe zusätzlich zur standardmäßigen Wortzahlstufe von 0 4 Ebenen, von denen die standardmäßige maximale Wortzahl 2000 Wörter und mehr beträgt. Sie können diese maximale Wortzahl als Ihr Ziel ändern:</string>
   <string name="overview">Übersicht</string>
   <string name="purchaseTime">Kaufzeit</string>
+  <string name="ignoreBatteryOptimizationsTip">Deaktivieren Sie die Akkuoptimierung für eine stabilere Desktop-Verbindung (keine Sorge, Pure Writer verbraucht nicht viel Strom, aber die Akkuoptimierung Ihres Systems kann Ihre Netzwerkverbindung unterbrechen)</string>
+  <string name="hideStatusBar">Statusleiste verstecken</string>
+  <string name="hideStatusBarSummary">Wirkt sich nur auf dem Home-Editor-Bildschirm aus</string>
+  <string name="noNetworkPermission">Keine Netzwerkberechtigung</string>
+  <string name="noNetworkPermissionMessage">Sie haben die Netzwerkberechtigungen für Pure Writer deaktiviert, wodurch eine Verbindung verhindert wird. Dadurch wird Pure Writer daran gehindert, Cloud-Backups durchzuführen, also erteilen Sie Pure Writer bitte Netzwerkberechtigungen!</string>
 </resources>

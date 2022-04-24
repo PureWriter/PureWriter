@@ -513,6 +513,7 @@
   <string name="timeModified">Módosított idő</string>
   <string name="timeCreated">Létrehozott idő</string>
   <string name="timeCreatedAndModified">Létrehozás és módosítás időpontja</string>
+  <string name="editor1">Szerkesztő 1</string>
   <string name="editor2">Szerkesztő 2</string>
   <string name="currentChapterWordCount">Az aktuális fejezet szószáma</string>
   <string name="currentBookWordCount">Az egész könyv szószáma</string>
@@ -654,4 +655,9 @@
   <string name="noteDailyWidgetSetting">A Napi statisztikák oldal tetején lévő rács az Ön írásának grafikonja a GitHub-hozzájárulások stílusában. A rácsszínhez az alapértelmezett 0 szószám mellett a rácsszínnek 4 szintje van, amelyek közül az alapértelmezett maximális szint 2000 szó vagy több, ezt a maximális szószámot módosíthatja célként:</string>
   <string name="overview">Áttekintés</string>
   <string name="purchaseTime">Vásárlási idő</string>
+  <string name="ignoreBatteryOptimizationsTip">Kapcsolja ki az akkumulátor-optimalizálást a stabilabb asztali kapcsolat érdekében (ne aggódjon, a Pure Writer nem fogyaszt sok energiát, de a rendszer akkumulátor-optimalizálása megszakíthatja a hálózati kapcsolatot)</string>
+  <string name="hideStatusBar">Állapotsor elrejtése</string>
+  <string name="hideStatusBarSummary">Csak a főszerkesztő képernyőjén lép érvénybe</string>
+  <string name="noNetworkPermission">Nincs hálózati engedély</string>
+  <string name="noNetworkPermissionMessage">Letiltotta a Pure Writer hálózati engedélyeit, ami megakadályozza a csatlakozást. Ez megakadályozza, hogy a Pure Writer felhőalapú biztonsági mentéseket hajtson végre, ezért kérjük, adja meg a Pure Writer hálózati engedélyeit!</string>
 </resources>

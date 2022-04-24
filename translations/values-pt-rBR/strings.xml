@@ -534,6 +534,7 @@
   <string name="timeModified">Tempo modificado</string>
   <string name="timeCreated">Tempo criado</string>
   <string name="thankYou">Obrigado!</string>
+  <string name="editor1">Editor 1</string>
   <string name="editor2">Editor 2</string>
   <string name="theTry">Experimentar</string>
   <string name="selectFolder">Selecionar pasta</string>
@@ -688,5 +689,10 @@
   <string name="noteDailyWidgetSetting">A grade no topo da página Estatísticas diárias é um gráfico de sua escrita no estilo das contribuições de GitHub. Para a cor da grade, além do nível padrão de contagem de palavras 0, a cor da grade tem 4 níveis, dos quais o nível máximo padrão é de 2000 palavras e acima, você pode modificar este nível máximo de contagem de palavras como seu alvo:</string>
   <string name="overview">Visão geral</string>
   <string name="purchaseTime">Tempo de compra</string>
+  <string name="ignoreBatteryOptimizationsTip">Desative a otimização da bateria para uma conexão de desktop mais estável (não se preocupe, o Pure Writer não consumirá muita energia, mas a otimização da bateria do seu sistema pode cortar sua conexão de rede)</string>
+  <string name="hideStatusBar">Ocultar barra de status</string>
+  <string name="hideStatusBarSummary">Só tem efeito na tela do editor inicial</string>
+  <string name="noNetworkPermission">Sem permissão de rede</string>
+  <string name="noNetworkPermissionMessage">Você desativou as permissões de rede do Pure Writer, o que o impede de se conectar. Isso impedirá que o Pure Writer execute backups na nuvem, portanto, conceda permissões de rede ao Pure Writer!</string>
 
 </resources>

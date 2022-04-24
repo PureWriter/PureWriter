@@ -577,6 +577,7 @@
   <string name="latex">Formuła LaTeX</string>
   <string name="signedIn">Zalogowano</string>
   <string name="thankYou">Dziękuję!</string>
+  <string name="editor1">Edytor 1</string>
   <string name="editor2">Edytor 2</string>
   <string name="previous">Poprzedni</string>
   <string name="typewriterModeMode0">Tryb akapitu</string>
@@ -665,4 +666,9 @@
   <string name="noteDailyWidgetSetting">Siatka u góry strony statystyk dziennych to wykres Twojego pisania w stylu wkładów w serwisie GitHub. W przypadku koloru siatki, oprócz domyślnego poziomu liczby słów 0, kolor siatki ma 4 poziomy, z których domyślny maksymalny poziom to 2000 słów i więcej, możesz zmodyfikować tę maksymalną liczbę słów jako swój cel:</string>
   <string name="overview">Przegląd</string>
   <string name="purchaseTime">Czas zakupu</string>
+  <string name="ignoreBatteryOptimizationsTip">Wyłącz optymalizację baterii, aby uzyskać bardziej stabilne połączenie z komputerem stacjonarnym (nie martw się, Pure Writer nie zużywa dużo energii, ale optymalizacja baterii systemu może spowodować przerwanie połączenia sieciowego)</string>
+  <string name="hideStatusBar">Ukryj pasek stanu</string>
+  <string name="hideStatusBarSummary">Działa tylko na ekranie głównego edytora</string>
+  <string name="noNetworkPermission">Brak uprawnień do sieci</string>
+  <string name="noNetworkPermissionMessage">Wyłączyłeś uprawnienia sieciowe dla Pure Writer, co uniemożliwia mu połączenie. Uniemożliwi to Pure Writer wykonywanie kopii zapasowych w chmurze, więc przyznaj uprawnienia sieciowe Pure Writer!</string>
 </resources>

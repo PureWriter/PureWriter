@@ -609,6 +609,7 @@
   <string name="latex">Формула LaTeX</string>
   <string name="signedIn">Ви ввійшли</string>
   <string name="thankYou">Дякуємо!</string>
+  <string name="editor1">Редактор 1</string>
   <string name="editor2">Редактор 2</string>
   <string name="previous">Попередній</string>
   <string name="typewriterModeMode0">Режим абзацу</string>
@@ -661,4 +662,27 @@
   <string name="goodHeartNote">УВАГА: якщо ви приймаєте безкоштовний Pro, ви все одно бачитимете статус «Неактивний» або «Не підписаний» на сторінці Pure Writer Pro, це нормально, просто проігноруйте його, і ви зможете використовувати всі функції Pro.</string>
   <string name="limit1080wForPreviewImages">Обмежте максимальну ширину до 1080</string>
   <string name="purchaseTime">Час покупки</string>
+  <string name="ignoreBatteryOptimizationsTip">Вимкніть оптимізацію батареї для більш стабільного підключення до комп’ютера (не хвилюйтеся, Pure Writer не споживатиме багато енергії, але оптимізація акумулятора вашої системи може призвести до розриву підключення до мережі)</string>
+  <string name="overview">Огляд</string>
+  <string name="noteDailyWidgetSetting">Сітка вгорі сторінки щоденної статистики — це графік вашого письма у стилі внесків GitHub. Для кольору сітки, на додаток до рівня кількості слів за замовчуванням 0, колір сітки має 4 рівні, з яких максимальний рівень за замовчуванням становить 2000 слів і вище, ви можете змінити кількість слів максимального рівня як цільову:</string>
+  <string name="modifyWordCount4MaxLevel">Змінити кількість слів для максимального рівня</string>
+  <string name="lastTime">Останнього разу</string>
+  <string name="writingStartTime">Час початку написання</string>
+  <string name="appInForegroundTime">Додаток на передньому плані</string>
+  <string name="writingTimeAkaInputStatus">Час запису (статус введення)</string>
+  <string name="speed">Швидкість</string>
+  <string name="wordCountFull">Підрахунок слів</string>
+  <string name="second">другий</string>
+  <string name="millisecond">мілісекунда</string>
+  <string name="hour">годину</string>
+  <string name="minute">хвилина</string>
+  <string name="other">Інший</string>
+  <string name="allBooksWordCount">Загальна кількість слів у всіх книгах</string>
+  <string name="currentBookAndItsWordCount">Поточна книга та її кількість слів</string>
+  <string name="dailyExtraNote">* Примітка. Оскільки в цей день є статті раніше ніж <i>Щоденна статистика</i>, деякі з наведених вище даних є додатковими наведеними даними, наприклад, час написання може розраховуватися як час останнього оновлення статті - час створення статті , що може бути неточним, лише для довідки!</string>
+  <string name="dailyStatistics">Щоденна статистика</string>
+  <string name="hideStatusBar">Приховати рядок стану</string>
+  <string name="hideStatusBarSummary">Набирає чинності лише на екрані головного редактора</string>
+  <string name="noNetworkPermission">Немає дозволу на мережу</string>
+  <string name="noNetworkPermissionMessage">Ви вимкнули мережеві дозволи для Pure Writer, що не дозволяє йому підключатися. Це не дозволить Pure Writer виконувати хмарне резервне копіювання, тому надайте Pure Writer мережеві дозволи!</string>
 </resources>

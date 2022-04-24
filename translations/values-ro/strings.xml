@@ -598,6 +598,7 @@
   <string name="latex">Formula LaTeX</string>
   <string name="signedIn">Conectat</string>
   <string name="thankYou">Mulțumesc!</string>
+  <string name="editor1">Editorul 1</string>
   <string name="editor2">Editorul 2</string>
   <string name="previous">Anterior</string>
   <string name="typewriterModeMode0">Modul Paragraf</string>
@@ -663,4 +664,9 @@
   <string name="noteDailyWidgetSetting">Grila din partea de sus a paginii Statistici zilnice este un grafic al scrisului dvs. în stilul contribuțiilor GitHub. Pentru culoarea grilei, pe lângă nivelul implicit de numărare a cuvintelor 0, culoarea grilei are 4 niveluri, dintre care nivelul maxim implicit este de 2000 de cuvinte și mai mult, puteți modifica acest număr maxim de cuvinte ca țintă:</string>
   <string name="overview">Prezentare generală</string>
   <string name="purchaseTime">Timp de cumpărare</string>
+  <string name="ignoreBatteryOptimizationsTip">Dezactivați optimizarea bateriei pentru o conexiune desktop mai stabilă (nu vă faceți griji, Pure Writer nu va consuma multă energie, dar optimizarea bateriei sistemului dvs. vă poate întrerupe conexiunea la rețea)</string>
+  <string name="hideStatusBar">Ascunde bara de status</string>
+  <string name="hideStatusBarSummary">Are efect numai pe ecranul editorului de start</string>
+  <string name="noNetworkPermission">Fără permisiunea de rețea</string>
+  <string name="noNetworkPermissionMessage">Ai dezactivat permisiunile de conectare în rețea pentru Pure Writer, ceea ce îl împiedică să se conecteze. Acest lucru va împiedica Pure Writer să efectueze copii de siguranță în cloud, așa că vă rugăm să acordați permisiuni de rețea Pure Writer!</string>
 </resources>

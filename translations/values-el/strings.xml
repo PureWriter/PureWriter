@@ -519,6 +519,7 @@
   <string name="timeModified">Ο χρόνος που τροποποιήθηκε</string>
   <string name="timeCreated">Χρόνος που δημιουργήθηκε</string>
   <string name="timeCreatedAndModified">Χρόνος που δημιουργήθηκε &amp; τροποποιήθηκε</string>
+  <string name="editor1">Εκδότης 1</string>
   <string name="editor2">Εκδότης 2</string>
   <string name="currentChapterWordCount">Αριθμός λέξεων του τρέχοντος κεφαλαίου</string>
   <string name="currentBookWordCount">Αριθμός λέξεων ολόκληρου του βιβλίου</string>
@@ -668,4 +669,9 @@
   <string name="noteDailyWidgetSetting">Το πλέγμα στην κορυφή της σελίδας Ημερήσια στατιστικά είναι ένα γράφημα της γραφής σας στο στυλ των συνεισφορών του GitHub. Για το χρώμα πλέγματος, εκτός από το προεπιλεγμένο επίπεδο πλήθους 0 λέξεων, το χρώμα πλέγματος έχει 4 επίπεδα, εκ των οποίων το προεπιλεγμένο μέγιστο επίπεδο είναι 2000 λέξεις και άνω, μπορείτε να τροποποιήσετε αυτό το μέγιστο επίπεδο μέτρησης λέξεων ως στόχο:</string>
   <string name="overview">Επισκόπηση</string>
   <string name="purchaseTime">Χρόνος αγοράς</string>
+  <string name="ignoreBatteryOptimizationsTip">Απενεργοποιήστε τη βελτιστοποίηση μπαταρίας για πιο σταθερή σύνδεση επιφάνειας εργασίας (μην ανησυχείτε, το Pure Writer δεν θα καταναλώνει πολλή ενέργεια, αλλά η βελτιστοποίηση μπαταρίας του συστήματός σας μπορεί να διακόψει τη σύνδεση δικτύου σας)</string>
+  <string name="hideStatusBar">Απόκρυψη γραμμής κατάστασης</string>
+  <string name="hideStatusBarSummary">Εφαρμόζεται μόνο στην οθόνη του αρχικού επεξεργαστή</string>
+  <string name="noNetworkPermission">Δεν υπάρχει άδεια δικτύου</string>
+  <string name="noNetworkPermissionMessage">Έχετε απενεργοποιήσει τα δικαιώματα δικτύου για το Pure Writer, γεγονός που εμποδίζει τη σύνδεσή του. Αυτό θα αποτρέψει το Pure Writer από τη δημιουργία αντιγράφων ασφαλείας στο cloud, γι\' αυτό παρακαλούμε να εκχωρήσετε δικαιώματα δικτύωσης στο Pure Writer!</string>
 </resources>

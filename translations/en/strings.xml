@@ -53,7 +53,9 @@
   <string name="tipPermissionFailed">Permission isn\'t granted. History cannot be saved.</string>
   <string name="titleStorePermissionFailed">Storage permission denied</string>
   <string name="tipMessageStoragePermissionFirst">Please give us permission to access your storage. Pure Writer will only use it to auto backup your files to prevent you from losing them!</string>
+  <string name="tipMessageStoragePermissionFirstMIUI" translatable="false">我们需要文件存储权限仅用于自动备份您的文章，以此防止您的文本丢失，请授予权限。\n\n您<b><u>可以拒绝</u></b>此权限申请，但这会导致纯纯写作无法进行自动备份，请知悉！\n\n您<b><u>可以拒绝</u></b>此权限申请，但这会导致纯纯写作无法进行自动备份，请知悉！\n\n您<b><u>【可以拒绝】</u></b>此权限申请，但这会导致纯纯写作无法进行自动备份，请知悉！\n\n如果没有能够自动备份，一旦您卸载纯纯写作，那么所有内容将会被清空而失去一切。</string>
   <string name="tipMessageStoragePermissionToSettings">We need access to your storage to auto backup your files. Please grant the access manually in your device\'s Settings!</string>
+  <string name="tipMessageStoragePermissionToSettingsMIUI" translatable="false">我们需要文件存储权限仅用于自动备份您的文章，您拒绝或者系统发生错误申请失败，请您到设置页面手动授权，否则功能无法正常使用！\n\n您<b><u>可以拒绝</u></b>此权限申请，但这会导致纯纯写作无法进行自动备份，请知悉！\n\n您<b><u>可以拒绝</u></b>此权限申请，但这会导致纯纯写作无法进行自动备份，请知悉！\n\n您<b><u>【可以拒绝】</u></b>此权限申请，但这会导致纯纯写作无法进行自动备份，请知悉！\n\n如果没有能够自动备份，一旦您卸载纯纯写作，那么所有内容将会被清空而失去一切。</string>
   <string name="actionOkGoSettings">Go to Settings</string>
   <string name="tipFingerAuthRetry">Unable to recognize fingerprint. You have %d attempt(s) left.</string>
   <string name="tipFingerAuthFailed">Fingerprint suspended. Please try again in 1 minute. Exiting Pure Writer…</string>
@@ -594,6 +596,7 @@
   <string name="timeCreatedAndModified">Time Created &amp; Modified</string>
   <string name="presetFreeFont" translatable="false">免费的内置霞鹜文楷</string>
   <string name="summaryPresetFreeFont" translatable="false">仅在<b>未</b>启用「自定义字体」时有效</string>
+  <string name="editor1">Editor 1</string>
   <string name="editor2">Editor 2</string>
   <string name="currentChapterWordCount">Word count of current chapter</string>
   <string name="currentBookWordCount">Word count of the whole book</string>
@@ -742,4 +745,12 @@
   <string name="noteDailyWidgetSetting">The grid at the top of the Daily Statistics page is a graph of your writing in the style of GitHub contributions. For grid color, in addition to the default 0 word count level, grid color has 4 levels, of which the default maximum level is 2000 words and above, you can modify this maximum level word count as your target:</string>
   <string name="overview">Overview</string>
   <string name="purchaseTime">Purchase time</string>
+  <string name="ignoreBatteryOptimizationsTip">Turn off battery optimization for a more stable desktop connection (don\'t worry, Pure Writer won\'t consume a lot of power, but your system\'s battery optimization may cut your network connection)</string>
+  <string name="commaToFullStopWhenEnteringANewline">Comma to full stop when entering a newline</string>
+  <string name="hideStatusBar">Hide status bar</string>
+  <string name="hideStatusBarSummary">Only takes effect on the home editor screen</string>
+  <string name="scrollToHideFAB">Scroll to hide the floating ⊕ button at the bottom right of the editor</string>
+  <string name="scrollToHideFABSummary">If off, the bottom right button will be fixed</string>
+  <string name="noNetworkPermission">No network permission</string>
+  <string name="noNetworkPermissionMessage">You have disabled networking permissions for Pure Writer, which prevents it from connecting. This will prevent Pure Writer from performing cloud backups, so please grant Pure Writer networking permissions!</string>
 </resources>

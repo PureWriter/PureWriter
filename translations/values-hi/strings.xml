@@ -506,6 +506,7 @@
   <string name="timeModified">समय संशोधित हुआ</string>
   <string name="timeCreated">समय बनाया</string>
   <string name="thankYou">धन्यवाद!</string>
+  <string name="editor1">संपादक 1</string>
   <string name="editor2">संपादक २</string>
   <string name="theTry">इसे अजमाएं</string>
   <string name="selectFolder">फोल्डर का चयन करें</string>
@@ -621,4 +622,9 @@
   <string name="noteDailyWidgetSetting">दैनिक सांख्यिकी पृष्ठ के शीर्ष पर स्थित ग्रिड GitHub योगदान की शैली में आपके लेखन का एक ग्राफ़ है। ग्रिड रंग के लिए, डिफ़ॉल्ट 0 शब्द गणना स्तर के अलावा, ग्रिड रंग में 4 स्तर होते हैं, जिनमें से डिफ़ॉल्ट अधिकतम स्तर 2000 शब्द और उससे अधिक होता है, आप इस अधिकतम स्तर की शब्द गणना को अपने लक्ष्य के रूप में संशोधित कर सकते हैं:</string>
   <string name="overview">अवलोकन</string>
   <string name="purchaseTime">खरीदारी का समय</string>
+  <string name="ignoreBatteryOptimizationsTip">अधिक स्थिर डेस्कटॉप कनेक्शन के लिए बैटरी ऑप्टिमाइजेशन को बंद करें (चिंता न करें, प्योर राइटर बहुत अधिक बिजली की खपत नहीं करेगा, लेकिन आपके सिस्टम का बैटरी ऑप्टिमाइज़ेशन आपके नेटवर्क कनेक्शन को काट सकता है)</string>
+  <string name="hideStatusBar">स्थिति पट्टी छुपाएँ</string>
+  <string name="hideStatusBarSummary">केवल होम संपादक स्क्रीन पर प्रभावी होता है</string>
+  <string name="noNetworkPermission">कोई नेटवर्क अनुमति नहीं</string>
+  <string name="noNetworkPermissionMessage">आपने Pure Writer के लिए नेटवर्किंग अनुमतियां अक्षम कर दी हैं, जो इसे कनेक्ट होने से रोकता है। यह प्योर राइटर को क्लाउड बैकअप करने से रोकेगा, इसलिए कृपया प्योर राइटर को नेटवर्किंग की अनुमति दें!</string>
 </resources>

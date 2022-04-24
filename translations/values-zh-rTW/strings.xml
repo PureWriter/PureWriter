@@ -547,6 +547,7 @@
   <string name="timeCreatedAndModified">建立 + 更新時間</string>
   <string name="presetFreeFont">免費的內建霞鶩文楷</string>
   <string name="summaryPresetFreeFont">僅在<b>未</b>啟用「自訂字型」時有效</string>
+  <string name="editor1">第一編輯器</string>
   <string name="editor2">第二編輯器</string>
   <string name="currentChapterWordCount">目前章節字數</string>
   <string name="currentBookWordCount">全書字數</string>
@@ -693,4 +694,10 @@
   <string name="noteDailyWidgetSetting">在「每日統計」頁面頂部的這片格子區是仿造 GitHub contributions 風格的寫作情況熱力圖。對於格子顏色，除了預設 0 字數級別外，格子顏色有 4 個級別，其中預設最高級別為 2000 字及以上，您可以修改這個最高級別字數作為您的目標：</string>
   <string name="overview">總覽</string>
   <string name="purchaseTime">購買時間</string>
+  <string name="ignoreBatteryOptimizationsTip">關閉電池最佳化以獲得更穩定的桌面版連接（請放心，純純寫作不會產生大量耗電，但系統的電池最佳化功能可能會切斷您的網路連接）</string>
+  <string name="commaToFullStopWhenEnteringANewline">逗號換行自動變句號</string>
+  <string name="hideStatusBar">隱藏狀態欄，更加沉浸和專注</string>
+  <string name="hideStatusBarSummary">僅對主頁（編輯器頁面）生效</string>
+  <string name="noNetworkPermission">沒有網路權限 / 無法聯網</string>
+  <string name="noNetworkPermissionMessage">您禁止了純純寫作的聯網權限，導致它無法連接，這將導致您無法登入純純寫作帳號，並且無法進行雲備份，請授予純純寫作網路權限！</string>
 </resources>

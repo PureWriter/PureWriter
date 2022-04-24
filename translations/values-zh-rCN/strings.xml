@@ -554,6 +554,7 @@
   <string name="timeCreated">创建时间</string>
   <string name="currentChapterWordCount">当前章节字数</string>
   <string name="currentBookWordCount">全书字数</string>
+  <string name="editor1">第一编辑器</string>
   <string name="editor2">第二编辑器</string>
   <string name="rating">给予好评</string>
   <string name="wordsShort">字</string>
@@ -694,4 +695,12 @@
   <string name="noteDailyWidgetSetting">在「每日统计」页面顶部的这片格子区是仿造 GitHub contributions 风格的写作情况热力图。对于格子颜色，除了默认 0 字数级别外，格子颜色有 4 个级别，其中默认最高级别为 2000 字及以上，您可以修改这个最高级别字数作为您的目标：</string>
   <string name="overview">总览</string>
   <string name="purchaseTime">购买时间</string>
+  <string name="ignoreBatteryOptimizationsTip">关闭电池优化以获得更稳定的桌面版连接（请放心，纯纯写作不会产生大量耗电，但系统的电池优化功能可能会切断您的网络连接）</string>
+  <string name="commaToFullStopWhenEnteringANewline">逗号换行自动变句号</string>
+  <string name="hideStatusBar">隐藏状态栏，更加沉浸和专注</string>
+  <string name="hideStatusBarSummary">仅对主页（编辑器页面）生效</string>
+  <string name="scrollToHideFAB">滚动以隐藏编辑器右下角的⊕按钮</string>
+  <string name="scrollToHideFABSummary">如果关闭，则右下角的按钮将固定显示</string>
+  <string name="noNetworkPermission">没有网络权限 / 无法联网</string>
+  <string name="noNetworkPermissionMessage">您禁止了纯纯写作的联网权限，导致它无法连接，这将导致您无法登录纯纯写作账号，并且无法进行云备份，请授予纯纯写作网络权限！</string>
 </resources>

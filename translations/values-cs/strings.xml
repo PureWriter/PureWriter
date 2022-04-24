@@ -486,6 +486,7 @@
   <string name="timeModified">Čas změněn</string>
   <string name="timeCreated">Čas vytvořen</string>
   <string name="timeCreatedAndModified">Čas vytvořený a změněný</string>
+  <string name="editor1">Redaktor 1</string>
   <string name="editor2">Redaktor 2</string>
   <string name="currentChapterWordCount">Počet slov aktuální kapitoly</string>
   <string name="currentBookWordCount">Počet slov celé knihy</string>
@@ -664,4 +665,9 @@
   <string name="noteDailyWidgetSetting">Mřížka v horní části stránky denních statistik je grafem vašeho psaní ve stylu příspěvků na GitHubu. Pro barvu mřížky má barva mřížky kromě výchozí úrovně počtu slov 0, 4 úrovně, z nichž výchozí maximální úroveň je 2 000 slov a více, můžete tuto maximální úroveň počtu slov upravit jako cíl:</string>
   <string name="overview">Přehled</string>
   <string name="purchaseTime">Čas nákupu</string>
+  <string name="ignoreBatteryOptimizationsTip">Vypněte optimalizaci baterie pro stabilnější připojení k počítači (nebojte se, Pure Writer nespotřebovává mnoho energie, ale optimalizace baterie vašeho systému může přerušit připojení k síti)</string>
+  <string name="hideStatusBarSummary">Projeví se pouze na obrazovce domovského editoru</string>
+  <string name="hideStatusBar">Skrýt stavový řádek</string>
+  <string name="noNetworkPermission">Žádné síťové oprávnění</string>
+  <string name="noNetworkPermissionMessage">Zakázali jste síťová oprávnění pro Pure Writer, což mu brání v připojení. To zabrání Pure Writer provádět zálohování do cloudu, proto prosím udělte Pure Writer síťová oprávnění!</string>
 </resources>

@@ -513,6 +513,7 @@
   <string name="timeModified">Hora modificada</string>
   <string name="timeCreated">El tiempo creado</string>
   <string name="thankYou">Gracias.</string>
+  <string name="editor1">Editor 1</string>
   <string name="editor2">Editor 2</string>
   <string name="theTry">Probar</string>
   <string name="selectFolder">Seleccione la carpeta</string>
@@ -632,4 +633,9 @@
   <string name="noteDailyWidgetSetting">La cuadrícula en la parte superior de la página Estadísticas diarias es un gráfico de su escritura al estilo de las contribuciones de GitHub. Para el color de la cuadrícula, además del nivel de conteo de palabras predeterminado de 0, el color de la cuadrícula tiene 4 niveles, de los cuales el nivel máximo predeterminado es de 2000 palabras y más, puede modificar este conteo de palabras de nivel máximo como su objetivo:</string>
   <string name="overview">Resumen</string>
   <string name="purchaseTime">Tiempo de compra</string>
+  <string name="ignoreBatteryOptimizationsTip">Desactive la optimización de la batería para una conexión de escritorio más estable (no se preocupe, Pure Writer no consumirá mucha energía, pero la optimización de la batería de su sistema puede cortar su conexión de red)</string>
+  <string name="hideStatusBar">Ocultar barra de estado</string>
+  <string name="hideStatusBarSummary">Solo tiene efecto en la pantalla del editor de inicio</string>
+  <string name="noNetworkPermission">Sin permiso de red</string>
+  <string name="noNetworkPermissionMessage">Ha deshabilitado los permisos de red para Pure Writer, lo que impide que se conecte. Esto evitará que Pure Writer realice copias de seguridad en la nube, ¡así que otorgue permisos de red a Pure Writer!</string>
 </resources>

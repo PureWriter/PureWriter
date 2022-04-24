@@ -509,6 +509,7 @@
   <string name="timeModified">Tid ändrad</string>
   <string name="timeCreated">Tid skapad</string>
   <string name="timeCreatedAndModified">Tid Skapad och ändrad</string>
+  <string name="editor1">Redaktör 1</string>
   <string name="editor2">Redaktör 2</string>
   <string name="currentChapterWordCount">Antal ord i det aktuella kapitlet</string>
   <string name="currentBookWordCount">Antal ord i hela boken</string>
@@ -652,4 +653,9 @@
   <string name="noteDailyWidgetSetting">Rasteret överst på sidan Daglig statistik är en graf över ditt skrivande i stil med GitHub-bidrag. För rutnätsfärg, utöver standardnivån för 0 ord, har rutnätsfärgen 4 nivåer, varav standardgränsen är 2000 ord och mer. Du kan ändra detta maximala ordantal som ditt mål:</string>
   <string name="overview">Översikt</string>
   <string name="purchaseTime">Köptid</string>
+  <string name="ignoreBatteryOptimizationsTip">Stäng av batterioptimering för en mer stabil skrivbordsanslutning (oroa dig inte, Pure Writer förbrukar inte mycket ström, men ditt systems batterioptimering kan avbryta din nätverksanslutning)</string>
+  <string name="hideStatusBar">Göm statusfältet</string>
+  <string name="hideStatusBarSummary">träder endast i kraft på hemredigeringsskärmen</string>
+  <string name="noNetworkPermission">Ingen nätverksbehörighet</string>
+  <string name="noNetworkPermissionMessage">Du har inaktiverat nätverksbehörigheter för Pure Writer, vilket hindrar den från att ansluta. Detta kommer att förhindra Pure Writer från att utföra molnsäkerhetskopieringar, så ge Pure Writer nätverksbehörigheter!</string>
 </resources>

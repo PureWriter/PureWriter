@@ -518,6 +518,7 @@
   <string name="timeModified">Ora modificata</string>
   <string name="timeCreated">Tempo creato</string>
   <string name="thankYou">Grazie!</string>
+  <string name="editor1">Editore 1</string>
   <string name="editor2">Editore 2</string>
   <string name="theTry">Prova</string>
   <string name="selectFolder">Seleziona cartella</string>
@@ -631,4 +632,9 @@
   <string name="noteDailyWidgetSetting">La griglia nella parte superiore della pagina delle statistiche giornaliere è un grafico della tua scrittura nello stile dei contributi di GitHub. Per il colore della griglia, oltre al livello di conteggio di 0 parole predefinito, il colore della griglia ha 4 livelli, di cui il livello massimo predefinito è di 2000 parole e oltre, puoi modificare questo conteggio di parole di livello massimo come obiettivo:</string>
   <string name="overview">Panoramica</string>
   <string name="purchaseTime">Tempo di acquisto</string>
+  <string name="ignoreBatteryOptimizationsTip">Disattiva l\'ottimizzazione della batteria per una connessione desktop più stabile (non preoccuparti, Pure Writer non consumerà molta energia, ma l\'ottimizzazione della batteria del tuo sistema potrebbe interrompere la connessione di rete)</string>
+  <string name="hideStatusBar">Nascondi barra di stato</string>
+  <string name="hideStatusBarSummary">Ha effetto solo sulla schermata dell\'editor principale</string>
+  <string name="noNetworkPermission">Nessun permesso di rete</string>
+  <string name="noNetworkPermissionMessage">Hai disabilitato le autorizzazioni di rete per Pure Writer, che ne impedisce la connessione. Ciò impedirà a Pure Writer di eseguire backup su cloud, quindi ti preghiamo di concedere le autorizzazioni di rete a Pure Writer!</string>
 </resources>

@@ -523,6 +523,7 @@
   <string name="timeModified">Модифицирано време</string>
   <string name="timeCreated">Създадено време</string>
   <string name="timeCreatedAndModified">Време на създаване и модифициране</string>
+  <string name="editor1">Редактор 1</string>
   <string name="editor2">Редактор 2</string>
   <string name="currentChapterWordCount">Брой думи на текущата глава</string>
   <string name="currentBookWordCount">Брой думи за цялата книга</string>
@@ -671,4 +672,9 @@
   <string name="noteDailyWidgetSetting">Решетката в горната част на страницата с ежедневна статистика е графика на вашето писане в стила на приносите на GitHub. За цвета на мрежата, в допълнение към нивото на броя на думите по подразбиране 0, цветът на мрежата има 4 нива , от които максималното ниво по подразбиране е 2000 думи и повече, можете да промените това максимално ниво на броя на думите като ваша цел:</string>
   <string name="overview">Общ преглед</string>
   <string name="purchaseTime">Време за покупка</string>
+  <string name="ignoreBatteryOptimizationsTip">Изключете оптимизирането на батерията за по-стабилна връзка на работния плот (не се притеснявайте, Pure Writer няма да консумира много енергия, но оптимизацията на батерията на вашата система може да прекъсне мрежовата ви връзка)</string>
+  <string name="hideStatusBar">Скриване на лентата на състоянието</string>
+  <string name="hideStatusBarSummary">Влиза в сила само на екрана на началния редактор</string>
+  <string name="noNetworkPermission">Няма мрежово разрешение</string>
+  <string name="noNetworkPermissionMessage">Вие сте деактивирали мрежовите разрешения за Pure Writer, което му пречи да се свърже. Това ще попречи на Pure Writer да извършва архивиране в облак, така че, моля, предоставете мрежови разрешения на Pure Writer!</string>
 </resources>
