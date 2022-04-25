@@ -1,20 +1,20 @@
 {
-  "key": "k20220314",
+  "key": "k20220051",
   "title": {
-    "default": "ON SALE for Spring",
-    "zh": "春季优惠活动"
+    "default": "ON SALE for labor day",
+    "zh": "五一优惠活动"
   },
   "message": {
-    "default": "During 2022.3.14 ~ 2022.3.28, Pure Writer Pro (lifetime), originally priced at $19.99, is discounted to $14.99.",
-    "zh": "沾衣欲湿杏花雨，吹面不寒杨柳风。\n在 2022.3.14 ~ 2022.3.28 期间，纯纯写作 Pro（永久会员）现提供降价优惠！\n在纯纯写作 Pro 页面底部可查看最新优惠售价。"
+    "default": "During 2022.4.25 ~ 2022.5.7, Pure Writer Pro (lifetime), originally priced at $19.99, is discounted to $14.99.",
+    "zh": "不知天上宫阙，今夕是何年。\n在 2022.4.25 ~ 2022.5.7 五一期间，纯纯写作 Pro（永久会员）现提供大幅降价优惠！\n在纯纯写作 Pro 页面底部可查看最新优惠售价。"
   },
-  "startTime": "2022-3-14",
-  "endTime": "2022-3-28",
+  "startTime": "2022-4-25",
+  "endTime": "2022-5-7",
   "intervalDays": 3,
   "keyDays": [
-    14,
-    27,
-    28
+    30,
+    1,
+    7
   ],
   "onlyAbroad": false,
   "version": 1
