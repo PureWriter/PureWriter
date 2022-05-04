@@ -669,4 +669,7 @@
   <string name="hideStatusBarSummary">Are efect numai pe ecranul editorului de start</string>
   <string name="noNetworkPermission">Fără permisiunea de rețea</string>
   <string name="noNetworkPermissionMessage">Ai dezactivat permisiunile de conectare în rețea pentru Pure Writer, ceea ce îl împiedică să se conecteze. Acest lucru va împiedica Pure Writer să efectueze copii de siguranță în cloud, așa că vă rugăm să acordați permisiuni de rețea Pure Writer!</string>
+  <string name="tryChangingANiceBackgroundOrTheme">Încercați să schimbați un fundal sau o temă drăguță?</string>
+  <string name="databaseDowngradeError">Eroare de downgrade a bazei de date</string>
+  <string name="databaseDowngradeErrorMessage">Pure Writer a recuperat sau utilizat un fișier de bază de date dintr-o versiune ulterioară a Pure Writer. Versiunea actuală de Pure Writer nu poate procesa baza de date. Actualizați Pure Writer la cea mai recentă versiune pentru a rezolva această problemă.\n\nDacă nu actualizați, programul nu va funcționa corect, nu este că intenționăm să vă restricționăm, dar versiunea veche actuală nu este capabilă din punct de vedere tehnic să gestioneze noua versiune a bazei de date. Vă rugăm să înțelegeți și să actualizați la cea mai recentă versiune pentru a o rezolva.\n\nObțineți cea mai recentă versiune: https://t.me/s/PureWriter</string>
 </resources>

@@ -642,4 +642,7 @@
   <string name="hideStatusBarSummary">ホームエディタ画面でのみ有効になります</string>
   <string name="noNetworkPermission">ネットワーク許可なし</string>
   <string name="noNetworkPermissionMessage">Pure Writerのネットワーク権限を無効にしました。これにより、PureWriterが接続できなくなります。 これにより、PureWriterがクラウドバックアップを実行できなくなります。PureWriterのネットワーク権限を付与してください。</string>
+  <string name="tryChangingANiceBackgroundOrTheme">素敵な背景やテーマを変更してみませんか？</string>
+  <string name="databaseDowngradeError">データベースのダウングレードエラー</string>
+  <string name="databaseDowngradeErrorMessage">Pure Writerは、PureWriterの新しいバージョンからデータベースファイルを回復または使用しました。 PureWriterの現在のバージョンはデータベースを処理できません。 この問題を解決するには、PureWriterを最新バージョンに更新してください。\n\n更新しないと、プログラムは正しく機能しません。制限するつもりはありませんが、現在の古いバージョンでは、データベースの新しいバージョンを技術的に処理できません。 それを解決するには、理解して最新バージョンに更新してください。\n\n最新バージョンを入手する：https：//t.me/s/PureWriter</string>
 </resources>

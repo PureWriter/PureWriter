@@ -62,7 +62,7 @@
   <string name="off">关闭</string>
   <string name="shortcutBar">快捷输入栏</string>
   <string name="insertBlankLinesWhenExporting">导出时自动插入空行</string>
-  <string name="contentTextSize">正文字号</string>
+  <string name="contentTextSize">正文字号、正文字体大小</string>
   <string name="iKnow">我知道了</string>
   <string name="noteShortcutCursorIndex">请移动内容中的光标位置来设置最终插入文章后光标的落点</string>
   <string name="indentShort">缩进</string>
@@ -350,7 +350,7 @@
   <string name="customColorTipOnShortcutPad">提示：在设置页面可修改当前字体颜色</string>
   <string name="textColorSummary">须知：当切换稿纸后，字体颜色会自动恢复到默认颜色。</string>
   <string name="textColor">编辑器字体颜色</string>
-  <string name="titleTextSize">标题字号</string>
+  <string name="titleTextSize">标题字号、标题字体大小</string>
   <string name="restoreByThisBackup">通过此备份恢复内容？</string>
   <string name="restoreByThisBackupWithAppName">纯纯写作: 通过此备份恢复</string>
   <string name="collapseAllCategories">收起所有卷</string>
@@ -703,4 +703,8 @@
   <string name="scrollToHideFABSummary">如果关闭，则右下角的按钮将固定显示</string>
   <string name="noNetworkPermission">没有网络权限 / 无法联网</string>
   <string name="noNetworkPermissionMessage">您禁止了纯纯写作的联网权限，导致它无法连接，这将导致您无法登录纯纯写作账号，并且无法进行云备份，请授予纯纯写作网络权限！</string>
+  <string name="hideWordCountOnTM">隐藏在时光机底栏上的字数统计按钮</string>
+  <string name="tryChangingANiceBackgroundOrTheme">试试更改一个美妙的背景或主题？</string>
+  <string name="databaseDowngradeErrorMessage">您的纯纯写作恢复或使用了一个来自更高版本纯纯写作的数据库文件，当前版本的纯纯写作无法处理该数据库，请更新纯纯写作到最新版即可解决此问题。\n\n如果不更新，则程序无法正常使用，这并非我们有意想限制您，而是当前旧版在技术上就是无法处理新版的数据库。请您理解并更新到最新版即可解决。\n\n下载最新版：\nhttps://a.app.qq.com/o/simple.jsp?pkgname=com.drakeet.purewriter</string>
+  <string name="databaseDowngradeError">数据库降级错误</string>
 </resources>

@@ -684,4 +684,7 @@
   <string name="hideStatusBarSummary">Magkakabisa lang sa screen ng home editor</string>
   <string name="noNetworkPermission">Walang pahintulot sa network</string>
   <string name="noNetworkPermissionMessage">Hindi mo pinagana ang mga pahintulot sa networking para sa Pure Writer, na pumipigil sa pagkonekta nito. Pipigilan nito ang Pure Writer na magsagawa ng mga cloud backup, kaya mangyaring magbigay ng mga pahintulot sa networking ng Pure Writer!</string>
+  <string name="tryChangingANiceBackgroundOrTheme">Subukang magpalit ng magandang background o tema?</string>
+  <string name="databaseDowngradeError">Error sa pag-downgrade ng database</string>
+  <string name="databaseDowngradeErrorMessage">Ang iyong Pure Writer ay naka-recover o gumamit ng database file mula sa mas bagong bersyon ng Pure Writer. Ang kasalukuyang bersyon ng Pure Writer ay hindi maproseso ang database. Paki-update ang Pure Writer sa pinakabagong bersyon upang malutas ang problemang ito.\n\nKung hindi ka mag-a-update, hindi gagana nang maayos ang program, hindi dahil nilayon naming paghigpitan ka, ngunit teknikal na hindi kayang pangasiwaan ng kasalukuyang lumang bersyon ang bagong bersyon ng database. Mangyaring maunawaan at i-update sa pinakabagong bersyon upang malutas ito.\n\nKunin ang pinakabagong bersyon: https://t.me/s/PureWriter</string>
 </resources>

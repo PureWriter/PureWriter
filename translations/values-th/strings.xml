@@ -655,4 +655,7 @@
   <string name="hideStatusBarSummary">มีผลเฉพาะบนหน้าจอแก้ไขหลัก</string>
   <string name="noNetworkPermission">ไม่ได้รับอนุญาตเครือข่าย</string>
   <string name="noNetworkPermissionMessage">คุณได้ปิดใช้งานการอนุญาตเครือข่ายสำหรับ Pure Writer ซึ่งป้องกันไม่ให้เชื่อมต่อ วิธีนี้จะป้องกันไม่ให้ Pure Writer ทำการสำรองข้อมูลบนคลาวด์ ดังนั้นโปรดให้สิทธิ์เครือข่าย Pure Writer!</string>
+  <string name="tryChangingANiceBackgroundOrTheme">ลองเปลี่ยนพื้นหลังหรือธีมดีๆ ไหม</string>
+  <string name="databaseDowngradeError">ข้อผิดพลาดในการดาวน์เกรดฐานข้อมูล</string>
+  <string name="databaseDowngradeErrorMessage">Pure Writer ของคุณได้กู้คืนหรือใช้ไฟล์ฐานข้อมูลจาก Pure Writer เวอร์ชันที่ใหม่กว่า Pure Writer เวอร์ชันปัจจุบันไม่สามารถประมวลผลฐานข้อมูลได้ โปรดอัปเดต Pure Writer เป็นเวอร์ชันล่าสุดเพื่อแก้ปัญหานี้\n\nถ้าคุณไม่อัปเดต โปรแกรมจะทำงานไม่ถูกต้อง ไม่ใช่ว่าเราตั้งใจจะจำกัดคุณ แต่เวอร์ชันเก่าในปัจจุบันไม่สามารถจัดการกับฐานข้อมูลเวอร์ชันใหม่ได้ในทางเทคนิค โปรดเข้าใจและอัปเดตเป็นเวอร์ชันล่าสุดเพื่อแก้ไข\n\nรับเวอร์ชันล่าสุด: https://t.me/s/PureWriter</string>
 </resources>

@@ -595,7 +595,7 @@
   <string name="timeCreated">Time Created</string>
   <string name="timeCreatedAndModified">Time Created &amp; Modified</string>
   <string name="presetFreeFont" translatable="false">免费的内置霞鹜文楷</string>
-  <string name="summaryPresetFreeFont" translatable="false">仅在<b>未</b>启用「自定义字体」时有效</string>
+  <string name="summaryPresetFreeFont" translatable="false">仅在<b>未</b>启用「自定义字体」时有效。\n如果取消勾选此选项，纯纯写作将会使用<b>系统原生字体</b>或下方您自定义的字体。</string>
   <string name="editor1">Editor 1</string>
   <string name="editor2">Editor 2</string>
   <string name="currentChapterWordCount">Word count of current chapter</string>
@@ -753,4 +753,8 @@
   <string name="scrollToHideFABSummary">If off, the bottom right button will be fixed</string>
   <string name="noNetworkPermission">No network permission</string>
   <string name="noNetworkPermissionMessage">You have disabled networking permissions for Pure Writer, which prevents it from connecting. This will prevent Pure Writer from performing cloud backups, so please grant Pure Writer networking permissions!</string>
+  <string name="hideWordCountOnTM">Hide Word Count button on the Time Machine action bar</string>
+  <string name="tryChangingANiceBackgroundOrTheme">Try changing a nice background or theme?</string>
+  <string name="databaseDowngradeError">Database downgrade error</string>
+  <string name="databaseDowngradeErrorMessage">Your Pure Writer has recovered or used a database file from a later version of Pure Writer. The current version of Pure Writer cannot process the database. Please update Pure Writer to the latest version to solve this problem. \n\nIf you don\'t update, the program won\'t work properly, it\'s not that we intend to restrict you, but the current old version is technically unable to handle the new version of the database. Please understand and update to the latest version to solve it. \n\nGet the latest version: https://t.me/s/PureWriter</string>
 </resources>

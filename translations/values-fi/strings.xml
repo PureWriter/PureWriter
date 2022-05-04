@@ -683,4 +683,7 @@
   <string name="hideStatusBarSummary">Vaikuttaa vain kotieditorin näytöllä</string>
   <string name="noNetworkPermission">Ei verkkolupaa</string>
   <string name="noNetworkPermissionMessage">Olet poistanut Pure Writerin verkkokäyttöoikeudet, mikä estää sitä muodostamasta yhteyttä. Tämä estää Pure Writeriä tekemästä pilvivarmuuskopioita, joten anna Pure Writer -verkkokäyttöoikeudet!</string>
+  <string name="tryChangingANiceBackgroundOrTheme">Kokeile vaihtaa mukavaa taustaa tai teemaa?</string>
+  <string name="databaseDowngradeError">Tietokannan alennusvirhe</string>
+  <string name="databaseDowngradeErrorMessage">Pure Writer on palauttanut tai käyttänyt tietokantatiedostoa Pure Writerin uudemmasta versiosta. Pure Writerin nykyinen versio ei voi käsitellä tietokantaa. Päivitä Pure Writer uusimpaan versioon ratkaistaksesi tämän ongelman.\n\nJos et päivitä, ohjelma ei toimi kunnolla, ei se tarkoita, että aiomme rajoittaa sinua, mutta nykyinen vanha versio ei teknisesti pysty käsittelemään tietokannan uutta versiota. Ole hyvä ja ymmärrä ja päivitä uusimpaan versioon ratkaistaksesi sen.\n\nHanki uusin versio: https://t.me/s/PureWriter</string>
 </resources>

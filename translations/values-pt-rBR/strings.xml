@@ -694,5 +694,8 @@
   <string name="hideStatusBarSummary">Só tem efeito na tela do editor inicial</string>
   <string name="noNetworkPermission">Sem permissão de rede</string>
   <string name="noNetworkPermissionMessage">Você desativou as permissões de rede do Pure Writer, o que o impede de se conectar. Isso impedirá que o Pure Writer execute backups na nuvem, portanto, conceda permissões de rede ao Pure Writer!</string>
+  <string name="tryChangingANiceBackgroundOrTheme">Tente mudar um bom fundo ou tema?</string>
+  <string name="databaseDowngradeError">Erro de downgrade do banco de dados</string>
+  <string name="databaseDowngradeErrorMessage">Seu Pure Writer recuperou ou utilizou um arquivo de banco de dados de uma versão posterior do Pure Writer. A versão atual do Pure Writer não pode processar o banco de dados. Por favor, atualize o Pure Writer para a versão mais recente para resolver este problema. \n\nSe você não atualizar, o programa não funcionará corretamente, não é que pretendamos restringir você, mas a versão antiga atual é tecnicamente incapaz de lidar com a nova versão do banco de dados. Por favor, entenda e atualize para a versão mais recente para resolvê-la. \n\nObtenha a versão mais recente: https://t.me/s/PureWriter</string>
 
 </resources>

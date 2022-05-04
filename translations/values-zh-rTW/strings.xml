@@ -61,7 +61,7 @@
   <string name="off">關閉</string>
   <string name="shortcutBar">快速輸入列</string>
   <string name="insertBlankLinesWhenExporting">匯出時自動插入空行</string>
-  <string name="contentTextSize">正文字號</string>
+  <string name="contentTextSize">正文字號、正文字型大小</string>
   <string name="iKnow">我知道了</string>
   <string name="noteShortcutCursorIndex">請移動內容中的游標位置來設定最終插入文章後游標的落點</string>
   <string name="indentShort">縮排</string>
@@ -347,7 +347,7 @@
   <string name="textColor">編輯器字型顏色</string>
   <string name="textColorSummary">須知：當切換稿紙後，字型顏色會自動復原到預設顏色。</string>
   <string name="customColorTipOnShortcutPad">提示：在設定頁面可修改目前字型顏色</string>
-  <string name="titleTextSize">標題字號</string>
+  <string name="titleTextSize">標題字號、標題字型大小</string>
   <string name="restoreByThisBackup">透過此備份復原內容？</string>
   <string name="restoreByThisBackupWithAppName">純純寫作: 透過此備份復原</string>
   <string name="collapseAllCategories">收起所有卷</string>
@@ -546,7 +546,7 @@
   <string name="timeCreated">建立時間</string>
   <string name="timeCreatedAndModified">建立 + 更新時間</string>
   <string name="presetFreeFont">免費的內建霞鶩文楷</string>
-  <string name="summaryPresetFreeFont">僅在<b>未</b>啟用「自訂字型」時有效</string>
+  <string name="summaryPresetFreeFont">僅在<b>未</b>啟用「自訂字型」時有效。\n如果取消勾選此選項，純純寫作將會使用<b>系統原生字體</b>或下方您自訂的字體。</string>
   <string name="editor1">第一編輯器</string>
   <string name="editor2">第二編輯器</string>
   <string name="currentChapterWordCount">目前章節字數</string>
@@ -700,4 +700,8 @@
   <string name="hideStatusBarSummary">僅對主頁（編輯器頁面）生效</string>
   <string name="noNetworkPermission">沒有網路權限 / 無法聯網</string>
   <string name="noNetworkPermissionMessage">您禁止了純純寫作的聯網權限，導致它無法連接，這將導致您無法登入純純寫作帳號，並且無法進行雲備份，請授予純純寫作網路權限！</string>
+  <string name="hideWordCountOnTM">隱藏在時光機底欄上的字數統計按鈕</string>
+  <string name="tryChangingANiceBackgroundOrTheme">試試更改一個美妙的背景或主題？ </string>
+  <string name="databaseDowngradeErrorMessage">您的純純寫作復原或使用了一個來自更高版本純純寫作的資料庫文件，目前版本的純純寫作無法處理該資料庫，請更新純純寫作到最新版即可解決此問題。\n\n如果不更新，則程式無法正常使用，這並非我們有意想限制您，而是目前舊版在技術上就是無法處理新版的資料庫。請您理解並更新到最新版即可解決。\n\n下載最新版：\nhttps://a.app.qq.com/o/simple.jsp?pkgname=com.drakeet.purewriter\n或者 https://t.me/s/PureWriter</string>
+  <string name="databaseDowngradeError">資料庫降級錯誤</string>
 </resources>

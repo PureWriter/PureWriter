@@ -673,4 +673,7 @@
   <string name="hideStatusBarSummary">Stājas spēkā tikai sākuma redaktora ekrānā</string>
   <string name="noNetworkPermission">Nav tīkla atļaujas</string>
   <string name="noNetworkPermissionMessage">Jūs esat atspējojis Pure Writer tīkla atļaujas, kas neļauj tam izveidot savienojumu. Tas neļaus Pure Writer veikt mākoņdatošanas dublējumus, tāpēc, lūdzu, piešķiriet Pure Writer tīkla atļaujas!</string>
+  <string name="tryChangingANiceBackgroundOrTheme">Mēģiniet mainīt skaistu fonu vai motīvu?</string>
+  <string name="databaseDowngradeError">Datu bāzes pazemināšanas kļūda</string>
+  <string name="databaseDowngradeErrorMessage">Jūsu Pure Writer ir atkopis vai izmantojis datu bāzes failu no jaunākas Pure Writer versijas. Pašreizējā Pure Writer versija nevar apstrādāt datu bāzi. Lūdzu, atjauniniet Pure Writer uz jaunāko versiju, lai atrisinātu šo problēmu.\n\nJa neatjaunināsit, programma nedarbosies pareizi, nav tā, ka mēs plānojam jūs ierobežot, taču pašreizējā vecā versija tehniski nespēj apstrādāt jauno datu bāzes versiju. Lūdzu, izprotiet un atjauniniet uz jaunāko versiju, lai to atrisinātu.\n\nIegūstiet jaunāko versiju: https://t.me/s/PureWriter</string>
 </resources>

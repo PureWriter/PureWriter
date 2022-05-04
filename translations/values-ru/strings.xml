@@ -633,4 +633,7 @@
   <string name="hideStatusBarSummary">Действует только на экране домашнего редактора</string>
   <string name="noNetworkPermission">Нет разрешения сети</string>
   <string name="noNetworkPermissionMessage">Вы отключили сетевые разрешения для Pure Writer, что не позволяет ему подключиться. Это не позволит Pure Writer выполнять резервное копирование в облако, поэтому предоставьте Pure Writer сетевые разрешения!</string>
+  <string name="tryChangingANiceBackgroundOrTheme">Попробуйте изменить красивый фон или тему?</string>
+  <string name="databaseDowngradeError">Ошибка понижения базы данных</string>
+  <string name="databaseDowngradeErrorMessage">Ваш Pure Writer восстановил или использовал файл базы данных из более поздней версии Pure Writer. Текущая версия Pure Writer не может обрабатывать базу данных. Пожалуйста, обновите Pure Writer до последней версии, чтобы решить эту проблему.\n\nЕсли вы не обновитесь, программа не будет работать должным образом, мы не собираемся ограничивать вас, но текущая старая версия технически не может работать с новой версией базы данных. Пожалуйста, поймите и обновите до последней версии, чтобы решить эту проблему.\n\nПолучить последнюю версию: https://t.me/s/PureWriter</string>
 </resources>

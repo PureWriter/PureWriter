@@ -658,4 +658,7 @@
   <string name="hideStatusBarSummary">träder endast i kraft på hemredigeringsskärmen</string>
   <string name="noNetworkPermission">Ingen nätverksbehörighet</string>
   <string name="noNetworkPermissionMessage">Du har inaktiverat nätverksbehörigheter för Pure Writer, vilket hindrar den från att ansluta. Detta kommer att förhindra Pure Writer från att utföra molnsäkerhetskopieringar, så ge Pure Writer nätverksbehörigheter!</string>
+  <string name="tryChangingANiceBackgroundOrTheme">Prova att ändra en snygg bakgrund eller tema?</string>
+  <string name="databaseDowngradeError">Databasnedgraderingsfel</string>
+  <string name="databaseDowngradeErrorMessage">Din Pure Writer har återställt eller använt en databasfil från en senare version av Pure Writer. Den aktuella versionen av Pure Writer kan inte bearbeta databasen. Uppdatera Pure Writer till den senaste versionen för att lösa det här problemet.\n\nOm du inte uppdaterar kommer programmet inte att fungera korrekt, det är inte så att vi har för avsikt att begränsa dig, men den nuvarande gamla versionen kan tekniskt sett inte hantera den nya versionen av databasen. Förstå och uppdatera till den senaste versionen för att lösa det.\n\nHämta den senaste versionen: https://t.me/s/PureWriter</string>
 </resources>

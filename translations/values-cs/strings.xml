@@ -670,4 +670,7 @@
   <string name="hideStatusBar">Skrýt stavový řádek</string>
   <string name="noNetworkPermission">Žádné síťové oprávnění</string>
   <string name="noNetworkPermissionMessage">Zakázali jste síťová oprávnění pro Pure Writer, což mu brání v připojení. To zabrání Pure Writer provádět zálohování do cloudu, proto prosím udělte Pure Writer síťová oprávnění!</string>
+  <string name="tryChangingANiceBackgroundOrTheme">Zkusit změnit pěkné pozadí nebo motiv?</string>
+  <string name="databaseDowngradeError">Chyba při downgradu databáze</string>
+  <string name="databaseDowngradeErrorMessage">Váš Pure Writer obnovil nebo použil databázový soubor z novější verze Pure Writer. Aktuální verze Pure Writer nemůže zpracovat databázi. Chcete-li tento problém vyřešit, aktualizujte Pure Writer na nejnovější verzi.\n\nPokud neprovedete aktualizaci, program nebude správně fungovat, ne že bychom vás měli v úmyslu omezovat, ale aktuální stará verze technicky nezvládá novou verzi databáze. Prosím pochopte a aktualizujte na nejnovější verzi, abyste to vyřešili.\n\nZískejte nejnovější verzi: https://t.me/s/PureWriter</string>
 </resources>

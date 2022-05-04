@@ -633,4 +633,7 @@
   <string name="hideStatusBarSummary">Hanya berlaku di layar editor beranda</string>
   <string name="noNetworkPermission">Tidak ada izin jaringan</string>
   <string name="noNetworkPermissionMessage">Anda telah menonaktifkan izin jaringan untuk Pure Writer, yang mencegahnya terhubung. Ini akan mencegah Pure Writer melakukan pencadangan cloud, jadi berikan izin jaringan Pure Writer!</string>
+  <string name="tryChangingANiceBackgroundOrTheme">Coba ubah latar belakang atau tema yang bagus?</string>
+  <string name="databaseDowngradeError">Kesalahan penurunan versi basis data</string>
+  <string name="databaseDowngradeErrorMessage">Pure Writer Anda telah memulihkan atau menggunakan file database dari versi Pure Writer yang lebih baru. Versi Pure Writer saat ini tidak dapat memproses database. Harap perbarui Pure Writer ke versi terbaru untuk mengatasi masalah ini.\n\nJika Anda tidak memperbarui, program tidak akan berfungsi dengan baik, bukan karena kami bermaksud membatasi Anda, tetapi versi lama saat ini secara teknis tidak dapat menangani versi database yang baru. Harap dipahami dan perbarui ke versi terbaru untuk menyelesaikannya.\n\nDapatkan versi terbaru: https://t.me/s/PureWriter</string>
 </resources>
