@@ -572,7 +572,7 @@
   <string name="fabOverflowModeSingleClick">Single-click to open the pop-up menu, and you can choose to create an article in the menu</string>
   <string name="fabOverflowModeLongPress">Single-click to create an article directly, and long press to open the pop-up menu</string>
   <string name="safeMode">Safe mode</string>
-  <string name="summarySafeMode">When this App enters the background or recent task list page, the content of this App will be obscured or hidden; when this item is turned on, screenshots in the App will also be prohibited</string>
+  <string name="summarySafeMode">When this App enters the background or recent task list page, the content of this App will be obscured or hidden; when this item is turned on, <b>screenshots in the App will also be prohibited</b>!</string>
   <string name="pressBackToClearCursor">Cursor is hidden and entered Read-only mode</string>
   <string name="PureWriterManual">Pure Writer manual</string>
   <string name="cursorJoyTutorial">Press and hold the above shaking button, then move your finger to control cursor movement</string>
@@ -757,4 +757,6 @@
   <string name="tryChangingANiceBackgroundOrTheme">Try changing a nice background or theme?</string>
   <string name="databaseDowngradeError">Database downgrade error</string>
   <string name="databaseDowngradeErrorMessage">Your Pure Writer has recovered or used a database file from a later version of Pure Writer. The current version of Pure Writer cannot process the database. Please update Pure Writer to the latest version to solve this problem. \n\nIf you don\'t update, the program won\'t work properly, it\'s not that we intend to restrict you, but the current old version is technically unable to handle the new version of the database. Please understand and update to the latest version to solve it. \n\nGet the latest version: https://t.me/s/PureWriter</string>
+  <string name="forcedPortrait">Force screen orientation to portrait</string>
+  <string name="forcedPortraitSummary">This app will use portrait mode whether you have Auto-rotate turned on or not.</string>
 </resources>

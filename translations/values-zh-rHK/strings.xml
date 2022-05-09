@@ -523,7 +523,7 @@
   <string name="fabOverflowModeSingleClick">單擊打開二級菜單，在二級菜單中可選擇創建文章，避免誤觸</string>
   <string name="fabOverflowModeLongPress">單擊即可直接創建文章，而長按才打開二級菜單</string>
   <string name="safeMode">安全模式</string>
-  <string name="summarySafeMode">當純純寫作進入後台或最近任務列表頁面，模糊化其頁面內容；開啟此項後將同時禁止在應用內截圖</string>
+  <string name="summarySafeMode">當純純寫作進入後台或最近任務列表頁面，模糊化其頁面內容；開啟此項後將同時<b>禁止在應用內截圖</b>！</string>
   <string name="pressBackToClearCursor">已隱藏光標並進入只讀模式</string>
   <string name="PureWriterManual">《純純寫作使用手冊》</string>
   <string name="tipBlueInputBox">提示：輸入完成後，按回車鍵 ⏎ 可跳出藍色的填充框</string>
@@ -704,4 +704,6 @@
   <string name="tryChangingANiceBackgroundOrTheme">試試更改一個美妙的背景或主題？ </string>
   <string name="databaseDowngradeErrorMessage">您的純純寫作恢復或使用了一個來自更高版本純純寫作的資料庫文件，當前版本的純純寫作無法處理該資料庫，請更新純純寫作到最新版即可解決此問題。\n\n如果不更新，則程序無法正常使用，這並非我們有意想限制您，而是當前舊版在技術上就是無法處理新版的資料庫。請您理解並更新到最新版即可解決。\n\n下載最新版：\nhttps://a.app.qq.com/o/simple.jsp?pkgname=com.drakeet.purewriter\n或者 https://t.me/s/PureWriter</string>
   <string name="databaseDowngradeError">資料庫降級錯誤</string>
+  <string name="forcedPortrait">強制豎屏</string>
+  <string name="forcedPortraitSummary">無論您是否打開自動旋轉，此應用程序都將使用縱向模式。 </string>
 </resources>

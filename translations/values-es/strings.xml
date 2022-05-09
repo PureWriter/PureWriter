@@ -51,7 +51,7 @@
   <string name="off">Desactivado</string>
   <string name="shortcutBar">Barra de acceso directo</string>
   <string name="insertBlankLinesWhenExporting">Agregar líneas extras al exportar</string>
-  <string name="indent">Sangrar</string>
+  <string name="indent">Sangría</string>
   <string name="format">Formato</string>
   <string name="contentTextSize">Tamaño de la fuente del contenido</string>
   <string name="iKnow">Lo sé</string>
@@ -71,7 +71,7 @@
   <string name="promptShortcutContent">Contenido de acceso directo (requerido)</string>
   <string name="createShortcut">Crear acceso directo del texto</string>
   <string name="noteShortcutCursorIndex">Por favor, mueve la posición del cursor en el contenido para establecer la ubicación del mismo cursor después de insertar el artículo.</string>
-  <string name="indentShort">Sangrar</string>
+  <string name="indentShort">Sangría</string>
   <string name="delete">Eliminar</string>
   <string name="messageDeleteShortcut">Haz clic en ACEPTAR para eliminar este acceso direct</string>
   <string name="features">Características</string>
@@ -153,8 +153,8 @@
   <string name="wordCountOfThisBookDescription">Contador total de Palabras de este Libros</string>
   <string name="timeMachineGuide">¿Qué es esto? Podrías verlo como un chat o un lugar para registrar tus ideas, o incluso algo similar al Asistente de Google. Tiene un nombre especial que es "Máquina del Tiempo", ¡encantado de conocerte!</string>
   <string name="copyDate">Copiar fecha</string>
-  <string name="defaultBook">Libros por defecto</string>
-  <string name="books">Libross</string>
+  <string name="defaultBook">Libro por defecto</string>
+  <string name="books">Libros</string>
   <string name="createNewBook">Crear un nuevo Libros</string>
   <string name="summaryOfAbout">Conozca más sobre las ideas y conceptos originales que diseñamos para esta aplicación</string>
   <string name="emptyTip">Aún no se han abierto artículos</string>
@@ -168,7 +168,7 @@
   <string name="moveTo">Mover a</string>
   <string name="timeMachine">Máquina del Tiempo</string>
   <string name="listFirst">Abrir capítulos al inicio</string>
-  <string name="booksFirst">Abrir Libross al inicio</string>
+  <string name="booksFirst">Abrir Libros al inicio</string>
   <string name="language">Idioma</string>
   <string name="followSystem">Seguir Sistema</string>
   <string name="localPicture">Imagen Local</string>
@@ -244,17 +244,17 @@
   <string name="failed">Fallo</string>
   <string name="insertCategoryAboveShort">Insertar categoría <b>encima</b></string>
   <string name="insertCategoryBelowShort">Insertar categoría <b>abajo</b></string>
-  <string name="insertCategoryBottomShort">Insertar categoría en el <b>fondo</b></string>
+  <string name="insertCategoryBottomShort">Insertar categoría <b>al final</b></string>
   <string name="insertCategoryAboveLong">Insertar categoría <b>encima</b> del artículo actual</string>
   <string name="insertCategoryBelowLong">Insertar categoría <b>abajo</b> del artículo actual</string>
-  <string name="insertCategoryBottomLong">Insertar una nueva categoría en el <b>fondo</b> de la lista de capítulos</string>
-  <string name="insertCategory">Insertar categoríay</string>
+  <string name="insertCategoryBottomLong">Insertar una nueva categoría <b>al final</b> de la lista de capítulos</string>
+  <string name="insertCategory">Insertar categoría</string>
   <string name="editCategory">Editar categoría</string>
   <string name="category">Categoría</string>
   <string name="deleteEmptyArticlesShort">Eliminar todos los artículos vacíos</string>
   <string name="deleteEmptyArticlesLong">Eliminar todos los artículos con títulos y contenido en blanco en este Libros</string>
   <string name="deleteCategory">Eliminar categoría</string>
-  <string name="exportBook">Exportar este Libros</string>
+  <string name="exportBook">Exportar este libro</string>
   <string name="needManualSortingTitle">Necesitas cambiar a la clasificación manual para usar esta función</string>
   <string name="needManualSortingMessage">¿Desea cambiar la configuración a "Clasificación manual"?</string>
   <string name="doubleClickToExit">Haga doble clic en la tecla Atrás para salir de la aplicación</string>
@@ -310,7 +310,7 @@
   <string name="zoomOut">Disminuir el enfoque</string>
   <string name="switchingBooksTooltip">Consejo: Al hacer clic en el título del libro en la parte superior, podrás cambiar de libro.</string>
   <string name="scrollToTheCurrentArticle">Desplazarse al artículo actual</string>
-  <string name="allBooks">Todos los Libross</string>
+  <string name="allBooks">Todos los Libros</string>
   <string name="outlines">Esquemas</string>
   <string name="outline">Esquema</string>
   <string name="mainLine">Línea principal</string>
@@ -365,7 +365,7 @@
   <string name="autoInsertBlankLineWhenWrapping">Inserte una línea en blanco automáticamente al envolver</string>
   <string name="paragraphSpacingSettingSummary">El texto súper largo obtendrá un mejor rendimiento cuando el espacio entre párrafos esté desactivado</string>
   <string name="onlyAvailableWhenParagraphOff">Solo disponible cuando el espacio entre párrafos está desactivado</string>
-  <string name="markdownAsDefault">Use Markdown como el modo predeterminado para nuevos artículos</string>
+  <string name="markdownAsDefault">Usar Markdown como el modo predeterminado para nuevos artículos</string>
   <string name="needToPayForMarkdownRenderer">Esta es la página de Vista previa rápida de Markdown, que requiere que pague por Pure Writer Pro para usarla.</string>
   <string name="fabContextCreateNewAfterCurrent">Nuevo artículo después del artículo actual</string>
   <string name="fabContextCreateNewAtTheBottom">Nuevo artículo al final de la lista de artículos</string>
@@ -632,7 +632,7 @@
   <string name="modifyWordCount4MaxLevel">Modificar el recuento de palabras para el nivel máximo</string>
   <string name="noteDailyWidgetSetting">La cuadrícula en la parte superior de la página Estadísticas diarias es un gráfico de su escritura al estilo de las contribuciones de GitHub. Para el color de la cuadrícula, además del nivel de conteo de palabras predeterminado de 0, el color de la cuadrícula tiene 4 niveles, de los cuales el nivel máximo predeterminado es de 2000 palabras y más, puede modificar este conteo de palabras de nivel máximo como su objetivo:</string>
   <string name="overview">Resumen</string>
-  <string name="purchaseTime">Tiempo de compra</string>
+  <string name="purchaseTime">Fecha de compra</string>
   <string name="ignoreBatteryOptimizationsTip">Desactive la optimización de la batería para una conexión de escritorio más estable (no se preocupe, Pure Writer no consumirá mucha energía, pero la optimización de la batería de su sistema puede cortar su conexión de red)</string>
   <string name="hideStatusBar">Ocultar barra de estado</string>
   <string name="hideStatusBarSummary">Solo tiene efecto en la pantalla del editor de inicio</string>

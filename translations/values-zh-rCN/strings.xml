@@ -529,7 +529,7 @@
   <string name="fabOverflowModeSingleClick">单击打开二级菜单，在二级菜单中可选择创建文章，避免误触</string>
   <string name="fabOverflowModeLongPress">单击即可直接创建文章，而长按才打开二级菜单</string>
   <string name="safeMode">安全模式</string>
-  <string name="summarySafeMode">当纯纯写作进入后台或最近任务列表页面，模糊化其页面内容；开启此项后将同时禁止在应用内截图</string>
+  <string name="summarySafeMode">当纯纯写作进入后台或最近任务列表页面，模糊化其页面内容；开启此项后将同时<b>禁止在应用内截图</b>！</string>
   <string name="pressBackToClearCursor">已隐藏光标并进入只读模式</string>
   <string name="PureWriterManual">《纯纯写作使用手册》</string>
   <string name="cursorJoyTutorial">按住这个摇晃的按钮并移动手指，即可控制光标移动</string>
@@ -707,4 +707,6 @@
   <string name="tryChangingANiceBackgroundOrTheme">试试更改一个美妙的背景或主题？</string>
   <string name="databaseDowngradeErrorMessage">您的纯纯写作恢复或使用了一个来自更高版本纯纯写作的数据库文件，当前版本的纯纯写作无法处理该数据库，请更新纯纯写作到最新版即可解决此问题。\n\n如果不更新，则程序无法正常使用，这并非我们有意想限制您，而是当前旧版在技术上就是无法处理新版的数据库。请您理解并更新到最新版即可解决。\n\n下载最新版：\nhttps://a.app.qq.com/o/simple.jsp?pkgname=com.drakeet.purewriter</string>
   <string name="databaseDowngradeError">数据库降级错误</string>
+  <string name="forcedPortrait">强制竖屏</string>
+  <string name="forcedPortraitSummary">无论您是否打开自动旋转，此应用程序都将使用纵向模式。</string>
 </resources>
