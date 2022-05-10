@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="pureWriter">Pure Writer</string>
-  <string name="titleHint">Títulos</string>
-  <string name="editorTipAMenu">Primero necesitas elegir un texto</string>
-  <string name="editorHintContent">Empieza a escribir algo…</string>
+  <string name="titleHint">Título</string>
+  <string name="editorTipAMenu">Primero debes elegir un texto</string>
+  <string name="editorHintContent">Comienza a escribir algo…</string>
   <string name="slogan">Rápido | Una experiencia increíble | Nunca pierdas tu contenido</string>
   <string name="iconDesc">El icono de Pure Writer es una máquina del tiempo\nLa máquina del tiempo está flotando hacia adelante. Deseando palabras, pueden conectarnos con el pasado y el futuro…</string>
   <string name="undo">Deshacer</string>
@@ -32,10 +32,10 @@
   <string name="historyState">Guardado</string>
   <string name="tipNeedFingerprint">Por favor, desbloquea con tu huella digital para ver y editar</string>
   <string name="empty">Vacío</string>
-  <string name="isRevertToThisFile">Recuperar este documento?</string>
-  <string name="noMore">Nada más!</string>
+  <string name="isRevertToThisFile">¿Recuperar este documento?</string>
+  <string name="noMore">¡Nada más!</string>
   <string name="goOn">Continuar</string>
-  <string name="reject">Rechazar</string>
+  <string name="reject">Cancelar</string>
   <string name="titleIntroCard">Pure Writer</string>
   <string name="defaultTitle">Como desees</string>
   <string name="tipPermissionFailed">Los permisos no han sido concedidos. El historial no podrá ser guardado.</string>
@@ -53,8 +53,8 @@
   <string name="insertBlankLinesWhenExporting">Agregar líneas extras al exportar</string>
   <string name="indent">Sangría</string>
   <string name="format">Formato</string>
-  <string name="contentTextSize">Tamaño de la fuente del contenido</string>
-  <string name="iKnow">Lo sé</string>
+  <string name="contentTextSize">Tamaño de la letra del contenido</string>
+  <string name="iKnow">ENTENDIDO</string>
   <string name="tipIndent">Nota: La sangría no afectará al texto actual</string>
   <string name="explanation">Explicación</string>
   <string name="tipInsertBlankLines">Mientras esta configuración esté activada, se agregará una línea adicional en cada párrafo cuando se copie o comparta el texto. Como el espacio especial entre párrafos solo se proporciona en Pure Writer, se necesitan líneas adicionales para tener el mismo efecto fuera de esta aplicación.</string>
@@ -63,9 +63,9 @@
   <string name="summaryPay">Consigue funciones Pro </string>
   <string name="tipSettingNotSupport">Esta configuración sigue bajo desarollo</string>
   <string-array name="nightModeEntries">
-    <item>Auto</item>
-    <item>Modo nocturno ACTIVADO</item>
-    <item>Modo nocturno DESACTIVADO</item>
+    <item>Automático</item>
+    <item>Siempre activado</item>
+    <item>Siempre desactivado</item>
   </string-array>
   <string name="promptShortcutTitle">Descripción del acceso directo (opcional)</string>
   <string name="promptShortcutContent">Contenido de acceso directo (requerido)</string>
@@ -88,10 +88,10 @@
   <string name="summaryPaid">Pro activado</string>
   <string name="labelUpdate">La nueva versión %1$s de Pure Writer está disponible</string>
   <string name="update">Actualizar</string>
-  <string name="messageDeleteArticlesToTrash">¿Estás seguro de eliminar estos artículos y moverlos a la papelera?</string>
+  <string name="messageDeleteArticlesToTrash">¿Realmente deseas eliminar estos artículos y moverlos a la papelera?</string>
   <string name="tipPurchasedStatusFailed">Comprado. Si el estado de compra no se actualiza, intenta hacer clic nuevamente en el artículo Pro (no te preocupes, no recibirás un cobro extra por esto))</string>
   <string name="createNew">Crear un nuevo artículo</string>
-  <string name="autoLock">Auto-bloqueo</string>
+  <string name="autoLock">Bloqueo automático</string>
   <string name="enabled">Activado</string>
   <string name="appLinks">URLs Android</string>
   <string name="titleOpenImportedFile">Abriste un archivo externo, selecciona una acción</string>
@@ -113,10 +113,12 @@
   <string name="tipBackupNotExist">No existe un archivo de la Copia de Seguridad. Por favor, mueve la Copia de Seguridad a la carpeta Documents/PureWriter/Backups e inténtalo de nuevo.</string>
   <string name="wordCountMode">Modo de Contador de Palabras</string>
   <string-array name="wordCountModeEntries">
-    <item>Excluir espacios y saltos de línea</item>
-    <item>Incluir todos los símbolos y textos</item>
-    <item><b>Incluye todos los símbolos y textos</b>, espacios, y saltos de línea</item>
-  </string-array>
+	<item>@string/wordCountModeEntriesItem1</item>
+	<item>@string/wordCountModeEntriesItem2</item>
+	<item>@string/wordCountModeEntriesItem3</item>
+		<string name="wordCountModeEntriesItem1">Excluir espacios y saltos de línea</string>
+		<string name="wordCountModeEntriesItem2">Incluir todos los símbolos y textos</string>
+		<string name="wordCountModeEntriesItem3"><b>Excluir todos los signos de puntuación</b>, espacios, y saltos de línea</string>		
   <string name="fab">Botón de Inicio Flotante</string>
   <string name="tipFab">Consejo: Mantenga presionado el Botón de Inicio Flotante para ocultarlo temporalmente</string>
   <string name="tipCannotCreateNewWhenEmpty">¡No se puede crear un nuevo artículo cuando el título y el contenido están en blanco! Sin embargo, aún puedes crearlo a través del botón en la esquina superior derecha del menú.</string>
@@ -150,20 +152,20 @@
   <string name="gfmBreaksEnabled">Envuelva con un salto de línea</string>
   <string name="gfmBreaksDisabled">Requiere al menos dos saltos de línea para hacer la nueva línea</string>
   <string name="wordCountOfThisBook">Contador total</string>
-  <string name="wordCountOfThisBookDescription">Contador total de Palabras de este Libros</string>
+  <string name="wordCountOfThisBookDescription">Contador total de Palabras de este Libro</string>
   <string name="timeMachineGuide">¿Qué es esto? Podrías verlo como un chat o un lugar para registrar tus ideas, o incluso algo similar al Asistente de Google. Tiene un nombre especial que es "Máquina del Tiempo", ¡encantado de conocerte!</string>
   <string name="copyDate">Copiar fecha</string>
   <string name="defaultBook">Libro por defecto</string>
   <string name="books">Libros</string>
-  <string name="createNewBook">Crear un nuevo Libros</string>
+  <string name="createNewBook">Crear un nuevo Libro</string>
   <string name="summaryOfAbout">Conozca más sobre las ideas y conceptos originales que diseñamos para esta aplicación</string>
   <string name="emptyTip">Aún no se han abierto artículos</string>
   <string name="name">Nombre</string>
   <string name="optionalDescription">Descripción (opcional)</string>
-  <string name="createBookForDialogButton">Crear un Libros</string>
+  <string name="createBookForDialogButton">Crear un Libro</string>
   <string name="openSourceLicenses">Licencias de Código Abierto</string>
   <string name="cannotDelete">No se puede eliminar</string>
-  <string name="cannotDeleteNotEmptyBook">El Libros no está vacío. Para borrarlo, elimina primero los artículos que contiene</string>
+  <string name="cannotDeleteNotEmptyBook">El Libro no está vacío. Para borrarlo, elimina primero los artículos que contiene</string>
   <string name="move">Mover</string>
   <string name="moveTo">Mover a</string>
   <string name="timeMachine">Máquina del Tiempo</string>
@@ -187,8 +189,8 @@
   <string name="messageDeleteArticlesDirectly">Eliminar permanentemente estos artículos</string>
   <string name="trashFolderTip">No puedes crear un nuevo archivo en esta carpeta de basura!</string>
   <plurals name="confirmDeleteMessages">
-    <item quantity="one">¿Estás seguro de eliminar este mensaje? - %d</item>
-    <item quantity="other">¿Estás seguro de eliminar estos mensajes? - %d</item>
+    <item quantity="one">¿Realmente deseas eliminar este mensaje? - %d</item>
+    <item quantity="other">¿Realmente deseas eliminar estos mensajes? - %d</item>
   </plurals>
   <string name="tipLandscapeOrientation">Por favor, utiliza un teclado externo en el modo horizontal</string>
   <string name="promptShortcutOrder">Orden</string>
@@ -198,12 +200,12 @@
   <string name="bridgeDownload">Puente: Extraer</string>
   <string name="backupSettingTitle">Copia de Seguridad</string>
   <string name="backupSettingSummary">Copia de Seguridad, Restaurar, Dropbox, WebDAV, Google Drive</string>
-  <string name="syncNetwork">Copia de Seguridad en Nube</string>
-  <string name="syncOnlyWifi">Sincronizar la Copia de Seguridad en Nube solo cuando la red Wi-Fi esté activado</string>
-  <string name="syncAllNetworks">Sincronizar la Copia de Seguridad en Nube con cualquier red</string>
-  <string name="webDavRootURL">WebDAV URL</string>
-  <string name="webDavAccount">WebDAV Cuenta</string>
-  <string name="webDavPassword">WebDAV Contraseña</string>
+  <string name="syncNetwork">Conexión con la Nube</string>
+  <string name="syncOnlyWifi">Sincronizar solo cuando la red Wi-Fi esté activado</string>
+  <string name="syncAllNetworks">Sincronizar con cualquier red</string>
+  <string name="webDavRootURL">Dirección URL del WebDAV</string>
+  <string name="webDavAccount">Usuario de acceso a tu WebDAV</string>
+  <string name="webDavPassword">Contraseña de tu WebDAV</string>
   <string name="autoBackupToCloud">Copia de Seguridad automática en la nube</string>
   <string name="noWebDavConfigForUploading">La configuración de tu WebDAV está incompleto o incorrecto. Por favor, modifica la configuración de WebDAV antes de realizar la subida.</string>
   <string name="noWebDavConfig">La configuración de tu WebDAV está incompleto o incorrecto.</string>
@@ -212,7 +214,7 @@
   <string name="messageUpload">Pure Writer creó un archivo <b>fijo</b> en el disco de la nube. El nombre del archivo es <b>PureWriter.txt</b>. Puedes dar clic en "ACEPTAR" para subir el artículo actual en el archivo fijado. Luego puedes editar este archivo en la nube en otros dispositivos. Cuando cambie, puedes bajarlo. \n\n¿Deseas sobrescribir el contenido del artículo actual en ese archivo en la nube?</string>
   <string name="typewriterMode">Modo de Máquina de Escribir</string>
   <string name="edit">Editar</string>
-  <string name="editBook">Editar Libros</string>
+  <string name="editBook">Editar Libro</string>
   <string name="tipFloatingWordCountDisabled">Después de desactivar el recuento de palabras flotante, podrá seguir obteniendo el recuento de palabras en la lista de capítulos/artículos.</string>
   <string name="shareText">Recomendación: Pure Writer es una aplicación de edición de texto llena de funciones que te brinda tranquilidad con sus características: historial de registros, protección de múltiples capas que impide perder tu valioso contenido y también un entorno de escritura cómodo. Descubre más aquí: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="shareMessage">Si te gusta Pure Writer, ¡ayúdenos a correr la voz! Haz clic en el botón de Compartir que está al lado derecho y con esto podrás enviar esta aplicación a tus amigos. Significaría mucho para nosotros ya que mejoraríamos el desarrollo por el apoyo que recibamos, ¡gracias!\n\nDescubre más aquí: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
@@ -230,8 +232,8 @@
   <string name="presetContent4">Pure Writer se toma la privacidad de sus usuarios muy en serio, por ello nunca recopilará su información privada. \nAdemás, no leerá ni modificará ningún contenido en tu portapapeles sin notificarte.\nEl permiso de almacenamiento que solicitó Pure Writer se utiliza únicamente para la Copia de Seguridad y para guardar sus archivos. Aparte de eso, no leerá ni modificará ninguno de sus archivos en el almacenamiento sin notificarle primero. \nPure Writer admite Copias de Seguridad en la nube, que utiliza el cifrado HTTPS para transferir las Copias de Seguridad de su base de datos a su almacenamiento en la nube WebDAV. Sus Copias de Seguridad en la nube solo se almacenarán en el almacenamiento en la nube que configuraste, y nunca se cargarán en otros lugares.</string>
   <string name="createAt">Creado el</string>
   <string name="updatedAt">Actualizado el</string>
-  <string name="forcedBlackTextColor">Forzar color de texto a negro</string>
-  <string name="forcedWhiteTextColor">Forzar color de texto a blanco</string>
+  <string name="forcedBlackTextColor">Texto siempre en negro</string>
+  <string name="forcedWhiteTextColor">Texto siempre en blanco</string>
   <string name="onlyAvailableWhenParagraphOn">Solo disponible cuando el espacio entre párrafos está activado</string>
   <string name="lowProfile">Modo de enfoque de la barra de estado</string>
   <string name="chapters">Capítulos</string>
@@ -252,25 +254,25 @@
   <string name="editCategory">Editar categoría</string>
   <string name="category">Categoría</string>
   <string name="deleteEmptyArticlesShort">Eliminar todos los artículos vacíos</string>
-  <string name="deleteEmptyArticlesLong">Eliminar todos los artículos con títulos y contenido en blanco en este Libros</string>
+  <string name="deleteEmptyArticlesLong">Eliminar todos los artículos con títulos y contenido en blanco en este Libro</string>
   <string name="deleteCategory">Eliminar categoría</string>
   <string name="exportBook">Exportar este libro</string>
   <string name="needManualSortingTitle">Necesitas cambiar a la clasificación manual para usar esta función</string>
   <string name="needManualSortingMessage">¿Desea cambiar la configuración a "Clasificación manual"?</string>
   <string name="doubleClickToExit">Haga doble clic en la tecla Atrás para salir de la aplicación</string>
   <string name="doubleClickToExitTip">Haga clic en ATRÁS nuevamente para salir</string>
-  <string name="markdownCheckBoxTip">Esta opción es para la función Markdown. Después de verificarlo, el espaciado y la sangría de los párrafos perderán su efecto. Si no estás familiarizado con Markdown, se recomienda no marcar esta casilla.\n\nMarkdown es un lenguaje de marcado con sintaxis de formato de texto. Puedes buscar en línea "Markdown" si estás interesado.</string>
-  <string name="unlockValidityPeriod">Periodo de Auto-bloqueo</string>
-  <string name="unlockValidityPeriodSummary">%s\nNota: La próxima vez la aplicación se bloqueará si presiona Atrás para salir de la aplicación</string>
-  <string name="lockImmediatelyIfAway">Bloquear inmediatamente si está lejos</string>
-  <string name="lockIfAwayMoreThan3Minutes">Bloquear si está alejado más de 3 minutos</string>
+  <string name="markdownCheckBoxTip">Esta opción es para la función Markdown. Después de activarla, el espaciado y la sangría de los párrafos perderán su efecto. Si no te has familiarizado con Markdown, se recomienda no utilizar esta opción.\n\nMarkdown es un lenguaje de marcado con sintaxis de formato de texto. Puedes buscar en línea ''Markdown'' si deseas saber más.</string>
+  <string name="unlockValidityPeriod">Tiempo de espera antes de bloquear</string>
+  <string name="unlockValidityPeriodSummary">%s\nNota: Si sacas PureWriter del primer plano ya sea yendo a la lista de tareas recientes o apagando la pantalla la aplicación se bloqueará.</string>
+  <string name="lockImmediatelyIfAway">Ninguno. Bloquear Inmediatamente</string>
+  <string name="lockIfAwayMoreThan3Minutes">Esperar 3 minutos antes de bloquear</string>
   <string name="font">Fuente</string>
-  <string name="appEmbeddedFont">Fuente incrustada de la aplicación</string>
+  <string name="appEmbeddedFont">Fuente incrustada en la aplicación</string>
   <string name="noInternetConnection">No hay conexión a internet</string>
   <string name="cloudBackup">Copia de Seguridad en la nube</string>
-  <string name="cloudConnection">Tipo de conexión a la nube</string>
-  <string name="signIn">Registrarse</string>
-  <string name="lockFallback">Si no puedes desbloquearlo todo el tiempo, puedes ir a la configuración del sistema de tu dispositivo móvil y eliminar todas tus huellas digitales, luego vuelve abrir Pure Writer.</string>
+  <string name="cloudConnection">Proveedor de servicio en la nube</string>
+  <string name="signIn">Vincular tu cuenta con PureWriter</string>
+  <string name="lockFallback">Si no puedes desbloquearlo puedes ir a la configuración del sistema de tu dispositivo móvil y eliminar todas tus huellas digitales, luego vuelve abrir Pure Writer.</string>
   <string name="smoothScrollerTitle">Animación de desplazamiento suave al hacer clic en una línea de texto</string>
   <string name="tipSmoothScrolling">Si esta opción está activada, cuando haces clic en una línea del texto del contenido, la vista del texto se desplazará suavemente a la línea enfocada si es necesario. Si esta opción está desactivada, saltará a esa línea en un instante.\nEs posible que la animación de desplazamiento no funcione bien en algunos dispositivos, así que desactiva esta opción si se siente atascada o infuncional.</string>
   <string name="defaultMessageUpdateApk">Esta es una versión importante, actualiza a esta versión lo antes posible</string>
@@ -282,11 +284,11 @@
   <string name="find">Encontrar</string>
   <string name="currentChapter">Capítulo actual</string>
   <string name="currentText">Texto actual</string>
-  <string name="currentBook">Libros actual</string>
+  <string name="currentBook">Libro actual</string>
   <string name="ignoreCase">Ignorar mayúsculas</string>
   <string name="selectAll">Seleccionar todo</string>
   <string name="inverseAll">Todo inverso</string>
-  <string name="replaceConfirmMessage">¿Estás seguro de reemplazar los seleccionados %d lugares?</string>
+  <string name="replaceConfirmMessage">¿Realmente deseas reemplazar los seleccionados %d lugares?</string>
   <string name="tipUndoReplace">DESHACER:\n* Puede ir a Pure Writer - Configuración - Copia de Seguridad - Restaurar la Copia de Seguridad, haz clic en la Copia anterior para restaurar el contenido anterior.\n*Si acabas de reemplazar el capítulo actual, puedes ir a la página del Historial a través del menú superior derecho y volver al contenido anterior.</string>
   <string name="backupRemarkForReplace">Antes de reemplazar</string>
   <string name="tipReplaceResult">%2$d contenidos en %1$d artículos han sido reemplazados</string>
@@ -298,7 +300,7 @@
   <string name="doNotOverwrite">No sobrescribir</string>
   <string name="signOut">Cerrar sesión</string>
   <string name="changeAccount">Cambiar cuenta</string>
-  <string name="scrollToHideTopBar">Desplácese para ocultar la barra superior</string>
+  <string name="scrollToHideTopBar">Ocultar la barra superior al desplazarse</string>
   <string name="doNotOperate">¡No cambies o modifiques archivos en el proceso!</string>
   <string name="aboutBackup"><b>Acerca de la Copia de Seguridad</b></string>
   <string name="backupReadme">Pure Writer admite copias de seguridad locales y en la nube. La copia de seguridad local es automática. Cuando reinstala Pure Writer, puede restaurar todos sus artículos mediante una copia de seguridad.\n\nSin embargo, Pure Writer no realiza automáticamente copias de seguridad en la nube de forma predeterminada. Para habilitar la copia de seguridad en la nube, debe configurar una cuenta de copia de seguridad en la nube en la página Pure Writer - Configuración - Copias de seguridad.\n\nLa copia de seguridad en la nube Pure Writer actualmente es compatible con el almacenamiento en la nube de Dropbox y WebDAV.\n\n<b>La copia de seguridad en la nube es muy, muy importante. ¡Si no configura una cuenta de respaldo en la nube, perderá todo su valioso contenido si este dispositivo se pierde, se rompe o se restaura a la configuración de fábrica! ¡Asegúrese de configurar una cuenta de respaldo en la nube!</b></string>
@@ -329,7 +331,7 @@
   <string name="transparentNavigationBar">Barra de navegación transparente</string>
   <string name="transparentNavigationBarWarning">Esta es una característica experimental. Cuando está activada, puede hacer que la altura del teclado virtual se verifique incorrectamente, lo que puede hacer que la barra de acceso directo no se muestre y el texto quede desenfocado. Si encuentras estos problemas, desactiva esta opción.</string>
   <string name="titleAsAWordForACountSummary">Cuando este elemento está activado, el siguiente modo de contador de palabras se desactivará. Si deseas utilizar las opciones en el modo contador de palabras, desactívalo.</string>
-  <string name="customFont">Fuente personalizada</string>
+  <string name="customFont">Tipografia personalizada</string>
   <string name="customFontTip">Coloque el archivo de fuente .ttf / .otf en el directorio de almacenamiento externo <b>/Documents/PureWriter/App</b> y reinicia Pure Writer para aplicar la fuente automáticamente. \nNota: Solo puede haber un archivo de fuente en este directorio, y algunos archivos de fuentes (como Google Sans) pueden hacer que el cursor se desplace.</string>
   <string name="corruptBackupTip">¡El archivo de la Copia de Seguridad está corrupto! Intenta restaurar otra Copia y elige el tamaño y la hora correctos.</string>
   <string name="leftMargin">Margen izquierdo</string>
@@ -341,7 +343,7 @@
   <string name="followingBackupsAre">Lo siguiente son Copias de Seguridad anteriores al instalar la versión actual</string>
   <string name="logInToCloudStorage">Inicie sesión en el almacenamiento en la nube</string>
   <string name="scrollToBottom">Desplazarse hacia abajo</string>
-  <string name="titleTextSize">Tamaño de fuente del título</string>
+  <string name="titleTextSize">Tamaño de la letra del título</string>
   <string name="restoreByThisBackup">Restaurar por esta copia de seguridad?</string>
   <string name="restoreByThisBackupWithAppName">Restaurar por esta copia de seguridad?</string>
   <string name="collapseAllCategories">Contraer todas las categorías</string>
@@ -494,7 +496,7 @@
   <string name="fabOverflowModeLongPress">Haga un solo clic para crear un artículo directamente y mantenga presionado para abrir el menú emergente</string>
   <string name="homeFab">Modo de botón de acción flotante de inicio</string>
   <string name="safeMode">Modo seguro</string>
-  <string name="summarySafeMode">Cuando esta aplicación ingrese a la página de fondo o lista de tareas recientes, el contenido de esta aplicación estará oculto u oculto; cuando este elemento está activado, las capturas de pantalla en la aplicación también estarán prohibidas</string>
+  <string name="summarySafeMode">Cuando la aplicación deje de estar en primer plano o vaya lista de tareas recientes, el contenido de esta aplicación estará oculto; cuando esta opción está activada, las capturas de pantalla dentro de la aplicación estarán prohibidas</string>
   <string name="pressBackToClearCursor">El cursor está oculto y entró en modo de solo lectura</string>
   <string name="cursorJoyTutorial">Mantenga presionado el botón de agitación anterior, luego mueva el dedo para controlar el movimiento del cursor</string>
   <string name="tipBlueInputBox">Consejo: Después de introducir los datos, pulse la tecla Intro ⏎ para salir del cuadro de entrada azul.</string>
@@ -532,10 +534,10 @@
   <string name="previous">Anterior</string>
   <string name="rating">Puntuación</string>
   <string name="customFontTipForAndroid11">Android 11+ necesita seleccionar el archivo de fuentes para hacerlo efectivo</string>
-    <string name="connectDesktop">Conectarse al escritorio</string>
-  <string name="disconnectDesktop">Desconectar el escritorio</string>
+  <string name="connectDesktop">Conectarse a la aplicación de escritorio</string>
+  <string name="disconnectDesktop">Desconectar de la aplicación de escritorio</string>
   <string name="connect">Conectar</string>
-  <string name="desktopDialogGuide">Debe descargar <b><i>Pure Writer Desktop1.5.2 (o superior) </i></b> desde https://writer.drakeet.com/desktop_en\n\nCuando su dispositivo móvil y su computadora estén en <b>la misma red Wi-Fi o hotspot👈👈👈 </b>, abra Desktop e ingrese la dirección IP a continuación en el campo de entrada de Desktop para conectarse a Pure Writer, luego podrá sincronizar y editar el artículo actual en tiempo real.</string>
+  <string name="desktopDialogGuide">Debe descargar <b><i>Pure Writer Desktop1.5.2 (o superior)</i></b> desde https://writer.drakeet.com/desktop_en \n\nCuando su dispositivo móvil y su PC estén en <b>la misma red Wi-Fi o hotspot👈👈👈 </b>, abra Desktop e ingrese la dirección IP a continuación en el campo de entrada de Desktop para conectarse a Pure Writer, luego podrá sincronizar y editar el artículo actual en tiempo real.</string>
   <string name="connectionIsStopping">La conexión se está deteniendo, inténtalo de nuevo más tarde.</string>
   <string name="stop_waiting_connection">Deja de esperar conexiones</string>
   <string name="desktopDisconnected">El escritorio está desconectado</string>
@@ -559,16 +561,16 @@
   <string name="selectALightTheme">Seleccione un tema claro</string>
   <string name="selectADarkTheme">Seleccione un tema oscuro</string>
   <string name="selectATheme">Selecciona un tema</string>
-  <string name="fixedThemeTitle">Fijo, no cambia automáticamente</string>
-  <string name="followSystemThemeTitle">Seguir el sistema (sincronizar con el sistema operativo)</string>
-  <string name="scheduledThemeTitle">Cambio automático según el tiempo:\n7: 00-17: 00 use tema claro, de lo contrario tema oscuro</string>
+  <string name="fixedThemeTitle">Tema fijo, no cambia automáticamente</string>
+  <string name="followSystemThemeTitle">Igual que en el sistema (Según la configuración de tu dispositivo)</string>
+  <string name="scheduledThemeTitle">Cambio automático según la hora:\nDe 7:00-17:00 se usará un tema claro.\nDe 17:00 a 7:00 se usará tema oscuro</string>
   <string name="paperSettingsHint">Haga clic para seleccionar o personalizar el fondo de pantalla / tema</string>
-  <string name="lightTheme">Tema de luz</string>
+  <string name="lightTheme">Tema claro</string>
   <string name="darkTheme">Tema oscuro</string>
-  <string name="autoComplete">Autocompletar</string>
-  <string name="autoCompleteSummary">Completar automáticamente los símbolos emparejados solo cuando el cursor está <b> al final </b> del artículo</string>
-  <string name="autoDeleteSymbolsInPairs">Eliminación automática de símbolos en pares</string>
-  <string name="autoDeleteSymbolsInPairsSummary">Solo cuando el contenido del símbolo emparejado está <b> vacío </b></string>
+  <string name="autoComplete">Autocompletar símbolos</string>
+  <string name="autoCompleteSummary">Completar automáticamente los símbolos emparejados solo cuando el cursor está <b>al final</b> del artículo</string>
+  <string name="autoDeleteSymbolsInPairs">Eliminación automática de símbolos sin pares</string>
+  <string name="autoDeleteSymbolsInPairsSummary">Solo cuando el contenido del símbolo emparejado está <b>vacío</b></string>
   <string name="realYes">sí</string>
   <string name="realNo">¡No</string>
   <string name="whetherOverwriteSettings">¿Quiere sobrescribir la configuración local?</string>
@@ -579,7 +581,7 @@
   <string name="modifyOrderOfCategories">Modificar el orden de las Categorías</string>
   <string name="useSystemFont">Usar fuente del sistema</string>
   <string name="useAppFont">Usar la fuente de la aplicación</string>
-  <string name="previewThemeLight">Tema: Luz</string>
+  <string name="previewThemeLight">Tema: Brillante</string>
   <string name="previewThemeDark">Tema: Oscuro</string>
   <string name="previewThemeSmartisan">Tema: Smartisan</string>
   <string name="saveAsLongImage">Guardar como imagen larga (.png)</string>
@@ -613,9 +615,8 @@
   <string name="downloadFromCloudStorage">Descargar desde almacenamiento en la nube</string>
   <string name="disableKeywordsFeature">Deshabilitar la función de palabras clave</string>
   <string name="limit1080wForPreviewImages">Limite el ancho máximo a 1080</string>
-
   <string name="dailyStatistics">Estadísticas diarias</string>
-  <string name="dailyExtraNote">* Nota: debido a que hay artículos anteriores a las <i>Daily Statistics</i> de este día, algunos de los datos anteriores son datos adicionales inferidos, por ejemplo, se puede calcular el tiempo de escritura como "hora de la última actualización del artículo - hora de creación del artículo", que puede no ser precisa, ¡solo como referencia!</string>
+  <string name="dailyExtraNote">* Nota: debido a que hay artículos anteriores a las <i>Estadísticas diarias</i> de este día, algunos de los datos anteriores son inferidos, por ejemplo, se puede calcular el tiempo de escritura como "hora de la última actualización del artículo - hora de creación del artículo", que podría no ser precisa, ¡Utilizalo solo como referencia!</string>
   <string name="currentBookAndItsWordCount">Libro actual y su número de palabras</string>
   <string name="allBooksWordCount">Número total de palabras en todos los libros</string>
   <string name="other">Otro</string>
@@ -638,7 +639,27 @@
   <string name="hideStatusBarSummary">Solo tiene efecto en la pantalla del editor de inicio</string>
   <string name="noNetworkPermission">Sin permiso de red</string>
   <string name="noNetworkPermissionMessage">Ha deshabilitado los permisos de red para Pure Writer, lo que impide que se conecte. Esto evitará que Pure Writer realice copias de seguridad en la nube, ¡así que otorgue permisos de red a Pure Writer!</string>
-  <string name="tryChangingANiceBackgroundOrTheme">¿Intentar cambiar un buen fondo o tema?</string>
-  <string name="databaseDowngradeError">Error de degradación de la base de datos</string>
-  <string name="databaseDowngradeErrorMessage">Su Pure Writer recuperó o usó un archivo de base de datos de una versión posterior de Pure Writer. La versión actual de Pure Writer no puede procesar la base de datos. Actualice Pure Writer a la última versión para resolver este problema.\n\nSi no actualiza, el programa no funcionará correctamente, no es que tengamos la intención de restringirlo, pero la versión anterior actual técnicamente no puede manejar la nueva versión de la base de datos. Por favor, comprenda y actualice a la última versión para resolverlo.\n\nObtenga la última versión: https://t.me/s/PureWriter</string>
+  <string name="tryChangingANiceBackgroundOrTheme">¿Intentar cambiar a un buen fondo o tema?</string>
+  <string name="databaseDowngradeError">Error: La base de datos está desactualizada.</string>
+  <string name="databaseDowngradeErrorMessage">Pure Writer recuperó o usó un archivo de base de datos de una versión posterior de Pure Writer. La versión actual de Pure Writer no puede procesar la base de datos. Actualice Pure Writer a la última versión para resolver este problema.\n\nSi no actualiza, el programa no funcionará correctamente, no es que tengamos la intención de restringirlo, pero la versión anterior actual técnicamente no puede manejar la nueva versión de la base de datos. Por favor, comprenda y actualice a la última versión para resolverlo.\n\nObtenga la última versión: https://t.me/s/PureWriter</string>
+  
+  <string name="optionsForTheFewPeople">Opciones menos populares</string>
+  <string name="summaryPie">Ofrece algunas configuraciones que probablemente no necesites</string>
+  <string name="savedStateModeAuto">Automático (el último artículo editado se restaurará la próxima vez; el artículo no editado por última vez se restaurará si está dentro de una semana desde la última vez que se abrió; de lo contrario, volverá a la parte superior)</string>
+  <string name="titleGFMBreaks">GFM saltos de línea / salto suave agrega nueva línea</string>
+  <string name="scrollToHideWordCount">Oculta el contador de palabras al desplazarse</string>
+  <string name="tipJianguoyunURL">Por favor complete las siguientes configuraciones</string>
+  <string name="typewriterModeMode0">Resaltar todo el párrafo</string>
+  <string name="typewriterModeMode1">Resaltar Solo la línea actual</string>
+  <string name="cursorJoyModePosition">Cursor joy: Modo & posición</string>
+  <string name="cursorJoyModePosition0">Modo anti toques involuntario, a la derecha</string>
+  <string name="cursorJoyModePosition1">\Modo "Tocar directamente para mover\", en la lista de atajos</string>
+  <string name="stretchEdgeEffect">Efecto de borde elástico</string>
+  <string name="staticCursor">Cursor estático (sin parpadear)</string>
+  <string name="commaToFullStopWhenEnteringANewline">Convertir Coma a punto final al ingresar una nueva línea</string>
+  <string name="scrollToHideFAB">Ocultar el botón flotante ⊕ al desplazarse</string>
+  <string name="scrollToHideFABSummary">Si está desactivado, el botón inferior derecho permanecerá fijo en su lugar</string>
+  <string name="hideWordCountOnTM">Ocultar el contador de palabras en la Máquina del tiempo.</string>
+  <string name="forcedPortrait">Forzar orientación de la pantalla: Vertical</string>
+  <string name="forcedPortraitSummary">Esta aplicación usará el modo vertical, ya sea que tenga activada la rotación automática pantalla o no.</string>  
 </resources>
