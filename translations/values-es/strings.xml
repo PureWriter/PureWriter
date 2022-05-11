@@ -112,13 +112,16 @@
   <string name="tipBackupList">Aquí estarán tus archivos de las Copias de Seguridad. Puedes hacer clic para restaurarlos.\n<b>Si deseas recuperar las Copias de Seguridad de Dropbox o WebDAV o GoogleDrive, primero inicia sesión en tu cuenta de WebDAV o Dropbox o GoogleDrive.</b></string>
   <string name="tipBackupNotExist">No existe un archivo de la Copia de Seguridad. Por favor, mueve la Copia de Seguridad a la carpeta Documents/PureWriter/Backups e inténtalo de nuevo.</string>
   <string name="wordCountMode">Modo de Contador de Palabras</string>
+
   <string-array name="wordCountModeEntries">
-	<item>@string/wordCountModeEntriesItem1</item>
-	<item>@string/wordCountModeEntriesItem2</item>
-	<item>@string/wordCountModeEntriesItem3</item>
-		<string name="wordCountModeEntriesItem1">Excluir espacios y saltos de línea</string>
-		<string name="wordCountModeEntriesItem2">Incluir todos los símbolos y textos</string>
-		<string name="wordCountModeEntriesItem3"><b>Excluir todos los signos de puntuación</b>, espacios, y saltos de línea</string>		
+    <item>@string/wordCountModeEntriesItem1</item>
+    <item>@string/wordCountModeEntriesItem2</item>
+    <item>@string/wordCountModeEntriesItem3</item>
+  </string-array>
+  <string name="wordCountModeEntriesItem1">Excluir espacios y saltos de línea</string>
+  <string name="wordCountModeEntriesItem2">Incluir todos los símbolos y textos</string>
+  <string name="wordCountModeEntriesItem3"><b>Excluir todos los signos de puntuación</b>, espacios y saltos de línea</string>
+
   <string name="fab">Botón de Inicio Flotante</string>
   <string name="tipFab">Consejo: Mantenga presionado el Botón de Inicio Flotante para ocultarlo temporalmente</string>
   <string name="tipCannotCreateNewWhenEmpty">¡No se puede crear un nuevo artículo cuando el título y el contenido están en blanco! Sin embargo, aún puedes crearlo a través del botón en la esquina superior derecha del menú.</string>
@@ -261,7 +264,7 @@
   <string name="needManualSortingMessage">¿Desea cambiar la configuración a "Clasificación manual"?</string>
   <string name="doubleClickToExit">Haga doble clic en la tecla Atrás para salir de la aplicación</string>
   <string name="doubleClickToExitTip">Haga clic en ATRÁS nuevamente para salir</string>
-  <string name="markdownCheckBoxTip">Esta opción es para la función Markdown. Después de activarla, el espaciado y la sangría de los párrafos perderán su efecto. Si no te has familiarizado con Markdown, se recomienda no utilizar esta opción.\n\nMarkdown es un lenguaje de marcado con sintaxis de formato de texto. Puedes buscar en línea ''Markdown'' si deseas saber más.</string>
+  <string name="markdownCheckBoxTip">Esta opción es para la función Markdown. Después de activarla, el espaciado y la sangría de los párrafos perderán su efecto. Si no te has familiarizado con Markdown, se recomienda no utilizar esta opción.\n\nMarkdown es un lenguaje de marcado con sintaxis de formato de texto. Puedes buscar en línea \'\'Markdown\'\' si deseas saber más.</string>
   <string name="unlockValidityPeriod">Tiempo de espera antes de bloquear</string>
   <string name="unlockValidityPeriodSummary">%s\nNota: Si sacas PureWriter del primer plano ya sea yendo a la lista de tareas recientes o apagando la pantalla la aplicación se bloqueará.</string>
   <string name="lockImmediatelyIfAway">Ninguno. Bloquear Inmediatamente</string>
@@ -401,7 +404,7 @@
   <string name="ProIntroductionMarkdown"><![CDATA[
 |        #### Papeles personalizados
 |
-|        Puede elegir libremente una imagen en su teléfono móvil o una imagen remota como papel y fondo para su editor:
+|        Puede elegir libremente una imagen en su teléfono móvil o una imagen remota como papel y fondo para su editor:
 |
 |        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/0.webp)
 |
@@ -413,37 +416,37 @@
 |
 |        #### Exportar como archivo de imagen de texto largo / md / txt
 |
-|        Puede exportar artículos como imágenes de texto largas o archivos .md .txt:
+|        Puede exportar artículos como imágenes de texto largas o archivos .md .txt:
 |
 |        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/2.webp)
 |
 |        #### Exportar libro
 |
-|        Puede encontrar esta opción en el menú superior del cajón izquierdo, lo ayudará a combinar todo el contenido del capítulo en un archivo de texto sin formato:
+|        Puede encontrar esta opción en el menú superior del cajón izquierdo, lo ayudará a combinar todo el contenido del capítulo en un archivo de texto sin formato:
 |
 |        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/3.webp)
 |
 |        #### Buscar y reemplazar
 |
-|        Puede encontrar palabras clave de destino en cualquier artículo y reemplazarlas en lotes:
+|        Puede encontrar palabras clave de destino en cualquier artículo y reemplazarlas en lotes:
 |
 |        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/4.webp)
 |
 |        #### Material Design 2 Theme
 |
-|        Cuando el tema Material Design 2 está habilitado, obtendrá una barra superior transparente, que ya no es negro puro, y puede obtener una IU más inmersiva y hermosa:
+|        Cuando el tema Material Design 2 está habilitado, obtendrá una barra superior transparente, que ya no es negro puro, y puede obtener una IU más inmersiva y hermosa:
 |
 |        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
 |
 |        #### Pure Writer Desktop
 |
-|        ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
+|        ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
 |
-|        Puede obtener Pure Writer Desktop y conectarse a él a través del icono de la nube ☁️ en la parte superior del Editor principal.
+|        Puede obtener Pure Writer Desktop y conectarse a él a través del icono de la nube ☁️ en la parte superior del Editor principal.
 |
-|        En la actualidad, Pure Writer Desktop todavía está en la etapa alfa. Solo puede proporcionar conexión básica en tiempo real y edición sincrónica.
+|        En la actualidad, Pure Writer Desktop todavía está en la etapa alfa. Solo puede proporcionar conexión básica en tiempo real y edición sincrónica.
 |
-|        Me llevó mucho tiempo y energía, y su apoyo nos ayudará a hacerlo perfecto y mejor.
+|        Me llevó mucho tiempo y energía, y su apoyo nos ayudará a hacerlo perfecto y mejor.
     ]]></string>
   <string name="buyPureWriterPro">Comprar Pure Writer Pro</string>
   <string name="tipMarkdownQuickPreview">Deslice horizontalmente a la página siguiente para obtener una vista previa rápida de Markdown</string>
@@ -588,9 +591,6 @@
   <string name="saveAsMdFile">Guardar como archivo .md</string>
   <string name="saveAsTxtFile">Guardar como archivo .txt</string>
   <string name="tipGoogleDriveAppScope">Consejo: Como el directorio privado de la aplicación de Google Drive no es visible para los usuarios, la función Bridge se desactivará automáticamente.</string>
-  <string name="wordCountModeEntriesItem1">Excluir espacios y saltos de línea</string>
-  <string name="wordCountModeEntriesItem2">Incluir todos los símbolos y textos</string>
-  <string name="wordCountModeEntriesItem3"><b>Excluir todos los signos de puntuación</b>, espacios y saltos de línea</string>
   <string name="migrateImageAssetsSummary">Esto le ayuda a transferir de forma centralizada todas las imágenes referenciadas por su Markdown a su nuevo dispositivo. Después de esta operación, puede copiar la carpeta Documents/PureWriter/Assets en el mismo directorio del nuevo dispositivo y, a continuación, restaurar la copia de seguridad del dispositivo en el nuevo dispositivo, para que éste pueda referenciar sin problemas las imágenes originales.</string>
   <string name="migrateImageAssets">Migrar las imágenes de Markdown al directorio Documents/PureWriter/Assets</string>
   <string name="tipBadThemeBackground">La imagen o el color de fondo seleccionado actualmente no coincide con el color de fuente del tema actual, selecciónelo nuevamente o ignore este mensaje si cree que este mensaje es incorrecto.</string>
@@ -642,7 +642,7 @@
   <string name="tryChangingANiceBackgroundOrTheme">¿Intentar cambiar a un buen fondo o tema?</string>
   <string name="databaseDowngradeError">Error: La base de datos está desactualizada.</string>
   <string name="databaseDowngradeErrorMessage">Pure Writer recuperó o usó un archivo de base de datos de una versión posterior de Pure Writer. La versión actual de Pure Writer no puede procesar la base de datos. Actualice Pure Writer a la última versión para resolver este problema.\n\nSi no actualiza, el programa no funcionará correctamente, no es que tengamos la intención de restringirlo, pero la versión anterior actual técnicamente no puede manejar la nueva versión de la base de datos. Por favor, comprenda y actualice a la última versión para resolverlo.\n\nObtenga la última versión: https://t.me/s/PureWriter</string>
-  
+
   <string name="optionsForTheFewPeople">Opciones menos populares</string>
   <string name="summaryPie">Ofrece algunas configuraciones que probablemente no necesites</string>
   <string name="savedStateModeAuto">Automático (el último artículo editado se restaurará la próxima vez; el artículo no editado por última vez se restaurará si está dentro de una semana desde la última vez que se abrió; de lo contrario, volverá a la parte superior)</string>
@@ -651,9 +651,9 @@
   <string name="tipJianguoyunURL">Por favor complete las siguientes configuraciones</string>
   <string name="typewriterModeMode0">Resaltar todo el párrafo</string>
   <string name="typewriterModeMode1">Resaltar Solo la línea actual</string>
-  <string name="cursorJoyModePosition">Cursor joy: Modo & posición</string>
+  <string name="cursorJoyModePosition">Cursor joy: Modo &amp; posición</string>
   <string name="cursorJoyModePosition0">Modo anti toques involuntario, a la derecha</string>
-  <string name="cursorJoyModePosition1">\Modo "Tocar directamente para mover\", en la lista de atajos</string>
+  <string name="cursorJoyModePosition1">Modo "Tocar directamente para mover\", en la lista de atajos</string>
   <string name="stretchEdgeEffect">Efecto de borde elástico</string>
   <string name="staticCursor">Cursor estático (sin parpadear)</string>
   <string name="commaToFullStopWhenEnteringANewline">Convertir Coma a punto final al ingresar una nueva línea</string>
@@ -661,5 +661,5 @@
   <string name="scrollToHideFABSummary">Si está desactivado, el botón inferior derecho permanecerá fijo en su lugar</string>
   <string name="hideWordCountOnTM">Ocultar el contador de palabras en la Máquina del tiempo.</string>
   <string name="forcedPortrait">Forzar orientación de la pantalla: Vertical</string>
-  <string name="forcedPortraitSummary">Esta aplicación usará el modo vertical, ya sea que tenga activada la rotación automática pantalla o no.</string>  
+  <string name="forcedPortraitSummary">Esta aplicación usará el modo vertical, ya sea que tenga activada la rotación automática pantalla o no.</string>
 </resources>

@@ -79,7 +79,7 @@
   <string name="features">功能特性</string>
   <string name="sendTextFailedForTooLarge">您的文本太长，无法直接发送到其他 App，已经转而帮您把文本复制到您的剪贴板了</string>
   <string name="hasSavedToYourAlbum">已保存到您的相册</string>
-  <string name="previewAndExport">长图片\n预览 &amp; 另存为…</string>
+  <string name="previewAndExport">长图片、PDF\n预览 &amp; 另存为…</string>
   <string name="tipRequirePro">该功能需要购买高级版</string>
   <string name="proReadMe">如果您觉得 纯纯写作 很棒，希望它能更好地坚持开发下去，可否愿意花一点点钱作为对于开发者的激励？\n\n这能够使我们一直坚持好的方向，良心的产品，同时激励更多的独立开发者。\n\n您可以点击「Google Play」按钮，开启 Google Pay 支付。或者点击「支付宝」购买激活码。作为回报，<b>付费后，将获得「另存为」和「自定义稿纸背景」等高级功能，对于不断更新的高级内容不再收费</b>。\n纯纯写作因为您的支持而能够不断更新、完善，非常感谢您的支持！</string>
   <string name="preview">预览</string>
@@ -709,4 +709,5 @@
   <string name="databaseDowngradeError">数据库降级错误</string>
   <string name="forcedPortrait">强制竖屏</string>
   <string name="forcedPortraitSummary">无论您是否打开自动旋转，此应用程序都将使用纵向模式。</string>
+  <string name="titleAsAWordForACountSummary2">一个单词整体算作一个计数，而不是每个字母都算一个计数</string>
 </resources>
