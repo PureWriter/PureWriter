@@ -16,7 +16,7 @@
   <string name="copyTitle">複製標題</string>
   <string name="copyContent">複製正文內容</string>
   <string name="clearThisContent"><b>清空</b>目前正文</string>
-  <string name="appPureMosaic">廣告: 純純打碼</string>
+  <string name="appPureMosaic">廣告:純純打碼</string>
   <string name="wordCountShort">字數</string>
   <string name="historyState">已儲存記錄</string>
   <string name="tipNeedFingerprint">需要指紋解鎖才能查看和編輯</string>
@@ -50,7 +50,7 @@
   <string name="format">格式</string>
   <string name="tipIndent">注意：段首縮排設定項變更不會改變已有文字</string>
   <string name="explanation">說明</string>
-  <string name="tipInsertBlankLines">開啟這個選項後，將在複製或發送正文內容時，自動在發出的文字中每一處換行後 插入一組空列，因為在純純寫作之外，就可能得不到良好的段落間距效果，所以以使用空列進行間隔。</string>
+  <string name="tipInsertBlankLines">開啟這個選項後，將在複製或發送正文內容時，自動在發出的文字中每一處換行後 插入一組空列，因為在純純寫作之外，就得不到良好的段落間距效果，所以以空列進行間隔。</string>
   <string name="deleteObsoleteFiles">刪除舊版歷史記錄檔案</string>
   <string name="dayNightMode">夜間模式</string>
   <string name="summaryPay">解鎖進階功能</string>
@@ -78,7 +78,7 @@
   <string name="features">功能特性</string>
   <string name="sendTextFailedForTooLarge">您的文字太長，無法直接發送到其他 App，已經轉而為您將文字複製到剪貼簿了</string>
   <string name="hasSavedToYourAlbum">已儲存到您的相簿</string>
-  <string name="previewAndExport">長圖片\n預覽 &amp; 儲存為…</string>
+  <string name="previewAndExport">長圖片、PDF\n預覽 &amp; 儲存為…</string>
   <string name="tipRequirePro">該功能需要購買進階版</string>
   <string name="proReadMe">如果您覺得 純純寫作 很棒，希望它能更好地堅持開發下去，可否願意花一點點錢作為對開發人員的激勵？\n\n這能夠使我們一直堅持好的方向，做良心的產品，同時激勵更多的獨立開發人員。\n\n您可以點按「Google Play」按鈕，開啟 Google Pay 支付。或者點擊「支付寶」購買啟動序號。作為回報，<b>付費後，將獲得「儲存為」和「自訂稿紙背景」等進階功能，且對於之後不斷更新的進階內容不再進行收費</b>。\n純純寫作將因為您的支持而能夠不斷更新、完善，非常感謝！</string>
   <string name="preview">預覽</string>
@@ -707,4 +707,5 @@
   <string name="forcedPortrait">強制縱向螢幕</string>
   <string name="forcedPortraitSummary">無論您是否開啟自動旋轉，此應用程式都將使用縱向模式。 </string>
   <string name="titleAsAWordForACountSummary2">一個英文單字算作一個計數，而不是每個字母都算一個計數</string>
+  <string name="openFolder">打開文件夾</string>
 </resources>

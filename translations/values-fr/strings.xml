@@ -680,4 +680,5 @@
   <string name="tryChangingANiceBackgroundOrTheme">Essayez de changer un joli arrière-plan ou un thème ?</string>
   <string name="databaseDowngradeError">Erreur de rétrogradation de la base de données</string>
   <string name="databaseDowngradeErrorMessage">Votre Pure Writer a récupéré ou utilisé un fichier de base de données d\'une version ultérieure de Pure Writer. La version actuelle de Pure Writer ne peut pas traiter la base de données. Veuillez mettre à jour Pure Writer vers la dernière version pour résoudre ce problème.\n\nSi vous ne mettez pas à jour, le programme ne fonctionnera pas correctement, ce n\'est pas que nous avons l\'intention de vous restreindre, mais l\'ancienne version actuelle est techniquement incapable de gérer la nouvelle version de la base de données. Veuillez comprendre et mettre à jour la dernière version pour le résoudre.\n\nObtenez la dernière version : https://t.me/s/PureWriter</string>
+  <string name="openFolder">Dossier ouvert</string>
 </resources>

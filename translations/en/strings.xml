@@ -171,6 +171,7 @@
   <string name="titleAlignCenter">Align title to center</string>
   <string name="tipShortcutBarEnabled">Closing not recommended</string>
   <string name="open">Open</string>
+  <string name="openFolder">Open folder</string>
   <string name="summaryAutoBackup">All your articles will backup automatically when the app is exited. Backup limited to 25 newest files.</string>
   <string name="migratingData">Data Migration</string>
   <string name="autoBackup">Auto backup</string>

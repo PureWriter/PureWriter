@@ -663,4 +663,5 @@
   <string name="tryChangingANiceBackgroundOrTheme">Megpróbál változtatni egy szép hátteret vagy témát?</string>
   <string name="databaseDowngradeError">Adatbázis leminősítési hiba</string>
   <string name="databaseDowngradeErrorMessage">A Pure Writer a Pure Writer egy későbbi verziójából származó adatbázisfájlt helyreállított vagy használt. A Pure Writer jelenlegi verziója nem tudja feldolgozni az adatbázist. A probléma megoldásához frissítse a Pure Writer alkalmazást a legújabb verzióra.\n\nHa nem frissíted, a program nem fog megfelelően működni, nem arról van szó, hogy korlátozni szeretnénk, de a jelenlegi régi verzió technikailag nem tudja kezelni az adatbázis új verzióját. Kérjük, értse meg, és frissítse a legújabb verzióra a megoldáshoz.\n\nSzerezd meg a legújabb verziót: https://t.me/s/PureWriter</string>
+  <string name="openFolder">Nyitott mappa</string>
 </resources>

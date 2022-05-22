@@ -640,4 +640,5 @@
   <string name="tryChangingANiceBackgroundOrTheme">멋진 배경이나 테마를 변경해 보시겠습니까?</string>
   <string name="databaseDowngradeError">데이터베이스 다운그레이드 오류</string>
   <string name="databaseDowngradeErrorMessage">Pure Writer는 이후 버전의 Pure Writer에서 데이터베이스 파일을 복구하거나 사용했습니다. 현재 버전의 Pure Writer는 데이터베이스를 처리할 수 없습니다. 이 문제를 해결하려면 Pure Writer를 최신 버전으로 업데이트하십시오.\n\n업데이트하지 않으면 프로그램이 제대로 작동하지 않습니다. 사용자를 제한하려는 것은 아니지만 현재 이전 버전은 기술적으로 새 버전의 데이터베이스를 처리할 수 없습니다. 이해하시고 최신 버전으로 업데이트하여 해결하시기 바랍니다.\n\n최신 버전 다운로드: https://t.me/s/PureWriter</string>
+  <string name="openFolder">폴더 열기</string>
 </resources>

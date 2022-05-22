@@ -710,4 +710,5 @@
   <string name="forcedPortrait">强制竖屏</string>
   <string name="forcedPortraitSummary">无论您是否打开自动旋转，此应用程序都将使用纵向模式。</string>
   <string name="titleAsAWordForACountSummary2">一个单词整体算作一个计数，而不是每个字母都算一个计数</string>
+  <string name="openFolder">打开文件夹</string>
 </resources>

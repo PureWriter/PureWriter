@@ -688,4 +688,5 @@
   <string name="tryChangingANiceBackgroundOrTheme">Спробувати змінити гарний фон чи тему?</string>
   <string name="databaseDowngradeError">Помилка оновлення бази даних</string>
   <string name="databaseDowngradeErrorMessage">Ваш Pure Writer відновив або використав файл бази даних із пізнішої версії Pure Writer. Поточна версія Pure Writer не може обробити базу даних. Щоб вирішити цю проблему, оновіть Pure Writer до останньої версії.\n\nЯкщо ви не оновлюєтеся, програма не працюватиме належним чином, ми не маємо намір обмежувати вас, але поточна стара версія технічно не може працювати з новою версією бази даних. Будь ласка, зрозумійте та оновіть до останньої версії, щоб вирішити проблему.\n\nОтримайте останню версію: https://t.me/s/PureWriter</string>
+  <string name="openFolder">Відкрити папку</string>
 </resources>

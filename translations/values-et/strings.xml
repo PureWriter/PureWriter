@@ -679,4 +679,5 @@
   <string name="tryChangingANiceBackgroundOrTheme">Proovige muuta ilusat tausta või teemat?</string>
   <string name="databaseDowngradeError">Andmebaasi alandamise viga</string>
   <string name="databaseDowngradeErrorMessage">Teie Pure Writer on taastanud või kasutanud Pure Writeri hilisemast versioonist pärit andmebaasifaili. Pure Writeri praegune versioon ei saa andmebaasi töödelda. Selle probleemi lahendamiseks värskendage Pure Writer uusimale versioonile.\n\nKui te ei värskenda, ei tööta programm korralikult, see ei tähenda, et me kavatseme teid piirata, kuid praegune vana versioon ei saa tehniliselt hakkama andmebaasi uue versiooniga. Mõistke ja värskendage probleemi lahendamiseks uusimale versioonile.\n\nHankige uusim versioon: https://t.me/s/PureWriter</string>
+  <string name="openFolder">Ava kaust</string>
 </resources>

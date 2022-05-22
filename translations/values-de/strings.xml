@@ -639,4 +639,5 @@
   <string name="tryChangingANiceBackgroundOrTheme">Versuchen Sie, einen schönen Hintergrund oder ein schönes Thema zu ändern?</string>
   <string name="databaseDowngradeError">Datenbank-Downgrade-Fehler</string>
   <string name="databaseDowngradeErrorMessage">Ihr Pure Writer hat eine Datenbankdatei aus einer neueren Version von Pure Writer wiederhergestellt oder verwendet. Die aktuelle Version von Pure Writer kann die Datenbank nicht verarbeiten. Bitte aktualisieren Sie Pure Writer auf die neueste Version, um dieses Problem zu lösen.\n\nWenn Sie nicht aktualisieren, wird das Programm nicht richtig funktionieren, wir wollen Sie nicht einschränken, aber die aktuelle alte Version ist technisch nicht in der Lage, mit der neuen Version der Datenbank umzugehen. Bitte verstehen und auf die neueste Version aktualisieren, um es zu lösen.\n\nHolen Sie sich die neueste Version: https://t.me/s/PureWriter</string>
+  <string name="openFolder">Ordner öffnen</string>
 </resources>

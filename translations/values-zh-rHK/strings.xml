@@ -707,4 +707,5 @@
   <string name="forcedPortrait">強制豎屏</string>
   <string name="forcedPortraitSummary">無論您是否打開自動旋轉，此應用程序都將使用縱向模式。 </string>
   <string name="titleAsAWordForACountSummary2">一個單字整體算作一個計數，而不是每個字母都算一個計數</string>
+  <string name="openFolder">打開文件夾</string>
 </resources>

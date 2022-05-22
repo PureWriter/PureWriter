@@ -674,4 +674,5 @@
   <string name="tryChangingANiceBackgroundOrTheme">Spróbuj zmienić ładne tło lub motyw?</string>
   <string name="databaseDowngradeError">Błąd zmiany wersji bazy danych</string>
   <string name="databaseDowngradeErrorMessage">Twój Pure Writer odzyskał lub użył pliku bazy danych z nowszej wersji Pure Writer. Obecna wersja Pure Writera nie może przetworzyć bazy danych. Zaktualizuj Pure Writer do najnowszej wersji, aby rozwiązać ten problem.\n\nJeśli nie zaktualizujesz, program nie będzie działał poprawnie, nie chodzi o to, że zamierzamy Cię ograniczać, ale bieżąca stara wersja technicznie nie obsługuje nowej wersji bazy danych. Proszę zrozumieć i zaktualizować do najnowszej wersji, aby rozwiązać ten problem.\n\nPobierz najnowszą wersję: https://t.me/s/PureWriter</string>
+  <string name="openFolder">Otwórz folder</string>
 </resources>

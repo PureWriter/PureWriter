@@ -677,5 +677,6 @@
   <string name="tryChangingANiceBackgroundOrTheme">Prøv at ændre en god baggrund eller et flot tema?</string>
   <string name="databaseDowngradeError">Fejl ved nedgradering af database</string>
   <string name="databaseDowngradeErrorMessage">Din Pure Writer har gendannet eller brugt en databasefil fra en senere version af Pure Writer. Den aktuelle version af Pure Writer kan ikke behandle databasen. Opdater Pure Writer til den nyeste version for at løse dette problem.\n\nHvis du ikke opdaterer, vil programmet ikke fungere korrekt, det er ikke fordi vi har til hensigt at begrænse dig, men den nuværende gamle version er teknisk set ude af stand til at håndtere den nye version af databasen. Forstå og opdater til den nyeste version for at løse det.\n\nHent den seneste version: https://t.me/s/PureWriter</string>
+  <string name="openFolder">Åbn mappe</string>
 </resources>
 

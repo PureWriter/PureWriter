@@ -672,4 +672,5 @@
   <string name="tryChangingANiceBackgroundOrTheme">Încercați să schimbați un fundal sau o temă drăguță?</string>
   <string name="databaseDowngradeError">Eroare de downgrade a bazei de date</string>
   <string name="databaseDowngradeErrorMessage">Pure Writer a recuperat sau utilizat un fișier de bază de date dintr-o versiune ulterioară a Pure Writer. Versiunea actuală de Pure Writer nu poate procesa baza de date. Actualizați Pure Writer la cea mai recentă versiune pentru a rezolva această problemă.\n\nDacă nu actualizați, programul nu va funcționa corect, nu este că intenționăm să vă restricționăm, dar versiunea veche actuală nu este capabilă din punct de vedere tehnic să gestioneze noua versiune a bazei de date. Vă rugăm să înțelegeți și să actualizați la cea mai recentă versiune pentru a o rezolva.\n\nObțineți cea mai recentă versiune: https://t.me/s/PureWriter</string>
+  <string name="openFolder">Deschide folderul</string>
 </resources>

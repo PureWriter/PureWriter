@@ -687,4 +687,5 @@
   <string name="tryChangingANiceBackgroundOrTheme">Subukang magpalit ng magandang background o tema?</string>
   <string name="databaseDowngradeError">Error sa pag-downgrade ng database</string>
   <string name="databaseDowngradeErrorMessage">Ang iyong Pure Writer ay naka-recover o gumamit ng database file mula sa mas bagong bersyon ng Pure Writer. Ang kasalukuyang bersyon ng Pure Writer ay hindi maproseso ang database. Paki-update ang Pure Writer sa pinakabagong bersyon upang malutas ang problemang ito.\n\nKung hindi ka mag-a-update, hindi gagana nang maayos ang program, hindi dahil nilayon naming paghigpitan ka, ngunit teknikal na hindi kayang pangasiwaan ng kasalukuyang lumang bersyon ang bagong bersyon ng database. Mangyaring maunawaan at i-update sa pinakabagong bersyon upang malutas ito.\n\nKunin ang pinakabagong bersyon: https://t.me/s/PureWriter</string>
+  <string name="openFolder">Buksan ang folder</string>
 </resources>
