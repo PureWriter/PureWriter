@@ -164,7 +164,7 @@
   <string name="fixedSync">Most</string>
   <string name="bridgeUpload">Most: Upload</string>
   <string name="bridgeDownload">Můstek: Fetch</string>
-  <string name="backupSettingTitle">Zálohování</string>
+  <string name="backupSettingTitle">Zálohování a synchronizace cloudu</string>
   <string name="backupSettingSummary">Zálohování, obnova, Dropbox, WebDAV, Disk Google</string>
   <string name="syncNetwork">Zálohování do cloudu</string>
   <string name="syncOnlyWifi">Synchronizovat zálohu do cloudu pouze při aktivní Wi-Fi</string>
@@ -518,7 +518,7 @@
   <string name="cursorJoyModePosition0">Režim proti nechtěnému dotyku, vpravo</string>
   <string name="cursorJoyModePosition1">\"Režim přímého dotyku pro pohyb\", v seznamu zkratek</string>
   <string name="typewriterModeMode1">Režim řádkování</string>
-  <string name="restoreOptionsMessage">Potřebujete tuto zálohu použít k přepsání místního obsahu, nebo ji sloučit s místním obsahem?\n\nPoznámka: Pokud zvolíte možnost Sloučit, nastavení a informace o účtu cloudové zálohy v souboru zálohy nebudou sloučeny a možná je budete muset znovu nakonfigurovat ručně.\n\nPokud navíc změníte pořadí článků nebo články odstraníte, tyto operace nebudou sloučeny, protože by to způsobilo konflikty. <b>Doporučujeme tedy používat \"přepsat\" a pokud změníte data na jednom zařízení, měli byste okamžitě synchronizovat data na druhém zařízení pomocí \"přepsat\". </b></string>
+  <string name="restoreOptionsMessage">Potřebujete tuto zálohu použít k přepsání místního obsahu, nebo ji sloučit s místním obsahem?\n\nPoznámka: Pokud zvolíte možnost Sloučit, nastavení a informace o účtu cloudové zálohy v souboru zálohy nebudou sloučeny a možná je budete muset znovu nakonfigurovat ručně.</string>
   <string name="merge">Merge</string>
   <string name="checkIntegrityOfBackup">Kontrola integrity záložního souboru...</string>
   <string name="noteBeforeRestoringBackup">Předtím, než se vše spustí, proveďte zálohu aktuálních dat...</string>
@@ -554,7 +554,7 @@
   <string name="switchToGooglePlayPaymentMethod">Přepnutí na platební metodu Google Play</string>
   <string name="skuActive">Aktivní</string>
   <string name="askUnsubscribe"><u>Odhlásit odběr?</u></string>
-  <string name="notesForGoogleSkus">Důležité:\n\n* Vzhledem k tomu, že Google neposkytuje rozhraní pro zrušení předplatného, pokud potřebujete zrušit předplatné, musíte kliknout na předplatné nebo na \"Unsubscribe?\" výše, abyste mohli pokračovat.\n\n* Po zrušení předplatného této aplikace na Google Play aplikace nedostane okamžitě nejnovější stav, takže na této stránce uvidíte, že položka předplatného je stále ve stavu \"active\". Jedná se o normální jev. Správný výsledek získáte následující den, nebo počkejte do konce aktuálního období předplatného.\n\n* Pokud plánujete přejít z předplatného na položku \"doživotní\", měli byste nejprve zrušit předplatné a poté zakoupit položku \"doživotní\". Tato aplikace nemůže zrušit předplatné sama o sobě.\n\n* Pokud během procesu platby narazíte na chybu DF-DFERH-01, zkuste restartovat zařízení a zkuste to znovu.\n\n* Výsledek platby bude automaticky svázán s vaším systémovým účtem Google, díky!</string>
+  <string name="notesForGoogleSkus">Důležité:\n\n* Pokud jste zaplatili a přeinstalovali Pure Writer, ale nedostali jste včas zaplaceno, můžete jej obnovit podle tohoto návodu: https://t.me/s/PureWriter/880\n\n* Vzhledem k tomu, že Google neposkytuje rozhraní pro zrušení předplatného, pokud potřebujete zrušit předplatné, musíte kliknout na předplatné nebo na \"Unsubscribe?\" výše, abyste mohli pokračovat.\n\n* Po zrušení předplatného této aplikace na Google Play aplikace nedostane okamžitě nejnovější stav, takže na této stránce uvidíte, že položka předplatného je stále ve stavu \"active\". Jedná se o normální jev. Správný výsledek získáte následující den, nebo počkejte do konce aktuálního období předplatného.\n\n* Pokud plánujete přejít z předplatného na položku \"doživotní\", měli byste nejprve zrušit předplatné a poté zakoupit položku \"doživotní\". Tato aplikace nemůže zrušit předplatné sama o sobě.\n\n* Pokud během procesu platby narazíte na chybu DF-DFERH-01, zkuste restartovat zařízení a zkuste to znovu.\n\n* Výsledek platby bude automaticky svázán s vaším systémovým účtem Google, díky!</string>
   <string name="activating">Aktivuje se...</string>
   <string name="themesAndPapers"><![CDATA[Motivy a tapety]]></string>
   <string name="selectALightTheme">Vyberte světlé téma</string>
@@ -674,4 +674,29 @@
   <string name="databaseDowngradeError">Chyba při downgradu databáze</string>
   <string name="databaseDowngradeErrorMessage">Váš Pure Writer obnovil nebo použil databázový soubor z novější verze Pure Writer. Aktuální verze Pure Writer nemůže zpracovat databázi. Chcete-li tento problém vyřešit, aktualizujte Pure Writer na nejnovější verzi.\n\nPokud neprovedete aktualizaci, program nebude správně fungovat, ne že bychom vás měli v úmyslu omezovat, ale aktuální stará verze technicky nezvládá novou verzi databáze. Prosím pochopte a aktualizujte na nejnovější verzi, abyste to vyřešili.\n\nZískejte nejnovější verzi: https://t.me/s/PureWriter</string>
   <string name="openFolder">Otevřená složka</string>
+  <string name="beforeBackupOverwritesLocal">před_zálohou_přepíše_místní</string>
+  <string name="beforeBackupIsMergedIntoLocal">před_sloučením_zálohy_do_místní</string>
+  <string name="updateABook">Aktualizujte knihu</string>
+  <string name="deleteABook">Smazat knihu</string>
+  <string name="updateACategory">Aktualizujte kategorii</string>
+  <string name="deleteACategory">Smazat kategorii</string>
+  <string name="cloudSync">Cloudová synchronizace</string>
+  <string name="autoSwitchThemesAndNightMode">Automatické přepínání motivů a noční režim</string>
+  <string name="syncFailedNotSign">Cloudová synchronizace se nezdařila, nejprve se prosím přihlaste ke svému účtu cloudového úložiště!</string>
+  <string name="remindMeNextTime">Připomenout příště</string>
+  <string name="alwaysSyncGuideMessage">Klikli jste na tlačítko synchronizace a synchronizace bude brzy zahájena. Toto tlačítko synchronizace se automaticky zobrazí, když potřebujete synchronizovat, a musíte na něj kliknout, abyste synchronizovali aktuální obsah s cloudovým úložištěm.\n\n‼️\nNěkdy se tomuto tlačítku nepodaří detekovat obsah, který je třeba synchronizovat na poprvé. Pokud chcete provést synchronizaci okamžitě, můžete kliknout na tlačítko ⊕ v dolní části editoru a poté okamžitě uvidíte tlačítko synchronizace a okamžitě spustíte synchronizaci.</string>
+  <string name="important">Důležité</string>
+  <string name="cloudSyncSummaryBasic">Automatická synchronizace dat, jako jsou články, mezi více zařízeními</string>
+  <string name="thisDevice">Toto zařízení</string>
+  <string name="otherSyncDevices">Další synchronizační zařízení</string>
+  <string name="cloudSyncReadme">Chystáte se povolit funkci \"Cloudová synchronizace\". Před tím musíte pečlivě porozumět některým opatřením. Tohle je velmi důležité. V opačném případě můžete ztratit některé texty. Mějte prosím na paměti:\n\n* Cloudové zálohování a cloudová synchronizace Pure Writer jsou zcela bezplatné funkce. Vyzýváme všechny, aby si pozorně přečetli následující obsah, takže i když je tato funkce poskytována zdarma, budeme mít pocit, že stojí za to tyto funkce rozvíjet. Děkujeme za pochopení a spolupráci! Pokud v budoucnu zjistíme, že mnoho lidí nebude ochotno porozumět následujícímu, můžeme opustit funkci cloudové synchronizace (‼️).\n\n* Kliknutím na tlačítko \"OK\" níže souhlasíte s následujícím obsahem a Pure Writer okamžitě provede cloudovou synchronizaci.\n\n* V současné době je cloudové úložiště pro cloudovou synchronizaci stejné jako vaše cloudové zálohovací úložiště.\n\n* Pokud jste v \"Možnosti režimu synchronizace s cloudem\" vybrali režim \"Ruční\", pak když je obsah, který je třeba synchronizovat, ve spodní části editoru se zobrazí tlačítko synchronizace, pro synchronizaci musíte pokaždé kliknout na toto tlačítko .\n\n* Musíte zajistit, aby všechna zařízení byla nainstalována s Pure Writer v20.0 nebo novějším a byla přihlášena do stejného cloudového zálohovacího úložiště. , aby tato zařízení mohla vzájemně synchronizovat obsah, to znamená, že pokud cloudové zálohovací úložiště na různých zařízeních není stejný účet, nelze tato zařízení vzájemně synchronizovat.\n\n* Pure Writer se automaticky dotáže cloudové úložiště pro obsah, který je třeba v pravidelných intervalech synchronizovat. Pokud dojde k novým změnám, ve spodní části editoru se zobrazí tlačítko synchronizace, na které můžete kliknout a provést synchronizaci ve vhodnou dobu. Normálně se bude kontrolovat každých 20 sekund nebo 10 sekund, pokud je k dispozici síť Wi-Fi. Tento síťový požadavek spotřebovává velmi malý provoz a nemusíte se o něj starat.\n\n* To nejdůležitější (‼️): Před synchronizací nemůžete upravovat stejný článek na dvou zařízeních, jinak bude později upravený obsah přímo přepište dřívější obsah, což způsobí ztrátu části textu. Pokud potřebujete upravit stejný článek na dvou zařízeních, správným způsobem je po úpravě článku na jednom zařízení kliknout na tlačítko synchronizace pro synchronizaci obsahu do cloudového úložiště a po synchronizaci kliknout na tlačítko synchronizace na druhém zařízení. je dokončena synchronizace obsahu do tohoto zařízení, takže můžete upravovat nejnovější články na tomto zařízení.\n\n* Pokud nerozumíte tomu, co říká předchozí výzva, doporučujeme nepovolovat cloudovou synchronizaci jinak dojde ke ztrátě některých textů!\n\n* Pure Writer zabalí a zálohuje všechna vaše původní data jednou před každou synchronizací. Chcete-li to zobrazit, klikněte na \"Obnovit zálohu\" na stránce Zálohy.\n\n* Vždy mějte na paměti, že Pure Writer má funkce \"Historie\" a \"Automatické zálohování\".\n\n* Cloud synchronizace nepodporuje obrázky Markdown.</string>
+  <string name="beforeSync">před_synchronizací</string>
+  <string name="aboutCloudSync"><i>O cloudové synchronizaci</i></string>
+  <string name="syncCategoryTip">Chcete-li povolit níže uvedenou možnost synchronizace s cloudem, musíte se přihlásit k účtu cloudového úložiště výše</string>
+  <string name="cloudSyncMode">Možnosti režimu synchronizace s cloudem</string>
+  <string name="cloudSyncModeNames1">Ručně: Pokaždé, když potřebujete synchronizovat, klikněte ručně na tlačítko Synchronizovat ve spodní části editoru. Tento režim je vhodný pro cloudové úložiště s omezením provozu a frekvence požadavků.\n</string>
+  <string name="cloudSyncModeNames2">Poloautomatické: Při každé změně textu a zavření softwarové klávesnice se synchronizace provede automaticky a interval mezi dvěma automatickými synchronizacemi bude alespoň 20 sekund. Tento režim je vhodný pro cloudová úložiště bez provozu a omezení frekvence požadavků, jako je Dropbox nebo GoogleDrive.</string>
+  <string name="syncBeforeEditingToAvoidConflicts">Před úpravou synchronizujte, abyste předešli konfliktům</string>
+  <string name="okSyncIt">OK, synchronizujte to</string>
+  <string name="messageSyncBeforeEditingToAvoidConflicts">Upravili jste aktuální článek na jiných zařízeních, abyste předešli konfliktům, nejprve jej prosím synchronizujte, jinak mohou být vaše úpravy na jiných zařízeních zahozeny.</string>
 </resources>

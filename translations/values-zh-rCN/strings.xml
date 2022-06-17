@@ -190,8 +190,8 @@
   <string name="tipLandscapeOrientation">横屏模式下请使用外接键盘</string>
   <string name="promptShortcutOrder">排序</string>
   <string name="editShortcut">编辑快捷输入项</string>
-  <string name="backupSettingTitle">备份与云备份</string>
-  <string name="backupSettingSummary">备份、恢复、Dropbox、WebDAV</string>
+  <string name="backupSettingTitle">备份、云备份、云同步</string>
+  <string name="backupSettingSummary">备份、恢复、云同步、Dropbox、WebDAV、GoogleDrive</string>
   <string name="syncNetwork">云备份网络</string>
   <string name="syncOnlyWifi">只在 Wi-Fi 网络下才允许自动备份到云盘</string>
   <string name="syncAllNetworks">在所有网络下都允许自动备份到云盘</string>
@@ -587,7 +587,7 @@
   <string name="cursorJoyModePosition1">「可直接触摸移动」模式，在快捷输入列表里</string>
   <string name="typewriterModeMode0">「高亮当前段落、淡化其他段落」模式</string>
   <string name="typewriterModeMode1">「高亮当前行、淡化其他行」模式</string>
-  <string name="restoreOptionsMessage">您需要使用这个备份来覆盖本地内容？还是合并加入本地内容？\n\n注意：若您选择「合并」，那么存在于备份文件中的设置项和云备份账号信息将不会被合并，您可能需要重新手动配置它们。\n\n另外，您如果修改排序或者删除文章，这些操作也不会被合并，因为这会引起冲突。<b>因此我们更建议您使用「覆盖」，并且若在一个设备上修改了数据后应该立即在另一个设备上通过覆盖把数据同步过去。</b></string>
+  <string name="restoreOptionsMessage">您需要使用这个备份来覆盖本地内容？还是合并加入本地内容？\n\n注意：若您选择「合并」，那么存在于备份文件中的设置项和云备份账号信息将不会被合并，您可能需要重新手动配置它们。</string>
   <string name="merge">合并</string>
   <string name="merging">合并中…</string>
   <string name="checkIntegrityOfBackup">检查备份文件完整性…</string>
@@ -623,7 +623,7 @@
   <string name="switchToAlipayPaymentMethod">切换为支付宝付费方式</string>
   <string name="switchToGooglePlayPaymentMethod">切换为 Google Play 付费方式</string>
   <string name="askUnsubscribe"><u>取消订阅？</u></string>
-  <string name="notesForGoogleSkus">重要说明:\n\n* 由于 Google 并没有提供取消订阅的接口给应用，因此如果您需要取消订阅，您需要自行点击您的订阅项目或者上方的「取消订阅？」按钮进行操作。\n\n* 当您在 Google Play 取消本应用的订阅后，本应用并不能立即接收到最新状态，因此您将会看到该订阅项在本页面中仍然处于「有效」状态，这是正常现象，一般到第二天会得到正确结果，或等到当前订阅周期结束。\n\n* 如果您打算从订阅项目转为「终身」项目，您应该先取消您的订阅项，再购买「终身」项目，本应用无法自行取消您的订阅项。\n\n* 如果您在付费过程中遇到 DF-DFERH-01 错误，请尝试重启您的设备后重试即可。\n\n* 付费结果将自动绑定到您的系统 Google 账号上，感谢支持！</string>
+  <string name="notesForGoogleSkus">重要说明:\n\n* 如果您已付费并重新安装纯纯写作，但它没有及时获得付费状态，您可以按照这个教程恢复它：https://t.me/s/PureWriter/880\n\n* 由于 Google 并没有提供取消订阅的接口给应用，因此如果您需要取消订阅，您需要自行点击您的订阅项目或者上方的「取消订阅？」按钮进行操作。\n\n* 当您在 Google Play 取消本应用的订阅后，本应用并不能立即接收到最新状态，因此您将会看到该订阅项在本页面中仍然处于「有效」状态，这是正常现象，一般到第二天会得到正确结果，或等到当前订阅周期结束。\n\n* 如果您打算从订阅项目转为「终身」项目，您应该先取消您的订阅项，再购买「终身」项目，本应用无法自行取消您的订阅项。\n\n* 如果您在付费过程中遇到 DF-DFERH-01 错误，请尝试重启您的设备后重试即可。\n\n* 付费结果将自动绑定到您的系统 Google 账号上，感谢支持！</string>
   <string name="skuActive">有效</string>
   <string name="activating">激活中…</string>
   <string name="updating">正在更新…</string>
@@ -711,4 +711,36 @@
   <string name="forcedPortraitSummary">无论您是否打开自动旋转，此应用程序都将使用纵向模式。</string>
   <string name="titleAsAWordForACountSummary2">一个单词整体算作一个计数，而不是每个字母都算一个计数</string>
   <string name="openFolder">打开文件夹</string>
+  <string name="beforeBackupOverwritesLocal">在备份覆盖本地之前</string>
+  <string name="beforeBackupIsMergedIntoLocal">在备份合并入本地之前</string>
+  <string name="updateABook">更新书</string>
+  <string name="deleteABook">删除书</string>
+  <string name="updateACategory">更新卷</string>
+  <string name="deleteACategory">删除卷</string>
+  <string name="deleteAnExistingArticle">删除文章</string>
+  <string name="deleteAShortcut">删除快捷输入项</string>
+  <string name="updateAShortcut">更新快捷输入项</string>
+  <string name="totalNumberOfNewTimeMachineMessagesInsertedOrUpdated">插入或更新的时光机信息数目</string>
+  <string name="totalNumberOfDailyUpdatedOrInserted">插入或更新的每日统计信息数目</string>
+  <string name="cloudSync">云同步</string>
+  <string name="autoSwitchThemesAndNightMode">自动切换主题与夜间模式</string>
+  <string name="beforeSync">同步之前</string>
+  <string name="syncFailedNotSign">云同步失败，请先登录您的云盘帐号！</string>
+  <string name="cloudSyncMode">云同步模式选项</string>
+  <string name="remindMeNextTime">下次再提示我</string>
+  <string name="alwaysSyncGuideMessage">您点击了同步按钮，即将进行同步。这个同步按钮会在您需要同步的时候适时自动出现，您需要适时点击它才能将当前内容同步到云端，或者与云端内容同步。\n\n‼️\n有时，这个按钮未能在第一时间探测到需要同步的内容，此时如果您想要立即同步，可以点击右下角的 ⊕ 按钮，然后您便可以立即看到同步按钮进而立即触发一次同步。</string>
+  <string name="important">重要说明</string>
+  <string name="cloudSyncSummaryBasic">自动在多设备间同步文章等内容</string>
+  <string name="thisDevice">本机</string>
+  <string name="otherSyncDevices">其他同步设备</string>
+  <string name="cloudSyncReadme">您即将启用「云同步」功能，在此之前，您需要仔细了解一些注意事项，这非常重要，否则可能会导致您丢失部分文本，请您知悉：\n\n* 纯纯写作的云备份和云同步都是完全免费的功能，我们恳请大家仔细阅读下面内容，这样即使免费提供这个功能我们也会觉得开发这些功能是值得的，感谢您的理解与配合！<b>如果日后发现许多人不愿理解以下内容，我们可能会放弃云同步功能</b>(‼️)。\n\n* 您如果点击下方的「OK」按钮，表示您同意以下内容，纯纯写作会立即进行一次云同步。\n\n* 目前云同步的云端网盘与您的云备份网盘是同一个。\n\n* 如果您在「云同步模式选项」中选择了「手动」模式，那么当存在需要同步的内容时，在编辑器底部会出现一个同步按钮，您需要每次点击该按钮才能将当前内容与云端网盘中的最新内容进行同步。\n\n* 您需要确保所有设备都安装了纯纯写作 v20.0 或以上版本，并且都登录了同一个云备份网盘，这些设备才能相互同步内容，也就是说，如果不同设备上的云备份网盘不是同一个帐号，那么这些设备是无法相互同步的。\n\n* 纯纯写作会每隔一段时间自动查询云盘中是否有需要同步的内容，如果有，则会在编辑器底部显示同步按钮，您可以适时点击该按钮进行同步。对于坚果云网盘，每隔 30 秒进行一次。对于 Dropbox 和 Google Drive 每隔 20 秒或 10 秒，当有 Wi-Fi 网络时是 10 秒。这个网络请求耗费流量极少，您不需要担心。\n\n* 最重要的(‼️)：进行同步之前，您不可以在两个设备上编辑同一篇文章，否则较后修改的内容会直接覆盖较前的内容，这会导致您丢失部分文本。如果您需要在两个设备上编辑同一篇文章，正确的做法是，在一个设备上编辑文章后，点击同步按钮将内容同步到云盘，待同步完成后，再于另一个设备上点击同步按钮将云盘内容同步到这个设备，这样以后您就可以在这个设备上编辑最新的文章了。\n\n* 如果您无法理解上一条在说什么，建议您不要启用云同步功能，否则会导致丢失部分文本！\n\n* 纯纯写作在每次同步之前，都会将您原来的所有数据打包备份一次，您可以在备份页面点击「恢复备份」看到它。\n\n* 永远记得纯纯写作有「历史记录」和「自动备份」功能。\n\n* 云同步不支持 Markdown 图片。</string>
+  <string name="backupAndSyncSuccessful">备份并同步成功</string>
+  <string name="aboutCloudSync">《关于云同步》</string>
+  <string name="syncCategoryTip">需要在上方登录云盘帐号才能启用下方的云同步选项</string>
+  <string name="cloudSyncModeNames1">手动：每次需要同步时，手动点击编辑器底部的同步按钮。此模式适用于有流量和请求频次限制的云盘，比如坚果云。\n</string>
+  <string name="cloudSyncModeNames2">半自动：每次有文本变更且收起软键盘时，自动进行同步，两次自动同步间隔时间将最少为 20 秒。此模式适用于无流量和请求频次限制的云盘，比如 Dropbox 或 GoogleDrive，以及不怕死的坚果云（🌚，其实还是可以试试的，纯纯写作会在坚果云过热时暂停自动同步并提示您）。</string>
+  <string name="cloudSyncModeDefault" translatable="false">SA</string>
+  <string name="syncBeforeEditingToAvoidConflicts">先同步再编辑以避免冲突</string>
+  <string name="okSyncIt">好的，同步它</string>
+  <string name="messageSyncBeforeEditingToAvoidConflicts">您在其他设备上修改过当前文章，为了避免冲突，请您先同步再编辑当前文章，否则您在其他设备上的修改内容可能会被丢弃。</string>
 </resources>

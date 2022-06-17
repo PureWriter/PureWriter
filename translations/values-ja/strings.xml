@@ -185,7 +185,7 @@
   <string name="fixedSync">Bridge</string>
   <string name="bridgeUpload">ブリッジ: アップロード</string>
   <string name="bridgeDownload">ブリッジ: ダウンロード</string>
-  <string name="backupSettingTitle">バックアップ(Backup)</string>
+  <string name="backupSettingTitle">バックアップとクラウドの同期</string>
   <string name="backupSettingSummary">バックアップ、復元、Dropbox, WebDAV, Google Drive</string>
   <string name="syncNetwork">Cloud Backup</string>
   <string name="syncOnlyWifi">Sync backup to Cloud only when Wi-Fi is active</string>
@@ -544,18 +544,14 @@
   <string name="autoConnectToDesktopNextTime">次回から自動的にデスクトップに接続</string>
   <string name="presetFreeFont">フリーLXGW WenKaiフォント</string>
   <string name="summaryPresetFreeFont">「カスタムフォント」が有効になっていない場合にのみ有効です</string>
-  <string name="restoreOptionsMessage">このバックアップを使用して、ローカルコンテンツを上書きしたり、ローカルコンテンツにマージしたりする必要がありますか？
-
-注：[マージ]を選択した場合、バックアップファイルの設定とクラウドバックアップアカウント情報はマージされないため、手動で再構成する必要がある場合があります。
-
-また、記事の順序を変更したり、記事を削除したりすると、競合が発生するため、これらの操作はマージされません。 <b>したがって、「上書き」を使用することをお勧めします。一方のデバイスのデータを変更する場合は、「上書き」を使用して、もう一方のデバイスのデータをすぐに同期する必要があります。 </b></string>
+  <string name="restoreOptionsMessage">このバックアップを使用して、ローカルコンテンツを上書きしたり、ローカルコンテンツにマージしたりする必要がありますか？\n\n注：[マージ]を選択した場合、バックアップファイルの設定とクラウドバックアップアカウント情報はマージされないため、手動で再構成する必要がある場合があります。</string>
   <string name="merge">マージ</string>
   <string name="editor2Tip">あなたは2番目のエディターにいて、その一番上のアイコンは最初のエディターの反対側にあります。 最初のエディターに戻りたい場合は、<b>エディターを左または右にスワイプできます</b>。</string>
   <string name="switchToAlipayPaymentMethod">Alipay支払い方法に切り替えます</string>
   <string name="switchToGooglePlayPaymentMethod">GooglePlayのお支払い方法に切り替えます</string>
   <string name="tipForFromPlayToAlipay">このお支払い方法を使用するには、中国本土にいることを確認してください。 GoogleとGooglePlayは中国での支払いに使用できないため、この支払い方法は原則として中国本土のユーザーのみが利用できます。</string>
   <string name="askUnsubscribe"><u>退会しますか？</u></string>
-  <string name="notesForGoogleSkus">ノート：\n\n* Googleはサブスクリプションをキャンセルするためのインターフェースを提供していないため、サブスクリプションをキャンセルする必要がある場合は、サブスクリプションをクリックするか、[サブスクリプションを解除しますか？]をクリックする必要があります。 上記に進みます。\n\n* Google Playでこのアプリのサブスクリプションをキャンセルした後、アプリはすぐに最新のステータスを受け取らないため、このページではサブスクリプションアイテムがまだ「有効」状態であることがわかります。 これは正常な現象です。 翌日正しい結果が得られるか、現在のサブスクリプション期間が終了するまで待ちます。\n\n*サブスクリプションから「ライフタイム」アイテムに切り替える場合は、最初にサブスクリプションをキャンセルしてから、「ライフタイム」アイテムを購入する必要があります。 このアプリは、それ自体でサブスクリプションをキャンセルすることはできません。\n\n*支払いプロセス中にDF-DFERH-01エラーが発生した場合は、デバイスを再起動して再試行してください。\n\n*お支払い結果は自動的にシステムのGoogleアカウントにバインドされます。ありがとうございます。</string>
+  <string name="notesForGoogleSkus">ノート：\n\n* Pure Writerを支払い、再インストールしたが、時間内に支払いステータスが得られなかった場合は、次のチュートリアルに従って復元できます：https://t.me/s/PureWriter/880\n\n* Googleはサブスクリプションをキャンセルするためのインターフェースを提供していないため、サブスクリプションをキャンセルする必要がある場合は、サブスクリプションをクリックするか、[サブスクリプションを解除しますか？]をクリックする必要があります。 上記に進みます。\n\n* Google Playでこのアプリのサブスクリプションをキャンセルした後、アプリはすぐに最新のステータスを受け取らないため、このページではサブスクリプションアイテムがまだ「有効」状態であることがわかります。 これは正常な現象です。 翌日正しい結果が得られるか、現在のサブスクリプション期間が終了するまで待ちます。\n\n*サブスクリプションから「ライフタイム」アイテムに切り替える場合は、最初にサブスクリプションをキャンセルしてから、「ライフタイム」アイテムを購入する必要があります。 このアプリは、それ自体でサブスクリプションをキャンセルすることはできません。\n\n*支払いプロセス中にDF-DFERH-01エラーが発生した場合は、デバイスを再起動して再試行してください。\n\n*お支払い結果は自動的にシステムのGoogleアカウントにバインドされます。ありがとうございます。</string>
   <string name="skuActive">有効</string>
   <string name="activating">アクティベート中…</string>
   <string name="updating">更新中…</string>
@@ -646,4 +642,34 @@
   <string name="databaseDowngradeError">データベースのダウングレードエラー</string>
   <string name="databaseDowngradeErrorMessage">Pure Writerは、PureWriterの新しいバージョンからデータベースファイルを回復または使用しました。 PureWriterの現在のバージョンはデータベースを処理できません。 この問題を解決するには、PureWriterを最新バージョンに更新してください。\n\n更新しないと、プログラムは正しく機能しません。制限するつもりはありませんが、現在の古いバージョンでは、データベースの新しいバージョンを技術的に処理できません。 それを解決するには、理解して最新バージョンに更新してください。\n\n最新バージョンを入手する：https：//t.me/s/PureWriter</string>
   <string name="openFolder">開いたフォルダ</string>
+  <string name="beforeBackupOverwritesLocal">バックアップがローカルを上書きする前</string>
+  <string name="beforeBackupIsMergedIntoLocal">バックアップがローカルにマージされる前</string>
+  <string name="updateABook">本を更新する</string>
+  <string name="deleteABook">本を削除する</string>
+  <string name="updateACategory">カテゴリを更新する</string>
+  <string name="deleteACategory">カテゴリを削除する</string>
+  <string name="insertANewCategory">新しいカテゴリを挿入します</string>
+  <string name="insertANewArticle">新しい記事を挿入する</string>
+  <string name="insertingOrUpdatingArticles">記事の挿入または更新…</string>
+  <string name="summary">概要</string>
+  <string name="cloudSync">クラウド同期</string>
+  <string name="autoSwitchThemesAndNightMode">テーマとナイトモードの自動切り替え</string>
+  <string name="syncFailedNotSign">クラウドの同期に失敗しました。最初にクラウドストレージアカウントにログインしてください！</string>
+  <string name="remindMeNextTime">次回通知する</string>
+  <string name="alwaysSyncGuideMessage">同期ボタンをクリックすると、同期が開始されます。この同期ボタンは、同期する必要があるときに自動的に表示されます。現在のコンテンツをクラウドストレージと同期するには、このボタンをクリックする必要があります。\n\n！️\nこのボタンは、で同期する必要のあるコンテンツを検出できない場合があります。初めて。すぐに同期する場合は、エディターの下部にある⊕ボタンをクリックすると、すぐに同期ボタンが表示され、すぐに同期をトリガーできます。</string>
+  <string name="important">重要</string>
+  <string name="cloudSyncSummaryBasic">複数のデバイス間で記事などのデータを自動同期する</string>
+  <string name="thisDevice">このデバイス</string>
+  <string name="otherSyncDevices">その他の同期デバイス</string>
+  <string name="cloudSyncReadme">"「クラウド同期」機能を有効にしようとしています。その前に、いくつかの注意事項を注意深く理解する必要があります。これはとても重要です。そうしないと、一部のテキストが失われる可能性があります。次の点に注意してください。\n\n* Pure Writerのクラウドバックアップとクラウド同期は完全に無料の機能です。以下の内容をよくお読みいただき、この機能を無料で提供しても、開発する価値があると感じていただくようお願いいたします。ご理解とご協力をよろしくお願いいたします。将来、多くの人が次のことを理解したくないと判断した場合、クラウド同期機能を放棄する可能性があります（‼️）。\n\n* 下の[OK]ボタンをクリックすると、次の内容に同意したことになります、およびPure Writerはすぐにクラウド同期を実行します。\n\n* 現在、クラウド同期用のクラウドストレージはクラウドバックアップストレージと同じです。\n\n*「クラウド同期モードオプション」で「手動」モードを選択した場合、同期が必要なコンテンツがある場合、エディタ下部に同期ボタンが表示されますので、毎回このボタンをクリックして同期する必要があります。\n\n* すべてのデバイスがPure Writer v20.0以降でインストールされ、同じクラウドバックアップストレージにログインしていることを確認する必要があります、これらのデバイスがコンテンツを相互に同期できるようにします。つまり、異なるデバイスのクラウドバックアップストレージが同じ1つのアカウントでない場合、これらのデバイスを相互に同期することはできません。\n\n* Pure Writerは自動的にクエリを実行します定期的に同期する必要があるコンテンツのクラウドストレージ。新しい変更がある場合は、エディターの下部に同期ボタンが表示され、ボタンをクリックして適切なタイミングで同期できます。通常、20秒ごと、またはWi-Fiネットワークがある場合は10秒ごとにチェックされます。このネットワークリクエストはトラフィックをほとんど消費しないため、心配する必要はありません。\n\n* 最も重要（‼️）：同期する前に、2つのデバイスで同じ記事を編集することはできません。そうしないと、後で編集したコンテンツが直接編集されます。以前のコンテンツを上書きすると、テキストの一部が失われます。 2つのデバイスで同じ記事を編集する必要がある場合、正しい方法は、一方のデバイスで記事を編集した後、同期ボタンをクリックしてコンテンツをクラウドストレージに同期し、同期後にもう一方のデバイスの同期ボタンをクリックすることです。このデバイスへのコンテンツの同期が完了しているため、このデバイスで最新の記事を編集できます。\n\n* 前のプロンプトの内容が理解できない場合は、クラウド同期を有効にしないことをお勧めします。機能しないと、一部のテキストが失われます！\n\n* Pure Writerは、各同期の前に、すべての元のデータを1回パッケージ化してバックアップします。 [バックアップ]ページの[バックアップの復元]をクリックすると、表示されます。\n\n* Pure Writerには「履歴」と「自動バックアップ」の機能があることを常に忘れないでください。\n\n* クラウド同期はMarkdownイメージをサポートしていません。 "</string>
+  <string name="beforeSync">同期前</string>
+  <string name="merging">マージ…</string>
+  <string name="aboutCloudSync"><i>クラウド同期について</i></string>
+  <string name="syncCategoryTip">以下のクラウド同期オプションを有効にするには、上記のクラウドストレージアカウントにログインする必要があります</string>
+  <string name="cloudSyncMode">クラウド同期モードオプション</string>
+  <string name="cloudSyncModeNames1">手動：同期が必要になるたびに、エディターの下部にある[同期]ボタンを手動でクリックします。 このモードは、トラフィックとリクエストの頻度が制限されているクラウドストレージに適しています。\n</string>
+  <string name="cloudSyncModeNames2">半自動：テキストが変更されてソフトキーボードが閉じられるたびに、同期が自動的に実行され、2つの自動同期の間隔は少なくとも20秒になります。 このモードは、DropboxやGoogleDriveなど、トラフィックやリクエストの頻度に制限のないクラウドストレージに適しています。</string>
+  <string name="syncBeforeEditingToAvoidConflicts">競合を避けるために編集する前に同期する</string>
+  <string name="okSyncIt">OK、同期します</string>
+  <string name="messageSyncBeforeEditingToAvoidConflicts">他のデバイスで現在の記事を変更しました。競合を避けるために、最初に同期してください。同期しないと、他のデバイスでの変更が破棄される可能性があります。</string>
 </resources>

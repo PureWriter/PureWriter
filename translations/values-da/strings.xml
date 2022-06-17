@@ -188,7 +188,7 @@
   <string name="fixedSync">Brug</string>
   <string name="bridgeUpload">Brug: Upload</string>
   <string name="bridgeDownload">Bro: Fetch</string>
-  <string name="backupSettingTitle">Backup</string>
+  <string name="backupSettingTitle">Backup &amp; Cloud-synkronisering</string>
   <string name="backupSettingSummary">Backup, gendannelse, Dropbox, WebDAV, Google Drive</string>
   <string name="syncNetwork">Cloud-backup</string>
   <string name="syncOnlyWifi">Synkroniser kun sikkerhedskopiering til skyen, når Wi-Fi er aktivt</string>
@@ -552,7 +552,7 @@
   <string name="cursorJoyModePosition"><![CDATA[Markørkontroltilstand og position]]></string>
   <string name="cursorJoyModePosition0">Anti-inadvertent touch-tilstand, til højre</string>
   <string name="cursorJoyModePosition1">\"Direkte berøring for at bevæge sig\" tilstand, i genvejslisten</string>
-  <string name="restoreOptionsMessage">Har du brug for at bruge denne sikkerhedskopi til at overskrive det lokale indhold eller flette det sammen med det lokale indhold?\n\nBemærk: Hvis du vælger Flette, vil indstillingerne og cloud-backupkontoinformationerne i sikkerhedskopifilen ikke blive flettet sammen, og du skal muligvis konfigurere dem manuelt igen.\n\n Desuden, hvis du ændrer rækkefølgen af artikler eller sletter artikler, vil disse operationer ikke blive flettet sammen, fordi det vil forårsage konflikter. <b>Så vi anbefaler, at du bruger \"overskriv\", og hvis du ændrer dataene på den ene enhed, skal du straks synkronisere dataene på den anden enhed via \"overskriv\". </b></string>
+  <string name="restoreOptionsMessage">Har du brug for at bruge denne sikkerhedskopi til at overskrive det lokale indhold eller flette det sammen med det lokale indhold?\n\nBemærk: Hvis du vælger Flette, vil indstillingerne og cloud-backupkontoinformationerne i sikkerhedskopifilen ikke blive flettet sammen, og du skal muligvis konfigurere dem manuelt igen.</string>
   <string name="merge">Sammenlægning</string>
   <string name="merging">Sammenlægning...</string>
   <string name="checkIntegrityOfBackup">Kontroller integriteten af backupfilen...</string>
@@ -589,7 +589,7 @@
   <string name="switchToGooglePlayPaymentMethod">Skift til Google Play-betalingsmetode</string>
   <string name="skuActive">Aktiv</string>
   <string name="askUnsubscribe"><u>Opsige abonnement?</u></string>
-  <string name="notesForGoogleSkus">Vigtigt:\n\n\n* Da Google ikke tilbyder en grænseflade til annullering af abonnementer, skal du, hvis du har brug for at annullere et abonnement, klikke på dit abonnement eller på \"Afmeld?\" ovenfor for at fortsætte.\n\n* Når du har annulleret abonnementet på denne app på Google Play, vil appen ikke modtage den seneste status med det samme, så du vil se, at abonnementsemnet stadig er i tilstanden \"aktiv\" på denne side. Dette er et normalt fænomen. Du får det korrekte resultat næste dag, eller du kan vente til slutningen af den aktuelle abonnementsperiode. \n\n\n* Hvis du planlægger at skifte fra et abonnement til "Lifetime"-elementet, skal du først opsige dit abonnement og derefter købe "Lifetime"-elementet. Denne app kan ikke selv opsige dit abonnement.\n\n* Hvis du støder på DF-DFERH-01-fejlen under betalingsprocessen, skal du prøve at genstarte din enhed og prøve igen.\n\n* Betalingsresultatet vil automatisk blive bundet til din Google-konto i systemet, tak!</string>
+  <string name="notesForGoogleSkus">Vigtigt:\n\n* Hvis du har betalt og geninstalleret Pure Writer, men den ikke fik betalt status i tide, kan du gendanne den ved at følge denne vejledning: https://t.me/s/PureWriter/880\n\n* Da Google ikke tilbyder en grænseflade til annullering af abonnementer, skal du, hvis du har brug for at annullere et abonnement, klikke på dit abonnement eller på \"Afmeld?\" ovenfor for at fortsætte.\n\n* Når du har annulleret abonnementet på denne app på Google Play, vil appen ikke modtage den seneste status med det samme, så du vil se, at abonnementsemnet stadig er i tilstanden \"aktiv\" på denne side. Dette er et normalt fænomen. Du får det korrekte resultat næste dag, eller du kan vente til slutningen af den aktuelle abonnementsperiode. \n\n* Hvis du planlægger at skifte fra et abonnement til Lifetime-elementet, skal du først opsige dit abonnement og derefter købe Lifetime-elementet. Denne app kan ikke selv opsige dit abonnement.\n\n* Hvis du støder på DF-DFERH-01-fejlen under betalingsprocessen, skal du prøve at genstarte din enhed og prøve igen.\n\n* Betalingsresultatet vil automatisk blive bundet til din Google-konto i systemet, tak!</string>
   <string name="activating">Aktivering...</string>
   <string name="themesAndPapers"><![CDATA[Temaer]]></string>
   <string name="once">hver gang</string>
@@ -678,5 +678,30 @@
   <string name="databaseDowngradeError">Fejl ved nedgradering af database</string>
   <string name="databaseDowngradeErrorMessage">Din Pure Writer har gendannet eller brugt en databasefil fra en senere version af Pure Writer. Den aktuelle version af Pure Writer kan ikke behandle databasen. Opdater Pure Writer til den nyeste version for at løse dette problem.\n\nHvis du ikke opdaterer, vil programmet ikke fungere korrekt, det er ikke fordi vi har til hensigt at begrænse dig, men den nuværende gamle version er teknisk set ude af stand til at håndtere den nye version af databasen. Forstå og opdater til den nyeste version for at løse det.\n\nHent den seneste version: https://t.me/s/PureWriter</string>
   <string name="openFolder">Åbn mappe</string>
+  <string name="beforeBackupOverwritesLocal">før_backup_overskriver_lokalt</string>
+  <string name="beforeBackupIsMergedIntoLocal">før_backup_lægges_sammen_til_lokal</string>
+  <string name="updateABook">Opdater en bog</string>
+  <string name="deleteABook">Slet en bog</string>
+  <string name="updateACategory">Opdater en kategori</string>
+  <string name="deleteACategory">Slet en kategori</string>
+  <string name="cloudSync">Cloud synkronisering</string>
+  <string name="autoSwitchThemesAndNightMode">Skift automatisk temaer og nattilstand</string>
+  <string name="syncFailedNotSign">Skysynkronisering mislykkedes. Log venligst ind på din skylagerkonto først!</string>
+  <string name="remindMeNextTime">Mind mig næste gang</string>
+  <string name="alwaysSyncGuideMessage">Du klikkede på synkroniseringsknappen, og synkroniseringen er ved at starte. Denne synkroniseringsknap vises automatisk, når du skal synkronisere, og du skal klikke på den for at synkronisere det aktuelle indhold med skylageret.\n\n‼️\nNogle gange kan denne knap ikke registrere det indhold, der skal synkroniseres på første gang. Hvis du vil synkronisere med det samme, kan du klikke på knappen ⊕ nederst i editoren, og så kan du med det samme se synkroniseringsknappen og udløse en synkronisering med det samme.</string>
+  <string name="important">Vigtigt</string>
+  <string name="cloudSyncSummaryBasic">Synkroniser automatisk data såsom artikler mellem flere enheder</string>
+  <string name="thisDevice">Denne enhed</string>
+  <string name="otherSyncDevices">Andre synkroniseringsenheder</string>
+  <string name="cloudSyncReadme">Du er ved at aktivere \"Cloud-synkronisering\"-funktionen. Før dette skal du omhyggeligt forstå nogle forholdsregler. Dette er meget vigtigt. Ellers kan du miste nogle tekster. Vær opmærksom på:\n\n* Skybackup og skysynkronisering af Pure Writer er helt gratis funktioner. Vi opfordrer alle til at læse følgende indhold omhyggeligt, så selvom denne funktion er gratis, vil vi føle, at det er umagen værd at udvikle disse funktioner. Tak for din forståelse og samarbejde! Hvis vi i fremtiden opdager, at mange mennesker ikke er villige til at forstå følgende, kan vi opgive skysynkroniseringsfunktionen (‼️).\n\n* Hvis du klikker på knappen \"OK\" nedenfor, accepterer du følgende indhold , og Pure Writer vil straks udføre en cloud-synkronisering.\n\n* I øjeblikket er cloud-lageret til cloud-synkronisering det samme som dit cloud-backuplager.\n\n* Hvis du har valgt \"Manuel\" tilstand i \"Cloud Sync Mode Options\", så når der er indhold, der skal synkroniseres, vises en synkroniseringsknap i bunden af editoren, du skal klikke på denne knap hver gang for at synkronisere .\n\n* Du skal sikre, at alle enheder er installeret med Pure Writer v20.0 eller nyere og er logget ind på det samme cloud-backuplager. , så disse enheder kan synkronisere indhold med hinanden, det vil sige, hvis cloud backup-lageret på forskellige enheder ikke er den samme konto, så kan disse enheder ikke synkroniseres med hinanden.\n\n* Pure Writer vil automatisk forespørge skylageret til indhold, der skal synkroniseres med jævne mellemrum. Hvis der er nye ændringer, vil en synkroniseringsknap blive vist i bunden af ​​editoren, og du kan klikke på knappen for at synkronisere på et passende tidspunkt. Normalt vil det blive tjekket hvert 20. sekund, eller 10. sekund, når der er et Wi-Fi-netværk. Denne netværksanmodning bruger meget lidt trafik, og du behøver ikke bekymre dig om det.\n\n* Vigtigst (‼️): Før synkronisering kan du ikke redigere den samme artikel på to enheder, ellers vil det senere redigerede indhold direkte overskriv det tidligere indhold, hvilket vil få dig til at miste en del af teksten. Hvis du har brug for at redigere den samme artikel på to enheder, er den korrekte måde at klikke på synkroniseringsknappen for at synkronisere indholdet til skylageret efter at have redigeret artiklen på én enhed, og derefter klikke på synkroniseringsknappen på den anden enhed efter synkroniseringen er komplet til synkronisering af indhold til denne enhed, så du kan redigere de seneste artikler på denne enhed.\n\n* Hvis du ikke kan forstå, hvad den forrige prompt siger, anbefales det, at du ikke aktiverer skysynkroniseringen funktion, ellers vil nogle tekster gå tabt!\n\n* Pure Writer pakker og sikkerhedskopierer alle dine originale data én gang før hver synkronisering. Du kan klikke på \"Gendan sikkerhedskopiering\" på siden Sikkerhedskopier for at se den.\n\n* Husk altid, at Pure Writer har funktionerne \"Historik\" og \"Automatisk backup\".\n\n* Cloud-synkronisering understøtter ikke Markdown-billeder.</string>
+  <string name="beforeSync">før_synkronisering</string>
+  <string name="aboutCloudSync"><i>Om skysynkronisering</i></string>
+  <string name="syncCategoryTip">Skal logge ind på cloud storage-kontoen ovenfor for at aktivere cloud-synkroniseringsindstillingen nedenfor</string>
+  <string name="cloudSyncMode">Muligheder for skysynkroniseringstilstand</string>
+  <string name="cloudSyncModeNames1">Manuelt: Klik manuelt på knappen Synkroniser nederst i editoren, hver gang du skal synkronisere. Denne tilstand er velegnet til skylagring med trafik- og anmodningsfrekvensgrænser.\n</string>
+  <string name="cloudSyncModeNames2">Halvautomatisk: Hver gang der er en tekstændring, og det bløde tastatur lukkes, vil synkroniseringen blive udført automatisk, og intervallet mellem to automatiske synkroniseringer vil være mindst 20 sekunder. Denne tilstand er velegnet til skylagring uden trafik og anmodningsfrekvensbegrænsninger, såsom Dropbox eller GoogleDrive.</string>
+  <string name="syncBeforeEditingToAvoidConflicts">Synkroniser før redigering for at undgå konflikter</string>
+  <string name="okSyncIt">OK, synkroniser det</string>
+  <string name="messageSyncBeforeEditingToAvoidConflicts">Du har ændret den aktuelle artikel på andre enheder, for at undgå konflikter, synkroniser venligst først, ellers kan dine ændringer på andre enheder blive kasseret.</string>
 </resources>
 

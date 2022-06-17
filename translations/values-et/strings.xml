@@ -184,7 +184,7 @@
   <string name="fixedSync">Bridge</string>
   <string name="bridgeUpload">Bridge: Upload</string>
   <string name="bridgeDownload">Bridge: Fetch</string>
-  <string name="backupSettingTitle">Varundamine</string>
+  <string name="backupSettingTitle">Varundamine ja pilvesünkroonimine</string>
   <string name="backupSettingSummary">Varundamine, taastamine, Dropbox, WebDAV, Google Drive</string>
   <string name="syncNetwork">Pilvevarundamine</string>
   <string name="syncOnlyWifi">Sünkroonib varukoopia pilve ainult siis, kui Wi-Fi on aktiivne</string>
@@ -552,7 +552,7 @@
   <string name="cursorJoyModePosition1">\"Otsene puudutus liikumiseks\" režiim, otseteede nimekirjas</string>
   <string name="typewriterModeMode0">Paragrahvirežiim</string>
   <string name="typewriterModeMode1">Ridade režiim</string>
-  <string name="restoreOptionsMessage">Kas seda varukoopiat on vaja kasutada kohaliku sisu ülekirjutamiseks või selle ühendamiseks kohaliku sisuga?\n\nMärkus: Kui valite ühendamise, ei ühendata varukoopiadokumendis olevaid sätteid ja pilvevarunduskonto andmeid ning te peate need võib-olla käsitsi ümber seadistama.\n\nKui te muudate artiklite järjekorda või kustutate artikleid, ei ühendata neid toiminguid, sest see põhjustab konflikte. <b>Sellepärast soovitame kasutada \"overwrite\" ja kui te muudate andmeid ühes seadmes, siis peaksite kohe sünkroonima andmed teises seadmes \"overwrite\" abil. </b></string>
+  <string name="restoreOptionsMessage">Kas seda varukoopiat on vaja kasutada kohaliku sisu ülekirjutamiseks või selle ühendamiseks kohaliku sisuga?\n\nMärkus: Kui valite ühendamise, ei ühendata varukoopiadokumendis olevaid sätteid ja pilvevarunduskonto andmeid ning te peate need võib-olla käsitsi ümber seadistama.</string>
   <string name="merge">Ühendage</string>
   <string name="merging">Ühendamine...</string>
   <string name="checkIntegrityOfBackup">Kontrollib varundatud faili terviklikkust...</string>
@@ -591,7 +591,7 @@
   <string name="switchToGooglePlayPaymentMethod">Vaheta Google Play makseviisile</string>
   <string name="skuActive">Aktiivne</string>
   <string name="askUnsubscribe"><u>Tühista tellimus?</u></string>
-  <string name="notesForGoogleSkus">Tähtis:\n\n* Kuna Google ei paku kasutajaliidest tellimuse tühistamiseks, siis kui teil on vaja tellimus tühistada, peate jätkamiseks klõpsama oma tellimusele või ülaltoodud \"Tühista tellimus?\".\n\n* Pärast selle rakenduse tellimuse tühistamist Google Play\'s ei saa rakendus kohe viimast staatust, seega näete, et tellimusobjekt on sellel lehel endiselt \"aktiivses\" olekus. See on tavaline nähtus. Te saate õige tulemuse järgmisel päeval või oodake kuni praeguse tellimusperioodi lõpuni.\n\n* Kui kavatsete tellimuselt üle minna \"Eluaegsele\" elemendile, peate kõigepealt tühistama oma tellimuse ja seejärel ostma \"Eluaegse\" elemendi. See rakendus ei saa oma tellimust ise tühistada.\n\n* Kui maksmise ajal ilmneb viga DF-DFERH-01, proovige seade uuesti käivitada ja proovida uuesti.\n\n* Makse tulemus seotakse automaatselt teie süsteemi Google\'i kontoga, aitäh!</string>
+  <string name="notesForGoogleSkus">Tähtis:\n\n* Kui maksite ja installisite Pure Writeri uuesti, kuid see ei saanud õigeaegselt tasutud olekut, saate selle taastada, järgides seda õpetust: https://t.me/s/PureWriter/880\n\n* Kuna Google ei paku kasutajaliidest tellimuse tühistamiseks, siis kui teil on vaja tellimus tühistada, peate jätkamiseks klõpsama oma tellimusele või ülaltoodud \"Tühista tellimus?\".\n\n* Pärast selle rakenduse tellimuse tühistamist Google Play\'s ei saa rakendus kohe viimast staatust, seega näete, et tellimusobjekt on sellel lehel endiselt \"aktiivses\" olekus. See on tavaline nähtus. Te saate õige tulemuse järgmisel päeval või oodake kuni praeguse tellimusperioodi lõpuni.\n\n* Kui kavatsete tellimuselt üle minna \"Eluaegsele\" elemendile, peate kõigepealt tühistama oma tellimuse ja seejärel ostma \"Eluaegse\" elemendi. See rakendus ei saa oma tellimust ise tühistada.\n\n* Kui maksmise ajal ilmneb viga DF-DFERH-01, proovige seade uuesti käivitada ja proovida uuesti.\n\n* Makse tulemus seotakse automaatselt teie süsteemi Google\'i kontoga, aitäh!</string>
 
   <string name="activating">Aktiveerimine...</string>
   <string name="updating">Värskendamine...</string>
@@ -680,4 +680,29 @@
   <string name="databaseDowngradeError">Andmebaasi alandamise viga</string>
   <string name="databaseDowngradeErrorMessage">Teie Pure Writer on taastanud või kasutanud Pure Writeri hilisemast versioonist pärit andmebaasifaili. Pure Writeri praegune versioon ei saa andmebaasi töödelda. Selle probleemi lahendamiseks värskendage Pure Writer uusimale versioonile.\n\nKui te ei värskenda, ei tööta programm korralikult, see ei tähenda, et me kavatseme teid piirata, kuid praegune vana versioon ei saa tehniliselt hakkama andmebaasi uue versiooniga. Mõistke ja värskendage probleemi lahendamiseks uusimale versioonile.\n\nHankige uusim versioon: https://t.me/s/PureWriter</string>
   <string name="openFolder">Ava kaust</string>
+  <string name="beforeBackupOverwritesLocal">enne_kui_varundamine_kirjutab_kohaliku_üle</string>
+  <string name="beforeBackupIsMergedIntoLocal">enne_varukoopia_ühendamist_kohalikuks</string>
+  <string name="updateABook">Uuenda raamatut</string>
+  <string name="deleteABook">Kustutage raamat</string>
+  <string name="updateACategory">Värskendage kategooriat</string>
+  <string name="deleteACategory">Kustutage kategooria</string>
+  <string name="cloudSync">Pilvesünkroonimine</string>
+  <string name="autoSwitchThemesAndNightMode">Teemade ja öörežiimi automaatne vahetamine</string>
+  <string name="syncFailedNotSign">Pilvesünkroonimine ebaõnnestus, logige esmalt sisse oma pilvesalvestuse kontole!</string>
+  <string name="remindMeNextTime">Tuleta järgmine kord meelde</string>
+  <string name="alwaysSyncGuideMessage">Klõpsasite sünkroonimisnupul ja sünkroonimine on algamas. See sünkroonimisnupp ilmub automaatselt, kui teil on vaja sünkroonida, ja praeguse sisu pilvmäluga sünkroonimiseks peate sellel klõpsama.\n\n‼️\nMõnikord ei suuda see nupp tuvastada sisu, mida tuleb sünkroonida esimene kord. Kui soovite sünkroonida kohe, võite klõpsata redaktori allosas oleval nupul ⊕ ja seejärel näete kohe sünkroonimisnuppu ja käivitate kohe sünkroonimise.</string>
+  <string name="important">Tähtis</string>
+  <string name="cloudSyncSummaryBasic">Andmete (nt artiklite) automaatne sünkroonimine mitme seadme vahel</string>
+  <string name="thisDevice">See seade</string>
+  <string name="otherSyncDevices">Muud sünkroonimisseadmed</string>
+  <string name="cloudSyncReadme">Olete lubamas funktsiooni \"Pilvesünkroonimine\". Enne seda peate hoolikalt mõistma mõningaid ettevaatusabinõusid. See on väga oluline. Vastasel juhul võite mõned tekstid kaotada. Pange tähele:\n\n* Pure Writeri pilvvarundamine ja pilvesünkroonimine on täiesti tasuta funktsioonid. Soovitame kõigil järgnev sisu hoolikalt läbi lugeda, et isegi kui see funktsioon on tasuta, tunneksime, et neid funktsioone tasub arendada. Täname mõistva suhtumise ja koostöö eest! Kui tulevikus avastame, et paljud inimesed ei soovi järgnevat mõista, võime pilvesünkroonimise funktsioonist (‼️) loobuda.\n\n* Kui klõpsate alloleval nupul \"OK\", nõustute järgmise sisuga , ja Pure Writer teostab kohe pilvesünkroonimise.\n\n* Praegu on pilvesünkroonimise pilvmälu sama, mis teie pilvesünkroonimise salvestusruum.\n\n* Kui valisite jaotises \"Pilvesünkroonimisrežiimi suvandid\" režiimi \"Käsitsi\", siis kui on sisu, mida tuleb sünkroonida, ilmub redaktori allossa sünkroonimisnupp, mille sünkroonimiseks peate seda nuppu iga kord klõpsama.\n\n* Peate tagama, et kõik seadmed oleksid installitud Pure Writer v20.0 või uuemaga ning oleksid sisse logitud samasse pilvevarundusmällu. , et need seadmed saaksid omavahel sisu sünkroonida, st kui erinevate seadmete pilvevarundusmälu ei ole sama konto, siis ei saa neid seadmeid omavahel sünkroonida.\n\n* Pure Writer teeb automaatselt päringu pilvesalvestus sisu jaoks, mida tuleb korrapäraste ajavahemike järel sünkroonida. Kui on tehtud uusi muudatusi, kuvatakse redaktori allosas sünkroonimisnupp ja saate vastaval ajal sünkroonimiseks nuppu klõpsata. Tavaliselt kontrollitakse seda iga 20 sekundi järel või 10 sekundi järel, kui WiFi-võrk on olemas. See võrgupäring tarbib väga vähe liiklust ja te ei pea selle pärast muretsema.\n\n* Kõige tähtsam (‼️): enne sünkroonimist ei saa te sama artiklit kahes seadmes muuta, vastasel juhul saadetakse hiljem muudetud sisu otse kirjutage üle varasem sisu, mille tõttu kaotate osa tekstist. Kui teil on vaja sama artiklit redigeerida kahes seadmes, on õige viis klõpsata sünkroonimisnupul, et sünkroonida sisu pilvesalvestusega pärast artikli redigeerimist ühes seadmes ja seejärel klõpsata pärast sünkroonimist teises seadmes sünkroonimisnuppu. on sisu selle seadmega sünkroonimine lõpetatud, nii et saate selles seadmes uusimaid artikleid redigeerida.\n\n* Kui te ei saa aru, mida eelmine viip ütleb, on soovitatav pilvesünkroonimist mitte lubada funktsiooni, vastasel juhul läheb osa tekste kaotsi!\n\n* Pure Writer pakendab ja varundab kõik teie algandmed üks kord enne iga sünkroonimist. Selle nägemiseks võite klõpsata varukoopiate lehel käsul \"Taasta varukoopia\".\n\n* Pidage alati meeles, et Pure Writeril on funktsioonid \"Ajalugu\" ja \"Automaatne varundamine\".\n\n* Pilvesünkroonimine ei toeta Markdowni pilte.</string>
+  <string name="beforeSync">enne_sünkroonimist</string>
+  <string name="aboutCloudSync"><i>Teave pilvesünkroonimise kohta</i></string>
+  <string name="syncCategoryTip">Peate logima sisse ülalolevale pilvesalvestuse kontole, et lubada allpool pilvesünkroonimine</string>
+  <string name="cloudSyncMode">Pilvesünkroonimisrežiimi valikud</string>
+  <string name="cloudSyncModeNames1">Käsitsi: iga kord, kui peate sünkroonima, klõpsake redaktori allosas nuppu Sünkrooni käsitsi. See režiim sobib pilvesalvestuseks koos liikluse ja päringu sageduspiirangutega.\n</string>
+  <string name="cloudSyncModeNames2">Poolautomaatne: iga kord, kui toimub tekstimuutus ja pehme klaviatuur suletakse, toimub sünkroonimine automaatselt ja kahe automaatse sünkroonimise vaheline intervall on vähemalt 20 sekundit. See režiim sobib pilvesalvestuseks ilma liiklus- ja päringusageduspiiranguteta, näiteks Dropbox või GoogleDrive.</string>
+  <string name="syncBeforeEditingToAvoidConflicts">Konfliktide vältimiseks sünkroonige enne muutmist</string>
+  <string name="okSyncIt">OK, sünkroonige</string>
+  <string name="messageSyncBeforeEditingToAvoidConflicts">Olete muutnud praegust artiklit teistes seadmetes. Konfliktide vältimiseks sünkroonige esmalt, vastasel juhul võidakse teistes seadmetes tehtud muudatustest loobuda.</string>
 </resources>

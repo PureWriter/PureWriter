@@ -124,6 +124,7 @@
   <string name="restoreBackup">Restore backup</string>
   <string name="summaryRestoreTheBackup">Backup file will be retrieved from Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto and your WebDAV or Dropbox or GoogleDrive</string>
   <string name="backupSuccessful">Backup successful</string>
+  <string name="backupAndSyncSuccessful">Backup &amp; sync successful</string>
   <string name="restoreSuccessful">Backup restored successfully</string>
   <string name="tipBackupList">Here\'re your backup files. You can click to restore them.\n<b>If you wish to retrieve backup files from Dropbox/WebDAV/GoogleDrive, please log in to your Dropbox/WebDAV/GoogleDrive account first!</b></string>
   <string name="tipBackupNotExist">The backup file does not exist. Please place the backup file in Documents/PureWriter/Backups and try again.</string>
@@ -221,6 +222,9 @@
   <string name="hideTitleBarWhenPreviewingMarkdown">Hide title bar when previewing Markdown</string>
   <string name="privacyPolicy">Privacy Policy</string>
   <string name="beforeRestoringYourBackup">beforeRestoringYourBackup</string>
+  <string name="beforeBackupOverwritesLocal">beforeBackupOverwritesLocal</string>
+  <string name="beforeBackupIsMergedIntoLocal">beforeBackupIsMergedIntoLocal</string>
+  <string name="beforeSync">beforeSync</string>
   <string name="trashDescription">Recover your deleted articles</string>
   <string name="messageDeleteArticlesDirectly">Permanently delete these articles</string>
   <string name="trashFolderTip">You can\'t create a new file in this trash folder!</string>
@@ -234,8 +238,8 @@
   <string name="fixedSync">Bridge</string>
   <string name="bridgeUpload">Bridge: Upload</string>
   <string name="bridgeDownload">Bridge: Fetch</string>
-  <string name="backupSettingTitle">Backup</string>
-  <string name="backupSettingSummary">Backup, Restore, Dropbox, WebDAV, Google Drive</string>
+  <string name="backupSettingTitle">Backup &amp; Cloud sync</string>
+  <string name="backupSettingSummary">Backup, Restore, Sync, Dropbox, WebDAV, Google Drive</string>
   <string name="syncNetwork">Cloud Backup</string>
   <string name="syncOnlyWifi">Sync backup to Cloud only when Wi-Fi is active</string>
   <string name="syncAllNetworks">Sync backup to Cloud on all networks</string>
@@ -349,8 +353,8 @@
   <string name="aboutBackup"><b>About backup</b></string>
   <string name="backupReadme">Pure Writer supports local and cloud backup. Local backup is automatic. When you reinstall Pure Writer, <b>you can restore all your articles by Backup</b>.\n\nHowever, Pure Writer <b>does not automatically do Cloud Backups by default</b>. To enable Cloud Backup, <b>you need to set up a cloud backup account</b> on the Pure Writer - Settings - Backups page.\n\nPure Writer Cloud Backup currently supports Dropbox and WebDAV cloud storage.\n\n<b>Cloud Backup is very very important. If you don\'t set up a cloud backup account, you will lose all your valuable content if this device is lost, broken, or restored to factory settings! Be sure to set up a cloud backup account!</b></string>
   <string name="tipParagraphSpacingInMD">Paragraph spacing will not be enabled in Markdown mode</string>
-  <string name="lineSpacing">Line Spacing</string>
-  <string name="paragraphSpacing">Paragraph Spacing</string>
+  <string name="lineSpacing">Line spacing</string>
+  <string name="paragraphSpacing">Paragraph spacing</string>
   <string name="defaultX">Default</string>
   <string name="zoomIn">Zoom in</string>
   <string name="zoomOut">Zoom out</string>
@@ -633,21 +637,29 @@
   <string name="typewriterModeMode0">Paragraph mode</string>
   <string name="typewriterModeMode1">Line mode</string>
   <string name="whyNoProForChineseUser" translatable="false">(<u>为什么没激活？</u>)</string>
-  <string name="restoreOptionsMessage">Do you need to use this backup to overwrite the local content or merge it into the local content?\n\nNote: If you choose Merge, the settings and cloud backup account information in the backup file will not be merged, and you may need to reconfigure them manually.\n\nIn addition, if you modify the order of articles or delete articles, these operations will not be merged, because this will cause conflicts. <b>So we recommend that you use \"overwrite\", and if you modify the data on one device, you should immediately synchronize the data on the other device through \"overwrite\". </b></string>
+  <string name="restoreOptionsMessage">Do you need to use this backup to overwrite the local content or merge it into the local content?\n\nNote: If you choose Merge, the settings and cloud backup account information in the backup file will not be merged, and you may need to reconfigure them manually.</string>
   <string name="merge">Merge</string>
   <string name="merging">Merging…</string>
   <string name="checkIntegrityOfBackup">Check the integrity of the backup file…</string>
   <string name="noteBeforeRestoringBackup">Before everything starts, make a backup of the current data…</string>
   <string name="startMerging">Start merging…</string>
   <string name="insertANewBook">Insert a new book</string>
+  <string name="updateABook">Update a book</string>
+  <string name="deleteABook">Delete a book</string>
   <string name="insertANewCategory">Insert a new category</string>
+  <string name="updateACategory">Update a category</string>
+  <string name="deleteACategory">Delete a category</string>
   <string name="insertingOrUpdatingArticles">Inserting or updating articles…</string>
   <string name="insertANewArticle">Insert a new article</string>
   <string name="summary">Summary</string>
   <string name="updateAnExistingArticle">Update an existing article</string>
+  <string name="deleteAnExistingArticle">Delete an existing article</string>
   <string name="totalNumberOfArticlesInsertedOrUpdated">Total number of articles inserted or updated</string>
   <string name="insertANewShortcut">Insert a new shortcut</string>
+  <string name="deleteAShortcut">Delete a shortcut</string>
+  <string name="updateAShortcut">Update a shortcut</string>
   <string name="totalNumberOfNewTimeMachineMessagesInserted">Total number of new time machine messages inserted</string>
+  <string name="totalNumberOfNewTimeMachineMessagesInsertedOrUpdated">Total number of new time machine messages inserted or updated</string>
   <string name="totalNumberOfDailyUpdatedOrInserted">Total number of daily statistics updated or inserted</string>
   <string name="mergeDone">Done!</string>
   <string name="relaunch">Relaunch</string>
@@ -671,7 +683,7 @@
   <string name="switchToGooglePlayPaymentMethod">Switch to Google Play payment method</string>
   <string name="skuActive">Active</string>
   <string name="askUnsubscribe"><u>Unsubscribe?</u></string>
-  <string name="notesForGoogleSkus">Important:\n\n* Since Google does not provide an interface for canceling subscriptions, if you need to cancel a subscription, you need to click on your subscription or the \"Unsubscribe?\" above to proceed.\n\n* After you cancel the subscription of this app on Google Play, the app will not receive the latest status immediately, so you will see that the subscription item is still in the \"active\" state on this page. This is a normal phenomenon. You will get the correct result the next day, or wait until the end of the current subscription period.\n\n* If you plan to switch from a subscription to the \"Lifetime\" item, you should cancel your subscription first, and then purchase the \"Lifetime\" item. This app cannot cancel your subscription by itself.\n\n* If you encounter the DF-DFERH-01 error during the payment process, please try to restart your device and try again.\n\n* If you subscribe or buy Pro, you will have access to all Pro features of Pure Writer, otherwise you will have access to free features other than Pro.\n\n* In addition, most of the Pro functions will provide a \"Try\" option for trial. The trial is generally 7 days. After the expiration, Pure Writer will NOT automatically charge. In other words, Pure Writer will not automatically switch to a paid subscription. So you don\'t need to worry about the trial.\n\n* The payment result will be automatically bound to your system Google account, thanks!</string>
+  <string name="notesForGoogleSkus">Important:\n\n* If you paid and reinstalled Pure Writer, but it didn\'t get paid status in time, you can restore it by following this tutorial: https://t.me/s/PureWriter/880\n\n* Since Google does not provide an interface for canceling subscriptions, if you need to cancel a subscription, you need to click on your subscription or the \"Unsubscribe?\" above to proceed.\n\n* After you cancel the subscription of this app on Google Play, the app will not receive the latest status immediately, so you will see that the subscription item is still in the \"active\" state on this page. This is a normal phenomenon. You will get the correct result the next day, or wait until the end of the current subscription period.\n\n* If you plan to switch from a subscription to the \"Lifetime\" item, you should cancel your subscription first, and then purchase the \"Lifetime\" item. This app cannot cancel your subscription by itself.\n\n* If you encounter the DF-DFERH-01 error during the payment process, please try to restart your device and try again.\n\n* If you subscribe or buy Pro, you will have access to all Pro features of Pure Writer, otherwise you will have access to free features other than Pro.\n\n* In addition, most of the Pro functions will provide a \"Try\" option for trial. The trial is generally 7 days. After the expiration, Pure Writer will NOT automatically charge. In other words, Pure Writer will not automatically switch to a paid subscription. So you don\'t need to worry about the trial.\n\n* The payment result will be automatically bound to your system Google account, thanks!</string>
   <string name="activating">Activating…</string>
   <string name="updating">Updating…</string>
   <string name="themesAndPapers"><![CDATA[Themes & Wallpapers]]></string>
@@ -722,10 +734,10 @@
   <string name="uploadToCloudStorage">Upload to cloud storage</string>
   <string name="downloadFromCloudStorage">Download from cloud storage</string>
   <string name="disableKeywordsFeature">Disable the keywords feature</string>
-  <string name="goodHeartFromPureWriter">❤ from Pure Writer</string>
-  <string name="goodHeartMessage">Since Ukraine is at war and Russian users can no longer pay for apps with Google Play Services. So we now provide all Pure Writer Pro content for free to all Ukrainian and Russian users, you can click \"OK\" below to get it, this will last until the war is over and Google Play restores Russian pay.\n\nOur original intention of doing this is purely out of good intentions, hoping to bring comfort to ordinary people at war, and at the same time, Russian users should not be unable to use our Pro features. If you feel strongly against this, please write to us and we will try to respect your opinion as much as possible: drakeet@drakeet.com\n\nMay everyone enjoy Pure Writer and writing.\n\n* PLEASE NOTE: If you accept the free Pro, you will still see the Inactive or Unsubscribed status on the Pure Writer Pro page, that\'s okay, just ignore it and you\'ll be able to use all the Pro features.</string>
-  <string name="goodHeartOK">OK (you will get all Pure Writer Pro functions for free)</string>
-  <string name="goodHeartNote">PLEASE NOTE: If you accept the free Pro, you will still see the Inactive or Unsubscribed status on the Pure Writer Pro page, that\'s okay, just ignore it and you\'ll be able to use all the Pro features.</string>
+  <string name="goodHeartFromPureWriter" translatable="false">❤ from Pure Writer</string>
+  <string name="goodHeartMessage" translatable="false">Since Ukraine is at war and Russian users can no longer pay for apps with Google Play Services. So we now provide all Pure Writer Pro content for free to all Ukrainian and Russian users, you can click \"OK\" below to get it, this will last until the war is over and Google Play restores Russian pay.\n\nOur original intention of doing this is purely out of good intentions, hoping to bring comfort to ordinary people at war, and at the same time, Russian users should not be unable to use our Pro features. If you feel strongly against this, please write to us and we will try to respect your opinion as much as possible: drakeet@drakeet.com\n\nMay everyone enjoy Pure Writer and writing.\n\n* PLEASE NOTE: If you accept the free Pro, you will still see the Inactive or Unsubscribed status on the Pure Writer Pro page, that\'s okay, just ignore it and you\'ll be able to use all the Pro features.</string>
+  <string name="goodHeartOK" translatable="false">OK (you will get all Pure Writer Pro functions for free)</string>
+  <string name="goodHeartNote" translatable="false">PLEASE NOTE: If you accept the free Pro, you will still see the Inactive or Unsubscribed status on the Pure Writer Pro page, that\'s okay, just ignore it and you\'ll be able to use all the Pro features.</string>
   <string name="limit1080wForPreviewImages">Limit max width to 1080</string>
   <string name="dailyStatistics">Daily statistics</string>
   <string name="dailyExtraNote">* Note: Because there are articles earlier than <i>Daily Statistics</i> on this day, some of the above data are additional inferred data, for example, the writing time may be calculated as article last updated time - article creation time, which may not be accurate, for reference only!</string>
@@ -761,4 +773,24 @@
   <string name="forcedPortrait">Force screen orientation to portrait</string>
   <string name="forcedPortraitSummary">This app will use portrait mode whether you have Auto-rotate turned on or not.</string>
   <string name="titleAsAWordForACountSummary2">Take a word as a count</string>
+  <string name="cloudSync">Cloud sync</string>
+  <string name="pdf" translatable="false">PDF</string>
+  <string name="cloudSyncMode">Cloud sync mode options</string>
+  <string name="autoSwitchThemesAndNightMode">Auto switch themes and night mode</string>
+  <string name="syncFailedNotSign">Cloud sync failed, please log in to your cloud storage account first!</string>
+  <string name="remindMeNextTime">Remind me next time</string>
+  <string name="alwaysSyncGuideMessage">You clicked the sync button and the sync is about to start. This sync button will automatically appear when you need to sync, and you need to click it to sync the current content with the cloud storage.\n\n‼️\nSometimes, this button fails to detect the content that needs to be synchronized at the first time. If you want to synchronize immediately, you can click the ⊕ button at the bottom of the editor, and then you can immediately see the synchronization button and trigger a synchronization immediately.</string>
+  <string name="important">Important</string>
+  <string name="cloudSyncSummaryBasic">Auto synchronize data such as articles between multiple devices</string>
+  <string name="thisDevice">This device</string>
+  <string name="otherSyncDevices">Other sync devices</string>
+  <string name="cloudSyncReadme">You are about to enable the \"Cloud Sync\" function. Before this, you need to carefully understand some precautions. This is very important. Otherwise, you may lose some texts. Please be aware of:\n\n* The cloud backup and cloud synchronization of Pure Writer are completely free functions. We urge everyone to read the following content carefully, so that even if this function is provided for free, we will feel that it is worthwhile to develop these functions. Thank you for your understanding and cooperation! If in the future we find that many people are unwilling to understand the following, <b>we may abandon the cloud sync function</b>(‼️).\n\n* If you click the \"OK\" button below, you agree to the following content, and Pure Writer will immediately perform a cloud synchronization.\n\n* Currently the cloud storage for cloud synchronization is the same as your cloud backup storage.\n\n* If you have selected \"Manual\" mode in \"Cloud Sync Mode Options\", then when there is content that needs to be synced, a sync button will appear at the bottom of the editor, you need to click this button every time to sync with cloud storage.\n\n* You need to ensure that all devices are installed with Pure Writer v20.0 or above, and are logged into the same cloud backup storage, so that these devices can synchronize content with each other, that is, if the cloud backup storage on different devices is not the same one account, then these devices cannot be synchronized with each other.\n\n* Pure Writer will automatically query the cloud storage for content that needs to be synchronized at regular intervals. If there are new changes, a synchronization button will be displayed at the bottom of the editor, and you can click the button to synchronize at an appropriate time. Normally it will be checked every 20 seconds, or 10 seconds when there is a Wi-Fi network. This network request consumes very little traffic and you don\'t need to worry about it.\n\n* Most important (‼️): Before syncing, you cannot edit the same article on two devices, otherwise the later edited content will directly overwrite the earlier content, which will cause you to lose part of the text. If you need to edit the same article on two devices, the correct way is to click the sync button to sync the content to the cloud storage after editing the article on one device, and then click the sync button on the other device after the synchronization is complete to sync content to this device, so you can edit the latest articles on this device.\n\n* If you can\'t understand what the previous prompt is saying, it is recommended that you do not enable the cloud sync function, otherwise some texts will be lost!\n\n* Pure Writer will package and backup all your original data once before each synchronization. You can click \"Restore Backup\" on the Backups page to see it.\n\n* Always remember that Pure Writer has \"History\" and \"Auto Backup\" functions.\n\n* Cloud sync does not support Markdown images.</string>
+  <string name="aboutCloudSync"><i>About Cloud Sync</i></string>
+  <string name="syncCategoryTip">Need to log in to the cloud storage account above to enable the cloud sync option below</string>
+  <string name="cloudSyncModeNames1">Manually: Manually click the Sync button at the bottom of the editor each time you need to sync. This mode is suitable for cloud storage with traffic and request frequency limits.\n</string>
+  <string name="cloudSyncModeNames2">Semi-automatic: Every time there is a text change and the soft keyboard is closed, the synchronization will be performed automatically, and the interval between two automatic synchronizations will be at least 20 seconds. This mode is suitable for cloud storage with no traffic and request frequency restrictions, such as Dropbox or GoogleDrive.</string>
+  <string name="cloudSyncModeDefault" translatable="false">SA</string>
+  <string name="syncBeforeEditingToAvoidConflicts">Sync before editing to avoid conflicts</string>
+  <string name="okSyncIt">OK, sync it</string>
+  <string name="messageSyncBeforeEditingToAvoidConflicts">You have modified the current article on other devices, in order to avoid conflicts, please synchronize first, otherwise your modifications on other devices may be discarded.</string>
 </resources>

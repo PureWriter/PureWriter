@@ -185,7 +185,7 @@
   <string name="fixedSync">Bridge</string>
   <string name="bridgeUpload">Bridge: Upload</string>
   <string name="bridgeDownload">Bridge: Fetch</string>
-  <string name="backupSettingTitle">Varmuuskopioida</string>
+  <string name="backupSettingTitle">Varmuuskopiointi ja pilvisynkronointi</string>
   <string name="backupSettingSummary">Varmuuskopiointi, palautus, Dropbox, WebDAV, Google Drive</string>
   <string name="syncNetwork">Pilvivarmuuskopio</string>
   <string name="syncOnlyWifi">Synkronoi varmuuskopio pilvipalveluun vain silloin, kun Wi-Fi on käytössä</string>
@@ -556,7 +556,7 @@
   <string name="cursorJoyModePosition0">Anti-inadvertent touch mode, oikealla</string>
   <string name="cursorJoyModePosition1">\"Siirry suoraan koskettamalla\"-tila, pikanäppäinluettelossa</string>
   <string name="typewriterModeMode1">Rivitila</string>
-  <string name="restoreOptionsMessage">Tarvitseeko tätä varmuuskopiota käyttää paikallisen sisällön korvaamiseen vai yhdistämiseen paikalliseen sisältöön?\n\nHuomaa: Jos valitset yhdistämisen, varmuuskopiotiedostossa olevia asetuksia ja pilvivarmistustilitietoja ei yhdistetä, ja sinun on ehkä määritettävä ne uudelleen manuaalisesti.\n\nJos muutat artikkelien järjestystä tai poistat artikkeleita, näitä toimintoja ei myöskään yhdistetä, koska tämä aiheuttaa ristiriitoja. <b>Suosittelemme siis käyttämään \"overwrite\" -ohjelmaa, ja jos muutat tietoja yhdessä laitteessa, sinun on heti synkronoitava tiedot toisessa laitteessa \"overwrite\" -ohjelman kautta. </b></string>
+  <string name="restoreOptionsMessage">Tarvitseeko tätä varmuuskopiota käyttää paikallisen sisällön korvaamiseen vai yhdistämiseen paikalliseen sisältöön?\n\nHuomaa: Jos valitset yhdistämisen, varmuuskopiotiedostossa olevia asetuksia ja pilvivarmistustilitietoja ei yhdistetä, ja sinun on ehkä määritettävä ne uudelleen manuaalisesti.</string>
   <string name="merge">Yhdistää</string>
   <string name="checkIntegrityOfBackup">Tarkistaa varmuuskopiotiedoston eheyden...</string>
   <string name="noteBeforeRestoringBackup">Tehdä varmuuskopio nykyisistä tiedoista ennen kuin kaikki alkaa...</string>
@@ -595,7 +595,7 @@
   <string name="switchToGooglePlayPaymentMethod">Vaihda Google Play -maksutapaan</string>
   <string name="skuActive">Aktiivinen</string>
   <string name="askUnsubscribe"><u>Tilauksen peruminen?</u></string>
-  <string name="notesForGoogleSkus">Tärkeää:\n\n* Koska Google ei tarjoa käyttöliittymää tilausten peruuttamista varten, jos haluat peruuttaa tilauksen, sinun on jatkettava klikkaamalla tilaustasi tai yllä olevaa \"Peruuta tilaus?\".\n\n* Kun olet peruuttanut tämän sovelluksen tilauksen Google Play:ssä, sovellus ei saa viimeisintä tilaa välittömästi, joten näet, että tilauskohde on edelleen \"aktiivinen\" tilassa tällä sivulla. Tämä on normaali ilmiö. Saat oikean tuloksen seuraavana päivänä tai odota nykyisen tilausjakson päättymiseen asti.\n\n* Jos aiot vaihtaa tilauksen \"Lifetime\"-kohteeseen, sinun on ensin peruutettava tilauksesi ja sitten ostettava \"Lifetime\"-kohde. Tämä sovellus ei voi peruuttaa tilausta itsestään.\n\n* Jos maksuprosessin aikana ilmenee DF-DFERH-01-virhe, yritä käynnistää laite uudelleen ja yritä uudelleen.\n\n* Maksutulos sidotaan automaattisesti järjestelmän Google-tiliin, kiitos!</string>
+  <string name="notesForGoogleSkus">Tärkeää:\n\n* Jos maksoit ja asensit Pure Writerin uudelleen, mutta se ei saanut maksettua tilaa ajoissa, voit palauttaa sen noudattamalla tätä opetusohjelmaa: https://t.me/s/PureWriter/880\n\n* Koska Google ei tarjoa käyttöliittymää tilausten peruuttamista varten, jos haluat peruuttaa tilauksen, sinun on jatkettava klikkaamalla tilaustasi tai yllä olevaa \"Peruuta tilaus?\".\n\n* Kun olet peruuttanut tämän sovelluksen tilauksen Google Play:ssä, sovellus ei saa viimeisintä tilaa välittömästi, joten näet, että tilauskohde on edelleen \"aktiivinen\" tilassa tällä sivulla. Tämä on normaali ilmiö. Saat oikean tuloksen seuraavana päivänä tai odota nykyisen tilausjakson päättymiseen asti.\n\n* Jos aiot vaihtaa tilauksen \"Lifetime\"-kohteeseen, sinun on ensin peruutettava tilauksesi ja sitten ostettava \"Lifetime\"-kohde. Tämä sovellus ei voi peruuttaa tilausta itsestään.\n\n* Jos maksuprosessin aikana ilmenee DF-DFERH-01-virhe, yritä käynnistää laite uudelleen ja yritä uudelleen.\n\n* Maksutulos sidotaan automaattisesti järjestelmän Google-tiliin, kiitos!</string>
   .
   <string name="activating">Aktivoidaan...</string>
   <string name="updating">Päivittää...</string>
@@ -687,4 +687,29 @@
   <string name="databaseDowngradeError">Tietokannan alennusvirhe</string>
   <string name="databaseDowngradeErrorMessage">Pure Writer on palauttanut tai käyttänyt tietokantatiedostoa Pure Writerin uudemmasta versiosta. Pure Writerin nykyinen versio ei voi käsitellä tietokantaa. Päivitä Pure Writer uusimpaan versioon ratkaistaksesi tämän ongelman.\n\nJos et päivitä, ohjelma ei toimi kunnolla, ei se tarkoita, että aiomme rajoittaa sinua, mutta nykyinen vanha versio ei teknisesti pysty käsittelemään tietokannan uutta versiota. Ole hyvä ja ymmärrä ja päivitä uusimpaan versioon ratkaistaksesi sen.\n\nHanki uusin versio: https://t.me/s/PureWriter</string>
   <string name="openFolder">Avaa kansio</string>
+  <string name="beforeBackupOverwritesLocal">ennen_kuin_varmuuskopiointi_korvaa_paikallisen</string>
+  <string name="beforeBackupIsMergedIntoLocal">ennen_kuin_varmuuskopio_on_yhdistetty_paikalliseen</string>
+  <string name="updateABook">Päivitä kirja</string>
+  <string name="deleteABook">Poista kirja</string>
+  <string name="updateACategory">Päivitä luokka</string>
+  <string name="deleteACategory">Poista luokka</string>
+  <string name="cloudSync">Pilvien synkronointi</string>
+  <string name="autoSwitchThemesAndNightMode">Vaihda teemat ja yötila automaattisesti</string>
+  <string name="syncFailedNotSign">Pilvisynkronointi epäonnistui, kirjaudu ensin sisään pilvitallennustilille!</string>
+  <string name="remindMeNextTime">Muistuta minua seuraavan kerran</string>
+  <string name="alwaysSyncGuideMessage">Napsautit synkronointipainiketta ja synkronointi on alkamassa. Tämä synkronointipainike tulee näkyviin automaattisesti, kun sinun on synkronoitava, ja sinun on napsautettava sitä synkronoidaksesi nykyinen sisältö pilvitallennustilan kanssa.\n\n‼️\nJoskus tämä painike ei havaitse synkronoitavaa sisältöä ensimmäinen kerta. Jos haluat synkronoida välittömästi, voit napsauttaa editorin alareunassa olevaa ⊕-painiketta, jolloin näet välittömästi synkronointipainikkeen ja käynnistät synkronoinnin välittömästi.</string>
+  <string name="important">Tärkeää</string>
+  <string name="cloudSyncSummaryBasic">Synkronoi automaattisesti tietoja, kuten artikkeleita useiden laitteiden välillä</string>
+  <string name="thisDevice">Tämä laite</string>
+  <string name="otherSyncDevices">Muut synkronointilaitteet</string>
+  <string name="cloudSyncReadme">Olet ottamassa käyttöön \"Cloud synchronization\" -toiminnon. Ennen tätä sinun on ymmärrettävä huolellisesti joitain varotoimia. Tämä on hyvin tärkeää. Muuten saatat menettää osan teksteistä. Huomaa:\n\n* Pure Writerin pilvivarmuuskopiointi ja pilvisynkronointi ovat täysin ilmaisia ​​toimintoja. Kehotamme kaikkia lukemaan seuraavat sisällöt huolellisesti, jotta vaikka tämä toiminto tarjotaan ilmaiseksi, koemme, että näitä toimintoja kannattaa kehittää. Kiitos ymmärryksestäsi ja yhteistyöstäsi! Jos tulevaisuudessa huomaamme, että monet ihmiset eivät halua ymmärtää seuraavaa, saatamme hylätä pilvisynkronointitoiminnon (‼️).\n\n* Jos napsautat alla olevaa \"OK\"-painiketta, hyväksyt seuraavan sisällön , ja Pure Writer suorittaa välittömästi pilvisynkronoinnin.\n\n* Tällä hetkellä pilvitallennustila pilvisynkronointia varten on sama kuin pilvitallennus.\n\n* Jos olet valinnut \"Manuaalinen\" tilan \"Cloud Sync Mode Options\" -kohdassa, silloin kun synkronoitavaa sisältöä on, editorin alareunaan tulee synkronointipainike. Sinun on napsautettava tätä painiketta joka kerta synkronoidaksesi.\n\n* Sinun on varmistettava, että kaikkiin laitteisiin on asennettu Pure Writer v20.0 tai uudempi ja että ne ovat kirjautuneena samaan pilvitallennustilaan. , jotta nämä laitteet voivat synkronoida sisältöä keskenään, eli jos eri laitteiden pilvitallennustila ei ole sama tili, näitä laitteita ei voida synkronoida keskenään.\n\n* Pure Writer kysyy automaattisesti pilvitallennus sisällölle, joka on synkronoitava säännöllisin väliajoin. Jos uusia muutoksia on tehty, editorin alareunassa näkyy synkronointipainike, ja voit napsauttaa painiketta synkronoidaksesi sopivana ajankohtana. Normaalisti se tarkistetaan 20 sekunnin välein tai 10 sekunnin välein, kun Wi-Fi-verkko on käytettävissä. Tämä verkkopyyntö kuluttaa hyvin vähän liikennettä, eikä siitä tarvitse huolehtia.\n\n* Tärkein (‼️): Ennen synkronointia et voi muokata samaa artikkelia kahdella laitteella, muuten myöhemmin muokattu sisältö siirtyy suoraan Korvaa aikaisempi sisältö, jolloin menetät osan tekstistä. Jos haluat muokata samaa artikkelia kahdella laitteella, oikea tapa on napsauttaa synkronointipainiketta synkronoidaksesi sisällön pilvitallennustilaan, kun olet muokannut artikkelia yhdellä laitteella, ja napsauta sitten synkronointipainiketta toisessa laitteessa synkronoinnin jälkeen. on valmis sisällön synkronoimiseksi tälle laitteelle, joten voit muokata uusimpia artikkeleita tällä laitteella.\n\n* Jos et ymmärrä, mitä edellinen kehote sanoo, on suositeltavaa, että et ota pilvisynkronointia käyttöön toiminto, muuten osa teksteistä katoaa!\n\n* Pure Writer pakkaa ja varmuuskopioi kaikki alkuperäiset tietosi kerran ennen jokaista synkronointia. Näet sen napsauttamalla \"Palauta varmuuskopio\" Varmuuskopiot-sivulla.\n\n* Muista aina, että Pure Writer sisältää \"Historia\"- ja \"Automaattinen varmuuskopio\"-toiminnot.\n\n* Pilvisynkronointi ei tue Markdown-kuvia.</string>
+  <string name="beforeSync">ennen_synkronointia</string>
+  <string name="aboutCloudSync"><i>Tietoja pilven synkronoinnista</i></string>
+  <string name="syncCategoryTip">Sinun on kirjauduttava sisään yllä olevalle pilvitallennustilille ottaaksesi käyttöön alla olevan pilvisynkronointivaihtoehdon</string>
+  <string name="cloudSyncMode">Pilvisynkronointitilan asetukset</string>
+  <string name="cloudSyncModeNames1">Manuaalisesti: Napsauta manuaalisesti editorin alareunassa olevaa Synkronoi-painiketta aina, kun sinun on synkronoitava. Tämä tila sopii pilvitallennustilaan, jossa on liikenne- ja pyyntötaajuusrajoituksia.\n</string>
+  <string name="cloudSyncModeNames2">Puoliautomaattinen: Aina kun tekstiä vaihdetaan ja pehmeä näppäimistö suljetaan, synkronointi suoritetaan automaattisesti ja kahden automaattisen synkronoinnin välinen aika on vähintään 20 sekuntia. Tämä tila sopii pilvitallennustilaan ilman liikenne- ja pyyntötaajuusrajoituksia, kuten Dropbox tai GoogleDrive.</string>
+  <string name="syncBeforeEditingToAvoidConflicts">Synkronoi ennen muokkaamista ristiriitojen välttämiseksi</string>
+  <string name="okSyncIt">OK, synkronoi se</string>
+  <string name="messageSyncBeforeEditingToAvoidConflicts">Olet muokannut nykyistä artikkelia muissa laitteissa. Välttääksesi ristiriidat, synkronoi ensin, muuten muilla laitteilla tekemäsi muutokset voidaan hylätä.</string>
 </resources>

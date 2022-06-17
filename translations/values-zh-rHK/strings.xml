@@ -188,8 +188,8 @@
   <string name="tipLandscapeOrientation">橫屏模式下請使用外接鍵盤</string>
   <string name="promptShortcutOrder">排序</string>
   <string name="editShortcut">編輯快速輸入項</string>
-  <string name="backupSettingTitle">備份與雲備份</string>
-  <string name="backupSettingSummary">備份、復原、Dropbox、WebDAV、Google Drive</string>
+  <string name="backupSettingTitle">備份、雲備份、雲同步</string>
+  <string name="backupSettingSummary">備份、恢復、雲同步、Dropbox、WebDAV、GoogleDrive</string>
   <string name="syncNetwork">雲備份網絡</string>
   <string name="syncOnlyWifi">只在 Wi-Fi 網絡下才允許自動備份到雲盤</string>
   <string name="syncAllNetworks">在所有網絡下都允許自動備份到雲盤</string>
@@ -446,7 +446,7 @@
 |
 |        #### 查找 & 替換
 |
-|        您可以在任意範圍內查找目標關鍵詞，並批量替換它們：
+|        您可以在任意範圍內查找目標高亮詞彙，並批量替換它們：
 |
 |        ![圖片](https://gitee.com/PureWriter/resources/raw/master/pro/4.webp)
 |
@@ -496,7 +496,7 @@
   <string name="deleteCompletely">徹底刪除</string>
   <string name="regex">正則表達式</string>
   <string name="searchArticles">搜索文章 / 快速跳轉到某文章</string>
-  <string name="searchTip">提示: 可通過換行輸入多個關鍵詞聯合搜索，但結果中僅高亮首個關鍵詞</string>
+  <string name="searchTip">提示: 可通過換行輸入多個高亮詞彙聯合搜索，但結果中僅高亮首個高亮詞彙</string>
   <string name="duplicate">創建副本</string>
   <string name="scrollToHideWordCount">滾動以隱藏「字數統計」</string>
   <string name="tipGoogleDriveAppScope">提示：由於 Google Drive 應用私有目錄對用戶不可見，因此「雲讀寫」將自動關閉。</string>
@@ -587,7 +587,7 @@
   <string name="cursorJoyModePosition1">「可直接觸摸移動」模式，在快捷輸入列表裏</string>
   <string name="typewriterModeMode0">「高亮當前段落、淡化其他段落」模式</string>
   <string name="typewriterModeMode1">「高亮當前行、淡化其他行」模式</string>
-  <string name="restoreOptionsMessage">您需要使用這個備份來覆蓋本地內容？還是合併加入本地內容？\n\n注意：若您選擇「合併」，那麼存在於備份文件中的設置項和雲備份賬號訊息將不會被合併，您可能需要重新手動配置它們。\n\n另外，您如果修改了文章順序或者刪除文章，這些操作也不會被合併，因為這會引起衝突。<b>因此我們更建議您使用「覆蓋」，並且若在一個設備上修改了數據後應該立即在另一個設備上通過「覆蓋」把數據同步過去。</b></string>
+  <string name="restoreOptionsMessage">您需要使用這個備份來覆蓋本地內容？還是合併加入本地內容？\n\n注意：若您選擇「合併」，那麼存在於備份文件中的設置項和雲備份賬號訊息將不會被合併，您可能需要重新手動配置它們。</string>
   <string name="merge">合併</string>
   <string name="merging">合併中…</string>
   <string name="checkIntegrityOfBackup">檢查備份文件完整性…</string>
@@ -621,7 +621,7 @@
   <string name="switchToAlipayPaymentMethod">切換為支付寶付費方式</string>
   <string name="switchToGooglePlayPaymentMethod">切換為 Google Play 付費方式</string>
   <string name="askUnsubscribe"><u>取消訂閱？</u></string>
-  <string name="notesForGoogleSkus">重要說明:\n\n* 由於 Google 並沒有提供取消訂閱的接口給應用，因此如果您需要取消訂閱，您需要自行點擊您的訂閱項目或者上方的「取消訂閱？」按鈕進行操作。\n\n* 當您在 Google Play 取消本應用的訂閱後，本應用並不能立即接收到最新狀態，因此您將會看到該訂閱項在本頁面中仍然處於「有效」狀態，這是正常現象，一般到第二天會得到正確結果，或等到當前訂閱週期結束。\n\n* 如果您打算從訂閱項目轉為「終身」項目，您應該先取消您的訂閱項，再購買「終身」項目，本應用無法自行取消您的訂閱項。\n\n* 如果您在付費過程中遇到 DF-DFERH-01 錯誤，請嘗試重啟您的設備後重試即可。\n\n* 付費結果將自動綁定到您的系統 Google 帳號上，感謝支援！</string>
+  <string name="notesForGoogleSkus">重要說明:\n\n* 如果您已付費並重新安裝純純寫作，但它沒有及時獲得付費狀態，您可以按照這個教學復原它：https://t.me/s/PureWriter/880\n\n* 由於 Google 並沒有提供取消訂閱的接口給應用，因此如果您需要取消訂閱，您需要自行點擊您的訂閱項目或者上方的「取消訂閱？」按鈕進行操作。\n\n* 當您在 Google Play 取消本應用的訂閱後，本應用並不能立即接收到最新狀態，因此您將會看到該訂閱項在本頁面中仍然處於「有效」狀態，這是正常現象，一般到第二天會得到正確結果，或等到當前訂閱週期結束。\n\n* 如果您打算從訂閱項目轉為「終身」項目，您應該先取消您的訂閱項，再購買「終身」項目，本應用無法自行取消您的訂閱項。\n\n* 如果您在付費過程中遇到 DF-DFERH-01 錯誤，請嘗試重啟您的設備後重試即可。\n\n* 付費結果將自動綁定到您的系統 Google 帳號上，感謝支援！</string>
   <string name="skuActive">有效</string>
   <string name="activating">啟動中…</string>
   <string name="updating">正在更新…</string>
@@ -653,25 +653,25 @@
   <string name="useAppFont">使用應用字體</string>
   <string name="useSystemFont">使用系統字體</string>
   <string name="tipBadThemeBackground">當前選擇的背景圖片或顏色與當前主題的字體顏色不匹配，請重新選擇，如果您認為此提示錯誤，請忽略此提示。</string>
-  <string name="keywordDetection">敏感詞</string>
+  <string name="keywordDetection">高亮詞彙</string>
   <string name="confirmDeletion">確認刪除</string>
-  <string name="addAKeyword">新增敏感詞</string>
-  <string name="clearAllKeywords">清空所有敏感詞</string>
-  <string name="pleaseSeeTheKeywordsFile">請見敏感詞文件</string>
+  <string name="addAKeyword">新增高亮詞彙</string>
+  <string name="clearAllKeywords">清空所有高亮詞彙</string>
+  <string name="pleaseSeeTheKeywordsFile">請見高亮詞彙文件</string>
   <string name="export">導出</string>
   <string name="import2">導入</string>
-  <string name="keywordsAreAsFollow">敏感詞內容如下，一行一個</string>
-  <string name="tipEmptyKeywords">當前[敏感詞]庫為空，您可以點擊頂部的添加或導入按鈕導入敏感詞，符合敏感詞的文本將會在編輯器中被實時標註出來。</string>
-  <string name="keywordsManagement">敏感詞管理</string>
-  <string name="uploadingKeywordsToCloud">正在上傳敏感詞到雲端...</string>
-  <string name="downloadingKeywordsFromCloud">正在從雲端下載敏感詞...</string>
-  <string name="keywordRetrieval">敏感詞檢索</string>
+  <string name="keywordsAreAsFollow">高亮詞彙內容如下，一行一個</string>
+  <string name="tipEmptyKeywords">當前[高亮詞彙]庫為空，您可以點擊頂部的添加或導入按鈕導入高亮詞彙，符合高亮詞彙的文本將會在編輯器中被實時標註出來。</string>
+  <string name="keywordsManagement">高亮詞彙管理</string>
+  <string name="uploadingKeywordsToCloud">正在上傳高亮詞彙到雲端...</string>
+  <string name="downloadingKeywordsFromCloud">正在從雲端下載高亮詞彙...</string>
+  <string name="keywordRetrieval">高亮詞彙檢索</string>
   <string name="retrieveCurrentArticle">檢索當前文章</string>
   <string name="previousOne">上一個</string>
   <string name="nextOne">下一個</string>
   <string name="uploadToCloudStorage">上傳到雲端硬碟</string>
   <string name="downloadFromCloudStorage">從雲端硬碟拉取</string>
-  <string name="disableKeywordsFeature">禁用敏感詞功能</string>
+  <string name="disableKeywordsFeature">禁用高亮詞彙功能</string>
   <string name="filter">過濾或搜索</string>
   <string name="limit1080wForPreviewImages">將導出圖片的最大寬度限制為 1080</string>
 
@@ -708,4 +708,40 @@
   <string name="forcedPortraitSummary">無論您是否打開自動旋轉，此應用程序都將使用縱向模式。 </string>
   <string name="titleAsAWordForACountSummary2">一個單字整體算作一個計數，而不是每個字母都算一個計數</string>
   <string name="openFolder">打開文件夾</string>
+  <string name="beforeBackupOverwritesLocal">在備份覆蓋本地之前</string>
+  <string name="beforeBackupIsMergedIntoLocal">在備份合併入本地之前</string>
+  <string name="scrollToHideFAB">滾動以隱藏編輯器右下角的⊕按鈕</string>
+  <string name="scrollToHideFABSummary">如果關閉，則右下角的按鈕將固定顯示</string>
+  <string name="tip">溫馨提示</string>
+  <string name="needCursorTip">需要先點擊文字置入游標再進行操作</string>
+  <string name="updateABook">更新書</string>
+  <string name="deleteABook">刪除書</string>
+  <string name="updateACategory">更新卷</string>
+  <string name="deleteACategory">刪除卷</string>
+  <string name="deleteAnExistingArticle">刪除文章</string>
+  <string name="deleteAShortcut">刪除快捷輸入項</string>
+  <string name="updateAShortcut">更新快捷輸入項</string>
+  <string name="totalNumberOfNewTimeMachineMessagesInsertedOrUpdated">插入或更新的時光機訊息數目</string>
+  <string name="totalNumberOfDailyUpdatedOrInserted">插入或更新的每日統計訊息數目</string>
+  <string name="beforeSync">同步之前</string>
+  <string name="autoSwitchThemesAndNightMode">自動切換主題與夜間模式</string>
+  <string name="syncFailedNotSign">雲同步失敗，請先登錄您的雲端硬碟帳號！</string>
+  <string name="cloudSyncMode">雲同步模式選項</string>
+  <string name="remindMeNextTime">下次再提示我</string>
+  <string name="alwaysSyncGuideMessage">您點擊了同步按鈕，即將進行同步。這個同步按鈕會在您需要同步的時候適時自動出現，您需要適時點擊它才能將當前內容同步到雲端，或者與雲端內容同步。\n\n‼️\n有時，這個按鈕未能在第一時間探測到需要同步的內容，此時如果您想要立即同步，可以點擊右下角的 ⊕ 按鈕，然後您便可以立即看到同步按鈕進而立即觸發一次同步。</string>
+  <string name="important">重要說明</string>
+  <string name="cloudSyncSummaryBasic">自動在多設備間同步文章等內容</string>
+  <string name="thisDevice">本機</string>
+  <string name="otherSyncDevices">其他同步設備</string>
+  <string name="cloudSyncReadme">您即將啟用「雲同步」功能，在此之前，您需要仔細了解一些注意事項，這非常重要，否則可能會導致您丟失部分文本，請您知悉：\n\n* 純純寫作的雲備份和雲同步都是完全免費的功能，我們懇請大家仔細閱讀下面內容，這樣即使免費提供這個功能我們也會覺得開發這些功能是值得的，感謝您的理解與配合！<b>如果日後發現許多人不願理解以下內容，我們可能會放棄雲同步功能</b>(‼️)。\n\n* 您如果點擊下方的「OK」按鈕，表示您同意以下內容，純純寫作會立即進行一次雲同步。\n\n* 目前雲同步的雲端網路硬碟與您的雲備份網路硬碟是同一個。\n\n* 如果您在「雲同步模式選項」中選擇了「手動」模式，那麼當存在需要同步的內容時，在編輯器底部會出現一個同步按鈕，您需要每次點擊該按鈕才能將當前內容與雲端網路硬碟中的最新內容進行同步。\n\n* 您需要確保所有設備都安裝了純純寫作 v20.0 或以上版本，並且都登錄了同一個雲備份網路硬碟，這些設備才能相互同步內容，也就是說，如果不同設備上的雲備份網路硬碟不是同一個帳號，那麼這些設備是無法相互同步的。\n\n* 純純寫作會每隔一段時間自動查詢雲端硬碟中是否有需要同步的內容，如果有，則會在編輯器底部顯示同步按鈕，您可以適時點擊該按鈕進行同步。對於堅果雲端硬碟，每隔 30 秒進行一次。對於 Dropbox 和 Google Drive 每隔 20 秒或 10 秒，當有 Wi-Fi 網絡時是 10 秒。這個網絡請求耗費流量極少，您不需要擔心。\n\n* 最重要的(‼️)：進行同步之前，您不可以在兩個設備上編輯同一篇文章，否則較後修改的內容會直接覆蓋較前的內容，這會導致您丟失部分文本。如果您需要在兩個設備上編輯同一篇文章，正確的做法是，在一個設備上編輯文章後，點擊同步按鈕將內容同步到雲端硬碟，待同步完成後，再於另一個設備上點擊同步按鈕將雲端硬碟內容同步到這個設備，這樣以後您就可以在這個設備上編輯最新的文章了。\n\n* 如果您無法理解上一條在說甚麼，建議您不要啟用雲同步功能，否則會導致丟失部分文本！\n\n* 純純寫作在每次同步之前，都會將您原來的所有數據打包備份一次，您可以在備份頁面點擊「恢復備份」看到它。\n\n* 永遠記得純純寫作有「歷史記錄」和「自動備份」功能。\n\n* 雲同步不支持 Markdown 圖片。</string>
+  <string name="cloudSync">云同步</string>
+  <string name="backupAndSyncSuccessful">備份並同步成功</string>
+  <string name="aboutCloudSync">《關於云同步》</string>
+  <string name="syncCategoryTip">需要登錄上面的雲存儲賬號才能開啟下面的云同步選項</string>
+  <string name="cloudSyncModeNames1">手動：每次需要同步時，手動點擊編輯器底部的同步按鈕。此模式適用於有流量和請求頻次限制的雲端儲存空間，比如堅果雲。\n</string>
+  <string name="cloudSyncModeNames2">半自動：每次有文字變更且收起軟鍵盤時，自動進行同步，兩次自動同步間隔時間將最少為 20 秒。此模式適用於無流量和請求頻次限制的雲端儲存空間，比如 Dropbox 或 GoogleDrive，以及不怕死的堅果雲（🌚，其實還是可以試試的，純純寫作會在堅果雲過熱時暫停自動同步並提示您）。</string>
+  <string name="cloudSyncModeDefault" translatable="false">M</string>
+  <string name="syncBeforeEditingToAvoidConflicts">先同步再編輯以避免衝突</string>
+  <string name="okSyncIt">好的，同步它</string>
+  <string name="messageSyncBeforeEditingToAvoidConflicts">您在其他裝置上修改過目前文章，為了避免衝突，請您先同步再編輯目前文章，否則您在其他裝置上的修改內容可能會被丟棄。</string>
 </resources>
