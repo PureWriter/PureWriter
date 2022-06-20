@@ -739,7 +739,7 @@
   <string name="aboutCloudSync">《關於云同步》</string>
   <string name="syncCategoryTip">需要登錄上面的雲存儲賬號才能開啟下面的云同步選項</string>
   <string name="cloudSyncModeNames1">手動：每次需要同步時，手動點擊編輯器底部的同步按鈕。此模式適用於有流量和請求頻次限制的雲端儲存空間，比如堅果雲。\n</string>
-  <string name="cloudSyncModeNames2">半自動：每次有文字變更且收起軟鍵盤時，自動進行同步，兩次自動同步間隔時間將最少為 20 秒。此模式適用於無流量和請求頻次限制的雲端儲存空間，比如 Dropbox 或 GoogleDrive，以及不怕死的堅果雲（🌚，其實還是可以試試的，純純寫作會在堅果雲過熱時暫停自動同步並提示您）。</string>
+  <string name="cloudSyncModeNames2">半自動：每次有文字變更且收起軟鍵盤時，自動進行同步，兩次自動同步間隔時間將最少為 20 秒。此模式適用於無流量和請求頻次限制的雲端硬碟，比如 Dropbox 或 GoogleDrive。此外，其實堅果雲也是可以試試的，<b>純純寫作會在堅果雲過熱時暫停自動同步並提示您。</b></string>
   <string name="cloudSyncModeDefault" translatable="false">M</string>
   <string name="syncBeforeEditingToAvoidConflicts">先同步再編輯以避免衝突</string>
   <string name="okSyncIt">好的，同步它</string>
