@@ -793,4 +793,5 @@
   <string name="syncBeforeEditingToAvoidConflicts">Sync before editing to avoid conflicts</string>
   <string name="okSyncIt">OK, sync it</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">You have modified the current article on other devices, in order to avoid conflicts, please synchronize first, otherwise your modifications on other devices may be discarded.</string>
+  <string name="moveArticlesOfDeletedFolderToTrash">Move the articles inside the deleted folder to the Trash</string>
 </resources>
