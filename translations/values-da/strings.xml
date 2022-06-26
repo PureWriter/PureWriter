@@ -699,9 +699,10 @@
   <string name="syncCategoryTip">Skal logge ind på cloud storage-kontoen ovenfor for at aktivere cloud-synkroniseringsindstillingen nedenfor</string>
   <string name="cloudSyncMode">Muligheder for skysynkroniseringstilstand</string>
   <string name="cloudSyncModeNames1">Manuelt: Klik manuelt på knappen Synkroniser nederst i editoren, hver gang du skal synkronisere. Denne tilstand er velegnet til skylagring med trafik- og anmodningsfrekvensgrænser.\n</string>
-  <string name="cloudSyncModeNames2">Halvautomatisk: Hver gang der er en tekstændring, og det bløde tastatur lukkes, vil synkroniseringen blive udført automatisk, og intervallet mellem to automatiske synkroniseringer vil være mindst 20 sekunder. Denne tilstand er velegnet til skylagring uden trafik og anmodningsfrekvensbegrænsninger, såsom Dropbox eller GoogleDrive.</string>
+  <string name="cloudSyncModeNames2">Halvautomatisk: Hver gang der er en tekstændring, og det bløde tastatur lukkes, vil synkroniseringen blive udført automatisk, og intervallet mellem to automatiske synkroniseringer vil være mindst 6 sekunder. Denne tilstand er velegnet til skylagring uden trafik og anmodningsfrekvensbegrænsninger, såsom Dropbox eller GoogleDrive.</string>
   <string name="syncBeforeEditingToAvoidConflicts">Synkroniser før redigering for at undgå konflikter</string>
   <string name="okSyncIt">OK, synkroniser det</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Du har ændret den aktuelle artikel på andre enheder, for at undgå konflikter, synkroniser venligst først, ellers kan dine ændringer på andre enheder blive kasseret.</string>
+  <string name="tts">TTS (læs din engagerede tekst højt for at hjælpe dig med at undgå stavefejl)</string>
 </resources>
 

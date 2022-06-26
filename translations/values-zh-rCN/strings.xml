@@ -738,10 +738,11 @@
   <string name="aboutCloudSync">《关于云同步》</string>
   <string name="syncCategoryTip">需要在上方登录云盘帐号才能启用下方的云同步选项</string>
   <string name="cloudSyncModeNames1">手动：每次需要同步时，手动点击编辑器底部的同步按钮。此模式适用于有流量和请求频次限制的云盘，比如坚果云。\n</string>
-  <string name="cloudSyncModeNames2">半自动：每次有文本变更且收起软键盘时，自动进行同步，两次自动同步间隔时间将最少为 20 秒。此模式适用于无流量和请求频次限制的云盘，比如 Dropbox 或 GoogleDrive。此外，其实坚果云也是可以试试的，<b>纯纯写作会在坚果云过热时暂停自动同步并提示您。</b></string>
+  <string name="cloudSyncModeNames2">半自动：每次有文本变更且收起软键盘时，自动进行同步，两次自动同步间隔时间将最少为 6 秒。此模式适用于无流量和请求频次限制的云盘，比如 Dropbox 或 GoogleDrive。此外，其实坚果云也是可以试试的，<b>纯纯写作会在坚果云过热时暂停自动同步并提示您。</b></string>
   <string name="cloudSyncModeDefault" translatable="false">SA</string>
   <string name="syncBeforeEditingToAvoidConflicts">先同步再编辑以避免冲突</string>
   <string name="okSyncIt">好的，同步它</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">您在其他设备上修改过当前文章，为了避免冲突，请您先同步再编辑当前文章，否则您在其他设备上的修改内容可能会被丢弃。</string>
   <string name="moveArticlesOfDeletedFolderToTrash">将被删除的文件夹内部的文章移到废纸篓里</string>
+  <string name="tts">TTS (读出您输入的文本以帮您避免错别字)</string>
 </resources>

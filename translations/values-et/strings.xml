@@ -701,8 +701,9 @@
   <string name="syncCategoryTip">Peate logima sisse ülalolevale pilvesalvestuse kontole, et lubada allpool pilvesünkroonimine</string>
   <string name="cloudSyncMode">Pilvesünkroonimisrežiimi valikud</string>
   <string name="cloudSyncModeNames1">Käsitsi: iga kord, kui peate sünkroonima, klõpsake redaktori allosas nuppu Sünkrooni käsitsi. See režiim sobib pilvesalvestuseks koos liikluse ja päringu sageduspiirangutega.\n</string>
-  <string name="cloudSyncModeNames2">Poolautomaatne: iga kord, kui toimub tekstimuutus ja pehme klaviatuur suletakse, toimub sünkroonimine automaatselt ja kahe automaatse sünkroonimise vaheline intervall on vähemalt 20 sekundit. See režiim sobib pilvesalvestuseks ilma liiklus- ja päringusageduspiiranguteta, näiteks Dropbox või GoogleDrive.</string>
+  <string name="cloudSyncModeNames2">Poolautomaatne: iga kord, kui toimub tekstimuutus ja pehme klaviatuur suletakse, toimub sünkroonimine automaatselt ja kahe automaatse sünkroonimise vaheline intervall on vähemalt 6 sekundit. See režiim sobib pilvesalvestuseks ilma liiklus- ja päringusageduspiiranguteta, näiteks Dropbox või GoogleDrive.</string>
   <string name="syncBeforeEditingToAvoidConflicts">Konfliktide vältimiseks sünkroonige enne muutmist</string>
   <string name="okSyncIt">OK, sünkroonige</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Olete muutnud praegust artiklit teistes seadmetes. Konfliktide vältimiseks sünkroonige esmalt, vastasel juhul võidakse teistes seadmetes tehtud muudatustest loobuda.</string>
+  <string name="tts">TTS (õigekirjavigade vältimiseks lugege oma pühendunud tekst valjusti)</string>
 </resources>

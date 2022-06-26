@@ -697,8 +697,9 @@
   <string name="syncCategoryTip">Moet inloggen op het bovenstaande cloudopslagaccount om de onderstaande cloudsynchronisatie-optie in te schakelen</string>
   <string name="cloudSyncMode">Opties voor cloudsynchronisatiemodus</string>
   <string name="cloudSyncModeNames1">Handmatig: Klik elke keer dat u wilt synchroniseren handmatig op de knop Synchroniseren onder aan de editor. Deze modus is geschikt voor cloudopslag met limieten voor verkeer en verzoekfrequentie.\n</string>
-  <string name="cloudSyncModeNames2">Halfautomatisch: elke keer dat er een tekstwijziging is en het zachte toetsenbord wordt gesloten, wordt de synchronisatie automatisch uitgevoerd en is het interval tussen twee automatische synchronisaties minimaal 20 seconden. Deze modus is geschikt voor cloudopslag zonder verkeer en beperking van de frequentie van verzoeken, zoals Dropbox of GoogleDrive.</string>
+  <string name="cloudSyncModeNames2">Halfautomatisch: elke keer dat er een tekstwijziging is en het zachte toetsenbord wordt gesloten, wordt de synchronisatie automatisch uitgevoerd en is het interval tussen twee automatische synchronisaties minimaal 6 seconden. Deze modus is geschikt voor cloudopslag zonder verkeer en beperking van de frequentie van verzoeken, zoals Dropbox of GoogleDrive.</string>
   <string name="syncBeforeEditingToAvoidConflicts">Synchroniseren voor het bewerken om conflicten te voorkomen</string>
   <string name="okSyncIt">OK, synchroniseer het</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Je hebt het huidige artikel op andere apparaten aangepast, om conflicten te voorkomen, synchroniseer eerst, anders kunnen je wijzigingen op andere apparaten worden genegeerd.</string>
+  <string name="tts">TTS (lees uw toegewijde tekst hardop om spelfouten te voorkomen)</string>
 </resources>

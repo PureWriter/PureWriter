@@ -695,8 +695,9 @@
   <string name="syncCategoryTip">Chcete-li povolit níže uvedenou možnost synchronizace s cloudem, musíte se přihlásit k účtu cloudového úložiště výše</string>
   <string name="cloudSyncMode">Možnosti režimu synchronizace s cloudem</string>
   <string name="cloudSyncModeNames1">Ručně: Pokaždé, když potřebujete synchronizovat, klikněte ručně na tlačítko Synchronizovat ve spodní části editoru. Tento režim je vhodný pro cloudové úložiště s omezením provozu a frekvence požadavků.\n</string>
-  <string name="cloudSyncModeNames2">Poloautomatické: Při každé změně textu a zavření softwarové klávesnice se synchronizace provede automaticky a interval mezi dvěma automatickými synchronizacemi bude alespoň 20 sekund. Tento režim je vhodný pro cloudová úložiště bez provozu a omezení frekvence požadavků, jako je Dropbox nebo GoogleDrive.</string>
+  <string name="cloudSyncModeNames2">Poloautomatické: Při každé změně textu a zavření softwarové klávesnice se synchronizace provede automaticky a interval mezi dvěma automatickými synchronizacemi bude alespoň 6 sekund. Tento režim je vhodný pro cloudová úložiště bez provozu a omezení frekvence požadavků, jako je Dropbox nebo GoogleDrive.</string>
   <string name="syncBeforeEditingToAvoidConflicts">Před úpravou synchronizujte, abyste předešli konfliktům</string>
   <string name="okSyncIt">OK, synchronizujte to</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Upravili jste aktuální článek na jiných zařízeních, abyste předešli konfliktům, nejprve jej prosím synchronizujte, jinak mohou být vaše úpravy na jiných zařízeních zahozeny.</string>
+  <string name="tts">TTS (Přečtěte si svůj odevzdaný text nahlas, abyste se vyhnuli pravopisným chybám)</string>
 </resources>

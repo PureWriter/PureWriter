@@ -685,8 +685,9 @@
   <string name="syncCategoryTip">Az alábbi felhőszinkronizálási lehetőség engedélyezéséhez be kell jelentkeznie a fenti felhőtárhely-fiókba</string>
   <string name="cloudSyncMode">Felhő szinkronizálási mód beállításai</string>
   <string name="cloudSyncModeNames1">Manuálisan: manuálisan kattintson a szerkesztő alján található Szinkronizálás gombra minden alkalommal, amikor szinkronizálni kell. Ez a mód felhőalapú tárolásra alkalmas forgalom- és kérési gyakoriságkorlátokkal.\n</string>
-  <string name="cloudSyncModeNames2">Félautomata: Minden alkalommal, amikor szövegváltás történik, és a billentyűzetet bezárja, a szinkronizálás automatikusan megtörténik, és két automatikus szinkronizálás közötti intervallum legalább 20 másodperc. Ez a mód alkalmas felhőalapú tárolásra forgalom- és kérési gyakoriság korlátozások nélkül, mint például a Dropbox vagy a GoogleDrive.</string>
+  <string name="cloudSyncModeNames2">Félautomata: Minden alkalommal, amikor szövegváltás történik, és a billentyűzetet bezárja, a szinkronizálás automatikusan megtörténik, és két automatikus szinkronizálás közötti intervallum legalább 6 másodperc. Ez a mód alkalmas felhőalapú tárolásra forgalom- és kérési gyakoriság korlátozások nélkül, mint például a Dropbox vagy a GoogleDrive.</string>
   <string name="syncBeforeEditingToAvoidConflicts">Szinkronizálás szerkesztés előtt az ütközések elkerülése érdekében</string>
   <string name="okSyncIt">OK, szinkronizálja</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Módosítottad a jelenlegi cikket más eszközökön. Az ütközések elkerülése érdekében először szinkronizáld, különben a többi eszközön végzett módosításaid elvehetők.</string>
+  <string name="tts">TTS (Olvasd fel az elkötelezett szövegedet hangosan, hogy elkerüld a helyesírási hibákat)</string>
 </resources>

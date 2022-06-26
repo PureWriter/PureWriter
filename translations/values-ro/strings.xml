@@ -694,8 +694,9 @@
   <string name="syncCategoryTip">Trebuie să vă conectați la contul de stocare în cloud de mai sus pentru a activa opțiunea de sincronizare în cloud de mai jos</string>
   <string name="cloudSyncMode">Opțiuni pentru modul de sincronizare în cloud</string>
   <string name="cloudSyncModeNames1">Manual: faceți clic manual pe butonul Sincronizare din partea de jos a editorului de fiecare dată când trebuie să sincronizați. Acest mod este potrivit pentru stocarea în cloud cu limite de trafic și frecvență de solicitare.\n</string>
-  <string name="cloudSyncModeNames2">Semi-automat: De fiecare dată când are loc o schimbare de text și tastatura soft este închisă, sincronizarea se va efectua automat, iar intervalul dintre două sincronizări automate va fi de cel puțin 20 de secunde. Acest mod este potrivit pentru stocarea în cloud fără restricții de trafic și de frecvență, cum ar fi Dropbox sau GoogleDrive.</string>
+  <string name="cloudSyncModeNames2">Semi-automat: De fiecare dată când are loc o schimbare de text și tastatura soft este închisă, sincronizarea se va efectua automat, iar intervalul dintre două sincronizări automate va fi de cel puțin 6 de secunde. Acest mod este potrivit pentru stocarea în cloud fără restricții de trafic și de frecvență, cum ar fi Dropbox sau GoogleDrive.</string>
   <string name="syncBeforeEditingToAvoidConflicts">Sincronizați înainte de editare pentru a evita conflictele</string>
   <string name="okSyncIt">OK, sincronizați-l</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Ați modificat articolul curent pe alte dispozitive, pentru a evita conflictele, vă rugăm să sincronizați mai întâi, altfel modificările dvs. de pe alte dispozitive pot fi eliminate.</string>
+  <string name="tts">TTS (Citiți cu voce tare textul angajat pentru a vă ajuta să evitați greșelile de ortografie)</string>
 </resources>

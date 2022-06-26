@@ -702,8 +702,9 @@
   <string name="syncCategoryTip">Vous devez vous connecter au compte de stockage cloud ci-dessus pour activer l\'option de synchronisation cloud ci-dessous</string>
   <string name="cloudSyncMode">Options de mode de synchronisation cloud</string>
   <string name="cloudSyncModeNames1">Manuellement : Cliquez manuellement sur le bouton Synchroniser en bas de l\'éditeur chaque fois que vous avez besoin de synchroniser. Ce mode convient au stockage dans le cloud avec des limites de trafic et de fréquence de requêtes.\n</string>
-  <string name="cloudSyncModeNames2">Semi-automatique : Chaque fois qu\'il y a un changement de texte et que le clavier logiciel est fermé, la synchronisation sera effectuée automatiquement et l\'intervalle entre deux synchronisations automatiques sera d\'au moins 20 secondes. Ce mode convient au stockage dans le cloud sans restrictions de trafic et de fréquence de demande, comme Dropbox ou GoogleDrive.</string>
+  <string name="cloudSyncModeNames2">Semi-automatique : Chaque fois qu\'il y a un changement de texte et que le clavier logiciel est fermé, la synchronisation sera effectuée automatiquement et l\'intervalle entre deux synchronisations automatiques sera d\'au moins 6 secondes. Ce mode convient au stockage dans le cloud sans restrictions de trafic et de fréquence de demande, comme Dropbox ou GoogleDrive.</string>
   <string name="syncBeforeEditingToAvoidConflicts">Synchroniser avant de modifier pour éviter les conflits</string>
   <string name="okSyncIt">OK, synchronisez-le</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Vous avez modifié l\'article actuel sur d\'autres appareils, afin d\'éviter les conflits, veuillez d\'abord synchroniser, sinon vos modifications sur d\'autres appareils pourraient être ignorées.</string>
+  <string name="tts">TTS (Lisez votre texte validé à haute voix pour vous aider à éviter les fautes d\'orthographe)</string>
 </resources>

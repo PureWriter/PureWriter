@@ -698,8 +698,9 @@
   <string name="syncCategoryTip">Lai iespējotu tālāk norādīto mākoņa sinhronizācijas opciju, jāpiesakās iepriekš minētajā mākoņkrātuves kontā</string>
   <string name="cloudSyncMode">Mākoņu sinhronizācijas režīma opcijas</string>
   <string name="cloudSyncModeNames1">Manuāli: katru reizi, kad nepieciešams sinhronizēt, manuāli noklikšķiniet uz pogas Sinhronizēt redaktora apakšā. Šis režīms ir piemērots mākoņkrātuvei ar trafika un pieprasījumu frekvences ierobežojumiem.\n</string>
-  <string name="cloudSyncModeNames2">Pusautomātiska: katru reizi, kad notiek teksta maiņa un soft tastatūra tiek aizvērta, sinhronizācija tiks veikta automātiski, un intervāls starp divām automātiskajām sinhronizācijām būs vismaz 20 sekundes. Šis režīms ir piemērots mākoņkrātuvei bez trafika un pieprasījuma frekvences ierobežojumiem, piemēram, Dropbox vai GoogleDrive.</string>
+  <string name="cloudSyncModeNames2">Pusautomātiska: katru reizi, kad notiek teksta maiņa un soft tastatūra tiek aizvērta, sinhronizācija tiks veikta automātiski, un intervāls starp divām automātiskajām sinhronizācijām būs vismaz 6 sekundes. Šis režīms ir piemērots mākoņkrātuvei bez trafika un pieprasījuma frekvences ierobežojumiem, piemēram, Dropbox vai GoogleDrive.</string>
   <string name="syncBeforeEditingToAvoidConflicts">Sinhronizējiet pirms rediģēšanas, lai izvairītos no konfliktiem</string>
   <string name="okSyncIt">Labi, sinhronizējiet to</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Jūs esat mainījis pašreizējo rakstu citās ierīcēs. Lai izvairītos no konfliktiem, lūdzu, vispirms sinhronizējiet, pretējā gadījumā citās ierīcēs veiktās izmaiņas var tikt atmestas.</string>
+  <string name="tts">TTS (skaļi lasiet savu tekstu, lai palīdzētu izvairīties no pareizrakstības kļūdām)</string>
 </resources>

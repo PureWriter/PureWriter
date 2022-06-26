@@ -667,8 +667,9 @@
   <string name="syncCategoryTip">È necessario accedere all\'account di archiviazione cloud sopra per abilitare l\'opzione di sincronizzazione cloud di seguito</string>
   <string name="cloudSyncMode">Opzioni della modalità di sincronizzazione del cloud</string>
   <string name="cloudSyncModeNames1">Manualmente: fai clic manualmente sul pulsante Sincronizza nella parte inferiore dell\'editor ogni volta che devi sincronizzare. Questa modalità è adatta per l\'archiviazione su cloud con traffico e limiti di frequenza delle richieste.\n</string>
-  <string name="cloudSyncModeNames2">Semiautomatico: Ogni volta che si cambia testo e si chiude la tastiera software, la sincronizzazione verrà eseguita automaticamente e l\'intervallo tra due sincronizzazioni automatiche sarà di almeno 20 secondi. Questa modalità è adatta per l\'archiviazione su cloud senza limitazioni di traffico e frequenza di richiesta, come Dropbox o GoogleDrive.</string>
+  <string name="cloudSyncModeNames2">Semiautomatico: Ogni volta che si cambia testo e si chiude la tastiera software, la sincronizzazione verrà eseguita automaticamente e l\'intervallo tra due sincronizzazioni automatiche sarà di almeno 6 secondi. Questa modalità è adatta per l\'archiviazione su cloud senza limitazioni di traffico e frequenza di richiesta, come Dropbox o GoogleDrive.</string>
   <string name="syncBeforeEditingToAvoidConflicts">Sincronizza prima della modifica per evitare conflitti</string>
   <string name="okSyncIt">OK, sincronizzalo</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Hai modificato l\'articolo corrente su altri dispositivi, per evitare conflitti, sincronizza prima, altrimenti le tue modifiche su altri dispositivi potrebbero essere annullate.</string>
+  <string name="tts">TTS (leggi ad alta voce il tuo testo impegnato per evitare errori di ortografia)</string>
 </resources>

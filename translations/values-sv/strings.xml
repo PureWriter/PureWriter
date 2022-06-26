@@ -683,8 +683,9 @@
   <string name="syncCategoryTip">Behöver logga in på molnlagringskontot ovan för att aktivera molnsynkroniseringsalternativet nedan</string>
   <string name="cloudSyncMode">Alternativ för molnsynkroniseringsläge</string>
   <string name="cloudSyncModeNames1">Manuellt: Klicka manuellt på knappen Synk längst ned i redigeraren varje gång du behöver synkronisera. Det här läget är lämpligt för molnlagring med gränser för trafik och begäranden.\n</string>
-  <string name="cloudSyncModeNames2">Halvautomatisk: Varje gång det sker en textändring och det mjuka tangentbordet stängs, kommer synkroniseringen att utföras automatiskt, och intervallet mellan två automatiska synkroniseringar kommer att vara minst 20 sekunder. Det här läget är lämpligt för molnlagring utan trafik och begäranden om frekvensbegränsningar, som Dropbox eller GoogleDrive.</string>
+  <string name="cloudSyncModeNames2">Halvautomatisk: Varje gång det sker en textändring och det mjuka tangentbordet stängs, kommer synkroniseringen att utföras automatiskt, och intervallet mellan två automatiska synkroniseringar kommer att vara minst 6 sekunder. Det här läget är lämpligt för molnlagring utan trafik och begäranden om frekvensbegränsningar, som Dropbox eller GoogleDrive.</string>
   <string name="syncBeforeEditingToAvoidConflicts">Synkronisera före redigering för att undvika konflikter</string>
   <string name="okSyncIt">OK, synkronisera det</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Du har ändrat den aktuella artikeln på andra enheter, för att undvika konflikter, vänligen synkronisera först, annars kan dina ändringar på andra enheter kasseras.</string>
+  <string name="tts">TTS (läs din engagerade text högt för att hjälpa dig undvika stavfel)</string>
 </resources>

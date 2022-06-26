@@ -788,10 +788,11 @@
   <string name="aboutCloudSync"><i>About Cloud Sync</i></string>
   <string name="syncCategoryTip">Need to log in to the cloud storage account above to enable the cloud sync option below</string>
   <string name="cloudSyncModeNames1">Manually: Manually click the Sync button at the bottom of the editor each time you need to sync. This mode is suitable for cloud storage with traffic and request frequency limits.\n</string>
-  <string name="cloudSyncModeNames2">Semi-automatic: Every time there is a text change and the soft keyboard is closed, the synchronization will be performed automatically, and the interval between two automatic synchronizations will be at least 20 seconds. This mode is suitable for cloud storage with no traffic and request frequency restrictions, such as Dropbox or GoogleDrive.</string>
+  <string name="cloudSyncModeNames2">Semi-automatic: Every time there is a text change and the soft keyboard is closed, the synchronization will be performed automatically, and the interval between two automatic synchronizations will be at least 6 seconds. This mode is suitable for cloud storage with no traffic and request frequency restrictions, such as Dropbox or GoogleDrive.</string>
   <string name="cloudSyncModeDefault" translatable="false">SA</string>
   <string name="syncBeforeEditingToAvoidConflicts">Sync before editing to avoid conflicts</string>
   <string name="okSyncIt">OK, sync it</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">You have modified the current article on other devices, in order to avoid conflicts, please synchronize first, otherwise your modifications on other devices may be discarded.</string>
   <string name="moveArticlesOfDeletedFolderToTrash">Move the articles inside the deleted folder to the Trash</string>
+  <string name="tts">TTS (Read your committed text aloud to help you avoid typos or spelling mistakes)</string>
 </resources>

@@ -668,8 +668,9 @@
   <string name="syncCategoryTip">以下のクラウド同期オプションを有効にするには、上記のクラウドストレージアカウントにログインする必要があります</string>
   <string name="cloudSyncMode">クラウド同期モードオプション</string>
   <string name="cloudSyncModeNames1">手動：同期が必要になるたびに、エディターの下部にある[同期]ボタンを手動でクリックします。 このモードは、トラフィックとリクエストの頻度が制限されているクラウドストレージに適しています。\n</string>
-  <string name="cloudSyncModeNames2">半自動：テキストが変更されてソフトキーボードが閉じられるたびに、同期が自動的に実行され、2つの自動同期の間隔は少なくとも20秒になります。 このモードは、DropboxやGoogleDriveなど、トラフィックやリクエストの頻度に制限のないクラウドストレージに適しています。</string>
+  <string name="cloudSyncModeNames2">半自動：テキストが変更されてソフトキーボードが閉じられるたびに、同期が自動的に実行され、2つの自動同期の間隔は少なくとも6秒になります。 このモードは、DropboxやGoogleDriveなど、トラフィックやリクエストの頻度に制限のないクラウドストレージに適しています。</string>
   <string name="syncBeforeEditingToAvoidConflicts">競合を避けるために編集する前に同期する</string>
   <string name="okSyncIt">OK、同期します</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">他のデバイスで現在の記事を変更しました。競合を避けるために、最初に同期してください。同期しないと、他のデバイスでの変更が破棄される可能性があります。</string>
+  <string name="tts">TTS（スペルミスを避けるためにコミットしたテキストを声に出して読んでください）</string>
 </resources>

@@ -668,8 +668,9 @@
   <string name="syncCategoryTip">아래의 클라우드 동기화 옵션을 활성화하려면 위의 클라우드 스토리지 계정에 로그인해야 합니다.</string>
   <string name="cloudSyncMode">클라우드 동기화 모드 옵션</string>
   <string name="cloudSyncModeNames1">수동: 동기화가 필요할 때마다 편집기 하단에 있는 동기화 버튼을 수동으로 클릭합니다. 이 모드는 트래픽 및 요청 빈도 제한이 있는 클라우드 스토리지에 적합합니다.\n</string>
-  <string name="cloudSyncModeNames2">반자동: 텍스트 변경이 있고 소프트 키보드가 닫힐 때마다 동기화가 자동으로 수행되며 두 자동 동기화 사이의 간격은 최소 20초가 됩니다. 이 모드는 Dropbox 또는 GoogleDrive와 같이 트래픽 및 요청 빈도 제한이 없는 클라우드 스토리지에 적합합니다.</string>
+  <string name="cloudSyncModeNames2">반자동: 텍스트 변경이 있고 소프트 키보드가 닫힐 때마다 동기화가 자동으로 수행되며 두 자동 동기화 사이의 간격은 최소 6초가 됩니다. 이 모드는 Dropbox 또는 GoogleDrive와 같이 트래픽 및 요청 빈도 제한이 없는 클라우드 스토리지에 적합합니다.</string>
   <string name="syncBeforeEditingToAvoidConflicts">충돌을 방지하기 위해 편집하기 전에 동기화</string>
   <string name="okSyncIt">알겠습니다, 동기화하세요</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">다른 장치에서 현재 기사를 수정했습니다. 충돌을 피하기 위해 먼저 동기화하십시오. 그렇지 않으면 다른 장치에서 수정한 내용이 취소될 수 있습니다.</string>
+  <string name="tts">TTS(맞춤법 실수를 방지하기 위해 커밋된 텍스트를 소리 내어 읽어보세요)</string>
 </resources>

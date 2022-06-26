@@ -708,8 +708,9 @@
   <string name="syncCategoryTip">Sinun on kirjauduttava sisään yllä olevalle pilvitallennustilille ottaaksesi käyttöön alla olevan pilvisynkronointivaihtoehdon</string>
   <string name="cloudSyncMode">Pilvisynkronointitilan asetukset</string>
   <string name="cloudSyncModeNames1">Manuaalisesti: Napsauta manuaalisesti editorin alareunassa olevaa Synkronoi-painiketta aina, kun sinun on synkronoitava. Tämä tila sopii pilvitallennustilaan, jossa on liikenne- ja pyyntötaajuusrajoituksia.\n</string>
-  <string name="cloudSyncModeNames2">Puoliautomaattinen: Aina kun tekstiä vaihdetaan ja pehmeä näppäimistö suljetaan, synkronointi suoritetaan automaattisesti ja kahden automaattisen synkronoinnin välinen aika on vähintään 20 sekuntia. Tämä tila sopii pilvitallennustilaan ilman liikenne- ja pyyntötaajuusrajoituksia, kuten Dropbox tai GoogleDrive.</string>
+  <string name="cloudSyncModeNames2">Puoliautomaattinen: Aina kun tekstiä vaihdetaan ja pehmeä näppäimistö suljetaan, synkronointi suoritetaan automaattisesti ja kahden automaattisen synkronoinnin välinen aika on vähintään 6 sekuntia. Tämä tila sopii pilvitallennustilaan ilman liikenne- ja pyyntötaajuusrajoituksia, kuten Dropbox tai GoogleDrive.</string>
   <string name="syncBeforeEditingToAvoidConflicts">Synkronoi ennen muokkaamista ristiriitojen välttämiseksi</string>
   <string name="okSyncIt">OK, synkronoi se</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Olet muokannut nykyistä artikkelia muissa laitteissa. Välttääksesi ristiriidat, synkronoi ensin, muuten muilla laitteilla tekemäsi muutokset voidaan hylätä.</string>
+  <string name="tts">TTS (Lue sitoutunut tekstisi ääneen auttaaksesi sinua välttämään kirjoitusvirheet)</string>
 </resources>

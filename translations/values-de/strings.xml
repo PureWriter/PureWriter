@@ -666,8 +666,9 @@
   <string name="syncCategoryTip">Sie müssen sich oben beim Cloud-Speicherkonto anmelden, um die Cloud-Synchronisierungsoption unten zu aktivieren</string>
   <string name="cloudSyncMode">Optionen für den Cloud-Synchronisationsmodus</string>
   <string name="cloudSyncModeNames1">Manuell: Klicken Sie jedes Mal, wenn Sie synchronisieren müssen, manuell auf die Schaltfläche „Synchronisieren“ unten im Editor. Dieser Modus eignet sich für Cloud-Speicher mit Verkehrs- und Anforderungshäufigkeitsbeschränkungen.\n</string>
-  <string name="cloudSyncModeNames2">Halbautomatisch: Bei jeder Textänderung und geschlossenem Softkeyboard wird die Synchronisierung automatisch durchgeführt, wobei das Intervall zwischen zwei automatischen Synchronisierungen mindestens 20 Sekunden beträgt. Dieser Modus eignet sich für Cloud-Speicher ohne Traffic- und Anfragehäufigkeitsbeschränkungen wie Dropbox oder GoogleDrive.</string>
+  <string name="cloudSyncModeNames2">Halbautomatisch: Bei jeder Textänderung und geschlossenem Softkeyboard wird die Synchronisierung automatisch durchgeführt, wobei das Intervall zwischen zwei automatischen Synchronisierungen mindestens 6 Sekunden beträgt. Dieser Modus eignet sich für Cloud-Speicher ohne Traffic- und Anfragehäufigkeitsbeschränkungen wie Dropbox oder GoogleDrive.</string>
   <string name="syncBeforeEditingToAvoidConflicts">Vor der Bearbeitung synchronisieren, um Konflikte zu vermeiden</string>
   <string name="okSyncIt">OK, synchronisieren</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Du hast den aktuellen Artikel auf anderen Geräten geändert, um Konflikte zu vermeiden, bitte zuerst synchronisieren, sonst werden deine Änderungen auf anderen Geräten möglicherweise verworfen.</string>
+  <string name="tts">TTS (Lesen Sie Ihren zugesagten Text laut vor, um Rechtschreibfehler zu vermeiden)</string>
 </resources>

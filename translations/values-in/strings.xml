@@ -663,8 +663,9 @@
   <string name="syncCategoryTip">Perlu masuk ke akun penyimpanan cloud di atas untuk mengaktifkan opsi sinkronisasi cloud di bawah</string>
   <string name="cloudSyncMode">Opsi mode sinkronisasi cloud</string>
   <string name="cloudSyncModeNames1">Secara Manual: Klik tombol Sinkronkan secara manual di bagian bawah editor setiap kali Anda perlu menyinkronkan. Mode ini cocok untuk penyimpanan cloud dengan lalu lintas dan batas frekuensi permintaan.\n</string>
-  <string name="cloudSyncModeNames2">Semi-otomatis: Setiap kali ada perubahan teks dan keyboard lunak ditutup, sinkronisasi akan dilakukan secara otomatis, dan interval antara dua sinkronisasi otomatis setidaknya 20 detik. Mode ini cocok untuk penyimpanan cloud tanpa pembatasan lalu lintas dan frekuensi permintaan, seperti Dropbox atau GoogleDrive.</string>
+  <string name="cloudSyncModeNames2">Semi-otomatis: Setiap kali ada perubahan teks dan keyboard lunak ditutup, sinkronisasi akan dilakukan secara otomatis, dan interval antara dua sinkronisasi otomatis setidaknya 6 detik. Mode ini cocok untuk penyimpanan cloud tanpa pembatasan lalu lintas dan frekuensi permintaan, seperti Dropbox atau GoogleDrive.</string>
   <string name="syncBeforeEditingToAvoidConflicts">Sinkronkan sebelum mengedit untuk menghindari konflik</string>
   <string name="okSyncIt">Oke, sinkronkan</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Anda telah memodifikasi artikel saat ini di perangkat lain, untuk menghindari konflik, harap sinkronkan terlebih dahulu, jika tidak, modifikasi Anda di perangkat lain dapat dibuang.</string>
+  <string name="tts">TTS (Baca teks komitmen Anda dengan keras untuk membantu Anda menghindari kesalahan ejaan)</string>
 </resources>

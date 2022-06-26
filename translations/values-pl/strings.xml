@@ -696,8 +696,9 @@
   <string name="syncCategoryTip">Musisz zalogować się na powyższe konto w chmurze, aby włączyć opcję synchronizacji w chmurze poniżej</string>
   <string name="cloudSyncMode">Opcje trybu synchronizacji w chmurze</string>
   <string name="cloudSyncModeNames1">Ręcznie: ręcznie kliknij przycisk Synchronizuj na dole edytora za każdym razem, gdy chcesz przeprowadzić synchronizację. Ten tryb jest odpowiedni do przechowywania w chmurze z ograniczeniami ruchu i częstotliwości żądań.\n</string>
-  <string name="cloudSyncModeNames2">Półautomatyczne: Za każdym razem, gdy następuje zmiana tekstu i zamykana jest klawiatura programowa, synchronizacja zostanie wykonana automatycznie, a odstęp między dwiema automatycznymi synchronizacjami będzie wynosił co najmniej 20 sekund. Ten tryb jest odpowiedni do przechowywania w chmurze bez ograniczeń ruchu i częstotliwości żądań, takich jak Dropbox lub GoogleDrive.</string>
+  <string name="cloudSyncModeNames2">Półautomatyczne: Za każdym razem, gdy następuje zmiana tekstu i zamykana jest klawiatura programowa, synchronizacja zostanie wykonana automatycznie, a odstęp między dwiema automatycznymi synchronizacjami będzie wynosił co najmniej 6 sekund. Ten tryb jest odpowiedni do przechowywania w chmurze bez ograniczeń ruchu i częstotliwości żądań, takich jak Dropbox lub GoogleDrive.</string>
   <string name="syncBeforeEditingToAvoidConflicts">Synchronizuj przed edycją, aby uniknąć konfliktów</string>
   <string name="okSyncIt">OK, zsynchronizuj</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Zmodyfikowałeś bieżący artykuł na innych urządzeniach, aby uniknąć konfliktów, najpierw wykonaj synchronizację, w przeciwnym razie Twoje modyfikacje na innych urządzeniach mogą zostać odrzucone.</string>
+  <string name="tts">TTS (Przeczytaj na głos swój zadeklarowany tekst, aby uniknąć błędów ortograficznych)</string>
 </resources>

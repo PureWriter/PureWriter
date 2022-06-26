@@ -691,8 +691,9 @@
   <string name="syncCategoryTip">Debe iniciar sesión en la cuenta de almacenamiento en la nube anterior para habilitar la opción de sincronización en la nube a continuación</string>
   <string name="cloudSyncMode">Opciones del modo de sincronización en la nube</string>
   <string name="cloudSyncModeNames1">Manualmente: haga clic manualmente en el botón Sincronizar en la parte inferior del editor cada vez que necesite sincronizar. Este modo es adecuado para el almacenamiento en la nube con tráfico y límites de frecuencia de solicitudes.\n</string>
-  <string name="cloudSyncModeNames2">Semiautomático: cada vez que haya un cambio de texto y se cierre el teclado virtual, la sincronización se realizará automáticamente y el intervalo entre dos sincronizaciones automáticas será de al menos 20 segundos. Este modo es adecuado para almacenamiento en la nube sin tráfico y restricciones de frecuencia de solicitudes, como Dropbox o GoogleDrive.</string>
+  <string name="cloudSyncModeNames2">Semiautomático: cada vez que haya un cambio de texto y se cierre el teclado virtual, la sincronización se realizará automáticamente y el intervalo entre dos sincronizaciones automáticas será de al menos 6 segundos. Este modo es adecuado para almacenamiento en la nube sin tráfico y restricciones de frecuencia de solicitudes, como Dropbox o GoogleDrive.</string>
   <string name="syncBeforeEditingToAvoidConflicts">Sincronizar antes de editar para evitar conflictos</string>
   <string name="okSyncIt">OK, sincronizarlo</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Ha modificado el artículo actual en otros dispositivos, para evitar conflictos, sincronice primero, de lo contrario, sus modificaciones en otros dispositivos pueden descartarse.</string>
+  <string name="tts">TTS (lea en voz alta su texto comprometido para ayudarlo a evitar errores de ortografía)</string>
 </resources>
