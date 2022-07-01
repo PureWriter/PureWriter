@@ -1,22 +1,20 @@
 {
-  "key": "k20220061",
+  "key": "k20220074",
   "title": {
-    "default": "ON SALE for festivals in June",
-    "zh": "端午节、618 限时特惠活动"
+    "default": "ON SALE for Pure Writer 5th Anniversary",
+    "zh": "纯纯写作五周年特惠活动"
   },
   "message": {
-    "default": "During 2022.6.1 ~ 2022.6.19, Pure Writer Pro (lifetime), originally priced at $19.99, is discounted to $14.99.",
-    "zh": "在 2022.6.1 ~ 2022.6.19 端午节和 618 期间，纯纯写作 Pro（永久会员）现提供大幅降价优惠！\n在纯纯写作 Pro 页面底部可查看最新优惠售价。"
+    "default": "On July 4, 2017, Pure Writer launched its first version on Google Play, starting a long \"five-year project\". During these five years, we submitted a total of 7,681 updates, ranging from v1.0.0 to v20.2.4, in the latest version, we have implemented important functions such as \"Cloud Sync\", which is gratifying. For five full years, it's been a really crazy process and a rare milestone.\n\nTherefore, during 2022.7.2 ~ 2022.7.4, Pure Writer Pro (lifetime), originally priced at $21.99, is discounted to $14.99.",
+    "zh": "2017 年 7 月 4 日，纯纯写作在 Google Play 上架了第一个版本，从此开启了漫长的「五年工程」，在这五年里，我们共提交了 7681 次更新，版本号从 v1.0.0 到如今的 v20.2.4，在最新版中，我们实现了「云同步」等重要功能，可喜可贺。整整五年，这真是一个非常疯狂的过程和难得的里程碑。\n\n因此在 2022.7.2 ~ 2022.7.4 期间，纯纯写作 Pro（永久会员）现提供特别降价优惠！\n\n在纯纯写作 Pro 页面底部可查看最新优惠售价。"
   },
-  "startTime": "2022-6-1",
-  "endTime": "2022-6-19",
-  "intervalDays": 3,
+  "startTime": "2022-7-2",
+  "endTime": "2022-7-4",
+  "intervalDays": 1,
   "keyDays": [
+    2,
     3,
-    5,
-    17,
-    18,
-    19
+    4
   ],
   "onlyAbroad": false,
   "version": 1
