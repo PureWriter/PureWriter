@@ -762,4 +762,5 @@
   <string name="checkForUpdates">检查更新</string>
   <string name="cloudSyncAutoSwitchesToTheLatestEditedArticle">云同步自动切换到最新编辑文章</string>
   <string name="summaryCloudSyncAutoSwitchesToTheLatestEditedArticle">需要您在云同步设置页面先启用云同步后此项才会生效。\n启用本项后，如果云同步完成，纯纯写作会自动为您切换到您最新编辑的文章。</string>
+  <string name="ttsEnabled">TTS 已启用</string>
 </resources>
