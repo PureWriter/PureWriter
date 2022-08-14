@@ -710,4 +710,5 @@
   <string name="ttsModeWord">Izrunājiet tikko ievadīto <b>vārdu</b></string>
   <string name="readCurrentArticleAloud">Izlasiet pašreizējo rakstu skaļi</string>
   <string name="checkForUpdates">Meklēt atjauninājumus</string>
+  <string name="ttsEnabled">TTS iespējots</string>
 </resources>
