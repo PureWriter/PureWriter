@@ -712,4 +712,5 @@
   <string name="ttsModeWord">Öelge äsja sisestatud <b>sõna</b></string>
   <string name="readCurrentArticleAloud">Lugege praegust artiklit valjusti</string>
   <string name="checkForUpdates">Kontrolli kas uuendused on saadaval</string>
+  <string name="ttsEnabled">TTS on lubatud</string>
 </resources>
