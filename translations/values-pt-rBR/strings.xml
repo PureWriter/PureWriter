@@ -730,4 +730,5 @@
   <string name="ttsModeSentence">Fale a <b>sentença</b>\n(Apenas alguns idiomas são suportados porque não sabemos como segmentar as frases para outros languages‼️)</string>
   <string name="readCurrentArticleAloud">Leia o artigo atual em voz alta</string>
   <string name="checkForUpdates">Verifique se há atualizações</string>
+  <string name="ttsEnabled">TTS ativado</string>
 </resources>
