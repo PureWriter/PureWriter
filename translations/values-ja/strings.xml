@@ -679,4 +679,5 @@
   <string name="ttsModeWord">入力した<b>単語</b>を話します</string>
   <string name="readCurrentArticleAloud">現在の記事を声に出して読む</string>
   <string name="checkForUpdates">アップデートを確認</string>
+  <string name="ttsEnabled">TTSが有効になっている</string>
 </resources>
