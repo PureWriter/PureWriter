@@ -764,4 +764,5 @@
   <string name="checkForUpdates">檢查更新</string>
   <string name="cloudSyncAutoSwitchesToTheLatestEditedArticle">雲同步自動切換到最新編輯文章</string>
   <string name="summaryCloudSyncAutoSwitchesToTheLatestEditedArticle">需要您在雲同步設定頁面先啟用雲同步後此項才會生效。\n啟用本項後，如果雲同步完成，純純寫作會自動為您切換到您最新編輯的文章。</string>
+  <string name="ttsEnabled">TTS 已啟用</string>
 </resources>
