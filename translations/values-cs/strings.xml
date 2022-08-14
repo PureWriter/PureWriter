@@ -706,4 +706,5 @@
   <string name="ttsModeWord">Vyslovte <b>slovo</b>, které jste právě napsali</string>
   <string name="readCurrentArticleAloud">Přečtěte si nahlas aktuální článek</string>
   <string name="checkForUpdates">Kontrola aktualizací</string>
+  <string name="ttsEnabled">TTS povoleno</string>
 </resources>
