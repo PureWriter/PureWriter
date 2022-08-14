@@ -691,4 +691,5 @@
   <string name="ttsModeWord">พูด <b>คำ</b> ที่คุณเพิ่งพิมพ์</string>
   <string name="readCurrentArticleAloud">อ่านออกเสียงบทความปัจจุบัน</string>
   <string name="checkForUpdates">ตรวจสอบสำหรับการอัพเดต</string>
+  <string name="ttsEnabled">เปิดใช้งาน TTS</string>
 </resources>
