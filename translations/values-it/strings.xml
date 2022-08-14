@@ -247,16 +247,16 @@
   <string name="markdownShortcutTip">Hai appena inserito un codice Markdown, che avra\' effetto solamente nella modalita\' di Anteprima Markdown. Vuoi attivare la modalita\' di Anteprima Markdown?</string>
   <string name="importedFileTooLargeToOpen">Il file importato ha dimensioni troppo grandi, apertura file fallita</string>
   <string name="failed">Fallito</string>
-  <string name="insertCategoryAboveShort">Inserisci la categoria all\'inizio</string>
-  <string name="insertCategoryAboveLong">Inserisci la categoria all\'inizio del corrente articolo</string>
-  <string name="insertCategoryBottomShort">Inserisci la categoria alla fine</string>
-  <string name="insertCategoryBottomLong">Inserisci la categoria alla fine della lista capitoli</string>
-  <string name="insertCategory">Inserisci Categoria</string>
-  <string name="editCategory">Modifica Categoria</string>
-  <string name="category">Categoria</string>
+  <string name="insertCategoryAboveShort">Inserisci una cartella <b>sopra</b></string>
+  <string name="insertCategoryAboveLong">Inserisci una nuova cartella <b>sopra</b> l\'articolo corrente</string>
+  <string name="insertCategoryBottomShort">Inserisci una cartella in <b>in basso</b></string>
+  <string name="insertCategoryBottomLong">Inserisci una nuova cartella nella <b>parte inferiore</b> dell\'elenco dei capitoli</string>
+  <string name="insertCategory">Inserisci cartella</string>
+  <string name="editCategory">Modifica cartella</string>
+  <string name="category">Cartella</string>
   <string name="deleteEmptyArticlesShort">Elimina tuttigli articoli vuoti</string>
   <string name="deleteEmptyArticlesLong">Elimina tutti gli articoli, che abbiano sia titolo che contenuto vuoti, presenti in questo Libro</string>
-  <string name="deleteCategory">Elimina Categoria</string>
+  <string name="deleteCategory">Elimina cartella</string>
   <string name="exportBook">Esporta questo Libro</string>
   <string name="needManualSortingTitle">Occorre che cambi a ordinamento manuale per utilizzare questa caratteristica</string>
   <string name="needManualSortingMessage">Vuoi cambiare i settaggi a \"Ordinamento Manuale\"?</string>
@@ -314,8 +314,8 @@
   <string name="defaultX">Predefinito</string>
   <string name="draft">Bozza</string>
   <string name="eventLine">Event Line</string>
-  <string name="insertCategoryBelowLong">Inserisci la categoria sotto l\'articolo corrente</string>
-  <string name="insertCategoryBelowShort">Inserisci la categoria qui sotto</string>
+  <string name="insertCategoryBelowLong">Inserisci una nuova cartella <b>sotto</b> l\'articolo corrente</string>
+  <string name="insertCategoryBelowShort">Inserisci una cartella <b>sotto</b></string>
   <string name="lineSpacing">Interlinea</string>
   <string name="mainLine">Linea principale</string>
   <string name="needToManuallyRestartToTakeEffect">È necessario riavviare manualmente per avere effetto</string>
@@ -352,7 +352,7 @@
   <string name="titleTextSize">Dimensione del carattere del titolo</string>
   <string name="restoreByThisBackup">Ripristinare con questo backup?</string>
   <string name="restoreByThisBackupWithAppName">Ripristinare con questo backup?</string>
-  <string name="collapseAllCategories">Comprimi tutte le categorie</string>
+  <string name="collapseAllCategories">Comprimi tutte le cartelle</string>
   <string name="showMore">Mostra altro</string>
   <string name="textColorAlpha">Trasparenza del colore del testo</string>
   <string name="tipNotSupportThisDesktopVersion">Le attuali versioni mobili e desktop non corrispondono e non possono essere connesse. Aggiorna entrambi all\'ultima versione e riprova.</string>
@@ -456,7 +456,7 @@
   <string name="useLegacyRender">Usa il renderer legacy</string>
   <string name="changelog">Changelog</string>
   <string name="advancedReadOnlyMode">Modalità di sola lettura avanzata</string>
-  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Nuovo articolo in fondo all\'attuale categoria</string>
+  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Inserisci un nuovo articolo in fondo alla cartella corrente</string>
   <string name="needOpenArticleFirst">È necessario aprire prima un articolo per utilizzare questa opzione</string>
   <string name="restoreArticleScrollPosition">Ripristina posizione di scorrimento articolo</string>
   <string name="summaryScrollToBottom">Se mostrare questo pulsante sull\'editor</string>
@@ -581,7 +581,7 @@
   <string name="privacyPolicySummary">Non raccoglieremo nessuna delle sue informazioni private</string>
   <string name="sortingOptions">Opzioni di ordinamento</string>
   <string name="modifyOrderOfChapters">Modifica l\'ordine dei capitoli</string>
-  <string name="modifyOrderOfCategories">Modifica l\'ordine delle Categorie</string>
+  <string name="modifyOrderOfCategories">Modifica l\'ordine delle cartelle</string>
   <string name="saveAsTxtFile">Salva come file .txt</string>
   <string name="saveAsMdFile">Salva come file .md</string>
   <string name="saveAsLongImage">Salva come immagine lunga (.png)</string>
@@ -645,9 +645,7 @@
   <string name="beforeBackupIsMergedIntoLocal">prima_che_il_backup_venga_unito_in_locale</string>
   <string name="updateABook">Aggiorna un libro</string>
   <string name="deleteABook">Elimina un libro</string>
-  <string name="updateACategory">Aggiorna una categoria</string>
-  <string name="deleteACategory">Elimina una categoria</string>
-  <string name="insertANewCategory">Inserisci una nuova categoria</string>
+  <string name="updateACategory">Aggiorna una cartella</string>
   <string name="insertingOrUpdatingArticles">Inserimento o aggiornamento di articoli...</string>
   <string name="insertANewArticle">Inserisci un nuovo articolo</string>
   <string name="summary">Riepilogo</string>
@@ -672,4 +670,12 @@
   <string name="okSyncIt">OK, sincronizzalo</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Hai modificato l\'articolo corrente su altri dispositivi, per evitare conflitti, sincronizza prima, altrimenti le tue modifiche su altri dispositivi potrebbero essere annullate.</string>
   <string name="tts">TTS (leggi ad alta voce il tuo testo impegnato per evitare errori di ortografia)</string>
+  <string name="about7zChange">Avviso importante sul backup e la sincronizzazione nel cloud</string>
+  <string name="readme7z">Pure Writer v20.2.0 modifica il formato dei file di backup e sincronizzazione cloud (.pwb), che può ridurre significativamente le dimensioni dei file di backup o di sincronizzazione cloud e ridurre il consumo di traffico, accelerando il processo di backup e sincronizzazione cloud.\n\nTuttavia, ciò comporterà che se si utilizza una versione precedente alla v20.2.0 di Pure Writer su altri dispositivi, non sarà in grado di analizzare correttamente il formato dati più recente, la sincronizzazione cloud non funzionerà e anche il backup cloud riporterà erroneamente \"<b>File danneggiato</b>\".\n\nPertanto, <b>devi assicurarti che tutti i tuoi dispositivi utilizzino Pure Writer superiore alla v20.2.0</b>, questo è molto importante, tienilo a mente e tienilo aggiornato! 🙏</string>
+  <string name="ignoreBatteryOptimizationsTipForSync">Disattiva l\'ottimizzazione della batteria per aiutare Pure Writer a eseguire automaticamente la sincronizzazione del cloud in background quando il sistema è inattivo (non preoccuparti, l\'impatto sul consumo della batteria è davvero minimo)</string>
+  <string name="ttsMode">Modalità TTS (parola o frase?)</string>
+  <string name="ttsModeSentence">Pronuncia la <b>frase</b>\n(Sono supportate solo alcune lingue perché non sappiamo come segmentare le frasi per altre lingue‼️)</string>
+  <string name="ttsModeWord">Pronuncia la <b>parola</b> che hai appena digitato</string>
+  <string name="readCurrentArticleAloud">Leggi l\'articolo corrente ad alta voce</string>
+  <string name="checkForUpdates">Controlla gli aggiornamenti</string>
 </resources>

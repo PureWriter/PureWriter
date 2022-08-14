@@ -164,7 +164,7 @@
   <string name="moveTo">移動到</string>
   <string name="move">移動</string>
   <string name="timeMachine">時光機</string>
-  <string name="listFirst">啟動時開啟清單</string>
+  <string name="listFirst">啟動時開啟文章清單</string>
   <string name="booksFirst">啟動時開啟書籍清單</string>
   <string name="language">語言</string>
   <string name="followSystem">跟隨系統</string>
@@ -328,7 +328,7 @@
   <string name="createNewChapter">建立新篇章</string>
   <string name="currentText">目前正文</string>
   <string name="hideSoftKeyboard">收起小鍵盤</string>
-  <string name="transparentTopBar">透明頂部列</string>
+  <string name="transparentTopBar">透明頂部列，讓頂部列不再是純黑色</string>
   <string name="transparentNavigationBarWarning">這是一個實驗性特性，開啟後可能導致螢幕小鍵盤高度檢查不正確，進而導致快速輸入列無法顯示和文字聚焦失常，如果遇到這些問題，請關閉此選項。</string>
   <string name="transparentNavigationBar">透明虛擬導覽列</string>
   <string name="titleAsAWordForACountSummary">開啟此項後，下一項「字數統計模式」將無效，如果想使用「字數統計模式」中的選項，請關閉此項。</string>
@@ -540,7 +540,7 @@
   <string name="blueInputBox">藍色填字框</string>
   <string name="editorMarkdownSyncScrolling">編輯器 ⇋ Markdown 雙向同步滾動</string>
   <string name="newOutline">建立大綱項</string>
-  <string name="smoothCursor">順滑游標</string>
+  <string name="smoothCursor">呼吸式順滑游標</string>
   <string name="typeOfTimeDisplayed">顯示時間類型</string>
   <string name="timeModified">更新時間</string>
   <string name="timeCreated">建立時間</string>
@@ -579,7 +579,7 @@
   <string name="autoConnectToDesktopNextTime">下次自動連接到桌面版</string>
   <string name="autoConnectToDesktop">自動連接到桌面版</string>
   <string name="optionsForTheFewPeople">少數派選項</string>
-  <string name="summaryPie">或稱強迫症選項，提供一些本不該提供的設定項</string>
+  <string name="summaryPie">強迫症選項，提供一些本不該提供的設定項</string>
   <string name="stretchEdgeEffect">編輯器滾動到邊緣的彈性動畫</string>
   <string name="staticCursor">靜態游標（不要閃爍）</string>
   <string name="cursorJoyModePosition">「移動游標」模式和位置</string>
@@ -746,4 +746,22 @@
   <string name="messageSyncBeforeEditingToAvoidConflicts">您在其他裝置上修改過目前文章，為了避免衝突，請您先同步再編輯目前文章，否則您在其他裝置上的修改內容可能會被丟棄。</string>
   <string name="moveArticlesOfDeletedFolderToTrash">將被刪除的資料夾內部的文章移到廢紙簍裡</string>
   <string name="tts">TTS (讀出您輸入的文字以幫您避免錯別字)</string>
+  <string name="about7zChange">關於雲備份和雲同步文件極其重要的通知</string>
+  <string name="readme7z">純純寫作 v20.2.0 修改了雲備份和雲同步 .pwb 檔案格式細節，這可以大幅減小您的備份或雲同步文件體積，同時可以大幅減小您的流量損耗、加速雲備份和雲同步過程。\n\n但是，這會導致如果您在其他裝置上使用低於 v20.2.0 版本的純純寫作，它將無法正確解析最新的資料格式，雲同步將會無法工作，雲備份也會誤報「<b>文件損壞</b>」。\n\n因此，<b>您需要確保您的所有裝置都使用 v20.2.0 版本以上的純純寫作</b>，這非常重要，請銘記於心並及時更新！🙏</string>
+  <string name="autoChapterNameTitle">自動加入或更新\n\"第幾章\"前綴</string>
+  <string name="ignoreBatteryOptimizationsTipForSync">允許「自啟動」並修改「省電策略」以幫助純純寫作在您系統閒暇時自動進行後台雲同步（請放心，這對耗電的影響真微乎其微）</string>
+  <string name="ignoreBatteryOptimizationsTipForSyncDetail">純純寫作會在必要的時候，**當手機電量充足且擁有 Wi-Fi 網路時**，於後台自動進行「雲同步」（由 [WorkManager](https://developer.android.google.cn/topic/libraries/architecture/workmanager?hl=zh_cn) **閒暇系統**調度，純純寫作不會持續保持後台行程），最低間隔時間為 15~56 分鐘，這對於手機的耗電影響微乎其微，您無需對此產生擔憂。\n\nWorkManager 的任務調度系統本應是 Android 系統預設允許的，但由於國產廠商系統對於電量最佳化過於激進的措施，**在國產系統上 WorkManager 的任務都會預設受到限制，即使正常使用的話它們根本不會產生什麼耗電**。\n\n所以為了讓純純寫作的「後台雲同步」任務能夠被**閒暇系統**正常調度，您可以手動為純純寫作**開啟「自啟動」選項並修改「省電策略」（或稱「電池最佳化」）為\"無限制\"**，這樣在系統閒暇且必要的時，純純寫作能夠在您打開它之前**自動幫您把其他裝置上的變更同步到本機**。\n\n一般情況下，您可以進入純純寫作應用訊息頁面開啟「自啟動」選項**並**修改「省電策略」。祝您使用愉快！</string>
+  <string name="ttsMode">TTS 模式 (詞或句子?)</string>
+  <string name="ttsModeWord">讀出您剛輸入的<b>字詞</b></string>
+  <string name="ttsModeSentence">讀出您剛完成或修改的<b>句子</b>\n(僅支援部分語言，因為對於其他語言我們不懂得如何斷句‼️)</string>
+  <string name="openTtsSetting">打開「系統設置 - 文字轉語音」頁面</string>
+  <string name="downloadTtsEngine">下載 TTS 引擎</string>
+  <string name="titleRestoreOrderOfArticlesFromAnOldBackup">從舊版備份中恢復文章<b>順序</b></string>
+  <string name="summaryRestoreOrderOfArticlesFromAnOldBackup">當您遭遇文章列表亂序的 bug 時可以使用此項，它將從您選擇的舊版備份中讀取其中的文章排序值並賦予您當前的文章們</string>
+  <string name="titleSelectBooksToRestoreOrder">請選擇要進行恢復它內部章節順序的書</string>
+  <string name="beforeRestoreOrder">在修復排序之前</string>
+  <string name="readCurrentArticleAloud">朗讀當前文章</string>
+  <string name="checkForUpdates">檢查更新</string>
+  <string name="cloudSyncAutoSwitchesToTheLatestEditedArticle">雲同步自動切換到最新編輯文章</string>
+  <string name="summaryCloudSyncAutoSwitchesToTheLatestEditedArticle">需要您在雲同步設定頁面先啟用雲同步後此項才會生效。\n啟用本項後，如果雲同步完成，純純寫作會自動為您切換到您最新編輯的文章。</string>
 </resources>

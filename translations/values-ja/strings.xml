@@ -233,14 +233,14 @@
   <string name="markdownShortcutTip">Markdownタグを入力するだけで、Markdownとプレビューモードでのみ動作します。 マークダウンモードを有効にしますか？</string>
   <string name="importedFileTooLargeToOpen">ファイルが大きすぎて開くことができません</string>
   <string name="failed">失敗</string>
-  <string name="insertCategoryAboveShort">カテゴリ（上記）</string>
-  <string name="insertCategoryAboveLong">現在の記事の上にカテゴリを挿入する</string>
-  <string name="insertCategory">カテゴリを挿入</string>
-  <string name="editCategory">カテゴリーを編集</string>
-  <string name="category">カテゴリー</string>
+  <string name="insertCategoryAboveShort"><b>上</b>にフォルダを挿入します</string>
+  <string name="insertCategoryAboveLong">現在の記事の<b>上</b>に新しいフォルダを挿入します</string>
+  <string name="insertCategory">フォルダを挿入</string>
+  <string name="editCategory">フォルダを編集</string>
+  <string name="category">フォルダ</string>
   <string name="deleteEmptyArticlesShort">空の記事を削除する</string>
   <string name="deleteEmptyArticlesLong">タイトルと内容が空の記事をすべて削除しますか？</string>
-  <string name="deleteCategory">カテゴリを削除する</string>
+  <string name="deleteCategory">フォルダを削除</string>
   <string name="exportBook">Export book</string>
   <string name="needManualSortingTitle">この機能を使用するには手動ソートに切り替える必要があります</string>
   <string name="needManualSortingMessage">手動ソートに切り替えたいですか？</string>
@@ -267,8 +267,8 @@
   <string name="readme">あなたはPure Writerの新しいMaterial Design 2デザインを有効にしました。\n\nマテリアルデザイン2は新しいフルスクリーン浸漬紙と透明なトップバーを採用し、より新鮮な外観を実現しています。\n\nしかし同時に、新しいデザインには多くの問題がある可能性があります。これは、UIの視覚的な問題を抱えるPure Writerの実験的な機能です。また、Pure Writerの著者として、私は元のPureライターのデザインはより目を引くものであり、テキストコンテンツに重点を置いているので、このデザイン機能は実際に少数のユーザーの強い要求に応えて開発されています。現在、純粋なライターの設計が2つあるため、開発者の作業が増える可能性があります。\n\nこのため、Pure Writerはあなたに支払うことをお勧めしますが、それでも経験して最終的な支払いを決定するまでに多くの時間を費やすことができますので、サポートを依頼してください。支払意欲が小さい場合、開発者はマテリアルデザインのメンテナンスを中止または停止することができます。2. OKをクリックすると、デフォルトでこのコンテンツに同意することになります。\n\nみなさんありがとう！私は、より良い、より良い純粋な作家を提供するために全力を尽くし、お楽しみください！</string>
   <string name="lowFreeStorageSpaceWarning">お使いの携帯電話には %1$d MB の空き容量しかないため、Pure Writerの保存やバックアップに失敗する可能性があります。 Pure Writerを使用する前に、クリーンアップして%2$d MB以上残してください。</string>
   <string name="iconDesc">Pure Writerのアイコンはタイムマシンです\nタイムマシンは前進しています。 言葉を願って私たちは過去とつながることができます、将来について考えます…</string>
-  <string name="insertCategoryBottomShort">カテゴリを下に挿入</string>
-  <string name="insertCategoryBottomLong">チャプターリストの一番下に新しいカテゴリを挿入する</string>
+  <string name="insertCategoryBottomShort"><b>一番下</b>にフォルダを挿入します</string>
+  <string name="insertCategoryBottomLong">チャプターリストの<b>下部</b>に新しいフォルダーを挿入します</string>
   <string name="pureWriterBBS">Pure Writer BBS</string>
   <string name="findReplace">検索と置換</string>
   <string name="replace">取り替える</string>
@@ -302,8 +302,8 @@
   <string name="switchingBooksTooltip">ヒント：上部の本のタイトルをクリックすると、本を切り替えることができます</string>
   <string name="scrollToTheCurrentArticle">現在の記事にスクロールする</string>
   <string name="allBooks">すべての本</string>
-  <string name="insertCategoryBelowShort">下にカテゴリを挿入</string>
-  <string name="insertCategoryBelowLong">現在の記事の下にカテゴリを挿入</string>
+  <string name="insertCategoryBelowShort"><b>下</b>にフォルダを挿入します</string>
+  <string name="insertCategoryBelowLong">現在の記事の<b>下</b>に新しいフォルダを挿入します</string>
   <string name="branchLine">支線</string>
   <string name="brightLine">輝線</string>
   <string name="darkLine">暗線</string>
@@ -341,7 +341,7 @@
   <string name="titleTextSize">タイトルのフォントサイズ</string>
   <string name="restoreByThisBackup">このバックアップで復元しますか？</string>
   <string name="restoreByThisBackupWithAppName">このバックアップで復元しますか？</string>
-  <string name="collapseAllCategories">すべてのカテゴリを折りたたむ</string>
+  <string name="collapseAllCategories">すべてのフォルダを折りたたむ</string>
   <string name="showMore">もっと見る</string>
   <string name="textColorAlpha">テキストの色の透明度</string>
   <string name="tipNotSupportThisDesktopVersion">現在のモバイルとデスクトップのバージョンは一致せず、接続できません。 両方を最新バージョンに更新して、もう一度お試しください。</string>
@@ -445,7 +445,7 @@
   <string name="useLegacyRender">レガシーレンダラーを使用する</string>
   <string name="changelog">変更ログ</string>
   <string name="advancedReadOnlyMode">高度な読み取り専用モード</string>
-  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">現在のカテゴリの下部にある 新しい記事</string>
+  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">現在のフォルダの下部に新しい記事を挿入します</string>
   <string name="needOpenArticleFirst">このオプションを使用するには、まず記事を開く必要があります</string>
   <string name="restoreArticleScrollPosition">記事のスクロール位置を復元する</string>
   <string name="summaryScrollToBottom">このボタンをエディターに表示するかどうか</string>
@@ -575,7 +575,7 @@
   <string name="whetherOverwriteSettings">ローカル設定を上書きしますか？</string>
   <string name="askOverwriteSettings">バックアップファイル内の記事データベースを使用してローカルの記事データベースを上書きしますが、バックアップファイル内の設定を使用してローカルの設定を上書きする必要があるかどうかはわかりません。選択してください。</string>
   <string name="privacyPolicySummary">お客様の個人情報を収集することはございません</string>
-  <string name="modifyOrderOfCategories">カテゴリの順序を変更する</string>
+  <string name="modifyOrderOfCategories">フォルダの順序を変更する</string>
   <string name="modifyOrderOfChapters">章の順序を変更する</string>
   <string name="sortingOptions">並べ替えオプション</string>
   <string name="useSystemFont">システムフォントを使用する</string>
@@ -646,9 +646,7 @@
   <string name="beforeBackupIsMergedIntoLocal">バックアップがローカルにマージされる前</string>
   <string name="updateABook">本を更新する</string>
   <string name="deleteABook">本を削除する</string>
-  <string name="updateACategory">カテゴリを更新する</string>
-  <string name="deleteACategory">カテゴリを削除する</string>
-  <string name="insertANewCategory">新しいカテゴリを挿入します</string>
+  <string name="updateACategory">フォルダを更新する</string>
   <string name="insertANewArticle">新しい記事を挿入する</string>
   <string name="insertingOrUpdatingArticles">記事の挿入または更新…</string>
   <string name="summary">概要</string>
@@ -673,4 +671,12 @@
   <string name="okSyncIt">OK、同期します</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">他のデバイスで現在の記事を変更しました。競合を避けるために、最初に同期してください。同期しないと、他のデバイスでの変更が破棄される可能性があります。</string>
   <string name="tts">TTS（スペルミスを避けるためにコミットしたテキストを声に出して読んでください）</string>
+  <string name="about7zChange">クラウドのバックアップと同期に関する重要なお知らせ</string>
+  <string name="readme7z">Pure Writer v20.2.0は、クラウドバックアップおよび同期ファイル（.pwb）形式を変更します。これにより、バックアップまたはクラウド同期ファイルのサイズを大幅に削減し、トラフィック消費を削減して、クラウドバックアップおよび同期プロセスを高速化できます。\n\nただし、これにより、他のデバイスでv20.2.0より前のバージョンのPure Writerを使用すると、最新のデータ形式を正しく解析できなくなり、クラウド同期が機能せず、クラウドバックアップも誤って報告します。 「<b>ファイルが破損しています</b>」。\n\nしたがって、<b>すべてのデバイスがv20.2.0以降のPure Writerを使用していることを確認する必要があります</b>。これは非常に重要です。覚えておいて、最新の状態に保ってください。 🙏</string>
+  <string name="ignoreBatteryOptimizationsTipForSync">バッテリーの最適化をオフにして、システムがアイドル状態のときにPureWriterが自動バックグラウンドCloudSyncを実行できるようにします（心配しないでください。バッテリー消費への影響は最小限です）。</string>
+  <string name="ttsMode">TTSモード（単語または文？）</string>
+  <string name="ttsModeSentence"><b>文</b>を話す\n（他の言語の文をセグメント化する方法がわからないため、一部の言語のみがサポートされています！️）</string>
+  <string name="ttsModeWord">入力した<b>単語</b>を話します</string>
+  <string name="readCurrentArticleAloud">現在の記事を声に出して読む</string>
+  <string name="checkForUpdates">アップデートを確認</string>
 </resources>

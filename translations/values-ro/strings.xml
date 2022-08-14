@@ -176,7 +176,7 @@
   <string name="importedFileTooLargeToOpen">Filmul importat este prea mare, deschiderea fișierului a eșuat</string>
   <string name="deleteEmptyArticlesShort">Ștergeți toate articolele goale</string>
   <string name="deleteEmptyArticlesLong">Șterge toate articolele cu titluri și conținut gol din această Carte</string>
-  <string name="deleteCategory">Șterge categoria</string>
+  <string name="deleteCategory">Ștergeți dosarul</string>
   <string name="exportBook">Exportă această Carte</string>
   <string name="needManualSortingTitle">Trebuie să treceți la sortare manuală pentru a utiliza această caracteristică</string>
   <string name="needManualSortingMessage">Doriți să schimbați setările la "Sortare manuală"?</string>
@@ -248,7 +248,7 @@
   <string name="textColorSummary">Nota: Când schimbați hârtia, culoarea textului va fi resetată automat la culoarea implicită.</string>
   <string name="titleTextSize">Dimensiunea fontului titlului</string>
   <string name="restoreByThisBackup">Restaurare cu această copie de rezervă?</string>
-  <string name="collapseAllCategories">Închide toate categoriile</string>
+  <string name="collapseAllCategories">Restrângeți toate folderele</string>
   <string name="showMore">Mai multe</string>
   <string name="textColorAlpha">Culoarea textului alfa / transparență</string>
   <string name="connectDesktop">Conectează-te la versiunea Desktop</string>
@@ -275,7 +275,7 @@
   <string name="needToPayForMarkdownRenderer">Aceasta este pagina de previzualizare rapidă Markdown, care necesită plata pentru Pure Writer Pro pentru a o utiliza.</string>
   <string name="fabContextCreateNewAfterCurrent">Articol nou după articolul curent</string>
   <string name="fabContextCreateNewAtTheBottom">Inserați un articol nou în partea de jos a listei de articole</string>
-  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Inserați un articol nou în partea de jos a categoriei curente</string>
+  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Inserați un articol nou în partea de jos a dosarului curent</string>
   <string name="fabContextHideFabUntilNextStart">Ascunde acest buton până la următoarea lansare</string>
   <string name="fabContextHideFabTemporarily">Ascunde temporar butonul principal plutitor</string>
   <string name="markdownQuickPreview">Vizualizare rapidă Markdown</string>
@@ -451,7 +451,6 @@
   <string name="noteBeforeRestoringBackup">Înainte ca totul să înceapă, faceți o copie de rezervă a datelor curente...</string>
   <string name="startMerging">Începeți fuziunea...</string>
   <string name="insertANewBook">Inserați o nouă carte</string>
-  <string name="insertANewCategory">Inserați o nouă categorie</string>
   <string name="insertingOrUpdatingArticles">Inserați sau actualizați articole...</string>
   <string name="insertANewArticle">Inserați un articol nou</string>
   <string name="updateAnExistingArticle">Actualizarea unui articol existent</string>
@@ -582,16 +581,16 @@
   <string name="syncNetwork">Copie de rezervă în cloud</string>
   <string name="unlockPro">Deblocați Pro</string>
   <string name="edit">Editare</string>
-  <string name="category">Categorie</string>
+  <string name="category">Pliant</string>
   <string name="failed">Eșuat</string>
-  <string name="insertCategoryAboveShort">Inserați categoria <b>mai sus</b></string>
-  <string name="insertCategoryBelowShort">Inserați categoria <b>mai jos</b></string>
-  <string name="insertCategoryBottomShort">Inserați categoria în <b>jos</b></string>
-  <string name="insertCategoryAboveLong">Inserați categoria <b>asupra</b> articolul curent</string>
-  <string name="insertCategoryBelowLong">Inserați categoria <b>sub</b> articolul curent</string>
-  <string name="insertCategoryBottomLong">Inserați o nouă categorie în <b>partea de jos</b> a listei de capitole</string>
-  <string name="insertCategory">Inserați o categorie nouă</string>
-  <string name="editCategory">Editați categoria</string>
+  <string name="insertCategoryAboveShort">Inserați un dosar <b>mai sus</b></string>
+  <string name="insertCategoryBelowShort">Inserați un dosar <b>mai jos</b></string>
+  <string name="insertCategoryBottomShort">Inserați un dosar în <b>jos</b></string>
+  <string name="insertCategoryAboveLong">Introduceți un dosar nou <b>asupra</b> articolul curent</string>
+  <string name="insertCategoryBelowLong">Introduceți un dosar nou <b>sub</b> articolul curent</string>
+  <string name="insertCategoryBottomLong">Inserați un folder nou în <b>partea de jos</b> a listei de capitole</string>
+  <string name="insertCategory">Inserați folderul</string>
+  <string name="editCategory">Editați folderul</string>
   <string name="unlockValidityPeriodSummary">%s\nNotă: dacă apăsați Înapoi pentru a ieși din aplicație, aceasta va fi blocată data viitoare</string>
   <string name="spacingsAndMargins">Spațieri și margini</string>
   <string name="license">Licență</string>
@@ -611,7 +610,7 @@
   <string name="currentChapter">Capitolul curent</string>
   <string name="sortingOptions">Opțiuni de sortare</string>
   <string name="modifyOrderOfChapters">Modificarea ordinii capitolelor</string>
-  <string name="modifyOrderOfCategories">Modificați ordinea categoriilor</string>
+  <string name="modifyOrderOfCategories">Modificați ordinea folderelor</string>
   <string name="useSystemFont">Utilizați fontul de sistem</string>
   <string name="useAppFont">Folosiți fontul aplicației</string>
   <string name="previewThemeLight">Tema: Lumina</string>
@@ -677,8 +676,7 @@
   <string name="beforeBackupIsMergedIntoLocal">înainte_ca_backupul_să_fie_fuzionat_în_local</string>
   <string name="updateABook">Actualizați o carte</string>
   <string name="deleteABook">Ștergeți o carte</string>
-  <string name="updateACategory">Actualizați o categorie</string>
-  <string name="deleteACategory">Ștergeți o categorie</string>
+  <string name="updateACategory">Actualizați un folder</string>
   <string name="cloudSync">Sincronizare cloud</string>
   <string name="autoSwitchThemesAndNightMode">Comutare automată între teme și modul noapte</string>
   <string name="syncFailedNotSign">Sincronizarea în cloud a eșuat, vă rugăm să vă conectați mai întâi la contul dvs. de stocare în cloud!</string>
@@ -699,4 +697,12 @@
   <string name="okSyncIt">OK, sincronizați-l</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Ați modificat articolul curent pe alte dispozitive, pentru a evita conflictele, vă rugăm să sincronizați mai întâi, altfel modificările dvs. de pe alte dispozitive pot fi eliminate.</string>
   <string name="tts">TTS (Citiți cu voce tare textul angajat pentru a vă ajuta să evitați greșelile de ortografie)</string>
+  <string name="about7zChange">Notă importantă despre backup și sincronizare în cloud</string>
+  <string name="readme7z">Pure Writer v20.2.0 modifică formatul fișierului de backup și sincronizare în cloud (.pwb), ceea ce poate reduce semnificativ dimensiunea fișierelor de backup sau sincronizare în cloud și poate reduce consumul de trafic, accelerând procesul de backup și sincronizare în cloud.\n\nCu toate acestea, acest lucru va duce la faptul că, dacă utilizați o versiune mai mică decât v20.2.0 a Pure Writer pe alte dispozitive, acesta nu va putea analiza corect cel mai recent format de date, sincronizarea în cloud nu va funcționa și backupul în cloud va raporta, de asemenea, în mod fals. „<b>Fișier corupt</b>”.\n\nPrin urmare, <b>trebuie să vă asigurați că toate dispozitivele dvs. utilizează Pure Writer mai sus de versiunea 20.2.0</b>, acest lucru este foarte important, vă rugăm să rețineți și să îl păstrați actualizat! 🙏</string>
+  <string name="ignoreBatteryOptimizationsTipForSync">Dezactivați optimizarea bateriei pentru a ajuta Pure Writer să realizeze Cloud Sync automat în fundal atunci când sistemul dvs. este inactiv (nu vă faceți griji, impactul asupra consumului bateriei este într-adevăr minim)</string>
+  <string name="ttsMode">Modul TTS (cuvânt sau propoziție?)</string>
+  <string name="ttsModeSentence">Rostiți <b>propoziția</b>\n(Numai unele limbi sunt acceptate pentru că nu știm cum să segmentăm propoziții pentru alte limbi‼️)</string>
+  <string name="ttsModeWord">Rostiți <b>cuvântul</b> pe care tocmai l-ați tastat</string>
+  <string name="readCurrentArticleAloud">Citiți cu voce tare articolul curent</string>
+  <string name="checkForUpdates">Verifică pentru actualizări</string>
 </resources>

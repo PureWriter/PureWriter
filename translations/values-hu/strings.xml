@@ -225,18 +225,18 @@
   <string name="markdownShortcutTip">Épp most illesztettél be egy Markdownt, ami csak Markdown előnézeti módban lép életbe. Szeretné aktiválni a Markdown módot?</string>
   <string name="importedFileTooLargeToOpen">Az importált fájl túl nagy, a fájl megnyitása nem sikerült</string>
   <string name="failed">Sikertelen</string>
-  <string name="insertCategoryAboveShort">Kategória beillesztése <b>fentebb</b></string>
-  <string name="insertCategoryBelowShort">Kategória beillesztése <b>alul</b></string>
-  <string name="insertCategoryBottomShort">Kategória beillesztése <b>alulra</b></string>
-  <string name="insertCategoryAboveLong">Kategória <b>az aktuális cikk fölé</b> beszúrása</string>
-  <string name="insertCategoryBelowLong">Kategória beillesztése <b>az aktuális cikk alá</b></string>
-  <string name="insertCategoryBottomLong">Új kategória beillesztése a fejezetlista <b>aljára</b>.</string>
-  <string name="insertCategory">Kategória beillesztése</string>
-  <string name="editCategory">Kategória szerkesztése</string>
-  <string name="category">Kategória</string>
+  <string name="insertCategoryAboveShort">Helyezzen be egy mappát <b>fent</b></string>
+  <string name="insertCategoryBelowShort">Helyezzen be egy mappát <b>alul</b></string>
+  <string name="insertCategoryBottomShort">Szúrjon be egy mappát az <b>alulra</b></string>
+  <string name="insertCategoryAboveLong">Szúrjon be egy új mappát az aktuális cikk <b>fölébe</b></string>
+  <string name="insertCategoryBelowLong">Helyezzen be egy új mappát az aktuális cikk <b> alá</b></string>
+  <string name="insertCategoryBottomLong">Szúrjon be egy új mappát a fejezetlista <b>aljára</b></string>
+  <string name="insertCategory">Mappa beszúrása</string>
+  <string name="editCategory">Mappa szerkesztése</string>
+  <string name="category">Mappa</string>
   <string name="deleteEmptyArticlesShort">Az összes üres cikk törlése</string>
   <string name="deleteEmptyArticlesLong">Törölje az összes üres címmel és tartalommal rendelkező cikket ebben a könyvben.</string>
-  <string name="deleteCategory">Kategória törlése</string>
+  <string name="deleteCategory">Mappa törlése</string>
   <string name="exportBook">Exportálja ezt a könyvet</string>
   <string name="needManualSortingTitle">Ennek a funkciónak a használatához kézi szortírozásra kell váltania</string>
   <string name="needManualSortingMessage">Meg akarja változtatni a beállításokat a Kézi válogatásra?</string>
@@ -325,7 +325,7 @@
   <string name="titleTextSize">Cím betűmérete</string>
   <string name="restoreByThisBackup">Visszaállítás ezzel a biztonsági mentéssel?</string>
   <string name="restoreByThisBackupWithAppName">Pure Writer: Visszaállítás ezzel a biztonsági másolattal</string>
-  <string name="collapseAllCategories">Összes kategória összezárása</string>
+  <string name="collapseAllCategories">Összecsukja az összes mappát</string>
   <string name="showMore">Mutasson többet</string>
   <string name="textColorAlpha">Szöveg színe alfa / átláthatóság</string>
   <string name="connectDesktop">Csatlakozás asztali verzió</string>
@@ -353,7 +353,7 @@
   <string name="needToPayForMarkdownRenderer">Ez a Markdown gyors előnézeti oldal, amelynek használatához fizetnie kell a Pure Writer Pro programért.</string>
   <string name="fabContextCreateNewAfterCurrent">Új cikk az aktuális cikk után</string>
   <string name="fabContextCreateNewAtTheBottom">Szúrjon be egy új cikket a cikklista aljára</string>
-  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Szúrjon be egy új cikket az aktuális kategória aljára</string>
+  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Szúrjon be egy új cikket az aktuális mappa aljára</string>
   <string name="fabContextHideFabUntilNextStart">Rejtse el ezt a gombot a következő indításig</string>
   <string name="fabContextHideFabTemporarily">A fő lebegő gomb ideiglenes elrejtése</string>
   <string name="license">Licenc</string>
@@ -553,7 +553,6 @@
   <string name="noteBeforeRestoringBackup">Mielőtt minden elkezdődik, készítsen biztonsági mentést az aktuális adatokról...</string>
   <string name="startMerging">Kezdje el az összevonást...</string>
   <string name="insertANewBook">Új könyv beillesztése</string>
-  <string name="insertANewCategory">Új kategória beillesztése</string>
   <string name="insertingOrUpdatingArticles">Cikkek beillesztése vagy frissítése...</string>
   <string name="insertANewArticle">Új cikk beillesztése</string>
   <string name="summary">Összefoglaló</string>
@@ -604,7 +603,7 @@
   <string name="privacyPolicySummary">Nem gyűjtünk semmilyen személyes adatot</string>
   <string name="sortingOptions">Rendezési lehetőségek</string>
   <string name="modifyOrderOfChapters">Módosítsa a fejezetek sorrendjét</string>
-  <string name="modifyOrderOfCategories">Módosítsa a kategóriák sorrendjét</string>
+  <string name="modifyOrderOfCategories">Módosítsa a mappák sorrendjét</string>
   <string name="saveAsTxtFile">Mentés .txt fájlként</string>
   <string name="saveAsMdFile">Mentés .md fájlként</string>
   <string name="saveAsLongImage">Mentés hosszú képként (.png)</string>
@@ -668,8 +667,7 @@
   <string name="beforeBackupIsMergedIntoLocal">mielőtt_a_biztonsági_másolatot_egyesítené_a_helyivel</string>
   <string name="updateABook">Frissítsen egy könyvet</string>
   <string name="deleteABook">Könyv törlése</string>
-  <string name="updateACategory">Kategória frissítése</string>
-  <string name="deleteACategory">Kategória törlése</string>
+  <string name="updateACategory">Mappa frissítése</string>
   <string name="cloudSync">Felhő szinkronizálás</string>
   <string name="autoSwitchThemesAndNightMode">Témák és éjszakai mód automatikus váltása</string>
   <string name="syncFailedNotSign">A felhő szinkronizálása sikertelen, kérjük, először jelentkezzen be felhőtárhely-fiókjába!</string>
@@ -690,4 +688,12 @@
   <string name="okSyncIt">OK, szinkronizálja</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Módosítottad a jelenlegi cikket más eszközökön. Az ütközések elkerülése érdekében először szinkronizáld, különben a többi eszközön végzett módosításaid elvehetők.</string>
   <string name="tts">TTS (Olvasd fel az elkötelezett szövegedet hangosan, hogy elkerüld a helyesírási hibákat)</string>
+  <string name="about7zChange">Fontos megjegyzés a felhőalapú biztonsági mentésről és szinkronizálásról</string>
+  <string name="readme7z">A Pure Writer v20.2.0 megváltoztatja a felhőalapú biztonsági mentési és szinkronizálási fájl (.pwb) formátumát, ami jelentősen csökkentheti a biztonsági mentési vagy felhőalapú szinkronizálási fájlok méretét, valamint csökkentheti a forgalom fogyasztását, felgyorsítva a felhőalapú biztonsági mentési és szinkronizálási folyamatot.\n\nEz azonban azt eredményezi, hogy ha a Pure Writer v20.2.0-nál régebbi verzióját használja más eszközökön, az nem tudja megfelelően elemezni a legújabb adatformátumot, nem fog működni a felhőszinkronizálás, és a felhőalapú biztonsági mentés is hamis jelentéseket küld. \"<b>A fájl sérült</b>\".\n\nEzért <b>meg kell győződnie arról, hogy minden eszköze a 20.2.0 feletti Pure Writer alkalmazást használja</b>, ez nagyon fontos, kérjük, tartsa szem előtt, és frissítse! 🙏</string>
+  <string name="ignoreBatteryOptimizationsTipForSync">Kapcsolja ki az akkumulátor-optimalizálást, hogy segítsen a Pure Writernek az automatikus háttér felhőszinkronizálásában, amikor a rendszer tétlen (ne aggódjon, az akkumulátorfogyasztásra gyakorolt hatás nagyon minimális)</string>
+  <string name="ttsMode">TTS mód (szó vagy mondat?)</string>
+  <string name="ttsModeSentence">Mondja ki a <b>mondatot</b>\n(Csak néhány nyelv támogatott, mert nem tudjuk, hogyan szegmentáljunk mondatokat más nyelvekre‼️)</string>
+  <string name="ttsModeWord">Mondja ki az imént beírt <b>szót</b></string>
+  <string name="readCurrentArticleAloud">Olvassa el az aktuális cikket</string>
+  <string name="checkForUpdates">Frissítések keresése</string>
 </resources>

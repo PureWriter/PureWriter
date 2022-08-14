@@ -220,14 +220,14 @@
   <string name="markdownShortcutTip">Sie haben gerade einen Markdown eingefügt, der nur im Markdown-Vorschaumodus wirksam wird. Möchten Sie den Markdown-Modus aktivieren?</string>
   <string name="importedFileTooLargeToOpen">Die importierte Datei ist zu groß, das Öffnen der Datei ist fehlgeschlagen</string>
   <string name="failed">Fehlgeschlagen</string>
-  <string name="insertCategoryAboveShort">Kategorie oben einfügen</string>
-  <string name="insertCategoryAboveLong">Kategorie oberhalb des aktuellen Artikels einfügen</string>
-  <string name="insertCategory">Kategorie einfügen</string>
-  <string name="editCategory">Kategorie bearbeiten</string>
-  <string name="category">Kategorie</string>
+  <string name="insertCategoryAboveShort">Fügen Sie <b>oben</b> einen Ordner ein</string>
+  <string name="insertCategoryAboveLong">Fügt einen neuen Ordner <b>oberhalb</b> des aktuellen Artikels ein</string>
+  <string name="insertCategory">Ordner einfügen</string>
+  <string name="editCategory">Ordner bearbeiten</string>
+  <string name="category">Mappe</string>
   <string name="deleteEmptyArticlesShort">Löschen Sie alle leeren Artikel</string>
   <string name="deleteEmptyArticlesLong">Löschen Sie alle Artikel mit leeren Titeln und Inhalten in diesem Buch</string>
-  <string name="deleteCategory">Kategorie löschen</string>
+  <string name="deleteCategory">Lösche Ordner</string>
   <string name="exportBook">Exportiere dieses Buch</string>
   <string name="needManualSortingTitle">Sie müssen zur manuellen Sortierung wechseln, um diese Funktion verwenden zu können</string>
   <string name="needManualSortingMessage">Möchten Sie die Einstellungen in manuelle Sortierung ändern?</string>
@@ -245,8 +245,8 @@
   <string name="lockFallback">Wenn Sie es nicht zu jeder Zeit entsperren können, können Sie die Systemeinstellungen Ihres Telefons aufrufen, alle Fingerabdrücke entfernen und Pure Writer erneut öffnen.</string>
   <string name="smoothScrollerTitle">Reibungslose Bildlaufanimation zum Klicken auf eine Textzeile</string>
   <string name="defaultMessageUpdateApk">Dies ist eine wichtige Version. Bitte aktualisieren Sie auf diese Version so bald wie möglich</string>
-  <string name="insertCategoryBottomShort">Kategorie unterhalb einfügen</string>
-  <string name="insertCategoryBottomLong">Fügen Sie eine neue Kategorie am Ende der Kapitelliste ein</string>
+  <string name="insertCategoryBottomShort">Fügen Sie einen Ordner <b>unten</b> ein</string>
+  <string name="insertCategoryBottomLong">Fügen Sie <b>unten</b> in der Kapitelliste einen neuen Ordner ein</string>
   <string name="pureWriterBBS">Pure Writer BBS</string>
   <string name="findReplace">Suchen und Ersetzen</string>
   <string name="replace">Ersetzen</string>
@@ -293,8 +293,8 @@
   <string name="switchingBooksTooltip">Tipp: Wenn Sie oben auf den Buchtitel klicken, können Sie zwischen Büchern wechseln</string>
   <string name="scrollToTheCurrentArticle">Zum aktuellen Artikel blättern</string>
   <string name="allBooks">Alle Bücher</string>
-  <string name="insertCategoryBelowShort">Kategorie unten einfügen</string>
-  <string name="insertCategoryBelowLong">Kategorie unterhalb des aktuellen Artikels einfügen</string>
+  <string name="insertCategoryBelowShort">Fügen Sie <b>unten</b> einen Ordner ein</string>
+  <string name="insertCategoryBelowLong">Fügen Sie einen neuen Ordner <b>unterhalb</b> des aktuellen Artikels ein</string>
   <string name="branchLine">Zweiglinie</string>
   <string name="brightLine">Helle Linie</string>
   <string name="darkLine">Dunkle Linie</string>
@@ -338,7 +338,7 @@
   <string name="titleTextSize">Schriftgröße des Titels</string>
   <string name="restoreByThisBackup">Diese Sicherung wiederherstellen?</string>
   <string name="restoreByThisBackupWithAppName">Diese Sicherung wiederherstellen?</string>
-  <string name="collapseAllCategories">Alle Kategorien einklappen</string>
+  <string name="collapseAllCategories">Alle Ordner reduzieren</string>
   <string name="showMore">Mehr anzeigen</string>
   <string name="textColorAlpha">Transparenz der Textfarbe</string>
   <string name="tipNotSupportThisDesktopVersion">Die aktuellen Versionen für Mobilgeräte und Desktops stimmen nicht überein und können nicht verbunden werden. Bitte aktualisieren Sie beide auf die neueste Version und versuchen Sie es erneut.</string>
@@ -442,7 +442,7 @@
   <string name="useLegacyRender">Verwenden Sie den Legacy-Renderer</string>
   <string name="changelog">Änderungsprotokoll</string>
   <string name="advancedReadOnlyMode">Erweiterte Nur-Lese-Modus</string>
-  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Neuer Artikel am Ende der aktuellen Kategorie</string>
+  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Fügen Sie einen neuen Artikel am Ende des aktuellen Ordners ein</string>
   <string name="needOpenArticleFirst">Sie müssen zuerst einen Artikel öffnen, um diese Option nutzen zu können</string>
   <string name="restoreArticleScrollPosition">Stellen Sie die Bildlaufposition des Artikels wieder her</string>
   <string name="summaryScrollToBottom">Gibt an, ob diese Schaltfläche im Editor angezeigt werden soll</string>
@@ -562,7 +562,7 @@
   <string name="whetherOverwriteSettings">Möchten Sie die lokalen Einstellungen überschreiben?</string>
   <string name="askOverwriteSettings">Wir werden die Artikeldatenbank in Ihrer Sicherungsdatei verwenden, um die lokale Artikeldatenbank zu überschreiben, aber wir wissen nicht, ob Sie möchten, dass wir die Einstellungen in der Sicherungsdatei verwenden, um die lokalen Einstellungen zu überschreiben. Bitte wählen Sie:</string>
   <string name="privacyPolicySummary">Wir werden keine privaten Informationen von Ihnen sammeln</string>
-  <string name="modifyOrderOfCategories">Ändern Sie die Reihenfolge der Kategorien</string>
+  <string name="modifyOrderOfCategories">Ändern Sie die Reihenfolge der Ordner</string>
   <string name="modifyOrderOfChapters">Ändern Sie die Reihenfolge der Kapitel</string>
   <string name="sortingOptions">Sortiermöglichkeiten</string>
   <string name="saveAsTxtFile">Als .txt-Datei speichern</string>
@@ -644,9 +644,7 @@
   <string name="beforeBackupIsMergedIntoLocal">bevor_die_Sicherung_in_die_lokale_zusammengeführt_wird</string>
   <string name="updateABook">Aktualisieren Sie ein Buch</string>
   <string name="deleteABook">Löschen Sie ein Buch</string>
-  <string name="updateACategory">Aktualisieren Sie eine Kategorie</string>
-  <string name="deleteACategory">Löschen Sie eine Kategorie</string>
-  <string name="insertANewCategory">Fügen Sie eine neue Kategorie ein</string>
+  <string name="updateACategory">Aktualisieren Sie einen Ordner</string>
   <string name="insertANewArticle">Fügen Sie einen neuen Artikel ein</string>
   <string name="insertingOrUpdatingArticles">Artikel einfügen oder aktualisieren…</string>
   <string name="summary">Zusammenfassung</string>
@@ -671,4 +669,12 @@
   <string name="okSyncIt">OK, synchronisieren</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Du hast den aktuellen Artikel auf anderen Geräten geändert, um Konflikte zu vermeiden, bitte zuerst synchronisieren, sonst werden deine Änderungen auf anderen Geräten möglicherweise verworfen.</string>
   <string name="tts">TTS (Lesen Sie Ihren zugesagten Text laut vor, um Rechtschreibfehler zu vermeiden)</string>
+  <string name="about7zChange">Wichtiger Hinweis zur Cloud-Sicherung und -Synchronisierung</string>
+  <string name="readme7z">Pure Writer v20.2.0 ändert das Format der Cloud-Sicherungs- und Synchronisierungsdatei (.pwb), was die Größe Ihrer Sicherungs- oder Cloud-Synchronisierungsdateien erheblich reduzieren und Ihren Datenverkehr reduzieren kann, wodurch der Cloud-Sicherungs- und Synchronisierungsprozess beschleunigt wird.\n\nDies führt jedoch dazu, dass, wenn Sie eine niedrigere Version als v20.2.0 von Pure Writer auf anderen Geräten verwenden, das neueste Datenformat nicht korrekt analysiert werden kann, die Cloud-Synchronisierung nicht funktioniert und die Cloud-Sicherung auch fälschlicherweise meldet \"<b>Datei beschädigt</b>\".\n\nDaher <b>müssen Sie sicherstellen, dass alle Ihre Geräte Pure Writer über v20.2.0 verwenden</b>, das ist sehr wichtig, bitte denken Sie daran und halten Sie es auf dem neuesten Stand! 🙏</string>
+  <string name="ignoreBatteryOptimizationsTipForSync">Deaktivieren Sie die Batterieoptimierung, um Pure Writer bei der automatischen Cloud-Synchronisierung im Hintergrund zu unterstützen, wenn Ihr System im Leerlauf ist (keine Sorge, die Auswirkungen auf den Batterieverbrauch sind wirklich minimal).</string>
+  <string name="ttsMode">TTS-Modus (Wort oder Satz?)</string>
+  <string name="ttsModeSentence">Sprechen Sie den <b>Satz</b>\n(Nur einige Sprachen werden unterstützt, da wir nicht wissen, wie man Sätze für andere Sprachen segmentiert‼️)</string>
+  <string name="ttsModeWord">Sprechen Sie das gerade eingegebene <b>Wort</b></string>
+  <string name="readCurrentArticleAloud">Lesen Sie den aktuellen Artikel laut vor</string>
+  <string name="checkForUpdates">Auf Updates prüfen</string>
 </resources>

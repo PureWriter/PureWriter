@@ -175,7 +175,7 @@
   <string name="importedFileTooLargeToOpen">Importowany plik jest zbyt duży, nie udało się go otworzyć</string>
   <string name="deleteEmptyArticlesShort">Usuń wszystkie puste artykuły</string>
   <string name="deleteEmptyArticlesLong">Usuń wszystkie artykuły z pustymi tytułami i treścią w tej książce</string>
-  <string name="deleteCategory">Usuń kategorię</string>
+  <string name="deleteCategory">Usunięty folder</string>
   <string name="exportBook">Wyeksportuj tę książkę</string>
   <string name="needManualSortingTitle">Należy zmienić sortowanie na ręczne, aby korzystać z tej funkcji</string>
   <string name="needManualSortingMessage">Czy chcesz zmienić ustawienia na "Sortowanie ręczne"? </string>>
@@ -257,7 +257,7 @@
   <string name="needToPayForMarkdownRenderer">To jest strona szybkiego podglądu Markdown, która wymaga opłacenia Pure Writer Pro, aby z niej korzystać.</string>
   <string name="fabContextCreateNewAfterCurrent">Nowy artykuł po bieżącym artykule</string>
   <string name="fabContextCreateNewAtTheBottom">Wstaw nowy artykuł na dole listy artykułów</string>
-  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Wstaw nowy artykuł na dole aktualnej kategorii</string>
+  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Wstaw nowy artykuł na dole bieżącego folderu</string>
   <string name="fabContextHideFabUntilNextStart">Ukryj ten przycisk do następnego uruchomienia</string>
   <string name="markdownQuickPreview">Szybki podgląd markdown</string>
   <string name="exportToPicMdTxt">Eksportuj jako długi obrazek/md/txt</string>
@@ -430,7 +430,6 @@
   <string name="noteBeforeRestoringBackup">Przed rozpoczęciem wszystkiego, wykonaj kopię zapasową bieżących danych...</string>
   <string name="startMerging">Rozpocznij scalanie...</string>
   <string name="insertANewBook">Wstaw nową książkę</string>
-  <string name="insertANewCategory">Wstaw nową kategorię</string>
   <string name="insertingOrUpdatingArticles">Wprowadzanie lub aktualizacja artykułów...</string>
   <string name="insertANewArticle">Wstaw nowy artykuł</string>
   <string name="updateAnExistingArticle">Uaktualnij istniejący artykuł</string>
@@ -561,16 +560,16 @@
   <string name="syncNetwork">Kopia zapasowa w chmurze</string>
   <string name="unlockPro">Odblokuj Pro</string>
   <string name="edit">Edytuj</string>
-  <string name="category">Kategoria</string>
+  <string name="category">Teczka</string>
   <string name="failed">Niepowodzenie</string>
-  <string name="insertCategoryAboveShort">Wstaw kategorię <b>powyżej</b></string>
-  <string name="insertCategoryBelowShort">Wstaw kategorię <b>poniżej</b></string>
-  <string name="insertCategoryBottomShort">Wstaw kategorię na <b>dół</b></string>
-  <string name="insertCategoryAboveLong">Wstaw kategorię <b>nad</b> bieżącym artykułem</string>
-  <string name="insertCategoryBelowLong">Wstaw kategorię <b>poniżej</b> bieżącego artykułu</string>
-  <string name="insertCategoryBottomLong">Wstaw nową kategorię na <b>dół</b> listy rozdziałów</string>
-  <string name="insertCategory">Wstaw nową kategorię</string>
-  <string name="editCategory">Edytuj kategorię</string>
+  <string name="insertCategoryAboveShort">Wstaw folder <b>powyżej</b></string>
+  <string name="insertCategoryBelowShort">Wstaw folder <b>poniżej</b></string>
+  <string name="insertCategoryBottomShort">Wstaw folder na <b>dół</b></string>
+  <string name="insertCategoryAboveLong">Wstaw nowy folder <b>nad</b> bieżącym artykułem</string>
+  <string name="insertCategoryBelowLong">Wstaw nowy folder <b>poniżej</b> bieżącego artykułu</string>
+  <string name="insertCategoryBottomLong">Wstaw nowy folder na <b>dół</b> listy rozdziałów</string>
+  <string name="insertCategory">Wstaw folder</string>
+  <string name="editCategory">Edytuj folder</string>
   <string name="unlockValidityPeriodSummary">%s\nUwaga: jeśli naciśniesz Wstecz, aby wyjść z aplikacji, zostanie ona zablokowana następnym razem</string>
   <string name="spacingsAndMargins">Odstępy i marginesy</string>
   <string name="license">Licencja</string>
@@ -599,7 +598,7 @@
   <string name="textColorSummary">Uwaga: Po przełączeniu papieru kolor tekstu zostanie automatycznie przywrócony do koloru domyślnego.</string>
   <string name="titleTextSize">Rozmiar czcionki tytułu</string>
   <string name="restoreByThisBackup">Przywrócić przez tę kopię zapasową?</string>
-  <string name="collapseAllCategories">Zwiń wszystkie kategorie</string>
+  <string name="collapseAllCategories">Zwiń wszystkie foldery</string>
   <string name="showMore">Pokaż więcej</string>
   <string name="textColorAlpha">Kolor tekstu alfa / przezroczystość</string>
   <string name="connectDesktop">Podłącz wersję komputerową</string>
@@ -613,7 +612,7 @@
   <string name="messageWhyNeedSAF">Aby lepiej chronić prywatność użytkowników, począwszy od Androida 11, Pure Writer **nie wymaga już pełnych uprawnień do odczytu/zapisu pamięci zewnętrznej**, zamiast tego pozwala **użytkownikom określić katalog folderów**, a Pure Writer będzie miał tylko dostęp do odczytu/ dostęp do zapisu w tym katalogu.\n\nDlatego musisz wybrać folder, klikając poniższy przycisk. Aby przywrócić stare dane podczas ponownej instalacji w przyszłości, **zdecydowanie** zalecamy wybranie folderu ***`Documents`*** 🙏</string>
   <string name="sortingOptions">Opcje sortowania</string>
   <string name="modifyOrderOfChapters">Zmień kolejność rozdziałów</string>
-  <string name="modifyOrderOfCategories">Zmień kolejność kategorii</string>
+  <string name="modifyOrderOfCategories">Zmień kolejność folderów</string>
   <string name="saveAsTxtFile">Zapisz jako plik .txt</string>
   <string name="saveAsMdFile">Zapisz jako plik .md</string>
   <string name="saveAsLongImage">Zapisz jako długi obraz (.png)</string>
@@ -679,8 +678,7 @@
   <string name="beforeBackupIsMergedIntoLocal">zanim_kopia_zapasowa_zostanie_scalona_z_lokalną</string>
   <string name="updateABook">Zaktualizuj książkę</string>
   <string name="deleteABook">Usuń książkę</string>
-  <string name="updateACategory">Zaktualizuj kategorię</string>
-  <string name="deleteACategory">Usuń kategorię</string>
+  <string name="updateACategory">Zaktualizuj folder</string>
   <string name="cloudSync">Synchronizacja w chmurze</string>
   <string name="autoSwitchThemesAndNightMode">Automatycznie przełączaj motywy i tryb nocny</string>
   <string name="syncFailedNotSign">Synchronizacja w chmurze nie powiodła się, najpierw zaloguj się na swoje konto w chmurze!</string>
@@ -701,4 +699,12 @@
   <string name="okSyncIt">OK, zsynchronizuj</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Zmodyfikowałeś bieżący artykuł na innych urządzeniach, aby uniknąć konfliktów, najpierw wykonaj synchronizację, w przeciwnym razie Twoje modyfikacje na innych urządzeniach mogą zostać odrzucone.</string>
   <string name="tts">TTS (Przeczytaj na głos swój zadeklarowany tekst, aby uniknąć błędów ortograficznych)</string>
+  <string name="about7zChange">Ważna informacja o kopii zapasowej i synchronizacji w chmurze</string>
+  <string name="readme7z">Pure Writer v20.2.0 zmienia format pliku kopii zapasowej i synchronizacji w chmurze (.pwb), co może znacznie zmniejszyć rozmiar plików kopii zapasowej lub synchronizacji w chmurze oraz zmniejszyć zużycie ruchu, przyspieszając proces tworzenia kopii zapasowej i synchronizacji w chmurze.\n\nSpowoduje to jednak, że jeśli użyjesz wersji niższej niż v20.2.0 Pure Writera na innych urządzeniach, nie będzie on w stanie poprawnie przeanalizować najnowszego formatu danych, synchronizacja w chmurze nie będzie działać, a kopia zapasowa w chmurze również będzie błędnie raportować „<b>Plik uszkodzony</b>”.\n\nDlatego <b>musisz upewnić się, że wszystkie Twoje urządzenia używają Pure Writer w wersji powyżej 20.2.0</b>, jest to bardzo ważne, pamiętaj o tym i aktualizuj! 🙏</string>
+  <string name="ignoreBatteryOptimizationsTipForSync">Wyłącz optymalizację baterii, aby pomóc Pure Writer wykonać automatyczną synchronizację w tle w chmurze, gdy system jest bezczynny (nie martw się, wpływ na zużycie baterii jest naprawdę minimalny)</string>
+  <string name="ttsMode">Tryb TTS (słowo czy zdanie?)</string>
+  <string name="ttsModeSentence">Wypowiedz <b>zdanie</b>\n(Obsługiwane są tylko niektóre języki, ponieważ nie wiemy, jak podzielić zdania na inne języki‼️)</string>
+  <string name="ttsModeWord">Wypowiedz <b>słowo</b>, które właśnie wpisałeś</string>
+  <string name="readCurrentArticleAloud">Przeczytaj na głos bieżący artykuł</string>
+  <string name="checkForUpdates">Sprawdź aktualizacje</string>
 </resources>

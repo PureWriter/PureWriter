@@ -230,18 +230,18 @@
   <string name="markdownShortcutTip">Olet juuri lisännyt Markdownin, joka vaikuttaa vain Markdownin esikatselutilassa. Haluatko aktivoida Markdown-tilan?</string>
   <string name="importedFileTooLargeToOpen">Tuotu tiedosto on liian suuri, tiedoston avaaminen epäonnistui</string>
   <string name="failed">Epäonnistui</string>
-  <string name="insertCategoryAboveShort">Sisällytä luokka <b>yläpuolelle</b></string>
-  <string name="insertCategoryBelowShort">Sisällytä luokka <b>alhaalla</b></string>
-  <string name="insertCategoryBottomShort">Sisällytä luokka <b>alas</b></string>
-  <string name="insertCategoryAboveLong">Sisällytä kategoria <b>yläpuolelle</b> nykyistä artikkelia</string>
-  <string name="insertCategoryBelowLong">Sisällytä luokka <b>alhaalla</b> nykyiseen artikkeliin</string>
-  <string name="insertCategoryBottomLong">Sisällytä uusi kategoria <b>lukuluettelon alaosaan</b></string>
-  <string name="insertCategory">Uuden luokan lisääminen</string>
-  <string name="editCategory">Muokkaa luokkaa</string>
-  <string name="category">Kategoria</string>
+  <string name="insertCategoryAboveShort">Lisää kansio <b>yläpuolelle</b></string>
+  <string name="insertCategoryBelowShort">Lisää kansio <b>alle</b></string>
+  <string name="insertCategoryBottomShort">Lisää kansio <b>alaan</b></string>
+  <string name="insertCategoryAboveLong">Lisää uusi kansio nykyisen artikkelin <b>yläpuolelle</b></string>
+  <string name="insertCategoryBelowLong">Lisää uusi kansio nykyisen artikkelin <b>alle</b></string>
+  <string name="insertCategoryBottomLong">Lisää uusi kansio lukuluettelon <b>alareunaan</b></string>
+  <string name="insertCategory">Lisää kansio</string>
+  <string name="editCategory">Muokkaa kansiota</string>
+  <string name="category">Kansio</string>
   <string name="deleteEmptyArticlesShort">Poista kaikki tyhjät artikkelit</string>
   <string name="deleteEmptyArticlesLong">Poista kaikki artikkelit, joilla on tyhjä otsikko ja sisältö tässä kirjassa</string>
-  <string name="deleteCategory">Poista luokka</string>
+  <string name="deleteCategory">Poista kansio</string>
   <string name="exportBook">Vie tämä kirja</string>
   <string name="needManualSortingTitle">Tarvitsee vaihtaa manuaaliseen lajitteluun käyttääkseen tätä ominaisuutta</string>
   <string name="needManualSortingMessage">Tahdotko vaihtaa asetukset "Manuaaliseen lajitteluun"?</string>
@@ -331,7 +331,7 @@
   <string name="titleTextSize">Tittelin fonttikoko</string>
   <string name="restoreByThisBackup">Palauta tämän varmuuskopion avulla?</string>
   <string name="restoreByThisBackupWithAppName">Pure Writer: Restore by this backup</string>
-  <string name="collapseAllCategories">Lopeta kaikki luokat</string>
+  <string name="collapseAllCategories">Kutista kaikki kansiot</string>
   <string name="showMore">Näytä lisää</string>
   <string name="textColorAlpha">Tekstin värin alfa / läpinäkyvyys</string>
   <string name="connectDesktop">Kytke työpöytäversio</string>
@@ -359,7 +359,7 @@
   <string name="needToPayForMarkdownRenderer">Tämä on Markdown Quick Preview -sivu, jonka käyttäminen edellyttää Pure Writer Pro -ohjelman maksamista.</string>
   <string name="fabContextCreateNewAfterCurrent">Uusi artikkeli nykyisen artikkelin jälkeen</string>
   <string name="fabContextCreateNewAtTheBottom">Uuden artikkelin lisääminen artikkeliluettelon alaosaan</string>
-  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Uuden artikkelin lisääminen nykyisen kategorian alareunaan</string>
+  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Lisää uusi artikkeli nykyisen kansion alaosaan</string>
   <string name="fabContextHideFabUntilNextStart">Kätke tämä painike seuraavaan käynnistykseen asti</string>
   <string name="fabContextHideFabTemporarily">Kätke kelluva pääpainike väliaikaisesti</string>
   <string name="license">Lisenssi</string>
@@ -562,7 +562,6 @@
   <string name="noteBeforeRestoringBackup">Tehdä varmuuskopio nykyisistä tiedoista ennen kuin kaikki alkaa...</string>
   <string name="startMerging">Aloita yhdistäminen...</string>
   <string name="insertANewBook">Sisällytä uusi kirja</string>
-  <string name="insertANewCategory">Uuden luokan lisääminen</string>
   <string name="insertingOrUpdatingArticles">Artikkeleiden lisääminen tai päivittäminen...</string>
   <string name="insertANewArticle">Uuden artikkelin lisääminen</string>
   <string name="summary">Yhteenveto</string>
@@ -623,7 +622,7 @@
   <string name="typewriterModeMode0">Kappaletila</string>
   <string name="merging">Yhdistetään…</string>
   <string name="once">koskaan</string>
-  <string name="modifyOrderOfCategories">Muokkaa kategorioiden järjestystä</string>
+  <string name="modifyOrderOfCategories">Muokkaa kansioiden järjestystä</string>
   <string name="modifyOrderOfChapters">Muokkaa lukujen järjestystä</string>
   <string name="sortingOptions">Lajitteluvaihtoehdot</string>
   <string name="saveAsTxtFile">Tallenna .txt-tiedostona</string>
@@ -691,8 +690,7 @@
   <string name="beforeBackupIsMergedIntoLocal">ennen_kuin_varmuuskopio_on_yhdistetty_paikalliseen</string>
   <string name="updateABook">Päivitä kirja</string>
   <string name="deleteABook">Poista kirja</string>
-  <string name="updateACategory">Päivitä luokka</string>
-  <string name="deleteACategory">Poista luokka</string>
+  <string name="updateACategory">Päivitä kansio</string>
   <string name="cloudSync">Pilvien synkronointi</string>
   <string name="autoSwitchThemesAndNightMode">Vaihda teemat ja yötila automaattisesti</string>
   <string name="syncFailedNotSign">Pilvisynkronointi epäonnistui, kirjaudu ensin sisään pilvitallennustilille!</string>
@@ -713,4 +711,12 @@
   <string name="okSyncIt">OK, synkronoi se</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Olet muokannut nykyistä artikkelia muissa laitteissa. Välttääksesi ristiriidat, synkronoi ensin, muuten muilla laitteilla tekemäsi muutokset voidaan hylätä.</string>
   <string name="tts">TTS (Lue sitoutunut tekstisi ääneen auttaaksesi sinua välttämään kirjoitusvirheet)</string>
+  <string name="about7zChange">Tärkeä huomautus pilvivarmuuskopioinnista ja synkronoinnista</string>
+  <string name="readme7z">Pure Writer v20.2.0 muuttaa pilvivarmuuskopio- ja synkronointitiedoston (.pwb) muotoa, mikä voi merkittävästi pienentää varmuuskopio- tai pilvisynkronointitiedostojesi kokoa ja vähentää liikenteen kulutusta, mikä nopeuttaa pilvivarmuuskopiointi- ja synkronointiprosessia.\n\nTämä kuitenkin johtaa siihen, että jos käytät muissa laitteissa Pure Writerin versiota 20.2.0:ta aiempaa, se ei pysty jäsentämään viimeisintä tietomuotoa oikein, pilvisynkronointi ei toimi ja pilvivarmuuskopiointi raportoi myös väärin. \"<b>Tiedosto vioittunut</b>\".\n\nSiksi <b>sinun on varmistettava, että kaikki laitteesi käyttävät Pure Writer -versiota 20.2.0:n yläpuolella</b>. Tämä on erittäin tärkeää. Pidä se mielessä ja päivitä se! 🙏</string>
+  <string name="ignoreBatteryOptimizationsTipForSync">Poista akun optimointi käytöstä, jotta Pure Writer voi tehdä automaattisen taustapilven synkronoinnin, kun järjestelmäsi on käyttämättömänä (älä huoli, vaikutus akun kulutukseen on todella minimaalinen)</string>
+  <string name="ttsMode">TTS-tila (sana vai lause?)</string>
+  <string name="ttsModeSentence">Puhu <b>lause</b>\n(Vain joitain kieliä tuetaan, koska emme osaa segmentoida lauseita muille kielille‼️)</string>
+  <string name="ttsModeWord">Puhu juuri kirjoittamasi <b>sana</b></string>
+  <string name="readCurrentArticleAloud">Lue nykyinen artikkeli ääneen</string>
+  <string name="checkForUpdates">Tarkista päivitykset</string>
 </resources>

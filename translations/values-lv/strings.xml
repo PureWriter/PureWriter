@@ -179,7 +179,7 @@
   <string name="importedFileTooLargeToOpen">Importētais fails ir pārāk liels, faila atvēršana neizdevās</string>
   <string name="deleteEmptyArticlesShort">Izdzēst visus tukšos rakstus</string>
   <string name="deleteEmptyArticlesLong">Izdzēst visus rakstus ar tukšiem nosaukumiem un saturu šajā grāmatā</string>
-  <string name="deleteCategory">Izdzēst kategoriju</string>
+  <string name="deleteCategory">Dzēst mapi</string>
   <string name="exportBook">Ieksportēt šo grāmatu</string>
   <string name="needManualSortingTitle">Lai izmantotu šo funkciju, ir jāpārslēdzas uz manuālo šķirošanu</string>
   <string name="needManualSortingMessage">Vai vēlaties mainīt iestatījumus uz "Manuālā šķirošana"</string>?
@@ -252,7 +252,7 @@
   <string name="textColorSummary">Piezīme: Pārslēdzot Papīru, teksta krāsa tiks automātiski atjaunota uz noklusējuma krāsu.</string>
   <string name="titleTextSize">Nosaukuma fonta lielums</string>
   <string name="restoreByThisBackup">Atjaunot pēc šīs dublējuma kopijas?"</string>
-  <string name="collapseAllCategories">Savākt visas kategorijas</string>
+  <string name="collapseAllCategories">Sakļaut visas mapes</string>
   <string name="showMore">Parādīt vairāk</string>
   <string name="textColorAlpha">Teksta krāsas alfa/pārredzamība</string>
   <string name="connectDesktop">Savienojiet darbvirsmas versiju</string>
@@ -279,7 +279,7 @@
   <string name="needToPayForMarkdownRenderer">Šī ir Markdown ātrās priekšskatīšanas lapa, kuras izmantošanai ir nepieciešams maksāt par Pure Writer Pro.</string>
   <string name="fabContextCreateNewAfterCurrent">Jauns raksts pēc pašreizējā raksta</string>
   <string name="fabContextCreateNewAtTheBottom">Jauns raksts ievietojams rakstu saraksta apakšā</string>
-  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Izvietot jaunu rakstu pašreizējās kategorijas apakšā</string>
+  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Ievietojiet jaunu rakstu pašreizējās mapes apakšā</string>
   <string name="fabContextHideFabUntilNextStart">Slēpt šo pogu līdz nākamajai palaišanai</string>
   <string name="fabContextHideFabTemporarily">Slēpt galveno peldošo pogu uz laiku</string>
   <string name="markdownQuickPreview">Markdown ātrā priekšskatīšana</string>
@@ -587,16 +587,16 @@
   <string name="syncNetwork">Mākoņa dublēšana</string>
   <string name="unlockPro">Atbloķēt Pro</string>
   <string name="edit">Rediģēt</string>
-  <string name="category">Kategorija</string>
+  <string name="category">Mape</string>
   <string name="failed">Neizdevās</string>
-  <string name="insertCategoryAboveShort">Ievietot kategoriju <b>augšpusē</b></string>
-  <string name="insertCategoryBelowShort">Ievietot kategoriju <b>zemāk</b></string>
-  <string name="insertCategoryBottomShort">Ievietot kategoriju <b>apakšā</b></string>
-  <string name="insertCategoryAboveLong">Ievietot kategoriju <b>virs</b> pašreizējā raksta</string>
-  <string name="insertCategoryBelowLong">Ievietot kategoriju <b>zem</b> pašreizējā raksta</string>
-  <string name="insertCategoryBottomLong">Ievietot jaunu kategoriju nodaļu saraksta <b>apakšā</b></string>
-  <string name="insertCategory">Ievietot jaunu kategoriju</string>
-  <string name="editCategory">Rediģēt kategoriju</string>
+  <string name="insertCategoryAboveShort">Ievietojiet mapi <b>augšpusē</b></string>
+  <string name="insertCategoryBelowShort">Ievietojiet mapi <b>zemāk</b></string>
+  <string name="insertCategoryBottomShort">Ievietojiet mapi <b>apakšā</b></string>
+  <string name="insertCategoryAboveLong">Ievietojiet jaunu mapi <b>virs</b> pašreizējā raksta</string>
+  <string name="insertCategoryBelowLong">Ievietojiet jaunu mapi <b>zem</b> pašreizējā raksta</string>
+  <string name="insertCategoryBottomLong">Ievietojiet jaunu mapi nodaļu saraksta <b>apakšā</b></string>
+  <string name="insertCategory">Ievietot mapi</string>
+  <string name="editCategory">Rediģēt mapi</string>
   <string name="unlockValidityPeriodSummary">%s\nPiezīme: ja nospiedīsiet Atpakaļ, lai izietu no lietotnes, nākamreiz tā tiks bloķēta.</string>
   <string name="spacingsAndMargins">Atstarpes un piemales</string>
   <string name="license">licence</string>
@@ -613,7 +613,7 @@
   <string name="yes">Labi</string>
   <string name="no">Atcelt</string>
   <string name="books">Grāmatas</string>
-  <string name="modifyOrderOfCategories">Mainiet kategoriju secību</string>
+  <string name="modifyOrderOfCategories">Mainiet mapju secību</string>
   <string name="modifyOrderOfChapters">Mainiet nodaļu secību</string>
   <string name="sortingOptions">Šķirošanas iespējas</string>
   <string name="useSystemFont">Izmantojiet sistēmas fontu</string>
@@ -681,8 +681,7 @@
   <string name="beforeBackupIsMergedIntoLocal">pirms_dublējums_tiek_apvienots_ar_vietējo</string>
   <string name="updateABook">Atjauniniet grāmatu</string>
   <string name="deleteABook">Dzēst grāmatu</string>
-  <string name="updateACategory">Atjauniniet kategoriju</string>
-  <string name="deleteACategory">Dzēst kategoriju</string>
+  <string name="updateACategory">Atjauniniet mapi</string>
   <string name="cloudSync">Mākoņu sinhronizācija</string>
   <string name="autoSwitchThemesAndNightMode">Automātiski pārslēgt motīvus un nakts režīmu</string>
   <string name="syncFailedNotSign">Mākoņa sinhronizācija neizdevās. Lūdzu, vispirms piesakieties savā mākoņkrātuves kontā!</string>
@@ -703,4 +702,12 @@
   <string name="okSyncIt">Labi, sinhronizējiet to</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Jūs esat mainījis pašreizējo rakstu citās ierīcēs. Lai izvairītos no konfliktiem, lūdzu, vispirms sinhronizējiet, pretējā gadījumā citās ierīcēs veiktās izmaiņas var tikt atmestas.</string>
   <string name="tts">TTS (skaļi lasiet savu tekstu, lai palīdzētu izvairīties no pareizrakstības kļūdām)</string>
+  <string name="about7zChange">Svarīgs paziņojums par mākoņa dublēšanu un sinhronizāciju</string>
+  <string name="readme7z">Pure Writer v20.2.0 maina mākoņa dublēšanas un sinhronizācijas faila (.pwb) formātu, kas var ievērojami samazināt jūsu dublējuma vai mākoņa sinhronizācijas failu lielumu un samazināt trafika patēriņu, paātrinot mākoņa dublēšanas un sinhronizācijas procesu.\n\nTomēr, ja citās ierīcēs izmantosit Pure Writer versiju, kas ir jaunāka par v20.2.0, tā nevarēs pareizi parsēt jaunāko datu formātu, mākoņa sinhronizācija nedarbosies, un mākoņa dublēšana arī nepatiesi ziņos. \"<b>Fails bojāts</b>\".\n\nTāpēc <b>jums ir jāpārliecinās, ka visās jūsu ierīcēs tiek izmantots Pure Writer, kas ir augstāks par v20.2.0</b>. Tas ir ļoti svarīgi. Lūdzu, paturiet to prātā un regulāri atjauniniet to! 🙏</string>
+  <string name="ignoreBatteryOptimizationsTipForSync">Izslēdziet akumulatora optimizāciju, lai palīdzētu Pure Writer veikt automātisku fona mākoņsinhronizāciju, kad sistēma ir dīkstāvē (neuztraucieties, ietekme uz akumulatora patēriņu ir patiešām minimāla)</string>
+  <string name="ttsMode">TTS režīms (vārds vai teikums?)</string>
+  <string name="ttsModeSentence">Izrunājiet <b>teikumu</b>\n(Tiek atbalstītas tikai dažas valodas, jo mēs nezinām, kā segmentēt teikumus citām valodām‼️)</string>
+  <string name="ttsModeWord">Izrunājiet tikko ievadīto <b>vārdu</b></string>
+  <string name="readCurrentArticleAloud">Izlasiet pašreizējo rakstu skaļi</string>
+  <string name="checkForUpdates">Meklēt atjauninājumus</string>
 </resources>

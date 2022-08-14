@@ -165,7 +165,7 @@
   <string name="moveTo">移动到</string>
   <string name="move">移动</string>
   <string name="timeMachine">时光机</string>
-  <string name="listFirst">启动时打开列表</string>
+  <string name="listFirst">启动时打开文章列表</string>
   <string name="booksFirst">启动时打开书籍列表</string>
   <string name="language">语言</string>
   <string name="followSystem">跟随系统</string>
@@ -330,7 +330,7 @@
   <string name="createNewChapter">创建新篇章</string>
   <string name="currentText">当前正文</string>
   <string name="hideSoftKeyboard">收起软键盘</string>
-  <string name="transparentTopBar">透明顶栏</string>
+  <string name="transparentTopBar">透明顶栏，让顶栏不再是纯黑色</string>
   <string name="transparentNavigationBarWarning">这是一个实验性特性，开启它之后，可能导致软键盘高度检查不正确，进而导致快捷输入栏无法显示和文本聚焦失常，如果遇到这些问题，请关闭此选项。</string>
   <string name="transparentNavigationBar">透明虚拟导航栏</string>
   <string name="titleAsAWordForACountSummary">开启此项后，下一项「字数统计模式」将无效，如果想使用「字数统计模式」中的选项，请关闭此项。</string>
@@ -547,7 +547,7 @@
   <string name="blueInputBox">蓝色填字框</string>
   <string name="editorMarkdownSyncScrolling">编辑器 ⇋ Markdown 双向同步滚动</string>
   <string name="newOutline">创建大纲项</string>
-  <string name="smoothCursor">顺滑光标</string>
+  <string name="smoothCursor">呼吸式顺滑光标</string>
   <string name="typeOfTimeDisplayed">显示时间类型</string>
   <string name="timeModified">更新时间</string>
   <string name="timeCreatedAndModified">创建 + 更新时间</string>
@@ -579,7 +579,7 @@
   <string name="desktopLink">https://writer.drakeet.com/desktop</string>
   <string name="autoConnectToDesktopNextTime">下次自动连接到桌面版</string>
   <string name="optionsForTheFewPeople">少数派选项</string>
-  <string name="summaryPie">或称强迫症选项，提供一些本不该提供的配置项</string>
+  <string name="summaryPie">强迫症选项，提供一些本不该提供的配置项</string>
   <string name="stretchEdgeEffect">编辑器滚动到边缘的弹性动画</string>
   <string name="staticCursor">静态光标（不要闪烁）</string>
   <string name="cursorJoyModePosition">「移动光标」模式和位置</string>
@@ -594,7 +594,6 @@
   <string name="noteBeforeRestoringBackup">在一切开始前，对当前数据进行一次备份…</string>
   <string name="startMerging">开始合并…</string>
   <string name="insertANewBook">插入新的书</string>
-  <string name="insertANewCategory">插入新的卷</string>
   <string name="insertingOrUpdatingArticles">插入或更新文章中…</string>
   <string name="insertANewArticle">插入新的文章</string>
   <string name="summary">摘要</string>
@@ -696,6 +695,7 @@
   <string name="overview">总览</string>
   <string name="purchaseTime">购买时间</string>
   <string name="ignoreBatteryOptimizationsTip">关闭电池优化以获得更稳定的桌面版连接（请放心，纯纯写作不会产生大量耗电，但系统的电池优化功能可能会切断您的网络连接）</string>
+  <string name="ignoreBatteryOptimizationsTipForSyncDetail">纯纯写作会在必要的时候，**当手机电量充足且拥有 Wi-Fi 网络时**，于后台自动进行「云同步」（由 [WorkManager](https://developer.android.google.cn/topic/libraries/architecture/workmanager?hl=zh_cn) **闲暇系统**调度，纯纯写作不会持续保持后台进程），最低间隔时间为 15~56 分钟，这对于手机的耗电影响微乎其微，您无需对此产生担忧。\n\nWorkManager 的任务调度系统本应是 Android 系统默认允许的，但由于国产厂商系统对于电量优化过于激进的措施，**在国产系统上 WorkManager 的任务都会默认受到限制，即使正常使用的话它们根本不会产生什么耗电**。\n\n所以为了让纯纯写作的「后台云同步」任务能够被**闲暇系统**正常调度，您可以手动为纯纯写作**开启「自启动」选项并修改「省电策略」（或称「电池优化」）为\"无限制\"**，这样在系统闲暇且必要的时，纯纯写作能够在您打开它之前**自动帮您把其他设备上的变更同步到本机**。\n\n一般情况下，您可以进入纯纯写作应用信息页面开启「自启动」选项**并**修改「省电策略」。祝您使用愉快！</string>
   <string name="commaToFullStopWhenEnteringANewline">逗号换行自动变句号</string>
   <string name="hideStatusBar">隐藏状态栏，更加沉浸和专注</string>
   <string name="hideStatusBarSummary">仅对主页（编辑器页面）生效</string>
@@ -745,4 +745,21 @@
   <string name="messageSyncBeforeEditingToAvoidConflicts">您在其他设备上修改过当前文章，为了避免冲突，请您先同步再编辑当前文章，否则您在其他设备上的修改内容可能会被丢弃。</string>
   <string name="moveArticlesOfDeletedFolderToTrash">将被删除的文件夹内部的文章移到废纸篓里</string>
   <string name="tts">TTS (读出您输入的文本以帮您避免错别字)</string>
+  <string name="about7zChange">关于云备份和云同步文件极其重要的通知</string>
+  <string name="readme7z">纯纯写作 v20.2.0 修改了云备份和云同步 .pwb 文件格式细节，这可以大幅减小您的备份或云同步文件体积，同时可以大幅减小您的流量损耗、加速云备份和云同步过程。\n\n但是，这会导致如果您在其他设备上使用低于 v20.2.0 版本的纯纯写作，它将无法正确解析最新的数据格式，云同步将会无法工作，云备份也会误报「<b>文件损坏</b>」。\n\n因此，<b>您需要确保您的所有设备都使用 v20.2.0 版本以上的纯纯写作</b>，这非常重要，请铭记于心并及时更新！🙏</string>
+  <string name="autoChapterNameTitle">自动加入或更新\n\"第几章\"前缀</string>
+  <string name="ignoreBatteryOptimizationsTipForSync">允许「自启动」并修改「省电策略」以帮助纯纯写作在您系统闲暇时自动进行后台云同步（请放心，这对耗电的影响真微乎其微）</string>
+  <string name="ttsMode">TTS 模式 (词或句子?)</string>
+  <string name="ttsModeWord">读出您刚输入的<b>字词</b></string>
+  <string name="ttsModeSentence">读出您刚完成或修改的<b>句子</b>\n(仅支持部分语言，因为对于其他语言我们不懂得如何断句‼️)</string>
+  <string name="openTtsSetting">打开「系统设置 - 文字转语音」页面</string>
+  <string name="downloadTtsEngine">下载 TTS 引擎</string>
+  <string name="titleRestoreOrderOfArticlesFromAnOldBackup">从旧版备份中恢复文章<b>顺序</b></string>
+  <string name="summaryRestoreOrderOfArticlesFromAnOldBackup">当您遭遇文章列表乱序的 bug 时可以使用此项，它将从您选择的旧版备份中读取其中的文章排序值并赋予您当前的文章们</string>
+  <string name="titleSelectBooksToRestoreOrder">请选择要进行恢复它内部章节顺序的书</string>
+  <string name="beforeRestoreOrder">在修复排序之前</string>
+  <string name="readCurrentArticleAloud">朗读当前文章</string>
+  <string name="checkForUpdates">检查更新</string>
+  <string name="cloudSyncAutoSwitchesToTheLatestEditedArticle">云同步自动切换到最新编辑文章</string>
+  <string name="summaryCloudSyncAutoSwitchesToTheLatestEditedArticle">需要您在云同步设置页面先启用云同步后此项才会生效。\n启用本项后，如果云同步完成，纯纯写作会自动为您切换到您最新编辑的文章。</string>
 </resources>

@@ -230,18 +230,18 @@
   <string name="modifyRanks"><i><b>Det er manuel sortering</b></i></string>
   <string name="markdownShortcutTip">Du har netop indsat en Markdown, som kun har virkning i Markdown Preview-tilstand. Ønsker du at aktivere Markdown-tilstanden?</string>
   <string name="importedFileTooLargeToOpen">Den importerede fil er for stor, åbningen af filen mislykkedes</string>
-  <string name="insertCategoryAboveShort">Indsæt kategori <b>over</b></string>
-  <string name="insertCategoryBelowShort">Indsæt kategori <b>under</b></string>
-  <string name="insertCategoryBottomShort">Indsæt kategori til <b>bunden</b></string>
-  <string name="insertCategoryAboveLong">Indsæt kategori <b>over</b> den aktuelle artikel</string>
-  <string name="insertCategoryBelowLong">Indsæt kategori <b>under</b> den aktuelle artikel</string>
-  <string name="insertCategoryBottomLong">Indsæt en ny kategori <b>nederst</b> på kapitellisten</string>
-  <string name="insertCategory">Indsæt en ny kategori</string>
-  <string name="editCategory">Rediger kategorien</string>
-  <string name="category">Kategori</string>
+  <string name="insertCategoryAboveShort">Indsæt en mappe <b>ovenfor</b></string>
+  <string name="insertCategoryBelowShort">Indsæt en mappe <b>nedenfor</b></string>
+  <string name="insertCategoryBottomShort">Indsæt en mappe til <b>bunden</b></string>
+  <string name="insertCategoryAboveLong">Indsæt en ny mappe <b>over</b> den aktuelle artikel</string>
+  <string name="insertCategoryBelowLong">Indsæt en ny mappe <b>under</b> den aktuelle artikel</string>
+  <string name="insertCategoryBottomLong">Indsæt en ny mappe i <b>bunden</b> på kapitellisten</string>
+  <string name="insertCategory">Indsæt mappe</string>
+  <string name="editCategory">Rediger mappe</string>
+  <string name="category">Folder</string>
   <string name="deleteEmptyArticlesShort">Slet alle tomme artikler</string>
   <string name="deleteEmptyArticlesLong">Slet alle artikler med tomme titler og indhold i denne bog</string>
-  <string name="deleteCategory">Slet kategori</string>
+  <string name="deleteCategory">Slet mappe</string>
   <string name="exportBook">Eksportér denne bog</string>
   <string name="needManualSortingTitle">Det er nødvendigt at skifte til manuel sortering for at bruge denne funktion</string>
   <string name="needManualSortingMessage">Ønsker du at ændre indstillingerne til "Manuel sortering"?</string>
@@ -329,7 +329,7 @@
   <string name="titleTextSize">Titlens skriftstørrelse</string>
   <string name="restoreByThisBackup">Restaureres ved denne sikkerhedskopi?</string>
   <string name="restoreByThisBackupWithAppName">Pure Writer: Gendan ved denne sikkerhedskopi</string>
-  <string name="collapseAllCategories">Kollapser alle kategorier</string>
+  <string name="collapseAllCategories">Skjul alle mapper</string>
   <string name="showMore">Vis mere</string>
   <string name="textColorAlpha">Tekstfarve alfa / gennemsigtighed</string>
   <string name="connectDesktop">Forbind desktop-version</string>
@@ -357,7 +357,7 @@
   <string name="needToPayForMarkdownRenderer">Dette er siden Markdown Quick Preview, som kræver, at du skal betale for Pure Writer Pro for at bruge den.</string>
   <string name="fabContextCreateNewAfterCurrent">Ny artikel efter den aktuelle artikel</string>
   <string name="fabContextCreateNewAtTheBottom">Indsæt en ny artikel nederst på artikellisten</string>
-  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Indsæt en ny artikel i bunden af den aktuelle kategori</string>
+  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Indsæt en ny artikel nederst i den aktuelle mappe</string>
   <string name="fabContextHideFabUntilNextStart">Husk denne knap indtil næste start</string>
   <string name="fabContextHideFabTemporarily">Husk den vigtigste flydende knap midlertidigt</string>
   <string name="license">Licens</string>
@@ -559,7 +559,6 @@
   <string name="noteBeforeRestoringBackup">Før alting starter, skal du lave en sikkerhedskopi af de aktuelle data...</string>
   <string name="startMerging">Start sammenlægningen...</string>
   <string name="insertANewBook">Indsæt en ny bog</string>
-  <string name="insertANewCategory">Indsæt en ny kategori</string>
   <string name="insertingOrUpdatingArticles">Indsætning eller opdatering af artikler...</string>
   <string name="insertANewArticle">Indsæt en ny artikel</string>
   <string name="summary">Resumé</string>
@@ -614,7 +613,7 @@
   <string name="typewriterModeMode0">Afsnitstilstand</string>
   <string name="typewriterModeMode1">Linjetilstand</string>
   <string name="updating">Opdaterer...</string>
-  <string name="modifyOrderOfCategories">Rediger rækkefølgen af kategorier</string>
+  <string name="modifyOrderOfCategories">Rediger rækkefølgen af mapper</string>
   <string name="modifyOrderOfChapters">Ændre rækkefølgen af kapitler</string>
   <string name="sortingOptions">Sorteringsmuligheder</string>
   <string name="saveAsTxtFile">Gem som .txt-fil</string>
@@ -682,8 +681,7 @@
   <string name="beforeBackupIsMergedIntoLocal">før_backup_lægges_sammen_til_lokal</string>
   <string name="updateABook">Opdater en bog</string>
   <string name="deleteABook">Slet en bog</string>
-  <string name="updateACategory">Opdater en kategori</string>
-  <string name="deleteACategory">Slet en kategori</string>
+  <string name="updateACategory">Opdater en mappe</string>
   <string name="cloudSync">Cloud synkronisering</string>
   <string name="autoSwitchThemesAndNightMode">Skift automatisk temaer og nattilstand</string>
   <string name="syncFailedNotSign">Skysynkronisering mislykkedes. Log venligst ind på din skylagerkonto først!</string>
@@ -704,5 +702,13 @@
   <string name="okSyncIt">OK, synkroniser det</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Du har ændret den aktuelle artikel på andre enheder, for at undgå konflikter, synkroniser venligst først, ellers kan dine ændringer på andre enheder blive kasseret.</string>
   <string name="tts">TTS (læs din engagerede tekst højt for at hjælpe dig med at undgå stavefejl)</string>
+  <string name="about7zChange">Vigtig meddelelse om cloud backup og synkronisering</string>
+  <string name="readme7z">Pure Writer v20.2.0 ændrer skybackup- og synkroniseringsfilformatet (.pwb), hvilket kan reducere størrelsen på dine backup- eller skysynkroniseringsfiler betydeligt og reducere dit trafikforbrug, hvilket fremskynder cloud backup- og synkroniseringsprocessen.\n\nDette vil dog resultere i, at hvis du bruger en version lavere end v20.2.0 af Pure Writer på andre enheder, vil den ikke være i stand til at parse det seneste dataformat korrekt, cloud-synkronisering vil ikke fungere, og cloud-backup vil også rapportere falsk \"<b>Fil beskadiget</b>\".\n\nDerfor <b>skal du sikre dig, at alle dine enheder bruger Pure Writer ovenfor v20.2.0</b>, dette er meget vigtigt, husk det, og hold det opdateret! 🙏</string>
+  <string name="ignoreBatteryOptimizationsTipForSync">Slå batterioptimering fra for at hjælpe Pure Writer med at udføre automatisk cloud-synkronisering i baggrunden, når dit system er inaktivt (bare rolig, indvirkningen på batteriforbruget er virkelig minimal)</string>
+  <string name="ttsMode">TTS-tilstand (ord eller sætning?)</string>
+  <string name="ttsModeWord">Sig det <b>ord</b>, du lige har skrevet</string>
+  <string name="ttsModeSentence">Sig <b>sætningen</b>\n(Kun nogle sprog understøttes, fordi vi ikke ved, hvordan man segmenterer sætninger for andre sprog‼️)</string>
+  <string name="readCurrentArticleAloud">Læs den aktuelle artikel højt</string>
+  <string name="checkForUpdates">Søg efter opdateringer</string>
 </resources>
 

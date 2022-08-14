@@ -246,16 +246,16 @@
   <string name="markdownShortcutTip">Você acabou de inserir um Markdown, que só terá efeito no modo de visualização Markdown. Deseja ativá-lo?</string>
   <string name="importedFileTooLargeToOpen">Arquivo importado extenso, falha ao tentar abri-lo</string>
   <string name="failed">Falha</string>
-  <string name="insertCategoryAboveShort">Inserir categoria acima</string>
-  <string name="insertCategoryAboveLong">Inserir categoria acima do artigo atual</string>
-  <string name="insertCategoryBottomShort">Inserir categoria abaixo</string>
-  <string name="insertCategoryBottomLong">Inserir categoria abaixo da lista de capítulos.</string>
-  <string name="insertCategory">Inserir categoria</string>
-  <string name="editCategory">Editar categoria</string>
-  <string name="category">Categoria</string>
+  <string name="insertCategoryAboveShort">Inserir uma Pasta <b>acima</b></string>
+  <string name="insertCategoryAboveLong">Inserir uma nova Pasta <b>acima</b> do artigo atual</string>
+  <string name="insertCategoryBottomShort">Insira uma pasta em <b>b>bottom</b></string>
+  <string name="insertCategoryBottomLong">Inserir uma nova Pasta na <b>bottom</b> da lista de capítulos</string>
+  <string name="insertCategory">Inserir Pasta</string>
+  <string name="editCategory">Editar Pasta</string>
+  <string name="category">Pasta</string>
   <string name="deleteEmptyArticlesShort">Excluir todos os artigos vazios</string>
   <string name="deleteEmptyArticlesLong">Excluir todos os artigos com títulos e conteúdos em branco deste livro</string>
-  <string name="deleteCategory">Excluir categoria</string>
+  <string name="deleteCategory">Apagar pasta</string>
   <string name="exportBook">Exportar este livro</string>
   <string name="needManualSortingTitle">Precisa alternar para classificação manual para usar este recurso</string>
   <string name="needManualSortingMessage">Você deseja alterar as configurações para "Classificação Manual"?</string>
@@ -311,8 +311,8 @@
   <string name="switchingBooksTooltip">Dica: clique no título do livro na parte superior para mudar de livro</string>
   <string name="scrollToTheCurrentArticle">Ir até artigo atual</string>
   <string name="allBooks">Todos os livros</string>
-  <string name="insertCategoryBelowShort">Inserir categoria abaixo</string>
-  <string name="insertCategoryBelowLong">Inserir categoria abaixo do artigo atual</string>
+  <string name="insertCategoryBelowShort">Inserir uma Pasta <b>below</b></string>
+  <string name="insertCategoryBelowLong">Inserir uma nova Pasta <b>below</b> o artigo atual</string>
   <string name="branchLine">Linha ramo</string>
   <string name="brightLine">Linha brilhante</string>
   <string name="darkLine">Linha escura</string>
@@ -351,7 +351,7 @@
   <string name="titleTextSize">Tamanho da fonte do título</string>
   <string name="restoreByThisBackup">Restaurar este backup?</string>
   <string name="restoreByThisBackupWithAppName">Pure Writer: restaurar este backup</string>
-  <string name="collapseAllCategories">Minimizar todas as categorias</string>
+  <string name="collapseAllCategories">Recolher todas as pastas</string>
   <string name="showMore">Mostrar mais</string>
   <string name="textColorAlpha">Cor de texo alfa / transparência</string>
   <string name="tipNotSupportThisDesktopVersion">As versões atuais do dispositivo móvel e a do PC diferem e não podem ser conectadas. Por favor, atualize ambas para a versão mais recente e tente novamente.</string>
@@ -386,7 +386,7 @@
   <string name="desktopConnected">Desktop conectado</string>
   <string name="fabContextCreateNewAfterCurrent">Novo artigo após o atual</string>
   <string name="fabContextCreateNewAtTheBottom">Novo artigo abaixo da lista de artigos</string>
-  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Novo artigo abaixo da categoria atual</string>
+  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Inserir um novo artigo na parte inferior da Pasta atual</string>
   <string name="fabContextHideFabUntilNextStart">Ocultar este botão até reiniciar app</string>
   <string name="fabContextHideFabTemporarily">Ocultar botão flutuante temporariamente</string>
   <string name="license">Licença</string>
@@ -588,7 +588,7 @@
   <string name="whetherOverwriteSettings">Você quer sobrescrever as configurações locais?</string>
   <string name="askOverwriteSettings">Usaremos o banco de dados de artigos em seu arquivo de backup para sobrescrever o banco de dados local de artigos, mas não sabemos se você precisa que usemos as configurações no arquivo de backup para sobrescrever as configurações locais. Por favor, escolha:</string>
   <string name="privacyPolicySummary">Não coletaremos nenhuma de suas informações particulares</string>
-  <string name="modifyOrderOfCategories">Modificar a ordem das categorias</string>
+  <string name="modifyOrderOfCategories">Modificar a ordem das pastas</string>
   <string name="modifyOrderOfChapters">Modificar a ordem dos Capítulos</string>
   <string name="sortingOptions">Opções de ordenação</string>
   <string name="saveAsTxtFile">Salvar como arquivo .txt</string>
@@ -617,7 +617,6 @@
   <string name="summary">Sumário</string>
   <string name="insertANewArticle">Inserir um novo artigo</string>
   <string name="insertingOrUpdatingArticles">Inserindo ou atualizando artigos...</string>
-  <string name="insertANewCategory">Inserir uma nova categoria</string>
   <string name="insertANewBook">Inserir um novo livro</string>
   <string name="startMerging">Comece a fundir-se...</string>
   <string name="noteBeforeRestoringBackup">Antes de tudo começar, faça um backup dos dados atuais.</string>
@@ -702,8 +701,7 @@
   <string name="beforeBackupIsMergedIntoLocal">antes_que_o_backup_seja_fundido_no_local</string>
   <string name="updateABook">Atualizar um livro</string>
   <string name="deleteABook">Apagar um livro</string>
-  <string name="updateACategory">Atualizar uma categoria</string>
-  <string name="deleteACategory">Eliminar uma categoria</string>
+  <string name="updateACategory">Apagar pasta</string>
   <string name="cloudSync">Sincronização das nuvens</string>
   <string name="autoSwitchThemesAndNightMode">Mudança automática de temas e modo noturno</string>
   <string name="syncFailedNotSign">Falha na sincronização na nuvem, faça login na sua conta de armazenamento na nuvem primeiro!</string>
@@ -724,4 +722,12 @@
   <string name="okSyncIt">OK, sync it</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Você modificou o artigo atual em outros dispositivos, a fim de evitar conflitos, por favor sincronize primeiro, caso contrário suas modificações em outros dispositivos podem ser descartadas.</string>
   <string name="tts">TTS (Leia seu texto comprometido em voz alta para evitar erros de ortografia)</string>
+  <string name="about7zChange">Aviso importante sobre backup e sincronização de nuvens</string>
+  <string name="readme7z">O Pure Writer v20.2.0 altera o formato de backup e sincronização da nuvem (.pwb), que pode reduzir significativamente o tamanho de seus arquivos de backup ou sincronização na nuvem e reduzir seu consumo de tráfego, acelerando o processo de backup e sincronização na nuvem.\n\nNo entanto, isso resultará em que se você usar uma versão inferior a v20.2.0 do Pure Writer em outros dispositivos, ele não será capaz de analisar corretamente o formato de dados mais recente, a sincronização na nuvem não funcionará e o backup na nuvem também denunciará falsamente \"<b>Arquivo corrompido</b>\".\n\nPortanto, <b>você precisa ter certeza de que todos os seus dispositivos estão usando o Pure Writer acima de v20.2.0</b>, isso é muito importante, por favor, tenha em mente e mantenha-o atualizado! 🙏</string>
+  <string name="ignoreBatteryOptimizationsTipForSync">Desligue a otimização da bateria para ajudar o Pure Writer a fazer a sincronização automática da nuvem de fundo quando seu sistema estiver ocioso (não se preocupe, o impacto no consumo da bateria é realmente mínimo)</string>
+  <string name="ttsMode">Modo TTS (palavra ou frase?)</string>
+  <string name="ttsModeWord">Diga a <b>palavra</b> que você acabou de digitar</string>
+  <string name="ttsModeSentence">Fale a <b>sentença</b>\n(Apenas alguns idiomas são suportados porque não sabemos como segmentar as frases para outros languages‼️)</string>
+  <string name="readCurrentArticleAloud">Leia o artigo atual em voz alta</string>
+  <string name="checkForUpdates">Verifique se há atualizações</string>
 </resources>

@@ -229,17 +229,17 @@
   <string name="markdownShortcutTip">Sina oled just sisestanud Markdowni, mis hakkab kehtima ainult Markdowni eelvaate režiimis. Kas soovite aktiveerida Markdown-režiimi?</string>
   <string name="importedFileTooLargeToOpen">Imporditud fail on liiga suur, faili avamine ebaõnnestus</string>
   <string name="failed">Ebinenud</string>
-  <string name="insertCategoryAboveShort">Sisesta kategooria <b>üleval</b></string>
-  <string name="insertCategoryBelowShort">Sisesta kategooria <b>alla</b></string>
-  <string name="insertCategoryBottomShort">Sisesta kategooria <b>alla</b></string>
-  <string name="insertCategoryBelowLong">Sisesta kategooria praeguse artikli <b>alla</b></string>
-  <string name="insertCategoryBottomLong">Sisestage peatükkide loendi <b>allossa</b> uus kategooria</string>
-  <string name="insertCategory">Sisesta kategooria</string>
-  <string name="editCategory">Muuda kategooriat</string>
-  <string name="category">Kategooria</string>
+  <string name="insertCategoryAboveShort">Sisestage kaust <b>üleval</b></string>
+  <string name="insertCategoryBelowShort">Sisestage kaust <b>alla</b></string>
+  <string name="insertCategoryBottomShort">Sisestage kaust <b>alla</b></string>
+  <string name="insertCategoryBelowLong">Sisestage praeguse artikli <b>alla</b> uus kaust</string>
+  <string name="insertCategoryBottomLong">Sisestage peatükkide loendi <b>allossa</b> uus kaust</string>
+  <string name="insertCategory">Sisesta kaust</string>
+  <string name="editCategory">Redigeeri kausta</string>
+  <string name="category">Kaust</string>
   <string name="deleteEmptyArticlesShort">Kustuta kõik tühjad artiklid</string>
   <string name="deleteEmptyArticlesLong">Kustuta kõik selle raamatu tühjade pealkirjade ja sisuga artiklid</string>
-  <string name="deleteCategory">Kategooria kustutamine</string>
+  <string name="deleteCategory">Kustuta kaust</string>
   <string name="exportBook">Ekspordi see raamat</string>
   <string name="needManualSortingTitle">Vajalik muuta selle funktsiooni kasutamiseks käsitsi sorteerimine</string>
   <string name="needManualSortingMessage">Tahad muuta seaded "Käsitsi sorteerimise" peale?</string>
@@ -327,7 +327,7 @@
   <string name="titleTextSize">Tiitli kirjasuurus</string>
   <string name="restoreByThisBackup">Kas taastada selle varukoopia abil?</string>
   <string name="restoreByThisBackupWithAppName">Pure Writer: taastage selle varukoopia abil</string>
-  <string name="collapseAllCategories">Ahenda kõik kategooriad</string>
+  <string name="collapseAllCategories">Ahenda kõik kaustad</string>
   <string name="showMore">Näita rohkem</string>
   <string name="textColorAlpha">Teksti värvi alfa / läbipaistvus</string>
   <string name="connectDesktop">Ühendage töölaua versioon</string>
@@ -354,7 +354,7 @@
   <string name="needToPayForMarkdownRenderer">See on Markdown Quick Preview leht, mille kasutamiseks peate Pure Writer Pro eest maksma.</string>
   <string name="fabContextCreateNewAfterCurrent">Uue artikkel pärast praegust artiklit</string>
   <string name="fabContextCreateNewAtTheBottom">Uue artikli lisamine artiklite loendi lõppu</string>
-  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Uue artikli lisamine praeguse kategooria lõppu</string>
+  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Sisestage praeguse kausta allossa uus artikkel</string>
   <string name="fabContextHideFabUntilNextStart">Kata see nupp kuni järgmise käivitamiseni</string>
   <string name="fabContextHideFabTemporarily">Peitke peamine hõljuv nupp ajutiselt</string>
   <string name="license">Litsents</string>
@@ -559,7 +559,6 @@
   <string name="noteBeforeRestoringBackup">Mitte kõik algab, tehke praeguste andmete varukoopia...</string>
   <string name="startMerging">Alusta ühendamist...</string>
   <string name="insertANewBook">Uue raamatu sisestamine</string>
-  <string name="insertANewCategory">Uue kategooria sisestamine</string>
   <string name="insertingOrUpdatingArticles">Artiklite sisestamine või uuendamine...</string>
   <string name="insertANewArticle">Uue artikli sisestamine</string>
   <string name="summary">Kokkuvõte</string>
@@ -616,7 +615,7 @@
   <string name="empty">Tühi</string>
   <string name="insertCategoryAboveLong">Sisesta kategooria praeguse artikli <b>ülemale</b></string>
   <string name="desktopDialogNote">Märkus. Pure Writer Desktop on endiselt alfafaasis. Palun mõistke ja oodake selle edasisi värskendusi.\n* Kui näete <b>mitu rida IP-aadresse</b>, proovige need ükshaaval ühendada.</string>
-  <string name="modifyOrderOfCategories">Muutke kategooriate järjekorda</string>
+  <string name="modifyOrderOfCategories">Muutke kaustade järjekorda</string>
   <string name="modifyOrderOfChapters">Muutke peatükkide järjekorda</string>
   <string name="sortingOptions">Sorteerimisvalikud</string>
   <string name="saveAsTxtFile">Salvesta .txt-failina</string>
@@ -684,8 +683,7 @@
   <string name="beforeBackupIsMergedIntoLocal">enne_varukoopia_ühendamist_kohalikuks</string>
   <string name="updateABook">Uuenda raamatut</string>
   <string name="deleteABook">Kustutage raamat</string>
-  <string name="updateACategory">Värskendage kategooriat</string>
-  <string name="deleteACategory">Kustutage kategooria</string>
+  <string name="updateACategory">Kausta värskendamine</string>
   <string name="cloudSync">Pilvesünkroonimine</string>
   <string name="autoSwitchThemesAndNightMode">Teemade ja öörežiimi automaatne vahetamine</string>
   <string name="syncFailedNotSign">Pilvesünkroonimine ebaõnnestus, logige esmalt sisse oma pilvesalvestuse kontole!</string>
@@ -706,4 +704,12 @@
   <string name="okSyncIt">OK, sünkroonige</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Olete muutnud praegust artiklit teistes seadmetes. Konfliktide vältimiseks sünkroonige esmalt, vastasel juhul võidakse teistes seadmetes tehtud muudatustest loobuda.</string>
   <string name="tts">TTS (õigekirjavigade vältimiseks lugege oma pühendunud tekst valjusti)</string>
+  <string name="about7zChange">Oluline teade pilve varundamise ja sünkroonimise kohta</string>
+  <string name="readme7z">Pure Writer v20.2.0 muudab pilve varundus- ja sünkroonimisfaili (.pwb) vormingut, mis võib oluliselt vähendada teie varundus- või pilvesünkroonimisfailide suurust ja liikluskulu, kiirendades pilve varundamise ja sünkroonimise protsessi.\n\nSelle tulemuseks on aga see, et kui kasutate teistes seadmetes Pure Writeri versioonist vanemat versiooni kui v20.2.0, ei saa see uusimat andmevormingut õigesti sõeluda, pilvesünkroonimine ei tööta ja pilve varundamine annab samuti valearuande \"<b>Fail on rikutud</b>\".\n\nSeetõttu <b>peate veenduma, et kõik teie seadmed kasutaksid Pure Writeri versioonist 20.2.0 kõrgemat</b>. See on väga oluline. Pidage seda meeles ja hoidke seda ajakohasena! 🙏</string>
+  <string name="ignoreBatteryOptimizationsTipForSync">Lülitage aku optimeerimine välja, et aidata Pure Writeril teha taustal automaatset pilvesünkroonimist, kui teie süsteem on jõude (ärge muretsege, mõju akutarbimisele on minimaalne)</string>
+  <string name="ttsMode">TTS-režiim (sõna või lause?)</string>
+  <string name="ttsModeSentence">Öelge <b>lause</b>\n(Toetatakse ainult mõnda keelt, kuna me ei tea, kuidas teiste keelte jaoks lauseid segmentida‼️)</string>
+  <string name="ttsModeWord">Öelge äsja sisestatud <b>sõna</b></string>
+  <string name="readCurrentArticleAloud">Lugege praegust artiklit valjusti</string>
+  <string name="checkForUpdates">Kontrolli kas uuendused on saadaval</string>
 </resources>

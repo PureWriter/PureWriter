@@ -234,14 +234,14 @@
   <string name="markdownShortcutTip">U hebt zojuist een Markdown-tag ingevoerd, die alleen werkt in Markdown- en preview-modus. Wilt u de modus Markeren voor u inschakelen?</string>
   <string name="importedFileTooLargeToOpen">Uw bestand is te groot om te openen</string>
   <string name="failed">mislukt</string>
-  <string name="insertCategoryAboveShort">Categorie (hierboven)</string>
-  <string name="insertCategoryAboveLong">Voeg een categorie toe boven het huidige artikel</string>
-  <string name="insertCategory">Categorie invoegen</string>
-  <string name="editCategory">Categorie bewerken</string>
-  <string name="category">Categorie</string>
+  <string name="insertCategoryAboveShort">Sisestage kaust <b>üleval</b></string>
+  <string name="insertCategoryAboveLong">Voeg een nieuwe map in <b>boven</b> het huidige artikel</string>
+  <string name="insertCategory">Map invoegen</string>
+  <string name="editCategory">Map bewerken</string>
+  <string name="category">Map</string>
   <string name="deleteEmptyArticlesShort">Verwijder lege artikelen</string>
   <string name="deleteEmptyArticlesLong">Alle artikelen verwijderen waarvan de titel en inhoud leeg zijn?</string>
-  <string name="deleteCategory">Verwijder categorie</string>
+  <string name="deleteCategory">Verwijder map</string>
   <string name="exportBook">Boek exporteren</string>
   <string name="needManualSortingTitle">Noodzaak om over te schakelen naar handmatig sorteren om deze functie te gebruiken</string>
   <string name="needManualSortingMessage">Wilt u overschakelen naar handmatig sorteren?</string>
@@ -267,8 +267,8 @@
   <string name="defaultMessageUpdateApk">Dit is een belangrijke versie, update deze versie zo snel mogelijk.</string>
   <string name="readme">U hebt het nieuwe Material Design 2-ontwerp van Pure Writer ingeschakeld.\n\nMaterial Design 2 brengt een nieuw full-screen immersiepapier en een transparante bovenste balk voor een meer frisse uitstraling.\n\nTegelijkertijd kunnen er echter veel problemen zijn met het nieuwe ontwerp, dus dit is een experimenteel kenmerk van Pure Writer, dat mogelijk visuele problemen met de UI heeft. Bovendien, als de auteur van Pure Writer, geef ik de voorkeur aan het originele Pure Schrijverontwerp, dat meer in het oog springt en gericht is op tekstinhoud, dus deze ontwerpfunctie is eigenlijk ontwikkeld in antwoord op de sterke eisen van een klein aantal gebruikers. Het vereist veel extra ontwikkelingskosten en het is niet gemakkelijk om Voorzie, en aangezien er nu twee Pure Writer-ontwerpen zijn, kan het werk van ontwikkelaars zich vermenigvuldigen.\n\nDaarom raadt Pure Writer u aan om ervoor te betalen, maar u kunt nog steeds veel tijd besteden om te ervaren en een definitieve betalingsbeslissing te nemen. Probeer het alsjeblieft te ondersteunen. Als uit de statistieken blijkt dat het aantal gebruikers dat De bereidheid om te betalen is klein, de ontwikkelaar kan het Material Design annuleren of stoppen. 2. Zodra u op OK klikt, bent u vastbesloten om standaard akkoord te gaan met deze inhoud.\n\nBedankt allemaal! Ik zal mijn best doen om een ​​betere en betere Pure Writer te bieden, alsjeblieft geniet ervan!</string>
   <string name="lowFreeStorageSpaceWarning">Uw telefoon heeft slechts %1$d MB aan gratis opslag, waardoor Pure Writer kan worden opgeslagen of een back-up kan mislukken. Ruim alsjeblieft op en laat meer dan %2$d MB over voordat je Pure Writer gebruikt!</string>
-  <string name="insertCategoryBottomShort">Voeg categorie toe onderaan</string>
-  <string name="insertCategoryBottomLong">Voeg een nieuwe categorie toe onderaan de hoofdstuklijst</string>
+  <string name="insertCategoryBottomShort">Voeg een map toe aan <b>onder</b></string>
+  <string name="insertCategoryBottomLong">Voeg een nieuwe map toe aan de <b>onderkant</b> van de hoofdstuklijst</string>
   <string name="pureWriterBBS">Pure Writer BBS</string>
   <string name="findReplace">Zoeken &amp; vervangen</string>
   <string name="replace">Vervangen</string>
@@ -302,8 +302,8 @@
   <string name="switchingBooksTooltip">Tip: als u bovenaan op de boektitel klikt, kunt u tussen boeken schakelen</string>
   <string name="scrollToTheCurrentArticle">Ga naar geselecteerd</string>
   <string name="allBooks">Alle boeken</string>
-  <string name="insertCategoryBelowShort">Voeg Categorie hieronder toe</string>
-  <string name="insertCategoryBelowLong">Voeg categorie toe onder het huidige artikel</string>
+  <string name="insertCategoryBelowShort">Voeg een map in <b>hieronder</b></string>
+  <string name="insertCategoryBelowLong">Voeg een nieuwe map in <b>onder</b> het huidige artikel</string>
   <string name="branchLine">Aftaklijn</string>
   <string name="brightLine">Heldere lijn</string>
   <string name="darkLine">Donkere lijn</string>
@@ -341,7 +341,7 @@
   <string name="titleTextSize">Titel lettergrootte</string>
   <string name="restoreByThisBackup">Herstellen met deze back-up?</string>
   <string name="restoreByThisBackupWithAppName">Herstellen met deze back-up?</string>
-  <string name="collapseAllCategories">Alle categorieën samenvouwen</string>
+  <string name="collapseAllCategories">Alle mappen samenvouwen</string>
   <string name="showMore">Meer weergeven</string>
   <string name="textColorAlpha">Tekstkleur transparantie</string>
   <string name="tipNotSupportThisDesktopVersion">De huidige mobiele en desktopversies komen niet overeen en kunnen niet worden verbonden. Werk beide bij naar de nieuwste versie en probeer het opnieuw.</string>
@@ -447,7 +447,7 @@
   <string name="useLegacyRender">Gebruik oudere renderer</string>
   <string name="changelog">Changelog</string>
   <string name="advancedReadOnlyMode">Geavanceerde alleen-lezen modus</string>
-  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Nieuw artikel onderaan de huidige categorie</string>
+  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Voeg een nieuw artikel toe onderaan de huidige map</string>
   <string name="needOpenArticleFirst">U moet eerst een artikel openen om deze optie te gebruiken</string>
   <string name="restoreArticleScrollPosition">Schuif de positie van de artikelrol terug</string>
   <string name="summaryScrollToBottom">Of deze knop in de editor moet worden weergegeven</string>
@@ -572,7 +572,7 @@
   <string name="privacyPolicySummary">Wij zullen geen van uw prive-informatie verzamelen</string>
   <string name="sortingOptions">Sorteeropties</string>
   <string name="modifyOrderOfChapters">Wijzig de volgorde van hoofdstukken</string>
-  <string name="modifyOrderOfCategories">Wijzig de volgorde van categorieën</string>
+  <string name="modifyOrderOfCategories">De volgorde van mappen wijzigen</string>
   <string name="saveAsTxtFile">Opslaan als .txt-bestand</string>
   <string name="saveAsMdFile">Opslaan als .md-bestand</string>
   <string name="saveAsLongImage">Opslaan als lange afbeelding (.png)</string>
@@ -606,7 +606,6 @@
   <string name="noteBeforeRestoringBackup">Voordat alles begint, maak een back-up van de huidige gegevens...</string>
   <string name="startMerging">Begin met samenvoegen...</string>
   <string name="insertANewBook">Een nieuw boek invoegen</string>
-  <string name="insertANewCategory">Een nieuwe categorie invoegen</string>
   <string name="insertingOrUpdatingArticles">Het invoegen of bijwerken van artikelen...</string>
   <string name="insertANewArticle">Een nieuw artikel invoegen</string>
   <string name="summary">Samenvatting</string>
@@ -680,8 +679,7 @@
   <string name="beforeBackupIsMergedIntoLocal">voordat_de_back-up_wordt_samengevoegd_met_local</string>
   <string name="updateABook">Een boek bijwerken</string>
   <string name="deleteABook">Een boek verwijderen</string>
-  <string name="updateACategory">Een categorie bijwerken</string>
-  <string name="deleteACategory">Een categorie verwijderen</string>
+  <string name="updateACategory">Een map bijwerken</string>
   <string name="cloudSync">Cloud synchronisatie</string>
   <string name="autoSwitchThemesAndNightMode">Automatisch wisselen van thema\'s en nachtmodus</string>
   <string name="syncFailedNotSign">Cloudsynchronisatie mislukt, log eerst in op uw cloudopslagaccount!</string>
@@ -702,4 +700,12 @@
   <string name="okSyncIt">OK, synchroniseer het</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Je hebt het huidige artikel op andere apparaten aangepast, om conflicten te voorkomen, synchroniseer eerst, anders kunnen je wijzigingen op andere apparaten worden genegeerd.</string>
   <string name="tts">TTS (lees uw toegewijde tekst hardop om spelfouten te voorkomen)</string>
+  <string name="about7zChange">Belangrijke mededeling over back-up en synchronisatie in de cloud</string>
+  <string name="readme7z">"Pure Writer v20.2.0 wijzigt de indeling van het back-up- en synchronisatiebestand (.pwb) in de cloud, wat de grootte van uw back-up- of cloudsynchronisatiebestanden aanzienlijk kan verminderen en uw verkeersverbruik kan verminderen, waardoor het back-up- en synchronisatieproces in de cloud wordt versneld.\n\nDit zal er echter toe leiden dat als u een versie lager dan v20.2.0 van Pure Writer op andere apparaten gebruikt, deze niet in staat zal zijn om de nieuwste gegevensindeling correct te parseren, cloudsynchronisatie niet zal werken en cloudback-up ook ten onrechte zal rapporteren \"<b>Bestand beschadigd</b>\".\n\nDaarom <b>u moet ervoor zorgen dat al uw apparaten Pure Writer boven v20.2.0 gebruiken</b>, dit is erg belangrijk, houd dit in gedachten en houd het up-to-date! "</string>
+  <string name="ignoreBatteryOptimizationsTipForSync">Schakel batterij-optimalisatie uit om Pure Writer te helpen automatische cloudsynchronisatie op de achtergrond uit te voeren wanneer uw systeem inactief is (maak u geen zorgen, de impact op het batterijverbruik is echt minimaal)</string>
+  <string name="ttsMode">TTS-modus (woord of zin?)</string>
+  <string name="ttsModeSentence">Spreek de <b>zin</b> . uit\n(Slechts enkele talen worden ondersteund omdat we niet weten hoe we zinnen voor andere talen moeten segmenteren‼️)</string>
+  <string name="ttsModeWord">Spreek het <b>woord</b> uit dat u zojuist hebt getypt</string>
+  <string name="readCurrentArticleAloud">Lees huidig artikel hardop</string>
+  <string name="checkForUpdates">Controleren op updates</string>
 </resources>

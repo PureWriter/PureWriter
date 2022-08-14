@@ -1,5 +1,5 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-  <string name="pureWriterLauncher" tools:ignore="MissingTranslation" translatable="false">PureWriter</string>
+  <string name="pureWriterLauncher" translatable="false" tools:ignore="MissingTranslation">PureWriter</string>
   <string name="pureWriter" translatable="false">Pure Writer</string>
   <string name="pureWriterPro" translatable="false">Pure Writer Pro</string>
   <string name="titleForTimeMachineHeart" translatable="false">@string/pureWriter</string>
@@ -285,18 +285,21 @@
   <string name="markdownShortcutTip">You\'ve just inserted a Markdown, which will only take effect in Markdown Preview mode. Do you want to activate Markdown mode?</string>
   <string name="importedFileTooLargeToOpen">Imported file is too large, file opening failed</string>
   <string name="failed">Failed</string>
-  <string name="insertCategoryAboveShort">Insert Category <b>above</b></string>
-  <string name="insertCategoryBelowShort">Insert Category <b>below</b></string>
-  <string name="insertCategoryBottomShort">Insert Category to <b>bottom</b></string>
-  <string name="insertCategoryAboveLong">Insert Category <b>above</b> the current article</string>
-  <string name="insertCategoryBelowLong">Insert Category <b>below</b> the current article</string>
-  <string name="insertCategoryBottomLong">Insert a new Category to the <b>bottom</b> of the chapter list</string>
-  <string name="insertCategory">Insert Category</string>
-  <string name="editCategory">Edit Category</string>
-  <string name="category">Category</string>
+  <string name="insertCategoryAboveShort">Insert Folder <b>above</b></string>
+  <string name="insertCategoryBelowShort">Insert Folder <b>below</b></string>
+  <string name="insertCategoryBottomShort">Insert Folder to <b>bottom</b></string>
+  <string name="insertCategoryAboveLong">Insert a new Folder <b>above</b> the current article</string>
+  <string name="insertCategoryBelowLong">Insert a new Folder <b>below</b> the current article</string>
+  <string name="insertCategoryBottomLong">Insert a new Folder to the <b>bottom</b> of the chapter list</string>
+  <string name="insertCategory">Insert Folder</string>
+  <string name="editCategory">Edit Folder</string>
+  <string name="category">Folder</string>
   <string name="deleteEmptyArticlesShort">Delete all empty articles</string>
   <string name="deleteEmptyArticlesLong">Delete all articles with blank titles and content in this Book</string>
-  <string name="deleteCategory">Delete Category</string>
+  <string name="deleteCategory">Delete Folder</string>
+  <string name="insertANewCategory" translatable="false">@string/insertCategory</string>
+  <string name="updateACategory">Update a Folder</string>
+  <string name="deleteACategory" translatable="false">@string/deleteCategory</string>
   <string name="exportBook">Export this Book</string>
   <string name="needManualSortingTitle">Need to change to manual sorting to use this feature</string>
   <string name="needManualSortingMessage">Do you want to change the settings to "Manual Sorting"?</string>
@@ -399,7 +402,7 @@
   <string name="titleTextSize">Title font size</string>
   <string name="restoreByThisBackup">Restore by this backup?</string>
   <string name="restoreByThisBackupWithAppName">Pure Writer: Restore by this backup</string>
-  <string name="collapseAllCategories">Collapse all Categories</string>
+  <string name="collapseAllCategories">Collapse all Folders</string>
   <string name="showMore">Show more</string>
   <string name="textColorAlpha">Text color alpha / transparency</string>
   <string name="connectDesktop">Connect Desktop</string>
@@ -429,7 +432,7 @@
   <string name="needToPayForMarkdownRenderer">This is the Markdown Quick Preview page, which requires you to pay for Pure Writer Pro to use it.</string>
   <string name="fabContextCreateNewAfterCurrent">New article after the current article</string>
   <string name="fabContextCreateNewAtTheBottom">Insert a new article at the bottom of the article list</string>
-  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Insert a new article at the bottom of current Category</string>
+  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Insert a new article at the bottom of current Folder</string>
   <string name="fabContextHideFabUntilNextStart">Hide this button until the next launch</string>
   <string name="fabContextHideFabTemporarily">Hide the main floating button temporarily</string>
   <string name="license">License</string>
@@ -646,9 +649,6 @@
   <string name="insertANewBook">Insert a new book</string>
   <string name="updateABook">Update a book</string>
   <string name="deleteABook">Delete a book</string>
-  <string name="insertANewCategory">Insert a new category</string>
-  <string name="updateACategory">Update a category</string>
-  <string name="deleteACategory">Delete a category</string>
   <string name="insertingOrUpdatingArticles">Inserting or updating articles…</string>
   <string name="insertANewArticle">Insert a new article</string>
   <string name="summary">Summary</string>
@@ -704,7 +704,7 @@
   <string name="privacyPolicySummary">We will not collect any of your private information</string>
   <string name="sortingOptions">Sorting options</string>
   <string name="modifyOrderOfChapters">Modify the order of Chapters</string>
-  <string name="modifyOrderOfCategories">Modify the order of Categories</string>
+  <string name="modifyOrderOfCategories">Modify the order of Folders</string>
   <string name="saveAsTxtFile">Save as .txt file</string>
   <string name="saveAsMdFile">Save as .md file</string>
   <string name="saveAsLongImage">Save as long image (.png)</string>
@@ -759,6 +759,8 @@
   <string name="overview">Overview</string>
   <string name="purchaseTime">Purchase time</string>
   <string name="ignoreBatteryOptimizationsTip">Turn off battery optimization for a more stable desktop connection (don\'t worry, Pure Writer won\'t consume a lot of power, but your system\'s battery optimization may cut your network connection)</string>
+  <string name="ignoreBatteryOptimizationsTipForSync">Turn off battery optimization to help Pure Writer do automatic background Cloud Sync when your system is idle (don\'t worry, the impact on battery consumption is really minimal)</string>
+  <string name="ignoreBatteryOptimizationsTipForSyncDetail">**When the device is fully charged and has a Wi-Fi network**, Pure Writer will auto perform Cloud Sync in the background when necessary (by [WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager) **idle system** scheduling, Pure Writer will not keep the background process), the minimum interval is 15~56 minutes, which has little effect on the power, you don\'t need to worry about it.\n\nSo you can modify the Battery Usage to **Unrestricted** for Pure Writer, so that when the system is idle and necessary, Pure Writer can guarantee that before you open it **automatically synchronize changes on other devices to this device**.\n\nIn general, you can go to the Pure Writer app info page to modify __Battery Usage__.\n\nHappy using!</string>
   <string name="commaToFullStopWhenEnteringANewline">Comma to full stop when entering a newline</string>
   <string name="hideStatusBar">Hide status bar</string>
   <string name="hideStatusBarSummary">Only takes effect on the home editor screen</string>
@@ -794,5 +796,23 @@
   <string name="okSyncIt">OK, sync it</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">You have modified the current article on other devices, in order to avoid conflicts, please synchronize first, otherwise your modifications on other devices may be discarded.</string>
   <string name="moveArticlesOfDeletedFolderToTrash">Move the articles inside the deleted folder to the Trash</string>
-  <string name="tts">TTS (Read your committed text aloud to help you avoid typos or spelling mistakes)</string>
+  <string name="tts">TTS (Speak your committed text aloud to help you avoid typos or spelling mistakes)</string>
+  <string name="about7zChange">Important notice about cloud backup and sync</string>
+  <string name="readme7z">Pure Writer v20.2.0 changes the cloud backup and sync file(.pwb) format, which can significantly reduce the size of your backup or cloud sync files, and reduce your traffic consumption, speeding up the cloud backup and sync process.\n\nHowever, this will result in that if you use a version lower than v20.2.0 of Pure Writer on other devices, it will not be able to parse the latest data format correctly, cloud sync will not work, and cloud backup will also falsely report \"<b>File corrupted</b>\".\n\nTherefore, <b>you need to make sure that all your devices are using Pure Writer above v20.2.0</b>, this is very important, please keep it in mind and keep it updated! 🙏</string>
+  <string name="autoChapterNameTitle" translatable="false">自动加入或更新\n\"第几章\"前缀</string>
+  <string name="autoChapterNameResetForCategory" translatable="false">自动章节名遇到卷\n回归第一章开始</string>
+  <string name="ttsMode">TTS mode (word or sentence?)</string>
+  <string name="ttsModeWord">Speak the <b>word</b> you just typed</string>
+  <string name="ttsModeSentence">Speak the <b>sentence</b>\n(Only some languages are supported because we don\'t know how to segment sentences for other languages‼️)</string>
+  <string name="openTtsSetting">Open System Settings - TTS</string>
+  <string name="downloadTtsEngine">Download TTS Engine</string>
+  <string name="titleRestoreOrderOfArticlesFromAnOldBackup">Restore the <b>order</b> of articles from an old backup</string>
+  <string name="summaryRestoreOrderOfArticlesFromAnOldBackup">This can be used when you encounter a bug where the article list is out of order, it will read the article order value in the old backup of your choice and assign it to your current articles</string>
+  <string name="titleSelectBooksToRestoreOrder">Please select the books to restore their internal chapter order</string>
+  <string name="beforeRestoreOrder">beforeRestoreOrder</string>
+  <string name="ttsModeDefault" comment="this should be `w` or `s`!!" translatable="false">s</string>
+  <string name="readCurrentArticleAloud">Read current article aloud</string>
+  <string name="checkForUpdates">Check for updates</string>
+  <string name="cloudSyncAutoSwitchesToTheLatestEditedArticle">Cloud sync auto switches to the latest edited article</string>
+  <string name="summaryCloudSyncAutoSwitchesToTheLatestEditedArticle">This will take effect only after you enable cloud sync on Cloud Sync Settings.\nAfter enabling this option, Pure Writer will automatically switch to your latest edited article for you if the cloud sync is completed.</string>
 </resources>

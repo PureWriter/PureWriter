@@ -178,7 +178,7 @@
   <string name="importedFileTooLargeToOpen">Masyadong malaki ang na-import na file, nabigo ang pagbubukas ng file</string>
   <string name="deleteEmptyArticlesShort">Tanggalin ang lahat ng walang laman na artikulo</string>
   <string name="deleteEmptyArticlesLong">Tanggalin ang lahat ng artikulong may mga blangkong pamagat at nilalaman sa Aklat na ito</string>
-  <string name="deleteCategory">Tanggalin ang Kategorya</string>
+  <string name="deleteCategory">Tanggalin ang Folder</string>
   <string name="exportBook">I-export ang Aklat na ito</string>
   <string name="needManualSortingTitle">Kailangan baguhin sa manu-manong pag-uuri upang magamit ang tampok na ito</string>
   <string name="needManualSortingMessage">Gusto mo bang baguhin ang mga setting sa \"Manual Sorting\"?</string>
@@ -252,7 +252,7 @@
   <string name="textColorSummary">Tandaan: Kapag inilipat mo ang Papel, awtomatikong mare-reset ang kulay ng teksto sa default na kulay.</string>
   <string name="titleTextSize">Laki ng font ng pamagat</string>
   <string name="restoreByThisBackup">I-restore gamit ang backup na ito?</string>
-  <string name="collapseAllCategories">I-collapse lahat ng Kategorya</string>
+  <string name="collapseAllCategories">I-collapse ang lahat ng folder</string>
   <string name="showMore">Magpakita ng higit pa</string>
   <string name="textColorAlpha">Kulay ng text alpha / transparency</string>
   <string name="connectDesktop">Connect Desktop version</string>
@@ -280,7 +280,7 @@
   <string name="needToPayForMarkdownRenderer">Ito ang Markdown Quick Preview na pahina, na nangangailangan sa iyong magbayad para sa Pure Writer Pro para magamit ito.</string>
   <string name="fabContextCreateNewAfterCurrent">Bagong artikulo pagkatapos ng kasalukuyang artikulo</string>
   <string name="fabContextCreateNewAtTheBottom">Maglagay ng bagong artikulo sa ibaba ng listahan ng artikulo</string>
-  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Maglagay ng bagong artikulo sa ibaba ng kasalukuyang Kategorya</string>
+  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Magpasok ng bagong artikulo sa ibaba ng kasalukuyang Folder</string>
   <string name="fabContextHideFabUntilNextStart">Itago ang button na ito hanggang sa susunod na paglulunsad</string>
   <string name="fabContextHideFabTemporarily">Pansamantalang itago ang pangunahing lumulutang na button</string>
   <string name="markdownQuickPreview">Mabilis na preview ng Markdown</string>
@@ -461,7 +461,6 @@
   <string name="noteBeforeRestoringBackup">Bago magsimula ang lahat, gumawa ng backup ng kasalukuyang data...</string>
   <string name="startMerging">Simulan ang pagsasama...</string>
   <string name="insertANewBook">Magsingit ng bagong libro</string>
-  <string name="insertANewCategory">Magpasok ng bagong kategorya</string>
   <string name="insertingOrUpdatingArticles">Paglalagay o pag-update ng mga artikulo...</string>
   <string name="insertANewArticle">Magpasok ng bagong artikulo</string>
   <string name="updateAnExistingArticle">I-update ang isang umiiral nang artikulo</string>
@@ -597,16 +596,16 @@
   <string name="syncNetwork">Cloud backup</string>
   <string name="unlockPro">I-unlock ang Pro</string>
   <string name="edit">I-edit</string>
-  <string name="category">Kategorya</string>
+  <string name="category">Folder</string>
   <string name="failed">Nabigo</string>
-  <string name="insertCategoryAboveShort">Ipasok ang Kategorya <b>sa itaas</b></string>
-  <string name="insertCategoryBelowShort">Ipasok ang Kategorya <b>sa ibaba</b></string>
-  <string name="insertCategoryBottomShort">Ipasok ang Kategorya sa <b>ibaba</b></string>
-  <string name="insertCategoryAboveLong">Ipasok ang Kategorya <b>sa itaas</b> ng kasalukuyang artikulo</string>
-  <string name="insertCategoryBelowLong">Ipasok ang Kategorya <b>sa ibaba</b> ng kasalukuyang artikulo</string>
-  <string name="insertCategoryBottomLong">Magpasok ng bagong Kategorya sa <b>ibaba</b> ng listahan ng kabanata</string>
-  <string name="insertCategory">Magpasok ng bagong kategorya</string>
-  <string name="editCategory">I-edit ang kategorya</string>
+  <string name="insertCategoryAboveShort">Maglagay ng Folder <b>sa itaas</b></string>
+  <string name="insertCategoryBelowShort">Maglagay ng Folder <b>sa ibaba</b></string>
+  <string name="insertCategoryBottomShort">Maglagay ng Folder sa <b>ibaba</b></string>
+  <string name="insertCategoryAboveLong">Sisestage uus kaust praeguse artikli <b>ülemale</b></string>
+  <string name="insertCategoryBelowLong">Magpasok ng bagong Folder <b>sa ibaba</b> ng kasalukuyang artikulo</string>
+  <string name="insertCategoryBottomLong">Magpasok ng bagong Folder sa <b>ibaba</b> ng listahan ng kabanata</string>
+  <string name="insertCategory">Ipasok ang Folder</string>
+  <string name="editCategory">I-edit ang Folder</string>
   <string name="unlockValidityPeriodSummary">%s\nTandaan: kung pinindot mo ang Bumalik upang lumabas sa app, mala-lock ito sa susunod</string>
   <string name="spacingsAndMargins">Spacings and margins</string>
   <string name="license">Lisensya</string>
@@ -626,7 +625,7 @@
   <string name="currentChapter">Kasalukuyang kabanata</string>
   <string name="sortingOptions">Mga pagpipilian sa pag-uuri</string>
   <string name="modifyOrderOfChapters">Baguhin ang pagkakasunud-sunod ng mga Kabanata</string>
-  <string name="modifyOrderOfCategories">Baguhin ang pagkakasunud-sunod ng Mga Kategorya</string>
+  <string name="modifyOrderOfCategories">Baguhin ang pagkakasunud-sunod ng mga folder</string>
   <string name="useSystemFont">Gumamit ng font ng system</string>
   <string name="useAppFont">Gumamit ng font ng app</string>
   <string name="previewThemeLight">Tema: Liwanag</string>
@@ -692,8 +691,7 @@
   <string name="beforeBackupIsMergedIntoLocal">bago_ang_backup_ay_pinagsama_sa_lokal</string>
   <string name="updateABook">Mag-update ng libro</string>
   <string name="deleteABook">Magtanggal ng libro</string>
-  <string name="updateACategory">Mag-update ng kategorya</string>
-  <string name="deleteACategory">Magtanggal ng kategorya</string>
+  <string name="updateACategory">Mag-update ng Folder</string>
   <string name="cloudSync">Pag-synchronize ng ulap</string>
   <string name="autoSwitchThemesAndNightMode">Awtomatikong lumipat ng mga tema at night mode</string>
   <string name="syncFailedNotSign">Nabigo ang pag-synchronize ng Cloud, mangyaring mag-log in muna sa iyong cloud storage account!</string>
@@ -714,4 +712,12 @@
   <string name="okSyncIt">OK, i-sync ito</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Binago mo ang kasalukuyang artikulo sa iba pang mga device, upang maiwasan ang mga salungatan, mangyaring i-synchronize muna, kung hindi, ang iyong mga pagbabago sa iba pang mga device ay maaaring itapon.</string>
   <string name="tts">TTS (Basahin nang malakas ang iyong nakatuong text para matulungan kang maiwasan ang mga pagkakamali sa spelling)</string>
+  <string name="about7zChange">Mahalagang paunawa tungkol sa cloud backup at sync</string>
+  <string name="readme7z">Binabago ng Pure Writer v20.2.0 ang cloud backup at sync file(.pwb) na format, na maaaring makabuluhang bawasan ang laki ng iyong backup o cloud sync file, at bawasan ang iyong pagkonsumo ng trapiko, pabilisin ang cloud backup at sync na proseso.\n\nGayunpaman, magreresulta ito na kung gumamit ka ng bersyon na mas mababa sa v20.2.0 ng Pure Writer sa iba pang mga device, hindi nito ma-parse nang tama ang pinakabagong format ng data, hindi gagana ang cloud sync, at mag-uulat din ng mali ang cloud backup. \"<b>Nasira ang file</b>\".\n\nSamakatuwid, <b>kailangan mong tiyakin na ang lahat ng iyong device ay gumagamit ng Pure Writer sa itaas v20.2.0</b>, ito ay napakahalaga, mangyaring tandaan ito at panatilihin itong na-update! 🙏</string>
+  <string name="ignoreBatteryOptimizationsTipForSync">I-off ang pag-optimize ng baterya upang matulungan ang Pure Writer na gumawa ng awtomatikong background Cloud Sync kapag ang iyong system ay idle (huwag mag-alala, ang epekto sa pagkonsumo ng baterya ay talagang minimal)</string>
+  <string name="ttsMode">TTS mode (salita o pangungusap?)</string>
+  <string name="ttsModeSentence">Sabihin ang <b>pangungusap</b>\n(Ilang wika lang ang sinusuportahan dahil hindi namin alam kung paano i-segment ang mga pangungusap para sa ibang mga wika‼️)</string>
+  <string name="ttsModeWord">Sabihin ang <b>salita</b> na kaka-type mo lang</string>
+  <string name="readCurrentArticleAloud">Basahin nang malakas ang kasalukuyang artikulo</string>
+  <string name="checkForUpdates">Tingnan ang mga update</string>
 </resources>

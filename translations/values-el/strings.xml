@@ -229,18 +229,18 @@
   <string name="markdownShortcutTip">Έχετε μόλις εισάγει ένα Markdown, το οποίο θα έχει αποτέλεσμα μόνο στη λειτουργία Markdown Preview. Θέλετε να ενεργοποιήσετε τη λειτουργία Markdown;</string>
   <string name="importedFileTooLargeToOpen">Το εισαγόμενο αρχείο είναι πολύ μεγάλο, το άνοιγμα του αρχείου απέτυχε</string>
   <string name="failed">Αποτυχημένο</string>
-  <string name="insertCategoryAboveShort">Εισαγωγή κατηγορίας <b>πάνω</b></string>
-  <string name="insertCategoryBelowShort">Εισαγωγή κατηγορίας <b>κάτω</b></string>
-  <string name="insertCategoryBottomShort">Εισαγωγή κατηγορίας στο <b>κάτω</b></string>
-  <string name="insertCategoryAboveLong">Εισαγωγή κατηγορίας <b>πάνω</b> από το τρέχον άρθρο</string>
-  <string name="insertCategoryBelowLong">Εισαγωγή κατηγορίας <b>κάτω</b> από το τρέχον άρθρο</string>
-  <string name="insertCategoryBottomLong">Εισαγωγή νέας κατηγορίας στο <b>κάτω</b> της λίστας κεφαλαίων</string>
-  <string name="insertCategory">Εισαγωγή νέας κατηγορίας</string>
-  <string name="editCategory">Επεξεργασία της κατηγορίας</string>
-  <string name="category">Κατηγορία</string>
+  <string name="insertCategoryAboveShort">Εισαγάγετε έναν φάκελο <b>παραπάνω</b></string>
+  <string name="insertCategoryBelowShort">Εισαγάγετε έναν φάκελο <b>παρακάτω</b></string>
+  <string name="insertCategoryBottomShort">Εισαγάγετε έναν φάκελο στο <b>κάτω</b></string>
+  <string name="insertCategoryAboveLong">Εισαγάγετε έναν νέο φάκελο <b>πάνω</b> από το τρέχον άρθρο</string>
+  <string name="insertCategoryBelowLong">Εισαγάγετε έναν νέο φάκελο <b>κάτω</b> από το τρέχον άρθρο</string>
+  <string name="insertCategoryBottomLong">Εισαγάγετε έναν νέο φάκελο στο <b>κάτω</b> της λίστας κεφαλαίων</string>
+  <string name="insertCategory">Εισαγωγή φακέλου</string>
+  <string name="editCategory">Επεξεργασία φακέλου</string>
+  <string name="category">Ντοσιέ</string>
   <string name="deleteEmptyArticlesShort">Διαγραφή όλων των κενών άρθρων</string>
   <string name="deleteEmptyArticlesLong">Διαγραφή όλων των άρθρων με κενό τίτλο και περιεχόμενο σε αυτό το βιβλίο</string>
-  <string name="deleteCategory">Διαγραφή κατηγορίας</string>
+  <string name="deleteCategory">Διαγραφή φακέλου</string>
   <string name="exportBook">Εξαγωγή αυτού του βιβλίου</string>
   <string name="needManualSortingTitle">Πρέπει να αλλάξετε σε χειροκίνητη ταξινόμηση για να χρησιμοποιήσετε αυτή τη λειτουργία</string>
   <string name="needManualSortingMessage">Θέλετε να αλλάξετε τις ρυθμίσεις σε "Χειροκίνητη ταξινόμηση";</string>
@@ -328,7 +328,7 @@
   <string name="titleTextSize">Μέγεθος γραμματοσειράς τίτλου</string>
   <string name="restoreByThisBackup">Επαναφορά από αυτό το αντίγραφο ασφαλείας;</string>
   <string name="restoreByThisBackupWithAppName">Pure Writer: Επαναφορά με αυτό το αντίγραφο ασφαλείας</string>
-  <string name="collapseAllCategories">Κατεβάστε όλες τις κατηγορίες</string>
+  <string name="collapseAllCategories">Σύμπτυξη όλων των φακέλων</string>
   <string name="showMore">Εμφάνιση περισσότερων</string>
   <string name="textColorAlpha">Χρώμα κειμένου άλφα / διαφάνεια</string>
   <string name="connectDesktop">Συνδέστε την έκδοση για την επιφάνεια εργασίας</string>
@@ -356,7 +356,7 @@
   <string name="needToPayForMarkdownRenderer">Αυτή είναι η σελίδα γρήγορης προεπισκόπησης Markdown, η οποία απαιτεί να πληρώσετε για το Pure Writer Pro για να τη χρησιμοποιήσετε.</string>
   <string name="fabContextCreateNewAfterCurrent">Νέο άρθρο μετά το τρέχον άρθρο</string>
   <string name="fabContextCreateNewAtTheBottom">Εισαγωγή νέου άρθρου στο κάτω μέρος της λίστας άρθρων</string>
-  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Εισαγωγή νέου άρθρου στο κάτω μέρος της τρέχουσας κατηγορίας</string>
+  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Εισαγάγετε ένα νέο άρθρο στο κάτω μέρος του τρέχοντος φακέλου</string>
   <string name="fabContextHideFabUntilNextStart">Κρύβει αυτό το κουμπί μέχρι την επόμενη εκκίνηση</string>
   <string name="fabContextHideFabTemporarily">Κρύβει προσωρινά το κύριο κυμαινόμενο κουμπί</string>
   <string name="license">Άδεια χρήσης</string>
@@ -559,7 +559,6 @@
   <string name="noteBeforeRestoringBackup">Πριν ξεκινήσουν όλα, κάντε ένα αντίγραφο ασφαλείας των τρεχόντων δεδομένων...</string>
   <string name="startMerging">Έναρξη συγχώνευσης...</string>
   <string name="insertANewBook">Εισαγωγή νέου βιβλίου</string>
-  <string name="insertANewCategory">Εισαγωγή νέας κατηγορίας</string>
   <string name="insertingOrUpdatingArticles">Εισαγωγή ή ενημέρωση άρθρων...</string>
   <string name="insertANewArticle">Εισαγωγή ενός νέου άρθρου</string>
   <string name="summary">Συνοπτική περιγραφή</string>
@@ -616,7 +615,7 @@
   <string name="merging">Συγχώνευση…</string>
   <string name="sortingOptions">Επιλογές ταξινόμησης</string>
   <string name="modifyOrderOfChapters">Τροποποιήστε τη σειρά των κεφαλαίων</string>
-  <string name="modifyOrderOfCategories">Τροποποιήστε τη σειρά των Κατηγοριών</string>
+  <string name="modifyOrderOfCategories">Τροποποιήστε τη σειρά των φακέλων</string>
   <string name="saveAsTxtFile">Αποθήκευση ως αρχείο .txt</string>
   <string name="saveAsMdFile">Αποθήκευση ως αρχείο .md</string>
   <string name="saveAsLongImage">Αποθήκευση ως μεγάλης εικόνας (.png)</string>
@@ -682,8 +681,7 @@
   <string name="beforeBackupIsMergedIntoLocal">προτού_το_αντίγραφο_ασφαλείασ_συγχωνευθεί_στο_τοπικό</string>
   <string name="updateABook">Ενημερώστε ένα βιβλίο</string>
   <string name="deleteABook">Διαγραφή βιβλίου</string>
-  <string name="updateACategory">Ενημερώστε μια κατηγορία</string>
-  <string name="deleteACategory">Διαγραφή κατηγορίας</string>
+  <string name="updateACategory">Ενημέρωση φακέλου</string>
   <string name="cloudSync">Συγχρονισμός cloud</string>
   <string name="autoSwitchThemesAndNightMode">Αυτόματη εναλλαγή θεμάτων και νυχτερινή λειτουργία</string>
   <string name="syncFailedNotSign">Ο συγχρονισμός στο cloud απέτυχε, συνδεθείτε πρώτα στον λογαριασμό αποθήκευσης στο cloud!</string>
@@ -704,4 +702,12 @@
   <string name="okSyncIt">Εντάξει, συγχρονίστε το</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Έχετε τροποποιήσει το τρέχον άρθρο σε άλλες συσκευές, για να αποφύγετε διενέξεις, συγχρονίστε πρώτα, διαφορετικά οι τροποποιήσεις σας σε άλλες συσκευές ενδέχεται να απορριφθούν.</string>
   <string name="tts">TTS (Διαβάστε δυνατά το κείμενο σας για να αποφύγετε ορθογραφικά λάθη)</string>
+  <string name="about7zChange">Σημαντική σημείωση σχετικά με τη δημιουργία αντιγράφων ασφαλείας και το συγχρονισμό cloud</string>
+  <string name="readme7z">Το Pure Writer v20.2.0 αλλάζει τη μορφή δημιουργίας αντιγράφων ασφαλείας και αρχείου συγχρονισμού cloud (.pwb), γεγονός που μπορεί να μειώσει σημαντικά το μέγεθος των αρχείων αντιγράφων ασφαλείας ή συγχρονισμού cloud και να μειώσει την κατανάλωση επισκεψιμότητας, επιταχύνοντας τη διαδικασία δημιουργίας αντιγράφων ασφαλείας και συγχρονισμού στο cloud.\n\nΩστόσο, αυτό θα έχει ως αποτέλεσμα ότι εάν χρησιμοποιείτε μια έκδοση χαμηλότερη από την έκδοση 20.2.0 του Pure Writer σε άλλες συσκευές, δεν θα είναι σε θέση να αναλύσει σωστά την πιο πρόσφατη μορφή δεδομένων, ο συγχρονισμός cloud δεν θα λειτουργήσει και η δημιουργία αντιγράφων ασφαλείας cloud θα αναφέρει επίσης ψευδώς \"<b>Το αρχείο είναι κατεστραμμένο</b>\".\n\nΕπομένως, <b>πρέπει να βεβαιωθείτε ότι όλες οι συσκευές σας χρησιμοποιούν Pure Writer πάνω από την έκδοση 20.2.0</b>, αυτό είναι πολύ σημαντικό, έχετε υπόψη σας και κρατήστε το ενημερωμένο! 🙏</string>
+  <string name="ignoreBatteryOptimizationsTipForSync">Απενεργοποιήστε τη βελτιστοποίηση μπαταρίας για να βοηθήσετε το Pure Writer να κάνει αυτόματο συγχρονισμό στο παρασκήνιο Cloud όταν το σύστημά σας είναι αδρανές (μην ανησυχείτε, ο αντίκτυπος στην κατανάλωση της μπαταρίας είναι πραγματικά ελάχιστος)</string>
+  <string name="ttsMode">Λειτουργία TTS (λέξη ή πρόταση;)</string>
+  <string name="ttsModeSentence">Πείτε την <b>πρόταση</b>\n(Υποστηρίζονται μόνο ορισμένες γλώσσες επειδή δεν γνωρίζουμε πώς να τμηματοποιούμε προτάσεις για άλλες γλώσσες‼️)</string>
+  <string name="ttsModeWord">Πείτε τη <b>λέξη</b> που μόλις πληκτρολογήσατε</string>
+  <string name="readCurrentArticleAloud">Διαβάστε δυνατά το τρέχον άρθρο</string>
+  <string name="checkForUpdates">Ελεγχος για ενημερώσεις</string>
 </resources>

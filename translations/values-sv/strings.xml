@@ -221,18 +221,18 @@
   <string name="markdownShortcutTip">Du har just infogat en Markdown, som endast kommer att gälla i Markdown Preview-läget. Vill du aktivera Markdown-läget?</string>
   <string name="importedFileTooLargeToOpen">Den importerade filen är för stor, öppnandet av filen misslyckades</string>
   <string name="failed">Misslyckad</string>
-  <string name="insertCategoryAboveShort">Infoga kategori <b>ovanför</b></string>
-  <string name="insertCategoryBelowShort">Infoga kategori <b>under</b></string>
-  <string name="insertCategoryBottomShort">Infoga kategori i <b>botten</b></string>
-  <string name="insertCategoryAboveLong">Infoga kategori <b>över</b> den aktuella artikeln</string>
-  <string name="insertCategoryBelowLong">Infoga kategori <b>under</b> den aktuella artikeln</string>
-  <string name="insertCategoryBottomLong">Infoga en ny kategori i <b>botten</b> av kapitellistan</string>
-  <string name="insertCategory">Infoga kategori</string>
-  <string name="editCategory">Redigera kategori</string>
-  <string name="category">Kategori</string>
+  <string name="insertCategoryAboveShort">Infoga en mapp <b>ovanför</b></string>
+  <string name="insertCategoryBelowShort">Infoga en mapp <b>nedan</b></string>
+  <string name="insertCategoryBottomShort">Infoga en mapp till <b>botten</b></string>
+  <string name="insertCategoryAboveLong">Infoga en ny mapp <b>ovanför</b> den aktuella artikeln</string>
+  <string name="insertCategoryBelowLong">Infoga en ny mapp <b>under</b> den aktuella artikeln</string>
+  <string name="insertCategoryBottomLong">Infoga en ny mapp i <b>botten</b> av kapitellistan</string>
+  <string name="insertCategory">Infoga mapp</string>
+  <string name="editCategory">Redigera mapp</string>
+  <string name="category">Mapp</string>
   <string name="deleteEmptyArticlesShort">Ta bort alla tomma artiklar</string>
   <string name="deleteEmptyArticlesLong">Ta bort alla artiklar med tomma rubriker och innehåll i denna bok.</string>
-  <string name="deleteCategory">Ta bort kategori</string>
+  <string name="deleteCategory">Ta bort mapp</string>
   <string name="exportBook">Exportera denna bok</string>
   <string name="needManualSortingTitle">Du måste byta till manuell sortering för att kunna använda den här funktionen.</string>
   <string name="needManualSortingMessage">Vill du ändra inställningarna till manuell sortering?</string>
@@ -320,7 +320,7 @@
   <string name="titleTextSize">Typsnittsstorlek för titeln</string>
   <string name="restoreByThisBackup">Återställa med denna säkerhetskopia?</string>
   <string name="restoreByThisBackupWithAppName">Pure Writer: Återställ med denna säkerhetskopia</string>
-  <string name="collapseAllCategories">Visa alla kategorier</string>
+  <string name="collapseAllCategories">Dölj alla mappar</string>
   <string name="showMore">Visa mer</string>
   <string name="textColorAlpha">Textfärg alfa/transparens</string>
   <string name="connectDesktop">Anslut skrivbord</string>
@@ -348,7 +348,7 @@
   <string name="needToPayForMarkdownRenderer">Det här är sidan Markdown Quick Preview, som kräver att du betalar för Pure Writer Pro för att kunna använda den.</string>
   <string name="fabContextCreateNewAfterCurrent">Ny artikel efter den aktuella artikeln</string>
   <string name="fabContextCreateNewAtTheBottom">Ny artikel längst ner i artikelförteckningen</string>
-  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Ny artikel längst ner i den aktuella kategorin</string>
+  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Infoga en ny artikel längst ned i aktuell mapp</string>
   <string name="fabContextHideFabUntilNextStart">Göm den här knappen till nästa lansering</string>
   <string name="fabContextHideFabTemporarily">Dölja den flytande huvudknappen tillfälligt</string>
   <string name="license">Licens</string>
@@ -549,7 +549,6 @@
   <string name="noteBeforeRestoringBackup">Innan allt börjar, gör en säkerhetskopia av de aktuella uppgifterna...</string>
   <string name="startMerging">Börja sammanfoga...</string>
   <string name="insertANewBook">Infoga en ny bok</string>
-  <string name="insertANewCategory">Infoga en ny kategori</string>
   <string name="insertingOrUpdatingArticles">Infoga eller uppdatera artiklar...</string>
   <string name="insertANewArticle">Infoga en ny artikel</string>
   <string name="summary">Sammanfattning</string>
@@ -598,7 +597,7 @@
   <string name="realYes">Ja</string>
   <string name="askOverwriteSettings">Vi kommer att använda artikeldatabasen i din säkerhetskopia för att skriva över den lokala artikeldatabasen, men vi vet inte om du vill att vi ska använda inställningarna i säkerhetskopian för att skriva över de lokala inställningarna. Välj:</string>
   <string name="privacyPolicySummary">Vi kommer inte att samla in någon av dina privata uppgifter</string>
-  <string name="modifyOrderOfCategories">Ändra ordningen på kategorierna</string>
+  <string name="modifyOrderOfCategories">Ändra ordningen på mappar</string>
   <string name="modifyOrderOfChapters">Ändra ordningen på kapitlen</string>
   <string name="sortingOptions">Sorteringsalternativ</string>
   <string name="saveAsTxtFile">Spara som .txt-fil</string>
@@ -666,8 +665,7 @@
   <string name="beforeBackupIsMergedIntoLocal">innan_säkerhetskopiering_slås_samman_till_lokal</string>
   <string name="updateABook">Uppdatera en bok</string>
   <string name="deleteABook">Ta bort en bok</string>
-  <string name="updateACategory">Uppdatera en kategori</string>
-  <string name="deleteACategory">Eliminar una categoría</string>
+  <string name="updateACategory">Uppdatera en mapp</string>
   <string name="cloudSync">Molnsynkronisering</string>
   <string name="autoSwitchThemesAndNightMode">Byt automatiskt teman och nattläge</string>
   <string name="syncFailedNotSign">Molnsynkronisering misslyckades, logga in på ditt molnlagringskonto först!</string>
@@ -688,4 +686,12 @@
   <string name="okSyncIt">OK, synkronisera det</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Du har ändrat den aktuella artikeln på andra enheter, för att undvika konflikter, vänligen synkronisera först, annars kan dina ändringar på andra enheter kasseras.</string>
   <string name="tts">TTS (läs din engagerade text högt för att hjälpa dig undvika stavfel)</string>
+  <string name="about7zChange">Viktigt meddelande om molnsäkerhetskopiering och synkronisering</string>
+  <string name="readme7z">Pure Writer v20.2.0 ändrar filformatet för molnsäkerhetskopiering och synkronisering (.pwb), vilket avsevärt kan minska storleken på dina säkerhetskopior eller molnsynkroniseringsfiler, och minska din trafikförbrukning, vilket påskyndar processen för säkerhetskopiering och synkronisering av molnet.\n\nDetta kommer dock att resultera i att om du använder en version lägre än v20.2.0 av Pure Writer på andra enheter, kommer den inte att kunna analysera det senaste dataformatet korrekt, molnsynkronisering kommer inte att fungera och molnsäkerhetskopiering kommer också att rapportera felaktigt \"<b>Fil skadad</b>\".\n\nDärför <b>måste du se till att alla dina enheter använder Pure Writer ovan v20.2.0</b>, detta är mycket viktigt, vänligen ha det i åtanke och håll det uppdaterat! 🙏</string>
+  <string name="ignoreBatteryOptimizationsTipForSync">Stäng av batterioptimering för att hjälpa Pure Writer att göra automatisk bakgrundsmolnsynkronisering när ditt system är inaktivt (oroa dig inte, effekten på batteriförbrukningen är verkligen minimal)</string>
+  <string name="ttsMode">TTS-läge (ord eller mening?)</string>
+  <string name="ttsModeSentence">Säg upp <b>meningen</b>\n(Endast vissa språk stöds eftersom vi inte vet hur man segmenterar meningar för andra språk‼️)</string>
+  <string name="ttsModeWord">Säg <b>ordet</b> du precis skrev</string>
+  <string name="readCurrentArticleAloud">Läs aktuell artikel högt</string>
+  <string name="checkForUpdates">Sök efter uppdateringar</string>
 </resources>

@@ -205,18 +205,18 @@
   <string name="markdownShortcutTip">Právě jste vložili Markdown, který se projeví pouze v režimu náhledu Markdown. Chcete aktivovat režim Markdown?</string>
   <string name="importedFileTooLargeToOpen">Importovaný soubor je příliš velký, otevření souboru se nezdařilo</string>
   <string name="failed">Nepodařilo se</string>
-  <string name="insertCategoryAboveShort">Vložit kategorii <b>nad</b></string>
-  <string name="insertCategoryBelowShort">Vloží kategorii <b>pod</b></string>
-  <string name="insertCategoryBottomShort">Vloží kategorii do <b>dole</b></string>.
-  <string name="insertCategoryAboveLong">Vloží kategorii <b>nad</b> aktuální článek</string>
-  <string name="insertCategoryBelowLong">Vloží kategorii <b>pod</b> aktuální článek</string>.
-  <string name="insertCategoryBottomLong">Vloží novou Kategorii do <b>spodní části</b> seznamu kapitol</string>.
-  <string name="insertCategory">Vložení kategorie</string>
-  <string name="editCategory">Upravit kategorii</string>
-  <string name="category">Kategorie</string>
+  <string name="insertCategoryAboveShort">Vložte složku <b>výše</b></string>
+  <string name="insertCategoryBelowShort">Vložte složku <b>níže</b></string>
+  <string name="insertCategoryBottomShort">Vložte složku <b>dole</b></string>.
+  <string name="insertCategoryAboveLong">Vložte novou složku <b>nad</b> aktuální článek</string>
+  <string name="insertCategoryBelowLong">Vložte novou složku <b>pod</b> aktuální článek</string>.
+  <string name="insertCategoryBottomLong">Vložte novou složku do <b>spodní části</b> seznamu kapitol</string>.
+  <string name="insertCategory">Vložit složku</string>
+  <string name="editCategory">Upravit složku</string>
+  <string name="category">Složka</string>
   <string name="deleteEmptyArticlesShort">Smazání všech prázdných článků</string>
   <string name="deleteEmptyArticlesLong">Smaže všechny články s prázdnými názvy a obsahem v této knize</string>
-  <string name="deleteCategory">Smazat kategorii</string>
+  <string name="deleteCategory">Smazat složku</string>
   <string name="exportBook">Exportovat tuto knihu</string>
   <string name="needManualSortingTitle">Pro použití této funkce je třeba změnit třídění na ruční</string>
   <string name="needManualSortingMessage">Chcete změnit nastavení na "Ruční třídění"?</string>
@@ -299,7 +299,7 @@
   <string name="titleTextSize">Velikost písma nadpisu</string>
   <string name="restoreByThisBackup">Obnovit podle této zálohy?</string>
   <string name="restoreByThisBackupWithAppName">Čistý Writer: Obnovit podle této zálohy</string>
-  <string name="collapseAllCategories">Sbalit všechny kategorie</string>
+  <string name="collapseAllCategories">Sbalit všechny složky</string>
   <string name="showMore">Zobrazit více</string>
   <string name="textColorAlpha">Barva textu alfa / průhlednost</string>
   <string name="connectDesktop">Připojení verze pro stolní počítače</string>
@@ -327,7 +327,7 @@
   <string name="needToPayForMarkdownRenderer">Toto je stránka rychlého náhledu Markdown, která vyžaduje, abyste si zaplatili aplikaci Pure Writer Pro, abyste ji mohli používat.</string>
   <string name="fabContextCreateNewAfterCurrent">Nový článek po aktuálním článku</string>
   <string name="fabContextCreateNewAtTheBottom">Vložení nového článku na konec seznamu článků</string>
-  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Vložení nového článku na konec aktuální kategorie</string>
+  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Vložte nový článek na konec aktuální složky</string>
   <string name="fabContextHideFabUntilNextStart">Skryje toto tlačítko až do dalšího spuštění</string>
   <string name="fabContextHideFabTemporarily">Dočasně skrýt hlavní plovoucí tlačítko</string>
   <string name="customPapers">Papíry na zakázku\nDelikátní, Pohlcující</string>
@@ -524,7 +524,6 @@
   <string name="noteBeforeRestoringBackup">Předtím, než se vše spustí, proveďte zálohu aktuálních dat...</string>
   <string name="startMerging">Spustit slučování...</string>
   <string name="insertANewBook">Vložení nové knihy</string>
-  <string name="insertANewCategory">Vložení nové kategorie</string>
   <string name="insertingOrUpdatingArticles">Vkládání nebo aktualizace článků...</string>
   <string name="insertANewArticle">Vložení nového článku</string>
   <string name="summary">Souhrn</string>
@@ -612,7 +611,7 @@
   <string name="once">někdy</string>
   <string name="sortingOptions">Možnosti řazení</string>
   <string name="modifyOrderOfChapters">Upravte pořadí kapitol</string>
-  <string name="modifyOrderOfCategories">Upravte pořadí kategorií</string>
+  <string name="modifyOrderOfCategories">Upravte pořadí složek</string>
   <string name="saveAsTxtFile">Uložit jako soubor .txt</string>
   <string name="saveAsMdFile">Uložit jako soubor .md</string>
   <string name="saveAsLongImage">Uložit jako dlouhý obrázek (.png)</string>
@@ -678,8 +677,7 @@
   <string name="beforeBackupIsMergedIntoLocal">před_sloučením_zálohy_do_místní</string>
   <string name="updateABook">Aktualizujte knihu</string>
   <string name="deleteABook">Smazat knihu</string>
-  <string name="updateACategory">Aktualizujte kategorii</string>
-  <string name="deleteACategory">Smazat kategorii</string>
+  <string name="updateACategory">Aktualizujte složku</string>
   <string name="cloudSync">Cloudová synchronizace</string>
   <string name="autoSwitchThemesAndNightMode">Automatické přepínání motivů a noční režim</string>
   <string name="syncFailedNotSign">Cloudová synchronizace se nezdařila, nejprve se prosím přihlaste ke svému účtu cloudového úložiště!</string>
@@ -700,4 +698,12 @@
   <string name="okSyncIt">OK, synchronizujte to</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Upravili jste aktuální článek na jiných zařízeních, abyste předešli konfliktům, nejprve jej prosím synchronizujte, jinak mohou být vaše úpravy na jiných zařízeních zahozeny.</string>
   <string name="tts">TTS (Přečtěte si svůj odevzdaný text nahlas, abyste se vyhnuli pravopisným chybám)</string>
+  <string name="about7zChange">Důležité upozornění o zálohování a synchronizaci v cloudu</string>
+  <string name="readme7z">Pure Writer v20.2.0 mění formát cloudového zálohování a synchronizace (.pwb), což může výrazně snížit velikost vašich záloh nebo cloudových synchronizačních souborů a snížit spotřebu provozu, čímž se urychlí proces zálohování a synchronizace v cloudu.\n\nTo však povede k tomu, že pokud použijete verzi Pure Writer nižší než v20.2.0 na jiných zařízeních, nebude schopen správně analyzovat nejnovější formát dat, synchronizace v cloudu nebude fungovat a zálohování v cloudu bude také chybně hlásit \"<b>Soubor je poškozen</b>\".\n\nProto se <b>musíte ujistit, že všechna vaše zařízení používají Pure Writer vyšší než v20.2.0</b>, což je velmi důležité, mějte to prosím na paměti a udržujte jej aktualizované! 🙏</string>
+  <string name="ignoreBatteryOptimizationsTipForSync">Vypnutím optimalizace baterie pomůžete Pure Writer provádět automatickou synchronizaci cloudu na pozadí, když je váš systém nečinný (nebojte se, dopad na spotřebu baterie je opravdu minimální)</string>
+  <string name="ttsMode">Režim TTS (slovo nebo věta?)</string>
+  <string name="ttsModeSentence">Vyslovte <b>větu</b>\n(Podporovány jsou pouze některé jazyky, protože neumíme segmentovat věty pro jiné jazyky‼️)</string>
+  <string name="ttsModeWord">Vyslovte <b>slovo</b>, které jste právě napsali</string>
+  <string name="readCurrentArticleAloud">Přečtěte si nahlas aktuální článek</string>
+  <string name="checkForUpdates">Kontrola aktualizací</string>
 </resources>
