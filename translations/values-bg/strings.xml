@@ -714,4 +714,5 @@
   <string name="ttsModeSentence">Произнесете <b>изречението</b>\n(Поддържат се само някои езици, защото не знаем как да сегментираме изречения за други езици‼️)</string>
   <string name="readCurrentArticleAloud">Прочетете текущата статия на глас</string>
   <string name="checkForUpdates">Провери за обновления</string>
+  <string name="ttsEnabled">TTS е активиран</string>
 </resources>
