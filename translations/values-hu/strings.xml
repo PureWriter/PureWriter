@@ -696,4 +696,5 @@
   <string name="ttsModeWord">Mondja ki az imént beírt <b>szót</b></string>
   <string name="readCurrentArticleAloud">Olvassa el az aktuális cikket</string>
   <string name="checkForUpdates">Frissítések keresése</string>
+  <string name="ttsEnabled">TTS engedélyezve</string>
 </resources>
