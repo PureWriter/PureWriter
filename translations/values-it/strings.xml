@@ -678,4 +678,5 @@
   <string name="ttsModeWord">Pronuncia la <b>parola</b> che hai appena digitato</string>
   <string name="readCurrentArticleAloud">Leggi l\'articolo corrente ad alta voce</string>
   <string name="checkForUpdates">Controlla gli aggiornamenti</string>
+  <string name="ttsEnabled">TTS abilitato</string>
 </resources>

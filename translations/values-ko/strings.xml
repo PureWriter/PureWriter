@@ -679,4 +679,5 @@
   <string name="ttsModeWord">방금 입력한 <b>단어</b>를 말하세요.</string>
   <string name="readCurrentArticleAloud">현재 기사 소리내어 읽기</string>
   <string name="checkForUpdates">업데이트 확인</string>
+  <string name="ttsEnabled">TTS 활성화</string>
 </resources>

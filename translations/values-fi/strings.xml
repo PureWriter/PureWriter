@@ -719,4 +719,5 @@
   <string name="ttsModeWord">Puhu juuri kirjoittamasi <b>sana</b></string>
   <string name="readCurrentArticleAloud">Lue nykyinen artikkeli ääneen</string>
   <string name="checkForUpdates">Tarkista päivitykset</string>
+  <string name="ttsEnabled">TTS käytössä</string>
 </resources>

@@ -713,4 +713,5 @@
   <string name="ttsModeWord">Prononcez le <b>mot</b> que vous venez de taper</string>
   <string name="readCurrentArticleAloud">Lire l\'article actuel à voix haute</string>
   <string name="checkForUpdates">Vérifier les mises à jour</string>
+  <string name="ttsEnabled">TTS activé</string>
 </resources>

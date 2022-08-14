@@ -705,4 +705,5 @@
   <string name="ttsModeWord">Rostiți <b>cuvântul</b> pe care tocmai l-ați tastat</string>
   <string name="readCurrentArticleAloud">Citiți cu voce tare articolul curent</string>
   <string name="checkForUpdates">Verifică pentru actualizări</string>
+  <string name="ttsEnabled">TTS activat</string>
 </resources>

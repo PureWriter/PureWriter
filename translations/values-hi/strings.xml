@@ -667,4 +667,5 @@
   <string name="ttsModeWord">वह <b>शब्द</b> बोलें जो आपने अभी-अभी टाइप किया है</string>
   <string name="readCurrentArticleAloud">वर्तमान लेख को जोर से पढ़ें</string>
   <string name="checkForUpdates">अद्यतन के लिए जाँच</string>
+  <string name="ttsEnabled">TTS सक्रिय</string>
 </resources>

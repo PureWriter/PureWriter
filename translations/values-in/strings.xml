@@ -674,4 +674,5 @@
   <string name="ttsModeWord">Ucapkan <b>kata</b> yang baru saja Anda ketik</string>
   <string name="readCurrentArticleAloud">Baca artikel saat ini dengan keras</string>
   <string name="checkForUpdates">Periksa pembaruan</string>
+  <string name="ttsEnabled">TTS diaktifkan</string>
 </resources>
