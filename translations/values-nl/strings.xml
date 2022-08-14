@@ -708,4 +708,5 @@
   <string name="ttsModeWord">Spreek het <b>woord</b> uit dat u zojuist hebt getypt</string>
   <string name="readCurrentArticleAloud">Lees huidig artikel hardop</string>
   <string name="checkForUpdates">Controleren op updates</string>
+  <string name="ttsEnabled">TTS ingeschakeld</string>
 </resources>
