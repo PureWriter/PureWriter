@@ -710,5 +710,6 @@
   <string name="ttsModeSentence">Sig <b>sætningen</b>\n(Kun nogle sprog understøttes, fordi vi ikke ved, hvordan man segmenterer sætninger for andre sprog‼️)</string>
   <string name="readCurrentArticleAloud">Læs den aktuelle artikel højt</string>
   <string name="checkForUpdates">Søg efter opdateringer</string>
+  <string name="ttsEnabled">TTS aktiveret</string>
 </resources>
 
