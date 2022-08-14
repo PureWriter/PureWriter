@@ -694,4 +694,5 @@
   <string name="ttsModeWord">Säg <b>ordet</b> du precis skrev</string>
   <string name="readCurrentArticleAloud">Läs aktuell artikel högt</string>
   <string name="checkForUpdates">Sök efter uppdateringar</string>
+  <string name="ttsEnabled">TTS aktiverad</string>
 </resources>
