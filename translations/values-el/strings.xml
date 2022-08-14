@@ -710,4 +710,5 @@
   <string name="ttsModeWord">Πείτε τη <b>λέξη</b> που μόλις πληκτρολογήσατε</string>
   <string name="readCurrentArticleAloud">Διαβάστε δυνατά το τρέχον άρθρο</string>
   <string name="checkForUpdates">Ελεγχος για ενημερώσεις</string>
+  <string name="ttsEnabled">TTS ενεργοποιημένο</string>
 </resources>
