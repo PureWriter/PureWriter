@@ -719,4 +719,5 @@
   <string name="ttsMode">Режим TTS (слово чи речення?)</string>
   <string name="readCurrentArticleAloud">Прочитайте поточну статтю вголос</string>
   <string name="checkForUpdates">Перевірити наявність оновлень</string>
+  <string name="ttsEnabled">TTS увімкнено</string>
 </resources>
