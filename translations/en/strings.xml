@@ -815,4 +815,5 @@
   <string name="checkForUpdates">Check for updates</string>
   <string name="cloudSyncAutoSwitchesToTheLatestEditedArticle">Cloud sync auto switches to the latest edited article</string>
   <string name="summaryCloudSyncAutoSwitchesToTheLatestEditedArticle">This will take effect only after you enable cloud sync on Cloud Sync Settings.\nAfter enabling this option, Pure Writer will automatically switch to your latest edited article for you if the cloud sync is completed.</string>
+  <string name="ttsEnabled">TTS enabled</string>
 </resources>

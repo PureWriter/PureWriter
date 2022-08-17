@@ -519,7 +519,7 @@
   <string name="introductionOfReadOnlyMode">* 當游標不可見時，需要點按兩次編輯器才能置入游標並進入編輯模式\n* 當游標可見時，無論何時，只需點按即可編輯或修改游標位置\n* 當游標可見 且 螢幕小鍵盤已收起時，可以按「返回鍵」來隱藏游標並進入唯讀模式</string>
   <string name="messageReadOnlyModeAndPro">這個「進階唯讀模式」需要純純寫作 Pro，你可以點選確定進入純純寫作 Pro 介紹頁面和取得更多進階版功能，或者點選取消（將在下次啟動後自動取消「進階唯讀模式」）。</string>
   <string name="doNotRemindAgain">不再提示</string>
-  <string name="homeFab">首頁右下角浮動按鈕</string>
+  <string name="homeFab">首頁右下角浮動按鈕模式</string>
   <string name="fabOverflowModeSingleClick">點按開啟二級選單，在二級選單中可選擇建立文章，避免意外操作</string>
   <string name="fabOverflowModeLongPress">點按即可直接建立文章，而長按才開啟二級選單</string>
   <string name="safeMode">安全模式</string>

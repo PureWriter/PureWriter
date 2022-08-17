@@ -525,7 +525,7 @@
   <string name="introductionOfReadOnlyMode">* 当光标不可见时，需要双击编辑器才能置入光标并进入编辑模式\n* 当光标可见时，无论如何，只需单击即可编辑或修改光标位置\n* 当光标可见时 同时 软键盘已收起，可以按「返回键」来隐藏光标并进入只读模式</string>
   <string name="messageReadOnlyModeAndPro">这个「高级只读模式」需要纯纯写作 Pro，你可以点击确定进入纯纯写作 Pro 介绍页面和获取更多高级版功能，或者点击取消（将在下次启动后自动取消「高级只读模式」）。</string>
   <string name="doNotRemindAgain">不再提示</string>
-  <string name="homeFab">主页右下角悬浮按钮</string>
+  <string name="homeFab">主页右下角悬浮按钮模式</string>
   <string name="fabOverflowModeSingleClick">单击打开二级菜单，在二级菜单中可选择创建文章，避免误触</string>
   <string name="fabOverflowModeLongPress">单击即可直接创建文章，而长按才打开二级菜单</string>
   <string name="safeMode">安全模式</string>
