@@ -746,7 +746,7 @@
   <string name="moveArticlesOfDeletedFolderToTrash">将被删除的文件夹内部的文章移到废纸篓里</string>
   <string name="tts">TTS (读出您输入的文本以帮您避免错别字)</string>
   <string name="about7zChange">关于云备份和云同步文件极其重要的通知</string>
-  <string name="readme7z">纯纯写作 v20.2.0 修改了云备份和云同步 .pwb 文件格式细节，这可以大幅减小您的备份或云同步文件体积，同时可以大幅减小您的流量损耗、加速云备份和云同步过程。\n\n但是，这会导致如果您在其他设备上使用低于 v20.2.0 版本的纯纯写作，它将无法正确解析最新的数据格式，云同步将会无法工作，云备份也会误报「<b>文件损坏</b>」。\n\n因此，<b>您需要确保您的所有设备都使用 v20.2.0 版本以上的纯纯写作</b>，这非常重要，请铭记于心并及时更新！🙏</string>
+  <string name="readme7z">纯纯写作 v20.6.0 修改了云备份和云同步 .pwb 文件格式细节，这可以大幅减小您的备份或云同步文件体积，同时可以大幅减小您的流量损耗、加速云备份和云同步过程。\n\n但是，这会导致如果您在其他设备上使用低于 v20.6.0 版本的纯纯写作，它将无法正确解析最新的数据格式，云同步将会无法工作，云备份也会误报「<b>文件损坏</b>」。\n\n因此，<b>您需要确保您的所有设备都使用 v20.6.0 版本以上的纯纯写作</b>，这非常重要，请铭记于心并及时更新！🙏</string>
   <string name="autoChapterNameTitle">自动加入或更新\n\"第几章\"前缀</string>
   <string name="ignoreBatteryOptimizationsTipForSync">允许「自启动」并修改「省电策略」以帮助纯纯写作在您系统闲暇时自动进行后台云同步（请放心，这对耗电的影响真微乎其微）</string>
   <string name="ttsMode">TTS 模式 (词或句子?)</string>
