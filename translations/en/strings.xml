@@ -582,7 +582,7 @@
   <string name="safeMode">Safe mode</string>
   <string name="summarySafeMode">When this App enters the background or recent task list page, the content of this App will be obscured or hidden; when this item is turned on, <b>screenshots in the App will also be prohibited</b>!</string>
   <string name="pressBackToClearCursor">Cursor is hidden and entered Read-only mode</string>
-  <string name="PureWriterManual">Pure Writer manual</string>
+  <string name="PureWriterManual">Pure Writer manual/help</string>
   <string name="cursorJoyTutorial">Press and hold the above shaking button, then move your finger to control cursor movement</string>
   <string name="tipBlueInputBox">Tip: After inputting, press the Enter key ⏎ to jump out of the blue input box</string>
   <string name="defaultShortcut1">\"\"</string>
@@ -799,8 +799,7 @@
   <string name="tts">TTS (Speak your committed text aloud to help you avoid typos or spelling mistakes)</string>
   <string name="about7zChange">Important notice about cloud backup and sync</string>
   <string name="readme7z">Pure Writer v20.6.0 changes the cloud backup and sync file(.pwb) format, which can significantly reduce the size of your backup or cloud sync files, and reduce your traffic consumption, speeding up the cloud backup and sync process.\n\nHowever, this will result in that if you use a version lower than v20.6.0 of Pure Writer on other devices, it will not be able to parse the latest data format correctly, cloud sync will not work, and cloud backup will also falsely report \"<b>File corrupted</b>\".\n\nTherefore, <b>you need to make sure that all your devices are using Pure Writer above v20.6.0</b>, this is very important, please keep it in mind and keep it updated! 🙏</string>
-  <string name="autoChapterNameTitle" translatable="false">自动加入或更新\n\"第几章\"前缀</string>
-  <string name="autoChapterNameResetForCategory" translatable="false">自动章节名遇到卷\n回归第一章开始</string>
+  <string name="autoChapterNameTitle" translatable="false">自动加入或更新\n[第]*[章] 前缀</string>
   <string name="ttsMode">TTS mode (word or sentence?)</string>
   <string name="ttsModeWord">Speak the <b>word</b> you just typed</string>
   <string name="ttsModeSentence">Speak the <b>sentence</b>\n(Only some languages are supported because we don\'t know how to segment sentences for other languages‼️)</string>
@@ -816,4 +815,8 @@
   <string name="cloudSyncAutoSwitchesToTheLatestEditedArticle">Cloud sync auto switches to the latest edited article</string>
   <string name="summaryCloudSyncAutoSwitchesToTheLatestEditedArticle">This will take effect only after you enable cloud sync on Cloud Sync Settings.\nAfter enabling this option, Pure Writer will automatically switch to your latest edited article for you if the cloud sync is completed.</string>
   <string name="ttsEnabled">TTS enabled</string>
+  <string name="orLongPressToSelect">Or long press on text to select and copy parts of it</string>
+  <string name="messageAskPostNotification">Grant notification permission to display <i>Auto Backup</i> status?</string>
+  <string name="needUpdate">Need update</string>
+  <string name="messageNeedForcedUpdate">Due to the expired HTTPS certificate of the current version, the Android system cannot provide secure network requests for Pure Writer, and your network requests may be intercepted by middlemen. Therefore, you need to update to the new version to continue to use Pure Writer securely.</string>
 </resources>

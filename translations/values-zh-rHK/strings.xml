@@ -12,7 +12,7 @@
   <string name="redo">重做</string>
   <string name="about">關於 | 幫助</string>
 
-  <string name="defaultContent">　　很高興見到你！\n　　這是一個快速的純文字編輯器，我們希望寫作能夠回到原本的樣子：<b>純粹、有安全感、隨時、絕對不遺失內容、具備良好的寫作體驗。</b>\n　　純純寫作實現了在 Android 上完美的行間距和段間距，它能夠使您的文字看起來更加舒適、清晰。同時，它還實現了「快速輸入列」和「格式化工具」，以及許多喜人的細節內容。\n　　最重要的，<b>在使用這個編輯器時，它將會保證您的內容永遠不會遺失，除非您主動將它清空。否則即使誤操作將文字刪除，或瞬間斷電，您仍然能夠從歷史記錄或備份中將它復原。</b>\n　　純純寫作還在流暢體驗上下了很多功夫，它擁有完美的鍵盤響應邏輯。使用純純寫作時，你能夠往下拖動快速輸入列來收起軟鍵盤；能夠點擊文章某一行後，動態獲得合適的游標焦點定位；能夠在收起軟鍵盤時，文章位置保持不動 … 許多這樣的細節內容，當你對比使用其他編輯器項目時，你才會發現純純寫作做得更加出色、流暢，細緻入微。\n　　蘊繁於簡。許多編輯器該有的功能，純純寫作也都沒有落下，比如 WebDAV 雲備份、雲同步、段首縮排、生成長圖片、指紋加鎖、Markdown、更換信紙、夜間模式、單詞聯想輸入、打字機模式、復原、字數統計 等等。但即使這樣，純純寫作仍然保持了簡約的設計風格，遵循 Material Design 設計，並且它還有一個像是哆啦 A 夢 時光機 的圖標，寓意着「文字能夠連接過去，遙想未來」，也照應了純純寫作特別提供的「歷史記錄」功能。\n　　您能夠最快速度到達靈感頁面，能夠隨時隨地中斷和繼續寫作，這些我們都已經為您做好了。\n　　令人感到安心，順滑流暢的寫作體驗，如你所願，這就是純純寫作，請享受寫作吧！</string>
+  <string name="defaultContent">　　寫作，讓我們連接過去，遙想未來。然而，您是否經歷過一些寫作軟件：啟動不夠快導致靈感稍縱即逝？經常出錯導致文字付諸東流？缺乏許多寫作該有的功能與輔助令人感覺不夠順手？\n　　純純寫作能夠解決所有這些問題。這是一個極速的純文本編輯器，我們希望寫作能夠回到原本的樣子：<b>純粹、有安全感、隨時、絕不丟失內容、具備良好的寫作體驗。</b>\n　　令人安心\n　　純純寫作的圖標是一個時光機的投影，寓意着文字能夠帶我們穿越時空，也照應了純純寫作特別提供的「歷史記錄」和「自動備份」功能，通過這些保障，即使您誤操作將文本刪除，或手機瞬間斷電關機，您的文章仍然能夠被完整保存或者在歷史記錄裏找回。多年來，純純寫作提供了令人安心，充滿安全感的寫作體驗，做到了難得的無一丟失，廣受好評。\n　　絲滑流暢\n　　除了實現最重要的安全保障之外，純純寫作的 UI 界面和各種寫作輔助功能，也能令用戶感到這個應用真是賞心悅目又絲滑流暢。純純寫作適配了 Android 11 的軟鍵盤接口，能夠讓您的手指順滑地控制軟鍵盤起落。同時，它還提供了呼吸式的光標，光標不再僅僅一閃一閃，而是像人的呼吸一樣，漸隱漸顯。許多類似這樣的細節，純純寫作都打磨到了極致，與此同時，它又擁有許多寫作輔助功能，比如「自動補全成對符號」、按刪除時刪除成對符號、在完成對話內容時按回車鍵跳出引號範圍……許多這樣的輔助功能，都會令人感到適時和自然，當你對比其他編輯器應用時，便會發現純純寫作做得更加出色、流暢、細緻入微。\n　　蘊繁於簡\n　　許多編輯器該有的基本功能，純純寫作也都沒有落下，比如 快速輸入列、<b>多設備雲同步</b>、段首縮進、段間距、生成精美的長圖片、撤銷、字數統計、雙編輯器左右對照、一鍵調整格式、查找替換、Markdown、電腦版……還有一些十分有創意的獨家功能，比如：使用 TTS 語音引擎實時讀出您輸入的文字，幫您換一種感官方式檢查輸入的文字是否正確。再比如它實現了「無限字數」，只要您的手機性能允許，沒有字數限制。即使這樣，純純寫作仍然保持了簡約的設計風格，遵循 Material Design 設計，好用又好看。\n　　您能夠最快速度到達靈感頁面，能夠隨時隨地中斷和繼續寫作，這些純純寫作都已經為您做好了。令人感到安心且流暢的寫作體驗，這就是純純寫作，請享受寫作吧！</string>
   <string name="copyTitle">複製標題</string>
   <string name="copyContent">複製正文內容</string>
   <string name="appPureMosaic">廣告:純純打碼</string>
@@ -460,7 +460,7 @@
 |
 |        ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/PureWriterDesktop.webp)
 |
-|        你可以在純純寫作主頁頂部的雲圖標菜單 ☁️ 裏找到 純純寫作桌面版 的下載鏈接和連接桌面版。
+|        您可以在純純寫作主頁頂部的雲圖標菜單 ☁️ 裏找到 純純寫作桌面版 的下載鏈接和連接桌面版。
 |
 |        當前，純純寫作桌面版仍然還在 alpha 階段，它十分初級，只提供了與手機雙向實時瞬間同步寫作功能。
 |
@@ -561,11 +561,11 @@
   <string name="theTry">試用</string>
   <string name="selectFolder">選擇文件夾</string>
   <string name="fileTypeNotSupported">不支持該文件類型</string>
-  <string name="grantStoragePermission">授予純純寫作文件夾權限</string>
+  <string name="grantStoragePermission">指定純純寫作文件夾</string>
   <string name="folderNoLongerExists">該文件夾或存儲不再存在！</string>
   <string name="tipNotRecommendedFolder">這個目錄不符合我們推薦的目錄，將導致純純寫作無法讀取到它舊有的備份數據，請知悉或返回上一步進行更正！</string>
   <string name="tipTargetFolder">"根據您選擇的文件夾，純純寫作的最終存儲目錄為: "</string>
-  <string name="messageWhyNeedSAF">為了更好地保護用戶私隱，從 Android 11 開始，純純寫作**不再需要全盤讀寫權限**，取而代之的是讓**用戶指定一個文件夾目錄**，純純寫作將僅對於該目錄擁有讀寫權限。\n\n因此，您需要點擊下方的按鈕選取一個文件夾目錄，為了方便以後重新安裝時能夠對接舊有數據，我們**強烈建議**您固定選擇 ***`Documents`*** 這個文件夾 🙏</string>
+  <string name="messageWhyNeedSAF">為了更好地保護用戶私隱，從 Android 11 開始，純純寫作**不再需要全盤讀寫權限**，取而代之的是讓**用戶指定一個文件夾目錄**，純純寫作將僅能夠對該目錄進行讀寫。\n\n因此，您需要點擊下方的按鈕選取一個文件夾目錄，為了方便以後重新安裝時能夠對接舊有數據，我們**強烈建議**您固定選擇 ***`Documents`*** 這個文件夾 🙏</string>
   <string name="selectFont">選取字體</string>
   <string name="pureWriterFolder">純純寫作文件夾</string>
   <string name="materialFilesNote">目前下方的「打開」僅支持使用 zhanghai/MaterialFiles 打開，如果需要您可以自行下載這個應用，或者手動使用您系統中的文件管理器打開上述路徑。</string>
@@ -748,7 +748,7 @@
   <string name="tts">TTS (讀出您輸入的文字以幫您避免錯別字)</string>
   <string name="about7zChange">關於雲備份和雲同步文件極其重要的通知</string>
   <string name="readme7z">純純寫作 v20.6.0 修改了雲備份和雲同步 .pwb 文件格式細節，這可以大幅減小您的備份或雲同步文件體積，同時可以大幅減小您的流量損耗、加速雲備份和雲同步過程。\n\n但是，這會導致如果您在其他設備上使用低於 v20.6.0 版本的純純寫作，它將無法正確解析最新的數據格式，雲同步將會無法工作，雲備份也會誤報「<b>文件損壞</b>」。\n\n因此，<b>您需要確保您的所有設備都使用 v20.6.0 版本以上的純純寫作</b>，這非常重要，請銘記於心並及時更新！🙏</string>
-  <string name="autoChapterNameTitle">自動加入或更新\n\"第幾章\"前綴</string>
+  <string name="autoChapterNameTitle">自動加入或更新\n[第]*[章] 前綴</string>
   <string name="ignoreBatteryOptimizationsTipForSync">允許「自啟動」並修改「省電策略」以幫助純純寫作在您系統閒暇時自動進行後台雲同步（請放心，這對耗電的影響真微乎其微）</string>
   <string name="ignoreBatteryOptimizationsTipForSyncDetail">純純寫作會在必要的時候，**當手機電量充足且擁有 Wi-Fi 網路時**，於後台自動進行「雲同步」（由 [WorkManager](https://developer.android.google.cn/topic/libraries/architecture/workmanager?hl=zh_cn) **閒暇系統**調度，純純寫作不會持續保持後台行程），最低間隔時間為 15~56 分鐘，這對於手機的耗電影響微乎其微，您無需對此產生擔憂。\n\nWorkManager 的任務調度系統本應是 Android 系統預設允許的，但由於國產廠商系統對於電量最佳化過於激進的措施，**在國產系統上 WorkManager 的任務都會預設受到限制，即使正常使用的話它們根本不會產生什麼耗電**。\n\n所以為了讓純純寫作的「後台雲同步」任務能夠被**閒暇系統**正常調度，您可以手動為純純寫作**開啟「自啟動」選項並修改「省電策略」（或稱「電池最佳化」）為\"無限制\"**，這樣在系統閒暇且必要的時，純純寫作能夠在您打開它之前**自動幫您把其他裝置上的變更同步到本機**。\n\n一般情況下，您可以進入純純寫作應用訊息頁面開啟「自啟動」選項**並**修改「省電策略」。祝您使用愉快！</string>
   <string name="ttsMode">TTS 模式 (詞或句子?)</string>
@@ -765,4 +765,7 @@
   <string name="cloudSyncAutoSwitchesToTheLatestEditedArticle">雲同步自動切換到最新編輯文章</string>
   <string name="summaryCloudSyncAutoSwitchesToTheLatestEditedArticle">需要您在雲同步設定頁面先啟用雲同步後此項才會生效。\n啟用本項後，如果雲同步完成，純純寫作會自動為您切換到您最新編輯的文章。</string>
   <string name="ttsEnabled">TTS 已啟用</string>
+  <string name="orLongPressToSelect">或長按文本可選擇和復制其中的部分內容，對此，请记得复制好后点击底部的「取消」而非「确定」</string>
+  <string name="needUpdate">需要更新</string>
+  <string name="messageNeedForcedUpdate">由於當前版本 HTTPS 證書過期，導致 Android 系統無法為純純寫作提供安全的網絡請求，您的網絡請求可能被中間人攔截，因此您需要更新到新版才能繼續安全地使用純純寫作。\n\nhttps://t.me/s/PureWriter</string>
 </resources>
