@@ -99,6 +99,8 @@
   <string name="copied">已复制</string>
   <string name="sortTypeModifiedTimeDown">修改时间新的排前</string>
   <string name="sortTypeCreatedTimeDown">创建时间新的排前</string>
+  <string name="sortTypeModifiedTimeUp">修改时间新的排<b>后</b></string>
+  <string name="sortTypeCreatedTimeUp">创建时间新的排<b>后</b></string>
   <string name="sort">排序规则</string>
   <string name="warningSavedFailed">文件自动保存失败，请复制您的全文，然后重启 App 查看是否丢失内容</string>
   <string name="backupSuccessful">备份成功</string>
@@ -426,6 +428,7 @@
 |
 |        #### 纯纯写作 桌面版
 |
+|        ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/PureWriterDesktopDark.webp)
 |        ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/PureWriterDesktop.webp)
 |
 |        您可以在纯纯写作主页顶部的云图标菜单 ☁️ 里找到 纯纯写作桌面版 的下载链接和连接桌面版。
@@ -766,4 +769,6 @@
   <string name="messageAskPostNotification">授予通知权限用于显示「自动备份」状态？</string>
   <string name="needUpdate">需要更新</string>
   <string name="messageNeedForcedUpdate">由于当前版本 HTTPS 证书过期，导致 Android 系统无法为纯纯写作提供安全的网络请求，您的网络请求可能被中间人拦截，因此您需要更新到新版才能继续安全地使用纯纯写作。\n\nhttps://a.app.qq.com/o/simple.jsp?pkgname=com.drakeet.purewriter</string>
+  <string name="showShareTextMenuItemAfterSelectingText">在选择文本后显示分享文本菜单项</string>
+  <string name="extKeyboardTip">横屏时提示使用外接键盘</string>
 </resources>

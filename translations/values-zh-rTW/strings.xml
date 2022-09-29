@@ -98,6 +98,8 @@
   <string name="copied">已複製</string>
   <string name="sortTypeModifiedTimeDown">修改時間新的排前</string>
   <string name="sortTypeCreatedTimeDown">建立時間新的排前</string>
+  <string name="sortTypeModifiedTimeUp">修改時間新的排<b>後</b></string>
+  <string name="sortTypeCreatedTimeUp">建立時間新的排<b>後</b></string>
   <string name="sort">排序規則</string>
   <string name="warningSavedFailed">檔案自動儲存失敗，請複製您的全文，然後重新啟動 App 查看是否存在遺失內容</string>
   <string name="backupSuccessful">備份成功</string>
@@ -278,7 +280,7 @@
   <string name="smoothScrollerTitle">順滑的聚焦文字列滾動動畫</string>
   <string name="tipSmoothScrolling">開啟這個選項後，當你點選正文的某一列，若有必要，編輯器會順滑地滾動頁面至該列。這個選項保持關閉時，則會瞬間跳躍到該列。\n滾動動畫可能在一些裝置上表現不佳，因此如果你感覺到 lag，請關閉這個選項。</string>
   <string name="defaultMessageUpdateApk">這是一個重要的版本，請儘快更新到這個版本</string>
-  <string name="readme">您已開啟了純純寫作新的 Material Design 2 設計。\n\nMaterial Design 2 帶來了新的全螢幕沉浸稿紙和透明化頂部列，更加精緻多彩。\n\n但與此同時，新的設計可能存在諸多問題，因此這個特性作為純純寫作的一個實驗性功能，它可能存在一些 UI 視覺上的問題。另外，作為純純寫作的作者，相對來說，我更喜歡純純寫作預設原版設計，它更加耐看和令人專注文字內容，因此這個主題實際上是應少數使用者強烈要求而特地開發的，它給開發者造出了額外的開發成本，能夠提供出來實屬不易，而且由於需要兼顧兩套設計和主題，開發者的工作可能會成倍增加。\n\n由此，如果開啟 Material Design 2 後純純寫作將採用強制收費方式，但您仍然可以有許多時間去體驗並作出最終付費決定。請儘量支持它，如果經過統計發現最終願意付費的使用者比例很少，開發者可能會復原或停止提供 Material Design 2。您一旦開啟 Material Design 2，將視為預設同意此內容。\n\n謝謝大家！我會竭盡全力提供一個越來越好的純純寫作，請享用！</string>
+  <string name="readme">您已開啟了純純寫作新的 Material Design 2 設計。\n\nMaterial Design 2 帶來了新的全螢幕沉浸稿紙和透明化頂部列，更加精緻多彩。\n\n但與此同時，新的設計可能存在諸多問題，因此這個特性作為純純寫作的一個實驗性功能，它可能存在一些 UI 視覺上的問題。另外，作為純純寫作的作者，相對來說，我更喜歡純純寫作預設原版設計，它更加耐看和令人專注文字內容，因此這個主題實際上是應少數使用者強烈要求而特地開發的，它給開發者造出了額外的開發成本，能夠提供出來實屬不易，而且由於需要兼顧兩套設計和主題，開發者的工作可能會成倍增加。\n\n由此，如果開啟 Material Design 2 後純純寫作將採用強制收費方式，但您仍然可以有許多時間去體驗並作出最終付費決定。請儘量支持它，如果經過統計發現最終願意付費的使用者比例很少，開發者可能會復原或停止提供 Material Design 2。您一旦開啟 Material Design 2，將視為預設同意此內容。\n\n謝謝大家！我們會竭盡全力提供一個越來越好的純純寫作，請享用！</string>
   <string name="lowFreeStorageSpaceWarning">您的手機剩餘儲存空間只有 %1$d MB, 這可能導致純純寫作儲存或備份失敗，請務必清理留出 %2$d MB 以上空間後再使用純純寫作！</string>
   <string name="pureWriterBBS">純純寫作論壇</string>
   <string name="replaceConfirmMessage">你確定要取代 %d 處內容嗎？</string>
@@ -458,6 +460,7 @@
 |
 |        #### 純純寫作 桌面版
 |
+|        ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/PureWriterDesktopDark.webp)
 |        ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/PureWriterDesktop.webp)
 |
 |        您可以在純純寫作首頁頂部的雲端圖示選單 ☁️ 裡找到 純純寫作桌面版 的下載連結並連接桌面版。
@@ -768,4 +771,6 @@
   <string name="needUpdate">需要更新</string>
   <string name="messageNeedForcedUpdate">由於當前版本 HTTPS 證書過期，導致 Android 系統無法為純純寫作提供安全的網絡請求，您的網絡請求可能被中間人攔截，因此您需要更新到新版才能繼續安全地使用純純寫作。\n\nhttps://t.me/s/PureWriter</string>
   <string name="autoChapterNameTitle">自動加入或更新\n[第]*[章] 前綴</string>
+  <string name="showShareTextMenuItemAfterSelectingText">在選擇文本後顯示分享文本菜單項</string>
+  <string name="extKeyboardTip">橫屏時提示使用外接鍵盤</string>
 </resources>

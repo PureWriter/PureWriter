@@ -113,8 +113,10 @@
   <string name="titleOpenImportedFile">Found that you opened an external file, please select an action</string>
   <string name="copied">Copied</string>
   <string name="sort">Sort type</string>
-  <string name="sortTypeModifiedTimeDown">Time Modified</string>
-  <string name="sortTypeCreatedTimeDown">Time Created</string>
+  <string name="sortTypeModifiedTimeDown">Time Modified (Descending)</string>
+  <string name="sortTypeCreatedTimeDown">Time Created (Descending)</string>
+  <string name="sortTypeModifiedTimeUp">Time Modified (Ascending)</string>
+  <string name="sortTypeCreatedTimeUp">Time Created (Ascending)</string>
   <string name="warningSavedFailed">Article save failed. Please copy your content and try restarting the app to check if any content is lost.</string>
   <string name="backupNow">Backup now</string>
   <string name="backupToLocalNow">Back up to local storage now</string>
@@ -479,6 +481,7 @@
 |
 |        #### Pure Writer Desktop
 |
+|        ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktopDark.webp)
 |        ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
 |
 |        You can get Pure Writer Desktop and connect to the Desktop via the cloud icon ☁️ at the top of the main Editor.
@@ -819,4 +822,6 @@
   <string name="messageAskPostNotification">Grant notification permission to display <i>Auto Backup</i> status?</string>
   <string name="needUpdate">Need update</string>
   <string name="messageNeedForcedUpdate">Due to the expired HTTPS certificate of the current version, the Android system cannot provide secure network requests for Pure Writer, and your network requests may be intercepted by middlemen. Therefore, you need to update to the new version to continue to use Pure Writer securely.</string>
+  <string name="showShareTextMenuItemAfterSelectingText">Show share text menu item after selecting text</string>
+  <string name="extKeyboardTip">Prompt to use external keyboard when in landscape</string>
 </resources>
