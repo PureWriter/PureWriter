@@ -1,19 +1,21 @@
 {
-  "key": "22.12.12",
+  "key": "23.1.1",
   "title": {
-    "default": "ON SALE for 2022 12·12 Shopping Festival",
-    "zh": "「双十二」特惠活动"
+    "default": "ON SALE for Christmas + New Year 2023",
+    "zh": "「2023 元旦新年」特惠活动"
   },
   "message": {
-    "default": "In 2017, Pure Writer launched its first version on Google Play, starting a long \"five-year project\". During these 5 years, we submitted a total of 9,000 updates, ranging from v1.0 to v21.3.5, in the latest version, we have implemented important functions such as Cloud Sync & Smooth Unlimited Words.\n\nTherefore, during 2022.12.11 ~ 2022.12.13, the Double 12 Shopping Festival, Pure Writer Pro (lifetime), originally priced at $21.99, is discounted to $14.99.",
-    "zh": "在「双十二」购物节期间，纯纯写作 Pro（永久会员）现提供三天短期大幅降价优惠！\n\n在纯纯写作 Pro 页面底部可查看最新优惠售价。"
+    "default": "In 2017, Pure Writer launched its first version on Google Play, starting a long \"five-year project\". During these 5 years, we submitted a total of 9,000 updates, ranging from v1.0 to v21.3.9, in the latest version, we have implemented important functions such as Cloud Sync & Smooth Unlimited Words.\n\nTherefore, during 2022.12.23 ~ 2023.1.2, the Double 12 Shopping Festival, Pure Writer Pro (lifetime), originally priced at $21.99, is discounted to $13.99.",
+    "zh": "在 2022.12.24 ~ 2023.1.2 新年期间，纯纯写作 Pro（永久会员）现提供短期大幅降价优惠！\n\n在纯纯写作 Pro 页面底部可查看最新优惠售价。"
   },
-  "startTime": "2022-12-10",
-  "endTime": "2022-12-13",
+  "startTime": "2022-12-23",
+  "endTime": "2023-1-2",
   "intervalDays": 3,
   "keyDays": [
-    11,
-    13
+    24,
+    25,
+    1,
+    2
   ],
   "onlyAbroad": false,
   "version": 1
