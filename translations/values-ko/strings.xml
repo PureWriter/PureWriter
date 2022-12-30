@@ -540,7 +540,7 @@
   <string name="connectDesktop">데스크탑에 연결</string>
   <string name="disconnectDesktop">데스크탑 연결 해제</string>
   <string name="connect">연결하기</string>
-  <string name="desktopDialogGuide">https://writer.drakeet.com/desktop_en 에서 <b><i> Pure Writer Desktop1.5.2 이상 </i></b>을 다운로드해야 합니다.\n\n모바일과 컴퓨터가 <b> 동일한 Wi-Fi 네트워크 또는 핫스팟 👈👈👈 </b>에 있을 때, 데스크탑을 열고 아래의 IP 주소를 데스크탑의 입력 필드에 입력하여 Pure Writer에 연결하면 현재 문서를 동기화하고 실시간으로 편집할 수 있습니다.</string>
+  <string name="desktopDialogGuide">https://writer.drakeet.com/desktop_en 에서 <b><i> Pure Writer Desktop1.7.0 이상 </i></b>을 다운로드해야 합니다.\n\n모바일과 컴퓨터가 <b> 동일한 Wi-Fi 네트워크 또는 핫스팟 👈👈👈 </b>에 있을 때, 데스크탑을 열고 아래의 IP 주소를 데스크탑의 입력 필드에 입력하여 Pure Writer에 연결하면 현재 문서를 동기화하고 실시간으로 편집할 수 있습니다.</string>
   <string name="connectionIsStopping">연결이 중지됩니다. 나중에 다시 시도하세요!</string>
   <string name="stop_waiting_connection">연결 대기 중지</string>
   <string name="desktopDisconnected">데스크탑 연결이 끊어졌습니다.</string>

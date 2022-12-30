@@ -336,7 +336,7 @@
   <string name="disconnectDesktop">Disconnect Desktop-version</string>
   <string name="connect">Forbinde</string>
   <string name="tipNotSupportThisDesktopVersion">De aktuelle versioner af mobil og desktop passer ikke sammen og kan ikke forbindes. Opdater venligst begge til den nyeste version og prøv igen.</string>
-  <string name="desktopDialogGuide">Du skal downloade <b><i>Pure Writer Desktop1.5.2 (eller nyere)</i></b> fra https://writer.drakeet.com/desktop_en \n\nNår din mobil og computer er på <b>det samme Wi-Fi-netværk eller hotspot👈👈👈👈</b>, skal du åbne Desktop og indtaste IP-adressen nedenfor <b>i indtastningsfeltet i Desktop</b> for at oprette forbindelse til Pure Writer, hvorefter du kan synkronisere og redigere den aktuelle artikel i realtid.</string>
+  <string name="desktopDialogGuide">Du skal downloade <b><i>Pure Writer Desktop1.7.0 (eller nyere)</i></b> fra https://writer.drakeet.com/desktop_en \n\nNår din mobil og computer er på <b>det samme Wi-Fi-netværk eller hotspot👈👈👈👈</b>, skal du åbne Desktop og indtaste IP-adressen nedenfor <b>i indtastningsfeltet i Desktop</b> for at oprette forbindelse til Pure Writer, hvorefter du kan synkronisere og redigere den aktuelle artikel i realtid.</string>
   <string name="desktopDialogNote">Bemærk: Pure Writer Desktop er stadig på alpha-stadiet. Du bedes forstå og vente på de efterfølgende opdateringer.\n* Hvis du ser <b>flere linjer med IP-adresser</b>, skal du prøve at forbinde dem en efter en.</string>
   <string name="connectionIsStopping">Forbindelsen er ved at stoppe, prøv igen senere!</string>
   <string name="createShortcutLabel">Tekstgenvej</string>

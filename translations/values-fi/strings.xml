@@ -338,7 +338,7 @@
   <string name="disconnectDesktop">Kytke työpöytäversio pois päältä</string>
   <string name="connect">Kytkeä</string>
   <string name="tipNotSupportThisDesktopVersion">Tämänhetkiset mobiili- ja työpöytäversiot eivät vastaa toisiaan eikä niitä voi yhdistää. Päivitä molemmat uusimpaan versioon ja yritä uudestaan.</string>
-  <string name="desktopDialogGuide"> Sinun on ladattava <b><i>Pure Writer Desktop1.5.2 (tai uudempi)</i></b> osoitteesta https://writer.drakeet.com/desktop_en \n\nKun kännykkäsi ja tietokoneesi ovat <b>samassa Wi-Fi-verkossa tai hotspotissa👈👈👈👈</b>, avaa Desktop ja syötä alla oleva IP-osoite <b>Työpöydän syöttökenttään</b> muodostaaksesi yhteyden Pure Writeriin, niin voit synkronoida ja muokata nykyistä artikkelia reaaliajassa.</string>
+  <string name="desktopDialogGuide"> Sinun on ladattava <b><i>Pure Writer Desktop1.7.0 (tai uudempi)</i></b> osoitteesta https://writer.drakeet.com/desktop_en \n\nKun kännykkäsi ja tietokoneesi ovat <b>samassa Wi-Fi-verkossa tai hotspotissa👈👈👈👈</b>, avaa Desktop ja syötä alla oleva IP-osoite <b>Työpöydän syöttökenttään</b> muodostaaksesi yhteyden Pure Writeriin, niin voit synkronoida ja muokata nykyistä artikkelia reaaliajassa.</string>
   <string name="desktopDialogNote">Huomautus: Pure Writer Desktop on vielä alfa-vaiheessa. Ymmärrä ja odota sen myöhempiä päivityksiä.\n* Jos näet <b>monta riviä IP-osoitteita</b>, yritä yhdistää ne yksi kerrallaan.</string>
   <string name="connectionIsStopping">Yhteys pysähtyy, yritä myöhemmin uudelleen!</string>
   <string name="createShortcutLabel">Tekstin pikavalinta</string>

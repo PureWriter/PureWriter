@@ -258,7 +258,7 @@
   <string name="connectDesktop">Savienojiet darbvirsmas versiju</string>
   <string name="disconnectDesktop">Atvienot darbvirsmas versiju</string>
   <string name="tipNotSupportThisDesktopVersion">Šībrīža mobilā un darbvirsmas versija nesakrīt, un tās nevar savienot. Lūdzu, atjauniniet abas versijas līdz jaunākajai un mēģiniet vēlreiz.</string>
-  <string name="desktopDialogGuide">Jums nepieciešams lejupielādēt <b><i>Pure Writer Desktop1.5.2 (vai jaunāku)</i></b> no https://writer.drakeet.com/desktop_en \n\nJa jūsu mobilais tālrunis un dators ir <b>vienā Wi-Fi tīklā vai karstajā punktā👈👈👈👈</b>, atveriet Desktop un ievadiet zemāk norādīto IP adresi <b>Desktop ievades laukā</b>, lai izveidotu savienojumu ar Pure Writer, tad varat sinhronizēt un rediģēt pašreizējo rakstu reālajā laikā.</string>
+  <string name="desktopDialogGuide">Jums nepieciešams lejupielādēt <b><i>Pure Writer Desktop1.7.0 (vai jaunāku)</i></b> no https://writer.drakeet.com/desktop_en \n\nJa jūsu mobilais tālrunis un dators ir <b>vienā Wi-Fi tīklā vai karstajā punktā👈👈👈👈</b>, atveriet Desktop un ievadiet zemāk norādīto IP adresi <b>Desktop ievades laukā</b>, lai izveidotu savienojumu ar Pure Writer, tad varat sinhronizēt un rediģēt pašreizējo rakstu reālajā laikā.</string>
   <string name="desktopDialogNote">Piezīme: Pure Writer Desktop joprojām ir alfa fāzē. Lūdzu, izprotiet un gaidiet tās turpmākos atjauninājumus.\n* Ja redzat <b>vairākas IP adrešu rindas</b>, mēģiniet tās pieslēgt pa vienai.</string>
   <string name="connectionIsStopping">Savienojums pārtraucas, mēģiniet vēlreiz vēlāk!</string>
   <string name="createShortcutLabel">Teksta saīsne</string>

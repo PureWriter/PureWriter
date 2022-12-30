@@ -532,7 +532,7 @@
     <string name="connectDesktop">Verbind het bureaublad</string>
   <string name="disconnectDesktop">Koppel het bureaublad los</string>
   <string name="connect">Verbind</string>
-  <string name="desktopDialogGuide">U moet <b><i>Pure Writer Desktop1.5.2 (of hoger)</i></b> downloaden van https://writer.drakeet.com/desktop_en \n\nWanneer uw mobiele telefoon en computer zich op <b>hetzelfde Wi-Fi-netwerk of hotspot👈👈👈</b> bevinden, opent u Desktop en voert u het onderstaande IP-adres <b>in het invoerveld van Desktop</b> in om verbinding te maken met Pure Writer, waarna u het huidige artikel in real time kunt synchroniseren en bewerken.</string>
+  <string name="desktopDialogGuide">U moet <b><i>Pure Writer Desktop1.7.0 (of hoger)</i></b> downloaden van https://writer.drakeet.com/desktop_en \n\nWanneer uw mobiele telefoon en computer zich op <b>hetzelfde Wi-Fi-netwerk of hotspot👈👈👈</b> bevinden, opent u Desktop en voert u het onderstaande IP-adres <b>in het invoerveld van Desktop</b> in om verbinding te maken met Pure Writer, waarna u het huidige artikel in real time kunt synchroniseren en bewerken.</string>
   <string name="desktopDialogNote">Opmerking: Pure Writer Desktop bevindt zich nog in het alfa stadium. Gelieve te begrijpen en te wachten op de volgende updates.\n* Als u <b>meerdere regels met IP-adressen</b> ziet, probeer ze dan één voor één te verbinden.</string>
   <string name="connectionIsStopping">De verbinding wordt verbroken, probeer het later nog eens!</string>
   <string name="stop_waiting_connection">Stop met wachten op verbindingen</string>

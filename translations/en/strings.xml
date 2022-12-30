@@ -411,7 +411,7 @@
   <string name="disconnectDesktop">Disconnect Desktop</string>
   <string name="connect">Connect</string>
   <string name="tipNotSupportThisDesktopVersion">The current mobile and desktop versions do not match and cannot be connected. Please update both to the latest version and try again.</string>
-  <string name="desktopDialogGuide">You need to download <b><i>Pure Writer Desktop1.5.2 (or above)</i></b> from https://writer.drakeet.com/desktop_en \n\nWhen your mobile and computer are on <b>the same Wi-Fi network or hotspot👈👈👈</b>, open Desktop and enter the IP address below <b>into the input field of Desktop</b> to connect to Pure Writer, then you can sync and edit the current article in real time.</string>
+  <string name="desktopDialogGuide">You need to download <b><i>Pure Writer Desktop1.7.0 (or above)</i></b> from https://writer.drakeet.com/desktop_en \n\nWhen your mobile and computer are on <b>the same Wi-Fi network or hotspot👈👈👈</b>, open Desktop and enter the IP address below <b>into the input field of Desktop</b> to connect to Pure Writer, then you can sync and edit the current article in real time.</string>
   <string name="desktopDialogNote">Note: Pure Writer Desktop is still in its alpha stage. Please understand and wait for its subsequent updates.\n* If you see <b>multiple lines of IP addresses</b>, try connecting them one by one.</string>
   <string name="connectionIsStopping">The connection is stopping, try again later!</string>
   <string name="createShortcutLabel">Text Shortcut</string>
