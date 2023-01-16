@@ -359,7 +359,7 @@
   <string name="showMore">显示更多</string>
   <string name="textColorAlpha">字体颜色透明度</string>
   <string name="tipNotSupportThisDesktopVersion">当前手机端和桌面端版本不匹配，无法连接，请各自更新到最新版后重试</string>
-  <string name="desktopDialogGuide">您需要从\nhttps://writer.drakeet.com/desktop \n下载<b><i>纯纯写作桌面版1.7.0 或以上版本</i></b>。\n\n当手机与电脑<b>处于同一个 Wi-Fi 网络或热点</b>时👈👈👈，打开桌面版后将以下的 IP 地址<b>输入于桌面版中的输入栏中</b>，即可与桌面版实时连接，双向同步编辑当前文章。</string>
+  <string name="desktopDialogGuide">您需要从\nhttps://writer.drakeet.com/desktop \n下载<b><i>纯纯写作桌面版1.7.4 或以上版本</i></b>。\n\n当手机与电脑<b>处于同一个 Wi-Fi 网络或热点</b>时👈👈👈，打开桌面版后将以下的 IP 地址<b>输入于桌面版中的输入栏中</b>，即可与桌面版实时连接，双向同步编辑当前文章。</string>
   <string name="desktopDialogNote">注意：当前纯纯写作桌面版还处于非常初级阶段，许多功能未完善，请您理解和静待其后续更新。\n* 若您看到<b>多行 IP 地址</b>，请逐一尝试连接它们。</string>
   <string name="connect">连接</string>
   <string name="connectDesktop">连接纯纯写作桌面版</string>
@@ -478,7 +478,7 @@
   <string name="nightMode">夜间模式</string>
   <string name="customPapers">自定义稿纸\n精致、沉浸</string>
   <string name="markdownQuickPreview">Markdown 快捷预览</string>
-  <string name="exportToPicMdTxt">另存为、导出为长图片、md、txt</string>
+  <string name="exportToPicMdTxt">另存为、导出为长图片、md、txt、pdf</string>
   <string name="materialDesign2ThemeWithLineBreak">Material Design 2\n主题</string>
   <string name="veryVerySmooth">非常非常顺滑流畅</string>
   <string name="helperTextForRegisteredAccount">这个账号已注册，如果最终确定，我们将为你登录它</string>
@@ -501,7 +501,7 @@
   <string name="savedStateModeDisableAll">无论如何，对所有文章禁用</string>
   <string name="restoreArticleScrollPosition">恢复文章滚动停留位置</string>
   <string name="summaryScrollToBottom">是否在主页显示这个按钮</string>
-  <string name="cloudBackupFailed">云备份失败，可能的原因：\n* 如果您在下方看到 timeout 字样，说明当前网络连接超时，请检查网络后重新打开纯纯写作即可自动重新备份\n* 如果您的云存储空间满了，或者本月上传流量用完了，这也将导致备份失败，请去检查它再重试 \n* 如果一切操作都无法解决，请尝试在纯纯写作云备份页面退出您的云备份账号并重新登录它\n\n具体报错信息</string>
+  <string name="cloudBackupFailed">云备份失败，可能的原因：\n* 如果您在下方看到 timeout 字样，说明当前网络连接超时，请检查网络后重新打开纯纯写作即可自动重新备份\n* 如果您的云存储空间满了，或者本月上传流量用完了，这也将导致备份失败，请去检查它再重试 \n*如果您在下方看到 \"403\" 字样，这大概率是您的云存储密码不正确，请重新配置或换一个云备份账号试试！\n* 如果一切操作都无法解决，请尝试在纯纯写作云备份页面退出您的云备份账号并重新登录它\n\n具体报错信息</string>
   <string name="dropboxBackupFailed">您的 Dropbox 云备份失败，请尝试在纯纯写作云备份页面退出您的 Dropbox 账号并重新登录它</string>
   <string name="dropboxBackupFailedDueToInsufficientSpace">云备份失败：Dropbox 空间不足</string>
   <string name="tipImageDialog">请在下面输入您要插入的网络图片链接。\n或者您可以点击左下角的「本地图片」来选取本地图片并自动获取该图片的本地链接。</string>
@@ -618,7 +618,7 @@
   <string name="optionsForLandscape">平板设置项和指引</string>
   <string name="editInVerticalCenter">垂直居中编辑</string>
   <string name="onlyWorkForHardwareKeyboard">仅在使用外接键盘时生效</string>
-  <string name="editInVerticalCenterSummary">使得当前编辑的行总是在屏幕垂直中央（可能无效，这属于输入法的问题，请见谅）</string>
+  <string name="editInVerticalCenterSummary">使得当前编辑的行总是在屏幕垂直中央</string>
   <string name="migrateImageAssets">迁移 Markdown 图片资源到 Documents/PureWriter/Assets 目录下</string>
   <string name="migrateImageAssetsSummary">这有助于您集中地转移您的所有 Markdown 引用到的图片到您的新设备上，您可以在此操作后，将 Documents/PureWriter/Assets 文件夹复制到新设备同样目录上，然后再恢复此设备的备份到新设备上，这样新设备就可以顺利地引用到原来的图片了。</string>
   <string name="tipForFromPlayToAlipay">使用该付费方式，请确保您身处中国大陆，这个付费方式原则上仅是提供给中国大陆用户使用，因为在中国无法使用 Google 和 Google Play 付费。</string>
@@ -708,7 +708,7 @@
   <string name="noNetworkPermissionMessage">您禁止了纯纯写作的联网权限，导致它无法连接，这将导致您无法登录纯纯写作账号，并且无法进行云备份，请授予纯纯写作网络权限！</string>
   <string name="hideWordCountOnTM">隐藏在时光机底栏上的字数统计按钮</string>
   <string name="tryChangingANiceBackgroundOrTheme">试试更改一个美妙的背景或主题？</string>
-  <string name="databaseDowngradeErrorMessage">您的纯纯写作恢复或使用了一个来自更高版本纯纯写作的数据库文件，当前版本的纯纯写作无法处理该数据库，请更新纯纯写作到最新版即可解决此问题。\n\n如果不更新，则程序无法正常使用，这并非我们有意想限制您，而是当前旧版在技术上就是无法处理新版的数据库。请您理解并更新到最新版即可解决。\n\n下载最新版：\nhttps://a.app.qq.com/o/simple.jsp?pkgname=com.drakeet.purewriter</string>
+  <string name="databaseDowngradeErrorMessage">您的纯纯写作恢复或使用了一个来自更高版本纯纯写作的数据库文件，当前版本的纯纯写作无法处理该数据库，请更新纯纯写作到最新版即可解决此问题。\n\n如果不更新，则程序无法正常使用，这并非我们有意想限制您，而是当前旧版在技术上就是无法处理新版的数据库。请您理解并更新到最新版即可解决。\n\n下载最新版：\nhttps://www.coolapk.com/apk/com.drakeet.purewriter</string>
   <string name="databaseDowngradeError">数据库降级错误</string>
   <string name="forcedPortrait">强制竖屏</string>
   <string name="forcedPortraitSummary">无论您是否打开自动旋转，此应用程序都将使用纵向模式。</string>
@@ -768,7 +768,19 @@
   <string name="orLongPressToSelect">或长按文本可选择和复制其中的部分内容，对此，请记得复制好后点击底部的「取消」而非「确定」</string>
   <string name="messageAskPostNotification">授予通知权限用于显示「自动备份」状态？</string>
   <string name="needUpdate">需要更新</string>
-  <string name="messageNeedForcedUpdate">由于当前版本 HTTPS 证书过期，导致 Android 系统无法为纯纯写作提供安全的网络请求，您的网络请求可能被中间人拦截，因此您需要更新到新版才能继续安全地使用纯纯写作。\n\nhttps://a.app.qq.com/o/simple.jsp?pkgname=com.drakeet.purewriter</string>
+  <string name="messageNeedForcedUpdate">由于当前版本 HTTPS 证书过期，导致 Android 系统无法为纯纯写作提供安全的网络请求，您的网络请求可能被中间人拦截，因此您需要更新到新版才能继续安全地使用纯纯写作。\n\nhttps://www.coolapk.com/apk/com.drakeet.purewriter</string>
   <string name="showShareTextMenuItemAfterSelectingText">在选择文本后显示分享文本菜单项</string>
   <string name="extKeyboardTip">横屏时提示使用外接键盘</string>
+  <string name="tipLargeText">当前文章长度超长，已帮您临时禁用段间距以继续获得流畅写作体验。</string>
+  <string name="superLongArticleThreshold">超长文章阈值</string>
+  <string name="superLongArticleThresholdSummary">当文章字符数超过阈值时，我们将为您临时禁用段间距以保持流畅的写作体验，这不会导致您的空行消失，段间距不等于空行，您无需担心。若您打算修改对于超长文章的判断阈值，可修改此项。</string>
+  <string name="searchTimeMachine">搜索时光机内容</string>
+  <string name="createPinShortcut">创建桌面快捷方式</string>
+  <string name="pinShortcutDialogMessage">创建对于本书的桌面快捷方式，您可以借此对书籍进行分组。\n\n⚠️ 注意：部分系统 **默认不支持创建快捷方式**，您需点击下方的「设置」按钮去系统设置页面 **开启「桌面快捷方式」权限**，然后再回到本页面点击 OK 或确定按钮。\n\n成功后，您将可以在桌面上找到一个新图标。</string>
+  <string name="all">全部</string>
+  <string name="newTag">新建标签</string>
+  <string name="createANewOrSelectAnExistingTag">新建或选择已有标签</string>
+  <string name="tag">标签</string>
+  <string name="tags">@string/tag</string>
+  <string name="tipNewTag">这是书籍标签 🏷️️ 功能。若您需要对书籍设置标签并显示在顶部，您需要长按书籍列表中的书项目，然后选择编辑书籍菜单，在新建或编辑书籍的对话框中，您可以设置书籍的标签。</string>
 </resources>

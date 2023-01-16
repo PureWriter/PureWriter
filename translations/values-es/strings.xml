@@ -541,7 +541,7 @@
   <string name="connectDesktop">Conectarse a la aplicación de escritorio</string>
   <string name="disconnectDesktop">Desconectar de la aplicación de escritorio</string>
   <string name="connect">Conectar</string>
-  <string name="desktopDialogGuide">Debe descargar <b><i>Pure Writer Desktop1.7.0 (o superior)</i></b> desde https://writer.drakeet.com/desktop_en \n\nCuando su dispositivo móvil y su PC estén en <b>la misma red Wi-Fi o hotspot👈👈👈 </b>, abra Desktop e ingrese la dirección IP a continuación en el campo de entrada de Desktop para conectarse a Pure Writer, luego podrá sincronizar y editar el artículo actual en tiempo real.</string>
+  <string name="desktopDialogGuide">Debe descargar <b><i>Pure Writer Desktop1.7.4 (o superior)</i></b> desde https://writer.drakeet.com/desktop_en \n\nCuando su dispositivo móvil y su PC estén en <b>la misma red Wi-Fi o hotspot👈👈👈 </b>, abra Desktop e ingrese la dirección IP a continuación en el campo de entrada de Desktop para conectarse a Pure Writer, luego podrá sincronizar y editar el artículo actual en tiempo real.</string>
   <string name="connectionIsStopping">La conexión se está deteniendo, inténtalo de nuevo más tarde.</string>
   <string name="stop_waiting_connection">Deja de esperar conexiones</string>
   <string name="desktopDisconnected">El escritorio está desconectado</string>
@@ -704,4 +704,13 @@
   <string name="readCurrentArticleAloud">Lea el artículo actual en voz alta</string>
   <string name="checkForUpdates">Buscar actualizaciones</string>
   <string name="ttsEnabled">TTS habilitado</string>
+  <string name="tipLargeText">El artículo actual es demasiado largo, por lo que el espacio entre párrafos se ha desactivado temporalmente para continuar con la experiencia de escritura fluida.</string>
+  <string name="pinShortcutDialogMessage">Crea un lanzador o acceso directo de escritorio a este libro que puede usar para agrupar libros.\n\n⚠️ Nota: Algunos sistemas no admiten la creación de accesos directos de forma predeterminada, debe hacer clic en el botón \"Configuración\" a continuación para ir a la pantalla Configuración del sistema para habilitar el permiso \"Accesos directos de la pantalla de inicio\", y luego regresar a esta pantalla y hacer clic en Aceptar botón.\n\nDespués del éxito, puede encontrar un ícono de acceso directo en su lanzador o escritorio.</string>
+  <string name="createPinShortcut">Crear acceso directo</string>
+  <string name="all">Todos</string>
+  <string name="newTag">Nueva etiqueta</string>
+  <string name="createANewOrSelectAnExistingTag">Crear una etiqueta nueva o seleccionar una existente</string>
+  <string name="tags">Etiquetas</string>
+  <string name="tag">Etiqueta</string>
+  <string name="tipNewTag">Esta es la función booktag 🏷️️. Si necesita establecer una etiqueta para un libro y mostrarlo en la parte superior, debe mantener presionado el elemento del libro en la pantalla Libros y luego seleccionar el menú Editar libro. En el cuadro de diálogo para crear o editar un libro, puede establecer las etiquetas del libro.</string>
 </resources>

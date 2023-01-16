@@ -258,7 +258,7 @@
   <string name="connectDesktop">Connect Desktop version</string>
   <string name="disconnectDesktop">Idiskonekta ang bersyon ng Desktop</string>
   <string name="tipNotSupportThisDesktopVersion">Ang kasalukuyang mga bersyon ng mobile at desktop ay hindi tugma at hindi maaaring konektado. Paki-update pareho sa pinakabagong bersyon at subukang muli.</string>
-  <string name="desktopDialogGuide">Kailangan mong i-download ang <b><i>Pure Writer Desktop1.7.0 (o mas mataas)</i></b> mula sa https://writer.drakeet.com/desktop_en \n \nKapag ang iyong mobile at computer ay nasa <b>parehong Wi-Fi network o hotspot👈👈👈</b>, buksan ang Desktop at ilagay ang IP address sa ibaba <b>sa input field ng Desktop</b> upang kumonekta sa Pure Writer, pagkatapos ay maaari mong i-sync at i-edit ang kasalukuyang artikulo nang real time.</string>
+  <string name="desktopDialogGuide">Kailangan mong i-download ang <b><i>Pure Writer Desktop1.7.4 (o mas mataas)</i></b> mula sa https://writer.drakeet.com/desktop_en \n \nKapag ang iyong mobile at computer ay nasa <b>parehong Wi-Fi network o hotspot👈👈👈</b>, buksan ang Desktop at ilagay ang IP address sa ibaba <b>sa input field ng Desktop</b> upang kumonekta sa Pure Writer, pagkatapos ay maaari mong i-sync at i-edit ang kasalukuyang artikulo nang real time.</string>
   <string name="desktopDialogNote">Tandaan: Nasa alpha stage pa rin ang Pure Writer Desktop. Mangyaring unawain at hintayin ang mga kasunod na update nito.\n* Kung makakita ka ng <b>maraming linya ng mga IP address</b>, subukang ikonekta ang mga ito nang paisa-isa.</string>
   <string name="connectionIsStopping">Tumitigil ang koneksyon, subukang muli mamaya!</string>
 
@@ -479,7 +479,7 @@
   <string name="optionsForLandscape"><![CDATA[Landscape settings & guidelines]]></string>
   <string name="editInVerticalCenter">I-edit sa vertical center</string>
   <string name="onlyWorkForHardwareKeyboard">Gumagana lang para sa hardware na keyboard</string>
-  <string name="editInVerticalCenterSummary">Ginagawa na ang kasalukuyang na-edit na linya ay palaging nasa gitna ng screen (Maaaring hindi wasto, ito ay isang problema sa paraan ng pag-input, paumanhin para doon!)</string>
+  <string name="editInVerticalCenterSummary">Ginagawa na ang kasalukuyang na-edit na linya ay palaging nasa gitna ng screen</string>
   <string name="migrateImageAssets">Ilipat ang Markdown na mga larawan sa direktoryo ng Documents/PureWriter/Assets</string>
   <string name="migrateImageAssetsSummary">Tumutulong ito sa iyong sentral na ilipat ang lahat ng mga larawang isinangguni ng iyong Markdown sa iyong bagong device. Pagkatapos ng operasyong ito, maaari mong kopyahin ang folder ng Documents/PureWriter/Assets sa parehong direktoryo ng bagong device at pagkatapos ay i-restore ang backup ng device sa bagong device, upang maayos na mai-reference ng bagong device ang mga orihinal na larawan.</string>
   <string name="tipForFromPlayToAlipay">Upang gamitin ang paraan ng pagbabayad na ito, pakitiyak na ikaw ay nasa mainland China. Ang paraan ng pagbabayad na ito sa prinsipyo ay available lang sa mga user sa mainland China, dahil hindi magagamit ang Google at Google Play para magbayad sa China.</string>
@@ -721,4 +721,13 @@
   <string name="ttsModeWord">Sabihin ang <b>salita</b> na kaka-type mo lang</string>
   <string name="readCurrentArticleAloud">Basahin nang malakas ang kasalukuyang artikulo</string>
   <string name="checkForUpdates">Tingnan ang mga update</string>
+  <string name="tipLargeText">Masyadong mahaba ang kasalukuyang artikulo, kaya pansamantalang hindi pinagana ang spacing ng paragraph upang magpatuloy sa maayos na karanasan sa pagsusulat.</string>
+  <string name="pinShortcutDialogMessage">Gumagawa ng launcher o desktop Shortcut sa aklat na ito na magagamit mo sa pagpapangkat ng mga aklat.\n\n⚠️ Tandaan: Hindi sinusuportahan ng ilang system ang paggawa ng Mga Shortcut bilang default, kailangan mong i-click ang button na \"Mga Setting\" sa ibaba upang pumunta sa screen ng Mga Setting ng System upang paganahin ang pahintulot na \"Mga shortcut sa Home screen,\" at pagkatapos ay bumalik sa screen na ito at i-click ang OK pindutan.\n\nPagkatapos ng tagumpay, makakahanap ka ng icon ng shortcut sa iyong launcher o desktop.</string>
+  <string name="createPinShortcut">Gumawa ng shortcut</string>
+  <string name="all">Lahat</string>
+  <string name="newTag">Bagong tag</string>
+  <string name="createANewOrSelectAnExistingTag">Gumawa ng bago o pumili ng kasalukuyang tag</string>
+  <string name="tag">Tag</string>
+  <string name="tags">Mga tag</string>
+  <string name="tipNewTag">Ito ang book tag 🏷️️ function. Kung kailangan mong magtakda ng tag para sa isang aklat at ipakita ito sa itaas, dapat mong pindutin nang matagal ang item ng aklat sa screen ng Mga Aklat, at pagkatapos ay piliin ang menu na I-edit ang Aklat. Sa dialog para sa paggawa o pag-edit ng aklat, maaari mong itakda ang mga tag ng aklat.</string>
 </resources>

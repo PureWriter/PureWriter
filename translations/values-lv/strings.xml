@@ -258,7 +258,7 @@
   <string name="connectDesktop">Savienojiet darbvirsmas versiju</string>
   <string name="disconnectDesktop">Atvienot darbvirsmas versiju</string>
   <string name="tipNotSupportThisDesktopVersion">Šībrīža mobilā un darbvirsmas versija nesakrīt, un tās nevar savienot. Lūdzu, atjauniniet abas versijas līdz jaunākajai un mēģiniet vēlreiz.</string>
-  <string name="desktopDialogGuide">Jums nepieciešams lejupielādēt <b><i>Pure Writer Desktop1.7.0 (vai jaunāku)</i></b> no https://writer.drakeet.com/desktop_en \n\nJa jūsu mobilais tālrunis un dators ir <b>vienā Wi-Fi tīklā vai karstajā punktā👈👈👈👈</b>, atveriet Desktop un ievadiet zemāk norādīto IP adresi <b>Desktop ievades laukā</b>, lai izveidotu savienojumu ar Pure Writer, tad varat sinhronizēt un rediģēt pašreizējo rakstu reālajā laikā.</string>
+  <string name="desktopDialogGuide">Jums nepieciešams lejupielādēt <b><i>Pure Writer Desktop1.7.4 (vai jaunāku)</i></b> no https://writer.drakeet.com/desktop_en \n\nJa jūsu mobilais tālrunis un dators ir <b>vienā Wi-Fi tīklā vai karstajā punktā👈👈👈👈</b>, atveriet Desktop un ievadiet zemāk norādīto IP adresi <b>Desktop ievades laukā</b>, lai izveidotu savienojumu ar Pure Writer, tad varat sinhronizēt un rediģēt pašreizējo rakstu reālajā laikā.</string>
   <string name="desktopDialogNote">Piezīme: Pure Writer Desktop joprojām ir alfa fāzē. Lūdzu, izprotiet un gaidiet tās turpmākos atjauninājumus.\n* Ja redzat <b>vairākas IP adrešu rindas</b>, mēģiniet tās pieslēgt pa vienai.</string>
   <string name="connectionIsStopping">Savienojums pārtraucas, mēģiniet vēlreiz vēlāk!</string>
   <string name="createShortcutLabel">Teksta saīsne</string>
@@ -474,7 +474,7 @@
   <string name="optionsForLandscape"><![CDATA[Ainavu iestatījumi un vadlīnijas]]></string>
   <string name="editInVerticalCenter">Rediģēt vertikālajā centrā</string>
   <string name="onlyWorkForHardwareKeyboard">Darbojas tikai ar aparatūras tastatūru</string>
-  <string name="editInVerticalCenterSummary">Paredz, ka pašlaik rediģētā rinda vienmēr ir ekrāna vidū (var būt nederīga, tā ir ievades metodes problēma, atvainojiet par to!)</string>
+  <string name="editInVerticalCenterSummary">Paredz, ka pašlaik rediģētā rinda vienmēr ir ekrāna vidū</string>
   <string name="migrateImageAssets">Migrē Markdown attēlus uz Documents/PureWriter/Assets direktoriju</string>
   <string name="migrateImageAssetsSummary">Šī funkcija palīdz centralizēti pārnest visus attēlus, uz kuriem atsaucas jūsu Markdown, uz jauno ierīci. Pēc šīs operācijas varat nokopēt mapi Documents/PureWriter/Assets uz to pašu direktoriju jaunajā ierīcē un pēc tam atjaunot ierīces dublējumu jaunajā ierīcē, lai jaunā ierīce varētu netraucēti atsaukties uz sākotnējiem attēliem.</string>
   <string name="tipForFromPlayToAlipay">Lai izmantotu šo maksājuma metodi, lūdzu, pārliecinieties, ka atrodaties kontinentālajā Ķīnā. Šī maksājuma metode principā ir pieejama tikai lietotājiem kontinentālajā Ķīnā, jo Google un Google Play nevar izmantot maksājumiem Ķīnā.</string>
@@ -712,4 +712,13 @@
   <string name="readCurrentArticleAloud">Izlasiet pašreizējo rakstu skaļi</string>
   <string name="checkForUpdates">Meklēt atjauninājumus</string>
   <string name="ttsEnabled">TTS iespējots</string>
+  <string name="tipLargeText">Pašreizējais raksts ir pārāk garš, tāpēc rindkopu atstarpes ir īslaicīgi atspējotas, lai turpinātu vienmērīgu rakstīšanas pieredzi.</string>
+  <string name="pinShortcutDialogMessage">Izveido palaidēju vai darbvirsmas saīsni uz šo grāmatu, ko varat izmantot grāmatu grupēšanai.\n\n⚠️ Piezīme. Dažas sistēmas neatbalsta saīsņu izveidi pēc noklusējuma. Jums ir jānoklikšķina uz tālāk esošās pogas \"Iestatījumi\", lai pārietu uz sistēmas iestatījumu ekrānu, lai iespējotu atļauju \"Sākuma ekrāna saīsnes\", un pēc tam atgriezieties šajā ekrānā un noklikšķiniet uz Labi. pogu.\n\nPēc panākumiem palaidējā vai darbvirsmā varat atrast saīsnes ikonu.</string>
+  <string name="createPinShortcut">Izveido saīsni</string>
+  <string name="all">Visi</string>
+  <string name="newTag">Jauna atzīme</string>
+  <string name="createANewOrSelectAnExistingTag">Izveidojiet jaunu vai atlasiet esošu tagu</string>
+  <string name="tags">Tagi</string>
+  <string name="tag">Tag</string>
+  <string name="tipNewTag">Šī ir grāmatas atzīmes 🏷️️ funkcija. Ja grāmatai ir jāiestata atzīme un tā jāparāda augšpusē, ekrānā Grāmatas ir ilgi jānospiež grāmatas vienums un pēc tam jāatlasa izvēlne Rediģēt grāmatu. Grāmatas izveides vai rediģēšanas dialoglodziņā varat iestatīt grāmatas atzīmes.</string>
 </resources>

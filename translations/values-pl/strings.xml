@@ -448,7 +448,7 @@
   <string name="optionsForLandscape"><![CDATA[Landscape settings & guidelines]]></string>
   <string name="editInVerticalCenter">Edytuj w pionowym środku</string>
   <string name="onlyWorkForHardwareKeyboard">Tylko praca dla klawiatury sprzętowej</string>
-  <string name="editInVerticalCenterSummary">Sprawia, że aktualnie edytowana linia jest zawsze na środku ekranu (może być nieprawidłowa, jest to problem z metodą wprowadzania, przepraszamy za to!)</string>
+  <string name="editInVerticalCenterSummary">Sprawia, że aktualnie edytowana linia jest zawsze na środku ekranu</string>
   <string name="migrateImageAssets">Migruj obrazy Markdown do katalogu Documents/PureWriter/Assets</string>
   <string name="migrateImageAssetsSummary">Pomaga w centralnym przeniesieniu wszystkich obrazów, do których odwołuje się Markdown, na nowe urządzenie. Po tej operacji można skopiować folder Documents/PureWriter/Assets do tego samego katalogu w nowym urządzeniu, a następnie przywrócić kopię zapasową urządzenia na nowe urządzenie, aby nowe urządzenie mogło płynnie odwoływać się do oryginalnych obrazów.</string>
   <string name="tipForFromPlayToAlipay">Aby skorzystać z tej metody płatności, upewnij się, że jesteś w Chinach kontynentalnych. Ta metoda płatności jest w zasadzie dostępna tylko dla użytkowników w Chinach kontynentalnych, ponieważ Google i Google Play nie mogą być używane do płacenia w Chinach.</string>
@@ -605,7 +605,7 @@
   <string name="connectDesktop">Podłącz wersję komputerową</string>
   <string name="disconnectDesktop">Odłącz wersję komputerową</string>
   <string name="tipNotSupportThisDesktopVersion">Obecne wersje mobilne i stacjonarne nie pasują do siebie i nie można ich połączyć. Zaktualizuj obie wersje do najnowszej wersji i spróbuj ponownie.</string>
-  <string name="desktopDialogGuide">Musisz pobrać <b><i>Pure Writer Desktop1.7.0 (lub nowszy)</i></b> z https://writer.drakeet.com/desktop_en\n\nGdy telefon komórkowy i komputer są w <b>tej samej sieci Wi-Fi lub w tym samym punkcie dostępu👈👈👈</b>, otwórz Pulpit i wpisz poniżej adres IP <b>w polu wprowadzania na pulpicie</b>, aby się z nim połączyć Pure Writer, możesz synchronizować i edytować bieżący artykuł w czasie rzeczywistym.</string>
+  <string name="desktopDialogGuide">Musisz pobrać <b><i>Pure Writer Desktop1.7.4 (lub nowszy)</i></b> z https://writer.drakeet.com/desktop_en\n\nGdy telefon komórkowy i komputer są w <b>tej samej sieci Wi-Fi lub w tym samym punkcie dostępu👈👈👈</b>, otwórz Pulpit i wpisz poniżej adres IP <b>w polu wprowadzania na pulpicie</b>, aby się z nim połączyć Pure Writer, możesz synchronizować i edytować bieżący artykuł w czasie rzeczywistym.</string>
   <string name="desktopDialogNote">Uwaga: Pure Writer Desktop jest nadal w fazie alfa. Proszę zrozumieć i czekać na kolejne aktualizacje.\n* Jeśli widzisz <b>wiele wierszy adresów IP</b>, spróbuj połączyć je jeden po drugim.</string>
   <string name="fabContextHideFabTemporarily">Tymczasowo ukryj główny pływający przycisk</string>
   <string name="introductionOfReadOnlyMode">* Gdy kursor nie jest widoczny, dwukrotne kliknięcie jest wymagane, aby umieścić kursor i przejść do trybu edycji\n* Gdy kursor jest widoczny, tekst można edytować lub modyfikować jednym kliknięciem w dowolny sposób\n* Gdy kursor jest widoczny, możesz nacisnąć klawisz Wstecz, aby ukryć kursor i przejść do trybu tylko do odczytu</string>
@@ -709,4 +709,13 @@
   <string name="readCurrentArticleAloud">Przeczytaj na głos bieżący artykuł</string>
   <string name="checkForUpdates">Sprawdź aktualizacje</string>
   <string name="ttsEnabled">TTS włączony</string>
+  <string name="tipLargeText">Bieżący artykuł jest za długi, więc odstępy między akapitami zostały tymczasowo wyłączone, aby zapewnić płynne pisanie.</string>
+  <string name="pinShortcutDialogMessage">Tworzy program uruchamiający lub skrót na pulpicie do tej książki, którego można używać do grupowania książek.\n\n⚠️ Uwaga: Niektóre systemy domyślnie nie obsługują tworzenia skrótów, należy kliknąć przycisk „Ustawienia” poniżej, aby przejść do ekranu Ustawienia systemu i włączyć uprawnienie „Skróty na ekranie głównym”, a następnie powrócić do tego ekranu i kliknąć przycisk OK przycisk.\n\nPo sukcesie możesz znaleźć ikonę skrótu w programie uruchamiającym lub na pulpicie.</string>
+  <string name="createPinShortcut">Utwórz skrót</string>
+  <string name="all">Wszystko</string>
+  <string name="newTag">Nowa etykieta</string>
+  <string name="createANewOrSelectAnExistingTag">Utwórz nowy lub wybierz istniejący tag</string>
+  <string name="tag">Etykietka</string>
+  <string name="tags">Tagi</string>
+  <string name="tipNewTag">To jest funkcja znacznika książki 🏷️️. Jeśli chcesz ustawić tag dla książki i wyświetlić go u góry, musisz długo nacisnąć pozycję książki na ekranie Książki, a następnie wybrać menu Edytuj książkę. W oknie dialogowym tworzenia lub edytowania księgi możesz ustawić znaczniki księgi.</string>
 </resources>

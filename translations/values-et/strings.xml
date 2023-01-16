@@ -334,7 +334,7 @@
   <string name="disconnectDesktop">Katkesta töölauaversiooni ühendus</string>
   <string name="connect">Ühendage</string>
   <string name="tipNotSupportThisDesktopVersion">Seisev mobiil- ja töölauaversioon ei vasta ja neid ei saa ühendada. Palun värskendage mõlemad uusima versiooniga ja proovige uuesti.</string>
-  <string name="desktopDialogGuide">Vajalik on alla laadida <b><i>Pure Writer Desktop1.7.0 (või uuem)</i></b> aadressilt https://writer.drakeet.com/desktop_en \n\nKui teie mobiiltelefon ja arvuti on <b>ühes Wi-Fi võrgus või hotspotis👈👈👈</b>, avage Desktop ja sisestage allpool olev IP-aadress <b>Intervesti sisestusväljale Desktop</b>, et luua ühendus Pure Writeriga, seejärel saate sünkroonida ja redigeerida jooksvat artiklit reaalajas.</string>
+  <string name="desktopDialogGuide">Vajalik on alla laadida <b><i>Pure Writer Desktop1.7.4 (või uuem)</i></b> aadressilt https://writer.drakeet.com/desktop_en \n\nKui teie mobiiltelefon ja arvuti on <b>ühes Wi-Fi võrgus või hotspotis👈👈👈</b>, avage Desktop ja sisestage allpool olev IP-aadress <b>Intervesti sisestusväljale Desktop</b>, et luua ühendus Pure Writeriga, seejärel saate sünkroonida ja redigeerida jooksvat artiklit reaalajas.</string>
   <string name="connectionIsStopping">Ühendus peatub, proovige hiljem uuesti!</string>
   <string name="createShortcutLabel">Teksti otsetee</string>
   <string name="cursorPositionForNewArticle">Kursori asukoht uue artikli jaoks</string>
@@ -583,7 +583,7 @@
   <string name="optionsForLandscape"><![CDATA[Landscape settings & guidelines]]></string>
   <string name="editInVerticalCenter">Muuda vertikaalses keskpunktis</string>
   <string name="onlyWorkForHardwareKeyboard">Kasutab ainult riistvaralist klaviatuuri</string>
-  <string name="editInVerticalCenterSummary">See, et hetkel redigeeritav rida on alati ekraani keskel (võib olla kehtetu, see on sisestusmeetodi probleem, vabandust!)</string>
+  <string name="editInVerticalCenterSummary">See, et hetkel redigeeritav rida on alati ekraani keskel</string>
   <string name="migrateImageAssets">Migreerib Markdown-pildid kataloogi Documents/PureWriter/Assets</string>
   <string name="migrateImageAssetsSummary">See aitab teil tsentraalselt üle kanda kõik Markdownis viidatud pildid uude seadmesse. Pärast seda toimingut saate kopeerida kausta Documents/PureWriter/Assets uue seadme samasse kataloogi ja seejärel taastada seadme varukoopia uude seadmesse, et uus seade saaks sujuvalt viidata algsetele piltidele.</string>
   <string name="tipForFromPlayToAlipay">Selle makseviisi kasutamiseks veenduge, et asute Mandri-Hiinas. See makseviis on põhimõtteliselt saadaval ainult Mandri-Hiina kasutajatele, sest Google ja Google Play ei saa Hiinas maksmiseks kasutada.</string>
@@ -714,4 +714,13 @@
   <string name="readCurrentArticleAloud">Lugege praegust artiklit valjusti</string>
   <string name="checkForUpdates">Kontrolli kas uuendused on saadaval</string>
   <string name="ttsEnabled">TTS on lubatud</string>
+  <string name="tipLargeText">Praegune artikkel on liiga pikk, seega on lõiguvahed ajutiselt keelatud, et jätkata sujuvat kirjutamist.</string>
+  <string name="pinShortcutDialogMessage">Loob selle raamatu käivitaja või töölaua otsetee, mida saate kasutada raamatute rühmitamiseks.\n\n⚠️ Märkus. Mõned süsteemid ei toeta vaikimisi otseteede loomist, peate klõpsama alloleval nupul \"Seaded\", et minna süsteemiseadete ekraanile, et lubada luba \"Avaekraani otseteed\", seejärel naaske sellele ekraanile ja klõpsake nuppu OK. nuppu.\n\nPärast edu leiate oma käivitusprogrammilt või töölaualt otseteeikooni.</string>
+  <string name="createPinShortcut">Loo otsetee</string>
+  <string name="all">Kõik</string>
+  <string name="newTag">Uus silt</string>
+  <string name="createANewOrSelectAnExistingTag">Looge uus või valige olemasolev silt</string>
+  <string name="tags">Sildid</string>
+  <string name="tag">Tag</string>
+  <string name="tipNewTag">See on raamatusildi 🏷️️ funktsioon. Kui peate määrama raamatule sildi ja kuvama selle ülaosas, peate raamatute ekraanil pikalt vajutama raamatu üksust ja seejärel valima menüü Redigeeri raamatut. Raamatu loomise või redigeerimise dialoogiaknas saate määrata raamatu silte.</string>
 </resources>

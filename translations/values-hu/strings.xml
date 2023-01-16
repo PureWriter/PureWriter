@@ -332,7 +332,7 @@
   <string name="disconnectDesktop">Az asztali verzió leválasztása</string>
   <string name="connect">Csatlakozás</string>
   <string name="tipNotSupportThisDesktopVersion">A jelenlegi mobil és asztali verzió nem egyezik, és nem lehet összekapcsolni. Kérjük, frissítse mindkettőt a legújabb verzióra, és próbálja meg újra.</string>
-  <string name="desktopDialogGuide">Le kell töltenie a <b><i>Pure Writer Desktop1.7.0-s (vagy újabb)</i></b> verzióját a https://writer.drakeet.com/desktop_en webhelyről.\n\nHa a mobil és a számítógép <b>ugyanazon a Wi-Fi hálózaton vagy hotspoton csatlakozik👈👈👈</b>, nyissa meg a Desktopot, és adja meg az alábbi IP-címet <b>a Desktop beviteli mezőjébe</b> a csatlakozáshoz Pure Writer, akkor valós időben szinkronizálhatja és szerkesztheti az aktuális cikket.</string>
+  <string name="desktopDialogGuide">Le kell töltenie a <b><i>Pure Writer Desktop1.7.4-s (vagy újabb)</i></b> verzióját a https://writer.drakeet.com/desktop_en webhelyről.\n\nHa a mobil és a számítógép <b>ugyanazon a Wi-Fi hálózaton vagy hotspoton csatlakozik👈👈👈</b>, nyissa meg a Desktopot, és adja meg az alábbi IP-címet <b>a Desktop beviteli mezőjébe</b> a csatlakozáshoz Pure Writer, akkor valós időben szinkronizálhatja és szerkesztheti az aktuális cikket.</string>
   <string name="desktopDialogNote">Note: Pure Writer Desktop is still in its alpha stage. Please understand and wait for its subsequent updates.\n* If you see <b>multiple lines of IP addresses</b>, try connecting them one by one.</string>
   <string name="connectionIsStopping">Megjegyzés: A Pure Writer Desktop még mindig az alfa fázisban van. Kérjük, értse meg, és várja meg a későbbi frissítéseket.\n* Ha <b>több sor IP-címet</b> lát, próbálja meg egyesével összekapcsolni őket.</string>
   <string name="createShortcutLabel">Szöveges parancsikon</string>
@@ -575,7 +575,7 @@
   <string name="optionsForLandscape"><![CDATA[Tájképi beállítások és irányelvek]]></string>
   <string name="editInVerticalCenter">Szerkesztés függőlegesen középen</string>
   <string name="onlyWorkForHardwareKeyboard">Csak hardveres billentyűzet esetén működik</string>
-  <string name="editInVerticalCenterSummary">Az aktuálisan szerkesztett sor mindig a képernyő közepén van (Lehet, hogy érvénytelen, ez egy beviteli módszer probléma, bocsánat ezért!)</string>
+  <string name="editInVerticalCenterSummary">Az aktuálisan szerkesztett sor mindig a képernyő közepén van</string>
   <string name="migrateImageAssets">Markdown képek migrálása a Documents/PureWriter/Assets könyvtárba</string>
   <string name="migrateImageAssetsSummary">Ez segít központilag átvinni a Markdown által hivatkozott összes képet az új eszközre. E művelet után a Documents/PureWriter/Assets mappát átmásolhatja az új eszköz azonos könyvtárába, majd visszaállíthatja az eszköz biztonsági mentését az új eszközre, így az új eszköz zökkenőmentesen hivatkozhat az eredeti képekre.</string>
   <string name="tipForFromPlayToAlipay">Ennek a fizetési módnak a használatához győződjön meg arról, hogy Kínában tartózkodik. Ez a fizetési mód elvileg csak a kínai szárazföldi felhasználók számára érhető el, mivel Kínában a Google és a Google Play nem használható fizetésre.</string>
@@ -698,4 +698,13 @@
   <string name="readCurrentArticleAloud">Olvassa el az aktuális cikket</string>
   <string name="checkForUpdates">Frissítések keresése</string>
   <string name="ttsEnabled">TTS engedélyezve</string>
+  <string name="tipLargeText">A jelenlegi cikk túl hosszú, ezért a bekezdésköz ideiglenesen le van tiltva a gördülékeny írási élmény érdekében.</string>
+  <string name="pinShortcutDialogMessage">Indítót vagy asztali parancsikont hoz létre ehhez a könyvhöz, amelyet könyvek csoportosítására használhat.\n\n⚠️ Megjegyzés: Egyes rendszerek alapértelmezés szerint nem támogatják a parancsikonok létrehozását, kattintson az alábbi \"Beállítások\" gombra, hogy a Rendszerbeállítások képernyőre lépjen a \"Kezdőképernyő parancsikonok\" engedélyének engedélyezéséhez, majd térjen vissza erre a képernyőre, és kattintson az OK gombra. gomb.\n\nA siker után egy parancsikont találhat az indítón vagy az asztalon.</string>
+  <string name="createPinShortcut">Parancsikon létrehozása</string>
+  <string name="all">Összes</string>
+  <string name="newTag">Új címke</string>
+  <string name="createANewOrSelectAnExistingTag">Hozzon létre egy újat, vagy válasszon egy meglévő címkét</string>
+  <string name="tag">Címke</string>
+  <string name="tags">Címkék</string>
+  <string name="tipNewTag">Ez a könyvcímke 🏷️️ funkció. Ha címkét kell beállítania egy könyvhöz, és meg kell jelenítenie a tetején, akkor hosszan le kell nyomnia a könyvelemet a Könyvek képernyőn, majd válassza ki a Könyv szerkesztése menüt. A könyv létrehozására vagy szerkesztésére szolgáló párbeszédpanelen beállíthatja a könyv címkéit.</string>
 </resources>

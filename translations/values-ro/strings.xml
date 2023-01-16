@@ -254,7 +254,7 @@
   <string name="connectDesktop">Conectează-te la versiunea Desktop</string>
   <string name="disconnectDesktop">Deconectează versiunea Desktop</string>
   <string name="tipNotSupportThisDesktopVersion">Versiunea mobilă și cea desktop actuale nu se potrivesc și nu pot fi conectate. Vă rugăm să le actualizați ambele la cea mai recentă versiune și să încercați din nou.</string>
-  <string name="desktopDialogGuide">Trebuie să descărcați <b><i>Pure Writer Desktop1.7.0 (sau o versiune superioară)</i></b> de pe https://writer.drakeet.com/desktop_en \n\nCând mobilul și computerul dvs. se află în <b>aceeași rețea Wi-Fi sau hotspot👈👈👈👈</b>, deschideți Desktop și introduceți adresa IP de mai jos <b>în câmpul de intrare al Desktop</b> pentru a vă conecta la Pure Writer, apoi puteți sincroniza și edita articolul curent în timp real.</string>
+  <string name="desktopDialogGuide">Trebuie să descărcați <b><i>Pure Writer Desktop1.7.4 (sau o versiune superioară)</i></b> de pe https://writer.drakeet.com/desktop_en \n\nCând mobilul și computerul dvs. se află în <b>aceeași rețea Wi-Fi sau hotspot👈👈👈👈</b>, deschideți Desktop și introduceți adresa IP de mai jos <b>în câmpul de intrare al Desktop</b> pentru a vă conecta la Pure Writer, apoi puteți sincroniza și edita articolul curent în timp real.</string>
   <string name="desktopDialogNote">Nota: Pure Writer Desktop se află încă în faza alfa. Vă rugăm să înțelegeți și să așteptați actualizările sale ulterioare.\n* Dacă vedeți <b>multe rânduri de adrese IP</b>, încercați să le conectați unul câte unul.</string>
   <string name="connectionIsStopping">Conectarea se oprește, încercați din nou mai târziu!</string>
   <string name="createShortcutLabel">Text Shortcut</string>
@@ -469,7 +469,7 @@
   <string name="optionsForLandscape"><![CDATA[Landscape settings & guidelines]]></string>>.
   <string name="editInVerticalCenter">Editați în centru vertical</string>
   <string name="onlyWorkForHardwareKeyboard">Funcționează doar pentru tastatură hardware</string>
-  <string name="editInVerticalCenterSummary">Face ca linia editată în mod curent să fie întotdeauna în mijlocul ecranului (Poate fi invalidă, aceasta este o problemă a metodei de intrare, îmi pare rău pentru asta!)</string>
+  <string name="editInVerticalCenterSummary">Face ca linia editată în mod curent să fie întotdeauna în mijlocul ecranului</string>
   <string name="migrateImageAssets">Migrează imaginile Markdown în directorul Documents/PureWriter/Assets</string>
   <string name="migrateImageAssetsSummary">Acest lucru vă ajută să transferați în mod centralizat toate imaginile la care face referire Markdown pe noul dispozitiv. După această operațiune, puteți copia dosarul Documents/PureWriter/Assets în același director al noului dispozitiv și apoi restaurați copia de rezervă a dispozitivului pe noul dispozitiv, astfel încât noul dispozitiv să poată face referire fără probleme la imaginile originale.</string>
   <string name="tipForFromPlayToAlipay">Pentru a utiliza această metodă de plată, vă rugăm să vă asigurați că vă aflați în China continentală. Această metodă de plată este, în principiu, disponibilă numai pentru utilizatorii din China continentală, deoarece Google și Google Play nu pot fi folosite pentru a plăti în China.</string>
@@ -707,4 +707,13 @@
   <string name="readCurrentArticleAloud">Citiți cu voce tare articolul curent</string>
   <string name="checkForUpdates">Verifică pentru actualizări</string>
   <string name="ttsEnabled">TTS activat</string>
+  <string name="tipLargeText">Articolul actual este prea lung, așa că spațierea dintre paragrafe a fost dezactivată temporar pentru a continua experiența de scriere fără probleme.</string>
+  <string name="pinShortcutDialogMessage">Creează un lansator sau o comandă rapidă pe desktop la această carte pe care o puteți folosi pentru a grupa cărți.\n\n⚠️ Notă: Unele sisteme nu acceptă crearea de comenzi rapide în mod implicit, trebuie să faceți clic pe butonul „Setări” de mai jos pentru a accesa ecranul Setări sistem pentru a activa permisiunea „Comenzi rapide pentru ecranul de pornire”, apoi reveniți la acest ecran și faceți clic pe OK buton.\n\nDupă succes, puteți găsi o pictogramă de comandă rapidă pe lansator sau pe desktop.</string>
+  <string name="createPinShortcut">Crează o scurtătură</string>
+  <string name="all">Toate</string>
+  <string name="newTag">Etichetă nouă</string>
+  <string name="createANewOrSelectAnExistingTag">Creați o etichetă nouă sau selectați o etichetă existentă</string>
+  <string name="tags">Etichete</string>
+  <string name="tag">Etichetă</string>
+  <string name="tipNewTag">Aceasta este funcția book tag 🏷️️. Dacă trebuie să setați o etichetă pentru o carte și să o afișați în partea de sus, trebuie să apăsați lung elementul de carte din ecranul Cărți, apoi să selectați meniul Editare carte. În caseta de dialog pentru crearea sau editarea unei cărți, puteți seta etichetele cărții.</string>
 </resources>

@@ -201,6 +201,8 @@
   <string name="emptyTip">No articles have been opened yet</string>
   <string name="name">Name</string>
   <string name="optionalDescription">Description (optional)</string>
+  <string name="tag">Tag</string>
+  <string name="tags">Tags</string>
   <string name="createBookForDialogButton">Create Book</string>
   <string name="openSourceLicenses">Open Source Licenses</string>
   <string name="cannotDelete">Unable to delete</string>
@@ -411,7 +413,7 @@
   <string name="disconnectDesktop">Disconnect Desktop</string>
   <string name="connect">Connect</string>
   <string name="tipNotSupportThisDesktopVersion">The current mobile and desktop versions do not match and cannot be connected. Please update both to the latest version and try again.</string>
-  <string name="desktopDialogGuide">You need to download <b><i>Pure Writer Desktop1.7.0 (or above)</i></b> from https://writer.drakeet.com/desktop_en \n\nWhen your mobile and computer are on <b>the same Wi-Fi network or hotspot👈👈👈</b>, open Desktop and enter the IP address below <b>into the input field of Desktop</b> to connect to Pure Writer, then you can sync and edit the current article in real time.</string>
+  <string name="desktopDialogGuide">You need to download <b><i>Pure Writer Desktop1.7.4 (or above)</i></b> from https://writer.drakeet.com/desktop_en \n\nWhen your mobile and computer are on <b>the same Wi-Fi network or hotspot👈👈👈</b>, open Desktop and enter the IP address below <b>into the input field of Desktop</b> to connect to Pure Writer, then you can sync and edit the current article in real time.</string>
   <string name="desktopDialogNote">Note: Pure Writer Desktop is still in its alpha stage. Please understand and wait for its subsequent updates.\n* If you see <b>multiple lines of IP addresses</b>, try connecting them one by one.</string>
   <string name="connectionIsStopping">The connection is stopping, try again later!</string>
   <string name="createShortcutLabel">Text Shortcut</string>
@@ -440,7 +442,7 @@
   <string name="license">License</string>
   <string name="customPapers">Custom Papers\nDelicate, Immersive</string>
   <string name="markdownQuickPreview">Markdown Quick Preview</string>
-  <string name="exportToPicMdTxt">Export as long image/md/txt</string>
+  <string name="exportToPicMdTxt">Export as long image/md/txt/pdf</string>
   <string name="materialDesign2ThemeWithLineBreak">Material Design 2\ntheme</string>
   <string name="ProIntroductionMarkdown"><![CDATA[
 |        #### Custom Papers
@@ -678,7 +680,7 @@
   <string name="optionsForLandscape"><![CDATA[Landscape settings & guidelines]]></string>
   <string name="editInVerticalCenter">Edit in vertical center</string>
   <string name="onlyWorkForHardwareKeyboard">Only work for hardware keyboard</string>
-  <string name="editInVerticalCenterSummary">Makes the currently edited line is always in the middle of the screen (May be invalid, this is an input method problem, sorry for that!)</string>
+  <string name="editInVerticalCenterSummary">Makes the currently edited line is always in the middle of the screen</string>
   <string name="migrateImageAssets">Migrate Markdown images to Documents/PureWriter/Assets directory</string>
   <string name="migrateImageAssetsSummary">This helps you to centrally transfer all the images referenced by your Markdown to your new device. After this operation, you can copy the Documents/PureWriter/Assets folder to the same directory of the new device and then restore the device Backup to the new device, so that the new device can smoothly reference the original images.</string>
   <string name="tipForFromPlayToAlipay">To use this payment method, please make sure you are in mainland China. This payment method is in principle only available to users in mainland China, because Google and Google Play cannot be used to pay in China.</string>
@@ -824,4 +826,14 @@
   <string name="messageNeedForcedUpdate">Due to the expired HTTPS certificate of the current version, the Android system cannot provide secure network requests for Pure Writer, and your network requests may be intercepted by middlemen. Therefore, you need to update to the new version to continue to use Pure Writer securely.</string>
   <string name="showShareTextMenuItemAfterSelectingText">Show share text menu item after selecting text</string>
   <string name="extKeyboardTip">Prompt to use external keyboard when in landscape</string>
+  <string name="tipLargeText">Current article is too long, so Paragraph Spacing has been temporarily disabled to continue smooth writing experience.</string>
+  <string name="superLongArticleThreshold">Super long article threshold</string>
+  <string name="superLongArticleThresholdSummary">When the length of characters in the article exceeds the threshold, we will temporarily disable Paragraph Spacing for you to maintain a smooth writing experience, this will not cause your blank lines to disappear, Paragraph Spacing is not equal to blank lines, you don\'t need to worry about it. If you need to modify the judgment threshold for super long articles, you can modify this item.</string>
+  <string name="searchTimeMachine">Search Time Machine</string>
+  <string name="createPinShortcut">Create home screen Shortcut</string>
+  <string name="pinShortcutDialogMessage">Creates a launcher or desktop Shortcut to this book that you can use to group books. \n\n⚠️ Note: Some systems do not support creating Shortcuts by default, you need to click the Settings button below to go to the System Settings screen to enable the Home screen shortcuts permission, and then return to this screen and click OK button. \n\nAfter success, you can find a shortcut icon on your launcher or desktop.</string>
+  <string name="all">All</string>
+  <string name="newTag">New Tag</string>
+  <string name="createANewOrSelectAnExistingTag">Create a new or select an existing Tag</string>
+  <string name="tipNewTag">This is the book Tag 🏷️️ function. If you need to set a Tag for a book and display it at the top, you must long-press the book item in the Books screen, and then select the Edit Book menu. In the dialog for creating or editing a book, you can set the Tags of the book.</string>
 </resources>

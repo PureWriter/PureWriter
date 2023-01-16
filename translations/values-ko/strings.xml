@@ -540,7 +540,7 @@
   <string name="connectDesktop">데스크탑에 연결</string>
   <string name="disconnectDesktop">데스크탑 연결 해제</string>
   <string name="connect">연결하기</string>
-  <string name="desktopDialogGuide">https://writer.drakeet.com/desktop_en 에서 <b><i> Pure Writer Desktop1.7.0 이상 </i></b>을 다운로드해야 합니다.\n\n모바일과 컴퓨터가 <b> 동일한 Wi-Fi 네트워크 또는 핫스팟 👈👈👈 </b>에 있을 때, 데스크탑을 열고 아래의 IP 주소를 데스크탑의 입력 필드에 입력하여 Pure Writer에 연결하면 현재 문서를 동기화하고 실시간으로 편집할 수 있습니다.</string>
+  <string name="desktopDialogGuide">https://writer.drakeet.com/desktop_en 에서 <b><i> Pure Writer Desktop1.7.4 이상 </i></b>을 다운로드해야 합니다.\n\n모바일과 컴퓨터가 <b> 동일한 Wi-Fi 네트워크 또는 핫스팟 👈👈👈 </b>에 있을 때, 데스크탑을 열고 아래의 IP 주소를 데스크탑의 입력 필드에 입력하여 Pure Writer에 연결하면 현재 문서를 동기화하고 실시간으로 편집할 수 있습니다.</string>
   <string name="connectionIsStopping">연결이 중지됩니다. 나중에 다시 시도하세요!</string>
   <string name="stop_waiting_connection">연결 대기 중지</string>
   <string name="desktopDisconnected">데스크탑 연결이 끊어졌습니다.</string>
@@ -681,4 +681,13 @@
   <string name="readCurrentArticleAloud">현재 기사 소리내어 읽기</string>
   <string name="checkForUpdates">업데이트 확인</string>
   <string name="ttsEnabled">TTS 활성화</string>
+  <string name="tipLargeText">현재 기사가 너무 길어서 원활한 쓰기 경험을 계속하기 위해 단락 간격이 일시적으로 비활성화되었습니다.</string>
+  <string name="pinShortcutDialogMessage">책을 그룹화하는 데 사용할 수 있는 이 책에 대한 실행기 또는 바탕 화면 바로 가기를 만듭니다.\n\n⚠️ 참고: 일부 시스템은 기본적으로 바로 가기 생성을 지원하지 않습니다. 아래의 \"설정\" 버튼을 클릭하여 시스템 설정 화면으로 이동하여 \"홈 화면 바로가기\" 권한을 활성화한 다음 이 화면으로 돌아가서 확인을 클릭해야 합니다. 단추.\n\n성공하면 런처나 바탕 화면에서 바로 가기 아이콘을 찾을 수 있습니다.</string>
+  <string name="createPinShortcut">바로가기 만들기</string>
+  <string name="all">모두</string>
+  <string name="newTag">새 태그</string>
+  <string name="createANewOrSelectAnExistingTag">새 태그 만들기 또는 기존 태그 선택</string>
+  <string name="tag">꼬리표</string>
+  <string name="tags">태그</string>
+  <string name="tipNewTag">책태그🏷️️ 기능입니다. 책에 태그를 설정하여 상단에 표시하려면 책 화면에서 책 항목을 길게 누른 다음 책 편집 메뉴를 선택해야 합니다. 책을 만들거나 편집하는 대화 상자에서 책의 태그를 설정할 수 있습니다.</string>
 </resources>

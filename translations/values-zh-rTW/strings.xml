@@ -355,7 +355,7 @@
   <string name="collapseAllCategories">收起所有卷</string>
   <string name="showMore">顯示更多</string>
   <string name="textColorAlpha">字型顏色透明度</string>
-  <string name="desktopDialogGuide">您需要從\nhttps://writer.drakeet.com/desktop_zh \n下載<b><i>純純寫作桌面版1.7.0 或以上版本</i></b>。\n\n當手機與電腦<b>處於同一個 Wi-Fi 網路或行動基站台</b>時👈👈👈，打開桌面版後將以下的 IP 位址<b>輸入至桌面版中的輸入列中</b>，即可與桌面版即時連線，雙向同步編輯目前文章。</string>
+  <string name="desktopDialogGuide">您需要從\nhttps://writer.drakeet.com/desktop_zh \n下載<b><i>純純寫作桌面版1.7.4 或以上版本</i></b>。\n\n當手機與電腦<b>處於同一個 Wi-Fi 網路或行動基站台</b>時👈👈👈，打開桌面版後將以下的 IP 位址<b>輸入至桌面版中的輸入列中</b>，即可與桌面版即時連線，雙向同步編輯目前文章。</string>
   <string name="desktopDialogNote">注意：目前純純寫作桌面版還處於非常初期階段，許多功能未完善，請您理解和靜待其後續更新。\n* 若您看到<b>多列 IP 位址</b>，請逐一嘗試進行連接。</string>
   <string name="tipNotSupportThisDesktopVersion">目前手機端和桌面端版本不匹配，無法連接，請各自更新到最新版後重試</string>
   <string name="connect">連接</string>
@@ -411,7 +411,7 @@
   <string name="requiresAtLeast6Characters">需要至少六位字元</string>
   <string name="customPapers">自訂稿紙\n精緻、沉浸</string>
   <string name="markdownQuickPreview">Markdown 快速預覽</string>
-  <string name="exportToPicMdTxt">儲存為、匯出為長圖片、md、txt</string>
+  <string name="exportToPicMdTxt">儲存為、匯出為長圖片、md、txt、pdf</string>
   <string name="materialDesign2ThemeWithLineBreak">Material Design 2\n主題</string>
   <string name="veryVerySmooth">非常非常順暢</string>
   <string name="helperTextForRegisteredAccount">這個帳號已被註冊，如果最終確定，我們將為你進行登入</string>
@@ -617,7 +617,7 @@
   <string name="optionsForLandscape">平板電腦設定項和指引</string>
   <string name="editInVerticalCenter">垂直居中編輯</string>
   <string name="onlyWorkForHardwareKeyboard">僅在使用外掛式鍵盤時生效</string>
-  <string name="editInVerticalCenterSummary">使得當前編輯的列總是處於螢幕垂直中央（可能無效，這屬於輸入法的問題，請見諒）</string>
+  <string name="editInVerticalCenterSummary">使得當前編輯的列總是處於螢幕垂直中央</string>
   <string name="migrateImageAssets">遷移 Markdown 圖片資源到 Documents/PureWriter/Assets 目錄下</string>
   <string name="migrateImageAssetsSummary">這有助於您集中地轉移您的所有 Markdown 引用的圖片到您的新裝置上，您可以在此操作後，將 Documents/PureWriter/Assets 資料夾複製到新裝置相同目錄中，然後再復原此裝置的備份到新裝置上，這樣新裝置就可以順利地引用到原來的圖片了。</string>
   <string name="tipForFromPlayToAlipay">使用此付費方式，請確保您身處中國大陸，這個付費方式原則上僅是提供給中國大陸使用者使用，因為在中國無法使用 Google 和 Google Play 付費。</string>
@@ -705,7 +705,7 @@
   <string name="noNetworkPermissionMessage">您禁止了純純寫作的網路訪問權限，導致無法進行連線，這將導致您無法登入純純寫作帳號，並且無法進行雲端備份，請授予純純寫作網路權限！</string>
   <string name="hideWordCountOnTM">隱藏時光機底部列的字數統計按鈕</string>
   <string name="tryChangingANiceBackgroundOrTheme">試試變更一個美妙的背景或主題？ </string>
-  <string name="databaseDowngradeErrorMessage">您的純純寫作復原或使用了一個來自更高版本純純寫作的資料庫檔案，目前版本的純純寫作無法處理該資料庫，請更新純純寫作到最新版本即可解決此問題。\n\n如果不更新，則程式無法正常使用，這並非我們有意想限制您，而是目前舊版在技術上就是無法處理新版的資料庫。請您理解並更新到最新版本即可解決。\n\n下載最新版本：\nhttps://a.app.qq.com/o/simple.jsp?pkgname=com.drakeet.purewriter\n或者 https://t.me/s/PureWriter</string>
+  <string name="databaseDowngradeErrorMessage">您的純純寫作復原或使用了一個來自更高版本純純寫作的資料庫檔案，目前版本的純純寫作無法處理該資料庫，請更新純純寫作到最新版本即可解決此問題。\n\n如果不更新，則程式無法正常使用，這並非我們有意想限制您，而是目前舊版在技術上就是無法處理新版的資料庫。請您理解並更新到最新版本即可解決。\n\n下載最新版本：\nhttps://www.coolapk.com/apk/com.drakeet.purewriter\n或者 https://t.me/s/PureWriter</string>
   <string name="databaseDowngradeError">資料庫降級錯誤</string>
   <string name="forcedPortrait">強制縱向螢幕</string>
   <string name="forcedPortraitSummary">無論您是否開啟自動旋轉，此應用程式都將使用縱向模式。 </string>
@@ -773,4 +773,15 @@
   <string name="autoChapterNameTitle">自動加入或更新\n[第]*[章] 前綴</string>
   <string name="showShareTextMenuItemAfterSelectingText">在選擇文本後顯示分享文本菜單項</string>
   <string name="extKeyboardTip">橫屏時提示使用外接鍵盤</string>
+  <string name="superLongArticleThreshold">超長文章閾值</string>
+  <string name="superLongArticleThresholdSummary">當文章字元數超過閾值時，我們將為您臨時禁用段間距以保持流暢的寫作體驗，這不會導致您的空行消失，段間距不等於空行，您無需擔心。若您打算修改對於超長文章的判斷閾值，可修改此項。</string>
+  <string name="searchTimeMachine">搜索時光機內容</string>
+  <string name="createPinShortcut">創建桌面快捷方式</string>
+  <string name="pinShortcutDialogMessage">建立對於本書的桌面捷徑，您可以藉此對書籍進行分組。\n\n⚠️ 注意：部分系統 **預設不支援建立捷徑**，您需點擊下方的「設定」按鈕去系統設定頁面 **開啟「桌面捷徑」權限**，然後再回到本頁面點擊 OK 或確定按鈕。\n\n成功後，您將可以在桌面上找到一個新圖示。</string>
+  <string name="all">全部</string>
+  <string name="newTag">建立標籤</string>
+  <string name="createANewOrSelectAnExistingTag">建立或選擇已有標籤</string>
+  <string name="tag">標籤</string>
+  <string name="tags">標籤</string>
+  <string name="tipNewTag">這是書籍標籤 🏷️️ 功能。若您需要對書籍設定標籤並顯示在頂部，您需要長按書籍列表中的書項目，然後選擇編輯書籍選單，在建立或編輯書籍的對話框中，您可以設定書籍的標籤。</string>
 </resources>

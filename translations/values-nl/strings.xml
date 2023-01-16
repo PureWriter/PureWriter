@@ -532,7 +532,7 @@
     <string name="connectDesktop">Verbind het bureaublad</string>
   <string name="disconnectDesktop">Koppel het bureaublad los</string>
   <string name="connect">Verbind</string>
-  <string name="desktopDialogGuide">U moet <b><i>Pure Writer Desktop1.7.0 (of hoger)</i></b> downloaden van https://writer.drakeet.com/desktop_en \n\nWanneer uw mobiele telefoon en computer zich op <b>hetzelfde Wi-Fi-netwerk of hotspot👈👈👈</b> bevinden, opent u Desktop en voert u het onderstaande IP-adres <b>in het invoerveld van Desktop</b> in om verbinding te maken met Pure Writer, waarna u het huidige artikel in real time kunt synchroniseren en bewerken.</string>
+  <string name="desktopDialogGuide">U moet <b><i>Pure Writer Desktop1.7.4 (of hoger)</i></b> downloaden van https://writer.drakeet.com/desktop_en \n\nWanneer uw mobiele telefoon en computer zich op <b>hetzelfde Wi-Fi-netwerk of hotspot👈👈👈</b> bevinden, opent u Desktop en voert u het onderstaande IP-adres <b>in het invoerveld van Desktop</b> in om verbinding te maken met Pure Writer, waarna u het huidige artikel in real time kunt synchroniseren en bewerken.</string>
   <string name="desktopDialogNote">Opmerking: Pure Writer Desktop bevindt zich nog in het alfa stadium. Gelieve te begrijpen en te wachten op de volgende updates.\n* Als u <b>meerdere regels met IP-adressen</b> ziet, probeer ze dan één voor één te verbinden.</string>
   <string name="connectionIsStopping">De verbinding wordt verbroken, probeer het later nog eens!</string>
   <string name="stop_waiting_connection">Stop met wachten op verbindingen</string>
@@ -622,7 +622,7 @@
   <string name="optionsForLandscape"><![CDATA[Landschappelijke instellingen & richtlijnen]]></string>
   <string name="editInVerticalCenter">Bewerken in verticaal midden</string>
   <string name="onlyWorkForHardwareKeyboard">Werkt alleen voor hardware-toetsenbord</string>
-  <string name="editInVerticalCenterSummary">Zorgt ervoor dat de huidige bewerkte regel altijd in het midden van het scherm staat (Kan ongeldig zijn, dit is een probleem met de invoermethode, sorry daarvoor!)</string>
+  <string name="editInVerticalCenterSummary">Zorgt ervoor dat de huidige bewerkte regel altijd in het midden van het scherm staat</string>
   <string name="migrateImageAssets">Markdown-afbeeldingen migreren naar map Documents/PureWriter/Assets</string>
   <string name="migrateImageAssetsSummary">Dit helpt u om alle afbeeldingen waarnaar uw Markdown verwijst centraal over te zetten naar uw nieuwe apparaat. Na deze operatie kunt u de map Documents/PureWriter/Assets naar dezelfde map van het nieuwe apparaat kopiëren en vervolgens de apparaatback-up terugzetten op het nieuwe apparaat, zodat het nieuwe apparaat probleemloos naar de oorspronkelijke afbeeldingen kan verwijzen.</string>
   <string name="tipBadThemeBackground">De momenteel geselecteerde achtergrondafbeelding of kleur komt niet overeen met de letterkleur van het huidige thema. Selecteer deze opnieuw of negeer deze prompt als u denkt dat deze prompt onjuist is.</string>
@@ -710,4 +710,13 @@
   <string name="readCurrentArticleAloud">Lees huidig artikel hardop</string>
   <string name="checkForUpdates">Controleren op updates</string>
   <string name="ttsEnabled">TTS ingeschakeld</string>
+  <string name="tipLargeText">Het huidige artikel is te lang, dus de alinea-afstand is tijdelijk uitgeschakeld om een soepele schrijfervaring te behouden.</string>
+  <string name="pinShortcutDialogMessage">Hiermee maakt u een opstartprogramma of snelkoppeling op het bureaublad naar dit boek die u kunt gebruiken om boeken te groeperen.\n\n⚠️ Opmerking: sommige systemen bieden standaard geen ondersteuning voor het maken van snelkoppelingen, u moet op de knop \"Instellingen\" hieronder klikken om naar het scherm Systeeminstellingen te gaan om de machtiging \"Startschermsnelkoppelingen\" in te schakelen en vervolgens terug te keren naar dit scherm en op OK te klikken knop.\n\nNa succes vindt u een snelkoppelingspictogram op uw opstartprogramma of bureaublad.</string>
+  <string name="createPinShortcut">Snelkoppeling maken</string>
+  <string name="all">Allemaal</string>
+  <string name="newTag">Nieuw label</string>
+  <string name="createANewOrSelectAnExistingTag">Maak een nieuwe of selecteer een bestaande tag</string>
+  <string name="tag">Label</string>
+  <string name="tags">Labels</string>
+  <string name="tipNewTag">Dit is de boektag 🏷️️-functie. Als u een label voor een boek wilt instellen en dit bovenaan wilt weergeven, moet u lang op het boekitem in het scherm Boeken drukken en vervolgens het menu Boek bewerken selecteren. In het dialoogvenster voor het maken of bewerken van een boek kunt u de tags van het boek instellen.</string>
 </resources>

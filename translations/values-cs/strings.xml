@@ -306,7 +306,7 @@
   <string name="disconnectDesktop">Odpojení verze Desktop</string>
   <string name="connect">Připojit</string>
   <string name="tipNotSupportThisDesktopVersion">Aktuální mobilní a desktopová verze se neshodují a nelze je připojit. Aktualizujte prosím obě verze na nejnovější a zkuste to znovu.</string>
-  <string name="desktopDialogGuide">Musíte si stáhnout <b><i>Pure Writer Desktop1.7.0 (nebo vyšší)</i></b> z adresy https://writer.drakeet.com/desktop_en \n\nPokud jsou váš mobilní telefon a počítač ve <b>stejné síti Wi-Fi nebo hotspotu👈👈👈</b>, otevřete aplikaci Desktop a zadejte níže uvedenou IP adresu <b>do vstupního pole aplikace Desktop</b>, abyste se připojili k aplikaci Pure Writer, pak můžete synchronizovat a upravovat aktuální článek v reálném čase.</string>
+  <string name="desktopDialogGuide">Musíte si stáhnout <b><i>Pure Writer Desktop1.7.4 (nebo vyšší)</i></b> z adresy https://writer.drakeet.com/desktop_en \n\nPokud jsou váš mobilní telefon a počítač ve <b>stejné síti Wi-Fi nebo hotspotu👈👈👈</b>, otevřete aplikaci Desktop a zadejte níže uvedenou IP adresu <b>do vstupního pole aplikace Desktop</b>, abyste se připojili k aplikaci Pure Writer, pak můžete synchronizovat a upravovat aktuální článek v reálném čase.</string>
   <string name="desktopDialogNote">Poznámka: Aplikace Pure Writer Desktop je stále ve fázi alfa. Prosíme o pochopení a vyčkejte na jeho následné aktualizace.\n* Pokud se zobrazí <b>více řádků IP adres</b>, zkuste je připojit jeden po druhém.</string>
   <string name="connectionIsStopping">Připojení se zastavuje, zkuste to později!</string>
   <string name="createShortcutLabel">Textová zkratka</string>
@@ -546,7 +546,7 @@
   <string name="optionsForLandscape"><![CDATA[Nastavení krajiny a pokyny]]></string>
   <string name="editInVerticalCenter">Upravovat ve vertikálním středu</string>
   <string name="onlyWorkForHardwareKeyboard">Funguje pouze pro hardwarovou klávesnici</string>
-  <string name="editInVerticalCenterSummary">Způsobí, že aktuálně editovaný řádek je vždy uprostřed obrazovky (Může být neplatný, jedná se o problém vstupní metody, omlouváme se za to!)</string>
+  <string name="editInVerticalCenterSummary">Způsobí, že aktuálně editovaný řádek je vždy uprostřed obrazovky</string>
   <string name="migrateImageAssets">Migruje obrázky Markdown do adresáře Documents/PureWriter/Assets</string>
   <string name="migrateImageAssetsSummary">Tato funkce vám pomůže centrálně přenést všechny obrázky, na které odkazuje váš Markdown, do nového zařízení. Po této operaci můžete zkopírovat složku Documents/PureWriter/Assets do stejného adresáře nového zařízení a poté obnovit zálohu zařízení do nového zařízení, aby nové zařízení mohlo plynule odkazovat na původní obrázky.</string>
   <string name="tipForFromPlayToAlipay">Chcete-li použít tento způsob platby, ujistěte se, že se nacházíte v pevninské Číně. Tento způsob platby je v zásadě dostupný pouze uživatelům v pevninské Číně, protože v Číně nelze k placení používat služby Google a Google Play.</string>
@@ -708,4 +708,13 @@
   <string name="readCurrentArticleAloud">Přečtěte si nahlas aktuální článek</string>
   <string name="checkForUpdates">Kontrola aktualizací</string>
   <string name="ttsEnabled">TTS povoleno</string>
+  <string name="tipLargeText">Aktuální článek je příliš dlouhý, takže mezery mezi odstavci byly dočasně zakázány, aby bylo možné i nadále plynule psát.</string>
+  <string name="pinShortcutDialogMessage">Vytvoří spouštěč nebo zástupce na ploše k této knize, kterou můžete použít ke seskupování knih.\n\n⚠️ Poznámka: Některé systémy ve výchozím nastavení nepodporují vytváření zástupců, musíte kliknout na tlačítko „Nastavení“ níže, abyste se dostali na obrazovku Nastavení systému, kde povolíte oprávnění „Zkratky na domovské obrazovce“, a poté se vraťte na tuto obrazovku a klikněte na OK knoflík.\n\nPo úspěchu můžete na svém spouštěči nebo ploše najít ikonu zástupce.</string>
+  <string name="createPinShortcut">Vytvořit zástupce</string>
+  <string name="all">Všechno</string>
+  <string name="newTag">Nový štítek</string>
+  <string name="createANewOrSelectAnExistingTag">Vytvořte novou nebo vyberte existující značku</string>
+  <string name="tag">Štítek</string>
+  <string name="tags">Tagy</string>
+  <string name="tipNewTag">Toto je funkce knižní značky 🏷️️. Pokud potřebujete pro knihu nastavit značku a zobrazit ji nahoře, musíte dlouze stisknout položku knihy na obrazovce Knihy a poté vybrat nabídku Upravit knihu. V dialogu pro vytvoření nebo úpravu knihy můžete nastavit značky knihy.</string>
 </resources>

@@ -541,7 +541,7 @@
     <string name="connectDesktop">Connettiti al desktop</string>
   <string name="disconnectDesktop">Disconnetti il desktop</string>
   <string name="connect">Visualizza</string>
-  <string name="desktopDialogGuide">Devi scaricare <b><i>Pure Writer Desktop1.7.0 (o superiore)</i></b> da https://writer.drakeet.com/desktop_en \n\nQuando il tuo cellulare e il computer sono sulla <b>stessa rete Wi-Fi o hotspot👈👈👈</b>, apri Desktop e inserisci l\'indirizzo IP sottostante nel campo di input di Desktop per connetterti a Pure Writer, quindi puoi sincronizzare e modificare l\'articolo corrente in tempo reale.</string>
+  <string name="desktopDialogGuide">Devi scaricare <b><i>Pure Writer Desktop1.7.4 (o superiore)</i></b> da https://writer.drakeet.com/desktop_en \n\nQuando il tuo cellulare e il computer sono sulla <b>stessa rete Wi-Fi o hotspot👈👈👈</b>, apri Desktop e inserisci l\'indirizzo IP sottostante nel campo di input di Desktop per connetterti a Pure Writer, quindi puoi sincronizzare e modificare l\'articolo corrente in tempo reale.</string>
   <string name="connectionIsStopping">La connessione si sta interrompendo, riprova più tardi!</string>
   <string name="stop_waiting_connection">Smetti di aspettare le connessioni</string>
   <string name="desktopDisconnected">Il desktop è disconnesso</string>
@@ -680,4 +680,13 @@
   <string name="readCurrentArticleAloud">Leggi l\'articolo corrente ad alta voce</string>
   <string name="checkForUpdates">Controlla gli aggiornamenti</string>
   <string name="ttsEnabled">TTS abilitato</string>
+  <string name="tipLargeText">L\'articolo corrente è troppo lungo, quindi la spaziatura tra i paragrafi è stata temporaneamente disabilitata per continuare a scrivere senza problemi.</string>
+  <string name="pinShortcutDialogMessage">Crea un\'utilità di avvio o un collegamento sul desktop a questo libro che puoi utilizzare per raggruppare i libri.\n\n⚠️ Nota: alcuni sistemi non supportano la creazione di collegamenti per impostazione predefinita, è necessario fare clic sul pulsante \"Impostazioni\" in basso per accedere alla schermata Impostazioni di sistema per abilitare l\'autorizzazione \"Scorciatoie schermata iniziale\", quindi tornare a questa schermata e fare clic su OK pulsante.\n\nDopo il successo, puoi trovare un\'icona di collegamento sul tuo launcher o sul desktop.</string>
+  <string name="createPinShortcut">Creare una scorciatoia</string>
+  <string name="all">Tutto</string>
+  <string name="newTag">Nuova etichetta</string>
+  <string name="createANewOrSelectAnExistingTag">Crea un nuovo tag o selezionane uno esistente</string>
+  <string name="tag">Etichetta</string>
+  <string name="tags">Etichette</string>
+  <string name="tipNewTag">Questa è la funzione tag del libro 🏷️️. Se devi impostare un tag per un libro e visualizzarlo in alto, devi premere a lungo l\'elemento del libro nella schermata Libri, quindi selezionare il menu Modifica libro. Nella finestra di dialogo per creare o modificare un libro, puoi impostare i tag del libro.</string>
 </resources>

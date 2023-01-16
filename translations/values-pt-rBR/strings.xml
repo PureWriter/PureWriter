@@ -376,7 +376,7 @@
   <string name="password">Senha</string>
   <string name="nightMode">Modo Noturno</string>
   <string name="connectDesktop">Conectar Desktop</string>
-  <string name="desktopDialogGuide">Você precisa baixar o <b><i>Pure Writer Desktop1.7.0 (ou superior)</i></b> em https://writer.drakeet.com/desktop_en \n\nQuando seu dispositivo móvel e seu PC estiverem na <b>mesma rede Wi-Fi ou roteador</b>, abra o desktop e insira o endereço IP abaixo <b>na caixa de entrada</b> para conectar ao Pure Writer, assim você será capaz de sincronizar e editar o artigo atual em tempo real.</string>
+  <string name="desktopDialogGuide">Você precisa baixar o <b><i>Pure Writer Desktop1.7.4 (ou superior)</i></b> em https://writer.drakeet.com/desktop_en \n\nQuando seu dispositivo móvel e seu PC estiverem na <b>mesma rede Wi-Fi ou roteador</b>, abra o desktop e insira o endereço IP abaixo <b>na caixa de entrada</b> para conectar ao Pure Writer, assim você será capaz de sincronizar e editar o artigo atual em tempo real.</string>
   <string name="disconnectDesktop">Desconectar Desktop</string>
   <string name="connect">Conectar</string>
   <string name="desktopDialogNote">Nota: o Pure Writer Desktop ainda está em estágio alfa. Por favor, entenda e aguarde novas atualizações. \n* Se você ver <b>múltiplas linhas de endereços IPs</b>, tente conectá-los um por um.</string>
@@ -602,7 +602,7 @@
   <string name="useSystemFont">Usar fonte do sistema</string>
   <string name="migrateImageAssetsSummary">Isto ajuda você a transferir centralmente todas as imagens referenciadas por seu Markdown para seu novo dispositivo. Após esta operação, você pode copiar a pasta Documents/PureWriter/Assets para o mesmo diretório do novo dispositivo e então restaurar o Backup do dispositivo para o novo dispositivo, para que o novo dispositivo possa referenciar suavemente as imagens originais.</string>
   <string name="migrateImageAssets">Migrar imagens Markdown para o diretório Documents/PureWriter/Assets</string>
-  <string name="editInVerticalCenterSummary">Faz com que a linha editada atualmente esteja sempre no meio da tela (pode ser inválida, este é um problema de método de entrada, desculpe por isso!)</string>
+  <string name="editInVerticalCenterSummary">Faz com que a linha editada atualmente esteja sempre no meio da tela</string>
   <string name="onlyWorkForHardwareKeyboard">Trabalhar somente para teclado de hardware</string>
   <string name="editInVerticalCenter">Editar no centro vertical</string>
   <string name="optionsForLandscape">Configurações e diretrizes paisagísticas</string>
@@ -732,4 +732,13 @@
   <string name="readCurrentArticleAloud">Leia o artigo atual em voz alta</string>
   <string name="checkForUpdates">Verifique se há atualizações</string>
   <string name="ttsEnabled">TTS ativado</string>
+  <string name="tipLargeText">O artigo atual é muito longo, portanto o espaçamento de parágrafos foi temporariamente desativado para continuar a experiência de escrita suave.</string>
+  <string name="pinShortcutDialogMessage">Cria um lançador ou um atalho de mesa para este livro que você pode usar para agrupar livros. \n\n⚠️ Nota: Alguns sistemas não suportam a criação de atalhos por padrão, você precisa clicar no botão \"Settings\" abaixo para ir para a tela System Settings para ativar a permissão de \"Home screen shortcuts\", e então retornar a esta tela e clicar no botão OK. \n\nApós o sucesso, você pode encontrar um ícone de atalho em seu lançador ou área de trabalho.</string>
+  <string name="createPinShortcut">Criar atalho</string>
+  <string name="all">Todos</string>
+  <string name="newTag">Nova etiqueta</string>
+  <string name="createANewOrSelectAnExistingTag">Criar uma etiqueta nova ou selecionar uma já existente</string>
+  <string name="tag">Etiqueta</string>
+  <string name="tags">Etiquetas</string>
+  <string name="tipNewTag">Esta é a etiqueta do livro 🏷️️ função. Se você precisar definir uma etiqueta para um livro e exibi-la no topo, você precisa pressionar por muito tempo o item do livro na tela Livros, e então selecionar o menu Editar Livro. No diálogo para criar ou editar um livro, você pode definir as tags do livro.</string>
 </resources>

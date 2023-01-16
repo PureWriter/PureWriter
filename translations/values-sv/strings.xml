@@ -327,7 +327,7 @@
   <string name="disconnectDesktop">Koppla bort skrivbordet</string>
   <string name="connect">Anslut</string>
   <string name="tipNotSupportThisDesktopVersion">De nuvarande mobila och stationära versionerna är inte kompatibla och kan inte kopplas samman. Uppdatera båda till den senaste versionen och försök igen.</string>
-  <string name="desktopDialogGuide">Du måste ladda ner <b><i>Pure Writer Desktop1.7.0 (eller senare)</i></b> från https://writer.drakeet.com/desktop_en\n\nNär din mobil och dator är på <b>samma Wi-Fi-nätverk eller hotspot👈👈👈</b>, öppna Desktop och skriv in IP-adressen nedan <b>i inmatningsfältet på Desktop</b> för att ansluta till Pure Writer, då kan du synkronisera och redigera den aktuella artikeln i realtid.</string>
+  <string name="desktopDialogGuide">Du måste ladda ner <b><i>Pure Writer Desktop1.7.4 (eller senare)</i></b> från https://writer.drakeet.com/desktop_en\n\nNär din mobil och dator är på <b>samma Wi-Fi-nätverk eller hotspot👈👈👈</b>, öppna Desktop och skriv in IP-adressen nedan <b>i inmatningsfältet på Desktop</b> för att ansluta till Pure Writer, då kan du synkronisera och redigera den aktuella artikeln i realtid.</string>
   <string name="desktopDialogNote">Obs: Pure Writer Desktop är fortfarande i alfastadiet. Vänligen förstå och vänta på dess efterföljande uppdateringar.\n* Om du ser <b>flera rader med IP-adresser</b>, försök att ansluta dem en efter en.</string>
   <string name="connectionIsStopping">Anslutningen avbryts, försök igen senare!</string>
   <string name="createShortcutLabel">Genväg för text</string>
@@ -571,7 +571,7 @@
   <string name="optionsForLandscape"><![CDATA[Landskapsinställningar och riktlinjer]]></string>
   <string name="editInVerticalCenter">Redigera i vertikalt centrum</string>
   <string name="onlyWorkForHardwareKeyboard">Fungerar endast för hårdvarutangentbord</string>
-  <string name="editInVerticalCenterSummary">Gör att den redigerade raden alltid är i mitten av skärmen (kan vara ogiltig, detta är ett problem med inmatningsmetoden, ursäkta!)</string>
+  <string name="editInVerticalCenterSummary">Gör att den redigerade raden alltid är i mitten av skärmen</string>
   <string name="migrateImageAssets">Migrera Markdown-bilder till katalogen Documents/PureWriter/Assets</string>
   <string name="migrateImageAssetsSummary">Detta hjälper dig att centralt överföra alla bilder som refereras till i Markdown till din nya enhet. Efter denna operation kan du kopiera mappen Documents/PureWriter/Assets till samma katalog på den nya enheten och sedan återställa enhetens säkerhetskopia till den nya enheten, så att den nya enheten smidigt kan referera till de ursprungliga bilderna.</string>
   <string name="tipForFromPlayToAlipay">Om du vill använda denna betalningsmetod måste du se till att du befinner dig i Kina. Den här betalningsmetoden är i princip endast tillgänglig för användare i Kina, eftersom Google och Google Play inte kan användas för att betala i Kina.</string>
@@ -696,4 +696,13 @@
   <string name="readCurrentArticleAloud">Läs aktuell artikel högt</string>
   <string name="checkForUpdates">Sök efter uppdateringar</string>
   <string name="ttsEnabled">TTS aktiverad</string>
+  <string name="tipLargeText">Den aktuella artikeln är för lång, så styckeavståndet har tillfälligt inaktiverats för att fortsätta smidig skrivupplevelse.</string>
+  <string name="pinShortcutDialogMessage">Skapar en start- eller skrivbordsgenväg till den här boken som du kan använda för att gruppera böcker.\n\n⚠️ Obs: Vissa system stöder inte att skapa genvägar som standard, du måste klicka på knappen \"Inställningar\" nedan för att gå till skärmen Systeminställningar för att aktivera behörigheten \"Genvägar på startsidan\", och sedan återgå till den här skärmen och klicka på OK knapp.\n\nEfter framgång kan du hitta en genvägsikon på startprogrammet eller skrivbordet.</string>
+  <string name="createPinShortcut">Skapa genväg</string>
+  <string name="all">Allt</string>
+  <string name="newTag">Ny tag</string>
+  <string name="createANewOrSelectAnExistingTag">Skapa en ny eller välj en befintlig tagg</string>
+  <string name="tag">Märka</string>
+  <string name="tags">Taggar</string>
+  <string name="tipNewTag">Det här är bokmärket 🏷️️ funktionen. Om du behöver ställa in en tagg för en bok och visa den högst upp måste du trycka länge på bokobjektet på skärmen Böcker och sedan välja menyn Redigera bok. I dialogrutan för att skapa eller redigera en bok kan du ställa in bokens taggar.</string>
 </resources>

@@ -338,7 +338,7 @@
   <string name="disconnectDesktop">Kytke työpöytäversio pois päältä</string>
   <string name="connect">Kytkeä</string>
   <string name="tipNotSupportThisDesktopVersion">Tämänhetkiset mobiili- ja työpöytäversiot eivät vastaa toisiaan eikä niitä voi yhdistää. Päivitä molemmat uusimpaan versioon ja yritä uudestaan.</string>
-  <string name="desktopDialogGuide"> Sinun on ladattava <b><i>Pure Writer Desktop1.7.0 (tai uudempi)</i></b> osoitteesta https://writer.drakeet.com/desktop_en \n\nKun kännykkäsi ja tietokoneesi ovat <b>samassa Wi-Fi-verkossa tai hotspotissa👈👈👈👈</b>, avaa Desktop ja syötä alla oleva IP-osoite <b>Työpöydän syöttökenttään</b> muodostaaksesi yhteyden Pure Writeriin, niin voit synkronoida ja muokata nykyistä artikkelia reaaliajassa.</string>
+  <string name="desktopDialogGuide"> Sinun on ladattava <b><i>Pure Writer Desktop1.7.4 (tai uudempi)</i></b> osoitteesta https://writer.drakeet.com/desktop_en \n\nKun kännykkäsi ja tietokoneesi ovat <b>samassa Wi-Fi-verkossa tai hotspotissa👈👈👈👈</b>, avaa Desktop ja syötä alla oleva IP-osoite <b>Työpöydän syöttökenttään</b> muodostaaksesi yhteyden Pure Writeriin, niin voit synkronoida ja muokata nykyistä artikkelia reaaliajassa.</string>
   <string name="desktopDialogNote">Huomautus: Pure Writer Desktop on vielä alfa-vaiheessa. Ymmärrä ja odota sen myöhempiä päivityksiä.\n* Jos näet <b>monta riviä IP-osoitteita</b>, yritä yhdistää ne yksi kerrallaan.</string>
   <string name="connectionIsStopping">Yhteys pysähtyy, yritä myöhemmin uudelleen!</string>
   <string name="createShortcutLabel">Tekstin pikavalinta</string>
@@ -587,7 +587,7 @@
   <string name="optionsForLandscape"><![CDATA[Maisema-asetukset ja ohjeet]]></string>
   <string name="editInVerticalCenter">Muokkaa pystykeskellä</string>
   <string name="onlyWorkForHardwareKeyboard">Toimii vain laitteistonäppäimistöllä</string>
-  <string name="editInVerticalCenterSummary">Mahdollistaa sen, että parhaillaan muokattava rivi on aina näytön keskellä (voi olla virheellinen, tämä on syöttömenetelmän ongelma, pahoittelut siitä!)</string>
+  <string name="editInVerticalCenterSummary">Mahdollistaa sen, että parhaillaan muokattava rivi on aina näytön keskellä</string>
   <string name="migrateImageAssets">Migroi Markdown-kuvat Documents/PureWriter/Assets-hakemistoon</string>
   <string name="migrateImageAssetsSummary">Tämän avulla voit siirtää keskitetysti kaikki Markdownin viittaamat kuvat uuteen laitteeseen. Tämän toiminnon jälkeen voit kopioida Documents/PureWriter/Assets-kansion uuden laitteen samaan hakemistoon ja palauttaa laitteen varmuuskopion uuteen laitteeseen, jotta uusi laite voi sujuvasti viitata alkuperäisiin kuviin.</string>
   <string name="tipForFromPlayToAlipay">Varmista, että olet Manner-Kiinassa, jotta voit käyttää tätä maksutapaa. Tämä maksutapa on periaatteessa vain Manner-Kiinassa olevien käyttäjien käytettävissä, koska Googlen ja Google Playn kautta ei voi maksaa Kiinassa.</string>.
@@ -721,4 +721,13 @@
   <string name="readCurrentArticleAloud">Lue nykyinen artikkeli ääneen</string>
   <string name="checkForUpdates">Tarkista päivitykset</string>
   <string name="ttsEnabled">TTS käytössä</string>
+  <string name="tipLargeText">Nykyinen artikkeli on liian pitkä, joten kappalevälit on väliaikaisesti poistettu käytöstä sujuvan kirjoituskokemuksen jatkamiseksi.</string>
+  <string name="pinShortcutDialogMessage">Luo tähän kirjaan käynnistysohjelman tai työpöydän pikakuvakkeen, jota voit käyttää kirjojen ryhmittelyyn.\n\n⚠️ Huomautus: Jotkin järjestelmät eivät tue pikakuvakkeiden luomista oletusarvoisesti, sinun on napsautettava alla olevaa \"Asetukset\"-painiketta siirtyäksesi Järjestelmäasetukset-näyttöön ottaaksesi \"Aloitusnäytön pikakuvakkeet\" -luvan käyttöön. Palaa sitten tähän näyttöön ja napsauta OK. -painiketta.\n\nOnnistuneena löydät pikakuvakkeen käynnistysohjelmaltasi tai työpöydältäsi.</string>
+  <string name="createPinShortcut">Luo pikakuvake</string>
+  <string name="all">Kaikki</string>
+  <string name="newTag">Uusi tunniste</string>
+  <string name="createANewOrSelectAnExistingTag">Luo uusi tai valitse olemassa oleva tunniste</string>
+  <string name="tags">Tunnisteet</string>
+  <string name="tag">Tag</string>
+  <string name="tipNewTag">Tämä on kirjatunniste 🏷️️ -toiminto. Jos sinun on määritettävä kirjalle tunniste ja näytettävä se yläreunassa, sinun on painettava pitkään kirjakohtaa Kirjat-näytössä ja valittava sitten Muokkaa kirjaa -valikko. Kirjan luonti- tai muokkausikkunassa voit asettaa kirjan tunnisteet.</string>
 </resources>
