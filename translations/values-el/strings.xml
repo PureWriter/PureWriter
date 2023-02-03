@@ -95,10 +95,10 @@
   <string name="summaryBackupToLocal">Το αρχείο αντιγράφων ασφαλείας θα αποθηκευτεί στη διεύθυνση Documents/PureWriter/Backups</string>
   <string name="summaryBackupToCloud">Το αρχείο δημιουργίας αντιγράφων ασφαλείας θα αποθηκευτεί στον αποθηκευτικό χώρο του cloud σας, εάν έχει οριστεί</string>
   <string name="restoreBackup">Επαναφορά αντιγράφου ασφαλείας</string>
-  <string name="summaryRestoreTheBackup">Το αρχείο αντιγράφων ασφαλείας θα ανακτηθεί από τα Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto και το WebDAV ή το Dropbox ή το GoogleDrive</string>
+  <string name="summaryRestoreTheBackup">Το αρχείο αντιγράφων ασφαλείας θα ανακτηθεί από τα Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto και τον αποθηκευτικό χώρο σας στο cloud.</string>
   <string name="backupSuccessful">Επιτυχής δημιουργία αντιγράφων ασφαλείας</string>
   <string name="restoreSuccessful">Αποκατάσταση αντιγράφων ασφαλείας με επιτυχία</string>
-  <string name="tipBackupList">Αυτά είναι τα αρχεία των αντιγράφων ασφαλείας σας. Μπορείτε να κάνετε κλικ για να τα επαναφέρετε.\n<b>Αν θέλετε να ανακτήσετε τα αρχεία αντιγράφων ασφαλείας από το Dropbox/WebDAV/GoogleDrive, συνδεθείτε πρώτα στο λογαριασμό σας στο Dropbox/WebDAV/GoogleDrive!</b></string>
+  <string name="tipBackupList">Εδώ είναι τα αντίγραφα ασφαλείας σας. Μπορείτε να κάνετε κλικ για να τα επαναφέρετε.\n<b>Εάν θέλετε να ανακτήσετε αρχεία αντιγράφων ασφαλείας cloud από τον αποθηκευτικό χώρο σας στο cloud, συνδεθείτε πρώτα στο λογαριασμό σας στο Dropbox/WebDAV/GoogleDrive/OneDrive!</b></string>
   <string name="tipBackupNotExist">Το αρχείο αντιγράφου ασφαλείας δεν υπάρχει. Παρακαλούμε τοποθετήστε το αρχείο αντιγράφου ασφαλείας στο Documents/PureWriter/Backups και δοκιμάστε ξανά.</string>
   <string name="wordCountMode">Λειτουργία καταμέτρησης λέξεων</string>
   <string name="wordCountModeEntriesItem1">Αποκλείονται τα κενά και τα διαλείμματα γραμμής</string>
@@ -187,7 +187,7 @@
   <string name="bridgeUpload">Bridge: Upload</string>
   <string name="bridgeDownload">Bridge: Fetch</string>
   <string name="backupSettingTitle">Δημιουργία αντιγράφων ασφαλείας και συγχρονισμός cloud</string>
-  <string name="backupSettingSummary">Δημιουργία αντιγράφων ασφαλείας, επαναφορά, Dropbox, WebDAV, Google Drive</string>
+  <string name="backupSettingSummary">Δημιουργία αντιγράφων ασφαλείας, επαναφορά, Dropbox, WebDAV, GoogleDrive, OneDrive...</string>
   <string name="syncNetwork">Διαδικασία δημιουργίας αντιγράφων ασφαλείας στο σύννεφο</string>
   <string name="syncOnlyWifi">Συντονισμός αντιγράφων ασφαλείας στο Cloud μόνο όταν το Wi-Fi είναι ενεργό</string>
   <string name="syncAllNetworks">Συντονισμός αντιγράφων ασφαλείας στο Cloud σε όλα τα δίκτυα</string>
@@ -698,7 +698,7 @@
   <string name="syncCategoryTip">Πρέπει να συνδεθείτε στον παραπάνω λογαριασμό αποθήκευσης cloud για να ενεργοποιήσετε την παρακάτω επιλογή συγχρονισμού cloud</string>
   <string name="cloudSyncMode">Επιλογές λειτουργίας συγχρονισμού cloud</string>
   <string name="cloudSyncModeNames1">Μη αυτόματα: Κάντε κλικ με μη αυτόματο τρόπο στο κουμπί Συγχρονισμός στο κάτω μέρος του προγράμματος επεξεργασίας κάθε φορά που χρειάζεται να κάνετε συγχρονισμό. Αυτή η λειτουργία είναι κατάλληλη για αποθήκευση στο cloud με όρια κίνησης και συχνότητας αιτημάτων.\n</string>
-  <string name="cloudSyncModeNames2">Ημιαυτόματο: Κάθε φορά που γίνεται αλλαγή κειμένου και κλείνει το μαλακό πληκτρολόγιο, ο συγχρονισμός θα εκτελείται αυτόματα και το διάστημα μεταξύ δύο αυτόματων συγχρονισμών θα είναι τουλάχιστον 6 δευτερόλεπτα. Αυτή η λειτουργία είναι κατάλληλη για αποθήκευση στο cloud χωρίς περιορισμούς κυκλοφορίας και συχνότητας αιτημάτων, όπως Dropbox ή GoogleDrive.</string>
+  <string name="cloudSyncModeNames2">Ημιαυτόματο: Κάθε φορά που γίνεται αλλαγή κειμένου και κλείνει το μαλακό πληκτρολόγιο, ο συγχρονισμός θα εκτελείται αυτόματα και το διάστημα μεταξύ δύο αυτόματων συγχρονισμών θα είναι τουλάχιστον 6 δευτερόλεπτα.</string>
   <string name="syncBeforeEditingToAvoidConflicts">Συγχρονισμός πριν από την επεξεργασία για αποφυγή διενέξεων</string>
   <string name="okSyncIt">Εντάξει, συγχρονίστε το</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Έχετε τροποποιήσει το τρέχον άρθρο σε άλλες συσκευές, για να αποφύγετε διενέξεις, συγχρονίστε πρώτα, διαφορετικά οι τροποποιήσεις σας σε άλλες συσκευές ενδέχεται να απορριφθούν.</string>
@@ -721,4 +721,5 @@
   <string name="tag">Ετικέτα</string>
   <string name="tags">Ετικέτες</string>
   <string name="tipNewTag">Αυτή είναι η λειτουργία ετικέτας βιβλίου 🏷️️. Εάν πρέπει να ορίσετε μια ετικέτα για ένα βιβλίο και να την εμφανίσετε στην κορυφή, πρέπει να πατήσετε παρατεταμένα το στοιχείο βιβλίου στην οθόνη Βιβλία και, στη συνέχεια, να επιλέξετε το μενού Επεξεργασία βιβλίου. Στο παράθυρο διαλόγου για τη δημιουργία ή την επεξεργασία ενός βιβλίου, μπορείτε να ορίσετε τις ετικέτες του βιβλίου.</string>
+  <string name="clickHereToSelectAnotherCloudStorageType">Κάντε κλικ εδώ για να επιλέξετε έναν άλλο τύπο αποθήκευσης cloud</string>
 </resources>

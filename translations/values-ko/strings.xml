@@ -106,10 +106,10 @@
   <string name="summaryBackupToLocal">백업 파일은 Documents/PureWriter/Backups 에 저장됩니다.</string>
   <string name="summaryBackupToCloud">백업 파일은 설정된 경우 클라우드 저장소에 저장됩니다</string>
   <string name="restoreBackup">백업 복원</string>
-  <string name="summaryRestoreTheBackup">백업 파일은 Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto와 당신의 WebDAV 또는 Dropbox 또는 Google Drive에서 검색됩니다.</string>
+  <string name="summaryRestoreTheBackup">백업 파일은 Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto 및 클라우드 스토리지에서 검색됩니다.</string>
   <string name="backupSuccessful">백업 성공</string>
   <string name="restoreSuccessful">백업이 성공적으로 복원되었습니다</string>
-  <string name="tipBackupList">백업 파일입니다. 클릭하여 복원할 수 있습니다.\n<b>Dropbox / WebDAV / GoogleDrive 에서 백업 파일을 검색하려면 먼저 Dropbox / WebDAV / GoogleDrive 계정에 로그인하십시오!</b></string>
+  <string name="tipBackupList">다음은 백업 파일입니다. 클릭하여 복원할 수 있습니다.\n<b>클라우드 저장소에서 클라우드 백업 파일을 검색하려면 먼저 Dropbox/WebDAV/GoogleDrive/OneDrive 계정에 로그인하세요!</b></string>
   <string name="tipBackupNotExist">백업 파일이 없습니다. 백업 파일을 Documents/PureWriter/Backups 에 넣고 다시 시도하십시오.</string>
   <string name="wordCountMode">단어 수 계산 모드</string>
   <string-array name="wordCountModeEntries">
@@ -196,7 +196,7 @@
   <string name="bridgeUpload">Bridge: 업로드</string>
   <string name="bridgeDownload">Bridge: 가져오기</string>
   <string name="backupSettingTitle">백업 및 클라우드 동기화</string>
-  <string name="backupSettingSummary">백업, 복원, Dropbox, WebDAV, Google Drive</string>
+  <string name="backupSettingSummary">백업, 복원, Dropbox, WebDAV, GoogleDrive, OneDrive...</string>
   <string name="syncNetwork">클라우드 백업</string>
   <string name="syncOnlyWifi">Wi-Fi가 활성화 된 경우에만 클라우드에 백업 동기화</string>
   <string name="syncAllNetworks">모든 네트워크에서 클라우드로 백업 동기화</string>
@@ -667,7 +667,7 @@
   <string name="syncCategoryTip">아래의 클라우드 동기화 옵션을 활성화하려면 위의 클라우드 스토리지 계정에 로그인해야 합니다.</string>
   <string name="cloudSyncMode">클라우드 동기화 모드 옵션</string>
   <string name="cloudSyncModeNames1">수동: 동기화가 필요할 때마다 편집기 하단에 있는 동기화 버튼을 수동으로 클릭합니다. 이 모드는 트래픽 및 요청 빈도 제한이 있는 클라우드 스토리지에 적합합니다.\n</string>
-  <string name="cloudSyncModeNames2">반자동: 텍스트 변경이 있고 소프트 키보드가 닫힐 때마다 동기화가 자동으로 수행되며 두 자동 동기화 사이의 간격은 최소 6초가 됩니다. 이 모드는 Dropbox 또는 GoogleDrive와 같이 트래픽 및 요청 빈도 제한이 없는 클라우드 스토리지에 적합합니다.</string>
+  <string name="cloudSyncModeNames2">반자동: 텍스트 변경이 있고 소프트 키보드가 닫힐 때마다 동기화가 자동으로 수행되며 두 자동 동기화 사이의 간격은 최소 6초가 됩니다.</string>
   <string name="syncBeforeEditingToAvoidConflicts">충돌을 방지하기 위해 편집하기 전에 동기화</string>
   <string name="okSyncIt">알겠습니다, 동기화하세요</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">다른 장치에서 현재 기사를 수정했습니다. 충돌을 피하기 위해 먼저 동기화하십시오. 그렇지 않으면 다른 장치에서 수정한 내용이 취소될 수 있습니다.</string>
@@ -690,4 +690,5 @@
   <string name="tag">꼬리표</string>
   <string name="tags">태그</string>
   <string name="tipNewTag">책태그🏷️️ 기능입니다. 책에 태그를 설정하여 상단에 표시하려면 책 화면에서 책 항목을 길게 누른 다음 책 편집 메뉴를 선택해야 합니다. 책을 만들거나 편집하는 대화 상자에서 책의 태그를 설정할 수 있습니다.</string>
+  <string name="clickHereToSelectAnotherCloudStorageType">다른 클라우드 스토리지 유형을 선택하려면 여기를 클릭하십시오.</string>
 </resources>

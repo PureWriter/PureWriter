@@ -97,10 +97,10 @@
   <string name="summaryBackupToLocal">Sicherungsdateien werden in Documents/PureWriter/Backups gespeichert</string>
   <string name="summaryBackupToCloud">Sicherungsdateien werden in Ihrem Cloud-Speicher gespeichert, sofern festgelegt</string>
   <string name="restoreBackup">Backup wiederherstellen</string>
-  <string name="summaryRestoreTheBackup">Die Sicherungsdatei wird von Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto und Ihrer GoogleDrive oder WebDAV oder Dropbox abgerufen</string>
+  <string name="summaryRestoreTheBackup">Die Sicherungsdatei wird von Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto und Ihrem Cloud-Speicher abgerufen.</string>
   <string name="backupSuccessful">Sicherung erfolgreich</string>
   <string name="restoreSuccessful">Sicherung erfolgreich wiederhergestellt</string>
-  <string name="tipBackupList">Hier sind Ihre Sicherungsdateien. Sie können klicken, um sie wiederherzustellen.\n<b>Wenn Sie Sicherungsdateien von GoogleDrive/Dropbox/WebDAV abrufen möchten, melden Sie sich bitte zuerst bei Ihrem GoogleDrive/Dropbox/WebDAV-Konto an! </b></string>
+  <string name="tipBackupList">Hier sind Ihre Sicherungsdateien. Sie können auf klicken, um sie wiederherzustellen.\n<b>Wenn Sie Cloud-Sicherungsdateien aus Ihrem Cloud-Speicher abrufen möchten, melden Sie sich bitte zuerst bei Ihrem Dropbox-/WebDAV-/GoogleDrive-/OneDrive-Konto an!</b></string>
   <string name="tipBackupNotExist">Die Sicherungsdatei existiert nicht. Legen Sie die Sicherungsdatei in Documents/PureWriter/Backups ab und versuchen Sie es erneut.</string>
   <string name="wordCountMode">Word-Count-Modus</string>
   <string name="fab">Home Floating-Aktionstaste</string>
@@ -181,7 +181,7 @@
   <string name="bridgeUpload">Bridge: Upload</string>
   <string name="bridgeDownload">Bridge: Fetch</string>
   <string name="backupSettingTitle">Backup &amp; Cloud-Synchronisierung</string>
-  <string name="backupSettingSummary">Backup, Restore, Dropbox, WebDAV, Google Drive</string>
+  <string name="backupSettingSummary">Backup, Restore, Dropbox, WebDAV, GoogleDrive, OneDrive...</string>
   <string name="syncNetwork">Datensicherung in der Cloud</string>
   <string name="syncOnlyWifi">Backup nur mit der Cloud synchronisieren, wenn WLAN aktiviert ist</string>
   <string name="syncAllNetworks">Sicherung in allen Netzwerken mit der Cloud synchronisieren</string>
@@ -665,7 +665,7 @@
   <string name="syncCategoryTip">Sie müssen sich oben beim Cloud-Speicherkonto anmelden, um die Cloud-Synchronisierungsoption unten zu aktivieren</string>
   <string name="cloudSyncMode">Optionen für den Cloud-Synchronisationsmodus</string>
   <string name="cloudSyncModeNames1">Manuell: Klicken Sie jedes Mal, wenn Sie synchronisieren müssen, manuell auf die Schaltfläche „Synchronisieren“ unten im Editor. Dieser Modus eignet sich für Cloud-Speicher mit Verkehrs- und Anforderungshäufigkeitsbeschränkungen.\n</string>
-  <string name="cloudSyncModeNames2">Halbautomatisch: Bei jeder Textänderung und geschlossenem Softkeyboard wird die Synchronisierung automatisch durchgeführt, wobei das Intervall zwischen zwei automatischen Synchronisierungen mindestens 6 Sekunden beträgt. Dieser Modus eignet sich für Cloud-Speicher ohne Traffic- und Anfragehäufigkeitsbeschränkungen wie Dropbox oder GoogleDrive.</string>
+  <string name="cloudSyncModeNames2">Halbautomatisch: Bei jeder Textänderung und geschlossenem Softkeyboard wird die Synchronisierung automatisch durchgeführt, wobei das Intervall zwischen zwei automatischen Synchronisierungen mindestens 6 Sekunden beträgt.</string>
   <string name="syncBeforeEditingToAvoidConflicts">Vor der Bearbeitung synchronisieren, um Konflikte zu vermeiden</string>
   <string name="okSyncIt">OK, synchronisieren</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Du hast den aktuellen Artikel auf anderen Geräten geändert, um Konflikte zu vermeiden, bitte zuerst synchronisieren, sonst werden deine Änderungen auf anderen Geräten möglicherweise verworfen.</string>
@@ -688,4 +688,5 @@
   <string name="tags">Stichworte</string>
   <string name="tag">Schild</string>
   <string name="tipNewTag">Das ist die Buchtag 🏷️️ Funktion. Wenn Sie ein Tag für ein Buch festlegen und es ganz oben anzeigen möchten, müssen Sie auf dem Bildschirm „Bücher“ lange auf das Buchelement drücken und dann das Menü „Buch bearbeiten“ auswählen. Im Dialog zum Erstellen oder Bearbeiten eines Buches können Sie die Tags des Buches setzen.</string>
+  <string name="clickHereToSelectAnotherCloudStorageType">Klicken Sie hier, um einen anderen Cloud-Speichertyp auszuwählen</string>
 </resources>

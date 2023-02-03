@@ -96,10 +96,10 @@
   <string name="summaryBackupToLocal">Säkerhetskopieringsfilen kommer att sparas i Documents/PureWriter/Backups</string>
   <string name="summaryBackupToCloud">Backupfilen sparas till ditt molnlagringsutrymme om den är inställd.</string>
   <string name="restoreBackup">Återställa säkerhetskopiering</string>
-  <string name="summaryRestoreTheBackup">Säkerhetskopieringsfilen kommer att hämtas från Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto och din WebDAV eller Dropbox eller GoogleDrive</string>
+  <string name="summaryRestoreTheBackup">Säkerhetskopieringsfilen kommer att hämtas från Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto och din molnlagring.</string>
   <string name="backupSuccessful">Backup successful</string>
   <string name="restoreSuccessful">Backup restored successfully</string>
-  <string name="tipBackupList">Här är dina säkerhetskopior. Du kan klicka för att återställa dem.\n<b>Om du vill hämta säkerhetskopior från Dropbox/WebDAV/GoogleDrive, logga in på ditt Dropbox/WebDAV/GoogleDrive-konto först!</b></string>
+  <string name="tipBackupList">Här är dina säkerhetskopior. Du kan klicka för att återställa dem.\n<b>Om du vill hämta molnsäkerhetskopieringsfiler från din molnlagring, logga in på ditt Dropbox/WebDAV/GoogleDrive/OneDrive-konto först!</b></string>
   <string name="tipBackupNotExist">Säkerhetskopieringsfilen finns inte. Placera säkerhetskopian i Documents/PureWriter/Backups och försök igen.</string>
   <string name="wordCountMode">Läge för ordräkning</string>
   <string name="fab">Flytande åtgärdsknapp för hemmet</string>
@@ -178,7 +178,7 @@
   <string name="bridgeUpload">Bro: Ladda upp</string>
   <string name="bridgeDownload">Bro: Hämta</string>
   <string name="backupSettingTitle">Säkerhetskopiering och molnsynkronisering</string>
-  <string name="backupSettingSummary">Säkerhetskopiering, återställning, Dropbox, WebDAV, Google Drive</string>
+  <string name="backupSettingSummary">Säkerhetskopiering, återställning, Dropbox, WebDAV, GoogleDrive, OneDrive...</string>
   <string name="syncNetwork">Säkerhetskopiering i molnet</string>
   <string name="syncOnlyWifi">Synkronisera säkerhetskopiering till molnet endast när Wi-Fi är aktivt</string>
   <string name="syncAllNetworks">Synkronisera säkerhetskopiering till molnet i alla nätverk</string>
@@ -682,7 +682,7 @@
   <string name="syncCategoryTip">Behöver logga in på molnlagringskontot ovan för att aktivera molnsynkroniseringsalternativet nedan</string>
   <string name="cloudSyncMode">Alternativ för molnsynkroniseringsläge</string>
   <string name="cloudSyncModeNames1">Manuellt: Klicka manuellt på knappen Synk längst ned i redigeraren varje gång du behöver synkronisera. Det här läget är lämpligt för molnlagring med gränser för trafik och begäranden.\n</string>
-  <string name="cloudSyncModeNames2">Halvautomatisk: Varje gång det sker en textändring och det mjuka tangentbordet stängs, kommer synkroniseringen att utföras automatiskt, och intervallet mellan två automatiska synkroniseringar kommer att vara minst 6 sekunder. Det här läget är lämpligt för molnlagring utan trafik och begäranden om frekvensbegränsningar, som Dropbox eller GoogleDrive.</string>
+  <string name="cloudSyncModeNames2">Halvautomatisk: Varje gång det sker en textändring och det mjuka tangentbordet stängs, kommer synkroniseringen att utföras automatiskt, och intervallet mellan två automatiska synkroniseringar kommer att vara minst 6 sekunder.</string>
   <string name="syncBeforeEditingToAvoidConflicts">Synkronisera före redigering för att undvika konflikter</string>
   <string name="okSyncIt">OK, synkronisera det</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Du har ändrat den aktuella artikeln på andra enheter, för att undvika konflikter, vänligen synkronisera först, annars kan dina ändringar på andra enheter kasseras.</string>
@@ -705,4 +705,5 @@
   <string name="tag">Märka</string>
   <string name="tags">Taggar</string>
   <string name="tipNewTag">Det här är bokmärket 🏷️️ funktionen. Om du behöver ställa in en tagg för en bok och visa den högst upp måste du trycka länge på bokobjektet på skärmen Böcker och sedan välja menyn Redigera bok. I dialogrutan för att skapa eller redigera en bok kan du ställa in bokens taggar.</string>
+  <string name="clickHereToSelectAnotherCloudStorageType">Klicka här för att välja en annan typ av molnlagring</string>
 </resources>

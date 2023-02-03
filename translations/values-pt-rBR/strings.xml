@@ -107,10 +107,10 @@
   <string name="summaryBackupToLocal">O arquivo de backup será salvo localmente em Documents/PureWriter/Backups</string>
   <string name="summaryBackupToCloud">O arquivo de backup será salvo em seu serviço de armazenamento em nuvem se definido</string>
   <string name="restoreBackup">Restaurar backup</string>
-  <string name="summaryRestoreTheBackup">O arquivo de backup será recuperado de Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto e de WebDAV ou Dropbox ou GoogleDrive</string>
+  <string name="summaryRestoreTheBackup">O arquivo de backup será recuperado de Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto e seu armazenamento em nuvem.</string>
   <string name="backupSuccessful">Backup feito com sucesso</string>
   <string name="restoreSuccessful">Backup recuperado com sucesso</string>
-  <string name="tipBackupList">Aqui estão seus arquivos de backup. Você pode tocar para restaurá-los.\n<b>Se você deseja recuperar arquivos de backup de GoogleDrive/Dropbox/WebDAV, por favor, faça o login na sua conta GoogleDrive/Dropbox/WebDAV primeiro!</b></string>
+  <string name="tipBackupList">Aqui estão seus arquivos de backup. Você pode clicar para restaurá-los.\n<b>Se você deseja recuperar arquivos de backup em nuvem de seu armazenamento em nuvem, faça login em sua conta Dropbox/WebDAV/GoogleDrive/OneDrive primeiro!</b></string>
   <string name="tipBackupNotExist">O arquivo de backup não existe. Por favor, mova o arquivo de backup para Documents/PureWriter/Backups e tente novamente.</string>
   <string name="wordCountMode">Contagem de palavras</string>
   <string-array name="wordCountModeEntries">
@@ -200,7 +200,7 @@
   <string name="bridgeUpload">Sincronizar: enviar</string>
   <string name="bridgeDownload">Sincronizar: baixar</string>
   <string name="backupSettingTitle">Backup e sincronização de nuvens</string>
-  <string name="backupSettingSummary">Backup, Restaurar e Dropbox / WebDAV / Google Drive</string>
+  <string name="backupSettingSummary">Backup, Restaurar e Dropbox / WebDAV / GoogleDrive / OneDrive...</string>
   <string name="syncNetwork">Backup na Nuvem</string>
   <string name="syncOnlyWifi">Sincronizar backup com Cloud apenas quando o Wi-Fi estiver ativado</string>
   <string name="syncAllNetworks">Sincronizar backup com Cloud em todas as redes</string>
@@ -718,7 +718,7 @@
   <string name="syncCategoryTip">Necessidade de entrar na conta de armazenamento na nuvem acima para permitir a opção de sincronização da nuvem abaixo</string>
   <string name="cloudSyncMode">Opções do modo de sincronização de nuvens</string>
   <string name="cloudSyncModeNames1">Manualmente: Manualmente, clique no botão Sync na parte inferior do editor cada vez que precisar sincronizar. Este modo é adequado para armazenamento em nuvem com tráfego e limites de freqüência de solicitação.\n</string>
-  <string name="cloudSyncModeNames2">Semi-automático: Toda vez que houver uma mudança de texto e o teclado suave for fechado, a sincronização será realizada automaticamente, e o intervalo entre duas sincronizações automáticas será de pelo menos 6 segundos. Este modo é adequado para armazenamento em nuvem sem restrições de tráfego e freqüência de solicitação, como o Dropbox ou o GoogleDrive.</string>
+  <string name="cloudSyncModeNames2">Semi-automático: Toda vez que houver uma mudança de texto e o teclado suave for fechado, a sincronização será realizada automaticamente, e o intervalo entre duas sincronizações automáticas será de pelo menos 6 segundos.</string>
   <string name="syncBeforeEditingToAvoidConflicts">Sync before editing to avoid conflicts</string>
   <string name="okSyncIt">OK, sync it</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Você modificou o artigo atual em outros dispositivos, a fim de evitar conflitos, por favor sincronize primeiro, caso contrário suas modificações em outros dispositivos podem ser descartadas.</string>
@@ -741,4 +741,5 @@
   <string name="tag">Etiqueta</string>
   <string name="tags">Etiquetas</string>
   <string name="tipNewTag">Esta é a etiqueta do livro 🏷️️ função. Se você precisar definir uma etiqueta para um livro e exibi-la no topo, você precisa pressionar por muito tempo o item do livro na tela Livros, e então selecionar o menu Editar Livro. No diálogo para criar ou editar um livro, você pode definir as tags do livro.</string>
+  <string name="clickHereToSelectAnotherCloudStorageType">Clique aqui para selecionar outro tipo de armazenamento em nuvem</string>
 </resources>

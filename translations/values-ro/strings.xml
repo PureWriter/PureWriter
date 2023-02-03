@@ -73,7 +73,7 @@
   <string name="summaryBackupToLocal">Filele de backup vor fi salvate în Documents/PureWriter/Backups</string>
   <string name="summaryBackupToCloud">Filele de backup vor fi salvate în spațiul de stocare în cloud, dacă este setat</string>
   <string name="restoreBackup">Restabilește copia de rezervă</string>
-  <string name="summaryRestoreTheBackup">Filele de backup vor fi recuperate din Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto și din WebDAV sau Dropbox sau GoogleDrive</string>
+  <string name="summaryRestoreTheBackup">Fișierul de rezervă va fi preluat din Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto și din spațiul de stocare în cloud.</string>
   <string name="backupSuccessful">Backup reușit</string>
   <string name="restoreSuccessful">Backup restaurat cu succes</string>
   <string name="tipBackupNotExist">Filele de backup nu există. Vă rugăm să plasați fișierul de backup în Documents/PureWriter/Backups și încercați din nou.</string>
@@ -559,7 +559,7 @@
   <string name="proReadMe">"Dacă considerați că Pure Writer este de ajutor și doriți ca acesta să continue să se dezvolte, vă deranjează să contribuiți cu câțiva dolari dezvoltatorului?\n\nSuportul dvs. încurajează dezvoltatorii independenți ca mine să dezvolte și aduceți-vă mai multe aplicații bine construite. \n\nPentru a vă sprijini, puteți da clic pe butonul Google Play. <b>După contribuție, veți primi funcții Pro precum Material Design 2, Outline, Export, Custom Paper/Fondal și De asemenea, actualizările viitoare gratuite, ca semn de apreciere.</b>\nDatorită susținătorilor ca dvs., Pure Writer se străduiește să fie mai bun și actualizat. În cele din urmă, vă mulțumim pentru sprijin! „</string>
   <string name="copied">Copiat</string>
   <string name="enabled">Activat</string>
-  <string name="tipBackupList">Iată fișierele dvs. de rezervă. Puteți face clic pentru a le restaura.\n<b>Dacă doriți să preluați fișierele de rezervă din Dropbox/WebDAV/GoogleDrive, vă rugăm să vă conectați mai întâi la contul dvs. Dropbox/WebDAV/GoogleDrive!</b></string>
+  <string name="tipBackupList">Iată fișierele de rezervă. Puteți să faceți clic pentru a le restabili.\n<b>Dacă doriți să preluați fișiere de rezervă în cloud din spațiul de stocare în cloud, vă rugăm să vă conectați mai întâi la contul Dropbox/WebDAV/GoogleDrive/OneDrive!</b></string>
   <string name="fab">Buton de acțiune flotant de pornire</string>
   <string name="more">Mai multe</string>
   <string name="trash">Coș de gunoi</string>
@@ -578,7 +578,7 @@
   <string name="fixedSync">Pont</string>
   <string name="bridgeUpload">Pont: Încărcați</string>
   <string name="bridgeDownload">Pont: Preluare</string>
-  <string name="backupSettingSummary">Backup, Restaurare, Dropbox, WebDAV, Google Drive</string>
+  <string name="backupSettingSummary">Backup, Restaurare, Dropbox, WebDAV, GoogleDrive, OneDrive...</string>
   <string name="syncNetwork">Copie de rezervă în cloud</string>
   <string name="unlockPro">Deblocați Pro</string>
   <string name="edit">Editare</string>
@@ -693,7 +693,7 @@
   <string name="syncCategoryTip">Trebuie să vă conectați la contul de stocare în cloud de mai sus pentru a activa opțiunea de sincronizare în cloud de mai jos</string>
   <string name="cloudSyncMode">Opțiuni pentru modul de sincronizare în cloud</string>
   <string name="cloudSyncModeNames1">Manual: faceți clic manual pe butonul Sincronizare din partea de jos a editorului de fiecare dată când trebuie să sincronizați. Acest mod este potrivit pentru stocarea în cloud cu limite de trafic și frecvență de solicitare.\n</string>
-  <string name="cloudSyncModeNames2">Semi-automat: De fiecare dată când are loc o schimbare de text și tastatura soft este închisă, sincronizarea se va efectua automat, iar intervalul dintre două sincronizări automate va fi de cel puțin 6 de secunde. Acest mod este potrivit pentru stocarea în cloud fără restricții de trafic și de frecvență, cum ar fi Dropbox sau GoogleDrive.</string>
+  <string name="cloudSyncModeNames2">Semi-automat: De fiecare dată când are loc o schimbare de text și tastatura soft este închisă, sincronizarea se va efectua automat, iar intervalul dintre două sincronizări automate va fi de cel puțin 6 de secunde.</string>
   <string name="syncBeforeEditingToAvoidConflicts">Sincronizați înainte de editare pentru a evita conflictele</string>
   <string name="okSyncIt">OK, sincronizați-l</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Ați modificat articolul curent pe alte dispozitive, pentru a evita conflictele, vă rugăm să sincronizați mai întâi, altfel modificările dvs. de pe alte dispozitive pot fi eliminate.</string>
@@ -716,4 +716,5 @@
   <string name="tags">Etichete</string>
   <string name="tag">Etichetă</string>
   <string name="tipNewTag">Aceasta este funcția book tag 🏷️️. Dacă trebuie să setați o etichetă pentru o carte și să o afișați în partea de sus, trebuie să apăsați lung elementul de carte din ecranul Cărți, apoi să selectați meniul Editare carte. În caseta de dialog pentru crearea sau editarea unei cărți, puteți seta etichetele cărții.</string>
+  <string name="clickHereToSelectAnotherCloudStorageType">Faceți clic aici pentru a selecta un alt tip de stocare în cloud</string>
 </resources>

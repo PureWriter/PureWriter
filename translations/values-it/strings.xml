@@ -108,10 +108,10 @@
   <string name="summaryBackupToLocal">File di Backup file in salvataggio su Documents/PureWriter/Backups</string>
   <string name="summaryBackupToCloud">File di Backup file in salvataggio su memoria cloud storage, se impostata</string>
   <string name="restoreBackup">Recupero backup</string>
-  <string name="summaryRestoreTheBackup">Backup in recupero da Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto e sul vostro WebDAV o su Dropbox o su GoogleDrive</string>
+  <string name="summaryRestoreTheBackup">Il file di backup verrà recuperato da Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto e dall\'archivio cloud.</string>
   <string name="backupSuccessful">Effettuato Backup con successo</string>
   <string name="restoreSuccessful">Effettuato recuero del Backup con successo</string>
-  <string name="tipBackupList">Qui ci sono i vostri file di backup. Puoi fare click per recuperarli\n<b>Se desideri recuperare i file backup da Dropbox / GoogleDrive / WebDAV, effettua prima il login al tuo Dropbox / GoogleDrive / WebDAV!</b></string>
+  <string name="tipBackupList">Ecco i tuoi file di backup. Puoi fare clic per ripristinarli.\n<b>Se desideri recuperare i file di backup nel cloud dal tuo archivio cloud, accedi prima al tuo account Dropbox/WebDAV/GoogleDrive/OneDrive!</b></string>
   <string name="tipBackupNotExist">Il file di backup non esiste. Pregasi posizionare il file di backup nella directory Documents/PureWriter/Backups e riprovare nuovamente.</string>
   <string name="wordCountMode">Modo conteggio parole</string>
   <string-array name="wordCountModeEntries">
@@ -201,7 +201,7 @@
   <string name="bridgeUpload">Bridge: Upload</string>
   <string name="bridgeDownload">Bridge: Recupero</string>
   <string name="backupSettingTitle">Backup e sincronizzazione cloud</string>
-  <string name="backupSettingSummary">Backup, Ripristino, Dropbox, WebDAV, Google Drive</string>
+  <string name="backupSettingSummary">Backup, Ripristino, Dropbox, WebDAV, GoogleDrive, OneDrive...</string>
   <string name="syncNetwork">Cloud Backup</string>
   <string name="syncOnlyWifi">Sincronizza il backup tramite Cloud solo quando il Wi-Fi risulta attivo</string>
   <string name="syncAllNetworks">Sincronizza il backup tramite Cloud su tutte le reti</string>
@@ -666,7 +666,7 @@
   <string name="syncCategoryTip">È necessario accedere all\'account di archiviazione cloud sopra per abilitare l\'opzione di sincronizzazione cloud di seguito</string>
   <string name="cloudSyncMode">Opzioni della modalità di sincronizzazione del cloud</string>
   <string name="cloudSyncModeNames1">Manualmente: fai clic manualmente sul pulsante Sincronizza nella parte inferiore dell\'editor ogni volta che devi sincronizzare. Questa modalità è adatta per l\'archiviazione su cloud con traffico e limiti di frequenza delle richieste.\n</string>
-  <string name="cloudSyncModeNames2">Semiautomatico: Ogni volta che si cambia testo e si chiude la tastiera software, la sincronizzazione verrà eseguita automaticamente e l\'intervallo tra due sincronizzazioni automatiche sarà di almeno 6 secondi. Questa modalità è adatta per l\'archiviazione su cloud senza limitazioni di traffico e frequenza di richiesta, come Dropbox o GoogleDrive.</string>
+  <string name="cloudSyncModeNames2">Semiautomatico: Ogni volta che si cambia testo e si chiude la tastiera software, la sincronizzazione verrà eseguita automaticamente e l\'intervallo tra due sincronizzazioni automatiche sarà di almeno 6 secondi.</string>
   <string name="syncBeforeEditingToAvoidConflicts">Sincronizza prima della modifica per evitare conflitti</string>
   <string name="okSyncIt">OK, sincronizzalo</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Hai modificato l\'articolo corrente su altri dispositivi, per evitare conflitti, sincronizza prima, altrimenti le tue modifiche su altri dispositivi potrebbero essere annullate.</string>
@@ -689,4 +689,5 @@
   <string name="tag">Etichetta</string>
   <string name="tags">Etichette</string>
   <string name="tipNewTag">Questa è la funzione tag del libro 🏷️️. Se devi impostare un tag per un libro e visualizzarlo in alto, devi premere a lungo l\'elemento del libro nella schermata Libri, quindi selezionare il menu Modifica libro. Nella finestra di dialogo per creare o modificare un libro, puoi impostare i tag del libro.</string>
+  <string name="clickHereToSelectAnotherCloudStorageType">Fare clic qui per selezionare un altro tipo di archiviazione cloud</string>
 </resources>

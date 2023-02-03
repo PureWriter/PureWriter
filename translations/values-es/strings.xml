@@ -106,10 +106,10 @@
   <string name="summaryBackupToLocal">El archivo de la Copia de Seguridad será guardado en Documents/PureWriter/Backups</string>
   <string name="summaryBackupToCloud">El archivo de la Copia de Seguridad se guardará en el almacenamiento de la nube en caso de que esté configurado.</string>
   <string name="restoreBackup">Restaurar la Copia de Seguridad</string>
-  <string name="summaryRestoreTheBackup">El archivo de la Copia de Seguridad será recuperado de Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto y de WebDAV o Dropbox/GoogleDrive</string>
+  <string name="summaryRestoreTheBackup">El archivo de copia de seguridad se recuperará de Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto y su almacenamiento en la nube.</string>
   <string name="backupSuccessful">La Copia de Seguridad fue exitosa</string>
   <string name="restoreSuccessful">La Copia de Seguridad fue restaurada exitosamente</string>
-  <string name="tipBackupList">Aquí estarán tus archivos de las Copias de Seguridad. Puedes hacer clic para restaurarlos.\n<b>Si deseas recuperar las Copias de Seguridad de Dropbox o WebDAV o GoogleDrive, primero inicia sesión en tu cuenta de WebDAV o Dropbox o GoogleDrive.</b></string>
+  <string name="tipBackupList">Aquí están sus archivos de respaldo. Puede hacer clic para restaurarlos.\n<b>Si desea recuperar archivos de copia de seguridad en la nube desde su almacenamiento en la nube, inicie sesión primero en su cuenta de Dropbox/WebDAV/GoogleDrive/OneDrive.</b></string>
   <string name="tipBackupNotExist">No existe un archivo de la Copia de Seguridad. Por favor, mueve la Copia de Seguridad a la carpeta Documents/PureWriter/Backups e inténtalo de nuevo.</string>
   <string name="wordCountMode">Modo de Contador de Palabras</string>
 
@@ -202,7 +202,7 @@
   <string name="bridgeUpload">Puente: Subir</string>
   <string name="bridgeDownload">Puente: Extraer</string>
   <string name="backupSettingTitle">Copia de seguridad y sincronización en la nube</string>
-  <string name="backupSettingSummary">Copia de Seguridad, Restaurar, Dropbox, WebDAV, Google Drive</string>
+  <string name="backupSettingSummary">Copia de Seguridad, Restaurar, Dropbox, WebDAV, GoogleDrive, OneDrive...</string>
   <string name="syncNetwork">Conexión con la Nube</string>
   <string name="syncOnlyWifi">Sincronizar solo cuando la red Wi-Fi esté activado</string>
   <string name="syncAllNetworks">Sincronizar con cualquier red</string>
@@ -690,7 +690,7 @@
   <string name="syncCategoryTip">Debe iniciar sesión en la cuenta de almacenamiento en la nube anterior para habilitar la opción de sincronización en la nube a continuación</string>
   <string name="cloudSyncMode">Opciones del modo de sincronización en la nube</string>
   <string name="cloudSyncModeNames1">Manualmente: haga clic manualmente en el botón Sincronizar en la parte inferior del editor cada vez que necesite sincronizar. Este modo es adecuado para el almacenamiento en la nube con tráfico y límites de frecuencia de solicitudes.\n</string>
-  <string name="cloudSyncModeNames2">Semiautomático: cada vez que haya un cambio de texto y se cierre el teclado virtual, la sincronización se realizará automáticamente y el intervalo entre dos sincronizaciones automáticas será de al menos 6 segundos. Este modo es adecuado para almacenamiento en la nube sin tráfico y restricciones de frecuencia de solicitudes, como Dropbox o GoogleDrive.</string>
+  <string name="cloudSyncModeNames2">Semiautomático: cada vez que haya un cambio de texto y se cierre el teclado virtual, la sincronización se realizará automáticamente y el intervalo entre dos sincronizaciones automáticas será de al menos 6 segundos.</string>
   <string name="syncBeforeEditingToAvoidConflicts">Sincronizar antes de editar para evitar conflictos</string>
   <string name="okSyncIt">OK, sincronizarlo</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Ha modificado el artículo actual en otros dispositivos, para evitar conflictos, sincronice primero, de lo contrario, sus modificaciones en otros dispositivos pueden descartarse.</string>
@@ -713,4 +713,5 @@
   <string name="tags">Etiquetas</string>
   <string name="tag">Etiqueta</string>
   <string name="tipNewTag">Esta es la función booktag 🏷️️. Si necesita establecer una etiqueta para un libro y mostrarlo en la parte superior, debe mantener presionado el elemento del libro en la pantalla Libros y luego seleccionar el menú Editar libro. En el cuadro de diálogo para crear o editar un libro, puede establecer las etiquetas del libro.</string>
+  <string name="clickHereToSelectAnotherCloudStorageType">Haga clic aquí para seleccionar otro tipo de almacenamiento en la nube</string>
 </resources>

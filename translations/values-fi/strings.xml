@@ -96,10 +96,10 @@
   <string name="summaryBackupToLocal">Varmistustiedosto tallennetaan osoitteeseen Documents/PureWriter/Backups</string>
   <string name="summaryBackupToCloud">Varmistustiedosto tallennetaan pilvitallennustilaan, jos se on asetettu</string>
   <string name="restoreBackup">Palauta varmuuskopio</string>
-  <string name="summaryRestoreTheBackup">Varmistustiedosto haetaan Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto ja WebDAV tai Dropbox tai GoogleDrive</string>
+  <string name="summaryRestoreTheBackup">Varmuuskopiotiedosto haetaan tiedostoista Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto ja pilvitallennustilasta.</string>
   <string name="backupSuccessful">Varmistus onnistui</string>
   <string name="restoreSuccessful">Tallennus palautettu onnistuneesti</string>
-  <string name="tipBackupList">Tässä ovat varmuuskopiotiedostot. Voit palauttaa ne napsauttamalla niitä.\n<b>Jos haluat hakea varmuuskopiotiedostot Dropboxista/WebDAV:sta/GoogleDrivesta, kirjaudu ensin Dropbox/WebDAV/GoogleDrive-tilillesi!</b></string>
+  <string name="tipBackupList">Tässä ovat varmuuskopiotiedostosi. Voit palauttaa ne napsauttamalla.\n<b>Jos haluat noutaa pilvivarmuuskopiotiedostoja pilvitallennustilastasi, kirjaudu ensin Dropbox-/WebDAV-/GoogleDrive-/OneDrive-tilillesi!</b></string>
   <string name="tipBackupNotExist">Varmistustiedostoa ei ole olemassa. Aseta varmuuskopiotiedosto kohtaan Documents/PureWriter/Backups ja yritä uudestaan.</string>
   <string name="wordCountMode">Sanojen laskentatila</string>
   <string name="wordCountModeEntriesItem1">Eristä välilyönnit ja rivinvaihdot</string>
@@ -186,7 +186,7 @@
   <string name="bridgeUpload">Bridge: Upload</string>
   <string name="bridgeDownload">Bridge: Fetch</string>
   <string name="backupSettingTitle">Varmuuskopiointi ja pilvisynkronointi</string>
-  <string name="backupSettingSummary">Varmuuskopiointi, palautus, Dropbox, WebDAV, Google Drive</string>
+  <string name="backupSettingSummary">Varmuuskopiointi, palautus, Dropbox, WebDAV, GoogleDrive, OneDrive...</string>
   <string name="syncNetwork">Pilvivarmuuskopio</string>
   <string name="syncOnlyWifi">Synkronoi varmuuskopio pilvipalveluun vain silloin, kun Wi-Fi on käytössä</string>
   <string name="syncAllNetworks">Synkronoi varmuuskopio Cloudiin kaikissa verkoissa</string>
@@ -707,7 +707,7 @@
   <string name="syncCategoryTip">Sinun on kirjauduttava sisään yllä olevalle pilvitallennustilille ottaaksesi käyttöön alla olevan pilvisynkronointivaihtoehdon</string>
   <string name="cloudSyncMode">Pilvisynkronointitilan asetukset</string>
   <string name="cloudSyncModeNames1">Manuaalisesti: Napsauta manuaalisesti editorin alareunassa olevaa Synkronoi-painiketta aina, kun sinun on synkronoitava. Tämä tila sopii pilvitallennustilaan, jossa on liikenne- ja pyyntötaajuusrajoituksia.\n</string>
-  <string name="cloudSyncModeNames2">Puoliautomaattinen: Aina kun tekstiä vaihdetaan ja pehmeä näppäimistö suljetaan, synkronointi suoritetaan automaattisesti ja kahden automaattisen synkronoinnin välinen aika on vähintään 6 sekuntia. Tämä tila sopii pilvitallennustilaan ilman liikenne- ja pyyntötaajuusrajoituksia, kuten Dropbox tai GoogleDrive.</string>
+  <string name="cloudSyncModeNames2">Puoliautomaattinen: Aina kun tekstiä vaihdetaan ja pehmeä näppäimistö suljetaan, synkronointi suoritetaan automaattisesti ja kahden automaattisen synkronoinnin välinen aika on vähintään 6 sekuntia.</string>
   <string name="syncBeforeEditingToAvoidConflicts">Synkronoi ennen muokkaamista ristiriitojen välttämiseksi</string>
   <string name="okSyncIt">OK, synkronoi se</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Olet muokannut nykyistä artikkelia muissa laitteissa. Välttääksesi ristiriidat, synkronoi ensin, muuten muilla laitteilla tekemäsi muutokset voidaan hylätä.</string>
@@ -730,4 +730,5 @@
   <string name="tags">Tunnisteet</string>
   <string name="tag">Tag</string>
   <string name="tipNewTag">Tämä on kirjatunniste 🏷️️ -toiminto. Jos sinun on määritettävä kirjalle tunniste ja näytettävä se yläreunassa, sinun on painettava pitkään kirjakohtaa Kirjat-näytössä ja valittava sitten Muokkaa kirjaa -valikko. Kirjan luonti- tai muokkausikkunassa voit asettaa kirjan tunnisteet.</string>
+  <string name="clickHereToSelectAnotherCloudStorageType">Napsauta tätä valitaksesi toisen pilvitallennustyypin</string>
 </resources>

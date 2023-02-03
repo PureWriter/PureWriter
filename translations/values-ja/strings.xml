@@ -99,10 +99,10 @@
   <string name="backupNow">今すぐバックアップする</string>
   <string name="summaryBackupToLocal">バックアップファイルはパス Documents/PureWriter/Backups に保存されます。</string>
   <string name="restoreBackup">バックアップを復元</string>
-  <string name="summaryRestoreTheBackup">Backup file will be retrieved from Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto and your GoogleDrive or WebDAV or Dropbox</string>
+  <string name="summaryRestoreTheBackup">バックアップ ファイルは、Documents/PureWriter/Backups、Documents/PureWriter/Backups/Auto、およびクラウド ストレージから取得されます。</string>
   <string name="backupSuccessful">バックアップ成功</string>
   <string name="restoreSuccessful">バックアップを正常に復元する</string>
-  <string name="tipBackupList">以下はすべてのバックアップファイルです：クリックしてバックアップを復元する。\n<b>GoogleDrive/Dropbox/WebDAVクラウドからバックアップを取得する場合は、このページに入る前にGoogleDrive/Dropbox/WebDAVアカウントにログインする必要があります。</b></string>
+  <string name="tipBackupList">これがバックアップファイルです。 クリックして復元できます。\n<b>クラウド ストレージからクラウド バックアップ ファイルを取得する場合は、最初に Dropbox/WebDAV/GoogleDrive/OneDrive アカウントにログインしてください!</b></string>
   <string name="tipBackupNotExist">バックアップファイルは存在しません。 バックアップファイルを Documents/PureWriter/Backups に入れてもう一度お試しください</string>
   <string name="wordCountMode">単語数</string>
   <string-array name="wordCountModeEntries">
@@ -186,7 +186,7 @@
   <string name="bridgeUpload">ブリッジ: アップロード</string>
   <string name="bridgeDownload">ブリッジ: ダウンロード</string>
   <string name="backupSettingTitle">バックアップとクラウドの同期</string>
-  <string name="backupSettingSummary">バックアップ、復元、Dropbox, WebDAV, Google Drive</string>
+  <string name="backupSettingSummary">バックアップ、復元、Dropbox, WebDAV, GoogleDrive, OneDrive...</string>
   <string name="syncNetwork">Cloud Backup</string>
   <string name="syncOnlyWifi">Sync backup to Cloud only when Wi-Fi is active</string>
   <string name="syncAllNetworks">Sync backup to Cloud on all networks</string>
@@ -667,7 +667,7 @@
   <string name="syncCategoryTip">以下のクラウド同期オプションを有効にするには、上記のクラウドストレージアカウントにログインする必要があります</string>
   <string name="cloudSyncMode">クラウド同期モードオプション</string>
   <string name="cloudSyncModeNames1">手動：同期が必要になるたびに、エディターの下部にある[同期]ボタンを手動でクリックします。 このモードは、トラフィックとリクエストの頻度が制限されているクラウドストレージに適しています。\n</string>
-  <string name="cloudSyncModeNames2">半自動：テキストが変更されてソフトキーボードが閉じられるたびに、同期が自動的に実行され、2つの自動同期の間隔は少なくとも6秒になります。 このモードは、DropboxやGoogleDriveなど、トラフィックやリクエストの頻度に制限のないクラウドストレージに適しています。</string>
+  <string name="cloudSyncModeNames2">半自動：テキストが変更されてソフトキーボードが閉じられるたびに、同期が自動的に実行され、2つの自動同期の間隔は少なくとも6秒になります。</string>
   <string name="syncBeforeEditingToAvoidConflicts">競合を避けるために編集する前に同期する</string>
   <string name="okSyncIt">OK、同期します</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">他のデバイスで現在の記事を変更しました。競合を避けるために、最初に同期してください。同期しないと、他のデバイスでの変更が破棄される可能性があります。</string>
@@ -690,4 +690,5 @@
   <string name="tags">タグ</string>
   <string name="tag">タグ</string>
   <string name="tipNewTag">これがブックタグ🏷️️機能です。 書籍にタグを設定して上部に表示する必要がある場合は、書籍画面で書籍アイテムを長押しし、[書籍の編集] メニューを選択する必要があります。 ブックを作成または編集するためのダイアログで、ブックのタグを設定できます。</string>
+  <string name="clickHereToSelectAnotherCloudStorageType">ここをクリックして、別のクラウド ストレージ タイプを選択します</string>
 </resources>

@@ -108,10 +108,10 @@
   <string name="summaryBackupToLocal">La sauvegarde sera enregistrée dans Documents/PureWriter/Backups</string>
   <string name="summaryBackupToCloud">La sauvegarde sera enregistrée dans votre espace cloud (si celui-ci a été défini)</string>
   <string name="restoreBackup">Restaurer à partir d\'une sauvegarde</string>
-  <string name="summaryRestoreTheBackup">Le fichier de sauvegarde sera récupéré à partir de Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto et votre WebDAV ou Dropbox ou GoogleDrive</string>
+  <string name="summaryRestoreTheBackup">Le fichier de sauvegarde sera récupéré à partir de Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto et de votre stockage cloud.</string>
   <string name="backupSuccessful">Sauvegarde réussie</string>
   <string name="restoreSuccessful">Restauration réussie</string>
-  <string name="tipBackupList">Vos fichiers de sauvegarde sont ici. Vous pouvez cliquer pour les restaurer.\n<b>Si vous souhaitez récupérer des fichiers de sauvegarde venant de WebDAV/Dropbox/GoogleDrive, veuillez vous connectez à votre compte WebDAV/Dropbox/GoogleDrive d\'abord!</b></string>
+  <string name="tipBackupList">Voici vos fichiers de sauvegarde. Vous pouvez cliquer pour les restaurer.\n<b>Si vous souhaitez récupérer des fichiers de sauvegarde cloud à partir de votre stockage cloud, veuillez d\'abord vous connecter à votre compte Dropbox/WebDAV/GoogleDrive/OneDrive !</b></string>
   <string name="tipBackupNotExist">Le fichier de sauvegarde n\'existe pas. Veuillez placer le fichier dans Documents/PureWriter/Backups et réessayez.</string>
   <string name="wordCountMode">Mode comptage de mots</string>
   <string-array name="wordCountModeEntries">
@@ -201,7 +201,7 @@
   <string name="bridgeUpload">Bridge: envoyer</string>
   <string name="bridgeDownload">Bridge: télécharger</string>
   <string name="backupSettingTitle">Sauvegarde et synchronisation Cloud</string>
-  <string name="backupSettingSummary">Sauvegarder, Restaurer, Dropbox, WebDAV, Google Drive</string>
+  <string name="backupSettingSummary">Sauvegarder, Restaurer, Dropbox, WebDAV, GoogleDrive, OneDrive...</string>
   <string name="syncNetwork">Sauvegarde cloud</string>
   <string name="syncOnlyWifi">Synchroniser la sauvegarde avec le cloud par Wi-Fi seulement</string>
   <string name="syncAllNetworks">Synchroniser la sauvegarde avec le cloud peut importe le réseau (Wi-Fi, données mobiles,…)</string>
@@ -701,7 +701,7 @@
   <string name="syncCategoryTip">Vous devez vous connecter au compte de stockage cloud ci-dessus pour activer l\'option de synchronisation cloud ci-dessous</string>
   <string name="cloudSyncMode">Options de mode de synchronisation cloud</string>
   <string name="cloudSyncModeNames1">Manuellement : Cliquez manuellement sur le bouton Synchroniser en bas de l\'éditeur chaque fois que vous avez besoin de synchroniser. Ce mode convient au stockage dans le cloud avec des limites de trafic et de fréquence de requêtes.\n</string>
-  <string name="cloudSyncModeNames2">Semi-automatique : Chaque fois qu\'il y a un changement de texte et que le clavier logiciel est fermé, la synchronisation sera effectuée automatiquement et l\'intervalle entre deux synchronisations automatiques sera d\'au moins 6 secondes. Ce mode convient au stockage dans le cloud sans restrictions de trafic et de fréquence de demande, comme Dropbox ou GoogleDrive.</string>
+  <string name="cloudSyncModeNames2">Semi-automatique : Chaque fois qu\'il y a un changement de texte et que le clavier logiciel est fermé, la synchronisation sera effectuée automatiquement et l\'intervalle entre deux synchronisations automatiques sera d\'au moins 6 secondes.</string>
   <string name="syncBeforeEditingToAvoidConflicts">Synchroniser avant de modifier pour éviter les conflits</string>
   <string name="okSyncIt">OK, synchronisez-le</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Vous avez modifié l\'article actuel sur d\'autres appareils, afin d\'éviter les conflits, veuillez d\'abord synchroniser, sinon vos modifications sur d\'autres appareils pourraient être ignorées.</string>
@@ -724,4 +724,5 @@
   <string name="tag">Étiquette</string>
   <string name="tags">Mots clés</string>
   <string name="tipNewTag">C\'est la fonction book tag 🏷️️. Si vous devez définir une étiquette pour un livre et l\'afficher en haut, vous devez appuyer longuement sur l\'élément de livre dans l\'écran Livres, puis sélectionner le menu Modifier le livre. Dans la boîte de dialogue de création ou de modification d\'un livre, vous pouvez définir les balises du livre.</string>
+  <string name="clickHereToSelectAnotherCloudStorageType">Cliquez ici pour sélectionner un autre type de stockage cloud</string>
 </resources>

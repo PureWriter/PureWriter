@@ -99,10 +99,10 @@
   <string name="summaryBackupToLocal">A biztonsági másolat fájl a Documents/PureWriter/Backups mappába kerül</string>
   <string name="summaryBackupToCloud">A biztonsági másolat fájl a felhő tárhelyre kerül mentésre, ha be van állítva.</string>
   <string name="restoreBackup">Biztonsági mentés visszaállítása</string>
-  <string name="summaryRestoreTheBackup">A biztonsági másolat fájl a Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto és a WebDAV, Dropbox vagy GoogleDrive mappából lesz letöltve.</string>
+  <string name="summaryRestoreTheBackup">A biztonsági mentési fájl a Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto és a felhőalapú tárhelyből kerül lekérésre.</string>
   <string name="backupSuccessful">Biztonsági mentés sikeres</string>
   <string name="restoreSuccessful">Biztonsági mentés sikeresen visszaállítva</string>
-  <string name="tipBackupList">Itt vannak a biztonsági mentési fájljai. Kattintással visszaállíthatja őket.\n<b>Ha biztonsági mentési fájlokat szeretne lekérni a Dropbox/WebDAV/GoogleDrive-ból, kérjük, először jelentkezzen be Dropbox/WebDAV/GoogleDrive-fiókjába!</b></string>
+  <string name="tipBackupList">Itt vannak a biztonsági mentési fájljai. Kattintson ide a visszaállításukhoz.\n<b>Ha felhőalapú biztonsági mentési fájlokat szeretne lekérni a felhőalapú tárhelyről, kérjük, először jelentkezzen be Dropbox/WebDAV/GoogleDrive/OneDrive-fiókjába!</b></string>
   <string name="tipBackupNotExist">A biztonsági másolat fájl nem létezik. Kérjük, helyezze el a biztonsági másolatot a Documents/PureWriter/Backups könyvtárban, és próbálja meg újra.</string>
   <string name="wordCountMode">Szószámláló üzemmód</string>
   <string name="fab">Lebegő akciógomb</string>
@@ -181,7 +181,7 @@
   <string name="bridgeUpload">Híd: Feltöltés</string>
   <string name="bridgeDownload">Híd: Hozd</string>
   <string name="backupSettingTitle">Biztonsági mentés és felhő szinkronizálás</string>
-  <string name="backupSettingSummary">Biztonsági mentés, visszaállítás, Dropbox, WebDAV, Google Drive</string>
+  <string name="backupSettingSummary">Biztonsági mentés, visszaállítás, Dropbox, WebDAV, GoogleDrive, OneDrive...</string>
   <string name="syncNetwork">Felhőalapú biztonsági mentés</string>
   <string name="syncOnlyWifi">Biztonsági mentés szinkronizálása a felhőbe csak akkor, ha a Wi-Fi aktív</string>
   <string name="syncAllNetworks">Biztonsági mentés szinkronizálása a felhőbe minden hálózaton</string>
@@ -684,7 +684,7 @@
   <string name="syncCategoryTip">Az alábbi felhőszinkronizálási lehetőség engedélyezéséhez be kell jelentkeznie a fenti felhőtárhely-fiókba</string>
   <string name="cloudSyncMode">Felhő szinkronizálási mód beállításai</string>
   <string name="cloudSyncModeNames1">Manuálisan: manuálisan kattintson a szerkesztő alján található Szinkronizálás gombra minden alkalommal, amikor szinkronizálni kell. Ez a mód felhőalapú tárolásra alkalmas forgalom- és kérési gyakoriságkorlátokkal.\n</string>
-  <string name="cloudSyncModeNames2">Félautomata: Minden alkalommal, amikor szövegváltás történik, és a billentyűzetet bezárja, a szinkronizálás automatikusan megtörténik, és két automatikus szinkronizálás közötti intervallum legalább 6 másodperc. Ez a mód alkalmas felhőalapú tárolásra forgalom- és kérési gyakoriság korlátozások nélkül, mint például a Dropbox vagy a GoogleDrive.</string>
+  <string name="cloudSyncModeNames2">Félautomata: Minden alkalommal, amikor szövegváltás történik, és a billentyűzetet bezárja, a szinkronizálás automatikusan megtörténik, és két automatikus szinkronizálás közötti intervallum legalább 6 másodperc.</string>
   <string name="syncBeforeEditingToAvoidConflicts">Szinkronizálás szerkesztés előtt az ütközések elkerülése érdekében</string>
   <string name="okSyncIt">OK, szinkronizálja</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Módosítottad a jelenlegi cikket más eszközökön. Az ütközések elkerülése érdekében először szinkronizáld, különben a többi eszközön végzett módosításaid elvehetők.</string>
@@ -707,4 +707,5 @@
   <string name="tag">Címke</string>
   <string name="tags">Címkék</string>
   <string name="tipNewTag">Ez a könyvcímke 🏷️️ funkció. Ha címkét kell beállítania egy könyvhöz, és meg kell jelenítenie a tetején, akkor hosszan le kell nyomnia a könyvelemet a Könyvek képernyőn, majd válassza ki a Könyv szerkesztése menüt. A könyv létrehozására vagy szerkesztésére szolgáló párbeszédpanelen beállíthatja a könyv címkéit.</string>
+  <string name="clickHereToSelectAnotherCloudStorageType">Kattintson ide egy másik felhőalapú tárolási típus kiválasztásához</string>
 </resources>

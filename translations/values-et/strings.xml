@@ -97,10 +97,10 @@
   <string name="summaryBackupToLocal">Varundusfail salvestatakse kausta Documents/PureWriter/Backups</string>
   <string name="summaryBackupToCloud">Kui see on seadistatud, salvestatakse varufail teie pilvesalvestusse</string>
   <string name="restoreBackup">Taasta varukoopia</string>
-  <string name="summaryRestoreTheBackup">Varundusfail tuuakse alla kaustast Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto ja teie WebDAV-ist või Dropboxist või GoogleDrive\'ist</string>
+  <string name="summaryRestoreTheBackup">Varundusfail tuuakse alla kaustast Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto ja teie pilvesalvestusest.</string>
   <string name="backupSuccessful">Varundamine õnnestus</string>
   <string name="restoreSuccessful">Varukoopia taastamine õnnestus</string>
-  <string name="tipBackupList">See on teie varundatud failid. Nende taastamiseks saate klõpsata.\n<b>Kui soovite varundatud faile Dropboxist/WebDAVist/GoogleDrive\'ist taastada, logige esmalt sisse oma Dropboxi/WebDAVi/GoogleDrive\'i kontole!</b></string>
+  <string name="tipBackupList">Siin on teie varufailid. Nende taastamiseks võite klõpsata.\n<b>Kui soovite pilvesalvestusest pilvevarukoopiafaile tuua, logige esmalt sisse oma Dropboxi/WebDAV-i/GoogleDrive\'i/OneDrive\'i kontole!</b></string>
   <string name="tipBackupNotExist">Koopiafaili ei ole olemas. Palun asetage varukoopiafail Documents/PureWriter/Backups ja proovige uuesti.</string>
   <string name="wordCountMode">Sõnade loendamise režiim</string>
   <string name="wordCountModeEntriesItem1">Välja jätta tühikud ja reavahetused</string>
@@ -185,7 +185,7 @@
   <string name="bridgeUpload">Bridge: Upload</string>
   <string name="bridgeDownload">Bridge: Fetch</string>
   <string name="backupSettingTitle">Varundamine ja pilvesünkroonimine</string>
-  <string name="backupSettingSummary">Varundamine, taastamine, Dropbox, WebDAV, Google Drive</string>
+  <string name="backupSettingSummary">Varundamine, taastamine, Dropbox, WebDAV, GoogleDrive, OneDrive...</string>
   <string name="syncNetwork">Pilvevarundamine</string>
   <string name="syncOnlyWifi">Sünkroonib varukoopia pilve ainult siis, kui Wi-Fi on aktiivne</string>
   <string name="syncAllNetworks">Sünkroonib varukoopia pilve kõigis võrkudes</string>
@@ -700,7 +700,7 @@
   <string name="syncCategoryTip">Peate logima sisse ülalolevale pilvesalvestuse kontole, et lubada allpool pilvesünkroonimine</string>
   <string name="cloudSyncMode">Pilvesünkroonimisrežiimi valikud</string>
   <string name="cloudSyncModeNames1">Käsitsi: iga kord, kui peate sünkroonima, klõpsake redaktori allosas nuppu Sünkrooni käsitsi. See režiim sobib pilvesalvestuseks koos liikluse ja päringu sageduspiirangutega.\n</string>
-  <string name="cloudSyncModeNames2">Poolautomaatne: iga kord, kui toimub tekstimuutus ja pehme klaviatuur suletakse, toimub sünkroonimine automaatselt ja kahe automaatse sünkroonimise vaheline intervall on vähemalt 6 sekundit. See režiim sobib pilvesalvestuseks ilma liiklus- ja päringusageduspiiranguteta, näiteks Dropbox või GoogleDrive.</string>
+  <string name="cloudSyncModeNames2">Poolautomaatne: iga kord, kui toimub tekstimuutus ja pehme klaviatuur suletakse, toimub sünkroonimine automaatselt ja kahe automaatse sünkroonimise vaheline intervall on vähemalt 6 sekundit.</string>
   <string name="syncBeforeEditingToAvoidConflicts">Konfliktide vältimiseks sünkroonige enne muutmist</string>
   <string name="okSyncIt">OK, sünkroonige</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Olete muutnud praegust artiklit teistes seadmetes. Konfliktide vältimiseks sünkroonige esmalt, vastasel juhul võidakse teistes seadmetes tehtud muudatustest loobuda.</string>
@@ -723,4 +723,5 @@
   <string name="tags">Sildid</string>
   <string name="tag">Tag</string>
   <string name="tipNewTag">See on raamatusildi 🏷️️ funktsioon. Kui peate määrama raamatule sildi ja kuvama selle ülaosas, peate raamatute ekraanil pikalt vajutama raamatu üksust ja seejärel valima menüü Redigeeri raamatut. Raamatu loomise või redigeerimise dialoogiaknas saate määrata raamatu silte.</string>
+  <string name="clickHereToSelectAnotherCloudStorageType">Teise pilvesalvestuse tüübi valimiseks klõpsake siin</string>
 </resources>

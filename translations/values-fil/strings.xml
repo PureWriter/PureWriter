@@ -73,7 +73,7 @@
   <string name="summaryBackupToLocal">Ise-save ang backup na file sa Documents/PureWriter/Backups</string>
   <string name="summaryBackupToCloud">Ise-save ang backup na file sa iyong cloud storage kung itatakda</string>
   <string name="restoreBackup">Ibalik ang backup</string>
-  <string name="summaryRestoreTheBackup">Backup file ay kukunin mula sa Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto at sa iyong WebDAV o Dropbox o GoogleDrive</string>
+  <string name="summaryRestoreTheBackup">Ang backup na file ay kukunin mula sa Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto, at sa iyong cloud storage.</string>
   <string name="backupSuccessful">Tagumpay ang backup</string>
   <string name="restoreSuccessful">Matagumpay na naibalik ang backup</string>
   <string name="tipBackupNotExist">Walang backup na file. Pakilagay ang backup na file sa Documents/PureWriter/Backups at subukang muli.</string>
@@ -573,7 +573,7 @@
   <string name="proReadMe">"Kung sa tingin mo ay nakakatulong ang Pure Writer, at nais mong magpatuloy itong umunlad, maiisip mo ba na mag-ambag ng ilang pera sa developer?\n\nHinihikayat ng iyong suporta ang mga independiyenteng developer tulad ko na bumuo at magdala ng higit pang mahusay na mga app sa iyo. \n\nUpang suportahan, maaari kang mag-click sa button ng Google Play. <b>Pagkatapos mag-ambag, makakatanggap ka ng mga Pro feature gaya ng Material Design 2, Outline, Export, Custom Paper / Background at libre din ang mga hinaharap na update bilang tanda ng pagpapahalaga.</b>\nDahil sa mga tagasuportang tulad mo, nagsusumikap ang Pure Writer na maging mas mahusay at updated. Panghuli, salamat sa iyong suporta! "</string>
   <string name="copied">Kopya</string>
   <string name="enabled">Pinagana</string>
-  <string name="tipBackupList">Narito ang iyong mga backup na file. Maaari kang mag-click upang ibalik ang mga ito.\n<b>Kung nais mong kunin ang mga backup na file mula sa Dropbox/WebDAV/GoogleDrive, mangyaring mag-log in sa iyong Dropbox/WebDAV/GoogleDrive account muna!</b></string>
+  <string name="tipBackupList">Narito ang iyong mga backup na file. Maaari kang mag-click upang ibalik ang mga ito.\n<b>Kung nais mong kunin ang cloud backup na mga file mula sa iyong cloud storage, mangyaring mag-log in sa iyong Dropbox/WebDAV/GoogleDrive/OneDrive account muna!</b></string>
   <string name="fab">Home Floating Action Button</string>
   <string name="more">Higit pa</string>
   <string name="trash">Basura</string>
@@ -593,7 +593,7 @@
   <string name="fixedSync">Bridge</string>
   <string name="bridgeUpload">Bridge: Upload</string>
   <string name="bridgeDownload">Bridge: Fetch</string>
-  <string name="backupSettingSummary">Backup, Restore, Dropbox, WebDAV, Google Drive</string>
+  <string name="backupSettingSummary">Backup, Restore, Dropbox, WebDAV, GoogleDrive, OneDrive...</string>
   <string name="syncNetwork">Cloud backup</string>
   <string name="unlockPro">I-unlock ang Pro</string>
   <string name="edit">I-edit</string>
@@ -708,7 +708,7 @@
   <string name="syncCategoryTip">Kailangang mag-log in sa cloud storage account sa itaas upang paganahin ang opsyon sa cloud sync sa ibaba</string>
   <string name="cloudSyncMode">Mga opsyon sa cloud synchronization mode</string>
   <string name="cloudSyncModeNames1">Manu-manong: Manu-manong i-click ang button na I-sync sa ibaba ng editor sa tuwing kailangan mong mag-sync. Angkop ang mode na ito para sa cloud storage na may mga limitasyon sa trapiko at dalas ng paghiling.\n</string>
-  <string name="cloudSyncModeNames2">Semi-awtomatiko: Sa tuwing may pagbabago sa text at sarado ang malambot na keyboard, awtomatikong isasagawa ang pag-synchronize, at ang pagitan sa pagitan ng dalawang awtomatikong pag-synchronize ay hindi bababa sa 6 segundo. Ang mode na ito ay angkop para sa cloud storage na walang trapiko at mga paghihigpit sa dalas ng kahilingan, gaya ng Dropbox o GoogleDrive.</string>
+  <string name="cloudSyncModeNames2">Semi-awtomatiko: Sa tuwing may pagbabago sa text at sarado ang malambot na keyboard, awtomatikong isasagawa ang pag-synchronize, at ang pagitan sa pagitan ng dalawang awtomatikong pag-synchronize ay hindi bababa sa 6 segundo.</string>
   <string name="syncBeforeEditingToAvoidConflicts">I-sync bago mag-edit upang maiwasan ang mga salungatan</string>
   <string name="okSyncIt">OK, i-sync ito</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Binago mo ang kasalukuyang artikulo sa iba pang mga device, upang maiwasan ang mga salungatan, mangyaring i-synchronize muna, kung hindi, ang iyong mga pagbabago sa iba pang mga device ay maaaring itapon.</string>
@@ -730,4 +730,5 @@
   <string name="tag">Tag</string>
   <string name="tags">Mga tag</string>
   <string name="tipNewTag">Ito ang book tag 🏷️️ function. Kung kailangan mong magtakda ng tag para sa isang aklat at ipakita ito sa itaas, dapat mong pindutin nang matagal ang item ng aklat sa screen ng Mga Aklat, at pagkatapos ay piliin ang menu na I-edit ang Aklat. Sa dialog para sa paggawa o pag-edit ng aklat, maaari mong itakda ang mga tag ng aklat.</string>
+  <string name="clickHereToSelectAnotherCloudStorageType">Mag-click dito upang pumili ng isa pang uri ng cloud storage</string>
 </resources>

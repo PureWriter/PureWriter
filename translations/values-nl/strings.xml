@@ -100,10 +100,10 @@
   <string name="backupNow">Nu backuppen</string>
   <string name="summaryBackupToLocal">Het back-upbestand wordt opgeslagen op het pad Documents/PureWriter/Backups</string>
   <string name="restoreBackup">Back-up terugzetten</string>
-  <string name="summaryRestoreTheBackup">Backup file will be retrieved from Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto and your WebDAV or Dropbox or GoogleDrive</string>
+  <string name="summaryRestoreTheBackup">Het back-upbestand wordt opgehaald uit Documenten/PureWriter/Backups, Documenten/PureWriter/Backups/Auto en uw cloudopslag.</string>
   <string name="backupSuccessful">Back-up geslaagd</string>
   <string name="restoreSuccessful">Herstel de back-up met succes</string>
-  <string name="tipBackupList">Het volgende is alle back-upbestanden, klik om de back-up te herstellen. \n<b>Als u back-ups wilt ontvangen van de Dropbox/GoogleDrive/WebDAV-cloud, moet u zich aanmelden bij uw Dropbox/GoogleDrive/WebDAV-account voordat u deze pagina opent!</b></string>
+  <string name="tipBackupList">Hier zijn je back-upbestanden. U kunt op klikken om ze te herstellen.\n<b>Als u back-upbestanden in de cloud wilt ophalen uit uw cloudopslag, log dan eerst in op uw Dropbox/WebDAV/GoogleDrive/OneDrive-account!</b></string>
   <string name="tipBackupNotExist">Het back-upbestand bestaat niet. Plaats het back-upbestand in Documents/PureWriter/Backups en probeer het opnieuw</string>
   <string name="wordCountMode">Word telmodus</string>
   <string-array name="wordCountModeEntries">
@@ -187,7 +187,7 @@
   <string name="bridgeUpload">Brug: Uploaden</string>
   <string name="bridgeDownload">Brug: Download</string>
   <string name="backupSettingTitle">Back-up en cloudsynchronisatie</string>
-  <string name="backupSettingSummary">Back-up, herstel, Dropbox, WebDAV, Google Drive</string>
+  <string name="backupSettingSummary">Back-up, herstel, Dropbox, WebDAV, GoogleDrive, OneDrive...</string>
   <string name="syncNetwork">Cloud back-upnetwerk</string>
   <string name="syncOnlyWifi">Sync backup naar Cloud alleen wanneer Wi-Fi is actief</string>
   <string name="syncAllNetworks">Sync backup naar Cloud op alle netwerken</string>
@@ -696,7 +696,7 @@
   <string name="syncCategoryTip">Moet inloggen op het bovenstaande cloudopslagaccount om de onderstaande cloudsynchronisatie-optie in te schakelen</string>
   <string name="cloudSyncMode">Opties voor cloudsynchronisatiemodus</string>
   <string name="cloudSyncModeNames1">Handmatig: Klik elke keer dat u wilt synchroniseren handmatig op de knop Synchroniseren onder aan de editor. Deze modus is geschikt voor cloudopslag met limieten voor verkeer en verzoekfrequentie.\n</string>
-  <string name="cloudSyncModeNames2">Halfautomatisch: elke keer dat er een tekstwijziging is en het zachte toetsenbord wordt gesloten, wordt de synchronisatie automatisch uitgevoerd en is het interval tussen twee automatische synchronisaties minimaal 6 seconden. Deze modus is geschikt voor cloudopslag zonder verkeer en beperking van de frequentie van verzoeken, zoals Dropbox of GoogleDrive.</string>
+  <string name="cloudSyncModeNames2">Halfautomatisch: elke keer dat er een tekstwijziging is en het zachte toetsenbord wordt gesloten, wordt de synchronisatie automatisch uitgevoerd en is het interval tussen twee automatische synchronisaties minimaal 6 seconden.</string>
   <string name="syncBeforeEditingToAvoidConflicts">Synchroniseren voor het bewerken om conflicten te voorkomen</string>
   <string name="okSyncIt">OK, synchroniseer het</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Je hebt het huidige artikel op andere apparaten aangepast, om conflicten te voorkomen, synchroniseer eerst, anders kunnen je wijzigingen op andere apparaten worden genegeerd.</string>
@@ -719,4 +719,5 @@
   <string name="tag">Label</string>
   <string name="tags">Labels</string>
   <string name="tipNewTag">Dit is de boektag 🏷️️-functie. Als u een label voor een boek wilt instellen en dit bovenaan wilt weergeven, moet u lang op het boekitem in het scherm Boeken drukken en vervolgens het menu Boek bewerken selecteren. In het dialoogvenster voor het maken of bewerken van een boek kunt u de tags van het boek instellen.</string>
+  <string name="clickHereToSelectAnotherCloudStorageType">Klik hier om een ander type cloudopslag te selecteren</string>
 </resources>

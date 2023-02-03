@@ -74,7 +74,7 @@
   <string name="summaryBackupToLocal">Backup fails tiks saglabāts Documents/PureWriter/Backups</string>
   <string name="summaryBackupToCloud">Backup fails tiks saglabāts mākoņkrātuvē, ja tas ir iestatīts</string>
   <string name="restoreBackup">Atjaunot dublējumu</string>
-  <string name="summaryRestoreTheBackup">Aizkopēšanas fails tiks iegūts no Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto un jūsu WebDAV vai Dropbox, vai GoogleDrive</string>
+  <string name="summaryRestoreTheBackup">Dublējuma fails tiks izgūts no sadaļas Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto un jūsu mākoņkrātuvē.</string>
   <string name="backupSuccessful">Aizkopēšana veikta veiksmīgi</string>
   <string name="restoreSuccessful">Aizkopēšana veiksmīgi atjaunota</string>
   <string name="tipBackupNotExist">Apakškopijas fails neeksistē. Lūdzu, ievietojiet dublējuma failu Documents/PureWriter/Backups un mēģiniet vēlreiz.</string>
@@ -564,7 +564,7 @@
   <string name="proReadMe">"Ja uzskatāt, ka Pure Writer ir noderīgs, un vēlaties, lai tas turpinātu attīstīties, vai jūs varētu iemaksāt dažus dolārus izstrādātājam?\n\nJūsu atbalsts mudina tādus neatkarīgus izstrādātājus kā es izstrādāt un piedāvājiet jums vairāk labi izstrādātu lietotņu. \n\nLai atbalstītu, varat noklikšķināt uz Google Play pogas. <b>Pēc ieguldījuma jūs saņemsit Pro funkcijas, piemēram, Material Design 2, Outline, Export, Custom Paper/Fons un arī turpmākos bezmaksas atjauninājumus kā pateicības apliecinājumu.</b>\nTādu atbalstītāju kā jūs, Pure Writer cenšas būt labāks un atjaunināts. Visbeidzot, paldies par atbalstu! "</string>
   <string name="copied">Nokopēts</string>
   <string name="enabled">Iespējots</string>
-  <string name="tipBackupList">Šeit ir jūsu dublējuma faili. Varat noklikšķināt, lai tos atjaunotu.\n<b>Ja vēlaties izgūt dublējuma failus no Dropbox/WebDAV/GoogleDrive, lūdzu, vispirms piesakieties savā Dropbox/WebDAV/GoogleDrive kontā!</b></string>
+  <string name="tipBackupList">Šeit ir jūsu dublējuma faili. Varat noklikšķināt, lai tos atjaunotu.\n<b>Ja vēlaties izgūt mākoņa dublējuma failus no mākoņa krātuves, lūdzu, vispirms piesakieties savā Dropbox/WebDAV/GoogleDrive/OneDrive kontā!</b></string>
   <string name="fab">Mājas peldošā darbības poga</string>
   <string name="more">Vairāk</string>
   <string name="trash">Miskaste</string>
@@ -584,7 +584,7 @@
   <string name="fixedSync">Tilts</string>
   <string name="bridgeUpload">Tilts: augšupielāde</string>
   <string name="bridgeDownload">Tilts: ienest</string>
-  <string name="backupSettingSummary">Dublēšana, atjaunošana, Dropbox, WebDAV, Google disks</string>
+  <string name="backupSettingSummary">Dublēšana, atjaunošana, Dropbox, WebDAV, GoogleDrive, OneDrive...</string>
   <string name="syncNetwork">Mākoņa dublēšana</string>
   <string name="unlockPro">Atbloķēt Pro</string>
   <string name="edit">Rediģēt</string>
@@ -698,7 +698,7 @@
   <string name="syncCategoryTip">Lai iespējotu tālāk norādīto mākoņa sinhronizācijas opciju, jāpiesakās iepriekš minētajā mākoņkrātuves kontā</string>
   <string name="cloudSyncMode">Mākoņu sinhronizācijas režīma opcijas</string>
   <string name="cloudSyncModeNames1">Manuāli: katru reizi, kad nepieciešams sinhronizēt, manuāli noklikšķiniet uz pogas Sinhronizēt redaktora apakšā. Šis režīms ir piemērots mākoņkrātuvei ar trafika un pieprasījumu frekvences ierobežojumiem.\n</string>
-  <string name="cloudSyncModeNames2">Pusautomātiska: katru reizi, kad notiek teksta maiņa un soft tastatūra tiek aizvērta, sinhronizācija tiks veikta automātiski, un intervāls starp divām automātiskajām sinhronizācijām būs vismaz 6 sekundes. Šis režīms ir piemērots mākoņkrātuvei bez trafika un pieprasījuma frekvences ierobežojumiem, piemēram, Dropbox vai GoogleDrive.</string>
+  <string name="cloudSyncModeNames2">Pusautomātiska: katru reizi, kad notiek teksta maiņa un soft tastatūra tiek aizvērta, sinhronizācija tiks veikta automātiski, un intervāls starp divām automātiskajām sinhronizācijām būs vismaz 6 sekundes.</string>
   <string name="syncBeforeEditingToAvoidConflicts">Sinhronizējiet pirms rediģēšanas, lai izvairītos no konfliktiem</string>
   <string name="okSyncIt">Labi, sinhronizējiet to</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Jūs esat mainījis pašreizējo rakstu citās ierīcēs. Lai izvairītos no konfliktiem, lūdzu, vispirms sinhronizējiet, pretējā gadījumā citās ierīcēs veiktās izmaiņas var tikt atmestas.</string>
@@ -721,4 +721,5 @@
   <string name="tags">Tagi</string>
   <string name="tag">Tag</string>
   <string name="tipNewTag">Šī ir grāmatas atzīmes 🏷️️ funkcija. Ja grāmatai ir jāiestata atzīme un tā jāparāda augšpusē, ekrānā Grāmatas ir ilgi jānospiež grāmatas vienums un pēc tam jāatlasa izvēlne Rediģēt grāmatu. Grāmatas izveides vai rediģēšanas dialoglodziņā varat iestatīt grāmatas atzīmes.</string>
+  <string name="clickHereToSelectAnotherCloudStorageType">Noklikšķiniet šeit, lai atlasītu citu mākoņa krātuves veidu</string>
 </resources>

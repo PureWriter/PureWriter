@@ -97,10 +97,10 @@
   <string name="summaryBackupToLocal">Sikringsfilen vil blive gemt i Documents/PureWriter/Backups</string>
   <string name="summaryBackupToCloud">Sikringsfilen vil blive gemt til dit cloudlager, hvis indstillet</string>
   <string name="restoreBackup">Gendannelse af sikkerhedskopi</string>
-  <string name="summaryRestoreTheBackup">Sikringsfilen vil blive hentet fra Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto og din WebDAV eller Dropbox eller GoogleDrive</string>
+  <string name="summaryRestoreTheBackup">Sikkerhedskopieringsfilen vil blive hentet fra Dokumenter/PureWriter/Sikkerhedskopier, Dokumenter/PureWriter/Sikkerhedskopier/Auto og dit skylager.</string>
   <string name="backupSuccessful">Backup lykkedes</string>
   <string name="restoreSuccessful">Sikring af sikkerhedskopi genoprettet med succes</string>
-  <string name="tipBackupList">Her er dine backup-filer. Du kan klikke for at gendanne dem.\n<b>Hvis du ønsker at hente backup-filer fra Dropbox/WebDAV/GoogleDrive, skal du først logge ind på din Dropbox/WebDAV/GoogleDrive-konto!</b></string>
+  <string name="tipBackupList">Her er dine backup-filer. Du kan klikke for at gendanne dem.\n<b>Hvis du ønsker at hente cloud backup-filer fra dit cloudlager, skal du først logge ind på din Dropbox/WebDAV/GoogleDrive/OneDrive-konto!</b></string>
   <string name="tipBackupNotExist">Sikringsfilen findes ikke. Placer venligst sikkerhedskopifilen i Documents/PureWriter/Backups, og prøv igen.</string>
   <string name="wordCountMode">Vordtællingstilstand</string>
   <string name="wordCountModeEntriesItem1">Udelad mellemrum og linjeskift</string>
@@ -189,7 +189,7 @@
   <string name="bridgeUpload">Brug: Upload</string>
   <string name="bridgeDownload">Bro: Fetch</string>
   <string name="backupSettingTitle">Backup &amp; Cloud-synkronisering</string>
-  <string name="backupSettingSummary">Backup, gendannelse, Dropbox, WebDAV, Google Drive</string>
+  <string name="backupSettingSummary">Backup, gendannelse, Dropbox, WebDAV, GoogleDrive, OneDrive...</string>
   <string name="syncNetwork">Cloud-backup</string>
   <string name="syncOnlyWifi">Synkroniser kun sikkerhedskopiering til skyen, når Wi-Fi er aktivt</string>
   <string name="syncAllNetworks">Synkroniser backup til Cloud på alle netværk</string>
@@ -698,7 +698,7 @@
   <string name="syncCategoryTip">Skal logge ind på cloud storage-kontoen ovenfor for at aktivere cloud-synkroniseringsindstillingen nedenfor</string>
   <string name="cloudSyncMode">Muligheder for skysynkroniseringstilstand</string>
   <string name="cloudSyncModeNames1">Manuelt: Klik manuelt på knappen Synkroniser nederst i editoren, hver gang du skal synkronisere. Denne tilstand er velegnet til skylagring med trafik- og anmodningsfrekvensgrænser.\n</string>
-  <string name="cloudSyncModeNames2">Halvautomatisk: Hver gang der er en tekstændring, og det bløde tastatur lukkes, vil synkroniseringen blive udført automatisk, og intervallet mellem to automatiske synkroniseringer vil være mindst 6 sekunder. Denne tilstand er velegnet til skylagring uden trafik og anmodningsfrekvensbegrænsninger, såsom Dropbox eller GoogleDrive.</string>
+  <string name="cloudSyncModeNames2">Halvautomatisk: Hver gang der er en tekstændring, og det bløde tastatur lukkes, vil synkroniseringen blive udført automatisk, og intervallet mellem to automatiske synkroniseringer vil være mindst 6 sekunder.</string>
   <string name="syncBeforeEditingToAvoidConflicts">Synkroniser før redigering for at undgå konflikter</string>
   <string name="okSyncIt">OK, synkroniser det</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Du har ændret den aktuelle artikel på andre enheder, for at undgå konflikter, synkroniser venligst først, ellers kan dine ændringer på andre enheder blive kasseret.</string>
@@ -721,5 +721,6 @@
   <string name="tags">Tags</string>
   <string name="tag">Tag</string>
   <string name="tipNewTag">Dette er bogmærket 🏷️️ funktionen. Hvis du har brug for at indstille et mærke for en bog og vise det øverst, skal du trykke længe på bogelementet på skærmen Bøger og derefter vælge menuen Rediger bog. I dialogen til oprettelse eller redigering af en bog kan du indstille bogens tags.</string>
+  <string name="clickHereToSelectAnotherCloudStorageType">Klik her for at vælge en anden cloud-lagringstype</string>
 </resources>
 

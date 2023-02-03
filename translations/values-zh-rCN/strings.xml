@@ -107,8 +107,8 @@
   <string name="backupNow">立即备份</string>
   <string name="summaryBackupToLocal">备份文件将被保存到 Documents/PureWriter/Backups</string>
   <string name="restoreBackup">恢复备份</string>
-  <string name="summaryRestoreTheBackup">备份文件将从 Documents/PureWriter/Backups 和 Documents/PureWriter/Backups/Auto 和您的 WebDAV 或 Dropbox 或 GoogleDrive 云盘中读取</string>
-  <string name="tipBackupList">以下是备份文件，点击即可恢复备份。\n<b>如果您想从 WebDAV/坚果云/GoogleDrive/Dropbox 云端获取备份，应该先登录你的 WebDAV/坚果云/GoogleDrive/Dropbox 账号后再进入此页面！</b></string>
+  <string name="summaryRestoreTheBackup">备份文件将从 Documents/PureWriter/Backups 和 Documents/PureWriter/Backups/Auto 和您的云存储中读取</string>
+  <string name="tipBackupList">以下是备份文件，点击即可恢复备份。\n<b>如果您想从云端获取云备份，请在纯纯写作设置页面登录您的云存储账号后再进入此页面！</b></string>
   <string name="restoreSuccessful">恢复备份成功</string>
   <string name="tipBackupNotExist">备份文件不存在，请将备份文件置于 Documents/PureWriter/Backups 并重试</string>
   <string name="wordCountMode">字数统计模式与<b>标点符号</b></string>
@@ -193,7 +193,7 @@
   <string name="promptShortcutOrder">排序</string>
   <string name="editShortcut">编辑快捷输入项</string>
   <string name="backupSettingTitle">备份、云备份、云同步</string>
-  <string name="backupSettingSummary">备份、恢复、云同步、Dropbox、WebDAV、GoogleDrive</string>
+  <string name="backupSettingSummary">备份、恢复、云同步、云存储、OneDrive、阿里云盘...</string>
   <string name="syncNetwork">云备份网络</string>
   <string name="syncOnlyWifi">只在 Wi-Fi 网络下才允许自动备份到云盘</string>
   <string name="syncAllNetworks">在所有网络下都允许自动备份到云盘</string>
@@ -273,7 +273,7 @@
   <string name="appEmbeddedFont">纯纯写作自带内嵌字体</string>
   <string name="noInternetConnection">没有网络连接</string>
   <string name="cloudBackup">云备份</string>
-  <string name="cloudConnection">云连接类型（点击此项可切换）</string>
+  <string name="cloudConnection">云连接类型</string>
   <string name="signIn">登录</string>
   <string name="backupToLocalNow">立即备份到本地存储空间</string>
   <string name="backupToCloudNow">立即备份到云端网盘</string>
@@ -347,7 +347,7 @@
   <string name="bridgeSummary">这个功能非常难以理解和使用，不推荐启用它。</string>
   <string name="messageCancelBridgeFeature">从这个版本开始，原有的「云读写」功能被默认隐藏了，因为每天有许多用户反馈告诉我他们不知道这个功能是什么意思，非常抱歉给大家带来困扰！但同时我也因为回复这些反馈花费了大量时间精力——它们本该用于开发和打磨这个产品。所以目前这个功能先默认关闭，如果你喜欢和依赖它，你可以进入备份设置页面底部，将可以看到一个选项来开启它。请谅解，非常感谢！</string>
   <string name="followingBackupsAre">以下是安装当前版本之前的备份</string>
-  <string name="logInToCloudStorage">登录 WebDAV, Dropbox 或 GoogleDrive</string>
+  <string name="logInToCloudStorage">登录云存储/云盘</string>
   <string name="scrollToBottom">聚焦到文末</string>
   <string name="customColorTipOnShortcutPad">提示：在设置页面可修改当前字体颜色</string>
   <string name="textColorSummary">须知：当切换稿纸后，字体颜色会自动恢复到默认颜色。</string>
@@ -741,7 +741,7 @@
   <string name="aboutCloudSync">《关于云同步》</string>
   <string name="syncCategoryTip">需要在上方登录云盘帐号才能启用下方的云同步选项</string>
   <string name="cloudSyncModeNames1">手动：每次需要同步时，手动点击编辑器底部的同步按钮。此模式适用于有流量和请求频次限制的云盘，比如坚果云。\n</string>
-  <string name="cloudSyncModeNames2">半自动：每次有文本变更且收起软键盘时，自动进行同步，两次自动同步间隔时间将最少为 6 秒。此模式适用于无流量和请求频次限制的云盘，比如 Dropbox 或 GoogleDrive。此外，其实坚果云也是可以试试的，<b>纯纯写作会在坚果云过热时暂停自动同步并提示您。</b></string>
+  <string name="cloudSyncModeNames2">半自动：每次有文本变更且收起软键盘时，自动进行同步，两次自动同步间隔时间将最少为 6 秒。</string>
   <string name="cloudSyncModeDefault" translatable="false">SA</string>
   <string name="syncBeforeEditingToAvoidConflicts">先同步再编辑以避免冲突</string>
   <string name="okSyncIt">好的，同步它</string>
@@ -783,4 +783,9 @@
   <string name="tag">标签</string>
   <string name="tags">@string/tag</string>
   <string name="tipNewTag">这是书籍标签 🏷️️ 功能。若您需要对书籍设置标签并显示在顶部，您需要长按书籍列表中的书项目，然后选择编辑书籍菜单，在新建或编辑书籍的对话框中，您可以设置书籍的标签。</string>
+  <string name="titleMoreArticleCreatingOptions">在 ⊕ 按钮里总是显示更多创建文章的选项</string>
+  <string name="summaryMoreArticleCreatingOptions">默认情况下，长按 ⊕ 无论如何都会显示更多创建文章的选项</string>
+  <string name="aliyunLoginExpired">阿里云盘登录过期，请重新登录！</string>
+  <string name="aliyun">阿里云盘</string>
+  <string name="clickHereToSelectAnotherCloudStorageType">点击此处可选择其他云存储类型</string>
 </resources>

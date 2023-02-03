@@ -85,10 +85,10 @@
   <string name="summaryBackupToLocal">Soubor zálohy bude uložen do Documents/PureWriter/Backups</string>
   <string name="summaryBackupToCloud">Soubor zálohy bude uložen do cloudového úložiště, pokud je nastaveno</string>
   <string name="restoreBackup">Obnovení zálohy</string>
-  <string name="summaryRestoreTheBackup">Soubor zálohy bude načten z Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto a vašeho WebDAV nebo Dropboxu či GoogleDrive</string>
+  <string name="summaryRestoreTheBackup">Záložní soubor bude načten z Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto a z vašeho cloudového úložiště.</string>
   <string name="backupSuccessful">Úspěšné zálohování</string>
   <string name="restoreSuccessful">Úspěšně obnovená záloha</string>
-  <string name="tipBackupList">Tady jsou vaše záložní soubory. Kliknutím na ně je můžete obnovit.\n<b>Pokud chcete načíst záložní soubory z Dropbox/WebDAV/GoogleDrive, přihlaste se nejprve ke svému účtu Dropbox/WebDAV/GoogleDrive!</b></string>
+  <string name="tipBackupList">Zde jsou vaše záložní soubory. Kliknutím je obnovíte.\n<b>Pokud si přejete načíst soubory zálohy z cloudu ze svého cloudového úložiště, přihlaste se nejprve ke svému účtu Dropbox/WebDAV/GoogleDrive/OneDrive!</b></string>
   <string name="tipBackupNotExist">Soubor zálohy neexistuje. Umístěte prosím soubor zálohy do Documents/PureWriter/Backups a zkuste to znovu.</string>
   <string name="wordCountMode">Režim počítání slov</string>
   <string name="fab">Tlačítko plovoucí akce Domů</string>
@@ -165,7 +165,7 @@
   <string name="bridgeUpload">Most: Upload</string>
   <string name="bridgeDownload">Můstek: Fetch</string>
   <string name="backupSettingTitle">Zálohování a synchronizace cloudu</string>
-  <string name="backupSettingSummary">Zálohování, obnova, Dropbox, WebDAV, Disk Google</string>
+  <string name="backupSettingSummary">Zálohování, obnova, Dropbox, WebDAV, GoogleDrive, OneDrive...</string>
   <string name="syncNetwork">Zálohování do cloudu</string>
   <string name="syncOnlyWifi">Synchronizovat zálohu do cloudu pouze při aktivní Wi-Fi</string>
   <string name="syncAllNetworks">Synchronizovat zálohu do Cloudu ve všech sítích</string>
@@ -694,7 +694,7 @@
   <string name="syncCategoryTip">Chcete-li povolit níže uvedenou možnost synchronizace s cloudem, musíte se přihlásit k účtu cloudového úložiště výše</string>
   <string name="cloudSyncMode">Možnosti režimu synchronizace s cloudem</string>
   <string name="cloudSyncModeNames1">Ručně: Pokaždé, když potřebujete synchronizovat, klikněte ručně na tlačítko Synchronizovat ve spodní části editoru. Tento režim je vhodný pro cloudové úložiště s omezením provozu a frekvence požadavků.\n</string>
-  <string name="cloudSyncModeNames2">Poloautomatické: Při každé změně textu a zavření softwarové klávesnice se synchronizace provede automaticky a interval mezi dvěma automatickými synchronizacemi bude alespoň 6 sekund. Tento režim je vhodný pro cloudová úložiště bez provozu a omezení frekvence požadavků, jako je Dropbox nebo GoogleDrive.</string>
+  <string name="cloudSyncModeNames2">Poloautomatické: Při každé změně textu a zavření softwarové klávesnice se synchronizace provede automaticky a interval mezi dvěma automatickými synchronizacemi bude alespoň 6 sekund.</string>
   <string name="syncBeforeEditingToAvoidConflicts">Před úpravou synchronizujte, abyste předešli konfliktům</string>
   <string name="okSyncIt">OK, synchronizujte to</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Upravili jste aktuální článek na jiných zařízeních, abyste předešli konfliktům, nejprve jej prosím synchronizujte, jinak mohou být vaše úpravy na jiných zařízeních zahozeny.</string>
@@ -717,4 +717,5 @@
   <string name="tag">Štítek</string>
   <string name="tags">Tagy</string>
   <string name="tipNewTag">Toto je funkce knižní značky 🏷️️. Pokud potřebujete pro knihu nastavit značku a zobrazit ji nahoře, musíte dlouze stisknout položku knihy na obrazovce Knihy a poté vybrat nabídku Upravit knihu. V dialogu pro vytvoření nebo úpravu knihy můžete nastavit značky knihy.</string>
+  <string name="clickHereToSelectAnotherCloudStorageType">Kliknutím sem vyberete jiný typ cloudového úložiště</string>
 </resources>

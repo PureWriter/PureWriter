@@ -105,8 +105,8 @@
   <string name="backupNow">立即備份</string>
   <string name="summaryBackupToLocal">備份文件將被儲存到 Documents/PureWriter/Backups</string>
   <string name="restoreBackup">復原備份</string>
-  <string name="summaryRestoreTheBackup">備份文件將從 Documents/PureWriter/Backups 和 Documents/PureWriter/Backups/Auto 和您的 WebDAV 或 Dropbox 或 GoogleDrive 雲盤中讀取</string>
-  <string name="tipBackupList">以下是備份文件，點擊即可復原備份。\n<b>如果您想從 GoogleDrive/Dropbox/WebDAV 雲端獲取備份，應該先登入你的 GoogleDrive/Dropbox/WebDAV 賬號後再進入此頁面！</b></string>
+  <string name="summaryRestoreTheBackup">備份文件將從 Documents/PureWriter/Backups 和 Documents/PureWriter/Backups/Auto 和您的雲存儲中讀取</string>
+  <string name="tipBackupList">以下是備份文件，點擊即可恢復備份。\n<b>如果您想從雲端獲取雲備份，請在純純寫作設置頁面登錄您的雲存儲賬號後再進入此頁面！</b></string>
   <string name="restoreSuccessful">復原備份成功</string>
   <string name="tipBackupNotExist">備份文件不存在，請將備份文件置於 Documents/PureWriter/Backups 並重試</string>
   <string name="wordCountMode">字數統計模式與<b>標點符號</b></string>
@@ -191,7 +191,7 @@
   <string name="promptShortcutOrder">排序</string>
   <string name="editShortcut">編輯快速輸入項</string>
   <string name="backupSettingTitle">備份、雲備份、雲同步</string>
-  <string name="backupSettingSummary">備份、恢復、雲同步、Dropbox、WebDAV、GoogleDrive</string>
+  <string name="backupSettingSummary">備份、恢復、云同步、雲存儲、OneDrive、阿里雲盤、Dropbox、GoogleDrive...</string>
   <string name="syncNetwork">雲備份網絡</string>
   <string name="syncOnlyWifi">只在 Wi-Fi 網絡下才允許自動備份到雲盤</string>
   <string name="syncAllNetworks">在所有網絡下都允許自動備份到雲盤</string>
@@ -270,7 +270,7 @@
   <string name="appEmbeddedFont">純純寫作自帶內嵌字體</string>
   <string name="noInternetConnection">沒有網絡連接</string>
   <string name="cloudBackup">雲備份</string>
-  <string name="cloudConnection">雲連接類型（點擊此項可切換）</string>
+  <string name="cloudConnection">雲連接類型</string>
   <string name="signIn">登入</string>
   <string name="backupToLocalNow">立即備份到本機存儲空間</string>
   <string name="backupToCloudNow">立即備份到雲端網盤</string>
@@ -344,7 +344,7 @@
   <string name="bridgeSummary">這個功能非常難以理解和使用，不推薦啟用它。</string>
   <string name="messageCancelBridgeFeature">從這個版本開始，原有的「雲讀寫」功能被默認隱藏了，因為每天有許多用戶反饋告訴我他們不知道這個功能是甚麼意思，非常抱歉給大家帶來困擾！但同時我也因為回復這些反饋花費了大量時間精力——它們本該用於開發和打磨這個產品。所以目前這個功能先默認關閉，如果你喜歡和依賴它，你可以進入備份設置頁面底部，將可以看到一個選項來開啟它。請諒解，非常感謝！</string>
   <string name="followingBackupsAre">以下是安裝當前版本之前的備份</string>
-  <string name="logInToCloudStorage">登錄 WebDAV, Dropbox 或 GoogleDrive</string>
+  <string name="logInToCloudStorage">登錄雲存儲/雲盤</string>
   <string name="scrollToBottom">聚焦到文末</string>
   <string name="textColor">編輯器字體顏色</string>
   <string name="textColorSummary">須知：當切換稿紙後，字體顏色會自動恢復到默認顏色。</string>
@@ -742,7 +742,7 @@
   <string name="aboutCloudSync">《關於云同步》</string>
   <string name="syncCategoryTip">需要登錄上面的雲存儲賬號才能開啟下面的云同步選項</string>
   <string name="cloudSyncModeNames1">手動：每次需要同步時，手動點擊編輯器底部的同步按鈕。此模式適用於有流量和請求頻次限制的雲端儲存空間，比如堅果雲。\n</string>
-  <string name="cloudSyncModeNames2">半自動：每次有文字變更且收起軟鍵盤時，自動進行同步，兩次自動同步間隔時間將最少為 6 秒。此模式適用於無流量和請求頻次限制的雲端硬碟，比如 Dropbox 或 GoogleDrive。此外，其實堅果雲也是可以試試的，<b>純純寫作會在堅果雲過熱時暫停自動同步並提示您。</b></string>
+  <string name="cloudSyncModeNames2">半自動：每次有文字變更且收起軟鍵盤時，自動進行同步，兩次自動同步間隔時間將最少為 6 秒。</string>
   <string name="cloudSyncModeDefault" translatable="false">M</string>
   <string name="syncBeforeEditingToAvoidConflicts">先同步再編輯以避免衝突</string>
   <string name="okSyncIt">好的，同步它</string>
@@ -784,4 +784,9 @@
   <string name="tag">標籤</string>
   <string name="tags">標籤</string>
   <string name="tipNewTag">這是書籍標籤 🏷️️ 功能。若您需要對書籍設置標籤並顯示在頂部，您需要長按書籍列表中的書項目，然後選擇編輯書籍菜單，在新建或編輯書籍的對話框中，您可以設置書籍的標籤。</string>
+  <string name="titleMoreArticleCreatingOptions">在 ⊕ 按鈕裏總是顯示更多創建文章的選項</string>
+  <string name="summaryMoreArticleCreatingOptions">默認情況下，長按 ⊕ 無論如何都會顯示更多創建文章的選項</string>
+  <string name="aliyunLoginExpired">阿里雲盤登錄過期，請重新登錄！</string>
+  <string name="aliyun">阿里雲盤</string>
+  <string name="clickHereToSelectAnotherCloudStorageType">點擊此處可選擇其他雲存儲類型</string>
 </resources>

@@ -108,10 +108,10 @@
   <string name="summaryBackupToLocal">File cadangan akan disimpan ke Documents/PureWriter/Backups</string>
   <string name="summaryBackupToCloud">File cadangan akan disimpan ke penyimpanan cloud Anda jika diatur</string>
   <string name="restoreBackup">Kembalikan cadangan</string>
-  <string name="summaryRestoreTheBackup">File cadangan akan diambil dari Documents/PureWriter/Backups, Documents/PureWriter/Backups dan WebDAV atau Dropbox atau GoogleDrive Anda</string>
+  <string name="summaryRestoreTheBackup">File cadangan akan diambil dari Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto dan penyimpanan cloud Anda.</string>
   <string name="backupSuccessful">Pencadangan berhasil</string>
   <string name="restoreSuccessful">Cadangan berhasil dipulihkan</string>
-  <string name="tipBackupList">Ini file cadangan Anda. Anda dapat mengklik untuk memulihkannya.\n<b>Jika Anda ingin mengambil file cadangan dari Dropbox / WebDAV / GoogleDrive, silakan masuk ke akun Dropbox / WebDAV / GoogleDrive Anda terlebih dahulu!</b></string>
+  <string name="tipBackupList">Ini file cadangan Anda. Anda dapat mengeklik untuk memulihkannya.\n<b>Jika Anda ingin mengambil file cadangan awan dari penyimpanan awan Anda, harap masuk ke akun Dropbox/WebDAV/GoogleDrive/OneDrive Anda terlebih dahulu!</b></string>
   <string name="tipBackupNotExist">File cadangan tidak ada. Harap tempatkan file cadangan di Documents/PureWriter/Backups dan coba lagi.</string>
   <string name="wordCountMode">Mode penghitungan kata</string>
   <string-array name="wordCountModeEntries">
@@ -198,7 +198,7 @@
   <string name="bridgeUpload">Jembatan: Unggah</string>
   <string name="bridgeDownload">Jembatan: Ambil</string>
   <string name="backupSettingTitle">Cadangan &amp; sinkronisasi Cloud</string>
-  <string name="backupSettingSummary">Cadangkan, Kembalikan, Dropbox, WebDAV, Google Drive</string>
+  <string name="backupSettingSummary">Cadangkan, Kembalikan, Dropbox, WebDAV, GoogleDrive, OneDrive...</string>
   <string name="syncNetwork">Cloud Backup</string>
   <string name="syncOnlyWifi">Sinkronkan cadangan ke Cloud hanya ketika Wi-Fi aktif</string>
   <string name="syncAllNetworks">Sinkronkan cadangan ke Cloud di semua jaringan</string>
@@ -662,7 +662,7 @@
   <string name="syncCategoryTip">Perlu masuk ke akun penyimpanan cloud di atas untuk mengaktifkan opsi sinkronisasi cloud di bawah</string>
   <string name="cloudSyncMode">Opsi mode sinkronisasi cloud</string>
   <string name="cloudSyncModeNames1">Secara Manual: Klik tombol Sinkronkan secara manual di bagian bawah editor setiap kali Anda perlu menyinkronkan. Mode ini cocok untuk penyimpanan cloud dengan lalu lintas dan batas frekuensi permintaan.\n</string>
-  <string name="cloudSyncModeNames2">Semi-otomatis: Setiap kali ada perubahan teks dan keyboard lunak ditutup, sinkronisasi akan dilakukan secara otomatis, dan interval antara dua sinkronisasi otomatis setidaknya 6 detik. Mode ini cocok untuk penyimpanan cloud tanpa pembatasan lalu lintas dan frekuensi permintaan, seperti Dropbox atau GoogleDrive.</string>
+  <string name="cloudSyncModeNames2">Semi-otomatis: Setiap kali ada perubahan teks dan keyboard lunak ditutup, sinkronisasi akan dilakukan secara otomatis, dan interval antara dua sinkronisasi otomatis setidaknya 6 detik.</string>
   <string name="syncBeforeEditingToAvoidConflicts">Sinkronkan sebelum mengedit untuk menghindari konflik</string>
   <string name="okSyncIt">Oke, sinkronkan</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Anda telah memodifikasi artikel saat ini di perangkat lain, untuk menghindari konflik, harap sinkronkan terlebih dahulu, jika tidak, modifikasi Anda di perangkat lain dapat dibuang.</string>
@@ -685,4 +685,5 @@
   <string name="tags">Tag</string>
   <string name="tag">Tag</string>
   <string name="tipNewTag">Ini adalah fungsi tag buku 🏷️️. Jika Anda perlu mengatur tag untuk buku dan menampilkannya di bagian atas, Anda harus menekan lama item buku di layar Buku, lalu memilih menu Edit Buku. Dalam dialog untuk membuat atau mengedit buku, Anda dapat mengatur tag buku tersebut.</string>
+  <string name="clickHereToSelectAnotherCloudStorageType">Klik di sini untuk memilih jenis penyimpanan cloud lainnya</string>
 </resources>

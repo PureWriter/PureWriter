@@ -72,7 +72,7 @@
   <string name="summaryBackupToLocal">Plik kopii zapasowej zostanie zapisany w Documents/PureWriter/Backups</string>
   <string name="summaryBackupToCloud">Plik kopii zapasowej zostanie zapisany w magazynie w chmurze, jeśli jest ustawiony</string>
   <string name="restoreBackup">Przywróć kopię zapasową</string>
-  <string name="summaryRestoreTheBackup">Plik kopii zapasowej zostanie pobrany z Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto i Twojego WebDAV lub Dropbox lub GoogleDrive</string>
+  <string name="summaryRestoreTheBackup">Plik kopii zapasowej zostanie pobrany z Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto oraz z magazynu w chmurze.</string>
   <string name="backupSuccessful">Kopia zapasowa zakończona sukcesem</string>
   <string name="restoreSuccessful">Kopia zapasowa przywrócona pomyślnie</string>
   <string name="tipBackupNotExist">Plik kopii zapasowej nie istnieje. Proszę umieścić plik kopii zapasowej w Documents/PureWriter/Backups i spróbować ponownie.</string>
@@ -538,7 +538,7 @@
   <string name="proReadMe">"Jeśli uważasz, że Pure Writer jest pomocny i chcesz, aby nadal się rozwijał, czy mógłbyś przekazać kilka dolarów programiście?\n\nTwoje wsparcie zachęca niezależnych programistów, takich jak ja, do rozwijania i udostępnij więcej dobrze zbudowanych aplikacji. \n\nAby uzyskać pomoc, możesz kliknąć przycisk Google Play. <b>Po wniesieniu wkładu otrzymasz funkcje Pro, takie jak Material Design 2, Outline, Export, Custom Paper/Tło i także przyszłe aktualizacje za darmo jako dowód uznania.</b>\nZe względu na zwolenników takich jak Ty, Pure Writer stara się być lepszy i aktualizowany. Na koniec dziękuję za wsparcie! </string>
   <string name="copied">Skopiowane</string>
   <string name="enabled">Włączone</string>
-  <string name="tipBackupList">Oto Twoje pliki kopii zapasowej. Możesz je kliknąć, aby je przywrócić.\n<b>Jeśli chcesz odzyskać pliki kopii zapasowej z Dropbox/WebDAV/GoogleDrive, najpierw zaloguj się na swoje konto Dropbox/WebDAV/GoogleDrive!</b></string>
+  <string name="tipBackupList">Oto pliki kopii zapasowych. Możesz kliknąć, aby je przywrócić.\n<b>Jeśli chcesz odzyskać pliki kopii zapasowej w chmurze z pamięci w chmurze, najpierw zaloguj się na swoje konto Dropbox/WebDAV/GoogleDrive/OneDrive!</b></string>
   <string name="fab">Pływający przycisk akcji w domu</string>
   <string name="more">Więcej</string>
   <string name="trash">Kosz</string>
@@ -557,7 +557,7 @@
   <string name="fixedSync">Mostek</string>
   <string name="bridgeUpload">Mostek: Prześlij</string>
   <string name="bridgeDownload">Mostek: Pobierz</string>
-  <string name="backupSettingSummary">Kopia zapasowa, przywracanie, Dropbox, WebDAV, Dysk Google</string>
+  <string name="backupSettingSummary">Kopia zapasowa, przywracanie, Dropbox, WebDAV, GoogleDrive, OneDrive...</string>
   <string name="syncNetwork">Kopia zapasowa w chmurze</string>
   <string name="unlockPro">Odblokuj Pro</string>
   <string name="edit">Edytuj</string>
@@ -695,7 +695,7 @@
   <string name="syncCategoryTip">Musisz zalogować się na powyższe konto w chmurze, aby włączyć opcję synchronizacji w chmurze poniżej</string>
   <string name="cloudSyncMode">Opcje trybu synchronizacji w chmurze</string>
   <string name="cloudSyncModeNames1">Ręcznie: ręcznie kliknij przycisk Synchronizuj na dole edytora za każdym razem, gdy chcesz przeprowadzić synchronizację. Ten tryb jest odpowiedni do przechowywania w chmurze z ograniczeniami ruchu i częstotliwości żądań.\n</string>
-  <string name="cloudSyncModeNames2">Półautomatyczne: Za każdym razem, gdy następuje zmiana tekstu i zamykana jest klawiatura programowa, synchronizacja zostanie wykonana automatycznie, a odstęp między dwiema automatycznymi synchronizacjami będzie wynosił co najmniej 6 sekund. Ten tryb jest odpowiedni do przechowywania w chmurze bez ograniczeń ruchu i częstotliwości żądań, takich jak Dropbox lub GoogleDrive.</string>
+  <string name="cloudSyncModeNames2">Półautomatyczne: Za każdym razem, gdy następuje zmiana tekstu i zamykana jest klawiatura programowa, synchronizacja zostanie wykonana automatycznie, a odstęp między dwiema automatycznymi synchronizacjami będzie wynosił co najmniej 6 sekund.</string>
   <string name="syncBeforeEditingToAvoidConflicts">Synchronizuj przed edycją, aby uniknąć konfliktów</string>
   <string name="okSyncIt">OK, zsynchronizuj</string>
   <string name="messageSyncBeforeEditingToAvoidConflicts">Zmodyfikowałeś bieżący artykuł na innych urządzeniach, aby uniknąć konfliktów, najpierw wykonaj synchronizację, w przeciwnym razie Twoje modyfikacje na innych urządzeniach mogą zostać odrzucone.</string>
@@ -718,4 +718,5 @@
   <string name="tag">Etykietka</string>
   <string name="tags">Tagi</string>
   <string name="tipNewTag">To jest funkcja znacznika książki 🏷️️. Jeśli chcesz ustawić tag dla książki i wyświetlić go u góry, musisz długo nacisnąć pozycję książki na ekranie Książki, a następnie wybrać menu Edytuj książkę. W oknie dialogowym tworzenia lub edytowania księgi możesz ustawić znaczniki księgi.</string>
+  <string name="clickHereToSelectAnotherCloudStorageType">Kliknij tutaj, aby wybrać inny typ przechowywania w chmurze</string>
 </resources>
