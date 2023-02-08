@@ -3,8 +3,8 @@
   "name": "22.0.0",
   "changelog": {
     "zh": "* 支持「阿里云盘」和 OneDrive 云同步、云备份\n点击此通知即可打开下载页面。",
-    "zh-HK": "* 支持「阿里雲盤」和 OneDrive 云同步、雲備份\n點此通知打開下載頁面，或您可自行訪問 https://t.me/PureWriter 獲得下載。",
-    "zh-TW": "* 支持「阿里雲盤」和 OneDrive 云同步、雲備份\n點此通知打開下載頁面，或您可自行訪問 https://t.me/PureWriter 獲得下載。",
+    "zh-HK": "* 支持「阿里雲盤」和 OneDrive 雲同步、雲備份\n點此通知打開下載頁面，或您可自行訪問 https://t.me/PureWriter 獲得下載。",
+    "zh-TW": "* 支持「阿里雲盤」和 OneDrive 雲同步、雲備份\n點此通知打開下載頁面，或您可自行訪問 https://t.me/PureWriter 獲得下載。",
     "default": "* Support OneDrive Cloud Sync\nClick this to open download page, or you can download it at https://t.me/PureWriter"
   },
   "url": "https://github.com/PureWriter/PureWriter/releases/download/v22.0.4/PureWriter2204w.apk"
