@@ -1,11 +1,11 @@
 {
-  "code": 1210104030,
-  "name": "21.5.0",
+  "code": 1220106030,
+  "name": "22.0.0",
   "changelog": {
-    "zh": "* 修復 打開應用時可能會出現一個錯誤的黑色通知\n点击此通知即可打开下载页面。\n* 更多非常好的更新和优化内容请见应用内更新日志。",
-    "zh-HK": "* 修復 打開應用時可能會出現一個錯誤的黑色通知\n點此通知打開下載頁面，或點擊通知中的「不再提醒」以忽略它\n* 許多非常好的更新和優化內容請見應用內更新日誌。",
-    "zh-TW": "* 修復 打開應用時可能會出現一個錯誤的黑色通知\n點此通知打開下載頁面，或點擊通知中的「不再提醒」以忽略它\n* 許多非常好的更新和優化內容請見應用內更新日誌。",
-    "default": "Click this to open download page or click the Do Not Disturb button in the notification to ignore this update.\n* Fix an incorrect black toast notification appears when opening the app"
+    "zh": "* 支持「阿里云盘」和 OneDrive 云同步、云备份\n点击此通知即可打开下载页面。",
+    "zh-HK": "* 支持「阿里雲盤」和 OneDrive 雲同步、雲備份\n點此通知打開下載頁面，或您可自行訪問 https://t.me/PureWriter 獲得下載。",
+    "zh-TW": "* 支持「阿里雲盤」和 OneDrive 雲同步、雲備份\n點此通知打開下載頁面，或您可自行訪問 https://t.me/PureWriter 獲得下載。",
+    "default": "* Support OneDrive Cloud Sync\nClick this to open download page, or you can download it at https://t.me/PureWriter"
   },
-  "url": "https://github.com/PureWriter/PureWriter/releases/download/v21.4.0/PureWriter2150w.apk"
+  "url": "https://github.com/PureWriter/PureWriter/releases/download/v22.0.4/PureWriter2210w.apk"
 }
