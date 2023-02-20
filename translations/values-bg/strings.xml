@@ -95,6 +95,7 @@
   <string name="warningSavedFailed">Записването на статията е неуспешно. Моля, копирайте съдържанието си и опитайте да рестартирате приложението, за да проверите дали не е изгубено съдържанието.</string>
   <string name="backupNow">Архивиране сега</string>
   <string name="backupToLocalNow">Създаване на резервно копие в локално хранилище сега</string>
+  <string name="backupWithHistoryToLocalNow">Създайте резервно копие в локалното съхранение и включете всички данни.</string>
   <string name="backupToCloudNow">Създаване на резервно копие в облачно хранилище сега</string>
   <string name="summaryBackupToLocal">Файлът с резервното копие ще бъде запазен в Documents/PureWriter/Backups</string>
   <string name="summaryBackupToCloud">Файлът за резервно копие ще бъде запазен в хранилището ви в облака, ако е зададен</string>

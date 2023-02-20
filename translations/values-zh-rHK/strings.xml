@@ -273,6 +273,7 @@
   <string name="cloudConnection">雲連接類型</string>
   <string name="signIn">登入</string>
   <string name="backupToLocalNow">立即備份到本機存儲空間</string>
+  <string name="backupWithHistoryToLocalNow">立即備份到本地存儲空間並包括所有歷史記錄</string>
   <string name="backupToCloudNow">立即備份到雲端網盤</string>
   <string name="summaryBackupToCloud">如果您已設定雲備份，備份文件將存儲到您的雲端存儲空間</string>
   <string name="lockFallback">如果您始終無法解除鎖定，您可以進入您的手機系統設定，移除您的所有指紋，然後重新打開純純寫作即可。</string>
@@ -305,7 +306,7 @@
   <string name="scrollToHideTopBar">滾動以隱藏頂部列</string>
   <string name="doNotOperate">請不要在此過程中切換或修改文章！</string>
   <string name="aboutBackup"><b>《使用者須知：關於備份》</b></string>
-  <string name="backupReadme">純純寫作支持本地備份和雲備份，本地備份是自動進行的，當您重裝純純寫作後，<b>可通過備份來恢復所有文章和啟動狀態</b>。\n\n但是，純純寫作<b>默認不會自動進行雲備份</b>，若要啟用自動雲備份，<b>您需要設置雲備份賬號</b>，在 純純寫作 - 設置 - 備份 頁面可選擇雲備份類型和設置<b>雲備份賬號</b>。\n\n純純寫作雲備份支持 WebDAV / 堅果雲網盤和 Dropbox 網盤。\n\n<b>雲備份非常重要，若您不設置雲備份，則萬一手機丟了、壞了、刷機雙清、恢復出廠設置，都將失去您所有寶貴的創作內容！請務必設置雲備份，萬無一失。</b></string>
+  <string name="backupReadme">純純寫作支持本地備份和雲備份，本地備份是自動進行的，當您重裝純純寫作後，<b>可通過備份來恢復所有文章和啟動狀態</b>。\n\n但是，純純寫作<b>默認不會自動進行雲備份</b>，若要啟用自動雲備份，<b>您需要設置雲備份賬號</b>，在 純純寫作 - 設置 - 備份 頁面可選擇雲備份類型和設置<b>雲備份賬號</b>。\n\n純純寫作雲備份支持 阿里雲盤、堅果云網盤、OneDrive、Dropbox、GoogleDrive 網盤等。\n\n<b>雲備份非常重要，若您不設置雲備份，則萬一手機丟了、壞了、刷機雙清、恢復出廠設置，都將失去您所有寶貴的創作內容！請務必設置雲備份，萬無一失。</b></string>
   <string name="lineSpacing">行間距</string>
   <string name="tipParagraphSpacingInMD">Markdown 模式下不會啟用段落間距</string>
   <string name="defaultX">預設</string>
@@ -788,5 +789,7 @@
   <string name="summaryMoreArticleCreatingOptions">默認情況下，長按 ⊕ 無論如何都會顯示更多創建文章的選項</string>
   <string name="aliyunLoginExpired">阿里雲盤登錄過期，請重新登錄！</string>
   <string name="aliyun">阿里雲盤</string>
+  <string name="oneDrivePersonal">OneDrive - 個人版</string>
   <string name="clickHereToSelectAnotherCloudStorageType">點擊此處可選擇其他雲存儲類型</string>
+  <string name="searchWritingCache">在寫作快取中尋找？</string>
 </resources>

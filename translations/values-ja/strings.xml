@@ -258,6 +258,7 @@
   <string name="cloudConnection">クラウド接続タイプ</string>
   <string name="signIn">ログイン</string>
   <string name="backupToLocalNow">今すぐローカルストレージにバックアップ</string>
+  <string name="backupWithHistoryToLocalNow">ローカルストレージにバックアップして、すべての履歴を含める</string>
   <string name="backupToCloudNow">今すぐクラウドストレージにバックアップ</string>
   <string name="summaryBackupToCloud">バックアップファイルは、設定されている場合はクラウドストレージに保存されます</string>
   <string name="lockFallback">いつもロックを解除できない場合は、お使いの携帯電話のシステム設定に行き、すべての指紋を削除して、Pure Writerを再度開くことができます。</string>

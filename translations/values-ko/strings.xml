@@ -102,6 +102,7 @@
   <string name="warningSavedFailed">문서 저장에 실패했습니다. 콘텐츠를 복사하고 앱을 다시 시작하여 콘텐츠가 손실되었는지 확인하십시오.</string>
   <string name="backupNow">지금 백업하기</string>
   <string name="backupToLocalNow">로컬 스토리지로 백업</string>
+  <string name="backupWithHistoryToLocalNow">로컬 저장소에 백업하고 모든 이력을 포함합니다.</string>
   <string name="backupToCloudNow">클라우드 스토리지로 백업</string>
   <string name="summaryBackupToLocal">백업 파일은 Documents/PureWriter/Backups 에 저장됩니다.</string>
   <string name="summaryBackupToCloud">백업 파일은 설정된 경우 클라우드 저장소에 저장됩니다</string>

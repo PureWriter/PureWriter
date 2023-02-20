@@ -69,6 +69,7 @@
   <string name="warningSavedFailed">Не вдалося зберегти статтю. Скопіюйте свій вміст і спробуйте перезапустити програму, щоб перевірити, чи не втрачено будь-який вміст.</string>
   <string name="backupNow">Створіть резервну копію зараз</string>
   <string name="backupToLocalNow">Створіть резервну копію в локальному сховищі зараз</string>
+  <string name="backupWithHistoryToLocalNow">Зробіть резервну копію на локальному</string>
   <string name="backupToCloudNow">Створіть резервну копію в хмарному сховищі зараз</string>
 
   <string name="summaryBackupToLocal">Файл резервної копії буде збережено в Documents/PureWriter/Backups</string>

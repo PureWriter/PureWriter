@@ -81,6 +81,7 @@
   <string name="warningSavedFailed">Uložení článku se nezdařilo. Zkopírujte prosím obsah a zkuste aplikaci restartovat, abyste zkontrolovali, zda se obsah neztratil.</string>
   <string name="backupNow">Zálohovat nyní</string>
   <string name="backupToLocalNow">Zálohujte nyní do místního úložiště</string>
+  <string name="backupWithHistoryToLocalNow">Zálohujte do místního úložiště a zahrňte veškerou historii.</string>
   <string name="backupToCloudNow">Zálohovat do cloudového úložiště nyní</string>
   <string name="summaryBackupToLocal">Soubor zálohy bude uložen do Documents/PureWriter/Backups</string>
   <string name="summaryBackupToCloud">Soubor zálohy bude uložen do cloudového úložiště, pokud je nastaveno</string>

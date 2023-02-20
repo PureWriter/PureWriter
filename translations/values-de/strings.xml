@@ -93,6 +93,7 @@
   <string name="warningSavedFailed">Artikel speichern fehlgeschlagen. Bitte kopieren Sie Ihre Inhalte und versuchen Sie, die App neu zu starten, um zu prüfen, ob Inhalte verloren gingen.</string>
   <string name="backupNow">Jetzt sichern</string>
   <string name="backupToLocalNow">Jetzt im lokalen Speicher sichern</string>
+  <string name="backupWithHistoryToLocalNow">Sichern Sie auf lokalem Speicher und schließen Sie die gesamte Historie ein.</string>
   <string name="backupToCloudNow">Sichern Sie jetzt in Ihren Cloud-Speicher</string>
   <string name="summaryBackupToLocal">Sicherungsdateien werden in Documents/PureWriter/Backups gespeichert</string>
   <string name="summaryBackupToCloud">Sicherungsdateien werden in Ihrem Cloud-Speicher gespeichert, sofern festgelegt</string>

@@ -259,6 +259,7 @@
   <string name="cloudConnection">Cloudverbindingstype</string>
   <string name="signIn">Log in</string>
   <string name="backupToLocalNow">Maak nu een back-up naar lokale opslag</string>
+  <string name="backupWithHistoryToLocalNow">Maak een back-up naar lokale opslag en neem alle geschiedenis op.</string>
   <string name="backupToCloudNow">Maak nu een back-up naar cloudopslag</string>
   <string name="summaryBackupToCloud">Back-upbestand wordt opgeslagen in uw cloudopslag indien ingesteld</string>
   <string name="lockFallback">Als je het niet altijd kunt ontgrendelen, kun je naar de systeeminstellingen van je telefoon gaan, al je vingerafdrukken verwijderen en Pure Writer opnieuw openen.</string>

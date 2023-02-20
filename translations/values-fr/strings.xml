@@ -104,6 +104,7 @@
   <string name="warningSavedFailed">Sauvegarde de l\'article échouée. Copiez le contenu que vous avez tenté d\'enregistrer et redémarrez l\'app afin de voir si du contenu a été perdu.</string>
   <string name="backupNow">Sauvegarder maintenant</string>
   <string name="backupToLocalNow">Sauvegarder dans le stockage local</string>
+  <string name="backupWithHistoryToLocalNow">Sauvegardez sur le stockage local et incluez tout l\'historique.</string>
   <string name="backupToCloudNow">Sauvegarder dans le cloud</string>
   <string name="summaryBackupToLocal">La sauvegarde sera enregistrée dans Documents/PureWriter/Backups</string>
   <string name="summaryBackupToCloud">La sauvegarde sera enregistrée dans votre espace cloud (si celui-ci a été défini)</string>

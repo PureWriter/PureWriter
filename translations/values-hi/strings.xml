@@ -259,6 +259,7 @@
   <string name="cloudConnection">क्लाउड कनेक्शन प्रकार</string>
   <string name="signIn">लॉग इन करें</string>
   <string name="backupToLocalNow">अब स्थानीय भंडारण तक वापस जाएं</string>
+  <string name="backupWithHistoryToLocalNow">स्थानीय संग्रहण में बैकअप करें और सभी इतिहास शामिल करें।</string>
   <string name="backupToCloudNow">अब क्लाउड स्टोरेज पर बैक अप लें</string>
   <string name="summaryBackupToCloud">सेट होने पर बैकअप फ़ाइल आपके क्लाउड स्टोरेज में सहेजी जाएगी</string>
   <string name="lockFallback">If you can\'t unlock it all the time, you can go to your phone\'s system settings, remove all your fingerprints, and re-open Pure Writer.</string>

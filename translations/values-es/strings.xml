@@ -102,6 +102,7 @@
   <string name="warningSavedFailed">El artículo no se guardó. Copia tu contenido e intenta reiniciar la aplicación para verificar que no se perdió algún contenido.</string>
   <string name="backupNow">Auto-guardar</string>
   <string name="backupToLocalNow">Guardar en el almacenamiento local</string>
+  <string name="backupWithHistoryToLocalNow">Hacer una copia de seguridad en el almacenamiento local e incluir todo el historial.</string>
   <string name="backupToCloudNow">Guardar en la nube</string>
   <string name="summaryBackupToLocal">El archivo de la Copia de Seguridad será guardado en Documents/PureWriter/Backups</string>
   <string name="summaryBackupToCloud">El archivo de la Copia de Seguridad se guardará en el almacenamiento de la nube en caso de que esté configurado.</string>

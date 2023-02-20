@@ -91,6 +91,7 @@
   <string name="warningSavedFailed">Η αποθήκευση του άρθρου απέτυχε. Παρακαλούμε αντιγράψτε το περιεχόμενό σας και δοκιμάστε να επανεκκινήσετε την εφαρμογή για να ελέγξετε αν έχει χαθεί κάποιο περιεχόμενο.</string>
   <string name="backupNow">Διατήρηση αντιγράφων ασφαλείας τώρα</string>
   <string name="backupToLocalNow">Διατηρήστε αντίγραφο ασφαλείας σε τοπικό αποθηκευτικό χώρο τώρα</string>
+  <string name="backupWithHistoryToLocalNow">Αντιγράψτε στην τοπική αποθήκευση και περιλάβετε όλο το ιστορικό.</string>
   <string name="backupToCloudNow">Διαμόρφωση αντιγράφων ασφαλείας σε αποθηκευτικό χώρο στο σύννεφο τώρα</string>
   <string name="summaryBackupToLocal">Το αρχείο αντιγράφων ασφαλείας θα αποθηκευτεί στη διεύθυνση Documents/PureWriter/Backups</string>
   <string name="summaryBackupToCloud">Το αρχείο δημιουργίας αντιγράφων ασφαλείας θα αποθηκευτεί στον αποθηκευτικό χώρο του cloud σας, εάν έχει οριστεί</string>

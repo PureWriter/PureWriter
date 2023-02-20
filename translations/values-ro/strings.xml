@@ -69,6 +69,7 @@
   <string name="warningSavedFailed">Salvarea articolului a eșuat. Vă rugăm să copiați conținutul și să încercați să reporniți aplicația pentru a verifica dacă s-a pierdut vreun conținut.</string>
   <string name="backupNow">Realizați backup-ul acum</string>
   <string name="backupToLocalNow">Realizați acum un backup în memoria locală</string>
+  <string name="backupWithHistoryToLocalNow">Faceți o copie de rezervă în stocarea locală și includeți întreaga istorie.</string>
   <string name="backupToCloudNow">Realizați acum un backup în spațiul de stocare în cloud</string>
   <string name="summaryBackupToLocal">Filele de backup vor fi salvate în Documents/PureWriter/Backups</string>
   <string name="summaryBackupToCloud">Filele de backup vor fi salvate în spațiul de stocare în cloud, dacă este setat</string>

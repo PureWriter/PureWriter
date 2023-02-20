@@ -70,6 +70,7 @@
   <string name="warningSavedFailed">Darba saglabāšana neizdevās. Lūdzu, nokopējiet saturu un mēģiniet no jauna palaist lietotni, lai pārbaudītu, vai saturs nav zaudēts.</string>
   <string name="backupNow">Sagatavo dublējumu tagad</string>
   <string name="backupToLocalNow">Saglabāt dublējumu vietējā krātuvē tagad</string>
+  <string name="backupWithHistoryToLocalNow">Veiciet dublējumu vietējā glabāšanā un iekļaujiet visu vēsturi.</string>
   <string name="backupToCloudNow">Saglabāt dublējuma kopiju mākoņkrātuvē tagad</string>
   <string name="summaryBackupToLocal">Backup fails tiks saglabāts Documents/PureWriter/Backups</string>
   <string name="summaryBackupToCloud">Backup fails tiks saglabāts mākoņkrātuvē, ja tas ir iestatīts</string>

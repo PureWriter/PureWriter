@@ -68,6 +68,7 @@
   <string name="warningSavedFailed">Zapisywanie artykułu nie powiodło się. Proszę skopiować swoją zawartość i spróbować ponownie uruchomić aplikację, aby sprawdzić, czy zawartość nie została utracona.</string>
   <string name="backupNow">Zrób kopię zapasową teraz</string>
   <string name="backupToLocalNow">Teraz wykonaj kopię zapasową na lokalnym nośniku</string>
+  <string name="backupWithHistoryToLocalNow">Wykonaj kopię zapasową na lokalnym magazynie i uwzględnij całą historię.</string>
   <string name="backupToCloudNow">Teraz wykonaj kopię zapasową do pamięci masowej w chmurze</string>
   <string name="summaryBackupToLocal">Plik kopii zapasowej zostanie zapisany w Documents/PureWriter/Backups</string>
   <string name="summaryBackupToCloud">Plik kopii zapasowej zostanie zapisany w magazynie w chmurze, jeśli jest ustawiony</string>

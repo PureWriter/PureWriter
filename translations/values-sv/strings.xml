@@ -92,6 +92,7 @@
   <string name="warningSavedFailed">Sparandet av artikeln misslyckades. Kopiera ditt innehåll och försök att starta om appen för att kontrollera om något innehåll har gått förlorat.</string>
   <string name="backupNow">Säkerhetskopiera nu</string>
   <string name="backupToLocalNow">Säkerhetskopiera till lokal lagring nu</string>
+  <string name="backupWithHistoryToLocalNow">Säkerhetskopiera till lokalt lagringsutrymme och inkludera all historik.</string>
   <string name="backupToCloudNow">Säkerhetskopiera till molnlagring nu</string>
   <string name="summaryBackupToLocal">Säkerhetskopieringsfilen kommer att sparas i Documents/PureWriter/Backups</string>
   <string name="summaryBackupToCloud">Backupfilen sparas till ditt molnlagringsutrymme om den är inställd.</string>

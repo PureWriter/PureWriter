@@ -259,6 +259,7 @@
   <string name="cloudConnection">Тип облачного подключения</string>
   <string name="signIn">Авторизоваться</string>
   <string name="backupToLocalNow">Теперь резервное копирование на локальное хранилище</string>
+  <string name="backupWithHistoryToLocalNow">Создайте резервную копию на локальном накопителе и включите всю историю.</string>
   <string name="backupToCloudNow">Резервное копирование до облачного хранилища</string>
   <string name="summaryBackupToCloud">Резервный файл будет сохранен в вашем облачном хранилище, если он установлен</string>
   <string name="lockFallback">Если вы не можете разблокировать его все время, вы можете перейти к настройкам системы телефона, удалить все свои отпечатки пальцев и снова открыть Pure Writer.</string>

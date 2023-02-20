@@ -103,6 +103,7 @@
   <string name="warningSavedFailed">Falha ao tentar salvar artigo. Por favor, copie seu conteúdo e tente reiniciar o aplicativo para checar se algum conteúdo foi perdido.</string>
   <string name="backupNow">Backup agora</string>
   <string name="backupToLocalNow">Fazer backup para armazenamento local agora</string>
+  <string name="backupWithHistoryToLocalNow">Fazer backup para o armazenamento local e incluir todo o histórico.</string>
   <string name="backupToCloudNow">Fazer backup para armazenamento em nuvem agora</string>
   <string name="summaryBackupToLocal">O arquivo de backup será salvo localmente em Documents/PureWriter/Backups</string>
   <string name="summaryBackupToCloud">O arquivo de backup será salvo em seu serviço de armazenamento em nuvem se definido</string>

@@ -92,6 +92,7 @@
   <string name="warningSavedFailed">Artikkelin tallennus epäonnistui. Kopioi sisältösi ja yritä käynnistää sovellus uudelleen tarkistaaksesi, onko sisältöä menetetty.</string>
   <string name="backupNow">Tallenna varmuuskopio nyt</string>
   <string name="backupToLocalNow">Varmuuskopioi paikalliseen tallennustilaan nyt</string>
+  <string name="backupWithHistoryToLocalNow">Varmuuskopioi paikalliselle tallennustilalle ja sisällytä koko historia.</string>
   <string name="backupToCloudNow">Varmuuskopioi pilvitallennukseen nyt</string>
   <string name="summaryBackupToLocal">Varmistustiedosto tallennetaan osoitteeseen Documents/PureWriter/Backups</string>
   <string name="summaryBackupToCloud">Varmistustiedosto tallennetaan pilvitallennustilaan, jos se on asetettu</string>

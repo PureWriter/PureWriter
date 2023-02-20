@@ -95,6 +95,7 @@
   <string name="warningSavedFailed">A cikk mentése nem sikerült. Kérjük, másolja a tartalmat, és próbálja meg újraindítani az alkalmazást, hogy ellenőrizze, nem veszett-e el tartalom.</string>
   <string name="backupNow">Biztonsági mentés most</string>
   <string name="backupToLocalNow">Biztonsági mentés a helyi tárhelyre most</string>
+  <string name="backupWithHistoryToLocalNow">Mentés a helyi tárolásra és az összes előzményt tartalmazza.</string>
   <string name="backupToCloudNow">Biztonsági mentés felhő tárhelyre most</string>
   <string name="summaryBackupToLocal">A biztonsági másolat fájl a Documents/PureWriter/Backups mappába kerül</string>
   <string name="summaryBackupToCloud">A biztonsági másolat fájl a felhő tárhelyre kerül mentésre, ha be van állítva.</string>

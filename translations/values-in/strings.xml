@@ -104,6 +104,7 @@
   <string name="warningSavedFailed">Gagal menyimpan artikel. Harap salin konten Anda dan coba mulai ulang aplikasi untuk memeriksa apakah ada konten yang hilang.</string>
   <string name="backupNow">Cadangkan sekarang</string>
   <string name="backupToLocalNow">Cadangkan ke penyimpanan lokal sekarang</string>
+  <string name="backupWithHistoryToLocalNow">Cadangkan ke penyimpanan lokal dan termasuk semua riwayat.</string>
   <string name="backupToCloudNow">Cadangkan ke penyimpanan cloud sekarang</string>
   <string name="summaryBackupToLocal">File cadangan akan disimpan ke Documents/PureWriter/Backups</string>
   <string name="summaryBackupToCloud">File cadangan akan disimpan ke penyimpanan cloud Anda jika diatur</string>

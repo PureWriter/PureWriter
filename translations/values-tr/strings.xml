@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="titleHint">Başlık</string>
+  <string name="editorTipAMenu">Önce bazı metinleri seçmeniz gerekecek</string>
+  <string name="editorHintContent">Bazı içerikler yazmaya başlayın...</string>
+  <string name="slogan">Hızlı | Harika deneyim | İçeriğinizi asla kaybetmeyin</string>
+  <string name="iconDesc">Pure Writer\'ın ikonu bir zaman makinesidir\nZaman makinesi ileriye doğru hareket ediyor. Dilek kelimeleri bizi geçmişle ve gelecekle bağlantı kurmaya götürebilir...</string>
+  <string name="undo">Geri Al</string>
+  <string name="redo">Yinele</string>
+  <string name="about">Hakkında | Yardım</string>
+
+  <string name="defaultContent">Tanıştığımıza memnun oldum!\nBu, bizim \"iyi bir yazma deneyimi\" olarak gördüğümüz şeylerle tasarlanmış hızlı bir düz metin düzenleyicisidir. Pure Writer, <b>minimalisttir ve içeriğinizi herhangi bir zamanda, herhangi bir yerde yazmanıza olanak tanırken içeriğinizi tekrar kaybetme korkusu olmadan yazmanızı sağlar.</b>\nPure Writer\'ın satır ve paragraf aralığı özelliğiyle, metninizi daha net ve okuması daha rahat hale getirebilirsiniz. Sadece bu kadar değil, ayrıca kaydırarak klavyeyi gizleme, pürüzsüz kaydırma ve daha birçok heyecan verici özellikle birlikte gelir.\nBasitlik gizli bir karmaşıklıktır. İşinizi parmak izinizle şifreleyebilir, istediğiniz zaman yazmaya başlayabilir veya durdurabilir ve içeriğinizi hızlı bir şekilde diğer uygulamalarla paylaşabilirsiniz - her şeyi sizin için düşündük.\nEn önemlisi, <b>manüel olarak silmediğiniz sürece, bu metin düzenleyicisini kullanırken işinizi asla kaybetmeyeceksiniz. Kazayla silme veya beklenmedik bir kapanma olsa bile, Geçmiş\'ten geri alabilirsiniz.</b>\nDaha fazla özellik: WebDAV bulut yedekleme, Materyal Tasarımı 2 teması, Markdown, daktilo modu, uzun metin resmi olarak dışa aktarma, Zaman Makinesi...\nHızlı ve sorunsuzdur. İstediğiniz zaman yazmaya ara verebilir ve devam edebilirsiniz.\nPure Writer kullanmaktan keyif alın.</string>
+  <string name="share">Başka bir uygulamayla paylaş</string>
+  <string name="copyTitle">Başlığı Kopyala</string>
+  <string name="lock">Kilitle</string>
+  <string name="history">Geçmiş</string>
+  <string name="tipShouldUnlock">Lütfen önce kilidi açın</string>
+  <string name="tipShouldSetupFingerprint">Önce sistem Ayarları\'nda bir parmak izi oluşturun!</string>
+  <string name="sendContentTo">İçeriği gönder: </string>
+  <string name="failedTitleIsEmpty">Başlık boş olamaz</string>
+  <string name="failedContentIsEmpty">İçerik boş olamaz</string>
+  <string name="copyTheTitleSuccessfully">Başlık başarıyla kopyalandı!</string>
+  <string name="copyTheContentSuccessfully">İçerik başarıyla kopyalandı!</string>
+  <string name="titleAndContentAreEmpty">Başlık ve içerik boş!</string>
+  <string name="clearThisContent"><b>Bu içeriği temizle</b></string>
+  <string name="copyContent">İçeriği Kopyala</string>
+  <string name="wordCountShort">Sayım</string>
+  <string name="wordCountLong">Kelime Sayımı</string>
+  <string name="wordCountOfCurrentArticle">Mevcut makalenin Toplam Kelime Sayımı</string>
+  <string name="floatingWordCount">Kayan Kelime Sayımı</string>
+  <string name="historyState">Kaydedildi</string>
+  <string name="tipNeedFingerprint">Görüntülemek ve düzenlemek için, lütfen önce parmak izinizi kullanarak kilidi açın</string>
+  <string name="empty">Boş</string>
+  <string name="isRevertToThisFile">Bu belgeyi kurtarmak istiyor musunuz?</string>
+  <string name="noMore">Daha fazla bir şey yok!</string>
+  <string name="goOn">Devam</string>
+  <string name="reject">Reddet</string>
+  <string name="defaultTitle">Nasıl isterseniz</string>
+  <string name="tipPermissionFailed">İzin verilmedi. Geçmiş kaydedilemez.</string>
+  <string name="titleStorePermissionFailed">Depolama izni reddedildi</string>
+  <string name="tipMessageStoragePermissionFirst">Lütfen depolamanıza erişim izni verin. Pure Writer sadece dosyalarınızı otomatik yedeklemek için kullanacak ve kaybetmenizi önlemek için!</string>
+  <string name="tipMessageStoragePermissionFirstMIUI" translatable="false">Dosyalarınızı otomatik olarak yedeklemek için dosya depolama iznine ihtiyacımız var, bu nedenle izin verin lütfen. \n\nBu izin talebini reddedebilirsiniz, ancak bu, Pure Writer\'ın otomatik yedekleme yapamayacağı anlamına gelir, lütfen bilginiz olsun! \n\nBu izin talebini reddedebilirsiniz, ancak bu, Pure Writer\'ın otomatik yedekleme yapamayacağı anlamına gelir, lütfen bilginiz olsun! \n\nBu izin talebini reddedebilirsiniz, ancak bu, Pure Writer\'ın otomatik yedekleme yapamayacağı anlamına gelir, lütfen bilginiz olsun! \n\nOtomatik yedekleme yapılamaması durumunda, Pure Writer\'ı kaldırırsanız, tüm içerik silinecek ve her şeyi kaybedeceksiniz.</string>
+  <string name="tipMessageStoragePermissionToSettings">Dosyalarınızı otomatik yedeklemek için depolamanıza erişim gerekiyor. Lütfen cihazınızın Ayarlar bölümünde manuel olarak erişimi verin!</string>
+  <string name="actionOkGoSettings">Ayarlar\'a git</string>
+  <string name="tipFingerAuthRetry">Parmak izi tanınmadı. %d deneme hakkınız kaldı.</string>
+  <string name="tipFingerAuthFailed">Parmak izi askıya alındı. Lütfen 1 dakika sonra tekrar deneyin. Pure Writer\'dan çıkılıyor…</string>
+  <string name="tipRichText">Pure Writer, kullanıcılara minimalist bir yazma ortamı sunmayı amaçlar, bu nedenle gelecekteki geliştirmelerde Zengin Metin özelliği içerme planı yoktur. Önizlemede bazı <b>kalın yazılar</b> fark etmiş olabilirsiniz, ancak bu bir gizli özellik olduğu için. Üzgünüm, kalın yazı .txt dosyalarında görüntülenemez. Daha iyi önerileriniz varsa, lütfen benimle iletişime geçin. Destekleriniz için teşekkürler!</string>
+  <string name="settings">Ayarlar</string>
+  <string name="on">Açık</string>
+  <string name="off">Kapalı</string>
+  <string name="shortcutBar">Kısayol çubuğu</string>
+  <string name="insertBlankLinesWhenExporting">Dışa aktarırken ekstra satırlar ekle</string>
+  <string name="indent">Girinti</string>
+  <string name="format">Biçim</string>
+  <string name="contentTextSize">İçerik font boyutu</string>
+  <string name="iKnow">Anladım</string>
+  <string name="tipIndent">Not: Girinti, mevcut metni etkilemeyecektir</string>
+  <string name="explanation">Açıklama</string>
+  <string name="tipInsertBlankLines">Bu ayar açıkken, metin kopyalandığında veya paylaşıldığında her paragrafa ek bir satır eklenir. Özel paragraf aralığı sadece Pure Writer\'da sağlandığından, bu uygulama dışındaki aynı etkiyi elde etmek için ekstra satırlar gerekir.</string>
+  <string name="deleteObsoleteFiles">Eskimiş dosyaları sil</string>
+  <string name="dayNightMode">Gece modu</string>
+  <string name="summaryPay">Pro özelliklerini edinin</string>
+  <string name="tipSettingNotSupport">Bu ayar hala geliştirme aşamasındadır.</string>
+  <string-array name="nightModeEntries">
+    <item>Otomatik</item>
+    <item>Gece modu AÇIK</item>
+    <item>Gece modu KAPALI</item>
+  </string-array>
+  <string name="promptShortcutTitle">Kısayol açıklaması (isteğe bağlı)</string>
+  <string name="promptShortcutContent">Kısayol içeriği (gereklidir)</string>
+  <string name="createShortcut">Metin kısayolu oluştur</string>
+  <string name="noteShortcutCursorIndex">Lütfen makale eklemeden sonra imleç konumunu ayarlamak için içerikte imleç pozisyonunu değiştirin</string>
+  <string name="indentShort">Girinti</string>
+  <string name="delete">Sil</string>
+  <string name="messageDeleteShortcut">Bu kısayolu silmek için Tamam\'a tıklayın</string>
+  <string name="features">Özellikler</string>
+  <string name="sendTextFailedForTooLarge">Metniniz diğer Uygulamalara doğrudan göndermek için çok uzun. Metni panonuza kopyaladı</string>
+  <string name="previewAndExport">Önizleme ve Dışa Aktar…</string>
+  <string name="hasSavedToYourAlbum">Albümünüze kaydedildi</string>
+  <string name="preview">Önizleme</string>
+  <string name="proReadMe">"Pure Writer\'ın yararlı olduğunu hissederseniz ve geliştirmesinin devam etmesini isterseniz, geliştiriciye birkaç dolar katkıda bulunmanız sorun olur mu?\n\nDestekleriniz benim gibi bağımsız geliştiricilerin daha iyi uygulamalar geliştirmelerini teşvik eder. \n\nDesteklemek için Google Play düğmesine tıklayabilirsiniz. <b>Katkıda bulunduktan sonra, Malzeme Tasarımı 2, Outline, Dışa Aktarım, Özel Kağıt / Arka Plan ve gelecekteki güncellemeler gibi Pro özelliklerini ücretsiz olarak teşekkür olarak alacaksınız.</b>\nSizler gibi destekçiler sayesinde, Pure Writer daha iyi ve güncellenmiş olmaya çalışıyor. Son olarak, desteğiniz için teşekkürler! "</string>
+  <string name="tipRequirePro">Bu bir Pro özelliğidir</string>
+  <string name="ok">Tamam</string>
+  <string name="cancel">İptal</string>
+  <string name="yes">Tamam</string>
+  <string name="no">İptal</string>
+  <string name="summaryPaid">Pro etkinleştirildi</string>
+  <string name="labelUpdate">Yeni bir Pure Writer %1$s mevcut</string>
+  <string name="update">Güncelle</string>
+  <string name="messageDeleteArticlesToTrash">Bu makaleleri silmek ve çöp kutusuna taşımak istediğinize emin misiniz?</string>
+  <string name="tipPurchasedStatusFailed">Satın Alındı. Satın alma durumu güncellenmediyse, Pro öğesine tekrar tıklamayı deneyin (bunu yaparak iki kez ücretlendirilmezsiniz)</string>
+  <string name="createNew">Yeni makale oluştur</string>
+  <string name="autoLock">Otomatik kilitleme</string>
+  <string name="enabled">Etkinleştirildi</string>
+  <string name="titleOpenImportedFile">Harici bir dosya açtığınız tespit edildi, lütfen bir eylem seçin</string>
+  <string name="copied">Kopyalandı</string>
+  <string name="sort">Sıralama türü</string>
+  <string name="sortTypeModifiedTimeDown">Değiştirilme Zamanı (Azalan)</string>
+  <string name="sortTypeCreatedTimeDown">Oluşturma Zamanı (Azalan)</string>
+  <string name="sortTypeModifiedTimeUp">Değiştirilme Zamanı (Artan)</string>
+  <string name="sortTypeCreatedTimeUp">Oluşturma Zamanı (Artan)</string>
+  <string name="warningSavedFailed">Makale kaydedilemedi. Lütfen içeriğinizi kopyalayın ve herhangi bir içerik kaybı olup olmadığını kontrol etmek için uygulamayı yeniden başlatmayı deneyin.</string>
+  <string name="backupNow">Yedekle</string>
+  <string name="backupToLocalNow">Yerel depolamaya yedekle</string>
+  <string name="backupWithHistoryToLocalNow">Tüm geçmişi içeren yerel depolamaya yedekle</string>
+  <string name="backupToCloudNow">Bulut depolamaya yedekle</string>
+  <string name="summaryBackupToLocal">Yedek dosyası, Documents/PureWriter/Backups klasörüne kaydedilecektir</string>
+  <string name="summaryBackupToCloud">Bulut depolamanıza bağlı olarak yedek dosyası kaydedilecektir</string>
+  <string name="restoreBackup">Yedeklemeden geri yükle</string>
+  <string name="summaryRestoreTheBackup">Yedek dosyası Documents/PureWriter/Backups, Documents/PureWriter/Backups/Auto ve bulut depolamanızdan alınacaktır.</string>
+  <string name="backupSuccessful">Yedekleme başarılı</string>
+  <string name="backupAndSyncSuccessful">Yedekleme ve senkronizasyon başarılı</string>
+  <string name="restoreSuccessful">Yedeklemeden başarıyla geri yüklendi</string>
+  <string name="tipBackupList">Yedek dosyalarınız burada. Onları geri yüklemek için tıklayabilirsiniz.\n<b>Bulut Depolama\'dan Bulut Yedekleme dosyalarınızı geri almak isterseniz, lütfen önce Dropbox/WebDAV/GoogleDrive/OneDrive hesabınıza giriş yapın!</b></string>
+  <string name="tipBackupNotExist">Yedek dosyası mevcut değil. Lütfen yedek dosyasını Belge/PureWriter/Yedekler klasörüne yerleştirin ve tekrar deneyin.</string>
+  <string name="wordCountMode">Kelime sayısı modu</string>
+  <string name="wordCountModeEntriesItem1">Boşlukları ve satır sonlarını hariç tut</string>
+  <string name="wordCountModeEntriesItem2">Tüm sembolleri ve metni dahil et</string>
+  <string name="wordCountModeEntriesItem3"><b>Tüm noktalama işaretlerini</b>, boşlukları ve satır sonlarını hariç tut</string>
+  <string name="fab">Anasayfa Yüzen Eylem Düğmesi</string>
+  <string name="tipFab">İpucu: Anasayfa Yüzen Eylem Düğmesini geçici olarak gizlemek için uzun basın</string>
+  <string name="tipCannotCreateNewWhenEmpty">Başlık ve içerik boşken yeni bir makale oluşturamazsınız! Yine de menünün sağ üst köşesindeki düğme aracılığıyla oluşturabilirsiniz.</string>
+  <string name="more">Daha fazla</string>
+  <string name="notSupportOpeningTheLink">Bağlantı desteklenmiyor</string>
+  <string name="formatters">Biçimlendiriciler</string>
+  <string name="formatterSpace">Doğu Asya ve Latin metni arasına bir boşluk ekleyin</string>
+  <string name="formatterIndent">Tüm paragrafların başına girinti ekleyin</string>
+  <string name="formatterLineBreak">Paragraflar arasında boş bir satır bırakın</string>
+  <string name="formatterRemoveBreak">Paragraflar arasındaki tüm boş satırları kaldırın</string>
+  <string name="titleAsAWordForACount">Kelime sayısını ayrı ayrı say</string>
+  <string name="trash">Çöp Kutusu</string>
+  <string name="papers">Kağıtlar</string>
+  <string name="custom">Özel</string>
+  <string name="promptCustomPaper">RGB değeri veya resim URL bağlantısı</string>
+  <string name="readMeCustomPaper">Lütfen RGB değeri veya Resim bağlantısı girin, örn. #000000 veya https://unsplash.com/photos/x.jpg</string>
+  <string name="apply">Uygula</string>
+  <string name="defaultDark">Varsayılan karanlık</string>
+  <string name="pureWhite">Saf beyaz</string>
+  <string name="titleAlignCenter">Başlığı merkeze hizala</string>
+  <string name="tipShortcutBarEnabled">Kapatma önerilmez</string>
+  <string name="open">Açık</string>
+  <string name="openFolder">Klasörü aç</string>
+  <string name="summaryAutoBackup">Uygulama çıkış yaptığında tüm makaleleriniz otomatik olarak yedeklenecektir. Yedekleme en yeni 25 dosyla sınırlıdır.</string>
+  <string name="migratingData">Veri Taşıma</string>
+  <string name="autoBackup">Otomatik yedekleme</string>
+  <string name="summaryDeleteObsoleteFiles">Tüm içeriğinizi saklamak için özel dizinler kullanmaya başladık. SD kartınızda kalan eski sürüm geçmiş dosyalarını silmek için tıklayın.</string>
+  <string name="tipArticleDeleting">Makalelerin silinmesi, geçici olarak tüm işlemleri devre dışı bırakır</string>
+  <string name="noHistory">Kayıt bulunamadı</string>
+  <string name="formatterRemoveIndent">Girintiyi kaldır</string>
+  <string name="keepScreenOn">Ekranı açık tut</string>
+  <string name="gfmBreaksEnabled">Satır atlamayla sarma</string>
+  <string name="gfmBreaksDisabled">Yeni satırı görüntülemek için en az iki satır arası gereklidir</string>
+
+  <!--time machine-->
+  <string name="timeMachineHintInput">Mesaj</string>
+
+  <!--action-->
+  <string name="wordCountOfThisBook">Toplam Sayım</string>
+  <string name="wordCountOfThisBookDescription">Bu mevcut kitap için toplam kelime sayısı</string>
+  <string name="timeMachineGuide">Bu nedir? Bunun bir sohbet penceresi, fikirlerinizi kaydedebileceğiniz bir yer veya hatta Google Asistan\'a benzer bir şey olarak görebilirsiniz. Ona \"Zamanda Yolculuk\" adı veriliyor. Seninle tanışmak güzel!</string>
+  <string name="copyDate">Tarihi kopyala</string>
+  <string name="defaultBook">Varsayılan Kitap</string>
+  <string name="books">Kitaplar</string>
+  <string name="createNewBook">Yeni Kitap Oluştur</string>
+  <string name="summaryOfAbout">Bu uygulama için tasarladığımız orijinal fikirler ve kavramlar hakkında daha fazla bilgi edinin</string>
+  <string name="emptyTip">Henüz herhangi bir makale açılmamış</string>
+  <string name="name">Ad</string>
+  <string name="optionalDescription">Açıklama (isteğe bağlı)</string>
+  <string name="tag">Etiket</string>
+  <string name="tags">Etiketler</string>
+  <string name="createBookForDialogButton">Kitap Oluştur</string>
+  <string name="openSourceLicenses">Açık Kaynak Lisansları</string>
+  <string name="cannotDelete">Silinemedi</string>
+  <string name="cannotDeleteNotEmptyBook">Kitap boş değil. Silmek için öncelikle içindeki makaleleri ayrı ayrı silmeniz gerekiyor.</string>
+  <string name="move">Taşı</string>
+  <string name="moveTo">Taşı</string>
+  <string name="timeMachine">Zaman Makinesi</string>
+  <string name="listFirst">Başlangıçta Bölümleri Aç</string>
+  <string name="booksFirst">Başlangıçta Kitapları Aç</string>
+  <string name="language">Dil</string>
+  <string name="followSystem">Sistemi Takip Et</string>
+  <string name="localPicture">Yerel Resim</string>
+  <string name="selectPicture">Resim Seç</string>
+  <string name="toastCannotRetrieveSelectedImage">Seçilen resim alınamıyor</string>
+  <string name="picture">Resim</string>
+  <string name="saved">Kaydedildi</string>
+  <string name="sendTo">Gönder</string>
+  <string name="mode">Mod</string>
+  <string name="plainText">Düz Metin</string>
+  <string name="tipHasNotPermissionWithAutoBackup">Yedekleme yapmak için depolamaya erişim izni reddedildiği için deneme başarısız oldu.</string>
+  <string name="hideTitleBarWhenPreviewingMarkdown">Markdown önizleme yaparken başlık çubuğunu gizle</string>
+  <string name="privacyPolicy">Gizlilik Politikası</string>
+  <string name="beforeRestoringYourBackup">Yedekleme geri yüklemeden önce</string>
+  <string name="beforeBackupOverwritesLocal">Yerel dosyaların üzerine yazmadan önce</string>
+  <string name="beforeBackupIsMergedIntoLocal">Yedeklemenin yerel dosyalarla birleştirilmeden önce</string>
+  <string name="beforeSync">Senkronize etmeden önce</string>
+  <string name="trashDescription">Silmekten kurtardığınız makaleleri kurtarın</string>
+  <string name="messageDeleteArticlesDirectly">Bu makaleleri kalıcı olarak silmek istediğinizden emin misiniz?</string>
+  <string name="trashFolderTip">Bu çöp kutusunda yeni bir dosya oluşturamazsınız!</string>
+  <plurals name="confirmDeleteMessages">
+    <item quantity="one">%d mesajı silmek istediğinizden emin misiniz?</item>
+    <item quantity="other">%d mesajı silmek istediğinizden emin misiniz?</item>
+  </plurals>
+  <string name="tipLandscapeOrientation">Lütfen yatay modda harici bir klavye kullanın</string>
+  <string name="promptShortcutOrder">Sırala</string>
+  <string name="editShortcut">Metin Kısayolunu Düzenle</string>
+  <string name="fixedSync">Bridge</string>
+  <string name="bridgeUpload">Bridge: Yükle</string>
+  <string name="bridgeDownload">Bridge: Getir</string>
+  <string name="backupSettingTitle">Yedekleme ve Bulut Senkronizasyonu</string>
+  <string name="backupSettingSummary">Yedekleme, Geri Yükleme, Senkronizasyon, Dropbox, WebDAV, Google Drive, OneDrive...</string>
+  <string name="syncNetwork">Bulut Yedeklemesi</string>
+  <string name="syncOnlyWifi">Bulut yedeklemesini sadece Wi-Fi aktifken yap</string>
+  <string name="syncAllNetworks">Bulut yedeklemesini tüm ağlarda yap</string>
+  <string name="webDavAccount">WebDAV Hesabı</string>
+  <string name="webDavPassword">WebDAV Şifresi</string>
+  <string name="autoBackupToCloud">Otomatik bulut depolama yedeklemesi</string>
+  <string name="noWebDavConfigForUploading">WebDAV yapılandırmanız eksik veya yanlış. Yüklemeden önce WebDAV yapılandırmasını değiştirin.</string>
+  <string name="noWebDavConfig">WebDAV yapılandırmanız eksik veya yanlış.</string>
+  <string name="uploadSuccessful">Yükleme başarılı</string>
+  <string name="fetchSuccessful">Getirme başarılı</string>
+  <string name="messageUpload">Pure Writer, bulut diskte bir <b>sabit</b> dosya oluşturdu. Dosya adı <b>PureWriter.txt</b>\'dir. Mevcut makalenizi bu sabit dosyaya yüklemek için \"Tamam\" ı tıklayabilirsiniz. Daha sonra bu bulut dosyasını diğer cihazlarda düzenleyebilirsiniz. Değiştiğinde, onu çekebilirsiniz. \n\nŞimdi mevcut makale içeriğini bu bulut dosyasına üstüne yazmak istiyor musunuz?</string>
+  <string name="typewriterMode">Daktilo Modu</string>
+  <string name="edit">Düzenle</string>
+  <string name="editBook">Kitap Düzenle</string>
+  <string name="tipFloatingWordCountDisabled">Yüzen kelime sayımını kapattıktan sonra, bölüm/makale listesinde kelime sayısını hala alabileceksiniz.</string>
+  <string name="shareText">Tavsiye: Pure Writer, özellik dolu bir metin düzenleme uygulamasıdır ve Geçmiş Kayıtları, değerli içeriğinizi kaybetmenizi önleyen çok katmanlı koruma ve rahat bir yazma ortamı ile size huzur verir. Daha fazlasını burada öğrenin: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
+  <string name="shareMessage">Pure Writer\'ı kullanmaktan keyif alıyorsanız, lütfen bize söz etmemize yardımcı olun! Sağdaki Paylaş düğmesini tıklayarak bu uygulamayı arkadaşlarınızla paylaşın. Sizin desteğinizle uygulama daha iyi hale geldiği için bu bizim ve uygulama için çok şey ifade edecektir. Teşekkürler! \n\nDaha fazla bilgi için, lütfen ziyaret edin: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
+  <string name="reduceDatabaseSize">Veritabanı Boyutunu Azaltmak için Geçmişi Temizle</string>
+  <string name="reduceDatabaseSizeMessage">Tüm makalelerin Geçmişini silin. \nNot: Bu sadece Geçmiş kayıtlarını ve makaleyi DEĞİL silecektir.</string>
+  <string name="deleteSuccessful">Başarıyla Silindi</string>
+  <string name="unlockPro">Pro\'yu Kilitle</string>
+  <string name="presetTitle1">Pure Writer - Geçmişi ve geleceği kelimelerle birleştirme</string>
+  <string name="presetContent1">Pure Writer, çalışmalarınızı kaybetmenizi engelleyen hızlı ve rahat bir metin düzenleme uygulamasıdır. Google Play\'de Pure Writer\'ın yorumlarını ve incelemelerini kaydırırken, bu uygulama için \"Bundan daha iyi bir uygulama yok\", \"En tatmin edici uygulama\", \"Bu uygulamayı çok seviyorum\" gibi bazı yüksek övgüler bulabilirsiniz. \"Bu aplikasyona ilk görüşte aşk\"… Pure Writer\'ın tek geliştiricisi olarak, yorumlar özellikle benim için sevindirici oldu. \nHaziran 2017\'de sayısız rahatsız edici, kötü yapılmış metin düzenleme ürününden geçtikten ve değerli metin dosyalarımı kaybettikten sonra, kullanıcılarının özelliklerle dolu ve rahat bir ortamda her zaman her yerde yazmalarına olanak tanıyan kendi metin düzenleme uygulamamı geliştirmeye kararlıyım. , sözlerinin asla kaybolmayacağını bilerek. Bu uygulama, karar verdiğim gibi, bir yazarın bakış açısıyla geliştirilecek. \nTüm bunlardan önce, bir zengin metin düzenleme yazılımı üzerinde yarı zamanlı çalışıyordum. Gönlümüzü döksek de yazılım istediğimiz gibi olmadı. Buna rağmen, Pure Writer için fazlasıyla yeterli olan bazı benzersiz özellikleri başarıyla geliştirdim. \nBöylece Pure Writer doğdu. En başından beri Pure Writer, Android\'de her satırı ve karakter aralığını mükemmelleştirmeye özen gösterdi. Bu, Microsoft Word dışında başka hiçbir metin düzenleme android uygulamasının başaramadığı özel bir özelliktir. Yine de Microsoft Word\'ün paket boyutu, Pure Writer\'ınkinden on kat daha büyüktür.\nYalnızca bu değil, Pure Writer ayrıca \"uygulama başlangıcında metin düzenleyiciyi başlat\" ve özellikle \"Geçmiş kayıtları\" gibi özel özellikler de sağlar. Kendim bir yazar olarak, bir tarih kaydına sahip olmanın en büyük önemini anlıyorum - bu, yazdıklarınıza odaklanmanızı sağlarken, yazdıklarınızı asla ama asla kaybetmeyeceğiniz konusunda içinizin rahat etmesini sağlar. Telefonunuz herhangi bir bildirimde bulunmadan aniden kapansa bile, Pure Writer içeriğinizi otomatik olarak kaydetmeye devam edebilir. Bu şekilde, tüm kullanıcılar rahat bir metin düzenleyicide güvenle yazmaya istedikleri zaman başlayıp bırakabilirler. \nBuna ek olarak, Pure Writer \"Giriş Kısayollarını\" ve \"Biçimlendirme araçlarını\" destekler, giriş kısayolları, kullanıcıların kısayol çubuğuna kendi özel sözcüklerini ayarlamasına olanak tanır, böylece kolaylıkla tekrar tekrar kullanabilirler; biçimlendirme araçları, kullanıcıların metinlerini hızlı bir şekilde biçimlendirmelerine yardımcı olur, örneğin otomatik boşluk bırakma ve düzenleme. \nYalnızca bu özellikler değil, Pure Writer\'da en ince ayrıntıyı mükemmelleştirmek için çok çaba sarf edildi. Pure Writer\'ı kullanırken, sadece ekranı kaydırarak yazılım klavyesini gizleyebilir, imleci tam istediğiniz yere getirebilir ve ayrıca yazılım klavyesini gizlerken makaleyi sabit tutabilirsiniz… Pure\'u karşılaştıracak olsaydınız Writer\'ı diğer metin düzenleme uygulamalarında kullandığınızda, Pure Writer\'ın en sonunda mükemmel bir yazma ortamına katkıda bulunan tüm küçük ayrıntıları mükemmel bir şekilde hallettiğini göreceksiniz.\nPure Writer ihtiyacınız olan düzenleme araçlarına sahiptir, örneğin: otomatik girinti, makaleyi şu şekilde dışa aktarın: görüntüler, kayan kelime sayısı, iptal etme, Markdown, özel arka plan temaları, gece modu, biyometrik şifreleme, otomatik metin tamamlama, paylaşım ve çok daha fazlasını içeren çeşitli dosyalar. Tüm özelliklere ve ayrıntılara rağmen, Pure Writer minimalist stilini korudu ve Materyal Tasarımı yönergelerini takip ediyor. Ayrıca kullanıcıların küçük notlar alıp saklamaları için bir \"Zaman Makinesi\" yaptım. \"Zaman Makinesi" adı, \"Geçmişle Geleceği Kelimelerle Birleştirmek\" anlamındaki çizgi romandan alınmıştır. \nBugüne kadar, Pure Writer\'ın kod tabanı binin üzerinde işlem ve milyonlarca satır değişikliği aldı. Pure Writer boş zamanımın neredeyse tamamını tüketse de, giderek daha fazla kullanıcının bana olumlu geri bildirimde bulunması beni her zaman rahatlatıyor. Pure Writer\'ın kullanıcılarıyla aktif olarak bağlantı kuruyorum, geri bildirim topluyorum ve uygulamayı mükemmelleştiriyorum. Diğer insanlara yardımcı olan uzun vadeli bir şey yapma düşüncesiyle kendimi hiç bu kadar mutlu hissetmemiştim. \nSon olarak, bu yolculukta bana yardımcı olan tüm arkadaşlarıma teşekkür ederim. Siz olmasaydınız, bu uygulama asla bugün olduğu yerde olmazdı. Bu yazı ile size Pure Writer\'ın orijinal fikirlerini ve tüm özelliklerini tanıtıyorum ve umarım daha fazla insan onu daha iyi tanır. Umarız sahip olduğumuz kısıtlı zamanda harika anılar bırakabiliriz. Sözlerimiz bizi zamanda geriye götürsün ve geleceği hayal etmemizi sağlasın.</string>
+  <string name="presetTitle2">Saf Yazar - Koruyucu Mekanizma</string>
+  <string name="presetContent2">Pure Writer\'ın sahip olduğu geçerli koruma mekanizması: \n1. İçerik değiştirildiğinde makale kaydedilecektir. Bu başarısız olursa, Pure Writer kullanıcıyı hemen bilgilendirir. \n2. Pure Writer, içeriğinizin veritabanına kaydedilip kaydedilmediğini her iki saniyede bir kontrol edecektir. Başarısız olursa, Pure Writer kullanıcıyı hemen bilgilendirir. \n3. Otomatik kaydetme başarısız olursa, kullanıcılar uygulamadan tamamen çıkamaz. Bu sırada çıkış düğmesine basmak, uygulamayı tamamen durdurmadan Ana Sayfa düğmesine basmakla aynıdır. Bu, kullanıcının içeriğini manuel olarak kaydetmesi için biraz zaman tanıyacaktır. \n4. Uygulama arka planda çalışırken veya uygulamadan her çıkıldığında, herhangi bir içerik düzenlenirse tüm veritabanını otomatik olarak yedekler. Yedekleme dosyasına her zaman erişilebilir. Yedekleme, kullanıcıların yedeklemeyi geri almasına izin vermek için yedeklemenin önceki sürümüyle birlikte kaydedilecek.\n5. Geçmiş kaydı, geri alma ve yineleme özelliği her makaleye sağlanır \n6. Makalelerin yanlışlıkla silinmesini önlemek için bir Çöp Kutusu klasörü vardır.\n7. Bulut yedeklemeleri: Pure Writer, WebDAV ile entegreyse, makaleler dahil tüm veritabanı içeriğini otomatik olarak buluta yedekler.</string>
+  <string name="presetContent3">Pure Writer\'ı kullanmaktan keyif aldıysanız ve aktif olarak geliştirilmesini istiyorsanız, geliştiriciyi teşvik etmek için birkaç dolar katkıda bulunur musunuz?\nDesteğiniz benim gibi bağımsız geliştiricileri daha faydalı uygulamalar yapmaya teşvik edebilir. \nKatkıda bulunmak için Ayarlar sayfasının sağ üst köşesindeki \"Pro\'nun Kilidini Aç\" düğmesine basabilirsiniz. Takdirinizin bir göstergesi olarak, \"Farklı kaydet...\" ve \"Özel arka plan/Kağıtlar\" gibi Pro özelliklerini alabileceksiniz. \nPure Writer da desteğiniz sonucunda gelişecektir. Şimdiden teşekkürler! Herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen bana drakeet@drakeet.com adresinden e-posta göndermekten çekinmeyin</string>
+  <string name="presetTitle4">Pure Writer - Gizlilik Politikası</string>
+  <string name="presetContent4">Pure Writer, kullanıcılarının gizliliğini çok ciddiye alır, hiçbir zaman özel bilgilerinizi toplamaz. \nAyrıca, size haber vermeden panonuzdaki hiçbir içeriği okumaz veya değiştirmez.\nPure Writer\'ın istediği depolama izni yalnızca dosyalarınızı otomatik yedeklemek ve kaydetmek için kullanılır. Bunun dışında, size haber vermeden depodaki dosyalarınızın hiçbirini okumaz veya değiştirmez.\nPure Writer, veritabanı yedeklerinizi WebDAV bulut depolamanıza aktarmak için HTTPS şifreleme kullanan bulut yedeklemeyi destekler. Bulut yedeklemeleriniz yalnızca belirlediğiniz bulut depolama alanında saklanacak ve asla başka yerlere yüklenmeyecektir.</string>
+  <string name="createAt">Oluşturma Tarihi</string>
+  <string name="updatedAt">Güncelleme Tarihi</string>
+  <string name="forcedBlackTextColor">Zorla Siyah Yazı Rengi</string>
+  <string name="forcedWhiteTextColor">Zorla Beyaz Yazı Rengi</string>
+  <string name="onlyAvailableWhenParagraphOn">Paragraf aralığı açıkken kullanılabilir</string>
+  <string name="onlyAvailableWhenParagraphOff">Paragraf aralığı kapalıyken kullanılabilir</string>
+  <string name="lowProfile">Durum çubuğu odak modu</string>
+  <string name="chapters">Bölümler</string>
+  <string name="sortTypeTitleUp">Başlık A - Z sırala</string>
+  <string name="sortTypeTitleDown">Başlık Z - A sırala</string>
+  <string name="sortByRank">Elle sıralama</string>
+  <string name="modifyRanks"><i><b>Elle Sıralamayı Yap</b></i></string>
+  <string name="markdownShortcutTip">Yeni bir Markdown eklediniz, bu yalnızca Markdown Önizleme modunda etkili olacak. Markdown modunu etkinleştirmek istiyor musunuz?</string>
+  <string name="importedFileTooLargeToOpen">İçe aktarılan dosya çok büyük, dosya açma işlemi başarısız oldu</string>
+  <string name="failed">Başarısız</string>
+  <string name="insertCategoryAboveShort"><b>Üstünde</b> bir klasör ekle</string>
+  <string name="insertCategoryBelowShort"><b>Altında</b> bir klasör ekle</string>
+  <string name="insertCategoryBottomShort"><b>Sonuna</b> bir klasör ekle</string>
+  <string name="insertCategoryAboveLong">Mevcut makalenin <b>üstüne</b> yeni bir klasör ekle</string>
+  <string name="insertCategoryBelowLong">Mevcut makalenin <b>altına</b> yeni bir klasör ekle</string>
+  <string name="insertCategoryBottomLong">Bölüm listesinin <b>sonuna</b> yeni bir klasör ekle</string>
+  <string name="insertCategory">Klasör Ekle</string>
+  <string name="editCategory">Klasörü Düzenle</string>
+  <string name="category">Klasör</string>
+  <string name="deleteEmptyArticlesShort">Tüm boş makaleleri sil</string>
+  <string name="deleteEmptyArticlesLong">Bu Kitap\'ta başlığı ve içeriği boş olan tüm makaleleri sil</string>
+  <string name="deleteCategory">Klasörü Sil</string>
+  <string name="updateACategory">Bir Klasörü Güncelle</string>
+
+  <string name="exportBook">Bu Kitabı Dışa Aktar</string>
+  <string name="needManualSortingTitle">Bu özelliği kullanmak için manuel sıralamaya geçmeniz gerekiyor</string>
+  <string name="needManualSortingMessage">Ayarları \"Manuel Sıralama\" olarak değiştirmek istiyor musunuz?</string>
+  <string name="doubleClickToExit">Uygulamadan çıkmak için Geri tuşuna iki kez tıklayın</string>
+  <string name="doubleClickToExitTip">Çıkmak için tekrar geri tuşuna basın</string>
+  <string name="markdownCheckBoxTip">Bu seçenek Markdown özelliği için. Kontrol ettikten sonra, paragrafların boşluğu ve girintisi etkisiz hale gelir. Markdown hakkında bilginiz yoksa, bu kutuyu işaretlememeniz önerilir.\n\nMarkdown, düz metin biçimlendirme sözdizimi olan bir işaretleme dilidir. İlgileniyorsanız çevrimiçi olarak \"Markdown\" araması yapabilirsiniz.</string>
+  <string name="unlockValidityPeriod">Otomatik Kilitleme Geçerlilik Süresi</string>
+  <string name="unlockValidityPeriodSummary">%s\nNot: Uygulamadan çıkmak için Geri tuşuna bastığınızda, bir sonraki seferde kilitlenecektir</string>
+  <string name="lockImmediatelyIfAway">Uzakta ise hemen kilitlenir</string>
+  <string name="lockIfAwayMoreThan3Minutes">3 dakikadan daha uzun süre uzakta ise kilitlenir</string>
+  <string name="font">Yazı Tipi</string>
+  <string name="appEmbeddedFont">Uygulama yerleşik yazı tipi</string>
+  <string name="noInternetConnection">İnternet bağlantısı yok</string>
+  <string name="cloudBackup">Bulut yedekleme</string>
+  <string name="cloudConnection">Bulut bağlantı türü</string>
+
+  <string name="signIn">Oturum aç</string>
+  <string name="lockFallback">Her zaman kilidini açamazsanız, telefonunuzun sistem ayarlarına giderek tüm parmak izlerinizi kaldırabilir ve Pure Writer\'ı yeniden açabilirsiniz.</string>
+  <string name="smoothScrollerTitle">Metnin bir satırına tıklamak için pürüzsüz kaydırma animasyonu</string>
+  <string name="tipSmoothScrolling">Bu seçenek açık olduğunda, içerik metnindeki bir satıra tıkladığınızda, metin görünümü gerekliyse odaklanılan satıra pürüzsüz bir şekilde kayacaktır. Bu seçenek kapalı olduğunda, anında o satıra atlayacaktır. \nKaydırma animasyonu bazı cihazlarda iyi çalışmayabilir, bu yüzden takılıyorsanız bu seçeneği kapatın.</string>
+  <string name="defaultMessageUpdateApk">Bu önemli bir sürüm, lütfen en kısa sürede bu sürüme güncelleyin</string>
+  <string name="readme">Yeni Saf Yazarın Malzeme Tasarımı 2 tasarımını açtınız.\n\nMalzeme Tasarımı 2, daha taze bir görünüm için yeni bir tam ekran daldırma kağıdı ve şeffaf bir üst çubuk getiriyor.\n\nAncak, aynı zamanda yeni tasarımla birçok sorun olabilir, bu yüzden bu, birkaç kullanıcının güçlü taleplerine yanıt olarak geliştirilen Saf Yazarın deneysel bir özelliğidir ve bazı UI görsel sorunları olabilir. Ayrıca, Saf Yazarın yazarı olarak, daha göze çarpan ve metin içeriğine odaklanan orijinal Saf Yazar tasarımını tercih ediyorum, bu nedenle bu tasarım özelliği aslında birkaç kullanıcının güçlü taleplerine yanıt olarak geliştirilmiştir. Bu ekstra geliştirme maliyetleri gerektirir ve sağlamak kolay değildir ve şimdi iki Saf Yazar tasarımı olacağından, geliştiricilerin çalışması çoğalabilir.\n\nBu nedenle, Saf Yazar bunu ödemenizi önerir, ancak hala deneyimlemek ve son ödeme kararını vermek için çok zamanınız olabilir. Lütfen desteklemeye çalışın. İstatistikler, ödeme yapmaya istekli kullanıcıların oranının düşük olduğunu gösterirse, geliştirici Malzeme Tasarımı 2\'yi iptal edebilir veya bakımını durdurabilir. Tamam\'ı tıkladığınızda, varsayılan olarak bu içeriğe onay vermiş olacaksınız.\n\nHepinize teşekkürler! Daha iyi ve daha iyi bir Saf Yazar sağlamak için elimden geleni yapacağım, lütfen keyfini çıkarın!</string>
+  <string name="lowFreeStorageSpaceWarning">%1$d MB ücretsiz depolama alanınız var, bu Pure Writer\'ın kaydetme veya yedekleme işlemlerinin başarısız olmasına neden olabilir. Lütfen Pure Writer\'ı kullanmadan önce temizleyin ve %2$d MB\'den fazla boş alan bırakın!</string>
+  <string name="lowCloudFreeStorageSpaceWarning">%1$s\'inizde sadece %2$d MB ücretsiz depolama alanı var, bu Pure Writer\'ın bulut ortamına kaydetme veya yedekleme işlemlerinin başarısız olmasına neden olabilir. Lütfen Pure Writer\'ı kullanmadan önce temizleyin ve %3$d MB\'den fazla boş alan bırakın!</string>
+  <string name="findReplace">Bul &amp; Değiştir</string>
+  <string name="replace">Değiştir</string>
+  <string name="find">Bul</string>
+  <string name="currentChapter">Mevcut Bölüm</string>
+  <string name="currentText">Mevcut Metin</string>
+  <string name="currentBook">Mevcut Kitap</string>
+  <string name="ignoreCase">Büyük/Küçük Harf Farkı Yok</string>
+  <string name="selectAll">Tümünü Seç</string>
+  <string name="inverseAll">Tersini Seç</string>
+  <string name="replaceConfirmMessage">Seçilen %d yerin değiştirilmesinden emin misiniz?</string>
+  <string name="tipUndoReplace">Geri Al:\n* Pure Writer - Ayarlar - Yedekleme - Yedekten Geri Yükle\'ye giderek, önceki yedekleme işlemine tıklayarak önceki içeriğe geri yükleyebilirsiniz.\n* Sadece mevcut bölümü değiştirdiyseniz, sağ üst menüden Geçmiş sayfasına giderek önceki içeriğe geri dönebilirsiniz.</string>
+  <string name="backupRemarkForReplace">Değiştirme Öncesi Yedekleme</string>
+  <string name="tipReplaceResult">%1$d makalenin %2$d içeriği değiştirildi</string>
+  <string name="title">Başlık</string>
+  <string name="content">İçerik</string>
+  <string name="webDavAccountError">WebDAV hesap bilgileriniz yanlış olduğundan, bulut yedekleme etkinleştirilemiyor!</string>
+  <string name="fileAlreadyExistsInDirectory">Bu dosya zaten dizininizde mevcut</string>
+  <string name="overwrite">Üzerine yaz</string>
+  <string name="doNotOverwrite">Üzerine yazma</string>
+  <string name="signOut">Çıkış yap</string>
+  <string name="changeAccount">Hesabı değiştir</string>
+  <string name="scrollToHideTopBar">Üst çubuğu gizlemek için kaydırın</string>
+  <string name="scrollToHideWordCount">Kelime Sayısını gizlemek için kaydırın</string>
+  <string name="doNotOperate">İşlem sırasında makaleleri değiştirmeyin veya değiştirmeyin!</string>
+  <string name="aboutBackup"><b>Yedekleme Hakkında</b></string>
+  <string name="backupReadme">Pure Writer yerel ve bulut yedeklemeyi destekler. Yerel yedekleme otomatiktir. Pure Writer\'ı yeniden yüklediğinizde, <b>Yedekleme</b> seçeneğiyle tüm makalelerinizi geri yükleyebilirsiniz.\n\nAncak, Pure Writer <b>varsayılan olarak Bulut Yedeklemesi yapmaz</b>. Bulut Yedeklemesini etkinleştirmek için, Pure Writer - Ayarlar - Yedeklemeler sayfasında <b>bir bulut yedekleme hesabı kurmanız gerekiyor</b>.\n\nPure Writer Bulut Yedeklemesi şu anda Dropbox ve WebDAV bulut depolamasını destekliyor.\n\n<b>Bulut Yedekleme çok çok önemlidir. Bir bulut yedekleme hesabı kurmazsanız, bu cihaz kaybolduğunda, kırıldığında veya fabrika ayarlarına geri yüklendiğinde tüm değerli içeriğinizi kaybedersiniz! Lütfen bir bulut yedekleme hesabı kurduğunuzdan emin olun!</b></string>
+  <string name="tipParagraphSpacingInMD">Paragraf aralığı, Markdown modunda etkinleştirilmeyecektir</string>
+  <string name="lineSpacing">Satır aralığı</string>
+  <string name="paragraphSpacing">Paragraf aralığı</string>
+  <string name="defaultX">Varsayılan</string>
+  <string name="zoomIn">Yakınlaştır</string>
+  <string name="zoomOut">Uzaklaştır</string>
+  <string name="switchingBooksTooltip">İpucu: Üstteki kitap başlığına tıklamak, Kitapları değiştirmenizi sağlar.</string>
+  <string name="scrollToTheCurrentArticle">Geçerli makaleye kaydır</string>
+  <string name="allBooks">Tüm Kitaplar</string>
+  <string name="needToManuallyRestartToTakeEffect">Etki için yeniden başlatmanız gerekiyor</string>
+  <string name="spellChecker">Yazım denetimi</string>
+  <string name="thisShortcutCannotBeEdited">Bu kısayol düzenlenemez</string>
+  <string name="createNewChapter">Yeni bölüm oluştur</string>
+  <string name="hideSoftKeyboard">Klavyeyi gizle</string>
+  <string name="transparentTopBar">Saydam üst çubuk</string>
+  <string name="transparentNavigationBar">Saydam gezinme çubuğu</string>
+  <string name="transparentNavigationBarWarning">Bu deneysel bir özelliktir. Açık olduğunda, klavyenin yüksekliği yanlış kontrol edilebilir, bu da kısayol çubuğunun görüntülenmemesine ve metnin odaklanmamasına neden olabilir. Bu sorunlarla karşılaşırsanız, bu seçeneği kapatın.</string>
+  <string name="titleAsAWordForACountSummary">Bu öğe açık olduğunda, bir sonraki Kelime Sayısı Modu devre dışı bırakılacaktır. Kelime Sayısı Modu\'ndaki seçenekleri kullanmak isterseniz, bunu kapatın.</string>
+  <string name="customFont">Özel font</string>
+  <string name="customFontTip">.ttf veya .otf font dosyasını harici depolama dizini <b>/Belgeler/PureWriter/App</b> içine yerleştirin ve Pure Writer\'ı yeniden başlatarak otomatik olarak uygulayın. \nNot: Bu dizinde sadece bir font dosyası olabilir ve bazı font dosyaları (örneğin Google Sans) imlecin kaymasına neden olabilir, lütfen bilin!</string>
+  <string name="customFontTipForAndroid11">Android 11+ font dosyasını seçmek için seçmelisiniz</string>
+  <string name="corruptBackupTip">Yedekleme dosyası bozuk! Lütfen diğer yedeklemeleri geri yüklemeyi deneyin ve doğru boyutlu ve zamanlı yedeklemeyi seçin!</string>
+  <string name="leftMargin">Sol kenar boşluğu</string>
+  <string name="rightMargin">Sağ kenar boşluğu</string>
+  <string name="spacingsAndMargins">Aralıklar\nBoşluklar</string>
+  <string name="autoBackupAndCloudBackupGuide"><i>Bulut yedekleme rehberi</i></string>
+  <string name="bridgeSummary">Bu özellik çok zor anlaşılır ve kullanılır, önerilmez.</string>
+  <string name="messageCancelBridgeFeature">Bu sürümden itibaren, \"Köprü\" özelliği varsayılan olarak gizlenir, çünkü her gün bu özelliğin ne anlama geldiğini bilmediklerini bildiren birçok kullanıcı geri bildirimi alıyorum, size sorun yaşattığım için çok üzgünüm! Ancak aynı zamanda bu geri bildirimlere yanıt vermek için de çok zaman ve enerji harcadım - bu zaman ve enerjinin bu ürünü geliştirmek ve cilalamak için kullanılması gerekiyordu. Bu nedenle şu anda bu özellik varsayılan olarak kapalıdır. Seviyorsanız ve buna güveniyorsanız, yedekleme ayarları sayfasının altına gidin ve açmak için bir seçenek göreceksiniz. Lütfen anlayın, çok teşekkür ederim!</string>
+  <string name="followingBackupsAre">Aşağıdakiler, mevcut sürümü yüklemek öncesi yedeklemelerdir</string>
+  <string name="logInToCloudStorage">Bulut depolamaya giriş yapın</string>
+  <string name="scrollToBottom">Alt kısma kaydır</string>
+  <string name="scrollToTop">Üst kısma kaydır</string>
+  <string name="customColorTipOnShortcutPad">İpucu: Düzenleme sayfasında metin rengini özelleştirebilirsiniz.</string>
+  <string name="textColor">Düzenleyici Metin Rengi</string>
+  <string name="textColorSummary">Not: Kağıt türünü değiştirdiğinizde, metin rengi otomatik olarak varsayılan rengine sıfırlanır.</string>
+  <string name="titleTextSize">Başlık font boyutu</string>
+  <string name="restoreByThisBackup">Bu yedeklemeyle geri yükleme yapmak istiyor musunuz?</string>
+  <string name="restoreByThisBackupWithAppName">Pure Writer: Bu yedeklemeyle geri yükleme yap</string>
+  <string name="collapseAllCategories">Tüm klasörleri daralt</string>
+  <string name="showMore">Daha fazla göster</string>
+  <string name="textColorAlpha">Düzenleyici metin rengi alfa / saydamlık</string>
+  <string name="connectDesktop">Masaüstüne bağlan</string>
+  <string name="disconnectDesktop">Masaüstünden ayrıl</string>
+  <string name="connect">Bağlan</string>
+  <string name="tipNotSupportThisDesktopVersion">Geçerli mobil ve masaüstü sürümleri eşleşmiyor ve bağlanamıyor. Lütfen her ikisini de en son sürüme güncelleyin ve tekrar deneyin.</string>
+  <string name="desktopDialogGuide">https://writer.drakeet.com/desktop_en adresinden <b><i>Pure Writer Desktop 1.7.4 (veya üstü)</i></b> sürümünü indirmeniz gerekiyor.\n\nMobil cihazınız ve bilgisayarınız <b>aynı Wi-Fi ağına veya hotspot\'a👈👈👈</b> bağlıyken, masaüstü uygulamasını açın ve aşağıdaki IP adresini <b>masaüstü uygulamasının giriş alanına girin</b>. Böylece mevcut makaleyi gerçek zamanlı olarak senkronize edebilir ve düzenleyebilirsiniz.</string>
+  <string name="desktopDialogNote">Not: Pure Writer Desktop hala alfa aşamasındadır. Lütfen ilerideki güncellemelerini bekleyin.\n* Birden fazla IP adresi satırı görürseniz, bunları tek tek bağlanmayı deneyin.</string>
+  <string name="connectionIsStopping">Bağlantı durduruluyor, daha sonra tekrar deneyin!</string>
+  <string name="createShortcutLabel">Metin Kısayolu</string>
+  <string name="cursorPositionForNewArticle">Yeni makale için imleç konumu</string>
+  <string name="stop_waiting_connection">Bağlantıyı beklemeyi durdur</string>
+  <string name="undoValidTip">Şu anda odaklanılan giriş alanı geri alınamaz, içeriğinizi sağ üst köşedeki Geçmiş menüsünden kurtarmayı deneyebilirsiniz.</string>
+  <string name="desktopDisconnected">Masaüstü bağlantısı kesildi</string>
+  <string name="desktopConnected">Masaüstü bağlı</string>
+  <string name="toDoCloudBackupButton">Bir bulut yedekleme hesabı ayarlamak için gidin</string>
+  <string name="ignoreCloudBackupCheckBox">Bulut yedekleme ayarlamak istemiyorum, beni hatırlatmayın. Telefonum bozulduğunda, kaybettiğimde veya sıfırladığımda bulut yedekleme olmadığı için tüm değerli makalelerimi kaybetmek gibi bulut yedeklemesi olmadan tüm sonuçları üstleneceğim!</string>
+  <string name="selectMore">Daha fazla seç</string>
+  <string name="addChapterBelowThis">Bu bölümün altına bölüm ekle</string>
+  <string name="addChapterAboveThis">Bu bölümün üstüne bölüm ekle</string>
+  <string name="moveToOtherBook">Başka bir kitaba taşı</string>
+  <string name="paragraphSpacingSettingSummary">Süper uzun metinler, paragraf aralığı kapalı olduğunda daha iyi performans elde eder</string>
+  <string name="autoInsertBlankLineWhenWrapping">Satır kaydırma yaparken otomatik olarak boş bir satır ekle</string>
+  <string name="markdownAsDefault">Yeni makaleler için varsayılan olarak Markdown modu</string>
+  <string name="needToPayForMarkdownRenderer">Bu, Markdown Hızlı Önizleme sayfasıdır ve kullanmak için Pure Writer Pro\'ya ödeme yapmanız gerekir.</string>
+  <string name="fabContextCreateNewAfterCurrent">Mevcut makalenin ardından yeni makale oluştur</string>
+  <string name="fabContextCreateNewAtTheBottom">Makale listesinin en altına yeni bir makale ekleyin</string>
+  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Geçerli Klasörün en altına yeni bir makale ekleyin</string>
+  <string name="fabContextHideFabUntilNextStart">Bu düğmeyi bir sonraki başlatmaya kadar gizle</string>
+  <string name="fabContextHideFabTemporarily">Ana kayan düğmeyi geçici olarak gizle</string>
+  <string name="license">Lisans</string>
+  <string name="customPapers">Özel Kağıtlar\nZarif, Büyüleyici</string>
+  <string name="markdownQuickPreview">Markdown Hızlı Önizleme</string>
+  <string name="exportToPicMdTxt">Uzun resim/md/txt/pdf olarak dışa aktar</string>
+  <string name="materialDesign2ThemeWithLineBreak">Materyal Tasarımı 2\nteması</string>
+  <string name="ProIntroductionMarkdown"><![CDATA[
+|        #### Özel Kağıtlar
+|
+|        Düzenleyiciniz için bir resim veya arka plan olarak telefonunuzda bulunan veya uzaktaki bir resmi özgürce seçebilirsiniz:
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/0.webp)
+|
+|        #### Düzenleyici 2 ✨
+|
+|        Düzenleyici sayfasına yatay olarak kaydırarak hızlı bir şekilde Düzenleyici 2\'ye erişebilirsiniz:
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/1.webp)
+|
+|        #### Uzun metin resmi/md/txt dosyası olarak dışa aktarın
+|
+|        Makaleleri uzun metin resimleri veya .md .txt dosyaları olarak dışa aktarabilirsiniz:
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/2.webp)
+|
+|        #### Kitap Dışa Aktarımı
+|
+|        Bu seçeneği sol çekmece menüsündeki üst menüde bulabilirsiniz, tüm bölüm içeriğini düz bir metin dosyasına birleştirmenize yardımcı olur:
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/3.webp)
+|
+|        #### Bul ve Değiştir
+|
+|        Herhangi bir makalede hedef anahtar kelimeleri bulabilir ve toplu olarak değiştirebilirsiniz:
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/4.webp)
+|
+|        #### Materyal Tasarımı 2 Teması
+|
+|        Materyal Tasarımı 2 teması etkinleştirildiğinde, artık saf siyah değil, saydam bir üst çubuk elde edersiniz ve daha etkileyici ve güzel bir kullanıcı arayüzü elde edebilirsiniz:
+|
+|        ![Picture](https://gitee.com/PureWriter/resources/raw/master/pro/en/5.webp)
+|
+|        #### Pure Writer Desktop/Masaüstü
+|
+|        ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktopDark.webp)
+|        ![Pure Writer Desktop](https://gitee.com/PureWriter/resources/raw/master/pro/en/PureWriterDesktop.webp)
+|
+|        Pure Writer Masaüstü\'nü alabilir ve ana Düzenleyicinin üstündeki bulut simgesi ☁️ aracılığıyla Masaüstü\'ne bağlanabilirsiniz.
+|
+|        Şu anda, Masaüstü hala alpha aşamasında. Sadece temel gerçek zamanlı bağlantı ve senkronize düzenleme sağlayabilir.
+|
+|        Bunu mükemmelleştirmemize yardımcı olacak desteğiniz için çok zaman ve enerji harcadım.
+    ]]></string>
+  <string name="unlimitedWords">Sınırsız kelime</string>
+  <string name="neverLost">Asla kaybolmaz</string>
+  <string name="veryVerySmooth">Çok çok akıcı</string>
+  <string name="nightMode">Gece modu</string>
+  <string name="supportParagraphSpacing">Paragraf aralığı desteği</string>
+  <string name="keyboardStateRestoring">Klavye durumunu geri yükleme</string>
+  <string name="greatCursorFocus">Harika imleç odaklanması</string>
+  <string name="crazyUpdateBetterAndBetter">Çılgın güncellemeler, daha iyi ve daha iyi</string>
+  <string name="moreAdvantagesOfPureWriter">Pure Writer\'ın daha fazla avantajı</string>
+  <string name="account">Hesap</string>
+  <string name="privilegeOfPureWriterPro">Pure Writer Pro ayrıcalığı</string>
+  <string name="messageThankYouForYourSupport">Desteğiniz Pure Writer\'ın daha iyi geliştirilmesini, bizi olağanüstü ürünler yapmaya ve daha fazla bağımsız geliştiriciyi teşvik etmeye devam etmektedir.\n\nPure Writer, destekleriniz sayesinde sürekli olarak güncellenebilir ve geliştirilebilir. Çok teşekkür ederiz!</string>
+  <string name="emailAddress">E-posta adresi</string>
+  <string name="password">Parola</string>
+  <string name="signUpOrSignIn">Kaydol / Giriş Yap</string>
+  <string name="emailAddressIsEmptyOrIllegal">E-posta adresi boş veya geçersiz</string>
+  <string name="passwordMustBeAtLeast6Characters">Parola en az 6 karakter olmalıdır</string>
+  <string name="helperTextForNewAccount">Bu yeni bir hesap, sizin için kaydedeceğiz</string>
+  <string name="helperTextForRegisteredAccount">Bu hesap kayıtlı, sizin için oturum açacağız</string>
+  <string name="forgetPassword">Parolanızı mı unuttunuz?</string>
+  <string name="latex">LaTeX formülü</string>
+  <string name="syntaxHighlighting">Sözdizimi vurgulama</string>
+  <string name="notSignedIn">Giriş yapılmamış</string>
+  <string name="requiresAtLeast6Characters">En az 6 karakter gerekiyor</string>
+  <string name="signedIn">Giriş yapıldı</string>
+  <string name="emailOrPasswordIsIncorrect">E-posta veya parola yanlış</string>
+  <string name="messageCustomFontAndPro">"Özel Yazı Tipi"ni kullandığınızı kontrol ettik, bu özellik Pure Writer Pro gerektirir. Pure Writer Pro ve daha gelişmiş özellikler için Tamam\'a tıklayabilirsiniz, veya Özel Yazı Tipi\'ni iptal etmek için İptal\'e tıklayabilirsiniz (bir sonraki açılışta etkili olacaktır).</string>
+  <string name="introductionOfReadOnlyMode">* İmleç GÖRÜNMEDİĞİNDE, imleci yerleştirmek ve düzenleme moduna girmek için çift tıklama gereklidir\n* İmleç GÖRÜNÜRKEN, metin herhangi bir şekilde tek tıklamayla düzenlenebilir veya değiştirilebilir\n* İmleç GÖRÜNÜRKEN, Geri tuşuna basarak imleci gizleyebilir ve Salt-okunur moduna girebilirsiniz.</string>
+  <string name="messageReadOnlyModeAndPro">Gelişmiş Salt-okunur Modu Pure Writer Pro gerektirir. Pure Writer Pro ve daha gelişmiş özellikler için Tamam\'a tıklayabilirsiniz veya bir sonraki açılışta otomatik olarak iptal edilmek üzere İptal\'e tıklayabilirsiniz.</string>
+  <string name="messageNeedToPay">Bu bir Pro özelliğidir. Kullanmadan önce Pure Writer Pro için ödeme yapmanız gerekiyor. Pure Writer Pro\'nun tüm gelişmiş özelliklerini öğrenmek için Tamam\'a tıklayın. Pure Writer Pro\'yu aldığınızda, tüm gelişmiş özellikleri kullanabilirsiniz.</string>
+  <string name="notYetActivated">Henüz etkinleştirilmedi</string>
+  <string name="notYetActivatedOrExpired">Henüz etkinleştirilmedi veya süresi dolmuş</string>
+  <string name="signingInIsInvalid">Oturum açmak geçersiz</string>
+  <string name="verificationCode">Doğrulama kodu</string>
+  <string name="buyPureWriterPro">Pure Writer Pro satın al</string>
+  <string name="tipMarkdownQuickPreview">Markdown Hızlı Önizleme için\nyatay kaydırma yapın</string>
+  <string name="lifetime">ÖMÜR BOYU</string>
+  <string name="proExpired">Pro süresi doldu</string>
+  <string name="expiresOn">Sona erme tarihi:</string>
+  <string name="useLegacyRender">Eski göstericiyi kullan</string>
+  <string name="changelog">Değişiklik Günlüğü</string>
+  <string name="advancedReadOnlyMode">Gelişmiş salt-okunur modu</string>
+  <string name="needOpenArticleFirst">Bu seçeneği kullanmak için önce bir makale açmanız gerekiyor</string>
+  <string name="restoreArticleScrollPosition">Makale kaydırma konumunu geri yükle</string>
+  <string name="savedStateModeAuto">Otomatik (son düzenlenen makale bir sonraki açılışta geri yüklenecek; son düzenlenmeyen makale son açılış zamanından itibaren bir hafta içindeyse geri yüklenecek, aksi takdirde en üstüne dönecek)</string>
+  <string name="savedStateModeEnableAll">Her durumda, tüm makaleler için etkinleştir</string>
+  <string name="savedStateModeDisableAll">Her durumda, tüm makaleler için devre dışı bırak</string>
+  <string name="summaryScrollToBottom">Bu düğmeyi düzenleyicide göstermek isteyip istemediğinize karar verin</string>
+  <string name="cloudBackupFailed">Bulut yedekleme başarısız oldu</string>
+  <string name="dropboxBackupFailed">Dropbox yedeklemesi başarısız oldu, lütfen Pure Writer bulut yedekleme ayarlarından Dropbox hesabınıza yeniden giriş yapmayı deneyin</string>
+  <string name="tipJianguoyunURL">Lütfen aşağıdaki üç içeriği doldurun</string>
+  <string name="dropboxBackupFailedDueToInsufficientSpace">Bulut yedeklemesi başarısız oldu: Dropbox alanı tükendi</string>
+  <string name="tipImageDialog">Aşağıya eklemek istediğiniz web görüntüsü bağlantısını girin. \nVeya altındaki \"Yerel Görüntü\" düğmesine tıklayarak yerel bir görüntü seçin ve otomatik olarak o görüntü için yerel bir bağlantı elde edin.</string>
+  <string name="imageUrl">Görüntü URL\'si</string>
+  <string name="imageDesc">Görüntü açıklaması (isteğe bağlı)</string>
+  <string name="width">genişlik</string>
+  <string name="insertMarkdownImage">Markdown görüntüsü ekle</string>
+  <string name="youNeedToSignInAgain">Tekrar oturum açmanız gerekiyor</string>
+  <string name="moreAndBetter">Daha fazla ve daha iyi</string>
+  <string name="clickBottomAddNewBlankLine">Boş bir satır eklemek için Alt\'a tıklayın</string>
+  <string name="summaryClickBottomAddNewBlankLine">Son satır boş bir satır değilse, düzenleyicinin altındaki boş alana tıklandığında, metnin sonuna otomatik olarak yeni bir boş satır eklenir ve odaklanılır.</string>
+  <string name="deleteCompletely">Tamamen sil</string>
+  <string name="openArticleListAfterSwitchingBooks">Kitap değiştirildikten sonra makale listesini açın</string>
+  <string name="searchArticles">Makaleleri arayın / Makalelere hızlıca atlayın</string>
+  <string name="searchTip">İpucu: Satır aralarına birden fazla anahtar kelime girerek arama yapabilirsiniz, ancak yalnızca ilk anahtar kelime sonuçlarda vurgulanacaktır.</string>
+  <string name="duplicate">Çoğalt</string>
+  <string name="tipGoogleDriveAppScope">İpucu: Google Drive\'ın uygulama özel dizininin kullanıcılar tarafından görünmez olması nedeniyle, Köprü işlevi otomatik olarak devre dışı bırakılacaktır.</string>
+  <string name="unlimitedStorage">Sınırsız depolama</string>
+  <string name="noteDateTimeShortcut"><![CDATA[
+|        Ek olarak, zaman ve tarih değişkenlerini de ekleyebilirsiniz. İlk giriş kutusuna `${<format>}` girerek ayarlayabilirsiniz, burada `<format>` tarih/saat formatıyla değiştirilmelidir, örneğin:
+|
+|        `${yyyy-MM-dd HH:mm}` şunu üretecektir:
+|        `2020-04-01 21:43`
+|
+|        `${yyyy-M-d hh:mm}` şunu üretecektir:
+|        `2020-4-1 09:43`
+|
+|        (Yukarıdaki örnekleri seçmek ve kopyalamak için **uzun basın**)
+|
+|        Daha fazla **biçim belirleyici** ve serbest kombinasyon için bu [belge sayfasındaki](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html) **tabloyu** kontrol edebilirsiniz.
+    ]]></string>
+  <string name="read">Oku</string>
+  <string name="doNotRemindAgain">Tekrar hatırlatma</string>
+  <string name="homeFab">Ana sayfa yüzen eylem düğmesi modu</string>
+  <string name="fabOverflowModeSingleClick">Tek tıklama ile açılır menüyü açabilir ve menüde bir makale oluşturmayı seçebilirsiniz</string>
+  <string name="fabOverflowModeLongPress">Tek tıklama ile doğrudan bir makale oluşturun ve uzun basın açılır menüyü açın</string>
+  <string name="safeMode">Güvenli mod</string>
+  <string name="summarySafeMode">Bu Uygulama arka plana veya son görev listesi sayfasına girerken, bu Uygulamanın içeriği bulanıklaşır veya gizlenir; bu öğe açıkken, <b>Uygulama içindeki ekran görüntüleri de yasaklanacaktır</b>!</string>
+  <string name="pressBackToClearCursor">İmleç gizlendi ve Salt-okunur moduna girildi</string>
+  <string name="PureWriterManual">Pure Writer kullanım kılavuzu/yardımı</string>
+  <string name="cursorJoyTutorial">Yukarıdaki sallama düğmesine basılı tutun, sonra parmağınızı hareket ettirerek imleç hareketini kontrol edin</string>
+  <string name="tipBlueInputBox">İpucu: Girdikten sonra, mavi giriş kutusundan çıkmak için Enter tuşuna ⏎ basın</string>
+  <string name="cursorJoy">İmleç Joy-Con</string>
+  <string name="textShortcut">Metin Kısayolu</string>
+  <string name="copyCurrent">Seçilen veya mevcut tam metni kopyala</string>
+  <string name="formatterAction">Biçimlendir</string>
+  <string name="orSelectShortcutFunction">Veya kısayol işlevini seçin</string>
+  <string name="joyNotSupportTitleNow">Özellik şu anda başlıkta desteklenmiyor</string>
+  <string name="blueInputBox">Mavi giriş kutusu</string>
+  <string name="editorMarkdownSyncScrolling">Düzenleyici ⇋ Markdown için kaydırma senkronizasyonu</string>
+  <string name="smoothCursor">Düzgün imleç</string>
+  <string name="typeOfTimeDisplayed">Gösterilen zaman türü</string>
+  <string name="timeModified">Zaman Değiştirildi</string>
+  <string name="timeCreated">Zaman Oluşturuldu</string>
+  <string name="timeCreatedAndModified">Zaman Oluşturuldu ve Değiştirildi</string>
+  <string name="editor1">Editör 1</string>
+  <string name="editor2">Editör 2</string>
+  <string name="currentChapterWordCount">Geçerli bölümün kelime sayısı</string>
+  <string name="currentBookWordCount">Tüm kitabın kelime sayısı</string>
+  <string name="splitLayout">Bölünmüş düzen</string>
+  <string name="rating">Derecelendirme</string>
+  <string name="thankYou">Teşekkür ederiz!</string>
+  <string name="wordsShort">k</string>
+  <string name="theTry">Dene</string>
+  <string name="selectFolder">Klasör seçin</string>
+  <string name="fileTypeNotSupported">Dosya türü desteklenmiyor</string>
+  <string name="grantStoragePermission">Depolama izni verin</string>
+  <string name="folderNoLongerExists">Klasör veya depolama artık mevcut değil!</string>
+  <string name="tipNotRecommendedFolder">Bu klasör önerilen klasörümüze uymamaktadır ve Pure Writer, eski yedek dosyalarını okuyamayacaktır. Lütfen dikkatli olun veya geri dönüp bunu düzeltin!</string>
+  <string name="tipTargetFolder">"Seçtiğiniz klasöre göre, Pure Writer\'ın son depolama dizini: "</string>
+  <string name="messageWhyNeedSAF">Android 11\'den itibaren kullanıcı gizliliğini daha iyi korumak için Pure Writer **artık tam harici depolama okuma/yazma izinleri gerektirmez**, bunun yerine **kullanıcıların bir klasör dizini belirtmesine** olanak tanır, ve Pure Writer\'ın o dizine yalnızca okuma/yazma erişimi olacaktır.\n\nBu nedenle, aşağıdaki düğmeyi tıklayarak bir klasör seçmeniz gerekir. İleride yeniden yüklerken eski verileri geri yüklemek için ***`Documents`*** klasörünü seçmenizi **şiddetle öneririz** 🙏</string>  <string name="pureWriterFolder">PureWriter klasörü</string>
+  <string name="selectFont">Yazı tipi seçin</string>
+  <string name="materialFilesNote">Şu anda, aşağıdaki yolu zhanghai/MaterialFiles ile sadece açmayı destekliyoruz. İhtiyaç duyarsanız bu uygulamayı kendiniz indirebilir veya sisteminizdeki dosya yöneticisini manuel olarak kullanabilirsiniz.</string>
+  <string name="changeFolder">Klasör değiştir</string>
+  <string name="yourFolderIs">"Seçtiğiniz klasör dizini: "</string>
+  <string name="changeFolderNote">Aşağıda *KLASÖRÜ DEĞİŞTİR*\'i seçerseniz, PureWriter klasörünü **el ile** yeni hedef klasöre **önce** taşımanız ve ardından değiştirmeniz gerekir.</string>
+  <string name="previous">Önceki</string>
+  <string name="autoConnectToDesktop">Masaüstü sürümüne otomatik bağlan</string>
+  <string name="desktopLink">https://writer.drakeet.com/desktop_en</string>
+  <string name="autoConnectToDesktopNextTime">Bir dahaki sefere Masaüstüne otomatik olarak bağlan</string>
+  <string name="optionsForTheFewPeople">Birkaç kişi için seçenekler</string>
+  <string name="summaryPie">Sağlanmaması gereken bazı ayarlar sağlayın</string>
+  <string name="stretchEdgeEffect">Esnetme kenarı efekti</string>
+  <string name="staticCursor">Statik imleç (yanıp sönmeyen)</string>
+  <string name="cursorJoyModePosition"><![CDATA[İmleç eğlence modu ve konumu]]></string>
+  <string name="cursorJoyModePosition0">Kasıtsız dokunmayı önleme modu, sağda</string>
+  <string name="cursorJoyModePosition1">Kısayol listesinde\"Doğrudan dokunarak hareket ettir\" modu</string>
+  <string name="typewriterModeMode0">Paragraf modu</string>
+  <string name="typewriterModeMode1">Hat modu</string>
+  <string name="restoreOptionsMessage">Yerel içeriğin üzerine yazmak veya yerel içerikle birleştirmek için bu yedeği kullanmanız gerekiyor mu?\n\nNot: Birleştir\'i seçerseniz, yedekleme dosyasındaki ayarlar ve bulut yedekleme hesap bilgileri birleştirilemez ve bunları manuel olarak yeniden yapılandırmanız gerekebilir.</string>
+  <string name="merge">Birleştir</string>
+  <string name="merging">Birleştiriliyor…</string>
+  <string name="checkIntegrityOfBackup">Yedekleme dosyasının bütünlüğünü kontrol edin…</string>
+  <string name="noteBeforeRestoringBackup">Her şey başlamadan önce mevcut verilerin bir yedeğini alın…</string>
+  <string name="startMerging">Birleştirmeye başla…</string>
+  <string name="insertANewBook">Yeni bir kitap ekleyin</string>
+  <string name="updateABook">Bir kitabı güncelleyin</string>
+  <string name="deleteABook">Bir kitabı silin</string>
+  <string name="insertingOrUpdatingArticles">Makaleler ekleniyor veya güncelleniyor…</string>
+  <string name="insertANewArticle">Yeni bir makale ekleyin</string>
+  <string name="summary">Özet</string>
+  <string name="updateAnExistingArticle">Mevcut bir makaleyi güncelleyin</string>
+  <string name="deleteAnExistingArticle">Mevcut bir makaleyi silin</string>
+  <string name="totalNumberOfArticlesInsertedOrUpdated">Eklenen veya güncellenen toplam makale sayısı</string>
+  <string name="insertANewShortcut">Yeni bir kısayol ekleyin</string>
+  <string name="deleteAShortcut">Bir kısayolu silin</string>
+  <string name="updateAShortcut">Bir kısayolu güncelleyin</string>
+  <string name="totalNumberOfNewTimeMachineMessagesInserted">Eklenen toplam yeni zaman makinesi mesajı sayısı</string>
+  <string name="totalNumberOfNewTimeMachineMessagesInsertedOrUpdated">Eklenen veya güncellenen toplam yeni zaman makinesi mesajı sayısı</string>
+  <string name="totalNumberOfDailyUpdatedOrInserted">Güncellenen veya eklenen günlük istatistiklerin toplam sayısı</string>
+  <string name="mergeDone">Bitti!</string>
+  <string name="relaunch">Yeniden Başlat</string>
+  <string name="autoComplete">Otomatik tamamlama</string>
+  <string name="autoCompleteSummary">Eşleştirilmiş sembolleri yalnızca imleç makalenin <b>sonunda</b> olduğunda otomatik olarak tamamla</string>
+  <string name="autoDeleteSymbolsInPairs">Sembolleri çiftler halinde otomatik sil</string>
+  <string name="autoDeleteSymbolsInPairsSummary">Yalnızca eşleştirilmiş semboldeki içerik <b>boş</b></string> olduğunda
+  <string name="tip">İpucu</string>
+  <string name="editor2Tip">İkinci düzenleyicidesiniz ve üstteki simge birinci düzenleyicinin karşısındadır. İlk düzenleyiciye dönmek isterseniz, <b>düzenleyicide sola veya sağa kaydırabilirsiniz</b>.</string>
+  <string name="needCursorTip">Devam etmeden önce imleci yerleştirmek için metne tıklamanız gerekiyor</string>
+  <string name="shortcutKeysForShortcut">Kısayol girişleri için kısayol tuşları</string>
+  <string name="shortcutKeysForShortcutSummary">Metin Kısayol girişlerini çağırmak için Alt veya Ctrl + sayı tuşlarına basın</string>
+  <string name="optionsForLandscape"><![CDATA[Peyzaj ayarları ve yönergeleri]]></string>
+  <string name="editInVerticalCenter">Dikey merkezde düzenle</string>
+  <string name="onlyWorkForHardwareKeyboard">Yalnızca donanım klavyesi için çalışır</string>
+  <string name="editInVerticalCenterSummary">Düzenlenmekte olan satırın her zaman ekranın ortasında olmasını sağlar</string>
+  <string name="migrateImageAssets">Markdown resimlerini Documents/PureWriter/Assets dizinine taşıyın</string>
+  <string name="migrateImageAssetsSummary">Bu, Markdown\'unuz tarafından referans verilen tüm görüntüleri merkezi olarak yeni cihazınıza aktarmanıza yardımcı olur. Bu işlemden sonra Documents/PureWriter/Assets klasörünü yeni cihazın aynı dizinine kopyalayabilir ve ardından cihaz Yedeklemesini yeni cihaza geri yükleyebilirsiniz, böylece yeni cihaz orijinal görüntülere sorunsuz bir şekilde başvurabilir.</string>
+  <string name="tipForFromPlayToAlipay">Bu ödeme yöntemini kullanmak için lütfen anakara Çin\'de olduğunuzdan emin olun. Google ve Google Play Çin\'de ödeme yapmak için kullanılamadığından, bu ödeme yöntemi prensipte yalnızca anakara Çin\'deki kullanıcılar tarafından kullanılabilir.</string>
+  <string name="switchToAlipayPaymentMethod">Alipay ödeme yöntemine geçin</string>
+  <string name="switchToGooglePlayPaymentMethod">Google Play ödeme yöntemine geçin</string>
+  <string name="skuActive">Aktif</string>
+  <string name="askUnsubscribe"><u>Abonelikten çıkılsın mı</u></string>
+  <string name="notesForGoogleSkus">Önemli:\n\n* Pure Writer\'ı ödeyip yeniden yüklediyseniz, ancak ödeme durumunu zamanında almadıysa, şu öğreticiyi izleyerek geri yükleyebilirsiniz: https://t. me/s/PureWriter/880\n\n* Google, abonelikleri iptal etmek için bir arayüz sağlamadığından, bir aboneliği iptal etmeniz gerekirse, devam etmek için aboneliğinizi veya yukarıdaki \"Abonelikten çık?\" düğmesini tıklamanız gerekir. \n\n* Google Play\'de bu uygulamanın aboneliğini iptal ettikten sonra, uygulama en son durumu hemen almayacağından, abonelik öğesinin bu sayfada hala \"etkin\" durumda olduğunu göreceksiniz. Bu normal bir fenomendir. Ertesi gün doğru sonucu alacaksınız veya mevcut abonelik sürenizin bitmesini bekleyin.\n\n* Abonelikten \"Ömür Boyu\" öğesine geçmeyi planlıyorsanız, önce aboneliğinizi iptal etmelisiniz, ve ardından \"Ömür Boyu\" öğesini satın alın. Bu uygulama, aboneliğinizi kendi kendine iptal edemez.\n\n* Ödeme işlemi sırasında DF-DFERH-01 hatasıyla karşılaşırsanız, lütfen cihazınızı yeniden başlatıp tekrar deneyin.\n\n* Abone olursanız veya Pro satın alırsanız , Pure Writer\'ın tüm Pro özelliklerine erişebileceksiniz, aksi takdirde Pro dışındaki ücretsiz özelliklere erişebileceksiniz.\n\n* Ayrıca, Pro işlevlerinin çoğu deneme için bir \"Dene\" seçeneği sunacaktır. Duruşma genellikle 7 gündür. Süre sona erdikten sonra, Pure Writer otomatik olarak şarj ETMEZ. Başka bir deyişle, Pure Writer otomatik olarak ücretli bir aboneliğe geçmeyecektir. Böylece deneme için endişelenmenize gerek yok.\n\n* Ödeme sonucu sisteminizin Google hesabına otomatik olarak bağlanacaktır, teşekkürler!</string>
+  <string name="activating">Etkinleştiriliyor…</string>
+  <string name="updating">Güncelleniyor…</string>
+  <string name="themesAndPapers"><![CDATA[Temalar ve Duvar Kağıtları]]></string>
+  <string name="once">hiç</string>
+  <string name="selectALightTheme">Hafif bir tema seçin</string>
+  <string name="selectADarkTheme">Koyu bir tema seçin</string>
+  <string name="selectATheme">Bir tema seçin</string>
+  <string name="fixedThemeTitle">Düzeltildi, otomatik geçiş yapmayın</string>
+  <string name="followSystemThemeTitle">Sistemi takip et (OS ile senkronize et)</string>
+  <string name="scheduledThemeTitle">Zamana göre otomatik geçiş:\n7:00-17:00 açık tema kullanın, aksi takdirde koyu tema</string>
+  <string name="paperSettingsHint">Duvar kağıdını/temayı seçmek veya özelleştirmek için tıklayın</string>
+  <string name="lightTheme">Açık tema</string>
+  <string name="darkTheme">Koyu tema</string>
+  <string name="whetherOverwriteSettings">Yerel ayarların üzerine yazılsın mı?</string>
+  <string name="realNo">Hayır</string>
+  <string name="realYes">Evet</string>
+  <string name="askOverwriteSettings">Yerel makale veritabanının üzerine yazmak için yedekleme dosyanızdaki makale veritabanını kullanacağız, ancak yerel ayarların üzerine yazmak için yedekleme dosyasındaki ayarları kullanmamıza ihtiyacınız olup olmadığını bilmiyoruz. Lütfen seçin:</string>
+  <string name="privacyPolicySummary">Hiçbir özel bilginizi toplamayacağız</string>
+  <string name="sortingOptions">Sıralama seçenekleri</string>
+  <string name="modifyOrderOfChapters">Bölümlerin sırasını değiştirin</string>
+  <string name="modifyOrderOfCategories">Klasörlerin sırasını değiştirin</string>
+  <string name="saveAsTxtFile">.txt dosyası olarak kaydet</string>
+  <string name="saveAsMdFile">.md dosyası olarak kaydet</string>
+  <string name="saveAsLongImage">Uzun resim (.png) olarak kaydet</string>
+  <string name="previewThemeSmartisan">Tema: Smartisan</string>
+  <string name="previewThemeDark">Tema: Koyu</string>
+  <string name="previewThemeLight">Tema: Hafif</string>
+  <string name="useAppFont">Uygulama yazı tipini kullan</string>
+  <string name="useSystemFont">Sistem yazı tipini kullan</string>
+  <string name="tipBadThemeBackground">Şu anda seçili olan arka plan resmi veya rengi, geçerli temanın yazı tipi rengiyle eşleşmiyor, lütfen tekrar seçin veya bu istemin yanlış olduğunu düşünüyorsanız bu istemi dikkate almayın.</string>
+  <string name="keywordDetection">Anahtar kelime algılama</string>
+  <string name="confirmDeletion">Silme işlemini onaylayın</string>
+  <string name="addAKeyword">Bir anahtar kelime ekleyin</string>
+  <string name="clearAllKeywords">Tüm anahtar kelimeleri temizle</string>
+  <string name="pleaseSeeTheKeywordsFile">Lütfen anahtar kelimeler dosyasına bakın</string>
+  <string name="export">Dışa Aktar</string>
+  <string name="import2">İçe Aktar</string>
+  <string name="keywordsAreAsFollow">Anahtar kelimeler aşağıdaki gibidir, her satıra bir tane</string>
+  <string name="filter">Filtre</string>
+  <string name="tipEmptyKeywords">Mevcut [anahtar kelime] kitaplığı boş, anahtar kelimeyi içe aktarmak için üstteki Ekle veya İçe Aktar düğmesini tıklayabilirsiniz ve anahtar kelimeyle eşleşen metin düzenleyicide gerçek zamanlı olarak işaretlenecektir. </string>
+  <string name="keywordsManagement">Anahtar kelime yönetimi</string>
+  <string name="uploadingKeywordsToCloud">Anahtar kelimeler bulut depolamanıza yükleniyor...</string>
+  <string name="downloadingKeywordsFromCloud">Anahtar kelimeler bulut depolama alanınızdan indiriliyor...</string>
+  <string name="keywordRetrieval">Anahtar kelime alma</string>
+  <string name="retrieveCurrentArticle">Geçerli makaleyi al</string>
+  <string name="previousOne">Önceki</string>
+  <string name="nextOne">Sıradaki</string>
+  <string name="uploadToCloudStorage">Bulut depolama alanına yükleyin</string>
+  <string name="downloadFromCloudStorage">Bulut depolama alanından indirin</string>
+  <string name="disableKeywordsFeature">Anahtar kelimeler özelliğini devre dışı bırakın</string>
+  <string name="limit1080wForPreviewImages">Maksimum genişliği 1080 ile sınırlayın</string>
+  <string name="dailyStatistics">Günlük istatistikler</string>
+  <string name="dailyExtraNote">* Not: Bu güne ait <i>Günlük İstatistikler</i>\'den önceki makaleler olduğundan, yukarıdaki verilerin bir kısmı ek çıkarımsal verilerdir; örneğin, yazma süresi şu şekilde hesaplanabilir: makalenin son güncellenme zamanı - doğru olmayabilir, yalnızca referans amaçlı makale oluşturma zamanı!</string>
+  <string name="currentBookAndItsWordCount">Mevcut kitap ve kelime sayısı</string>
+  <string name="allBooksWordCount">Tüm kitaplardaki toplam kelime sayısı</string>
+  <string name="other">Diğer</string>
+  <string name="minute">dakika</string>
+  <string name="hour">saat</string>
+  <string name="millisecond">milisaniye</string>
+  <string name="second">saniye</string>
+  <string name="wordCountFull">Kelime sayısı</string>
+  <string name="speed">Hız</string>
+  <string name="writingTimeAkaInputStatus">Yazma zamanı (giriş durumu)</string>
+  <string name="appInForegroundTime">Uygulama ön planda</string>
+  <string name="writingStartTime">Yazma başlangıç zamanı</string>
+  <string name="lastTime">Son kez</string>
+  <string name="modifyWordCount4MaxLevel">Maksimum seviye için kelime sayısını değiştir</string>
+  <string name="noteDailyWidgetSetting">Günlük İstatistikler sayfasının üst kısmındaki ızgara, GitHub katkıları tarzında yazdıklarınızın bir grafiğidir. Kılavuz rengi için, varsayılan 0 kelime sayısı düzeyine ek olarak, kılavuz renginin 4 düzeyi vardır ve bunların varsayılan maksimum düzeyi 2000 kelime ve üzeridir, bu maksimum düzey kelime sayısını hedefiniz olarak değiştirebilirsiniz:</string>
+  <string name="overview">Genel Bakış</string>
+  <string name="purchaseTime">Satın alma zamanı</string>
+  <string name="ignoreBatteryOptimizationsTip">Daha istikrarlı bir masaüstü bağlantısı için pil optimizasyonunu kapatın (endişelenmeyin, Pure Writer çok fazla güç tüketmez, ancak sisteminizin pil optimizasyonu ağ bağlantınızı kesebilir )</string>
+  <string name="ignoreBatteryOptimizationsTipForSync">Pure Writer\'ın sisteminiz boştayken arka planda otomatik Cloud Sync yapmasına yardımcı olmak için pil optimizasyonunu kapatın (endişelenmeyin, pil tüketimi üzerindeki etkisi gerçekten çok azdır)</string>
+  <string name="ignoreBatteryOptimizationsTipForSyncDetail">**Cihaz tamamen şarj olduğunda ve bir Wi-Fi ağına sahip olduğunda**, Pure Writer gerektiğinde arka planda otomatik olarak Bulut Senkronizasyonu gerçekleştirir ([WorkManager tarafından](https://developer. android.com/topic/libraries/architecture/workmanager) **boşta sistem** zamanlama, Pure Writer arka plan işlemini tutmaz), minimum aralık 15~56 dakikadır ve bunun güç üzerinde çok az etkisi vardır, bunu yapmazsınız\ Endişelenmenize gerek yok.\n\nBöylece Pure Writer için Pil Kullanımını **Sınırsız** olarak değiştirebilirsiniz, böylece sistem boşta ve gerekli olduğunda Pure Writer siz sistemi açmadan önce bunu **otomatik olarak garanti edebilir diğer cihazlardaki değişiklikleri bu cihazla senkronize et**.\n\nGenel olarak, __Pil Kullanımı__ üzerinde değişiklik yapmak için Pure Writer uygulaması bilgi sayfasına gidebilirsiniz.\n\nMutlu kullanımlar!</string>
+  <string name="commaToFullStopWhenEnteringANewline">Yeni satır girerken virgül ile nokta</string>
+  <string name="hideStatusBar">Durum çubuğunu gizle</string>
+  <string name="hideStatusBarSummary">Yalnızca ana düzenleyici ekranında etkili olur</string>
+  <string name="scrollToHideFAB">Düzenleyicinin sağ alt kısmındaki kayan ⊕ düğmesini gizlemek için kaydırın</string>
+  <string name="scrollToHideFABSummary">Kapalıysa, sağ alttaki düğme düzeltilir</string>
+  <string name="noNetworkPermission">Ağ izni yok</string>
+  <string name="noNetworkPermissionMessage">Pure Writer\'ın bağlanmasını engelleyen ağ izinlerini devre dışı bıraktınız. Bu, Pure Writer\'ın bulut yedeklemeleri gerçekleştirmesini engelleyecektir, bu nedenle lütfen Pure Writer ağ oluşturma izinleri verin!</string>
+  <string name="hideWordCountOnTM">Time Machine işlem çubuğundaki Kelime Sayısını Gizle düğmesi</string>
+  <string name="tryChangingANiceBackgroundOrTheme">Güzel bir arka planı veya temayı değiştirmeyi dener misiniz?</string>
+  <string name="databaseDowngradeError">Veritabanı sürüm düşürme hatası</string>
+  <string name="databaseDowngradeErrorMessage">Pure Writer\'ınız, Pure Writer\'ın sonraki bir sürümünden bir veritabanı dosyasını kurtardı veya kullandı. Pure Writer\'ın geçerli sürümü veritabanını işleyemez. Bu sorunu çözmek için lütfen Pure Writer\'ı en son sürüme güncelleyin. \n\nGüncelleme yapmazsanız, program düzgün çalışmaz, amacımız sizi kısıtlamak değildir, ancak mevcut eski sürüm teknik olarak veritabanının yeni sürümünü işleyemez. Lütfen anlayın ve çözmek için en son sürüme güncelleyin. \n\nEn son sürümü edinin: https://t.me/s/PureWriter</string>
+  <string name="forcedPortrait">Ekran yönünü portreye zorla</string>
+  <string name="forcedPortraitSummary">Otomatik döndürme açık olsun ya da olmasın, bu uygulama portre modunu kullanır.</string>
+  <string name="titleAsAWordForACountSummary2">Bir kelimeyi sayı olarak alın</string>
+  <string name="cloudSync">Bulut senkronizasyonu</string>
+  <string name="cloudSyncMode">Bulut senkronizasyon modu seçenekleri</string>
+  <string name="autoSwitchThemesAndNightMode">Temaları ve gece modunu otomatik değiştir</string>
+  <string name="syncFailedNotSign">Bulut senkronizasyonu başarısız oldu, lütfen önce bulut depolama hesabınızda oturum açın!</string>
+  <string name="remindMeNextTime">Bir dahaki sefere hatırlat</string>
+  <string name="alwaysSyncGuideMessage">Senkronizasyon düğmesine tıkladınız ve senkronizasyon başlamak üzere. Bu senkronizasyon düğmesi, senkronizasyon yapmanız gerektiğinde otomatik olarak görünür ve mevcut içeriği bulut depolama alanıyla senkronize etmek için tıklamanız gerekir.\n\n‼️\nBazen bu düğme, senkronize edilmesi gereken içeriği başlangıçta algılayamaz. İlk kez. Hemen senkronize etmek istiyorsanız, düzenleyicinin altındaki ⊕ düğmesine tıklayabilir ve ardından senkronizasyon düğmesini hemen görebilir ve hemen bir senkronizasyonu tetikleyebilirsiniz.</string>
+  <string name="important">Önemli</string>
+  <string name="cloudSyncSummaryBasic">Makaleler gibi verileri birden çok cihaz arasında otomatik olarak senkronize et</string>
+  <string name="thisDevice">Bu cihaz</string>
+  <string name="otherSyncDevices">Diğer senkronizasyon cihazları</string>
+  <string name="cloudSyncReadme">\"Cloud Sync\" işlevini etkinleştirmek üzeresiniz. Bundan önce, bazı önlemleri dikkatlice anlamanız gerekir. Bu çok önemli. Aksi takdirde, bazı metinleri kaybedebilirsiniz. Lütfen şunlara dikkat edin:\n\n* Pure Writer\'ın bulut yedeklemesi ve bulut senkronizasyonu tamamen ücretsiz işlevlerdir. Herkesi aşağıdaki içeriği dikkatli bir şekilde okumaya davet ediyoruz, böylece bu işlev ücretsiz olarak sağlansa bile, bu işlevleri geliştirmenin değerli olduğunu hissedeceğiz. Anlayışınız ve işbirliğiniz için teşekkürler! Gelecekte birçok kişinin aşağıdakileri anlamakta isteksiz olduğunu görürsek, <b>bulut eşitleme işlevinden vazgeçebiliriz</b>(‼️).\n\n* Aşağıdaki \"Tamam\" düğmesini tıklarsanız , aşağıdaki içeriği kabul edersiniz ve Pure Writer hemen bir bulut senkronizasyonu gerçekleştirir.\n\n* Şu anda bulut senkronizasyonu için bulut depolama alanı, bulut yedekleme depolama alanınızla aynıdır.\n\n* \" öğesini seçtiyseniz \"Bulut Eşitleme Modu Seçenekleri\"nde Manuel\" modunda, ardından eşitlenmesi gereken içerik olduğunda, düzenleyicinin altında bir eşitleme düğmesi görünür, bulut depolama ile eşitlemek için her seferinde bu düğmeyi tıklamanız gerekir .\n\n* Tüm cihazların Pure Writer v20.0 veya üzeri bir sürüme sahip olduğundan ve aynı bulut yedekleme deposunda oturum açtıklarından emin olmanız gerekir, böylece bu cihazlar birbiriyle içerik senkronize edebilir, yani eğer farklı cihazlardaki bulut yedekleme depolaması aynı hesap değilse, bu cihazlar birbiriyle senkronize edilemez.\n\n* Pure Writer wil Düzenli aralıklarla senkronize edilmesi gereken içerik için bulut depolamayı otomatik olarak sorgularım. Yeni değişiklikler varsa, düzenleyicinin alt kısmında bir senkronizasyon butonu görüntülenecektir ve uygun bir zamanda senkronize etmek için butona tıklayabilirsiniz. Normalde her 20 saniyede bir veya bir Wi-Fi ağı olduğunda 10 saniyede bir kontrol edilecektir. Bu ağ isteği çok az trafik tüketiyor ve bunun için endişelenmenize gerek yok.\n\n* En önemlisi (‼️): Senkronizasyondan önce, aynı makaleyi iki cihazda düzenleyemezsiniz, aksi halde daha sonra düzenlenen içerik doğrudan metnin bir kısmını kaybetmenize neden olacak şekilde önceki içeriğin üzerine yazın. Aynı makaleyi iki cihazda düzenlemeniz gerekiyorsa, doğru yol, makaleyi bir cihazda düzenledikten sonra içeriği bulut depolamaya senkronize etmek için senkronizasyon düğmesine tıklamak ve ardından senkronizasyondan sonra diğer cihazda senkronizasyon düğmesine tıklamaktır. içeriği bu cihaza senkronize etmek tamamlandı, böylece bu cihazdaki en son makaleleri düzenleyebilirsiniz.\n\n* Önceki istemin ne dediğini anlayamıyorsanız bulut senkronizasyonunu etkinleştirmemeniz önerilir. aksi takdirde bazı metinler kaybolacaktır!\n\n* Pure Writer, her senkronizasyondan önce tüm orijinal verilerinizi bir kez paketleyecek ve yedekleyecektir. Görmek için Yedeklemeler sayfasında \"Yedeği Geri Yükle\"ye tıklayabilirsiniz.\n\n* Pure Writer\'ın \"Geçmiş\" ve \"Otomatik Yedekleme\" işlevlerine sahip olduğunu her zaman unutmayın.\n\n* Bulut senkronizasyonu yapar Markdown resimlerini desteklemiyor.</string>
+  <string name="aboutCloudSync"><i>Cloud Sync Hakkında</i></string>
+  <string name="syncCategoryTip">Aşağıdaki bulut senkronizasyon seçeneğini etkinleştirmek için yukarıdaki bulut depolama hesabında oturum açmanız gerekiyor</string>
+  <string name="cloudSyncModeNames1">Manuel olarak: Her eşitlemeniz gerektiğinde, düzenleyicinin altındaki Eşitle düğmesini manuel olarak tıklayın. Bu mod, trafik ve istek sıklığı sınırları olan bulut depolama için uygundur.\n</string>
+  <string name="cloudSyncModeNames2">Yarı otomatik: Her metin değişikliği olduğunda ve yazılım klavyesi kapatıldığında, senkronizasyon otomatik olarak gerçekleştirilecek ve iki otomatik senkronizasyon arasındaki aralık en az 6 saniye olacaktır.</string >
+  <string name="syncBeforeEditingToAvoidConflicts">Çatışmaları önlemek için düzenlemeden önce senkronize edin</string>
+  <string name="okSyncIt">Tamam, senkronize et</string>
+  <string name="messageSyncBeforeEditingToAvoidConflicts">Mevcut makaleyi diğer cihazlarda değiştirdiniz, çakışmaları önlemek için lütfen önce senkronize edin, aksi takdirde diğer cihazlardaki değişiklikleriniz iptal edilebilir.</string>
+  <string name="moveArticlesOfDeletedFolderToTrash">Silinen klasörün içindeki makaleleri Çöp Kutusuna taşıyın</string>
+  <string name="tts">TTS (Yazım hatalarından veya imla hatalarından kaçınmanıza yardımcı olması için taahhüt ettiğiniz metni yüksek sesle söyleyin)</string>
+  <string name="about7zChange">Buluta yedekleme ve eşitleme hakkında önemli uyarı</string>
+  <string name="readme7z">Pure Writer v20.6.0, bulut yedekleme ve eşitleme dosyası(.pwb) biçimini değiştirerek yedekleme veya bulut eşitleme dosyalarınızın boyutunu önemli ölçüde azaltabilir ve trafik tüketiminizi azaltarak bulutu hızlandırır yedekleme ve senkronizasyon işlemi.\n\nAncak bu, diğer cihazlarda Pure Writer\'ın v20.6.0\'dan daha düşük bir sürümünü kullanırsanız, en son veri formatını doğru şekilde ayrıştıramayacak ve bulut senkronizasyonu çalışmayacaktır. ve bulut yedekleme de yanlışlıkla \"<b>Dosya bozuk</b>\" bildirecektir.\n\nBu nedenle, <b>tüm cihazlarınızın v20.6.0\'ın üzerinde Pure Writer kullandığından emin olmanız gerekir</b >, bu çok önemli, lütfen aklınızda bulundurun ve güncel tutun! 🙏</string>
+  <string name="ttsMode">TTS modu (kelime mi yoksa cümle mi?)</string>
+  <string name="ttsModeWord">Az önce yazdığınız <b>kelimeyi</b> söyleyin</string>
+  <string name="ttsModeSentence"><b>Cümleyi</b> söyleyin\n(Diğer diller için cümleleri nasıl bölümlere ayıracağımızı bilmediğimiz için yalnızca bazı diller desteklenir‼️)</string>
+  <string name="openTtsSetting">Sistem Ayarlarını Aç - TTS</string>
+  <string name="downloadTtsEngine">TTS Motorunu İndir</string>
+  <string name="titleRestoreOrderOfArticlesFromAnOldBackup">Makalelerin <b>sırasını</b> eski bir yedekten geri yükleyin</string>
+  <string name="summaryRestoreOrderOfArticlesFromAnOldBackup">Bu, makale listesinin bozuk olduğu bir hatayla karşılaştığınızda kullanılabilir, seçtiğiniz eski yedeklemedeki makale sırası değerini okuyacak ve mevcut makalelerinize atayacaktır</string >
+  <string name="titleSelectBooksToRestoreOrder">Lütfen dahili bölüm sırasını geri yüklemek için kitapları seçin</string>
+  <string name="beforeRestoreOrder">beforeRestoreOrder</string>
+  <string name="readCurrentArticleAloud">Mevcut makaleyi yüksek sesle okuyun</string>
+  <string name="checkForUpdates">Güncellemeleri kontrol et</string>
+  <string name="cloudSyncAutoSwitchesToTheLatestEditedArticle">Bulut senkronizasyonu otomatik olarak en son düzenlenen makaleye geçer</string>
+  <string name="summaryCloudSyncAutoSwitchesToTheLatestEditedArticle">Bu, yalnızca Cloud Sync Ayarlarında bulut senkronizasyonunu etkinleştirdikten sonra geçerli olacaktır.\nBu seçeneği etkinleştirdikten sonra, bulut senkronizasyonu tamamlandığında Pure Writer sizin için otomatik olarak en son düzenlenen makalenize geçiş yapacaktır.</string>
+  <string name="ttsEnabled">TTS etkin</string>
+  <string name="orLongPressToSelect">Veya bazı kısımlarını seçmek ve kopyalamak için metne uzun basın</string>
+  <string name="messageAskPostNotification"><i>Otomatik Yedekleme</i> durumunu görüntülemek için bildirim izni verilsin mi?</string>
+  <string name="needUpdate">Güncelleme gerekiyor</string>
+  <string name="messageNeedForcedUpdate">Mevcut sürümün HTTPS sertifikasının süresi dolduğundan, Android sistemi Pure Writer için güvenli ağ istekleri sağlayamıyor ve ağ istekleriniz aracılar tarafından yakalanabilir. Bu nedenle, Pure Writer\'ı güvenli bir şekilde kullanmaya devam etmek için yeni sürüme güncellemeniz gerekiyor.</string>
+  <string name="showShareTextMenuItemAfterSelectingText">Metin seçtikten sonra paylaşım metni menü öğesini göster</string>
+  <string name="extKeyboardTip">Yatay konumdayken harici klavyeyi kullanma istemi</string>
+  <string name="tipLargeText">Mevcut makale çok uzun, bu nedenle düzgün yazma deneyimine devam etmek için Paragraf Boşluğu geçici olarak devre dışı bırakıldı.</string>
+  <string name="superLongArticleThreshold">Süper uzun makale eşiği</string>
+  <string name="superLongArticleThresholdSummary">Makaledeki karakterlerin uzunluğu eşiği aştığında, sorunsuz bir yazma deneyimi sürdürmeniz için Paragraf Boşluğunu geçici olarak devre dışı bırakacağız, bu, boş satırlarınızın kaybolmasına neden olmaz, Paragraf Boşluğu eşit değildir satırları boş bırakmak için endişelenmenize gerek yok. Çok uzun makaleler için değerlendirme eşiğini değiştirmeniz gerekirse bu öğeyi değiştirebilirsiniz.</string>
+  <string name="searchTimeMachine">Arama Zaman Makinesi</string>
+  <string name="createPinShortcut">Ana ekran Kısayolu oluştur</string>
+  <string name="pinShortcutDialogMessage">Kitapları gruplamak için kullanabileceğiniz bu kitap için bir başlatıcı veya masaüstü Kısayolu oluşturur. \n\n⚠️ Not: Bazı sistemler varsayılan olarak Kısayol oluşturmayı desteklemez, Ana ekran kısayolları iznini etkinleştirmek için Sistem Ayarları ekranına gitmek için aşağıdaki Ayarlar düğmesine tıklamanız ve ardından bu ekrana geri dönüp Tamam düğmesine tıklamanız gerekir. . \n\nBaşarıdan sonra, başlatıcınızda veya masaüstünüzde bir kısayol simgesi bulabilirsiniz.</string>
+  <string name="all">Tümü</string>
+  <string name="newTag">Yeni Etiket</string>
+  <string name="createANewOrSelectAnExistingTag">Yeni bir Etiket oluşturun veya mevcut bir Etiketi seçin</string>
+  <string name="tipNewTag">Bu, kitap Etiketi 🏷️️ işlevidir. Bir kitap için bir Etiket ayarlamanız ve onu en üstte görüntülemeniz gerekiyorsa, Kitaplar ekranında kitap öğesine uzun basmanız ve ardından Kitabı Düzenle menüsünü seçmeniz gerekir. Kitap oluşturma veya düzenleme iletişim kutusunda, kitabın Etiketlerini ayarlayabilirsiniz.</string>
+  <string name="titleMoreArticleCreatingOptions">⊕ düğmesinde makale oluşturmak için her zaman daha fazla seçenek göster</string>
+  <string name="summaryMoreArticleCreatingOptions">Varsayılan olarak, bir makale oluşturmak için daha fazla seçenek gösterecek olan ⊕ tuşuna uzun basın</string>
+  <string name="aliyunLoginExpired">Aliyun oturum açma süresi doldu, lütfen tekrar oturum açın!</string>
+  <string name="aliyun">AliyunDrive</string>
+  <string name="oneDrivePersonal">OneDrive - Kişisel</string>
+  <string name="clickHereToSelectAnotherCloudStorageType">Başka bir bulut depolama türü seçmek için burayı tıklayın</string>
+  <string name="searchWritingCache">Önbellekte aransın mı?</string>
+</resources>

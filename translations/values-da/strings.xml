@@ -93,6 +93,7 @@
   <string name="warningSavedFailed">Sparring af artikel mislykkedes. Kopier venligst dit indhold, og prøv at genstarte appen for at kontrollere, om noget indhold er gået tabt.</string>
   <string name="backupNow">Backup nu</string>
   <string name="backupToLocalNow">Sikke backup til lokalt lager nu</string>
+  <string name="backupWithHistoryToLocalNow">Sikkerhedskopier til lokal lagring og inkluder al historik.</string>
   <string name="backupToCloudNow">Sikke backup til skylagring nu</string>
   <string name="summaryBackupToLocal">Sikringsfilen vil blive gemt i Documents/PureWriter/Backups</string>
   <string name="summaryBackupToCloud">Sikringsfilen vil blive gemt til dit cloudlager, hvis indstillet</string>

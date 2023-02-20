@@ -104,6 +104,7 @@
   <string name="warningSavedFailed">Attenzione: salvataggio articolo fallito! Si prega di copiare il vostro contenuto e provare riavviando Pure Writer per controllare se qualche contenuto si sia perso.</string>
   <string name="backupNow">Effettua Backup ora</string>
   <string name="backupToLocalNow">Backup su memoria locale ora</string>
+  <string name="backupWithHistoryToLocalNow">Esegui il backup su archiviazione locale e includi tutto l\'elenco.</string>
   <string name="backupToCloudNow">Backup su memoria cloud ora</string>
   <string name="summaryBackupToLocal">File di Backup file in salvataggio su Documents/PureWriter/Backups</string>
   <string name="summaryBackupToCloud">File di Backup file in salvataggio su memoria cloud storage, se impostata</string>

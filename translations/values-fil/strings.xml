@@ -69,6 +69,7 @@
   <string name="warningSavedFailed">Nabigo ang pag-save ng artikulo. Mangyaring kopyahin ang iyong nilalaman at subukang i-restart ang app upang tingnan kung may anumang nilalaman ang nawala.</string>
   <string name="backupNow">I-backup ngayon</string>
   <string name="backupToLocalNow">I-back up sa lokal na storage ngayon</string>
+  <string name="backupWithHistoryToLocalNow">Mag-backup sa lokal na imbakan at isama ang buong kasaysayan.</string>
   <string name="backupToCloudNow">I-back up sa cloud storage ngayon</string>
   <string name="summaryBackupToLocal">Ise-save ang backup na file sa Documents/PureWriter/Backups</string>
   <string name="summaryBackupToCloud">Ise-save ang backup na file sa iyong cloud storage kung itatakda</string>

@@ -93,6 +93,7 @@
   <string name="warningSavedFailed">Artikli salvestamine ebaõnnestus. Palun kopeerige sisu ja proovige rakenduse taaskäivitamist, et kontrollida, kas sisu on kadunud.</string>
   <string name="backupNow">Varunda kohe</string>
   <string name="backupToLocalNow">Koopia varundamine lokaalsesse mällu nüüd</string>
+  <string name="backupWithHistoryToLocalNow">Varunda kohalikule salvestusruumile ja sisalda kogu ajalugu.</string>
   <string name="backupToCloudNow">Koopia varundamine pilve salvestusruumi nüüd</string>
   <string name="summaryBackupToLocal">Varundusfail salvestatakse kausta Documents/PureWriter/Backups</string>
   <string name="summaryBackupToCloud">Kui see on seadistatud, salvestatakse varufail teie pilvesalvestusse</string>

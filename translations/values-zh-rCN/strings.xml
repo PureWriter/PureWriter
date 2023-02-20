@@ -276,6 +276,7 @@
   <string name="cloudConnection">云连接类型</string>
   <string name="signIn">登录</string>
   <string name="backupToLocalNow">立即备份到本地存储空间</string>
+  <string name="backupWithHistoryToLocalNow">立即备份到本地存储空间并包括所有历史记录</string>
   <string name="backupToCloudNow">立即备份到云端网盘</string>
   <string name="summaryBackupToCloud">如果您已设置云备份，备份文件将存储到您的云端存储空间</string>
   <string name="lockFallback">如果您始终无法解除锁定，您可以进入您的手机系统设置，移除您的所有指纹，然后重新打开纯纯写作即可。</string>
@@ -308,7 +309,7 @@
   <string name="scrollToHideTopBar">滚动以隐藏顶栏</string>
   <string name="doNotOperate">请不要在此过程中切换或修改文章！</string>
   <string name="aboutBackup"><b>《用户须知：关于备份》</b></string>
-  <string name="backupReadme">纯纯写作支持本地备份和云备份，本地备份是自动进行的，当您重装纯纯写作后，可通过备份来恢复<b>所有文章和激活状态</b>。\n\n但是，纯纯写作<b>默认不会自动进行云备份</b>，若要启用自动云备份，<b>您需要设置云备份账号</b>，在 纯纯写作 - 设置 - 备份 页面可选择云备份类型和设置<b>云备份账号</b>。\n\n纯纯写作云备份支持 WebDAV / 坚果云网盘和 Dropbox 网盘。\n\n<b>云备份非常重要，若您不设置云备份，则万一手机丢了、坏了、刷机双清、恢复出厂设置，都将失去您所有宝贵的创作内容！请务必设置云备份，万无一失。</b></string>
+  <string name="backupReadme">纯纯写作支持本地备份和云备份，本地备份是自动进行的，当您重装纯纯写作后，可通过备份来恢复<b>所有文章和激活状态</b>。\n\n但是，纯纯写作<b>默认不会自动进行云备份</b>，若要启用自动云备份，<b>您需要设置云备份账号</b>，在 纯纯写作 - 设置 - 备份 页面可选择云备份类型和设置<b>云备份账号</b>。\n\n纯纯写作云备份支持 阿里云盘、坚果云网盘、OneDrive、Dropbox 网盘等。\n\n<b>云备份非常重要，若您不设置云备份，则万一手机丢了、坏了、刷机双清、恢复出厂设置，都将失去您所有宝贵的创作内容！请务必设置云备份，万无一失。</b></string>
   <string name="lineSpacing">行间距</string>
   <string name="tipParagraphSpacingInMD">Markdown 模式下不会启用段落间距</string>
   <string name="defaultX">默认</string>
@@ -787,5 +788,7 @@
   <string name="summaryMoreArticleCreatingOptions">默认情况下，长按 ⊕ 无论如何都会显示更多创建文章的选项</string>
   <string name="aliyunLoginExpired">阿里云盘登录过期，请重新登录！</string>
   <string name="aliyun">阿里云盘</string>
+  <string name="oneDrivePersonal">OneDrive - 个人版</string>
   <string name="clickHereToSelectAnotherCloudStorageType">点击此处可选择其他云存储类型</string>
+  <string name="searchWritingCache">在写作缓存中寻找？</string>
 </resources>

@@ -91,6 +91,7 @@
   <string name="warningSavedFailed">บันทึกบทความล้มเหลว โปรดคัดลอกเนื้อหาของคุณและลองรีสตาร์ทแอปเพื่อตรวจสอบว่าเนื้อหาสูญหายหรือไม่</string>
   <string name="backupNow">การสำรองข้อมูลในขณะนี้</string>
   <string name="backupToLocalNow">สำรองข้อมูลไปยังที่จัดเก็บในเครื่องทันที</string>
+  <string name="backupWithHistoryToLocalNow">สำรองข้อมูลไปยังการเก็บข้อมูลท้องถิ่นและรวมประวัติทั้งหมด</string>
   <string name="backupToCloudNow">สำรองข้อมูลไปยังที่เก็บข้อมูลบนคลาวด์ทันที</string>
   <string name="summaryBackupToLocal">ไฟล์สำรองจะถูกบันทึกลงใน Documents/PureWriter/Backups</string>
   <string name="summaryBackupToCloud">ไฟล์สำรองจะถูกบันทึกลงในที่เก็บข้อมูลบนคลาวด์ของคุณหากตั้งค่า</string>
