@@ -190,10 +190,10 @@
   <string name="tipHasNotPermissionWithAutoBackup">Yedekleme yapmak için depolamaya erişim izni reddedildiği için deneme başarısız oldu.</string>
   <string name="hideTitleBarWhenPreviewingMarkdown">Markdown önizleme yaparken başlık çubuğunu gizle</string>
   <string name="privacyPolicy">Gizlilik Politikası</string>
-  <string name="beforeRestoringYourBackup">Yedekleme geri yüklemeden önce</string>
-  <string name="beforeBackupOverwritesLocal">Yerel dosyaların üzerine yazmadan önce</string>
-  <string name="beforeBackupIsMergedIntoLocal">Yedeklemenin yerel dosyalarla birleştirilmeden önce</string>
-  <string name="beforeSync">Senkronize etmeden önce</string>
+  <string name="beforeRestoringYourBackup">Yedekleme_geri_yüklemeden_önce</string>
+  <string name="beforeBackupOverwritesLocal">Yerel_dosyaların_üzerine_yazmadan_önce</string>
+  <string name="beforeBackupIsMergedIntoLocal">Yedeklemenin_yerel_dosyalarla_birleştirilmeden_önce</string>
+  <string name="beforeSync">Senkronize_etmeden_önce</string>
   <string name="trashDescription">Silmekten kurtardığınız makaleleri kurtarın</string>
   <string name="messageDeleteArticlesDirectly">Bu makaleleri kalıcı olarak silmek istediğinizden emin misiniz?</string>
   <string name="trashFolderTip">Bu çöp kutusunda yeni bir dosya oluşturamazsınız!</string>

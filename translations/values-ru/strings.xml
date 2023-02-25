@@ -176,7 +176,7 @@
   <string name="tipHasNotPermissionWithAutoBackup">Попытка автоматического резервного копирования не удалась: вы не дали Pure Writer разрешение на хранение</string>
   <string name="hideTitleBarWhenPreviewingMarkdown">Скрыть панель заголовка при предварительном просмотре Markdown</string>
   <string name="privacyPolicy">Политика конфиденциальности</string>
-  <string name="beforeRestoringYourBackup">Перед восстановлением резервной копии</string>
+  <string name="beforeRestoringYourBackup">Перед_восстановлением_резервной_копии</string>
   <string name="trashDescription">Получить удаленные статьи</string>
   <string name="messageDeleteArticlesDirectly">Удалите эти статьи напрямую</string>
   <string name="trashFolderTip">Вы находитесь в папке «Корзина», эта папка не может создать новую статью.</string>

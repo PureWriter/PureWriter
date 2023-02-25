@@ -188,7 +188,7 @@
   <string name="tipHasNotPermissionWithAutoBackup">La Copia de Seguridad falló porque negaste el permiso para acceder al almacenamiento.</string>
   <string name="hideTitleBarWhenPreviewingMarkdown">Ocultar barra de título al previsualizar Markdown</string>
   <string name="privacyPolicy">Política de Privacidad</string>
-  <string name="beforeRestoringYourBackup">Antes de restaurar tu Copia de Seguridad</string>
+  <string name="beforeRestoringYourBackup">Antes_de_restaurar_tu_Copia_de_Seguridad</string>
   <string name="trashDescription">Recupera artículos eliminados</string>
   <string name="messageDeleteArticlesDirectly">Eliminar permanentemente estos artículos</string>
   <string name="trashFolderTip">No puedes crear un nuevo archivo en esta carpeta de basura!</string>

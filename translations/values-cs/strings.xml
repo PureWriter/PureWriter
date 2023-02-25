@@ -155,7 +155,7 @@
   <string name="tipHasNotPermissionWithAutoBackup">Pokus o zálohování se nezdařil, protože bylo odepřeno oprávnění k přístupu k úložišti.</string>
   <string name="hideTitleBarWhenPreviewingMarkdown">Skrýt titulkový pruh při náhledu Markdown</string>
   <string name="privacyPolicy">Zásady ochrany osobních údajů</string>
-  <string name="beforeRestoringYourBackup">před obnovením zálohy</string>
+  <string name="beforeRestoringYourBackup">před_obnovením_zálohy</string>
   <string name="trashDescription">Obnovení smazaných článků</string>
   <string name="messageDeleteArticlesDirectly">Napřímo odstranit tyto články</string>
   <string name="trashFolderTip">V této složce koše nelze vytvořit nový soubor!</string>

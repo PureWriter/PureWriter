@@ -612,7 +612,7 @@
   <string name="autoDeleteSymbolsInPairs">自动成对删除符号</string>
   <string name="autoDeleteSymbolsInPairsSummary">仅当成对符号中的内容<b>为空</b>时才会进行成对地删除</string>
   <string name="tip">温馨提示</string>
-  <string name="editor2Tip">您正处在第二编辑器中，它的顶部图标和第一编辑器是位置相反的。如果您希望回到第一编辑器，您可以<b>在编辑器上向左或向右划动</b>即可。</string>
+  <string name="editor2Tip">您正处在第二编辑器中，它的顶部图标和第一编辑器是位置相反的。如果您希望回到第一编辑器，您可以<b>在编辑器向左或向右划动</b>即可。</string>
   <string name="needCursorTip">需要先点击文本置入光标再进行操作</string>
   <string name="shortcutKeysForShortcut">快捷输入项的快捷键</string>
   <string name="shortcutKeysForShortcutSummary">在外接键盘上按 Alt 或 Ctrl 键加数字可以调用快捷输入项</string>

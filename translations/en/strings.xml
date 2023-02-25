@@ -147,7 +147,7 @@
   <string name="tipCannotCreateNewWhenEmpty">Can\'t create a new article when title and content are both blank! You can still create it through the button in the top right corner of the menu though.</string>
   <string name="more">More</string>
   <string name="notSupportOpeningTheLink">Link not supported</string>
-  <string name="formatters">Formatters</string>
+  <string name="formatters">Reformat</string>
   <string name="formatterSpace">Insert a space between East Asian and Latin text</string>
   <string name="formatterIndent">Insert indentation at the start of all paragraphs</string>
   <string name="formatterLineBreak">Leave a blank line between paragraphs</string>

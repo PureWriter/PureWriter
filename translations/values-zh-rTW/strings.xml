@@ -612,7 +612,7 @@
   <string name="autoCompleteSummary">自動補全成對符號僅當游標在文章<b>末尾</b>時</string>
   <string name="autoDeleteSymbolsInPairs">自動成對刪除符號</string>
   <string name="autoDeleteSymbolsInPairsSummary">僅當成對符號中的內容<b>為空</b>時才會進行成對地刪除</string>
-  <string name="editor2Tip">您正處在第二編輯器中，它的頂部圖示和第一編輯器是位置相反的。如果您希望回到第一編輯器，您可以<b>在編輯器上向左或向右滑動</b>即可。</string>
+  <string name="editor2Tip">您正處在第二編輯器中，它的頂部圖示和第一編輯器是位置相反的。如果您希望回到第一編輯器，您可以<b>在編輯器向左或向右滑動</b>即可。</string>
   <string name="shortcutKeysForShortcut">快速輸入項的快速鍵</string>
   <string name="shortcutKeysForShortcutSummary">在外掛式鍵盤上按 Alt 或 Ctrl 鍵加數字可以呼叫快速輸入項</string>
   <string name="optionsForLandscape">平板電腦設定項和指引</string>
