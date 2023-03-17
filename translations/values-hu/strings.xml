@@ -709,4 +709,12 @@
   <string name="tags">Címkék</string>
   <string name="tipNewTag">Ez a könyvcímke 🏷️️ funkció. Ha címkét kell beállítania egy könyvhöz, és meg kell jelenítenie a tetején, akkor hosszan le kell nyomnia a könyvelemet a Könyvek képernyőn, majd válassza ki a Könyv szerkesztése menüt. A könyv létrehozására vagy szerkesztésére szolgáló párbeszédpanelen beállíthatja a könyv címkéit.</string>
   <string name="clickHereToSelectAnotherCloudStorageType">Kattintson ide egy másik felhőalapú tárolási típus kiválasztásához</string>
+  <string name="aiSettings">AI, ChatGPT beállítások</string>
+  <string name="aiEntrySummary">Cikk kiegészítése, finomítása, csiszolása és mesterséges intelligencia-csevegés</string>
+  <string name="required">Kötelező</string>
+  <string name="openAiKeyGuideSummary">OpenAI API kulcsgeneráló és -kezelési oldal megnyitása</string>
+  <string name="enableAiOnTimeMachine">A mesterséges intelligencia engedélyezése a Time Machine-en</string>
+  <string name="enableAiOnEditorContextMenu">AI engedélyezése a szerkesztő helyi menüjében</string>
+  <string name="enableAiOnEditorContextMenuSummary">A szerkesztőben lévő hosszan lenyomva megjelenik a szöveges helyi menü, amely mesterséges intelligencia-kiegészítő vagy polírozó funkciókat tartalmaz.</string>
+  <string name="openAiReadme">Az AI szolgáltatásunkat jelenleg az OpenAI ChatGPT modellje biztosítja. Alapértelmezés szerint nincs engedélyezve, és csak akkor fog szolgáltatásokat nyújtani, ha engedélyezi, és alább megadja OpenAI API-kulcsát.\n\nMivel az AI-szolgáltatás nem a Pure Writer által közvetlenül biztosított szolgáltatás, kiszámíthatatlan a szolgáltatás. válasz tartalma. Egyedül képesnek kell lennie arra, hogy felismerje és értékelje. A Pure Writer nem vállal felelősséget az AI által generált tartalomért és problémákért. Ha nem ért egyet, kérjük, kapcsolja ki az AI funkciót. Ha továbbra is használja, akkor elfogadja ezt a megállapodást.\n\nEmellett előfordulhat, hogy egyes országok nem férnek hozzá az OpenAI-hoz, és a hálózati problémákat Önnek kell megoldania.</string>
 </resources>

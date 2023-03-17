@@ -687,4 +687,12 @@
   <string name="tag">Tag</string>
   <string name="tipNewTag">Ini adalah fungsi tag buku 🏷️️. Jika Anda perlu mengatur tag untuk buku dan menampilkannya di bagian atas, Anda harus menekan lama item buku di layar Buku, lalu memilih menu Edit Buku. Dalam dialog untuk membuat atau mengedit buku, Anda dapat mengatur tag buku tersebut.</string>
   <string name="clickHereToSelectAnotherCloudStorageType">Klik di sini untuk memilih jenis penyimpanan cloud lainnya</string>
+  <string name="aiSettings">AI, Pengaturan ChatGPT</string>
+  <string name="aiEntrySummary">Penyelesaian artikel, penyempurnaan, pemolesan, dan obrolan AI</string>
+  <string name="required">Diperlukan</string>
+  <string name="openAiKeyGuideSummary">Buka halaman pembuatan dan pengelolaan OpenAI API Key</string>
+  <string name="enableAiOnTimeMachine">Aktifkan AI di Time Machine</string>
+  <string name="enableAiOnEditorContextMenu">Aktifkan AI pada menu konteks editor</string>
+  <string name="enableAiOnEditorContextMenuSummary">Tekan lama pada editor akan memunculkan menu konteks teks, yang akan berisi fungsi penyelesaian atau pemolesan AI</string>
+  <string name="openAiReadme">Saat ini, layanan AI kami disediakan oleh model ChatGPT OpenAI. Secara default, ini tidak diaktifkan dan hanya akan mulai memberikan layanan kepada Anda setelah Anda mengaktifkannya dan memasukkan Kunci API OpenAI Anda di bawah.\n\nKarena layanan AI bukanlah layanan yang disediakan langsung oleh Pure Writer, ada ketidakpastian di dalamnya konten respons. Anda harus dapat membedakan dan mengevaluasinya sendiri. Pure Writer tidak bertanggung jawab atas konten dan masalah yang ditimbulkan oleh AI. Jika Anda tidak setuju, harap nonaktifkan fungsi AI. Jika Anda terus menggunakannya, Anda akan menyetujui perjanjian ini.\n\nSelain itu, beberapa negara mungkin tidak memiliki akses ke OpenAI, dan Anda harus menyelesaikan sendiri masalah jaringan apa pun.</string>
 </resources>

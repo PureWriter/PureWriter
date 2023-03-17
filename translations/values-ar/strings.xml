@@ -682,4 +682,12 @@
   <string name="oneDrivePersonal">OneDrive - شخصي</string>
   <string name="clickHereToSelectAnotherCloudStorageType">انقر هنا لتحديد نوع تخزين سحابي آخر</string>
   <string name="searchWritingCache">البحث في الكاش؟</string>
+  <string name="aiSettings">إعدادات الذكاء الاصطناعي، ChatGPT</string>
+  <string name="aiEntrySummary">إكمال المقالة، التحسين، التلميع والدردشة مع الذكاء الاصطناعي</string>
+  <string name="required">مطلوب</string>
+  <string name="openAiKeyGuideSummary">افتح صفحة إنشاء مفتاح API وإدارته من OpenAI</string>
+  <string name="enableAiOnTimeMachine">تفعيل الذكاء الاصطناعي على Time Machine</string>
+  <string name="enableAiOnEditorContextMenu">تفعيل الذكاء الاصطناعي في قائمة السياق للمحرر</string>
+  <string name="enableAiOnEditorContextMenuSummary">سيؤدي الضغط لفترة طويلة في المحرر إلى إظهار قائمة سياق النص ، والتي ستحتوي على وظائف إكمال AI أو تلميع </string>
+  <string name="openAiReadme">حاليًا ، يتم توفير خدمة AI الخاصة بنا من خلال نموذج ChatGPT الخاص بـ OpenAI. بشكل افتراضي ، لم يتم تمكينه وسيبدأ فقط في تقديم الخدمات لك بمجرد تمكينه وإدخال مفتاح OpenAI API أدناه. \ n \ n نظرًا لأن خدمة AI ليست خدمة مقدمة مباشرة من Pure Writer ، فهناك عدم القدرة على التنبؤ في محتوى الاستجابة. يجب أن تكون قادرًا على تمييزه وتقييمه بنفسك. Pure Writer ليست مسؤولة عن المحتوى والمشاكل التي يولدها الذكاء الاصطناعي. إذا كنت لا توافق ، يرجى تعطيل وظيفة AI. إذا واصلت استخدامه ، فستوافق على هذه الاتفاقية. \ n \ n بالإضافة إلى ذلك ، قد لا تتمكن بعض البلدان من الوصول إلى OpenAI ، وستحتاج إلى حل أية مشكلات في الشبكة بنفسك. </string>
 </resources>

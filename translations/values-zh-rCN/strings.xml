@@ -791,4 +791,12 @@
   <string name="oneDrivePersonal">OneDrive - 个人版</string>
   <string name="clickHereToSelectAnotherCloudStorageType">点击此处可选择其他云存储类型</string>
   <string name="searchWritingCache">在写作缓存中寻找？</string>
+  <string name="aiSettings">AI、人工智能</string>
+  <string name="aiEntrySummary">提供文章续写、润色以及在时光机页面中的 AI 对话等服务</string>
+  <string name="required">必填</string>
+  <string name="openAiKeyGuideSummary">点击此项可打开 OpenAI API Key 生成和管理页面</string>
+  <string name="enableAiOnTimeMachine">在时光机页面启用 AI</string>
+  <string name="enableAiOnEditorContextMenu">在文本菜单中启用 AI</string>
+  <string name="enableAiOnEditorContextMenuSummary">在编辑器中长按可唤出文本菜单，其中将包含 AI 续写或润色功能</string>
+  <string name="openAiReadme">目前我们的 AI 服务是由 OpenAI 提供的 ChatGPT 模型，默认情况下它不会启用，只有当您开启它并在下方填入 OpenAI API Key 它才能开始为您提供服务。\n\n由于 AI 服务并非纯纯写作官方直接提供的服务，它的回应内容存在不可控性，您需要能够自行对其进行甄别，纯纯写作官方不对 AI 产生的内容和问题负责，如果您对此不同意，请禁用 AI 功能，继续使用则当作同意此协议。\n\n此外，部分国家可能无法访问 OpenAI，您需要自行解决此网络问题。</string>
 </resources>

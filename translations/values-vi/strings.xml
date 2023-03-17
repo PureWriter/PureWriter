@@ -744,5 +744,13 @@
   <string name="oneDrivePersonal">OneDrive - Cá nhân</string>
   <string name="clickHereToSelectAnotherCloudStorageType">Nhấp vào đây để chọn loại lưu trữ đám mây khác</string>
   <string name="searchWritingCache">Tìm trong bộ nhớ cache?</string>
+  <string name="aiSettings">AI, Cài đặt ChatGPT</string>
+  <string name="aiEntrySummary">Hoàn thành bài viết, tinh chỉnh, đánh bóng và trò chuyện AI</string>
+  <string name="required">Yêu cầu</string>
+  <string name="openAiKeyGuideSummary">Mở trang tạo và quản lý Khóa API OpenAI</string>
+  <string name="enableAiOnTimeMachine">Bật AI trên Time Machine</string>
+  <string name="enableAiOnEditorContextMenu">Bật AI trong menu ngữ cảnh của trình soạn thảo</string>
+  <string name="enableAiOnEditorContextMenuSummary">Nhấn giữ lâu trong trình soạn thảo sẽ hiển thị menu ngữ cảnh văn bản, chứa các chức năng hoàn thành hoặc đánh bóng AI</string>
+  <string name="openAiReadme">Hiện tại, dịch vụ AI của chúng tôi được cung cấp bởi mô hình ChatGPT của OpenAI. Theo mặc định, nó không được bật và sẽ chỉ bắt đầu cung cấp dịch vụ cho bạn sau khi bạn bật nó và nhập Khóa API OpenAI của mình bên dưới.\n\nVì dịch vụ AI không phải là dịch vụ do Pure Writer trực tiếp cung cấp, nên có một điều không thể đoán trước được trong đó nội dung phản hồi. Bạn phải có khả năng phân biệt và đánh giá nó một mình. Pure Writer không chịu trách nhiệm về nội dung và các vấn đề do AI tạo ra. Nếu bạn không đồng ý, vui lòng tắt chức năng AI. Nếu bạn tiếp tục sử dụng nó, bạn sẽ đồng ý với thỏa thuận này.\n\nNgoài ra, một số quốc gia có thể không có quyền truy cập vào OpenAI và bạn sẽ cần phải tự giải quyết mọi sự cố mạng.</string>
 </resources>
 

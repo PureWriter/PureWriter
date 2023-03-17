@@ -690,4 +690,12 @@
   <string name="tag">Schild</string>
   <string name="tipNewTag">Das ist die Buchtag 🏷️️ Funktion. Wenn Sie ein Tag für ein Buch festlegen und es ganz oben anzeigen möchten, müssen Sie auf dem Bildschirm „Bücher“ lange auf das Buchelement drücken und dann das Menü „Buch bearbeiten“ auswählen. Im Dialog zum Erstellen oder Bearbeiten eines Buches können Sie die Tags des Buches setzen.</string>
   <string name="clickHereToSelectAnotherCloudStorageType">Klicken Sie hier, um einen anderen Cloud-Speichertyp auszuwählen</string>
+  <string name="aiSettings">KI, ChatGPT Einstellungen</string>
+  <string name="aiEntrySummary">Artikelvervollständigung, Verfeinerung, Polieren und KI-Chat</string>
+  <string name="required">Erforderlich</string>
+  <string name="openAiKeyGuideSummary">OpenAI-API-Schlüsselerzeugungs- und Verwaltungsseite öffnen</string>
+  <string name="enableAiOnTimeMachine">KI in Time Machine aktivieren</string>
+  <string name="enableAiOnEditorContextMenu">KI im Editor-Kontextmenü aktivieren</string>
+  <string name="enableAiOnEditorContextMenuSummary">Langes Drücken im Editor ruft das Textkontextmenü auf, das KI-Vervollständigungs- oder Polierfunktionen enthalten wird</string>
+  <string name="openAiReadme">Derzeit wird unser KI-Dienst vom ChatGPT-Modell von OpenAI bereitgestellt. Standardmäßig ist es nicht aktiviert und beginnt erst dann mit der Bereitstellung von Diensten für Sie, wenn Sie es aktivieren und unten Ihren OpenAI-API-Schlüssel eingeben.\n\nDa der AI-Dienst kein direkt von Pure Writer bereitgestellter Dienst ist, ist er unvorhersehbar Antwort Inhalt. Sie müssen in der Lage sein, es selbst zu erkennen und zu bewerten. Pure Writer ist nicht verantwortlich für die Inhalte und Probleme, die von der KI generiert werden. Wenn Sie damit nicht einverstanden sind, deaktivieren Sie bitte die AI-Funktion. Wenn Sie es weiterhin verwenden, stimmen Sie dieser Vereinbarung zu.\n\nAußerdem haben einige Länder möglicherweise keinen Zugriff auf OpenAI, und Sie müssen alle Netzwerkprobleme selbst lösen.</string>
 </resources>

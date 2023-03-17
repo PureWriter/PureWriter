@@ -732,4 +732,12 @@
   <string name="tag">Tag</string>
   <string name="tipNewTag">Tämä on kirjatunniste 🏷️️ -toiminto. Jos sinun on määritettävä kirjalle tunniste ja näytettävä se yläreunassa, sinun on painettava pitkään kirjakohtaa Kirjat-näytössä ja valittava sitten Muokkaa kirjaa -valikko. Kirjan luonti- tai muokkausikkunassa voit asettaa kirjan tunnisteet.</string>
   <string name="clickHereToSelectAnotherCloudStorageType">Napsauta tätä valitaksesi toisen pilvitallennustyypin</string>
+  <string name="aiSettings">AI, ChatGPT Asetukset</string>
+  <string name="aiEntrySummary">Artikkelin täydentäminen, hiominen, kiillottaminen ja AI-keskustelu</string>
+  <string name="required">Vaaditaan</string>
+  <string name="openAiKeyGuideSummary">Avaa OpenAI API-avaimen luonti- ja hallintasivu</string>
+  <string name="enableAiOnTimeMachine">Ota käyttöön AI Time Machinessa</string>
+  <string name="enableAiOnEditorContextMenu">Ota käyttöön AI-editorin kontekstivalikossa</string>
+  <string name="enableAiOnEditorContextMenuSummary">Pitkä painallus editorissa tuo esiin tekstikontekstivalikon, joka sisältää AI-täydennys- tai kiillotustoiminnot</string>
+  <string name="openAiReadme">Tällä hetkellä AI-palvelumme tarjoaa OpenAI:n ChatGPT-malli. Oletuksena se ei ole käytössä ja alkaa tarjota palveluita vasta, kun otat sen käyttöön ja syötät OpenAI API-avaimen alla.\n\nKoska AI-palvelu ei ole palvelu, joka tarjotaan suoraan Pure Writerin kautta, vastauksen sisältöön liittyy arvaamattomuutta. Sinun on pystyttävä erottamaan ja arvioimaan se itse. Pure Writer ei ole vastuussa AI:n tuottamasta sisällöstä ja ongelmista. Jos et hyväksy, poista AI-toiminto käytöstä. Jos jatkat sen käyttämistä, hyväksyt tämän sopimuksen.\n\nLisäksi jotkut maat eivät ehkä pääse OpenAI:hin, ja sinun on itse ratkaistava mahdolliset verkko-ongelmat.</string>
 </resources>

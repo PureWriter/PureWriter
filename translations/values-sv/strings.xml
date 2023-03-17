@@ -707,4 +707,12 @@
   <string name="tags">Taggar</string>
   <string name="tipNewTag">Det här är bokmärket 🏷️️ funktionen. Om du behöver ställa in en tagg för en bok och visa den högst upp måste du trycka länge på bokobjektet på skärmen Böcker och sedan välja menyn Redigera bok. I dialogrutan för att skapa eller redigera en bok kan du ställa in bokens taggar.</string>
   <string name="clickHereToSelectAnotherCloudStorageType">Klicka här för att välja en annan typ av molnlagring</string>
+  <string name="aiSettings">AI, ChatGPT-inställningar</string>
+  <string name="aiEntrySummary">Artikelkomplettering, förfining, polering och AI-chatt</string>
+  <string name="required">Obligatorisk</string>
+  <string name="openAiKeyGuideSummary">Öppna OpenAI API-nyckelgenererings- och hanteringssida</string>
+  <string name="enableAiOnTimeMachine">Aktivera AI på Time Machine</string>
+  <string name="enableAiOnEditorContextMenu">Aktivera AI i redigerarens kontextmeny</string>
+  <string name="enableAiOnEditorContextMenuSummary">Långt tryck i redigeraren visar textens kontextmeny, som innehåller AI-slutförande- eller poleringsfunktioner</string>
+  <string name="openAiReadme">För närvarande tillhandahålls vår AI-tjänst av OpenAI:s ChatGPT-modell. Som standard är den avstängd och börjar endast tillhandahålla tjänster när du aktiverar den och anger din OpenAI API-nyckel nedan.\n\nEftersom AI-tjänsten inte är en tjänst som tillhandahålls direkt av Pure Writer finns det oförutsägbarhet i svarsinnehållet. Du bör kunna skilja och utvärdera det själv. Pure Writer tar inte ansvar för innehållet och problem som genereras av AI. Om du inte håller med, avaktivera AI-funktionen. Om du fortsätter att använda det, godkänner du detta avtal.\n\nDessutom kanske vissa länder inte har tillgång till OpenAI, och du måste lösa eventuella nätverksproblem själv.</string>
 </resources>

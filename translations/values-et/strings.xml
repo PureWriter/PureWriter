@@ -725,4 +725,12 @@
   <string name="tag">Tag</string>
   <string name="tipNewTag">See on raamatusildi 🏷️️ funktsioon. Kui peate määrama raamatule sildi ja kuvama selle ülaosas, peate raamatute ekraanil pikalt vajutama raamatu üksust ja seejärel valima menüü Redigeeri raamatut. Raamatu loomise või redigeerimise dialoogiaknas saate määrata raamatu silte.</string>
   <string name="clickHereToSelectAnotherCloudStorageType">Teise pilvesalvestuse tüübi valimiseks klõpsake siin</string>
+  <string name="aiSettings">AI, ChatGPT Seaded</string>
+  <string name="aiEntrySummary">Artikli täiendamine, täpsustamine, poleerimine ja AI vestlus</string>
+  <string name="required">Nõutav</string>
+  <string name="openAiKeyGuideSummary">Ava OpenAI API võtme genereerimise ja haldamise leht</string>
+  <string name="enableAiOnTimeMachine">Luba AI Time Machine\'il</string>
+  <string name="enableAiOnEditorContextMenu">Luba AI redaktori kontekstimenüüs</string>
+  <string name="enableAiOnEditorContextMenuSummary">Pikalt vajutades redaktoris ilmub teksti kontekstimenüü, mis sisaldab AI täiendamise või poleerimise funktsioone</string>
+  <string name="openAiReadme">Praegu pakutakse meie AI-teenust OpenAI ChatGPT mudeli kaudu. Vaikimisi on see välja lülitatud ja hakkab pakkuma teenuseid ainult pärast selle lubamist ja sisestades oma OpenAI API võtme allpool.\n\nKuna AI-teenus ei ole Pure Writer\'i poolt otse pakutav teenus, on vastuse sisus ettearvamatus. Peate oskama seda ise eristada ja hinnata. Pure Writer ei vastuta AI poolt tekitatud sisu ja probleemide eest. Kui te ei nõustu, keelake palun AI funktsioon. Kui jätkate selle kasutamist, nõustute sellega lepinguga.\n\nLisaks ei pruugi mõnedel riikidel olla juurdepääsu OpenAI-le ja peate ise lahendama võrguprobleemid.</string>
 </resources>

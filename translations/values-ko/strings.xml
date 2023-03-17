@@ -692,4 +692,12 @@
   <string name="tags">태그</string>
   <string name="tipNewTag">책태그🏷️️ 기능입니다. 책에 태그를 설정하여 상단에 표시하려면 책 화면에서 책 항목을 길게 누른 다음 책 편집 메뉴를 선택해야 합니다. 책을 만들거나 편집하는 대화 상자에서 책의 태그를 설정할 수 있습니다.</string>
   <string name="clickHereToSelectAnotherCloudStorageType">다른 클라우드 스토리지 유형을 선택하려면 여기를 클릭하십시오.</string>
+  <string name="aiSettings">AI, ChatGPT 설정</string>
+  <string name="aiEntrySummary">기사 완성, 개선, 연마 및 AI 채팅</string>
+  <string name="required">필수</string>
+  <string name="openAiKeyGuideSummary">OpenAI API 키 생성 및 관리 페이지 열기</string>
+  <string name="enableAiOnTimeMachine">Time Machine에서 AI 활성화</string>
+  <string name="enableAiOnEditorContextMenu">편집기 컨텍스트 메뉴에서 AI 활성화</string>
+  <string name="enableAiOnEditorContextMenuSummary">편집기에서 길게 누르면 텍스트 컨텍스트 메뉴가 표시되며, AI 완성 또는 연마 기능이 포함됩니다</string>
+  <string name="openAiReadme">현재 AI 서비스는 OpenAI의 ChatGPT 모델에 의해 제공됩니다. 기본적으로 비활성화되어 있으며, 아래에 OpenAI API 키를 입력하고 활성화하면 서비스를 시작합니다.\n\nAI 서비스는 Pure Writer에서 직접 제공하는 서비스가 아니기 때문에 응답 내용의 예측 불가성이 있습니다. 사용자는 스스로 판별하고 평가할 수 있어야 합니다. Pure Writer는 AI가 생성하는 콘텐츠와 문제에 대해 책임지지 않습니다. 동의하지 않으시면 AI 기능을 비활성화해 주세요. 계속 사용하는 경우 이 계약에 동의하는 것으로 간주됩니다.\n\n또한, 일부 국가에서는 OpenAI에 액세스할 수 없으며, 네트워크 문제를 스스로 해결해야 할 수도 있습니다.</string>
 </resources>

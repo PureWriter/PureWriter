@@ -792,4 +792,10 @@
   <string name="oneDrivePersonal">OneDrive - 個人版</string>
   <string name="clickHereToSelectAnotherCloudStorageType">點擊此處可選擇其他雲存儲類型</string>
   <string name="searchWritingCache">在寫作緩存中尋找？</string>
+  <string name="required">必填</string>
+  <string name="openAiKeyGuideSummary">點擊此項可打開 OpenAI API Key 生成和管理頁面</string>
+  <string name="enableAiOnTimeMachine">在時光機頁面啟用 AI</string>
+  <string name="enableAiOnEditorContextMenu">在文字選單中啟用 AI</string>
+  <string name="enableAiOnEditorContextMenuSummary">在編輯器中長按可喚出文字選單，其中將包含 AI 續寫或潤色功能</string>
+  <string name="openAiReadme">目前我們的 AI 服務是由 OpenAI 提供的 ChatGPT 模型，預設情況下它不會啟用，只有當您開啟它並在下方填入 OpenAI API Key 它才能開始為您提供服務。\n\n由於 AI 服務並非純純寫作官方直接提供的服務，它的回應內容存在不可控性，您需要能夠自行對其進行甄別，純純寫作官方不對 AI 產生的內容和問題負責，如果您對此不同意，請禁用 AI 功能，繼續使用則當作同意此協議。\n\n此外，部分國家可能無法訪問 OpenAI，您需要自行解決此網路問題。</string>
 </resources>

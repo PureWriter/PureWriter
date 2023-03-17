@@ -723,4 +723,12 @@
   <string name="tag">Tag</string>
   <string name="tipNewTag">Šī ir grāmatas atzīmes 🏷️️ funkcija. Ja grāmatai ir jāiestata atzīme un tā jāparāda augšpusē, ekrānā Grāmatas ir ilgi jānospiež grāmatas vienums un pēc tam jāatlasa izvēlne Rediģēt grāmatu. Grāmatas izveides vai rediģēšanas dialoglodziņā varat iestatīt grāmatas atzīmes.</string>
   <string name="clickHereToSelectAnotherCloudStorageType">Noklikšķiniet šeit, lai atlasītu citu mākoņa krātuves veidu</string>
+  <string name="aiSettings">AI, ChatGPT Iestatījumi</string>
+  <string name="aiEntrySummary">Raksta papildināšana, precizēšana, pulēšana un AI tērzēšana</string>
+  <string name="required">Nepieciešams</string>
+  <string name="openAiKeyGuideSummary">Atveriet OpenAI API atslēgas ģenerēšanas un pārvaldības lapu</string>
+  <string name="enableAiOnTimeMachine">Iespējot AI laika mašīnā</string>
+  <string name="enableAiOnEditorContextMenu">Iespējot AI redaktora konteksta izvēlnē</string>
+  <string name="enableAiOnEditorContextMenuSummary">Ilgstoši nospiežot redaktorā, tiks parādīta teksta konteksta izvēlne, kurā būs AI papildināšanas vai pulēšanas funkcijas</string>
+  <string name="openAiReadme">Pašlaik mūsu AI pakalpojumu nodrošina OpenAI ChatGPT modelis. Pēc noklusējuma tas nav iespējots un sāks sniegt pakalpojumus jums tikai pēc tā iespējošanas un ievadot savu OpenAI API atslēgu zemāk.\n\nTā kā AI pakalpojums nav tieši Pure Writer sniegts pakalpojums, tā atbildes saturā ir neparedzamība. Jums ir jāspēj to atšķirt un novērtēt pats. Pure Writer nav atbildīgs par AI radīto saturu un problēmām. Ja jūs nepiekrītat, lūdzu, atspējojiet AI funkciju. Turpinot to lietot, jūs piekrītat šai vienošanās.\n\nTurklāt dažām valstīm var nebūt piekļuves OpenAI, un jums pašiem būs jāatrisina tīkla problēmas.</string>
 </resources>

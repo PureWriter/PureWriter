@@ -750,5 +750,13 @@
   <string name="oneDrivePersonal">OneDrive - தனிப்பட்ட</string>
   <string name="clickHereToSelectAnotherCloudStorageType">மற்றொரு கிளவுட் சேமிப்பக வகையைத் தேர்ந்தெடுக்க இங்கே கிளிக் செய்யவும்</string>
   <string name="searchWritingCache">கேச்சில் தேடவா?</string>
+  <string name="aiSettings">AI, ChatGPT அமைப்புகள்</string>
+  <string name="aiEntrySummary">கட்டுரை நிறைவு, சுத்திகரிப்பு, மெருகூட்டல் மற்றும் AI அரட்டை</string>
+  <string name="required">தேவை</string>
+  <string name="openAiKeyGuideSummary">OpenAI API விசை உருவாக்கம் மற்றும் மேலாண்மைப் பக்கத்தைத் திற</string>
+  <string name="enableAiOnTimeMachine">டைம் மெஷினில் AI ஐ இயக்கு</string>
+  <string name="enableAiOnEditorContextMenu">எடிட்டர் சூழல் மெனுவில் AI ஐ இயக்கு</string>
+  <string name="enableAiOnEditorContextMenuSummary">எடிட்டரை நீண்ட நேரம் அழுத்தினால், AI நிறைவு அல்லது மெருகூட்டல் செயல்பாடுகள் இருக்கும் உரை சூழல் மெனுவைக் கொண்டு வரும்</string>
+  <string name="openAiReadme">தற்போது, எங்கள் AI சேவையானது OpenAI இன் ChatGPT மாதிரியால் வழங்கப்படுகிறது. இயல்பாக, இது இயக்கப்படவில்லை, நீங்கள் அதை இயக்கி, உங்கள் OpenAI API விசையை கீழே உள்ளீடு செய்தவுடன் மட்டுமே உங்களுக்கு சேவைகளை வழங்கும் பதில் உள்ளடக்கம். நீங்கள் அதை நீங்களே கண்டறிந்து மதிப்பீடு செய்ய வேண்டும். AI ஆல் உருவாக்கப்படும் உள்ளடக்கம் மற்றும் சிக்கல்களுக்கு தூய எழுத்தாளர் பொறுப்பல்ல. நீங்கள் ஏற்கவில்லை என்றால், AI செயல்பாட்டை முடக்கவும். நீங்கள் இதைத் தொடர்ந்து பயன்படுத்தினால், இந்த ஒப்பந்தத்தை ஏற்றுக்கொள்வீர்கள்.\n\nமேலும், சில நாடுகளில் OpenAIக்கான அணுகல் இல்லாமல் இருக்கலாம், மேலும் ஏதேனும் நெட்வொர்க் சிக்கல்களை நீங்களே தீர்க்க வேண்டும்.</string>
 </resources>
 

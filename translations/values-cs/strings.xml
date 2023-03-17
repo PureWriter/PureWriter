@@ -719,4 +719,12 @@
   <string name="tags">Tagy</string>
   <string name="tipNewTag">Toto je funkce knižní značky 🏷️️. Pokud potřebujete pro knihu nastavit značku a zobrazit ji nahoře, musíte dlouze stisknout položku knihy na obrazovce Knihy a poté vybrat nabídku Upravit knihu. V dialogu pro vytvoření nebo úpravu knihy můžete nastavit značky knihy.</string>
   <string name="clickHereToSelectAnotherCloudStorageType">Kliknutím sem vyberete jiný typ cloudového úložiště</string>
+  <string name="aiSettings">AI, ChatGPT Nastavení</string>
+  <string name="aiEntrySummary">Dokončení článku, vylepšení, leštění a AI chat</string>
+  <string name="required">Požadováno</string>
+  <string name="openAiKeyGuideSummary">Otevřít stránku pro generování a správu klíčů API OpenAI</string>
+  <string name="enableAiOnTimeMachine">Povolit AI na Time Machine</string>
+  <string name="enableAiOnEditorContextMenu">Povolit AI v kontextové nabídce editoru</string>
+  <string name="enableAiOnEditorContextMenuSummary">Dlouhé stisknutí v editoru zobrazí kontextovou nabídku textu, která obsahuje funkce pro dokončení nebo leštění AI</string>
+  <string name="openAiReadme">Momentálně je naše AI služba poskytována modelem ChatGPT společnosti OpenAI. Ve výchozím stavu je zakázána a začne vám poskytovat služby až po jejím povolení a zadání klíče OpenAI API níže.\n\nProtože AI služba není službou přímo poskytovanou Pure Writer, je zde nepředvídatelnost v obsahu odpovědi. Musíte být schopni to sami rozlišit a vyhodnotit. Pure Writer nenese odpovědnost za obsah a problémy generované AI. Pokud nesouhlasíte, zakažte prosím funkci AI. Pokud ji budete nadále používat, souhlasíte s touto dohodou.\n\nKromě toho některé země nemusí mít přístup k OpenAI a budete muset řešit případné problémy se sítí sami.</string>
 </resources>

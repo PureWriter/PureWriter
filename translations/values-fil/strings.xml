@@ -732,4 +732,12 @@
   <string name="tags">Mga tag</string>
   <string name="tipNewTag">Ito ang book tag 🏷️️ function. Kung kailangan mong magtakda ng tag para sa isang aklat at ipakita ito sa itaas, dapat mong pindutin nang matagal ang item ng aklat sa screen ng Mga Aklat, at pagkatapos ay piliin ang menu na I-edit ang Aklat. Sa dialog para sa paggawa o pag-edit ng aklat, maaari mong itakda ang mga tag ng aklat.</string>
   <string name="clickHereToSelectAnotherCloudStorageType">Mag-click dito upang pumili ng isa pang uri ng cloud storage</string>
+  <string name="aiSettings">AI, Mga Setting ng ChatGPT</string>
+  <string name="aiEntrySummary">Pagkumpleto ng artikulo, pagpapabuti, pagbubukod at pag-uusap ng AI</string>
+  <string name="required">Kailangan</string>
+  <string name="openAiKeyGuideSummary">Buksan ang pahina ng pagbubuo at pamamahala ng OpenAI API Key</string>
+  <string name="enableAiOnTimeMachine">Paganahin ang AI sa Time Machine</string>
+  <string name="enableAiOnEditorContextMenu">Paganahin ang AI sa menu ng konteksto ng editor</string>
+  <string name="enableAiOnEditorContextMenuSummary">Ang mahabang pagpindot sa editor ay magbibigay ng menu ng konteksto ng teksto, na maglalaman ng mga function ng kumpletong AI o pagbubukod</string>
+  <string name="openAiReadme">Sa kasalukuyan, ang aming serbisyo ng AI ay ibinibigay ng ChatGPT model ng OpenAI. Bilang default, hindi ito pinagana at magsisimulang magbigay ng serbisyo sa iyo kapag pinagana mo ito at ipinasok ang iyong OpenAI API Key sa ibaba.\n\nDahil ang serbisyo ng AI ay hindi isang serbisyong direktang ibinibigay ng Pure Writer, mayroong kawalan ng tiyak sa nilalaman ng tugon nito. Kailangan mong makilala at suriin ito sa iyong sarili. Hindi responsable ang Pure Writer sa nilalaman at mga problema na ginawa ng AI. Kung hindi ka sumasang-ayon, pakipatay ang function ng AI. Kung patuloy na gagamitin ito, sumasang-ayon ka sa kasunduan na ito.\n\nBukod dito, ang ilang bansa ay maaaring walang access sa OpenAI, at kakailanganin mong lutasin ang anumang mga problema sa network sa iyong sarili.</string>
 </resources>

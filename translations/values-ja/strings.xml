@@ -692,4 +692,13 @@
   <string name="tag">タグ</string>
   <string name="tipNewTag">これがブックタグ🏷️️機能です。 書籍にタグを設定して上部に表示する必要がある場合は、書籍画面で書籍アイテムを長押しし、[書籍の編集] メニューを選択する必要があります。 ブックを作成または編集するためのダイアログで、ブックのタグを設定できます。</string>
   <string name="clickHereToSelectAnotherCloudStorageType">ここをクリックして、別のクラウド ストレージ タイプを選択します</string>
+  <string name="aiSettings">AI、ChatGPT設定</string>
+  <string name="aiEntrySummary">記事の完成、改善、磨き上げ、AIチャット</string>
+  <string name="required">必須</string>
+  <string name="openAiKeyGuideSummary">OpenAI APIキー生成と管理ページを開く</string>
+  <string name="enableAiOnTimeMachine">タイムマシンでAIを有効にする</string>
+  <string name="enableAiOnEditorContextMenu">エディタのコンテキストメニューでAIを有効にする</string>
+  <string name="enableAiOnEditorContextMenuSummary">エディタで長押しすると、テキストコンテキストメニューが表示され、AIの完成または磨き機能が含まれます</string>
+  <string name="openAiReadme">現在、当社のAIサービスはOpenAIのChatGPTモデルによって提供されています。デフォルトでは無効になっており、以下でOpenAI APIキーを入力して有効にすると、サービスが提供されるようになります。\n\nAIサービスはPure Writerによって直接提供されるものではないため、応答内容には予測不可能な要素があります。自分で判断し評価できる能力が必要です。Pure WriterはAIによって生成されるコンテンツや問題には責任を負いません。同意しない場合は、AI機能を無効にしてください。引き続き使用する場合は、この契約に同意したことになります。\n\nまた、一部の国ではOpenAIにアクセスできない場合があり、ネットワークの問題は自分で解決する必要があります。</string>
+
 </resources>

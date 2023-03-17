@@ -721,4 +721,12 @@
   <string name="tags">Labels</string>
   <string name="tipNewTag">Dit is de boektag 🏷️️-functie. Als u een label voor een boek wilt instellen en dit bovenaan wilt weergeven, moet u lang op het boekitem in het scherm Boeken drukken en vervolgens het menu Boek bewerken selecteren. In het dialoogvenster voor het maken of bewerken van een boek kunt u de tags van het boek instellen.</string>
   <string name="clickHereToSelectAnotherCloudStorageType">Klik hier om een ander type cloudopslag te selecteren</string>
+  <string name="aiSettings">AI, ChatGPT-instellingen</string>
+  <string name="aiEntrySummary">Artikel voltooiing, verfijning, polijsten en AI-chat</string>
+  <string name="required">Vereist</string>
+  <string name="openAiKeyGuideSummary">Open de OpenAI API-sleutel generatie- en beheerpagina</string>
+  <string name="enableAiOnTimeMachine">AI inschakelen op Time Machine</string>
+  <string name="enableAiOnEditorContextMenu">AI inschakelen in het contextmenu van de editor</string>
+  <string name="enableAiOnEditorContextMenuSummary">Lang indrukken in de editor zal het tekst contextmenu oproepen, dat AI-voltooiing- of polijstfuncties zal bevatten</string>
+  <string name="openAiReadme">Momenteel wordt onze AI-service geleverd door OpenAI\'s ChatGPT-model. Standaard is het uitgeschakeld en begint het pas diensten aan u te leveren zodra u het inschakelt en uw OpenAI API-sleutel hieronder invoert.\n\nOmdat de AI-service geen service is die rechtstreeks door Pure Writer wordt geleverd, is er onvoorspelbaarheid in de responsinhoud. U moet in staat zijn om het zelf te onderscheiden en te evalueren. Pure Writer is niet verantwoordelijk voor de inhoud en problemen die door de AI worden gegenereerd. Als u het niet eens bent, schakel dan de AI-functie uit. Als u het blijft gebruiken, gaat u akkoord met deze overeenkomst.\n\nBovendien hebben sommige landen mogelijk geen toegang tot OpenAI en moet u eventuele netwerkproblemen zelf oplossen.</string>
 </resources>

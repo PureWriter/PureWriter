@@ -715,4 +715,12 @@
   <string name="tag">Etiqueta</string>
   <string name="tipNewTag">Esta es la función booktag 🏷️️. Si necesita establecer una etiqueta para un libro y mostrarlo en la parte superior, debe mantener presionado el elemento del libro en la pantalla Libros y luego seleccionar el menú Editar libro. En el cuadro de diálogo para crear o editar un libro, puede establecer las etiquetas del libro.</string>
   <string name="clickHereToSelectAnotherCloudStorageType">Haga clic aquí para seleccionar otro tipo de almacenamiento en la nube</string>
+  <string name="aiSettings">Configuración de AI, ChatGPT</string>
+  <string name="aiEntrySummary">Finalización de artículo, refinamiento, pulido y chat de AI</string>
+  <string name="required">Requerido</string>
+  <string name="openAiKeyGuideSummary">Abrir página de generación y gestión de clave API de OpenAI</string>
+  <string name="enableAiOnTimeMachine">Habilitar AI en Time Machine</string>
+  <string name="enableAiOnEditorContextMenu">Habilitar AI en el menú contextual del editor</string>
+  <string name="enableAiOnEditorContextMenuSummary">Mantener presionado en el editor mostrará el menú contextual del texto, que contendrá funciones de finalización o pulido de AI</string>
+  <string name="openAiReadme">Actualmente, nuestro servicio de IA es proporcionado por el modelo ChatGPT de OpenAI. De forma predeterminada, no está habilitado y solo comenzará a brindar servicios una vez que lo habilite e ingrese su clave API de OpenAI a continuación.\n\nDado que el servicio de IA no es un servicio proporcionado directamente por Pure Writer, existe una imprevisibilidad en su contenido de respuesta. Debe ser capaz de discernir y evaluar por sí mismo. Pure Writer no se hace responsable del contenido y los problemas generados por la IA. Si no está de acuerdo, deshabilite la función de IA. Si continúa utilizándolo, estará aceptando este acuerdo.\n\nAdemás, algunos países pueden no tener acceso a OpenAI, y deberá resolver cualquier problema de red por sí mismo.</string>
 </resources>

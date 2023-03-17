@@ -720,4 +720,12 @@
   <string name="tags">Tagi</string>
   <string name="tipNewTag">To jest funkcja znacznika książki 🏷️️. Jeśli chcesz ustawić tag dla książki i wyświetlić go u góry, musisz długo nacisnąć pozycję książki na ekranie Książki, a następnie wybrać menu Edytuj książkę. W oknie dialogowym tworzenia lub edytowania księgi możesz ustawić znaczniki księgi.</string>
   <string name="clickHereToSelectAnotherCloudStorageType">Kliknij tutaj, aby wybrać inny typ przechowywania w chmurze</string>
+  <string name="aiSettings">AI, Ustawienia ChatGPT</string>
+  <string name="aiEntrySummary">Uzupełnianie, doskonalenie, polerowanie artykułu i rozmowy z AI</string>
+  <string name="required">Wymagane</string>
+  <string name="openAiKeyGuideSummary">Otwórz stronę generowania i zarządzania kluczem API OpenAI</string>
+  <string name="enableAiOnTimeMachine">Włącz AI w Time Machine</string>
+  <string name="enableAiOnEditorContextMenu">Włącz AI w menu kontekstowym edytora</string>
+  <string name="enableAiOnEditorContextMenuSummary">Długie naciśnięcie w edytorze spowoduje wyświetlenie menu kontekstowego tekstu, które będzie zawierać funkcje uzupełniania AI lub polerowania</string>
+  <string name="openAiReadme">Obecnie nasza usługa sztucznej inteligencji jest świadczona przez model ChatGPT firmy OpenAI. Domyślnie nie jest włączona i zacznie świadczyć usługi dopiero po jej włączeniu i wprowadzeniu poniżej klucza API OpenAI.\n\nPonieważ usługa sztucznej inteligencji nie jest usługą świadczoną bezpośrednio przez Pure Writer, jej działanie jest nieprzewidywalne treść odpowiedzi. Trzeba umieć to dostrzec i ocenić samodzielnie. Pure Writer nie ponosi odpowiedzialności za treści i problemy generowane przez sztuczną inteligencję. Jeśli nie wyrażasz zgody, wyłącz funkcję AI. Jeśli będziesz nadal z niej korzystać, zgadzasz się na tę umowę.\n\nPonadto niektóre kraje mogą nie mieć dostępu do OpenAI i będziesz musiał samodzielnie rozwiązywać wszelkie problemy z siecią.</string>
 </resources>

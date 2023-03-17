@@ -691,4 +691,12 @@
   <string name="tags">Etichette</string>
   <string name="tipNewTag">Questa è la funzione tag del libro 🏷️️. Se devi impostare un tag per un libro e visualizzarlo in alto, devi premere a lungo l\'elemento del libro nella schermata Libri, quindi selezionare il menu Modifica libro. Nella finestra di dialogo per creare o modificare un libro, puoi impostare i tag del libro.</string>
   <string name="clickHereToSelectAnotherCloudStorageType">Fare clic qui per selezionare un altro tipo di archiviazione cloud</string>
+  <string name="aiSettings">Impostazioni AI, ChatGPT</string>
+  <string name="aiEntrySummary">Completamento articolo, perfezionamento, lucidatura e chat AI</string>
+  <string name="required">Richiesto</string>
+  <string name="openAiKeyGuideSummary">Apri la pagina di generazione e gestione chiave API di OpenAI</string>
+  <string name="enableAiOnTimeMachine">Abilita AI su Time Machine</string>
+  <string name="enableAiOnEditorContextMenu">Abilita AI nel menu contestuale dell\'editor</string>
+  <string name="enableAiOnEditorContextMenuSummary">Tenere premuto a lungo nell\'editor farà apparire il menu contestuale del testo, che conterrà funzioni di completamento o lucidatura AI</string>
+  <string name="openAiReadme">Attualmente, il nostro servizio di intelligenza artificiale è fornito dal modello ChatGPT di OpenAI. Per impostazione predefinita, non è abilitato e inizierà a fornire servizi solo una volta abilitato e inserito il tuo API Key di OpenAI di seguito.\n\nPoiché il servizio AI non è un servizio fornito direttamente da Pure Writer, c\'è un\'imprevedibilità nel suo contenuto di risposta. Devi essere in grado di discernere e valutare autonomamente. Pure Writer non è responsabile per il contenuto e i problemi generati dall\'AI. Se non sei d\'accordo, disabilita la funzione AI. Se continui a usarlo, accetterai questo accordo.\n\nInoltre, alcuni paesi potrebbero non avere accesso a OpenAI e dovrai risolvere da solo eventuali problemi di rete.</string>
 </resources>

@@ -767,4 +767,12 @@
   <string name="oneDrivePersonal">OneDrive - Kişisel</string>
   <string name="clickHereToSelectAnotherCloudStorageType">Başka bir bulut depolama türü seçmek için burayı tıklayın</string>
   <string name="searchWritingCache">Önbellekte aransın mı?</string>
+  <string name="aiSettings">AI, ChatGPT Ayarları</string>
+  <string name="aiEntrySummary">Makale tamamlama, geliştirme, cilalama ve AI sohbet</string>
+  <string name="required">Gerekli</string>
+  <string name="openAiKeyGuideSummary">OpenAI API Anahtarı oluşturma ve yönetme sayfasını aç</string>
+  <string name="enableAiOnTimeMachine">Time Machine\'de AI\'yi etkinleştir</string>
+  <string name="enableAiOnEditorContextMenu">Düzenleyici bağlam menüsünde AI\'yi etkinleştir</string>
+  <string name="enableAiOnEditorContextMenuSummary">Düzenleyicide uzun basmak, metnin bağlam menüsünü gösterir ve AI tamamlama veya cilalama işlevleri içerir</string>
+  <string name="openAiReadme">Şu anda AI hizmetimiz OpenAI\'nin ChatGPT modeli tarafından sağlanmaktadır. Varsayılan olarak etkin değildir ve yalnızca siz etkinleştirdikten ve OpenAI API Anahtarınızı aşağıya girdikten sonra size hizmet vermeye başlayacaktır.\n\nYapay zeka hizmeti doğrudan Pure Writer tarafından sağlanan bir hizmet olmadığı için öngörülemezlik vardır. yanıt içeriği. Bunu kendi başınıza fark edebilmeli ve değerlendirebilmelisiniz. Pure Writer, AI tarafından oluşturulan içerik ve sorunlardan sorumlu değildir. Kabul etmiyorsanız, lütfen AI işlevini devre dışı bırakın. Kullanmaya devam ederseniz bu sözleşmeyi kabul etmiş olursunuz.\n\nAyrıca bazı ülkeler OpenAI\'ye erişemeyebilir ve ağ sorunlarını kendiniz çözmeniz gerekir.</string>
 </resources>

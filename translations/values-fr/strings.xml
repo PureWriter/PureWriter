@@ -726,4 +726,12 @@
   <string name="tags">Mots clés</string>
   <string name="tipNewTag">C\'est la fonction book tag 🏷️️. Si vous devez définir une étiquette pour un livre et l\'afficher en haut, vous devez appuyer longuement sur l\'élément de livre dans l\'écran Livres, puis sélectionner le menu Modifier le livre. Dans la boîte de dialogue de création ou de modification d\'un livre, vous pouvez définir les balises du livre.</string>
   <string name="clickHereToSelectAnotherCloudStorageType">Cliquez ici pour sélectionner un autre type de stockage cloud</string>
+  <string name="aiSettings">IA, Paramètres de ChatGPT</string>
+  <string name="aiEntrySummary">Complétion d\'article, amélioration, polissage et discussion avec l\'IA</string>
+  <string name="required">Requis</string>
+  <string name="openAiKeyGuideSummary">Ouvrir la page de génération et de gestion de clé API OpenAI</string>
+  <string name="enableAiOnTimeMachine">Activer l\'IA sur Time Machine</string>
+  <string name="enableAiOnEditorContextMenu">Activer l\'IA dans le menu contextuel de l\'éditeur</string>
+  <string name="enableAiOnEditorContextMenuSummary">Un appui long dans l\'éditeur affichera le menu contextuel du texte, qui contiendra des fonctions de complétion ou de polissage de l\'IA</string>
+  <string name="openAiReadme">Actuellement, notre service d\'IA est fourni par le modèle ChatGPT d\'OpenAI. Par défaut, il n\'est pas activé et ne commencera à vous fournir des services que lorsque vous l\'aurez activé et saisi votre clé API OpenAI ci-dessous.\n\nComme le service d\'IA n\'est pas un service fourni directement par Pure Writer, il y a une imprévisibilité dans son contenu de réponse. Vous devez être en mesure de discerner et d\'évaluer cela par vous-même. Pure Writer n\'est pas responsable du contenu et des problèmes générés par l\'IA. Si vous n\'êtes pas d\'accord, veuillez désactiver la fonctionnalité d\'IA. Si vous continuez à l\'utiliser, vous acceptez cet accord.\n\nEn outre, certains pays peuvent ne pas avoir accès à OpenAI, et vous devrez résoudre vous-même les problèmes de réseau.</string>
 </resources>

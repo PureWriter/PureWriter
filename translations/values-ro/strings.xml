@@ -718,4 +718,12 @@
   <string name="tag">Etichetă</string>
   <string name="tipNewTag">Aceasta este funcția book tag 🏷️️. Dacă trebuie să setați o etichetă pentru o carte și să o afișați în partea de sus, trebuie să apăsați lung elementul de carte din ecranul Cărți, apoi să selectați meniul Editare carte. În caseta de dialog pentru crearea sau editarea unei cărți, puteți seta etichetele cărții.</string>
   <string name="clickHereToSelectAnotherCloudStorageType">Faceți clic aici pentru a selecta un alt tip de stocare în cloud</string>
+  <string name="aiSettings">AI, Setări ChatGPT</string>
+  <string name="aiEntrySummary">Completarea, îmbunătățirea, lustruirea și discuția AI a articolului</string>
+  <string name="required">Necesar</string>
+  <string name="openAiKeyGuideSummary">Deschideți pagina de generare și gestionare a cheii API OpenAI</string>
+  <string name="enableAiOnTimeMachine">Activați AI pe Time Machine</string>
+  <string name="enableAiOnEditorContextMenu">Activați AI în meniul contextual al editorului</string>
+  <string name="enableAiOnEditorContextMenuSummary">Apăsarea lungă în editor va aduce meniul contextual al textului, care va conține funcții de completare sau lustruire AI</string>
+  <string name="openAiReadme">În prezent, serviciul nostru AI este furnizat de modelul ChatGPT al OpenAI. În mod implicit, nu este activat și va începe să vă ofere servicii doar după ce îl activați și introduceți cheia dvs. OpenAI API mai jos.\n\nDeoarece serviciul AI nu este un serviciu oferit direct de Pure Writer, există o imprevizibilitate în conținutul răspunsului. Trebuie să puteți să-l discerneți și să-l evaluați pe cont propriu. Pure Writer nu este responsabil pentru conținutul și problemele generate de AI. Dacă nu sunteți de acord, dezactivați funcția AI. Dacă continuați să o utilizați, veți fi de acord cu acest acord.\n\nÎn plus, unele țări s-ar putea să nu aibă acces la OpenAI și va trebui să rezolvați singur problemele de rețea.</string>
 </resources>
