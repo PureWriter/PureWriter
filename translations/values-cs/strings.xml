@@ -208,10 +208,13 @@
   <string name="failed">Nepodařilo se</string>
   <string name="insertCategoryAboveShort">Vložte složku <b>výše</b></string>
   <string name="insertCategoryBelowShort">Vložte složku <b>níže</b></string>
-  <string name="insertCategoryBottomShort">Vložte složku <b>dole</b></string>.
+  <string name="insertCategoryBottomShort">Vložte složku <b>dole</b></string>
+  .
   <string name="insertCategoryAboveLong">Vložte novou složku <b>nad</b> aktuální článek</string>
-  <string name="insertCategoryBelowLong">Vložte novou složku <b>pod</b> aktuální článek</string>.
-  <string name="insertCategoryBottomLong">Vložte novou složku do <b>spodní části</b> seznamu kapitol</string>.
+  <string name="insertCategoryBelowLong">Vložte novou složku <b>pod</b> aktuální článek</string>
+  .
+  <string name="insertCategoryBottomLong">Vložte novou složku do <b>spodní části</b> seznamu kapitol</string>
+  .
   <string name="insertCategory">Vložit složku</string>
   <string name="editCategory">Upravit složku</string>
   <string name="category">Složka</string>
@@ -536,7 +539,8 @@
   <string name="mergeDone">Ukončeno!</string>
   <string name="relaunch">Znovu spuštěno</string>
   <string name="autoComplete">Automatické dokončení</string>
-  <string name="autoCompleteSummary">Automaticky doplní párové symboly pouze tehdy, když je kurzor <b>na konci</b> článku</string>.
+  <string name="autoCompleteSummary">Automaticky doplní párové symboly pouze tehdy, když je kurzor <b>na konci</b> článku</string>
+  .
   <string name="autoDeleteSymbolsInPairs">Automatické mazání symbolů v párech</string>
   <string name="autoDeleteSymbolsInPairsSummary">Pouze pokud je obsah v párovém symbolu <b>prázdný</b></string>
   <string name="tip">Tip</string>
@@ -709,6 +713,7 @@
   <string name="readCurrentArticleAloud">Přečtěte si nahlas aktuální článek</string>
   <string name="checkForUpdates">Kontrola aktualizací</string>
   <string name="ttsEnabled">TTS povoleno</string>
+  <string name="copilotSummary">Pokud je povoleno, AI vám v editoru poskytne psaní v reálném čase. Vždy, když přerušíte proces psaní, AI vám generuje návrhy, jak pokračovat v psaní po kurzoru. Můžete kliknout na kandidátní text, abyste ho přijali nebo upravili, nebo pokračovat v psaní, aby jste ho ignorovali a odmítli.</string>
   <string name="tipLargeText">Aktuální článek je příliš dlouhý, takže mezery mezi odstavci byly dočasně zakázány, aby bylo možné i nadále plynule psát.</string>
   <string name="pinShortcutDialogMessage">Vytvoří spouštěč nebo zástupce na ploše k této knize, kterou můžete použít ke seskupování knih.\n\n⚠️ Poznámka: Některé systémy ve výchozím nastavení nepodporují vytváření zástupců, musíte kliknout na tlačítko „Nastavení“ níže, abyste se dostali na obrazovku Nastavení systému, kde povolíte oprávnění „Zkratky na domovské obrazovce“, a poté se vraťte na tuto obrazovku a klikněte na OK knoflík.\n\nPo úspěchu můžete na svém spouštěči nebo ploše najít ikonu zástupce.</string>
   <string name="createPinShortcut">Vytvořit zástupce</string>
@@ -719,12 +724,18 @@
   <string name="tags">Tagy</string>
   <string name="tipNewTag">Toto je funkce knižní značky 🏷️️. Pokud potřebujete pro knihu nastavit značku a zobrazit ji nahoře, musíte dlouze stisknout položku knihy na obrazovce Knihy a poté vybrat nabídku Upravit knihu. V dialogu pro vytvoření nebo úpravu knihy můžete nastavit značky knihy.</string>
   <string name="clickHereToSelectAnotherCloudStorageType">Kliknutím sem vyberete jiný typ cloudového úložiště</string>
-  <string name="aiSettings">AI, ChatGPT Nastavení</string>
-  <string name="aiEntrySummary">Dokončení článku, vylepšení, leštění a AI chat</string>
-  <string name="required">Požadováno</string>
-  <string name="openAiKeyGuideSummary">Otevřít stránku pro generování a správu klíčů API OpenAI</string>
-  <string name="enableAiOnTimeMachine">Povolit AI na Time Machine</string>
+  <string name="aiSettings">Nastavení AI, ChatGPT</string>
+  <string name="aiEntrySummary">Dokončení článku, upřesnění, vyleštění a ChatGPT</string>
+  <string name="required">Povinné</string>
+  <string name="openAiKeyGuideSummary">Otevřít stránku pro generování a správu klíčů OpenAI API</string>
+  <string name="enableAiOnTimeMachine">Povolit AI (ChatGPT) na Time Machine</string>
   <string name="enableAiOnEditorContextMenu">Povolit AI v kontextové nabídce editoru</string>
-  <string name="enableAiOnEditorContextMenuSummary">Dlouhé stisknutí v editoru zobrazí kontextovou nabídku textu, která obsahuje funkce pro dokončení nebo leštění AI</string>
-  <string name="openAiReadme">Momentálně je naše AI služba poskytována modelem ChatGPT společnosti OpenAI. Ve výchozím stavu je zakázána a začne vám poskytovat služby až po jejím povolení a zadání klíče OpenAI API níže.\n\nProtože AI služba není službou přímo poskytovanou Pure Writer, je zde nepředvídatelnost v obsahu odpovědi. Musíte být schopni to sami rozlišit a vyhodnotit. Pure Writer nenese odpovědnost za obsah a problémy generované AI. Pokud nesouhlasíte, zakažte prosím funkci AI. Pokud ji budete nadále používat, souhlasíte s touto dohodou.\n\nKromě toho některé země nemusí mít přístup k OpenAI a budete muset řešit případné problémy se sítí sami.</string>
+  <string name="enableAiOnEditorContextMenuSummary">Dlouhým stisknutím v editoru zobrazíte kontextovou nabídku textu, která bude obsahovat funkci doplňování umělé inteligence</string>
+  <string name="openAiReadme">V současné době tuto službu poskytuje OpenAI. Ve výchozím nastavení není povolena a začne vám poskytovat služby až poté, co ji povolíte a níže zadáte svůj OpenAI API Key.\n\nVzhledem k tomu, že služba AI není službou poskytovanou přímo Pure Writer, je její nepředvídatelnost obsah odpovědi. Musíte to umět rozeznat a vyhodnotit sami. Pure Writer není odpovědný za obsah a problémy generované AI. Pokud nesouhlasíte, deaktivujte prosím funkci AI. Pokud jej budete i nadále používat, souhlasíte s touto smlouvou.\n\nNěkteré země navíc nemusí mít přístup k OpenAI a jakékoli problémy se sítí budete muset vyřešit sami.</string>
+  <string name="aiProofread">AI Korektura</string>
+  <string name="aiComplete">AI+</string>
+  <string name="aiEnabledSummary">Tato funkce umělé inteligence není ve výchozím nastavení povolena, funguje pouze tehdy, když ji explicitně spustíte a spustíte. Pokud nevyhovuje vašim preferencím, klidně to úplně ignorujte. Tuto službu poskytuje OpenAI a jako předtrénovaný model Váš text nikdy nebyl a nebude použit pro školení.</string>
+  <string name="aiEntrySummary2">Toto je předtrénovaný model poskytovaný OpenAI. Ujišťujeme vás, že jsme <b>nikdy nepoužili vaše články pro školení</b> a ani nebudeme moci použít vaše články pro školení, protože vaše články nebyly nikdy uloženy na serverech Pure Writer. Vaše články existují pouze ve vašem zařízení a v cloudovém úložišti, které jste nastavili.</string>
+  <string name="completelyDeleteAIFunctions">Úplně smažte funkce umělé inteligence</string>
+  <string name="completelyDeleteAIFunctionsSummary">Vzhledem k tomu, že někteří lidé nejsou schopni přijmout umělou inteligenci bez ohledu na to, je k dispozici tato možnost pro úplné odstranění funkcí umělé inteligence, včetně této obrazovky nastavení. Jakmile je AI smazána, nelze ji vrátit zpět. Buďte prosím informováni!</string>
 </resources>

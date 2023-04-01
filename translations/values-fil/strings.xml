@@ -722,6 +722,7 @@
   <string name="ttsModeWord">Sabihin ang <b>salita</b> na kaka-type mo lang</string>
   <string name="readCurrentArticleAloud">Basahin nang malakas ang kasalukuyang artikulo</string>
   <string name="checkForUpdates">Tingnan ang mga update</string>
+  <string name="copilotSummary">Kung pinagana, magbibigay sa iyo ng AI ng mga mungkahi sa pagsusulat sa editor sa realtime. Sa bawat paghinto mo sa proseso ng pagsusulat, magbibigay ang AI ng mga mungkahi para sa iyo upang magpatuloy sa pagsusulat matapos ang cursor. Maaari kang mag-click sa kandidatong teksto upang tanggapin o i-edit ito, o magpatuloy sa pagsusulat upang ito ay balewalain at tanggihan.</string>
   <string name="tipLargeText">Masyadong mahaba ang kasalukuyang artikulo, kaya pansamantalang hindi pinagana ang spacing ng paragraph upang magpatuloy sa maayos na karanasan sa pagsusulat.</string>
   <string name="pinShortcutDialogMessage">Gumagawa ng launcher o desktop Shortcut sa aklat na ito na magagamit mo sa pagpapangkat ng mga aklat.\n\n⚠️ Tandaan: Hindi sinusuportahan ng ilang system ang paggawa ng Mga Shortcut bilang default, kailangan mong i-click ang button na \"Mga Setting\" sa ibaba upang pumunta sa screen ng Mga Setting ng System upang paganahin ang pahintulot na \"Mga shortcut sa Home screen,\" at pagkatapos ay bumalik sa screen na ito at i-click ang OK pindutan.\n\nPagkatapos ng tagumpay, makakahanap ka ng icon ng shortcut sa iyong launcher o desktop.</string>
   <string name="createPinShortcut">Gumawa ng shortcut</string>
@@ -733,11 +734,17 @@
   <string name="tipNewTag">Ito ang book tag 🏷️️ function. Kung kailangan mong magtakda ng tag para sa isang aklat at ipakita ito sa itaas, dapat mong pindutin nang matagal ang item ng aklat sa screen ng Mga Aklat, at pagkatapos ay piliin ang menu na I-edit ang Aklat. Sa dialog para sa paggawa o pag-edit ng aklat, maaari mong itakda ang mga tag ng aklat.</string>
   <string name="clickHereToSelectAnotherCloudStorageType">Mag-click dito upang pumili ng isa pang uri ng cloud storage</string>
   <string name="aiSettings">AI, Mga Setting ng ChatGPT</string>
-  <string name="aiEntrySummary">Pagkumpleto ng artikulo, pagpapabuti, pagbubukod at pag-uusap ng AI</string>
+  <string name="aiEntrySummary">Pagkumpleto ng artikulo, pagpipino, pagpapakintab at ChatGPT</string>
   <string name="required">Kailangan</string>
-  <string name="openAiKeyGuideSummary">Buksan ang pahina ng pagbubuo at pamamahala ng OpenAI API Key</string>
-  <string name="enableAiOnTimeMachine">Paganahin ang AI sa Time Machine</string>
-  <string name="enableAiOnEditorContextMenu">Paganahin ang AI sa menu ng konteksto ng editor</string>
-  <string name="enableAiOnEditorContextMenuSummary">Ang mahabang pagpindot sa editor ay magbibigay ng menu ng konteksto ng teksto, na maglalaman ng mga function ng kumpletong AI o pagbubukod</string>
-  <string name="openAiReadme">Sa kasalukuyan, ang aming serbisyo ng AI ay ibinibigay ng ChatGPT model ng OpenAI. Bilang default, hindi ito pinagana at magsisimulang magbigay ng serbisyo sa iyo kapag pinagana mo ito at ipinasok ang iyong OpenAI API Key sa ibaba.\n\nDahil ang serbisyo ng AI ay hindi isang serbisyong direktang ibinibigay ng Pure Writer, mayroong kawalan ng tiyak sa nilalaman ng tugon nito. Kailangan mong makilala at suriin ito sa iyong sarili. Hindi responsable ang Pure Writer sa nilalaman at mga problema na ginawa ng AI. Kung hindi ka sumasang-ayon, pakipatay ang function ng AI. Kung patuloy na gagamitin ito, sumasang-ayon ka sa kasunduan na ito.\n\nBukod dito, ang ilang bansa ay maaaring walang access sa OpenAI, at kakailanganin mong lutasin ang anumang mga problema sa network sa iyong sarili.</string>
+  <string name="openAiKeyGuideSummary">Buksan ang OpenAI API Key generation and management page</string>
+  <string name="enableAiOnTimeMachine">I-enable ang AI(ChatGPT) sa Time Machine</string>
+  <string name="enableAiOnEditorContextMenu">I-enable ang AI sa menu ng konteksto ng editor</string>
+  <string name="enableAiOnEditorContextMenuSummary">Ilalabas ng matagal na pagpindot sa editor ang text context menu, na naglalaman ng AI completion function</string>
+  <string name="openAiReadme">Sa kasalukuyan, ang serbisyong ito ay ibinibigay ng OpenAI. Bilang default, hindi ito naka-enable at magsisimula lang magbigay ng mga serbisyo sa iyo kapag na-enable mo ito at naipasok ang iyong OpenAI API Key sa ibaba.\n\nDahil ang serbisyo ng AI ay hindi isang serbisyong direktang ibinibigay ng Pure Writer, mayroong hindi mahuhulaan sa nilalaman ng tugon. Dapat mong matukoy at masuri ito sa iyong sarili. Walang pananagutan ang Pure Writer para sa nilalaman at mga problemang nabuo ng AI. Kung hindi ka sumasang-ayon, mangyaring huwag paganahin ang AI function. Kung patuloy mong gagamitin ito, sasang-ayon ka sa kasunduang ito.\n\nSa karagdagan, maaaring walang access ang ilang bansa sa OpenAI, at kakailanganin mong lutasin ang anumang mga isyu sa network nang mag-isa.</string>
+  <string name="aiProofread">AI Proofread</string>
+  <string name="aiComplete">AI+</string>
+  <string name="aiEnabledSummary">Ang tampok na AI na ito ay hindi pinagana bilang default, gagana lang ito kapag tahasan mong sinimulan at na-trigger ito. Kung hindi ito nababagay sa iyong mga kagustuhan, huwag mag-atubiling balewalain ito nang buo. Ang serbisyong ito ay ibinigay ng OpenAI, at bilang isang pre-trained na modelo, ang iyong teksto ay hindi kailanman at hindi gagamitin para sa pagsasanay.</string>
+  <string name="aiEntrySummary2">Ito ay isang pre-trained na modelo na ibinigay ng OpenAI. Mangyaring makatiyak na <b>hindi namin ginamit ang iyong mga artikulo para sa pagsasanay</b>, at hindi rin namin magagamit ang iyong mga artikulo para sa pagsasanay, dahil ang iyong mga artikulo ay hindi kailanman naimbak sa mga server ng Pure Writer. Ang iyong mga artikulo ay umiiral lamang sa iyong device at sa cloud storage na iyong na-set up.</string>
+  <string name="completelyDeleteAIFunctions">Ganap na tanggalin ang AI functions</string>
+  <string name="completelyDeleteAIFunctionsSummary">Dahil hindi kayang tanggapin ng ilang tao ang AI anuman ang mangyari, available ang opsyong ito upang ganap na tanggalin ang pagpapagana ng AI, kasama ang screen ng mga setting na ito. Kapag na-delete na ang AI, hindi na ito maa-undo. Mangyaring ipaalam!</string>
 </resources>

@@ -745,6 +745,7 @@
   <string name="summaryCloudSyncAutoSwitchesToTheLatestEditedArticle">Bu, yalnızca Cloud Sync Ayarlarında bulut senkronizasyonunu etkinleştirdikten sonra geçerli olacaktır.\nBu seçeneği etkinleştirdikten sonra, bulut senkronizasyonu tamamlandığında Pure Writer sizin için otomatik olarak en son düzenlenen makalenize geçiş yapacaktır.</string>
   <string name="ttsEnabled">TTS etkin</string>
   <string name="orLongPressToSelect">Veya bazı kısımlarını seçmek ve kopyalamak için metne uzun basın</string>
+  <string name="copilotSummary">Etkinleştirildiği takdirde, AI düzenleyicide yazma önerileri sağlayacaktır. Yazma sürecinde her duraklama yaptığınızda, AI sizin için imlecin hemen sonra yazmaya devam etmeniz için öneriler oluşturacaktır. Aday metne tıklayarak kabul edebilir veya düzenleyebilir, veya yok saymak ve reddetmek için yazmaya devam edebilirsiniz.</string>
   <string name="messageAskPostNotification"><i>Otomatik Yedekleme</i> durumunu görüntülemek için bildirim izni verilsin mi?</string>
   <string name="needUpdate">Güncelleme gerekiyor</string>
   <string name="messageNeedForcedUpdate">Mevcut sürümün HTTPS sertifikasının süresi dolduğundan, Android sistemi Pure Writer için güvenli ağ istekleri sağlayamıyor ve ağ istekleriniz aracılar tarafından yakalanabilir. Bu nedenle, Pure Writer\'ı güvenli bir şekilde kullanmaya devam etmek için yeni sürüme güncellemeniz gerekiyor.</string>
@@ -768,11 +769,17 @@
   <string name="clickHereToSelectAnotherCloudStorageType">Başka bir bulut depolama türü seçmek için burayı tıklayın</string>
   <string name="searchWritingCache">Önbellekte aransın mı?</string>
   <string name="aiSettings">AI, ChatGPT Ayarları</string>
-  <string name="aiEntrySummary">Makale tamamlama, geliştirme, cilalama ve AI sohbet</string>
+  <string name="aiEntrySummary">Makale tamamlama, ayrıntılandırma, cilalama ve ChatGPT</string>
   <string name="required">Gerekli</string>
-  <string name="openAiKeyGuideSummary">OpenAI API Anahtarı oluşturma ve yönetme sayfasını aç</string>
-  <string name="enableAiOnTimeMachine">Time Machine\'de AI\'yi etkinleştir</string>
-  <string name="enableAiOnEditorContextMenu">Düzenleyici bağlam menüsünde AI\'yi etkinleştir</string>
-  <string name="enableAiOnEditorContextMenuSummary">Düzenleyicide uzun basmak, metnin bağlam menüsünü gösterir ve AI tamamlama veya cilalama işlevleri içerir</string>
-  <string name="openAiReadme">Şu anda AI hizmetimiz OpenAI\'nin ChatGPT modeli tarafından sağlanmaktadır. Varsayılan olarak etkin değildir ve yalnızca siz etkinleştirdikten ve OpenAI API Anahtarınızı aşağıya girdikten sonra size hizmet vermeye başlayacaktır.\n\nYapay zeka hizmeti doğrudan Pure Writer tarafından sağlanan bir hizmet olmadığı için öngörülemezlik vardır. yanıt içeriği. Bunu kendi başınıza fark edebilmeli ve değerlendirebilmelisiniz. Pure Writer, AI tarafından oluşturulan içerik ve sorunlardan sorumlu değildir. Kabul etmiyorsanız, lütfen AI işlevini devre dışı bırakın. Kullanmaya devam ederseniz bu sözleşmeyi kabul etmiş olursunuz.\n\nAyrıca bazı ülkeler OpenAI\'ye erişemeyebilir ve ağ sorunlarını kendiniz çözmeniz gerekir.</string>
+  <string name="openAiKeyGuideSummary">OpenAI API Anahtarı oluşturma ve yönetim sayfasını açın</string>
+  <string name="enableAiOnTimeMachine">Time Machine\'de Yapay Zekayı(ChatGPT) Etkinleştir</string>
+  <string name="enableAiOnEditorContextMenu">Düzenleyici içerik menüsünde yapay zekayı etkinleştir</string>
+  <string name="enableAiOnEditorContextMenuSummary">Düzenleyiciye uzun basmak, AI tamamlama işlevini içerecek olan metin içerik menüsünü getirecektir</string>
+  <string name="openAiReadme">Şu anda bu hizmet OpenAI tarafından sağlanmaktadır. Varsayılan olarak etkin değildir ve yalnızca siz etkinleştirdikten ve OpenAI API Anahtarınızı aşağıya girdikten sonra size hizmet vermeye başlayacaktır.\n\nYapay zeka hizmeti doğrudan Pure Writer tarafından sağlanan bir hizmet olmadığı için öngörülemezlik vardır. yanıt içeriği. Bunu kendi başınıza fark edebilmeli ve değerlendirebilmelisiniz. Pure Writer, AI tarafından oluşturulan içerik ve sorunlardan sorumlu değildir. Kabul etmiyorsanız, lütfen AI işlevini devre dışı bırakın. Kullanmaya devam ederseniz bu sözleşmeyi kabul etmiş olursunuz.\n\nAyrıca bazı ülkeler OpenAI\'ye erişemeyebilir ve ağ sorunlarını kendiniz çözmeniz gerekir.</string>
+  <string name="aiProofread">AI Düzeltme</string>
+  <string name="aiComplete">AI+</string>
+  <string name="aiEnabledSummary">Bu yapay zeka özelliği varsayılan olarak etkin değildir, yalnızca siz açıkça başlatıp tetiklediğinizde çalışır. Tercihlerinize uymuyorsa, tamamen görmezden gelmekten çekinmeyin. Bu hizmet OpenAI tarafından sağlanır ve önceden eğitilmiş bir model olarak Your text hiçbir zaman eğitim için kullanılmadı ve kullanılmayacaktır.</string>
+  <string name="aiEntrySummary2">Bu, OpenAI tarafından sağlanan önceden eğitilmiş bir modeldir. Lütfen makalelerinizi <b>eğitim için hiç kullanmadığımızdan</b> ve makalelerinizi eğitim için kullanamayacağımızdan emin olun, çünkü makaleleriniz hiçbir zaman Pure Writer sunucularında saklanmamıştır. Makaleleriniz yalnızca cihazınızda ve kurduğunuz bulut depolama alanında bulunur.</string>
+  <string name="completelyDeleteAIFunctions">AI işlevlerini tamamen sil</string>
+  <string name="completelyDeleteAIFunctionsSummary">Bazı kişilerin ne olursa olsun AI\'yı kabul edemediği göz önüne alındığında, bu seçenek, bu ayarlar ekranı da dahil olmak üzere AI işlevini tamamen silmek için kullanılabilir. AI silindikten sonra geri alınamaz. Lütfen haberdar olun!</string>
 </resources>

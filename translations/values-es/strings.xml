@@ -705,6 +705,7 @@
   <string name="readCurrentArticleAloud">Lea el artículo actual en voz alta</string>
   <string name="checkForUpdates">Buscar actualizaciones</string>
   <string name="ttsEnabled">TTS habilitado</string>
+  <string name="copilotSummary">Si está habilitado, la IA te dará sugerencias de escritura en tiempo real en el editor. Siempre que hagas una pausa en el proceso de escritura, la IA generará sugerencias para que continúes escribiendo después del cursor. Puedes hacer clic en el texto candidato para aceptarlo o editarlo, o seguir escribiendo para ignorarlo y rechazarlo.</string>
   <string name="tipLargeText">El artículo actual es demasiado largo, por lo que el espacio entre párrafos se ha desactivado temporalmente para continuar con la experiencia de escritura fluida.</string>
   <string name="pinShortcutDialogMessage">Crea un lanzador o acceso directo de escritorio a este libro que puede usar para agrupar libros.\n\n⚠️ Nota: Algunos sistemas no admiten la creación de accesos directos de forma predeterminada, debe hacer clic en el botón \"Configuración\" a continuación para ir a la pantalla Configuración del sistema para habilitar el permiso \"Accesos directos de la pantalla de inicio\", y luego regresar a esta pantalla y hacer clic en Aceptar botón.\n\nDespués del éxito, puede encontrar un ícono de acceso directo en su lanzador o escritorio.</string>
   <string name="createPinShortcut">Crear acceso directo</string>
@@ -715,12 +716,18 @@
   <string name="tag">Etiqueta</string>
   <string name="tipNewTag">Esta es la función booktag 🏷️️. Si necesita establecer una etiqueta para un libro y mostrarlo en la parte superior, debe mantener presionado el elemento del libro en la pantalla Libros y luego seleccionar el menú Editar libro. En el cuadro de diálogo para crear o editar un libro, puede establecer las etiquetas del libro.</string>
   <string name="clickHereToSelectAnotherCloudStorageType">Haga clic aquí para seleccionar otro tipo de almacenamiento en la nube</string>
-  <string name="aiSettings">Configuración de AI, ChatGPT</string>
-  <string name="aiEntrySummary">Finalización de artículo, refinamiento, pulido y chat de AI</string>
+  <string name="aiSettings">IA, configuración de ChatGPT</string>
+  <string name="aiEntrySummary">Finalización, refinamiento, pulido y ChatGPT de artículos</string>
   <string name="required">Requerido</string>
-  <string name="openAiKeyGuideSummary">Abrir página de generación y gestión de clave API de OpenAI</string>
-  <string name="enableAiOnTimeMachine">Habilitar AI en Time Machine</string>
-  <string name="enableAiOnEditorContextMenu">Habilitar AI en el menú contextual del editor</string>
-  <string name="enableAiOnEditorContextMenuSummary">Mantener presionado en el editor mostrará el menú contextual del texto, que contendrá funciones de finalización o pulido de AI</string>
-  <string name="openAiReadme">Actualmente, nuestro servicio de IA es proporcionado por el modelo ChatGPT de OpenAI. De forma predeterminada, no está habilitado y solo comenzará a brindar servicios una vez que lo habilite e ingrese su clave API de OpenAI a continuación.\n\nDado que el servicio de IA no es un servicio proporcionado directamente por Pure Writer, existe una imprevisibilidad en su contenido de respuesta. Debe ser capaz de discernir y evaluar por sí mismo. Pure Writer no se hace responsable del contenido y los problemas generados por la IA. Si no está de acuerdo, deshabilite la función de IA. Si continúa utilizándolo, estará aceptando este acuerdo.\n\nAdemás, algunos países pueden no tener acceso a OpenAI, y deberá resolver cualquier problema de red por sí mismo.</string>
+  <string name="openAiKeyGuideSummary">Abrir la página de administración y generación de claves API de OpenAI</string>
+  <string name="enableAiOnTimeMachine">Habilitar IA (ChatGPT) en Time Machine</string>
+  <string name="enableAiOnEditorContextMenu">Habilitar IA en el menú contextual del editor</string>
+  <string name="enableAiOnEditorContextMenuSummary">Una pulsación prolongada en el editor abrirá el menú contextual de texto, que contendrá la función de finalización de IA</string>
+  <string name="openAiReadme">Actualmente, OpenAI proporciona este servicio. De forma predeterminada, no está habilitado y solo comenzará a brindarle servicios una vez que lo habilite e ingrese su clave API OpenAI a continuación.\n\nComo el servicio AI no es un servicio proporcionado directamente por Pure Writer, existe una imprevisibilidad en su contenido de la respuesta. Debes ser capaz de discernirlo y evaluarlo por ti mismo. Pure Writer no es responsable del contenido y los problemas generados por la IA. Si no está de acuerdo, desactive la función AI. Si continúa usándolo, estará aceptando este acuerdo.\n\nAdemás, es posible que algunos países no tengan acceso a OpenAI, y deberá resolver cualquier problema de red usted mismo.</string>
+  <string name="aiProofread">Revisión AI</string>
+  <string name="aiComplete">IA+</string>
+  <string name="aiEnabledSummary">Esta función de IA no está habilitada de forma predeterminada, solo funciona cuando la inicia y activa explícitamente. Si no se ajusta a sus preferencias, siéntase libre de ignorarlo por completo. OpenAI proporciona este servicio y, como modelo preentrenado, su texto nunca se usó ni se usará para entrenamiento.</string>
+  <string name="aiEntrySummary2">Este es un modelo preentrenado proporcionado por OpenAI. Tenga la seguridad de que <b>nunca hemos usado sus artículos para capacitación</b>, ni podremos usar sus artículos para capacitación, ya que sus artículos nunca se han almacenado en los servidores de Pure Writer. Sus artículos solo existen en su dispositivo y en el almacenamiento en la nube que ha configurado.</string>
+  <string name="completelyDeleteAIFunctions">Eliminar completamente las funciones de IA</string>
+  <string name="completelyDeleteAIFunctionsSummary">Dado que algunas personas no pueden aceptar la IA pase lo que pase, esta opción está disponible para eliminar por completo la funcionalidad de la IA, incluida esta pantalla de configuración. Una vez que se elimina AI, no se puede deshacer. ¡Por favor manténgase informado!</string>
 </resources>

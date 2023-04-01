@@ -680,6 +680,7 @@
   <string name="readCurrentArticleAloud">Lesen Sie den aktuellen Artikel laut vor</string>
   <string name="checkForUpdates">Auf Updates prüfen</string>
   <string name="ttsEnabled">TTS aktiviert</string>
+  <string name="copilotSummary">Wenn aktiviert, gibt Ihnen die KI in Echtzeit Schreibvorschläge im Editor. Jedes Mal, wenn Sie im Schreibprozess pausieren, generiert die KI Vorschläge, um nach dem Cursor weiterzuschreiben. Sie können auf den vorgeschlagenen Text klicken, um ihn anzunehmen oder zu bearbeiten, oder weiter tippen, um ihn zu ignorieren und abzulehnen.</string>
   <string name="tipLargeText">Der aktuelle Artikel ist zu lang, daher wurde der Absatzabstand vorübergehend deaktiviert, um ein reibungsloses Schreiberlebnis zu gewährleisten.</string>
   <string name="pinShortcutDialogMessage">Erstellt eine Launcher- oder Desktop-Verknüpfung zu diesem Buch, die Sie zum Gruppieren von Büchern verwenden können.\n\n⚠️ Hinweis: Einige Systeme unterstützen das Erstellen von Verknüpfungen standardmäßig nicht. Sie müssen auf die Schaltfläche „Einstellungen“ unten klicken, um zum Bildschirm „Systemeinstellungen“ zu gelangen und die Berechtigung „Startbildschirm-Verknüpfungen“ zu aktivieren, und dann zu diesem Bildschirm zurückkehren und auf „OK“ klicken Taste.\n\nNach dem Erfolg finden Sie ein Verknüpfungssymbol auf Ihrem Launcher oder Desktop.</string>
   <string name="createPinShortcut">Verknüpfung erstellen</string>
@@ -690,12 +691,18 @@
   <string name="tag">Schild</string>
   <string name="tipNewTag">Das ist die Buchtag 🏷️️ Funktion. Wenn Sie ein Tag für ein Buch festlegen und es ganz oben anzeigen möchten, müssen Sie auf dem Bildschirm „Bücher“ lange auf das Buchelement drücken und dann das Menü „Buch bearbeiten“ auswählen. Im Dialog zum Erstellen oder Bearbeiten eines Buches können Sie die Tags des Buches setzen.</string>
   <string name="clickHereToSelectAnotherCloudStorageType">Klicken Sie hier, um einen anderen Cloud-Speichertyp auszuwählen</string>
-  <string name="aiSettings">KI, ChatGPT Einstellungen</string>
-  <string name="aiEntrySummary">Artikelvervollständigung, Verfeinerung, Polieren und KI-Chat</string>
+  <string name="aiSettings">AI, ChatGPT-Einstellungen</string>
+  <string name="aiEntrySummary">Artikelvervollständigung, Verfeinerung, Politur und ChatGPT</string>
   <string name="required">Erforderlich</string>
-  <string name="openAiKeyGuideSummary">OpenAI-API-Schlüsselerzeugungs- und Verwaltungsseite öffnen</string>
-  <string name="enableAiOnTimeMachine">KI in Time Machine aktivieren</string>
-  <string name="enableAiOnEditorContextMenu">KI im Editor-Kontextmenü aktivieren</string>
-  <string name="enableAiOnEditorContextMenuSummary">Langes Drücken im Editor ruft das Textkontextmenü auf, das KI-Vervollständigungs- oder Polierfunktionen enthalten wird</string>
-  <string name="openAiReadme">Derzeit wird unser KI-Dienst vom ChatGPT-Modell von OpenAI bereitgestellt. Standardmäßig ist es nicht aktiviert und beginnt erst dann mit der Bereitstellung von Diensten für Sie, wenn Sie es aktivieren und unten Ihren OpenAI-API-Schlüssel eingeben.\n\nDa der AI-Dienst kein direkt von Pure Writer bereitgestellter Dienst ist, ist er unvorhersehbar Antwort Inhalt. Sie müssen in der Lage sein, es selbst zu erkennen und zu bewerten. Pure Writer ist nicht verantwortlich für die Inhalte und Probleme, die von der KI generiert werden. Wenn Sie damit nicht einverstanden sind, deaktivieren Sie bitte die AI-Funktion. Wenn Sie es weiterhin verwenden, stimmen Sie dieser Vereinbarung zu.\n\nAußerdem haben einige Länder möglicherweise keinen Zugriff auf OpenAI, und Sie müssen alle Netzwerkprobleme selbst lösen.</string>
+  <string name="openAiKeyGuideSummary">Öffne die Seite zur Generierung und Verwaltung von OpenAI-API-Schlüsseln</string>
+  <string name="enableAiOnTimeMachine">AI (ChatGPT) auf Time Machine aktivieren</string>
+  <string name="enableAiOnEditorContextMenu">KI im Kontextmenü des Editors aktivieren</string>
+  <string name="enableAiOnEditorContextMenuSummary">Langes Drücken im Editor öffnet das Textkontextmenü, das die KI-Vervollständigungsfunktion enthält</string>
+  <string name="openAiReadme">Derzeit wird dieser Dienst von OpenAI bereitgestellt. Standardmäßig ist es nicht aktiviert und beginnt erst dann mit der Bereitstellung von Diensten für Sie, wenn Sie es aktivieren und unten Ihren OpenAI-API-Schlüssel eingeben.\n\nDa der AI-Dienst kein direkt von Pure Writer bereitgestellter Dienst ist, ist er unvorhersehbar Antwort Inhalt. Sie müssen in der Lage sein, es selbst zu erkennen und zu bewerten. Pure Writer ist nicht verantwortlich für die Inhalte und Probleme, die von AI generiert werden. Wenn Sie damit nicht einverstanden sind, deaktivieren Sie bitte die AI-Funktion. Wenn Sie es weiterhin verwenden, stimmen Sie dieser Vereinbarung zu.\n\nAußerdem haben einige Länder möglicherweise keinen Zugriff auf OpenAI, und Sie müssen alle Netzwerkprobleme selbst lösen.</string>
+  <string name="aiProofread">KI-Korrektur</string>
+  <string name="aiComplete">AI+</string>
+  <string name="aiEnabledSummary">Diese KI-Funktion ist standardmäßig nicht aktiviert, sie funktioniert nur, wenn Sie sie explizit initiieren und auslösen. Wenn es nicht Ihren Vorlieben entspricht, können Sie es einfach ignorieren. Dieser Dienst wird von OpenAI bereitgestellt und als vortrainiertes Modell wurde Ihr Text nie und wird nicht für das Training verwendet.</string>
+  <string name="aiEntrySummary2">Dies ist ein vorab trainiertes Modell, das von OpenAI bereitgestellt wird. Bitte seien Sie versichert, dass wir <b>Ihre Artikel nie für Schulungen verwendet haben</b> und dass wir Ihre Artikel auch nicht für Schulungen verwenden können, da Ihre Artikel niemals auf Pure Writer-Servern gespeichert wurden. Ihre Artikel existieren nur auf Ihrem Gerät und auf dem von Ihnen eingerichteten Cloud-Speicher.</string>
+  <string name="completelyDeleteAIFunctions">KI-Funktionen vollständig löschen</string>
+  <string name="completelyDeleteAIFunctionsSummary">Angesichts der Tatsache, dass einige Leute keine KI akzeptieren können, egal was passiert, ist diese Option verfügbar, um die KI-Funktionalität einschließlich dieses Einstellungsbildschirms vollständig zu löschen. Sobald AI gelöscht wurde, kann es nicht rückgängig gemacht werden. Bitte informieren!</string>
 </resources>

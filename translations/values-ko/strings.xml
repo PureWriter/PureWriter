@@ -682,6 +682,7 @@
   <string name="readCurrentArticleAloud">현재 기사 소리내어 읽기</string>
   <string name="checkForUpdates">업데이트 확인</string>
   <string name="ttsEnabled">TTS 활성화</string>
+  <string name="copilotSummary">활성화되면 AI가 실시간으로 편집기에서 쓰기 제안을 제공합니다. 작성 프로세스에서 일시 중지 할 때마다 AI가 커서 이후에 쓰기를 계속하기 위한 제안을 생성합니다. 후보 텍스트를 클릭하여 수락하거나 편집하거나, 계속 입력하여 무시하거나 거부할 수 있습니다.</string>
   <string name="tipLargeText">현재 기사가 너무 길어서 원활한 쓰기 경험을 계속하기 위해 단락 간격이 일시적으로 비활성화되었습니다.</string>
   <string name="pinShortcutDialogMessage">책을 그룹화하는 데 사용할 수 있는 이 책에 대한 실행기 또는 바탕 화면 바로 가기를 만듭니다.\n\n⚠️ 참고: 일부 시스템은 기본적으로 바로 가기 생성을 지원하지 않습니다. 아래의 \"설정\" 버튼을 클릭하여 시스템 설정 화면으로 이동하여 \"홈 화면 바로가기\" 권한을 활성화한 다음 이 화면으로 돌아가서 확인을 클릭해야 합니다. 단추.\n\n성공하면 런처나 바탕 화면에서 바로 가기 아이콘을 찾을 수 있습니다.</string>
   <string name="createPinShortcut">바로가기 만들기</string>
@@ -693,11 +694,17 @@
   <string name="tipNewTag">책태그🏷️️ 기능입니다. 책에 태그를 설정하여 상단에 표시하려면 책 화면에서 책 항목을 길게 누른 다음 책 편집 메뉴를 선택해야 합니다. 책을 만들거나 편집하는 대화 상자에서 책의 태그를 설정할 수 있습니다.</string>
   <string name="clickHereToSelectAnotherCloudStorageType">다른 클라우드 스토리지 유형을 선택하려면 여기를 클릭하십시오.</string>
   <string name="aiSettings">AI, ChatGPT 설정</string>
-  <string name="aiEntrySummary">기사 완성, 개선, 연마 및 AI 채팅</string>
+  <string name="aiEntrySummary">기사 완성, 개선, 다듬기 및 ChatGPT</string>
   <string name="required">필수</string>
   <string name="openAiKeyGuideSummary">OpenAI API 키 생성 및 관리 페이지 열기</string>
-  <string name="enableAiOnTimeMachine">Time Machine에서 AI 활성화</string>
+  <string name="enableAiOnTimeMachine">타임 머신에서 AI(ChatGPT) 활성화</string>
   <string name="enableAiOnEditorContextMenu">편집기 컨텍스트 메뉴에서 AI 활성화</string>
-  <string name="enableAiOnEditorContextMenuSummary">편집기에서 길게 누르면 텍스트 컨텍스트 메뉴가 표시되며, AI 완성 또는 연마 기능이 포함됩니다</string>
-  <string name="openAiReadme">현재 AI 서비스는 OpenAI의 ChatGPT 모델에 의해 제공됩니다. 기본적으로 비활성화되어 있으며, 아래에 OpenAI API 키를 입력하고 활성화하면 서비스를 시작합니다.\n\nAI 서비스는 Pure Writer에서 직접 제공하는 서비스가 아니기 때문에 응답 내용의 예측 불가성이 있습니다. 사용자는 스스로 판별하고 평가할 수 있어야 합니다. Pure Writer는 AI가 생성하는 콘텐츠와 문제에 대해 책임지지 않습니다. 동의하지 않으시면 AI 기능을 비활성화해 주세요. 계속 사용하는 경우 이 계약에 동의하는 것으로 간주됩니다.\n\n또한, 일부 국가에서는 OpenAI에 액세스할 수 없으며, 네트워크 문제를 스스로 해결해야 할 수도 있습니다.</string>
+  <string name="enableAiOnEditorContextMenuSummary">에디터를 길게 누르면 AI 완성 기능이 포함된 텍스트 컨텍스트 메뉴가 나타납니다</string>
+  <string name="openAiReadme">현재 이 서비스는 OpenAI에서 제공하고 있습니다. 기본적으로 활성화되어 있지 않으며 활성화하고 아래에 OpenAI API 키를 입력해야만 서비스를 제공하기 시작합니다.\n\nAI 서비스는 Pure Writer에서 직접 제공하는 서비스가 아니므로 예측할 수 없습니다. 응답 내용. 스스로 분별하고 평가할 수 있어야 합니다. 퓨어라이터는 AI로 인해 발생하는 내용 및 문제에 대해 책임을 지지 않습니다. 동의하지 않으시면 AI 기능을 비활성화 해주세요. 계속 사용하면 이 계약에 동의하는 것입니다.\n\n또한 일부 국가에서는 OpenAI에 액세스할 수 없으며 네트워크 문제를 직접 해결해야 합니다.</string>
+  <string name="aiProofread">AI 교정</string>
+  <string name="aiComplete">AI+</string>
+  <string name="aiEnabledSummary">이 AI 기능은 기본적으로 활성화되어 있지 않으며 명시적으로 시작하고 실행할 때만 작동합니다. 선호도에 맞지 않으면 완전히 무시해도 됩니다. 이 서비스는 OpenAI에서 제공하며 사전 훈련된 모델로서 귀하의 텍스트는 훈련에 사용된 적이 없으며 앞으로도 사용되지 않을 것입니다.</string>
+  <string name="aiEntrySummary2">OpenAI에서 제공하는 사전 훈련된 모델입니다. 귀하의 기사가 Pure Writer 서버에 저장되지 않았으므로 <b>교육용으로 귀하의 기사를 사용한 적이 없으며</b> 귀하의 기사를 교육용으로 사용할 수도 없으니 안심하십시오. 귀하의 기사는 귀하의 기기와 귀하가 설정한 클라우드 저장소에만 존재합니다.</string>
+  <string name="completelyDeleteAIFunctions">AI 기능 완전 삭제</string>
+  <string name="completelyDeleteAIFunctionsSummary">일부 사람들은 어떤 경우에도 AI를 수용할 수 없다는 점을 감안하여, 이 옵션은 이 설정 화면을 포함하여 AI 기능을 완전히 삭제하는 데 사용할 수 있습니다. AI가 삭제되면 취소할 수 없습니다. 알려주세요!</string>
 </resources>

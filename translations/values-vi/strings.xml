@@ -722,6 +722,7 @@
   <string name="summaryCloudSyncAutoSwitchesToTheLatestEditedArticle">Điều này sẽ chỉ có hiệu lực sau khi bạn bật đồng bộ hóa đám mây trên Cài đặt đồng bộ hóa đám mây.\nSau khi bật tùy chọn này, Pure Writer sẽ tự động chuyển sang bài viết đã chỉnh sửa mới nhất cho bạn nếu quá trình đồng bộ hóa đám mây hoàn tất.</string>
   <string name="ttsEnabled">Đã bật TTS</string>
   <string name="orLongPressToSelect">Hoặc nhấn và giữ văn bản để chọn và sao chép các phần của nó</string>
+  <string name="copilotSummary">Nếu được bật, AI sẽ cung cấp cho bạn các gợi ý viết trong thời gian thực trong trình soạn thảo. Mỗi khi bạn tạm dừng trong quá trình viết, AI sẽ tạo ra các gợi ý để bạn tiếp tục viết sau con trỏ. Bạn có thể nhấp vào văn bản ứng cử để chấp nhận hoặc chỉnh sửa nó, hoặc tiếp tục gõ để bỏ qua và từ chối nó.</string>
   <string name="messageAskPostNotification">Cấp quyền thông báo để hiển thị trạng thái <i>Tự động sao lưu</i>?</string>
   <string name="needUpdate">Cần cập nhật</string>
   <string name="messageNeedForcedUpdate">Do chứng chỉ HTTPS của phiên bản hiện tại đã hết hạn, hệ thống Android không thể cung cấp các yêu cầu mạng an toàn cho Pure Writer và yêu cầu mạng của bạn có thể bị người trung gian chặn. Vì vậy, bạn cần cập nhật phiên bản mới để tiếp tục sử dụng Pure Writer một cách an toàn.</string>
@@ -744,13 +745,18 @@
   <string name="oneDrivePersonal">OneDrive - Cá nhân</string>
   <string name="clickHereToSelectAnotherCloudStorageType">Nhấp vào đây để chọn loại lưu trữ đám mây khác</string>
   <string name="searchWritingCache">Tìm trong bộ nhớ cache?</string>
-  <string name="aiSettings">AI, Cài đặt ChatGPT</string>
-  <string name="aiEntrySummary">Hoàn thành bài viết, tinh chỉnh, đánh bóng và trò chuyện AI</string>
-  <string name="required">Yêu cầu</string>
-  <string name="openAiKeyGuideSummary">Mở trang tạo và quản lý Khóa API OpenAI</string>
-  <string name="enableAiOnTimeMachine">Bật AI trên Time Machine</string>
-  <string name="enableAiOnEditorContextMenu">Bật AI trong menu ngữ cảnh của trình soạn thảo</string>
-  <string name="enableAiOnEditorContextMenuSummary">Nhấn giữ lâu trong trình soạn thảo sẽ hiển thị menu ngữ cảnh văn bản, chứa các chức năng hoàn thành hoặc đánh bóng AI</string>
-  <string name="openAiReadme">Hiện tại, dịch vụ AI của chúng tôi được cung cấp bởi mô hình ChatGPT của OpenAI. Theo mặc định, nó không được bật và sẽ chỉ bắt đầu cung cấp dịch vụ cho bạn sau khi bạn bật nó và nhập Khóa API OpenAI của mình bên dưới.\n\nVì dịch vụ AI không phải là dịch vụ do Pure Writer trực tiếp cung cấp, nên có một điều không thể đoán trước được trong đó nội dung phản hồi. Bạn phải có khả năng phân biệt và đánh giá nó một mình. Pure Writer không chịu trách nhiệm về nội dung và các vấn đề do AI tạo ra. Nếu bạn không đồng ý, vui lòng tắt chức năng AI. Nếu bạn tiếp tục sử dụng nó, bạn sẽ đồng ý với thỏa thuận này.\n\nNgoài ra, một số quốc gia có thể không có quyền truy cập vào OpenAI và bạn sẽ cần phải tự giải quyết mọi sự cố mạng.</string>
+  <string name="aiSettings">Cài đặt AI, ChatGPT</string>
+  <string name="aiEntrySummary">Hoàn thành bài viết, sàng lọc, đánh bóng và ChatGPT</string>
+  <string name="required">Bắt buộc</string>
+  <string name="openAiKeyGuideSummary">Mở trang quản lý và tạo khóa API OpenAI</string>
+  <string name="enableAiOnTimeMachine">Bật AI(ChatGPT) trên cỗ máy thời gian</string>
+  <string name="enableAiOnEditorContextMenu">Bật AI trên menu ngữ cảnh của trình soạn thảo</string>
+  <string name="enableAiOnEditorContextMenuSummary">Nhấn và giữ trong trình chỉnh sửa sẽ hiển thị menu ngữ cảnh văn bản chứa chức năng hoàn thành AI</string>
+  <string name="openAiReadme">Hiện tại, dịch vụ này được cung cấp bởi OpenAI. Theo mặc định, nó không được bật và sẽ chỉ bắt đầu cung cấp dịch vụ cho bạn sau khi bạn bật nó và nhập Khóa API OpenAI của mình bên dưới.\n\nVì dịch vụ AI không phải là dịch vụ do Pure Writer trực tiếp cung cấp, nên có một điều không thể đoán trước được trong đó nội dung phản hồi. Bạn phải có khả năng phân biệt và đánh giá nó một mình. Pure Writer không chịu trách nhiệm về nội dung và các vấn đề do AI tạo ra. Nếu bạn không đồng ý, vui lòng tắt chức năng AI. Nếu bạn tiếp tục sử dụng nó, bạn sẽ đồng ý với thỏa thuận này.\n\nNgoài ra, một số quốc gia có thể không có quyền truy cập vào OpenAI và bạn sẽ cần phải tự giải quyết mọi sự cố mạng.</string>
+  <string name="aiProofread">Đọc sửa AI</string>
+  <string name="aiComplete">AI+</string>
+  <string name="aiEnabledSummary">Tính năng AI này không được bật theo mặc định, nó chỉ hoạt động khi bạn bắt đầu và kích hoạt nó một cách rõ ràng. Nếu nó không phù hợp với sở thích của bạn, vui lòng bỏ qua nó hoàn toàn. Dịch vụ này do OpenAI cung cấp và là một mô hình được đào tạo trước, Văn bản của bạn chưa bao giờ và sẽ không được sử dụng để đào tạo.</string>
+  <string name="aiEntrySummary2">Đây là mô hình được đào tạo trước do OpenAI cung cấp. Hãy yên tâm rằng chúng tôi <b>chưa bao giờ sử dụng các bài báo của bạn để đào tạo</b>, chúng tôi cũng sẽ không thể sử dụng các bài báo của bạn để đào tạo vì các bài viết của bạn chưa bao giờ được lưu trữ trên các máy chủ của Pure Writer. Các bài viết của bạn chỉ tồn tại trên thiết bị của bạn và trên bộ lưu trữ đám mây mà bạn đã thiết lập.</string>
+  <string name="completelyDeleteAIFunctions">Xóa hoàn toàn chức năng AI</string>
+  <string name="completelyDeleteAIFunctionsSummary">Do một số người không thể chấp nhận AI dù thế nào đi chăng nữa, tùy chọn này khả dụng để xóa hoàn toàn chức năng AI, bao gồm cả màn hình cài đặt này. Sau khi xóa AI, bạn không thể hoàn tác thao tác này. Xin thông báo!</string>
 </resources>
-

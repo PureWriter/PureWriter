@@ -716,6 +716,7 @@
   <string name="readCurrentArticleAloud">Lire l\'article actuel à voix haute</string>
   <string name="checkForUpdates">Vérifier les mises à jour</string>
   <string name="ttsEnabled">TTS activé</string>
+  <string name="copilotSummary">Si activé, l\'IA vous donnera des suggestions d\'écriture en temps réel dans l\'éditeur. À chaque fois que vous faites une pause dans le processus d\'écriture, l\'IA générera des suggestions pour que vous puissiez continuer à écrire après le curseur. Vous pouvez cliquer sur le texte proposé pour l\'accepter ou le modifier, ou continuer à taper pour l\'ignorer et le rejeter.</string>
   <string name="tipLargeText">L\'article actuel est trop long, donc l\'espacement des paragraphes a été temporairement désactivé pour continuer une expérience d\'écriture fluide.</string>
   <string name="pinShortcutDialogMessage">Crée un lanceur ou un raccourci sur le bureau vers ce livre que vous pouvez utiliser pour regrouper des livres.\n\n⚠️ Remarque: Certains systèmes ne prennent pas en charge la création de raccourcis par défaut. Vous devez cliquer sur le bouton \"Paramètres\" ci-dessous pour accéder à l\'écran Paramètres système afin d\'activer l\'autorisation \"Raccourcis de l\'écran d\'accueil\", puis revenir à cet écran et cliquer sur le bouton OK. bouton.\n\nAprès le succès, vous pouvez trouver une icône de raccourci sur votre lanceur ou votre bureau.</string>
   <string name="createPinShortcut">Créer un raccourci</string>
@@ -726,12 +727,18 @@
   <string name="tags">Mots clés</string>
   <string name="tipNewTag">C\'est la fonction book tag 🏷️️. Si vous devez définir une étiquette pour un livre et l\'afficher en haut, vous devez appuyer longuement sur l\'élément de livre dans l\'écran Livres, puis sélectionner le menu Modifier le livre. Dans la boîte de dialogue de création ou de modification d\'un livre, vous pouvez définir les balises du livre.</string>
   <string name="clickHereToSelectAnotherCloudStorageType">Cliquez ici pour sélectionner un autre type de stockage cloud</string>
-  <string name="aiSettings">IA, Paramètres de ChatGPT</string>
-  <string name="aiEntrySummary">Complétion d\'article, amélioration, polissage et discussion avec l\'IA</string>
+  <string name="aiSettings">IA, paramètres ChatGPT</string>
+  <string name="aiEntrySummary">Complétion d\'article, raffinement, polissage et ChatGPT</string>
   <string name="required">Requis</string>
-  <string name="openAiKeyGuideSummary">Ouvrir la page de génération et de gestion de clé API OpenAI</string>
-  <string name="enableAiOnTimeMachine">Activer l\'IA sur Time Machine</string>
+  <string name="openAiKeyGuideSummary">Ouvrir la page de génération et de gestion des clés API OpenAI</string>
+  <string name="enableAiOnTimeMachine">Activer l\'IA (ChatGPT) sur Time Machine</string>
   <string name="enableAiOnEditorContextMenu">Activer l\'IA dans le menu contextuel de l\'éditeur</string>
-  <string name="enableAiOnEditorContextMenuSummary">Un appui long dans l\'éditeur affichera le menu contextuel du texte, qui contiendra des fonctions de complétion ou de polissage de l\'IA</string>
-  <string name="openAiReadme">Actuellement, notre service d\'IA est fourni par le modèle ChatGPT d\'OpenAI. Par défaut, il n\'est pas activé et ne commencera à vous fournir des services que lorsque vous l\'aurez activé et saisi votre clé API OpenAI ci-dessous.\n\nComme le service d\'IA n\'est pas un service fourni directement par Pure Writer, il y a une imprévisibilité dans son contenu de réponse. Vous devez être en mesure de discerner et d\'évaluer cela par vous-même. Pure Writer n\'est pas responsable du contenu et des problèmes générés par l\'IA. Si vous n\'êtes pas d\'accord, veuillez désactiver la fonctionnalité d\'IA. Si vous continuez à l\'utiliser, vous acceptez cet accord.\n\nEn outre, certains pays peuvent ne pas avoir accès à OpenAI, et vous devrez résoudre vous-même les problèmes de réseau.</string>
+  <string name="enableAiOnEditorContextMenuSummary">Appuyez longuement dans l\'éditeur pour afficher le menu contextuel du texte, qui contiendra la fonction de complétion AI</string>
+  <string name="openAiReadme">Actuellement, ce service est fourni par OpenAI. Par défaut, il n\'est pas activé et ne commencera à vous fournir des services qu\'une fois que vous l\'aurez activé et saisi votre clé API OpenAI ci-dessous.\n\nComme le service AI n\'est pas un service fourni directement par Pure Writer, il existe une imprévisibilité dans son contenu de la réponse. Vous devez être capable de le discerner et de l\'évaluer par vous-même. Pure Writer n\'est pas responsable du contenu et des problèmes générés par l\'IA. Si vous n\'êtes pas d\'accord, veuillez désactiver la fonction AI. Si vous continuez à l\'utiliser, vous acceptez cet accord.\n\nEn outre, certains pays peuvent ne pas avoir accès à OpenAI et vous devrez résoudre vous-même tout problème de réseau.</string>
+  <string name="aiProofread">Relecture IA</string>
+  <string name="aiComplete">AI+</string>
+  <string name="aiEnabledSummary">Cette fonctionnalité AI n\'est pas activée par défaut, elle ne fonctionne que lorsque vous l\'initierez et la déclencherez explicitement. Si cela ne correspond pas à vos préférences, n\'hésitez pas à l\'ignorer complètement. Ce service est fourni par OpenAI, et en tant que modèle pré-formé, votre texte n\'a jamais été et ne sera pas utilisé pour la formation.</string>
+  <string name="aiEntrySummary2">Il s\'agit d\'un modèle pré-entraîné fourni par OpenAI. Soyez assuré que nous n\'avons <b>jamais utilisé vos articles pour la formation</b>, et nous ne pourrons pas non plus utiliser vos articles pour la formation, car vos articles n\'ont jamais été stockés sur les serveurs de Pure Writer. Vos articles n\'existent que sur votre appareil et sur le stockage cloud que vous avez configuré.</string>
+  <string name="completelyDeleteAIFunctions">Supprimer complètement les fonctions AI</string>
+  <string name="completelyDeleteAIFunctionsSummary">Étant donné que certaines personnes ne peuvent pas accepter l\'IA quoi qu\'il arrive, cette option est disponible pour supprimer complètement la fonctionnalité d\'IA, y compris cet écran de paramètres. Une fois l\'IA supprimée, elle ne peut pas être annulée. Soyez informé !</string>
 </resources>

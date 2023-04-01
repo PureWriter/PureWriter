@@ -711,6 +711,7 @@
   <string name="readCurrentArticleAloud">Lees huidig artikel hardop</string>
   <string name="checkForUpdates">Controleren op updates</string>
   <string name="ttsEnabled">TTS ingeschakeld</string>
+  <string name="copilotSummary">Indien ingeschakeld, zal AI je schrijfsuggesties geven in de editor in realtime. Telkens wanneer je pauzeert in het schrijfproces, zal AI suggesties genereren om verder te schrijven na de cursor. Je kunt op de kandidaat-tekst klikken om deze te accepteren of te bewerken, of doorgaan met typen om het te negeren en af te wijzen.</string>
   <string name="tipLargeText">Het huidige artikel is te lang, dus de alinea-afstand is tijdelijk uitgeschakeld om een soepele schrijfervaring te behouden.</string>
   <string name="pinShortcutDialogMessage">Hiermee maakt u een opstartprogramma of snelkoppeling op het bureaublad naar dit boek die u kunt gebruiken om boeken te groeperen.\n\n⚠️ Opmerking: sommige systemen bieden standaard geen ondersteuning voor het maken van snelkoppelingen, u moet op de knop \"Instellingen\" hieronder klikken om naar het scherm Systeeminstellingen te gaan om de machtiging \"Startschermsnelkoppelingen\" in te schakelen en vervolgens terug te keren naar dit scherm en op OK te klikken knop.\n\nNa succes vindt u een snelkoppelingspictogram op uw opstartprogramma of bureaublad.</string>
   <string name="createPinShortcut">Snelkoppeling maken</string>
@@ -722,11 +723,17 @@
   <string name="tipNewTag">Dit is de boektag 🏷️️-functie. Als u een label voor een boek wilt instellen en dit bovenaan wilt weergeven, moet u lang op het boekitem in het scherm Boeken drukken en vervolgens het menu Boek bewerken selecteren. In het dialoogvenster voor het maken of bewerken van een boek kunt u de tags van het boek instellen.</string>
   <string name="clickHereToSelectAnotherCloudStorageType">Klik hier om een ander type cloudopslag te selecteren</string>
   <string name="aiSettings">AI, ChatGPT-instellingen</string>
-  <string name="aiEntrySummary">Artikel voltooiing, verfijning, polijsten en AI-chat</string>
+  <string name="aiEntrySummary">Artikelaanvulling, verfijning, polijsten en ChatGPT</string>
   <string name="required">Vereist</string>
-  <string name="openAiKeyGuideSummary">Open de OpenAI API-sleutel generatie- en beheerpagina</string>
-  <string name="enableAiOnTimeMachine">AI inschakelen op Time Machine</string>
+  <string name="openAiKeyGuideSummary">Open de pagina voor het genereren en beheren van OpenAI API-sleutels</string>
+  <string name="enableAiOnTimeMachine">AI(ChatGPT) inschakelen op Time Machine</string>
   <string name="enableAiOnEditorContextMenu">AI inschakelen in het contextmenu van de editor</string>
-  <string name="enableAiOnEditorContextMenuSummary">Lang indrukken in de editor zal het tekst contextmenu oproepen, dat AI-voltooiing- of polijstfuncties zal bevatten</string>
-  <string name="openAiReadme">Momenteel wordt onze AI-service geleverd door OpenAI\'s ChatGPT-model. Standaard is het uitgeschakeld en begint het pas diensten aan u te leveren zodra u het inschakelt en uw OpenAI API-sleutel hieronder invoert.\n\nOmdat de AI-service geen service is die rechtstreeks door Pure Writer wordt geleverd, is er onvoorspelbaarheid in de responsinhoud. U moet in staat zijn om het zelf te onderscheiden en te evalueren. Pure Writer is niet verantwoordelijk voor de inhoud en problemen die door de AI worden gegenereerd. Als u het niet eens bent, schakel dan de AI-functie uit. Als u het blijft gebruiken, gaat u akkoord met deze overeenkomst.\n\nBovendien hebben sommige landen mogelijk geen toegang tot OpenAI en moet u eventuele netwerkproblemen zelf oplossen.</string>
+  <string name="enableAiOnEditorContextMenuSummary">Lang indrukken in de editor zal het tekstcontextmenu openen, dat de AI-aanvullingsfunctie zal bevatten</string>
+  <string name="openAiReadme">Momenteel wordt deze service geleverd door OpenAI. Het is standaard niet ingeschakeld en zal pas beginnen met het leveren van diensten aan u zodra u het inschakelt en uw OpenAI API-sleutel hieronder invoert.\n\nAangezien de AI-dienst geen dienst is die rechtstreeks door Pure Writer wordt geleverd, is er een onvoorspelbaarheid in zijn reactie inhoud. Je moet het zelf kunnen onderscheiden en beoordelen. Pure Writer is niet verantwoordelijk voor de inhoud en problemen die worden gegenereerd door AI. Als u het er niet mee eens bent, schakel dan de AI-functie uit. Als u het blijft gebruiken, gaat u akkoord met deze overeenkomst.\n\nBovendien hebben sommige landen mogelijk geen toegang tot OpenAI en moet u eventuele netwerkproblemen zelf oplossen.</string>
+  <string name="aiProofread">AI-proeflezen</string>
+  <string name="aiComplete">AI+</string>
+  <string name="aiEnabledSummary">Deze AI-functie is niet standaard ingeschakeld, het werkt alleen wanneer u het expliciet initieert en activeert. Als het niet bij uw voorkeuren past, kunt u het geheel negeren. Deze service wordt geleverd door OpenAI en als een vooraf getraind model is uw tekst nooit en zal deze niet worden gebruikt voor training.</string>
+  <string name="aiEntrySummary2">Dit is een vooraf getraind model geleverd door OpenAI. U kunt er zeker van zijn dat we <b>uw artikelen nooit voor training hebben gebruikt</b> en dat we uw artikelen ook niet voor training kunnen gebruiken, aangezien uw artikelen nooit zijn opgeslagen op Pure Writer-servers. Uw artikelen bestaan alleen op uw apparaat en in de cloudopslag die u heeft ingesteld.</string>
+  <string name="completelyDeleteAIFunctions">AI-functies volledig verwijderen</string>
+  <string name="completelyDeleteAIFunctionsSummary">Aangezien sommige mensen AI hoe dan ook niet kunnen accepteren, is deze optie beschikbaar om de AI-functionaliteit, inclusief dit instellingenscherm, volledig te verwijderen. Als AI eenmaal is verwijderd, kan dit niet meer ongedaan worden gemaakt. Laat het ons weten!</string>
 </resources>

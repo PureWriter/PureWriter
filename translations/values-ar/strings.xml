@@ -661,6 +661,7 @@
   <string name="summaryCloudSyncAutoSwitchesToTheLatestEditedArticle">لن يسري هذا إلا بعد تمكين المزامنة السحابية في إعدادات المزامنة السحابية.\nبعد تمكين هذا الخيار ، سيتحول Pure Writer تلقائيًا إلى أحدث مقالة تم تحريرها لك إذا اكتملت المزامنة السحابية.</string>
   <string name="ttsEnabled">تمكين تحويل النص إلى كلام</string>
   <string name="orLongPressToSelect">أو اضغط مطولاً على النص لتحديد ونسخ أجزاء منه</string>
+  <string name="copilotSummary">في حالة التمكين ، ستقدم لك منظمة العفو الدولية اقتراحات كتابية في المحرر في الوقت الفعلي. كلما توقفت مؤقتًا في عملية الكتابة ، سيقدم لك الذكاء الاصطناعي اقتراحات لمواصلة الكتابة بعد المؤشر. يمكنك النقر فوق نص المرشح لقبوله أو تعديله ، أو الاستمرار في الكتابة لتجاهله ورفضه.</string>
   <string name="messageAskPostNotification">منح إذن الإعلام لعرض حالة النسخ الاحتياطي التلقائي؟</string>
   <string name="needUpdate">بحاجة الى تحديث</string>
   <string name="messageNeedForcedUpdate">نظرًا لانتهاء صلاحية شهادة HTTPS للإصدار الحالي ، لا يمكن لنظام Android توفير طلبات شبكة آمنة لـ Pure Writer ، وقد يعترض الوسطاء طلبات الشبكة الخاصة بك. لذلك ، تحتاج إلى التحديث إلى الإصدار الجديد للاستمرار في استخدام Pure Writer بشكل آمن.</string>
@@ -682,12 +683,18 @@
   <string name="oneDrivePersonal">OneDrive - شخصي</string>
   <string name="clickHereToSelectAnotherCloudStorageType">انقر هنا لتحديد نوع تخزين سحابي آخر</string>
   <string name="searchWritingCache">البحث في الكاش؟</string>
-  <string name="aiSettings">إعدادات الذكاء الاصطناعي، ChatGPT</string>
-  <string name="aiEntrySummary">إكمال المقالة، التحسين، التلميع والدردشة مع الذكاء الاصطناعي</string>
-  <string name="required">مطلوب</string>
-  <string name="openAiKeyGuideSummary">افتح صفحة إنشاء مفتاح API وإدارته من OpenAI</string>
-  <string name="enableAiOnTimeMachine">تفعيل الذكاء الاصطناعي على Time Machine</string>
-  <string name="enableAiOnEditorContextMenu">تفعيل الذكاء الاصطناعي في قائمة السياق للمحرر</string>
-  <string name="enableAiOnEditorContextMenuSummary">سيؤدي الضغط لفترة طويلة في المحرر إلى إظهار قائمة سياق النص ، والتي ستحتوي على وظائف إكمال AI أو تلميع </string>
-  <string name="openAiReadme">حاليًا ، يتم توفير خدمة AI الخاصة بنا من خلال نموذج ChatGPT الخاص بـ OpenAI. بشكل افتراضي ، لم يتم تمكينه وسيبدأ فقط في تقديم الخدمات لك بمجرد تمكينه وإدخال مفتاح OpenAI API أدناه. \ n \ n نظرًا لأن خدمة AI ليست خدمة مقدمة مباشرة من Pure Writer ، فهناك عدم القدرة على التنبؤ في محتوى الاستجابة. يجب أن تكون قادرًا على تمييزه وتقييمه بنفسك. Pure Writer ليست مسؤولة عن المحتوى والمشاكل التي يولدها الذكاء الاصطناعي. إذا كنت لا توافق ، يرجى تعطيل وظيفة AI. إذا واصلت استخدامه ، فستوافق على هذه الاتفاقية. \ n \ n بالإضافة إلى ذلك ، قد لا تتمكن بعض البلدان من الوصول إلى OpenAI ، وستحتاج إلى حل أية مشكلات في الشبكة بنفسك. </string>
+  <string name="aiSettings"> إعدادات AI و ChatGPT </string>
+  <string name="aiEntrySummary"> إكمال المقالة وصقلها وصقلها و ChatGPT </string>
+  <string name="required"> مطلوب </string>
+  <string name="openAiKeyGuideSummary"> صفحة إنشاء وإدارة مفتاح OpenAI API </string>
+  <string name="enableAiOnTimeMachine"> تمكين AI (ChatGPT) على Time Machine </string>
+  <string name="enableAiOnEditorContextMenu"> تمكين AI في قائمة سياق المحرر </string>
+  <string name="enableAiOnEditorContextMenuSummary"> سيؤدي الضغط لفترة طويلة في المحرر إلى إظهار قائمة سياق النص ، والتي ستحتوي على وظيفة إكمال AI </string>
+  <string name="openAiReadme"> حاليًا ، يتم توفير هذه الخدمة بواسطة OpenAI. بشكل افتراضي ، لم يتم تمكينه وسيبدأ فقط في تقديم الخدمات لك بمجرد تمكينه وإدخال مفتاح OpenAI API أدناه. \n\n نظرًا لأن خدمة AI ليست خدمة مقدمة مباشرة من Pure Writer ، فهناك عدم القدرة على التنبؤ في محتوى الاستجابة. يجب أن تكون قادرًا على تمييزه وتقييمه بنفسك. Pure Writer ليست مسؤولة عن المحتوى والمشاكل التي يولدها الذكاء الاصطناعي. إذا كنت لا توافق ، يرجى تعطيل وظيفة AI. إذا واصلت استخدامه ، فستوافق على هذه الاتفاقية. \n\n بالإضافة إلى ذلك ، قد لا تتمكن بعض البلدان من الوصول إلى OpenAI ، وستحتاج إلى حل أية مشكلات في الشبكة بنفسك. </string>
+  <string name="aiProofread"> AI Proofread </string>
+  <string name="aiComplete"> AI + </string>
+  <string name="aiEnabledSummary"> لم يتم تمكين ميزة AI هذه افتراضيًا ، فهي تعمل فقط عندما تقوم ببدء تشغيلها وتشغيلها بشكل صريح. إذا لم يناسب تفضيلاتك ، فلا تتردد في تجاهله تمامًا. يتم توفير هذه الخدمة بواسطة OpenAI ، وكنموذج مدرب مسبقًا ، لم يكن النص الخاص بك مطلقًا ولن يتم استخدامه للتدريب. </string>
+  <string name="aiEntrySummary2"> هذا نموذج تم تدريبه مسبقًا بواسطة OpenAI. يُرجى التأكد من أننا <b> لم نستخدم مقالاتك مطلقًا للتدريب </b> ، ولن نتمكن من استخدام مقالاتك للتدريب ، حيث لم يتم تخزين مقالاتك على خوادم Pure Writer مطلقًا. مقالاتك موجودة فقط على جهازك وعلى التخزين السحابي الذي أعددته. </string>
+  <string name="completelyDeleteAIFunctions"> حذف وظائف AI تمامًا </string>
+  <string name="completelyDeleteAIFunctionsSummary"> نظرًا لأن بعض الأشخاص غير قادرين على قبول AI مهما كان الأمر ، فإن هذا الخيار متاح لحذف وظيفة AI تمامًا ، بما في ذلك شاشة الإعدادات هذه. بمجرد حذف AI ، لا يمكن التراجع عنه. يرجى العلم! </string>
 </resources>

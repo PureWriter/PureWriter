@@ -713,6 +713,7 @@
   <string name="readCurrentArticleAloud">Læs den aktuelle artikel højt</string>
   <string name="checkForUpdates">Søg efter opdateringer</string>
   <string name="ttsEnabled">TTS aktiveret</string>
+  <string name="copilotSummary">Hvis aktiveret, vil AI give dig skriveforslag i editoren i realtid. Hver gang du holder pause i skriveprocessen, vil AI generere forslag til, at du kan fortsætte med at skrive efter markøren. Du kan klikke på kandidatteksten for at acceptere eller redigere den, eller blive ved med at skrive for at ignorere og afvise den.</string>
   <string name="tipLargeText">Den aktuelle artikel er for lang, så afsnitsafstanden er blevet midlertidigt deaktiveret for at fortsætte en jævn skriveoplevelse.</string>
   <string name="pinShortcutDialogMessage">Opretter en start- eller skrivebordsgenvej til denne bog, som du kan bruge til at gruppere bøger.\n\n⚠️ Bemærk: Nogle systemer understøtter ikke oprettelse af genveje som standard, du skal klikke på knappen \"Indstillinger\" nedenfor for at gå til skærmen Systemindstillinger for at aktivere tilladelsen \"Genveje til startskærmen\", og derefter vende tilbage til denne skærm og klikke på OK knap.\n\nEfter succes kan du finde et genvejsikon på din launcher eller skrivebordet.</string>
   <string name="createPinShortcut">Opret genvej</string>
@@ -723,13 +724,19 @@
   <string name="tag">Tag</string>
   <string name="tipNewTag">Dette er bogmærket 🏷️️ funktionen. Hvis du har brug for at indstille et mærke for en bog og vise det øverst, skal du trykke længe på bogelementet på skærmen Bøger og derefter vælge menuen Rediger bog. I dialogen til oprettelse eller redigering af en bog kan du indstille bogens tags.</string>
   <string name="clickHereToSelectAnotherCloudStorageType">Klik her for at vælge en anden cloud-lagringstype</string>
-  <string name="aiSettings">AI, ChatGPT Indstillinger</string>
-  <string name="aiEntrySummary">Artikelfuldførelse, forfinelse, polering og AI-chat</string>
+  <string name="aiSettings">AI, ChatGPT-indstillinger</string>
+  <string name="aiEntrySummary">Artikelfuldførelse, forfining, polering og ChatGPT</string>
   <string name="required">Påkrævet</string>
-  <string name="openAiKeyGuideSummary">Åbn OpenAI API-nøglegenererings- og administrations side</string>
-  <string name="enableAiOnTimeMachine">Aktivér AI på Time Machine</string>
-  <string name="enableAiOnEditorContextMenu">Aktivér AI i editor kontekstmenu</string>
-  <string name="enableAiOnEditorContextMenuSummary">Langt tryk i editoren viser tekstens kontekstmenu, der indeholder AI-fuldførelses- eller poleringsfunktioner</string>
-  <string name="openAiReadme">I øjeblikket leveres vores AI-tjeneste af OpenAI\'s ChatGPT-model. Som standard er den ikke aktiveret og vil først begynde at levere tjenester til dig, når du aktiverer den og indtaster din OpenAI API-nøgle nedenfor.\n\nDa AI-tjenesten ikke er en tjeneste, der leveres direkte af Pure Writer, er der en uforudsigelighed i dens svarindhold. Du skal være i stand til at gennemskue og vurdere det på egen hånd. Pure Writer er ikke ansvarlig for indhold og problemer, der genereres af AI. Hvis du ikke er enig, skal du deaktivere AI-funktionen. Hvis du fortsætter med at bruge det, accepterer du denne aftale.\n\nDesuden har nogle lande muligvis ikke adgang til OpenAI, og du skal selv løse eventuelle netværksproblemer.</string>
+  <string name="openAiKeyGuideSummary">Åbn OpenAI API-nøglegenererings- og administrationsside</string>
+  <string name="enableAiOnTimeMachine">Aktiver AI(ChatGPT) på Time Machine</string>
+  <string name="enableAiOnEditorContextMenu">Aktiver AI på editorens kontekstmenu</string>
+  <string name="enableAiOnEditorContextMenuSummary">Langt tryk i editoren vil åbne tekst-kontekstmenuen, som vil indeholde AI-fuldførelsesfunktion</string>
+  <string name="openAiReadme">I øjeblikket leveres denne service af OpenAI. Som standard er den ikke aktiveret og vil først begynde at levere tjenester til dig, når du aktiverer den og indtaster din OpenAI API-nøgle nedenfor.\n\nDa AI-tjenesten ikke er en tjeneste, der leveres direkte af Pure Writer, er der en uforudsigelighed i dens svarindhold. Du skal være i stand til at gennemskue og vurdere det på egen hånd. Pure Writer er ikke ansvarlig for indhold og problemer genereret af AI. Hvis du ikke er enig, bedes du deaktivere AI-funktionen. Hvis du fortsætter med at bruge det, accepterer du denne aftale.\n\nDesuden har nogle lande muligvis ikke adgang til OpenAI, og du skal selv løse eventuelle netværksproblemer.</string>
+  <string name="aiProofread">AI-korrekturlæsning</string>
+  <string name="aiComplete">AI+</string>
+  <string name="aiEnabledSummary">Denne AI-funktion er ikke aktiveret som standard, den fungerer kun, når du udtrykkeligt starter og udløser den. Hvis det ikke passer til dine præferencer, er du velkommen til at ignorere det helt. Denne service leveres af OpenAI, og som en præ-trænet model, blev din tekst aldrig og vil ikke blive brugt til træning.</string>
+  <string name="aiEntrySummary2">Dette er en fortrænet model leveret af OpenAI. Du kan være sikker på, at vi <b>aldrig har brugt dine artikler til træning</b>, og vi vil heller ikke være i stand til at bruge dine artikler til træning, da dine artikler aldrig har været gemt på Pure Writer-servere. Dine artikler findes kun på din enhed og på det cloudlager, du har konfigureret.</string>
+  <string name="completelyDeleteAIFunctions">Slet AI-funktioner fuldstændigt</string>
+  <string name="completelyDeleteAIFunctionsSummary">I betragtning af at nogle mennesker ikke er i stand til at acceptere AI uanset hvad, er denne mulighed tilgængelig for fuldstændig at slette AI-funktionaliteten, inklusive denne indstillingsskærm. Når AI er slettet, kan det ikke fortrydes. Vær venligst informeret!</string>
 </resources>
 

@@ -722,6 +722,7 @@
   <string name="readCurrentArticleAloud">Lue nykyinen artikkeli ääneen</string>
   <string name="checkForUpdates">Tarkista päivitykset</string>
   <string name="ttsEnabled">TTS käytössä</string>
+  <string name="copilotSummary">Jos käytössä, AI antaa sinulle kirjoitusehdotuksia reaaliajassa editorissa. Aina kun keskeytät kirjoitusprosessin, AI generoi ehdotuksia jatkaaksesi kirjoittamista kursorin jälkeen. Voit napsauttaa ehdokastekstiä hyväksyäksesi tai muokataksesi sitä, tai jatkaa kirjoittamista ohittaaksesi ja hylätäksesi sen.</string>
   <string name="tipLargeText">Nykyinen artikkeli on liian pitkä, joten kappalevälit on väliaikaisesti poistettu käytöstä sujuvan kirjoituskokemuksen jatkamiseksi.</string>
   <string name="pinShortcutDialogMessage">Luo tähän kirjaan käynnistysohjelman tai työpöydän pikakuvakkeen, jota voit käyttää kirjojen ryhmittelyyn.\n\n⚠️ Huomautus: Jotkin järjestelmät eivät tue pikakuvakkeiden luomista oletusarvoisesti, sinun on napsautettava alla olevaa \"Asetukset\"-painiketta siirtyäksesi Järjestelmäasetukset-näyttöön ottaaksesi \"Aloitusnäytön pikakuvakkeet\" -luvan käyttöön. Palaa sitten tähän näyttöön ja napsauta OK. -painiketta.\n\nOnnistuneena löydät pikakuvakkeen käynnistysohjelmaltasi tai työpöydältäsi.</string>
   <string name="createPinShortcut">Luo pikakuvake</string>
@@ -732,12 +733,18 @@
   <string name="tag">Tag</string>
   <string name="tipNewTag">Tämä on kirjatunniste 🏷️️ -toiminto. Jos sinun on määritettävä kirjalle tunniste ja näytettävä se yläreunassa, sinun on painettava pitkään kirjakohtaa Kirjat-näytössä ja valittava sitten Muokkaa kirjaa -valikko. Kirjan luonti- tai muokkausikkunassa voit asettaa kirjan tunnisteet.</string>
   <string name="clickHereToSelectAnotherCloudStorageType">Napsauta tätä valitaksesi toisen pilvitallennustyypin</string>
-  <string name="aiSettings">AI, ChatGPT Asetukset</string>
-  <string name="aiEntrySummary">Artikkelin täydentäminen, hiominen, kiillottaminen ja AI-keskustelu</string>
-  <string name="required">Vaaditaan</string>
-  <string name="openAiKeyGuideSummary">Avaa OpenAI API-avaimen luonti- ja hallintasivu</string>
-  <string name="enableAiOnTimeMachine">Ota käyttöön AI Time Machinessa</string>
-  <string name="enableAiOnEditorContextMenu">Ota käyttöön AI-editorin kontekstivalikossa</string>
-  <string name="enableAiOnEditorContextMenuSummary">Pitkä painallus editorissa tuo esiin tekstikontekstivalikon, joka sisältää AI-täydennys- tai kiillotustoiminnot</string>
-  <string name="openAiReadme">Tällä hetkellä AI-palvelumme tarjoaa OpenAI:n ChatGPT-malli. Oletuksena se ei ole käytössä ja alkaa tarjota palveluita vasta, kun otat sen käyttöön ja syötät OpenAI API-avaimen alla.\n\nKoska AI-palvelu ei ole palvelu, joka tarjotaan suoraan Pure Writerin kautta, vastauksen sisältöön liittyy arvaamattomuutta. Sinun on pystyttävä erottamaan ja arvioimaan se itse. Pure Writer ei ole vastuussa AI:n tuottamasta sisällöstä ja ongelmista. Jos et hyväksy, poista AI-toiminto käytöstä. Jos jatkat sen käyttämistä, hyväksyt tämän sopimuksen.\n\nLisäksi jotkut maat eivät ehkä pääse OpenAI:hin, ja sinun on itse ratkaistava mahdolliset verkko-ongelmat.</string>
+  <string name="aiSettings">AI, ChatGPT-asetukset</string>
+  <string name="aiEntrySummary">Artikkelin viimeistely, tarkentaminen, kiillotus ja ChatGPT</string>
+  <string name="required">Pakollinen</string>
+  <string name="openAiKeyGuideSummary">Avaa OpenAI-sovellusliittymän avainten luonti- ja hallintasivu</string>
+  <string name="enableAiOnTimeMachine">Ota AI (ChatGPT) käyttöön Time Machinessa</string>
+  <string name="enableAiOnEditorContextMenu">Ota tekoäly käyttöön editorin kontekstivalikossa</string>
+  <string name="enableAiOnEditorContextMenuSummary">editorin pitkä painallus tuo esiin tekstikontekstivalikon, joka sisältää tekoälyn viimeistelytoiminnon</string>
+  <string name="openAiReadme">Tämän palvelun tarjoaa tällä hetkellä OpenAI. Oletusarvoisesti se ei ole käytössä ja alkaa tarjota palveluita sinulle vasta, kun otat sen käyttöön ja syötät OpenAI API-avaimesi alle.\n\nKoska tekoälypalvelu ei ole Pure Writerin tarjoama palvelu, sen ominaisuudet ovat arvaamattomia. vastauksen sisältöä. Sinun täytyy pystyä havaitsemaan ja arvioimaan se itse. Pure Writer ei ole vastuussa tekoälyn sisällöstä ja ongelmista. Jos et ole samaa mieltä, poista AI-toiminto käytöstä. Jos jatkat sen käyttöä, hyväksyt tämän sopimuksen.\n\nLisäksi joillakin mailla ei välttämättä ole pääsyä OpenAI:hen, ja sinun on ratkaistava verkko-ongelmat itse.</string>
+  <string name="aiProofread">AI-oikoluku</string>
+  <string name="aiComplete">AI+</string>
+  <string name="aiEnabledSummary">Tämä tekoälyominaisuus ei ole oletusarvoisesti käytössä, vaan se toimii vain, kun käynnistät sen ja käynnistät sen. Jos se ei sovi mieltymyksiisi, voit jättää sen kokonaan huomiotta. Tämän palvelun tarjoaa OpenAI, ja esikoulutettuna mallina tekstiäsi ei koskaan käytetty eikä tulla käyttämään koulutuksessa.</string>
+  <string name="aiEntrySummary2">Tämä on OpenAI:n esiopetettu malli. Voit olla varma, että emme <b>ole koskaan käyttäneet artikkeleitasi koulutukseen</b>, emmekä voi käyttää artikkeleitasi koulutukseen, koska artikkeleitasi ei ole koskaan tallennettu Pure Writer -palvelimille. Artikkelisi ovat vain laitteellasi ja määrittämässäsi pilvitallennustilassa.</string>
+  <string name="completelyDeleteAIFunctions">Poista tekoälytoiminnot kokonaan</string>
+  <string name="completelyDeleteAIFunctionsSummary">Koska jotkut ihmiset eivät voi hyväksyä tekoälyä, tämä vaihtoehto on käytettävissä AI-toiminnon poistamiseksi kokonaan, mukaan lukien tämä asetusnäyttö. Kun tekoäly on poistettu, sitä ei voi kumota. Ota yhteyttä!</string>
 </resources>

@@ -681,6 +681,7 @@
   <string name="readCurrentArticleAloud">Leggi l\'articolo corrente ad alta voce</string>
   <string name="checkForUpdates">Controlla gli aggiornamenti</string>
   <string name="ttsEnabled">TTS abilitato</string>
+  <string name="copilotSummary">Se abilitato, l\'IA ti darà suggerimenti di scrittura in tempo reale nell\'editor. Ogni volta che ti fermi durante il processo di scrittura, l\'IA genererà suggerimenti per continuare a scrivere dopo il cursore. Puoi cliccare sul testo proposto per accettarlo o modificarlo, oppure continuare a digitare per ignorarlo e rifiutarlo.</string>
   <string name="tipLargeText">L\'articolo corrente è troppo lungo, quindi la spaziatura tra i paragrafi è stata temporaneamente disabilitata per continuare a scrivere senza problemi.</string>
   <string name="pinShortcutDialogMessage">Crea un\'utilità di avvio o un collegamento sul desktop a questo libro che puoi utilizzare per raggruppare i libri.\n\n⚠️ Nota: alcuni sistemi non supportano la creazione di collegamenti per impostazione predefinita, è necessario fare clic sul pulsante \"Impostazioni\" in basso per accedere alla schermata Impostazioni di sistema per abilitare l\'autorizzazione \"Scorciatoie schermata iniziale\", quindi tornare a questa schermata e fare clic su OK pulsante.\n\nDopo il successo, puoi trovare un\'icona di collegamento sul tuo launcher o sul desktop.</string>
   <string name="createPinShortcut">Creare una scorciatoia</string>
@@ -691,12 +692,18 @@
   <string name="tags">Etichette</string>
   <string name="tipNewTag">Questa è la funzione tag del libro 🏷️️. Se devi impostare un tag per un libro e visualizzarlo in alto, devi premere a lungo l\'elemento del libro nella schermata Libri, quindi selezionare il menu Modifica libro. Nella finestra di dialogo per creare o modificare un libro, puoi impostare i tag del libro.</string>
   <string name="clickHereToSelectAnotherCloudStorageType">Fare clic qui per selezionare un altro tipo di archiviazione cloud</string>
-  <string name="aiSettings">Impostazioni AI, ChatGPT</string>
-  <string name="aiEntrySummary">Completamento articolo, perfezionamento, lucidatura e chat AI</string>
+  <string name="aiSettings">IA, Impostazioni ChatGPT</string>
+  <string name="aiEntrySummary">Completamento articolo, rifinitura, rifinitura e ChatGPT</string>
   <string name="required">Richiesto</string>
-  <string name="openAiKeyGuideSummary">Apri la pagina di generazione e gestione chiave API di OpenAI</string>
-  <string name="enableAiOnTimeMachine">Abilita AI su Time Machine</string>
+  <string name="openAiKeyGuideSummary">Apri la pagina di generazione e gestione della chiave API OpenAI</string>
+  <string name="enableAiOnTimeMachine">Abilita AI(ChatGPT) su Time Machine</string>
   <string name="enableAiOnEditorContextMenu">Abilita AI nel menu contestuale dell\'editor</string>
-  <string name="enableAiOnEditorContextMenuSummary">Tenere premuto a lungo nell\'editor farà apparire il menu contestuale del testo, che conterrà funzioni di completamento o lucidatura AI</string>
-  <string name="openAiReadme">Attualmente, il nostro servizio di intelligenza artificiale è fornito dal modello ChatGPT di OpenAI. Per impostazione predefinita, non è abilitato e inizierà a fornire servizi solo una volta abilitato e inserito il tuo API Key di OpenAI di seguito.\n\nPoiché il servizio AI non è un servizio fornito direttamente da Pure Writer, c\'è un\'imprevedibilità nel suo contenuto di risposta. Devi essere in grado di discernere e valutare autonomamente. Pure Writer non è responsabile per il contenuto e i problemi generati dall\'AI. Se non sei d\'accordo, disabilita la funzione AI. Se continui a usarlo, accetterai questo accordo.\n\nInoltre, alcuni paesi potrebbero non avere accesso a OpenAI e dovrai risolvere da solo eventuali problemi di rete.</string>
+  <string name="enableAiOnEditorContextMenuSummary">Premere a lungo nell\'editor farà apparire il menu contestuale del testo, che conterrà la funzione di completamento AI</string>
+  <string name="openAiReadme">Attualmente, questo servizio è fornito da OpenAI. Per impostazione predefinita, non è abilitato e inizierà a fornirti servizi solo dopo averlo abilitato e aver inserito la tua chiave API OpenAI di seguito.\n\nPoiché il servizio AI non è un servizio fornito direttamente da Pure Writer, c\'è un\'imprevedibilità nella sua contenuto della risposta. Devi essere in grado di discernere e valutare da solo. Pure Writer non è responsabile del contenuto e dei problemi generati dall\'IA. Se non sei d\'accordo, disabilita la funzione AI. Se continui a usarlo, accetterai questo accordo.\n\nInoltre, alcuni paesi potrebbero non avere accesso a OpenAI e dovrai risolvere tu stesso eventuali problemi di rete.</string>
+  <string name="aiProofread">Revisione AI</string>
+  <string name="aiComplete">AI+</string>
+  <string name="aiEnabledSummary">Questa funzione AI non è abilitata per impostazione predefinita, funziona solo quando la avvii e la attivi esplicitamente. Se non soddisfa le tue preferenze, sentiti libero di ignorarlo completamente. Questo servizio è fornito da OpenAI e, come modello pre-addestrato, il tuo testo non è mai stato e non sarà utilizzato per l\'addestramento.</string>
+  <string name="aiEntrySummary2">Questo è un modello preaddestrato fornito da OpenAI. Ti assicuriamo che <b>non abbiamo mai utilizzato i tuoi articoli per la formazione</b>, né saremo in grado di utilizzare i tuoi articoli per la formazione, poiché i tuoi articoli non sono mai stati archiviati sui server di Pure Writer. I tuoi articoli esistono solo sul tuo dispositivo e sul cloud storage che hai impostato.</string>
+  <string name="completelyDeleteAIFunctions">Elimina completamente le funzioni AI</string>
+  <string name="completelyDeleteAIFunctionsSummary">Dato che alcune persone non sono in grado di accettare l\'IA, qualunque cosa succeda, questa opzione è disponibile per eliminare completamente la funzionalità AI, inclusa questa schermata delle impostazioni. Una volta che l\'IA è stata eliminata, non può essere annullata. Si prega di essere informati!</string>
 </resources>

@@ -713,6 +713,7 @@
   <string name="readCurrentArticleAloud">Izlasiet pašreizējo rakstu skaļi</string>
   <string name="checkForUpdates">Meklēt atjauninājumus</string>
   <string name="ttsEnabled">TTS iespējots</string>
+  <string name="copilotSummary">Ja tas ir iespējots, AI sniegs jums rakstīšanas ieteikumus redaktorā reāllaikā. Ikreiz, kad pārtraucat rakstīšanas procesu, AI ģenerēs ieteikumus, kā turpināt rakstīt pēc kursora. Varat noklikšķināt uz kandidāta teksta, lai to pieņemtu vai rediģētu, vai turpināt rakstīt, lai to ignorētu un noraidītu.</string>
   <string name="tipLargeText">Pašreizējais raksts ir pārāk garš, tāpēc rindkopu atstarpes ir īslaicīgi atspējotas, lai turpinātu vienmērīgu rakstīšanas pieredzi.</string>
   <string name="pinShortcutDialogMessage">Izveido palaidēju vai darbvirsmas saīsni uz šo grāmatu, ko varat izmantot grāmatu grupēšanai.\n\n⚠️ Piezīme. Dažas sistēmas neatbalsta saīsņu izveidi pēc noklusējuma. Jums ir jānoklikšķina uz tālāk esošās pogas \"Iestatījumi\", lai pārietu uz sistēmas iestatījumu ekrānu, lai iespējotu atļauju \"Sākuma ekrāna saīsnes\", un pēc tam atgriezieties šajā ekrānā un noklikšķiniet uz Labi. pogu.\n\nPēc panākumiem palaidējā vai darbvirsmā varat atrast saīsnes ikonu.</string>
   <string name="createPinShortcut">Izveido saīsni</string>
@@ -723,12 +724,18 @@
   <string name="tag">Tag</string>
   <string name="tipNewTag">Šī ir grāmatas atzīmes 🏷️️ funkcija. Ja grāmatai ir jāiestata atzīme un tā jāparāda augšpusē, ekrānā Grāmatas ir ilgi jānospiež grāmatas vienums un pēc tam jāatlasa izvēlne Rediģēt grāmatu. Grāmatas izveides vai rediģēšanas dialoglodziņā varat iestatīt grāmatas atzīmes.</string>
   <string name="clickHereToSelectAnotherCloudStorageType">Noklikšķiniet šeit, lai atlasītu citu mākoņa krātuves veidu</string>
-  <string name="aiSettings">AI, ChatGPT Iestatījumi</string>
-  <string name="aiEntrySummary">Raksta papildināšana, precizēšana, pulēšana un AI tērzēšana</string>
-  <string name="required">Nepieciešams</string>
-  <string name="openAiKeyGuideSummary">Atveriet OpenAI API atslēgas ģenerēšanas un pārvaldības lapu</string>
-  <string name="enableAiOnTimeMachine">Iespējot AI laika mašīnā</string>
-  <string name="enableAiOnEditorContextMenu">Iespējot AI redaktora konteksta izvēlnē</string>
-  <string name="enableAiOnEditorContextMenuSummary">Ilgstoši nospiežot redaktorā, tiks parādīta teksta konteksta izvēlne, kurā būs AI papildināšanas vai pulēšanas funkcijas</string>
-  <string name="openAiReadme">Pašlaik mūsu AI pakalpojumu nodrošina OpenAI ChatGPT modelis. Pēc noklusējuma tas nav iespējots un sāks sniegt pakalpojumus jums tikai pēc tā iespējošanas un ievadot savu OpenAI API atslēgu zemāk.\n\nTā kā AI pakalpojums nav tieši Pure Writer sniegts pakalpojums, tā atbildes saturā ir neparedzamība. Jums ir jāspēj to atšķirt un novērtēt pats. Pure Writer nav atbildīgs par AI radīto saturu un problēmām. Ja jūs nepiekrītat, lūdzu, atspējojiet AI funkciju. Turpinot to lietot, jūs piekrītat šai vienošanās.\n\nTurklāt dažām valstīm var nebūt piekļuves OpenAI, un jums pašiem būs jāatrisina tīkla problēmas.</string>
+  <string name="aiSettings">AI, ChatGPT iestatījumi</string>
+  <string name="aiEntrySummary">Rakstu pabeigšana, precizēšana, pulēšana un ChatGPT</string>
+  <string name="required">Obligāti</string>
+  <string name="openAiKeyGuideSummary">Atvērt OpenAI API atslēgas ģenerēšanas un pārvaldības lapu</string>
+  <string name="enableAiOnTimeMachine">Iespējot AI (ChatGPT) programmā Time Machine</string>
+  <string name="enableAiOnEditorContextMenu">Iespējot AI redaktora kontekstizvēlnē</string>
+  <string name="enableAiOnEditorContextMenuSummary">Ilsti nospiežot redaktoru, tiks atvērta teksta kontekstizvēlne, kurā būs AI pabeigšanas funkcija</string>
+  <string name="openAiReadme">Pašlaik šo pakalpojumu nodrošina OpenAI. Pēc noklusējuma tas nav iespējots un sāks sniegt pakalpojumus tikai pēc tam, kad to iespējosit un tālāk ievadīsit savu OpenAI API atslēgu.\n\nTā kā AI pakalpojums nav pakalpojums, ko tieši nodrošina Pure Writer, tas ir neparedzams. atbildes saturs. Jums ir jāspēj to saskatīt un novērtēt pašam. Pure Writer nav atbildīgs par AI radīto saturu un problēmām. Ja nepiekrītat, lūdzu, atspējojiet AI funkciju. Ja turpināsit to izmantot, jūs piekritīsit šim līgumam.\n\nTurklāt dažām valstīm var nebūt piekļuves OpenAI, un visas tīkla problēmas būs jāatrisina pašam.</string>
+  <string name="aiProofread">AI korektūra</string>
+  <string name="aiComplete">AI+</string>
+  <string name="aiEnabledSummary">Šī mākslīgā intelekta funkcija nav iespējota pēc noklusējuma, tā darbojas tikai tad, ja to skaidri aktivizējat un aktivizējat. Ja tas neatbilst jūsu vēlmēm, varat to pilnībā ignorēt. Šo pakalpojumu nodrošina OpenAI, un kā iepriekš apmācīts modelis jūsu teksts nekad netika izmantots un netiks izmantots apmācībai.</string>
+  <string name="aiEntrySummary2">Šis ir iepriekš apmācīts modelis, ko nodrošina OpenAI. Varat būt drošs, ka mēs <b>nekad neesam izmantojuši jūsu rakstus apmācībām</b>, kā arī nevarēsim izmantot jūsu rakstus apmācībām, jo jūsu raksti nekad nav glabāti Pure Writer serveros. Jūsu raksti pastāv tikai jūsu ierīcē un jūsu iestatītajā mākoņkrātuvē.</string>
+  <string name="completelyDeleteAIFunctions">Pilnīgi dzēst AI funkcijas</string>
+  <string name="completelyDeleteAIFunctionsSummary">Ņemot vērā, ka daži cilvēki nevar pieņemt AI neatkarīgi no tā, šī opcija ir pieejama, lai pilnībā dzēstu AI funkcionalitāti, tostarp šo iestatījumu ekrānu. Kad AI ir dzēsts, to nevar atsaukt. Lūdzu, esiet informēts!</string>
 </resources>

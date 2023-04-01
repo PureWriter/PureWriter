@@ -708,6 +708,7 @@
   <string name="readCurrentArticleAloud">Citiți cu voce tare articolul curent</string>
   <string name="checkForUpdates">Verifică pentru actualizări</string>
   <string name="ttsEnabled">TTS activat</string>
+  <string name="copilotSummary">Dacă este activat, AI îți va oferi sugestii de scriere în timp real în editor. De fiecare dată când faci o pauză în procesul de scriere, AI va genera sugestii pentru a continua scrierea după cursor. Poți da clic pe textul candidat pentru a-l accepta sau edita, sau poți continua să tastezi pentru a-l ignora și respinge.</string>
   <string name="tipLargeText">Articolul actual este prea lung, așa că spațierea dintre paragrafe a fost dezactivată temporar pentru a continua experiența de scriere fără probleme.</string>
   <string name="pinShortcutDialogMessage">Creează un lansator sau o comandă rapidă pe desktop la această carte pe care o puteți folosi pentru a grupa cărți.\n\n⚠️ Notă: Unele sisteme nu acceptă crearea de comenzi rapide în mod implicit, trebuie să faceți clic pe butonul „Setări” de mai jos pentru a accesa ecranul Setări sistem pentru a activa permisiunea „Comenzi rapide pentru ecranul de pornire”, apoi reveniți la acest ecran și faceți clic pe OK buton.\n\nDupă succes, puteți găsi o pictogramă de comandă rapidă pe lansator sau pe desktop.</string>
   <string name="createPinShortcut">Crează o scurtătură</string>
@@ -718,12 +719,18 @@
   <string name="tag">Etichetă</string>
   <string name="tipNewTag">Aceasta este funcția book tag 🏷️️. Dacă trebuie să setați o etichetă pentru o carte și să o afișați în partea de sus, trebuie să apăsați lung elementul de carte din ecranul Cărți, apoi să selectați meniul Editare carte. În caseta de dialog pentru crearea sau editarea unei cărți, puteți seta etichetele cărții.</string>
   <string name="clickHereToSelectAnotherCloudStorageType">Faceți clic aici pentru a selecta un alt tip de stocare în cloud</string>
-  <string name="aiSettings">AI, Setări ChatGPT</string>
-  <string name="aiEntrySummary">Completarea, îmbunătățirea, lustruirea și discuția AI a articolului</string>
+  <string name="aiSettings">Setări AI, ChatGPT</string>
+  <string name="aiEntrySummary">Completarea articolului, rafinarea, lustruirea și ChatGPT</string>
   <string name="required">Necesar</string>
-  <string name="openAiKeyGuideSummary">Deschideți pagina de generare și gestionare a cheii API OpenAI</string>
-  <string name="enableAiOnTimeMachine">Activați AI pe Time Machine</string>
+  <string name="openAiKeyGuideSummary">Deschideți pagina de generare și gestionare a cheilor API OpenAI</string>
+  <string name="enableAiOnTimeMachine">Activați AI(ChatGPT) pe Time Machine</string>
   <string name="enableAiOnEditorContextMenu">Activați AI în meniul contextual al editorului</string>
-  <string name="enableAiOnEditorContextMenuSummary">Apăsarea lungă în editor va aduce meniul contextual al textului, care va conține funcții de completare sau lustruire AI</string>
-  <string name="openAiReadme">În prezent, serviciul nostru AI este furnizat de modelul ChatGPT al OpenAI. În mod implicit, nu este activat și va începe să vă ofere servicii doar după ce îl activați și introduceți cheia dvs. OpenAI API mai jos.\n\nDeoarece serviciul AI nu este un serviciu oferit direct de Pure Writer, există o imprevizibilitate în conținutul răspunsului. Trebuie să puteți să-l discerneți și să-l evaluați pe cont propriu. Pure Writer nu este responsabil pentru conținutul și problemele generate de AI. Dacă nu sunteți de acord, dezactivați funcția AI. Dacă continuați să o utilizați, veți fi de acord cu acest acord.\n\nÎn plus, unele țări s-ar putea să nu aibă acces la OpenAI și va trebui să rezolvați singur problemele de rețea.</string>
+  <string name="enableAiOnEditorContextMenuSummary">Apăsarea lungă în editor va afișa meniul contextual de text, care va conține funcția de completare AI</string>
+  <string name="openAiReadme">În prezent, acest serviciu este oferit de OpenAI. În mod implicit, nu este activat și va începe să vă ofere servicii numai după ce îl activați și introduceți cheia API OpenAI mai jos.\n\nDeoarece serviciul AI nu este un serviciu furnizat direct de Pure Writer, există o imprevizibilitate în conținutul răspunsului. Trebuie să fii capabil să discerne și să-l evaluezi pe cont propriu. Pure Writer nu este responsabil pentru conținutul și problemele generate de AI. Dacă nu sunteți de acord, vă rugăm să dezactivați funcția AI. Dacă îl utilizați în continuare, veți fi de acord cu acest acord.\n\nÎn plus, este posibil ca unele țări să nu aibă acces la OpenAI și va trebui să rezolvați singur orice problemă de rețea.</string>
+  <string name="aiProofread">Corectare AI</string>
+  <string name="aiComplete">AI+</string>
+  <string name="aiEnabledSummary">Această caracteristică AI nu este activată în mod implicit, funcționează doar atunci când o inițiezi și o declanșezi în mod explicit. Dacă nu se potrivește preferințelor dvs., nu ezitați să-l ignorați în totalitate. Acest serviciu este oferit de OpenAI și, ca model pre-antrenat, textul dvs. nu a fost niciodată și nu va fi folosit pentru instruire.</string>
+  <string name="aiEntrySummary2">Acesta este un model pre-antrenat oferit de OpenAI. Vă asigurăm că <b>nu v-am folosit niciodată articolele pentru instruire</b> și nici nu vom putea folosi articolele dvs. pentru instruire, deoarece articolele dvs. nu au fost niciodată stocate pe serverele Pure Writer. Articolele dvs. există numai pe dispozitivul dvs. și pe spațiul de stocare în cloud pe care l-ați configurat.</string>
+  <string name="completelyDeleteAIFunctions">Ștergeți complet funcțiile AI</string>
+  <string name="completelyDeleteAIFunctionsSummary">Având în vedere că unii oameni nu pot accepta AI, indiferent de ce, această opțiune este disponibilă pentru a șterge complet funcționalitatea AI, inclusiv acest ecran de setări. Odată ce AI este șters, nu poate fi anulat. Vă rugăm să fiți informat!</string>
 </resources>

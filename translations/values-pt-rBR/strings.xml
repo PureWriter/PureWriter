@@ -733,6 +733,7 @@
   <string name="readCurrentArticleAloud">Leia o artigo atual em voz alta</string>
   <string name="checkForUpdates">Verifique se há atualizações</string>
   <string name="ttsEnabled">TTS ativado</string>
+  <string name="copilotSummary">Se ativado, a IA fornecerá sugestões de escrita em tempo real no editor. Sempre que você pausa no processo de escrita, a IA irá gerar sugestões para que você continue escrevendo após o cursor. Você pode clicar no texto sugerido para aceitá-lo ou editá-lo, ou continuar digitando para ignorá-lo e rejeitá-lo.</string>
   <string name="tipLargeText">O artigo atual é muito longo, portanto o espaçamento de parágrafos foi temporariamente desativado para continuar a experiência de escrita suave.</string>
   <string name="pinShortcutDialogMessage">Cria um lançador ou um atalho de mesa para este livro que você pode usar para agrupar livros. \n\n⚠️ Nota: Alguns sistemas não suportam a criação de atalhos por padrão, você precisa clicar no botão \"Settings\" abaixo para ir para a tela System Settings para ativar a permissão de \"Home screen shortcuts\", e então retornar a esta tela e clicar no botão OK. \n\nApós o sucesso, você pode encontrar um ícone de atalho em seu lançador ou área de trabalho.</string>
   <string name="createPinShortcut">Criar atalho</string>
@@ -743,12 +744,18 @@
   <string name="tags">Etiquetas</string>
   <string name="tipNewTag">Esta é a etiqueta do livro 🏷️️ função. Se você precisar definir uma etiqueta para um livro e exibi-la no topo, você precisa pressionar por muito tempo o item do livro na tela Livros, e então selecionar o menu Editar Livro. No diálogo para criar ou editar um livro, você pode definir as tags do livro.</string>
   <string name="clickHereToSelectAnotherCloudStorageType">Clique aqui para selecionar outro tipo de armazenamento em nuvem</string>
-  <string name="aiSettings">Configurações de AI, ChatGPT</string>
-  <string name="aiEntrySummary">Conclusão de artigo, refinamento, polimento e bate-papo de AI</string>
+  <string name="aiSettings">IA, configurações do ChatGPT</string>
+  <string name="aiEntrySummary">Conclusão do artigo, refinamento, polimento e ChatGPT</string>
   <string name="required">Obrigatório</string>
-  <string name="openAiKeyGuideSummary">Abrir página de geração e gerenciamento de chave API do OpenAI</string>
-  <string name="enableAiOnTimeMachine">Ativar AI na Time Machine</string>
+  <string name="openAiKeyGuideSummary">Abra a página de geração e gerenciamento de chaves API OpenAI</string>
+  <string name="enableAiOnTimeMachine">Habilitar AI(ChatGPT) no Time Machine</string>
   <string name="enableAiOnEditorContextMenu">Ativar AI no menu de contexto do editor</string>
-  <string name="enableAiOnEditorContextMenuSummary">Pressionar e segurar no editor exibirá o menu de contexto do texto, que conterá funções de conclusão ou polimento de AI</string>
-  <string name="openAiReadme">Atualmente, nosso serviço de IA é fornecido pelo modelo ChatGPT da OpenAI. Por padrão, ele não está ativado e só começará a fornecer serviços para você quando você o ativar e inserir sua chave de API OpenAI abaixo.\n\nComo o serviço AI não é um serviço fornecido diretamente pelo Pure Writer, há uma imprevisibilidade em seu conteúdo da resposta. Você deve ser capaz de discernir e avaliar por conta própria. O Pure Writer não é responsável pelo conteúdo e problemas gerados pela IA. Se você não concordar, desative a função AI. Se você continuar a usá-lo, estará concordando com este contrato.\n\nAlém disso, alguns países podem não ter acesso ao OpenAI e você mesmo precisará resolver quaisquer problemas de rede.</string>
+  <string name="enableAiOnEditorContextMenuSummary">Pressão longa no editor abrirá o menu de contexto de texto, que conterá a função de conclusão AI</string>
+  <string name="openAiReadme">Atualmente, este serviço é fornecido pela OpenAI. Por padrão, ele não está ativado e só começará a fornecer serviços para você quando você o ativar e inserir sua chave de API OpenAI abaixo.\n\nComo o serviço AI não é um serviço fornecido diretamente pelo Pure Writer, há uma imprevisibilidade em seu conteúdo da resposta. Você deve ser capaz de discernir e avaliar por conta própria. Pure Writer não é responsável pelo conteúdo e problemas gerados pela IA. Se você não concordar, desative a função AI. Se você continuar a usá-lo, estará concordando com este contrato.\n\nAlém disso, alguns países podem não ter acesso ao OpenAI e você mesmo precisará resolver quaisquer problemas de rede.</string>
+  <string name="aiProofread">Revisão AI</string>
+  <string name="aiComplete">AI+</string>
+  <string name="aiEnabledSummary">Este recurso AI não é ativado por padrão, ele só funciona quando você o inicia e aciona explicitamente. Se não atender às suas preferências, sinta-se à vontade para ignorá-lo completamente. Este serviço é fornecido pela OpenAI e, como modelo pré-treinado, seu texto nunca foi e não será usado para treinamento.</string>
+  <string name="aiEntrySummary2">Este é um modelo pré-treinado fornecido pela OpenAI. Tenha certeza de que <b>nunca usamos seus artigos para treinamento</b>, nem poderemos usar seus artigos para treinamento, pois seus artigos nunca foram armazenados nos servidores Pure Writer. Seus artigos existem apenas no seu dispositivo e no armazenamento em nuvem que você configurou.</string>
+  <string name="completelyDeleteAIFunctions">Excluir completamente as funções AI</string>
+  <string name="completelyDeleteAIFunctionsSummary">Dado que algumas pessoas são incapazes de aceitar AI, não importa o que aconteça, esta opção está disponível para excluir completamente a funcionalidade AI, incluindo esta tela de configurações. Depois que o AI é excluído, ele não pode ser desfeito. Por favor, seja informado!</string>
 </resources>

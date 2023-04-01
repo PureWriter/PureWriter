@@ -677,6 +677,7 @@
   <string name="readCurrentArticleAloud">Baca artikel saat ini dengan keras</string>
   <string name="checkForUpdates">Periksa pembaruan</string>
   <string name="ttsEnabled">TTS diaktifkan</string>
+  <string name="copilotSummary">Jika diaktifkan, AI akan memberikan saran penulisan secara real-time di editor. Setiap kali Anda berhenti dalam proses penulisan, AI akan menghasilkan saran untuk Anda untuk melanjutkan menulis setelah kursor. Anda dapat mengklik teks kandidat untuk menerima atau mengeditnya, atau terus mengetik untuk mengabaikan dan menolaknya.</string>
   <string name="tipLargeText">Artikel saat ini terlalu panjang, sehingga spasi paragraf dinonaktifkan sementara untuk melanjutkan pengalaman menulis yang lancar.</string>
   <string name="pinShortcutDialogMessage">Membuat peluncur atau Pintasan desktop ke buku ini yang dapat Anda gunakan untuk mengelompokkan buku.\n\n️ Catatan: Beberapa sistem tidak mendukung pembuatan Pintasan secara default, Anda perlu mengklik tombol \"Pengaturan\" di bawah ini untuk membuka layar Pengaturan Sistem untuk mengaktifkan izin \"Pintasan layar beranda\", lalu kembali ke layar ini dan klik OK tombol.\n\nSetelah berhasil, Anda dapat menemukan ikon pintasan di peluncur atau desktop Anda.</string>
   <string name="createPinShortcut">Buat pintasan</string>
@@ -688,11 +689,17 @@
   <string name="tipNewTag">Ini adalah fungsi tag buku 🏷️️. Jika Anda perlu mengatur tag untuk buku dan menampilkannya di bagian atas, Anda harus menekan lama item buku di layar Buku, lalu memilih menu Edit Buku. Dalam dialog untuk membuat atau mengedit buku, Anda dapat mengatur tag buku tersebut.</string>
   <string name="clickHereToSelectAnotherCloudStorageType">Klik di sini untuk memilih jenis penyimpanan cloud lainnya</string>
   <string name="aiSettings">AI, Pengaturan ChatGPT</string>
-  <string name="aiEntrySummary">Penyelesaian artikel, penyempurnaan, pemolesan, dan obrolan AI</string>
+  <string name="aiEntrySummary">Penyelesaian artikel, penyempurnaan, pemolesan, dan ChatGPT</string>
   <string name="required">Diperlukan</string>
   <string name="openAiKeyGuideSummary">Buka halaman pembuatan dan pengelolaan OpenAI API Key</string>
-  <string name="enableAiOnTimeMachine">Aktifkan AI di Time Machine</string>
+  <string name="enableAiOnTimeMachine">Aktifkan AI(ChatGPT) di Time Machine</string>
   <string name="enableAiOnEditorContextMenu">Aktifkan AI pada menu konteks editor</string>
-  <string name="enableAiOnEditorContextMenuSummary">Tekan lama pada editor akan memunculkan menu konteks teks, yang akan berisi fungsi penyelesaian atau pemolesan AI</string>
-  <string name="openAiReadme">Saat ini, layanan AI kami disediakan oleh model ChatGPT OpenAI. Secara default, ini tidak diaktifkan dan hanya akan mulai memberikan layanan kepada Anda setelah Anda mengaktifkannya dan memasukkan Kunci API OpenAI Anda di bawah.\n\nKarena layanan AI bukanlah layanan yang disediakan langsung oleh Pure Writer, ada ketidakpastian di dalamnya konten respons. Anda harus dapat membedakan dan mengevaluasinya sendiri. Pure Writer tidak bertanggung jawab atas konten dan masalah yang ditimbulkan oleh AI. Jika Anda tidak setuju, harap nonaktifkan fungsi AI. Jika Anda terus menggunakannya, Anda akan menyetujui perjanjian ini.\n\nSelain itu, beberapa negara mungkin tidak memiliki akses ke OpenAI, dan Anda harus menyelesaikan sendiri masalah jaringan apa pun.</string>
+  <string name="enableAiOnEditorContextMenuSummary">Tekan lama pada editor akan memunculkan menu konteks teks, yang akan berisi fungsi penyelesaian AI</string>
+  <string name="openAiReadme">Saat ini, layanan ini disediakan oleh OpenAI. Secara default, ini tidak diaktifkan dan hanya akan mulai memberikan layanan kepada Anda setelah Anda mengaktifkannya dan memasukkan Kunci OpenAI API Anda di bawah.\n\nKarena layanan AI bukanlah layanan yang disediakan langsung oleh Pure Writer, ada ketidakpastian di dalamnya. konten respons. Anda harus dapat membedakan dan mengevaluasinya sendiri. Pure Writer tidak bertanggung jawab atas konten dan masalah yang ditimbulkan oleh AI. Jika Anda tidak setuju, harap nonaktifkan fungsi AI. Jika Anda terus menggunakannya, Anda akan menyetujui perjanjian ini.\n\nSelain itu, beberapa negara mungkin tidak memiliki akses ke OpenAI, dan Anda harus menyelesaikan sendiri masalah jaringan apa pun.</string>
+  <string name="aiProofread">AI Proofread</string>
+  <string name="aiComplete">AI+</string>
+  <string name="aiEnabledSummary">Fitur AI ini tidak diaktifkan secara default, hanya berfungsi saat Anda memulai dan memicunya secara eksplisit. Jika tidak sesuai dengan preferensi Anda, jangan ragu untuk mengabaikannya sepenuhnya. Layanan ini disediakan oleh OpenAI, dan sebagai model terlatih, teks Anda tidak pernah dan tidak akan digunakan untuk pelatihan.</string>
+  <string name="aiEntrySummary2">Ini adalah model terlatih yang disediakan oleh OpenAI. Yakinlah bahwa kami <b>tidak pernah menggunakan artikel Anda untuk pelatihan</b>, kami juga tidak dapat menggunakan artikel Anda untuk pelatihan, karena artikel Anda tidak pernah disimpan di server Pure Writer. Artikel Anda hanya ada di perangkat Anda dan di penyimpanan cloud yang telah Anda siapkan.</string>
+  <string name="completelyDeleteAIFunctions">Hapus sepenuhnya fungsi AI</string>
+  <string name="completelyDeleteAIFunctionsSummary">Mengingat beberapa orang tidak dapat menerima AI apa pun yang terjadi, opsi ini tersedia untuk sepenuhnya menghapus fungsionalitas AI, termasuk layar pengaturan ini. Setelah AI dihapus, itu tidak dapat diurungkan. Mohon diinformasikan!</string>
 </resources>

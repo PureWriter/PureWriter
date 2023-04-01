@@ -715,6 +715,7 @@
   <string name="readCurrentArticleAloud">Lugege praegust artiklit valjusti</string>
   <string name="checkForUpdates">Kontrolli kas uuendused on saadaval</string>
   <string name="ttsEnabled">TTS on lubatud</string>
+  <string name="copilotSummary">Kui see on lubatud, annab AI teile redigeerijas reaalajas kirjutamise ettepanekuid. Iga kord, kui kirjutamisprotsessis pausite, genereerib AI teile ettepanekud kirjutamise jätkamiseks pärast kursorit. Võite kandidaattekstile klõpsata, et seda aktsepteerida või redigeerida, või jätkata kirjutamist, et seda eirata ja tagasi lükata.</string>
   <string name="tipLargeText">Praegune artikkel on liiga pikk, seega on lõiguvahed ajutiselt keelatud, et jätkata sujuvat kirjutamist.</string>
   <string name="pinShortcutDialogMessage">Loob selle raamatu käivitaja või töölaua otsetee, mida saate kasutada raamatute rühmitamiseks.\n\n⚠️ Märkus. Mõned süsteemid ei toeta vaikimisi otseteede loomist, peate klõpsama alloleval nupul \"Seaded\", et minna süsteemiseadete ekraanile, et lubada luba \"Avaekraani otseteed\", seejärel naaske sellele ekraanile ja klõpsake nuppu OK. nuppu.\n\nPärast edu leiate oma käivitusprogrammilt või töölaualt otseteeikooni.</string>
   <string name="createPinShortcut">Loo otsetee</string>
@@ -725,12 +726,18 @@
   <string name="tag">Tag</string>
   <string name="tipNewTag">See on raamatusildi 🏷️️ funktsioon. Kui peate määrama raamatule sildi ja kuvama selle ülaosas, peate raamatute ekraanil pikalt vajutama raamatu üksust ja seejärel valima menüü Redigeeri raamatut. Raamatu loomise või redigeerimise dialoogiaknas saate määrata raamatu silte.</string>
   <string name="clickHereToSelectAnotherCloudStorageType">Teise pilvesalvestuse tüübi valimiseks klõpsake siin</string>
-  <string name="aiSettings">AI, ChatGPT Seaded</string>
-  <string name="aiEntrySummary">Artikli täiendamine, täpsustamine, poleerimine ja AI vestlus</string>
+  <string name="aiSettings">AI, ChatGPT seaded</string>
+  <string name="aiEntrySummary">Artikli täiendamine, täpsustamine, lihvimine ja ChatGPT</string>
   <string name="required">Nõutav</string>
-  <string name="openAiKeyGuideSummary">Ava OpenAI API võtme genereerimise ja haldamise leht</string>
-  <string name="enableAiOnTimeMachine">Luba AI Time Machine\'il</string>
+  <string name="openAiKeyGuideSummary">Ava OpenAI API võtme loomise ja haldamise leht</string>
+  <string name="enableAiOnTimeMachine">Luba AI (ChatGPT) Time Machines</string>
   <string name="enableAiOnEditorContextMenu">Luba AI redaktori kontekstimenüüs</string>
-  <string name="enableAiOnEditorContextMenuSummary">Pikalt vajutades redaktoris ilmub teksti kontekstimenüü, mis sisaldab AI täiendamise või poleerimise funktsioone</string>
-  <string name="openAiReadme">Praegu pakutakse meie AI-teenust OpenAI ChatGPT mudeli kaudu. Vaikimisi on see välja lülitatud ja hakkab pakkuma teenuseid ainult pärast selle lubamist ja sisestades oma OpenAI API võtme allpool.\n\nKuna AI-teenus ei ole Pure Writer\'i poolt otse pakutav teenus, on vastuse sisus ettearvamatus. Peate oskama seda ise eristada ja hinnata. Pure Writer ei vastuta AI poolt tekitatud sisu ja probleemide eest. Kui te ei nõustu, keelake palun AI funktsioon. Kui jätkate selle kasutamist, nõustute sellega lepinguga.\n\nLisaks ei pruugi mõnedel riikidel olla juurdepääsu OpenAI-le ja peate ise lahendama võrguprobleemid.</string>
+  <string name="enableAiOnEditorContextMenuSummary">Redaktoris pikalt vajutades avaneb teksti kontekstimenüü, mis sisaldab tehisintellekti lõpetamise funktsiooni</string>
+  <string name="openAiReadme">Praegu pakub seda teenust OpenAI. Vaikimisi pole see lubatud ja hakkab teile teenuseid pakkuma alles siis, kui lubate selle ja sisestate allpool oma OpenAI API võtme.\n\nKuna AI teenust ei paku otse Pure Writer, on selle ettearvamatus. vastuse sisu. Peate suutma seda ise eristada ja hinnata. Pure Writer ei vastuta AI loodud sisu ja probleemide eest. Kui te ei nõustu, keelake tehisintellekti funktsioon. Kui jätkate selle kasutamist, nõustute selle lepinguga.\n\nLisaks ei pruugi mõnel riigil olla juurdepääsu OpenAI-le ja peate võrguprobleemid ise lahendama.</string>
+  <string name="aiProofread">AI korrektuur</string>
+  <string name="aiComplete">AI+</string>
+  <string name="aiEnabledSummary">See AI-funktsioon ei ole vaikimisi lubatud, see toimib ainult siis, kui selle selgesõnaliselt käivitate ja käivitate. Kui see ei vasta teie eelistustele, võite seda täielikult ignoreerida. Seda teenust pakub OpenAI ja eelkoolitatud mudelina ei kasutatud ega kasutata teie teksti kunagi koolituseks.</string>
+  <string name="aiEntrySummary2">See on OpenAI poolt pakutav eelkoolitatud mudel. Võite olla kindel, et me <b>ei ole kunagi teie artikleid koolituseks kasutanud</b> ega saa ka teie artikleid koolituseks kasutada, kuna teie artikleid pole kunagi Pure Writeri serveritesse salvestatud. Teie artiklid on ainult teie seadmes ja teie seadistatud pilvmälus.</string>
+  <string name="completelyDeleteAIFunctions">Kustutage tehisintellekti funktsioonid täielikult</string>
+  <string name="completelyDeleteAIFunctionsSummary">Arvestades, et mõned inimesed ei saa tehisintellektiga nõustuda, on see valik saadaval tehisintellekti funktsioonide, sealhulgas selle seadete ekraani täielikuks kustutamiseks. Kui AI on kustutatud, ei saa seda tagasi võtta. Palun andke teada!</string>
 </resources>
