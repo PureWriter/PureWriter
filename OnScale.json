@@ -5,8 +5,8 @@
     "zh": "2023 春日特惠活动"
   },
   "message": {
-    "default": "In 2017, Pure Writer launched its first version on Google Play, starting a long \"five-year project\". During these 5 years, we submitted a total of 10,000 updates, ranging from v1.0 to v22.4.9, in the latest version, we have implemented great functions such as ChatGPT & OneDrive support for Cloud Sync & Smooth Unlimited Words.\n\nTherefore, during 2023.3.26 ~ 2023.4.2, for Spring, Pure Writer Pro (lifetime), originally priced at US$24(tax not included), is discounted to US$14.99(tax not included).",
-    "zh": "在 2023.3.26 ~ 2023.4.2 春日期间，纯纯写作发布了 v22.4.9 更新，支持了 AI 辅助写作以及「阿里云盘」和 OneDrive 云同步，并修复了一个关于云同步的问题，该问题会导致多设备之间会以间隔十几分钟的周期不断相互同步，即使没有任何变动，这不会导致文本丢失，但会导致云盘流量消耗过快。\n\n为了促进更新，纯纯写作 Pro（永久会员）现提供短期大幅降价优惠！\n\n请更新到 v22.4.9 即可在纯纯写作 Pro 页面底部可查看最新优惠售价。"
+    "default": "In 2017, Pure Writer launched its first version on Google Play, starting a long \"five-year project\". During these 5 years, we submitted a total of 10,000 updates, ranging from v1.0 to v22.6.1, in the latest version, we have implemented great functions such as ChatGPT & OneDrive support for Cloud Sync & Smooth Unlimited Words.\n\nTherefore, during 2023.4.1 ~ 2023.4.2, for Spring, Pure Writer Pro (lifetime), originally priced at US$24(tax not included), is discounted to US$14.99(tax not included).",
+    "zh": "在 2023.4.1 ~ 2023.4.2 春日期间，纯纯写作发布了 v22.6.1 更新，支持了 AI 辅助写作以及「阿里云盘」和 OneDrive 云同步，并修复了一个关于云同步的问题，该问题会导致多设备之间会以间隔十几分钟的周期不断相互同步，即使没有任何变动，这不会导致文本丢失，但会导致云盘流量消耗过快。\n\n为了促进更新，纯纯写作 Pro（永久会员）现提供短期大幅降价优惠！\n\n请更新到 v22.4.9 即可在纯纯写作 Pro 页面底部可查看最新优惠售价。"
   },
   "startTime": "2023-3-26",
   "endTime": "2023-4-2",
