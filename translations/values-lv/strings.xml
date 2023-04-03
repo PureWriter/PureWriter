@@ -112,7 +112,7 @@
   <!--action-->
   <string name="wordCountOfThisBook">Skopējais skaits</string>
   <string name="wordCountOfThisBookDescription">Šīs pašreizējās grāmatas kopējais vārdu skaits</string>
-  <string name="timeMachineGuide">Kas tas ir? Jūs to varat uztvert kā tērzēšanas logu vai vietu, kur pierakstīt savas idejas, vai pat kaut ko līdzīgu Google palīgam. Tam ir īpašs nosaukums "Laika mašīna". Jauki iepazīties!</string>
+  <string name="timeMachineGuide">Prieks iepazīties! Šī ir Laika mašīna. Jūs varat domāt par mani kā vietu, kur ierakstīt iedvesmas fragmentus, vai kā pagaidu vietu, kur uzglabāt saturu. Turklāt es varu jums nodrošināt arī ChatGPT AI sarunu pakalpojumus, piedāvājot zināšanu vaicājumus un atbildes jūsu rakstīšanas procesa laikā.\n\n* Ja vēlaties iespējot manu AI sarunu pakalpojumu, jums ir jāiespējo AI funkcija sadaļā Pure Writer iestatījumi — AI iestatījumi.</string>
   <string name="copyDate">Kopēšanas datums</string>
   <string name="defaultBook">No noklusējuma grāmata</string>
   <string name="createNewBook">Izveidot jaunu grāmatu</string>

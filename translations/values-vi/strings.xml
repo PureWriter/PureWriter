@@ -146,7 +146,7 @@
   <string name="timeMachineHintInput">Thông báo</string>
   <string name="wordCountOfThisBook">Tổng số</string>
   <string name="wordCountOfThisBookDescription">Tổng số từ cho cuốn sách hiện tại này</string>
-  <string name="timeMachineGuide">Đây là gì? Bạn có thể xem đây là một cửa sổ trò chuyện hoặc một nơi để ghi lại các ý tưởng của mình hoặc thậm chí là một thứ gì đó tương tự như Trợ lý Google. Nó có cái tên đặc biệt là "Cỗ máy thời gian". Rất vui được gặp bạn!</string>
+  <string name="timeMachineGuide">Rất vui được gặp bạn! Đây là cỗ máy thời gian. Bạn có thể coi tôi như một nơi để ghi lại những mẩu cảm hứng hoặc một nơi tạm thời để lưu trữ nội dung. Ngoài ra, tôi cũng có thể cung cấp cho bạn các dịch vụ hội thoại ChatGPT AI, cung cấp các câu hỏi và câu trả lời về kiến thức trong quá trình viết của bạn.\n\n* Nếu bạn muốn bật dịch vụ hội thoại AI của tôi, bạn cần bật tính năng AI trong Cài đặt Pure Writer - Cài đặt AI.</string>
   <string name="copyDate">Ngày sao chép</string>
   <string name="defaultBook">Sách mặc định</string>
   <string name="books">Sách</string>

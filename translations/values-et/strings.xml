@@ -144,7 +144,7 @@
   <!--action-->
   <string name="wordCountOfThisBook">Koguarv</string>
   <string name="wordCountOfThisBookDescription">Selle praeguse raamatu sõnade koguarv</string>
-  <string name="timeMachineGuide">Mida\'s see on? Sa võid seda vaadata kui vestlusakent või ideede salvestamise kohta või isegi midagi sarnast nagu Google Assistant. Sellel on eriline nimi "Ajamasin". It\'s nice to meet you!</string>
+  <string name="timeMachineGuide">Meeldiv tutvuda! See on Ajamasin. Minust võib mõelda kui inspiratsioonikildude jäädvustamiseks või ajutise kohana sisu talletamiseks. Lisaks võin teile pakkuda ka ChatGPT AI vestlusteenuseid, pakkudes teie kirjutamisprotsessi ajal teadmiste päringuid ja vastuseid.\n\n* Kui soovite lubada minu AI vestlusteenust, peate lubama AI funktsiooni jaotises Pure Writer Settings – AI Settings.</string>
   <string name="copyDate">Kopeerimise kuupäev</string>
   <string name="defaultBook">Esialgne raamat</string>
   <string name="books">Raamatud</string>

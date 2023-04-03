@@ -137,7 +137,7 @@
   <string name="gfmBreaksDisabled">Kräver minst två radbrytningar för att återge ett nytt streck.</string>
   <string name="wordCountOfThisBook">Totalt antal</string>
   <string name="wordCountOfThisBookDescription">Totalt antal ord för den aktuella boken</string>
-  <string name="timeMachineGuide">Vad är det här? Du kan se det här som ett chattfönster eller en plats där du kan registrera dina idéer, eller till och med något som liknar Google Assistant. Den har ett särskilt namn som heter Time Machine. Det är trevligt att träffa dig!</string>
+  <string name="timeMachineGuide">Trevligt att träffas! Det här är Time Machine. Du kan tänka på mig som en plats för att spela in fragment av inspiration eller som en tillfällig plats för att lagra innehåll. Dessutom kan jag också förse dig med ChatGPT AI-konversationstjänster, som erbjuder kunskapsförfrågningar och svar under din skrivprocess.\n\n* Om du vill aktivera min AI-konversationstjänst måste du aktivera AI-funktionen i Pure Writer Settings - AI Settings.</string>
   <string name="copyDate">Datum för kopiering</string>
   <string name="defaultBook">Standardbok</string>
   <string name="books">Böcker</string>

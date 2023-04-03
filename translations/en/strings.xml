@@ -195,7 +195,7 @@
   <string name="wordCountOfThisBook">Total Count</string>
   <string name="wordCountOfThisBookDescription">Total Word Count for this current Book</string>
   <string name="debugRemoveLicense" translatable="false">RemoveLicense</string>
-  <string name="timeMachineGuide">What\'s this? You may view this as a chat window or a place to record your ideas, or even something similar to Google Assistant. It has a special name called "Time Machine". It\'s nice to meet you!</string>
+  <string name="timeMachineGuide">Nice to meet you! This is Time Machine. You can think of me as a place to record fragments of inspiration or as a temporary place to store content. Additionally, I can also provide you with ChatGPT AI conversation services, offering knowledge inquiries and answers during your writing process.\n\n* If you want to enable my AI conversation service, you need to enable the AI feature in Pure Writer Settings - AI Settings.</string>
   <string name="copyDate">Copy Date</string>
   <string name="defaultBook">Default Book</string>
   <string name="books">Books</string>

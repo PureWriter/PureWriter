@@ -108,7 +108,7 @@
   <string name="timeMachineHintInput">Mesaj</string>
   <string name="wordCountOfThisBook">Contul total</string>
   <string name="wordCountOfThisBookDescription">Contul total de cuvinte pentru această carte curentă</string>
-  <string name="timeMachineGuide">Ce-i asta? Puteți vedea acest lucru ca pe o fereastră de chat sau ca pe un loc în care să vă înregistrați ideile, sau chiar ca pe ceva similar cu Google Assistant. Are un nume special numit "Time Machine". Mă bucur să vă cunosc!</string>
+  <string name="timeMachineGuide">Încântat de cunoştinţă! Aceasta este Mașina Timpului. Vă puteți gândi la mine ca la un loc pentru a înregistra fragmente de inspirație sau ca la un loc temporar pentru stocarea conținutului. În plus, vă pot oferi și servicii de conversație ChatGPT AI, oferind întrebări despre cunoștințe și răspunsuri în timpul procesului de scriere.\n\n* Dacă doriți să activați serviciul meu de conversație AI, trebuie să activați funcția AI în Setări Pure Writer - Setări AI.</string>
   <string name="copyDate">Data copierii</string>
   <string name="defaultBook">Cartea implicită</string>
   <string name="createNewBook">Creează o nouă carte</string>

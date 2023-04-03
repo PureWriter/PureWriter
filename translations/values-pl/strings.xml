@@ -108,7 +108,7 @@
   <string name="timeMachineHintInput">Wiadomość</string>
   <string name="wordCountOfThisBook">Całkowita liczba</string>
   <string name="wordCountOfThisBookDescription">Całkowita liczba słów dla tej bieżącej książki</string>
-  <string name="timeMachineGuide">Co to jest? Możesz postrzegać to jako okno czatu lub miejsce do zapisywania swoich pomysłów, a nawet coś podobnego do Asystenta Google. Ma on specjalną nazwę o nazwie "Time Machine". Miło cię poznać!</string>
+  <string name="timeMachineGuide">Miło mi cię poznać! To jest Wehikuł Czasu. Możesz o mnie myśleć jako o miejscu do zapisywania fragmentów inspiracji lub jako o tymczasowym miejscu do przechowywania treści. Dodatkowo mogę również świadczyć usługi konwersacji ChatGPT AI, oferując pytania dotyczące wiedzy i odpowiedzi podczas procesu pisania.\n\n* Jeśli chcesz włączyć moją usługę konwersacji AI, musisz włączyć funkcję AI w ustawieniach Pure Writer - Ustawienia AI.</string>
   <string name="copyDate">Data kopiowania</string>
   <string name="defaultBook">Domyślna książka</string>
   <string name="createNewBook">Utwórz nową książkę</string>

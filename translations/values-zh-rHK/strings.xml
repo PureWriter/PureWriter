@@ -149,7 +149,7 @@
   <string name="gfmBreaksDisabled">需要兩個換行才能真正在繪製時換行</string>
   <string name="wordCountOfThisBook">本書字數</string>
   <string name="wordCountOfThisBookDescription">目前書籍所有篇章字數</string>
-  <string name="timeMachineGuide">這是甚麼？ 你可以理解成一個聊天視窗，也可以理解成一個臨時記錄內容的地方，或類似Google助手。實際上，它有一個專門的名字，叫「時光機」。 很高興見到你！</string>
+  <string name="timeMachineGuide">很高興見到您！這是「時光機」。 您可以理解成一個紀錄靈感碎片的地方，也可以理解成一個臨時記錄內容的地方，同時，它還可以為您提供 AI 對話服務，可在寫作過程中為您提供知識查詢和講解。\n\n* 如果您要啟用 AI 對話服務，您需要在純純寫作設置頁面開啟 AI 功能。</string>
   <string name="copyDate">複製日期</string>
   <string name="books">書籍</string>
   <string name="defaultBook">預設書</string>

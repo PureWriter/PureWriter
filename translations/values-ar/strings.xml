@@ -143,7 +143,7 @@
   <string name="timeMachineHintInput">رسالة</string>
   <string name="wordCountOfThisBook">العدد الإجمالي</string>
   <string name="wordCountOfThisBookDescription">إجمالي عدد الكلمات لهذا الكتاب الحالي</string>
-  <string name="timeMachineGuide">ما هذا؟ يمكنك عرض هذا كنافذة دردشة أو مكان لتسجيل أفكارك ، أو حتى شيء مشابه لـ Google Assistant. لها اسم خاص يسمى آلة الزمن. تشرفنا!</string>
+  <string name="timeMachineGuide">سعيد بلقائك! هذه آلة الزمن. يمكنك التفكير بي كمكان لتسجيل أجزاء من الإلهام أو كمكان مؤقت لتخزين المحتوى. بالإضافة إلى ذلك ، يمكنني أيضًا تزويدك بخدمات المحادثة ChatGPT AI ، وتقديم الاستفسارات والإجابات المعرفية أثناء عملية الكتابة.\n\n* إذا كنت ترغب في تمكين خدمة محادثة AI الخاصة بي ، فأنت بحاجة إلى تمكين ميزة AI في إعدادات Pure Writer - إعدادات AI.</string>
   <string name="copyDate">تاريخ النسخ</string>
   <string name="defaultBook">الكتاب الافتراضي</string>
   <string name="books">كتب</string>

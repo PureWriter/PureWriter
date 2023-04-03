@@ -152,7 +152,7 @@
   <string name="gfmBreaksDisabled">개행을 렌더링하려면 최소한 두 개의 줄 바꿈이 필요합니다</string>
   <string name="wordCountOfThisBook">총 합계</string>
   <string name="wordCountOfThisBookDescription">이 책의 총 단어 수</string>
-  <string name="timeMachineGuide">이것은 무엇인가요? 이건 채팅 창이나 아이디어를 기록할 수 있는 장소, 또는 Google 어시스턴트와 유사한 것이라고 볼 수 있습니다. 타임 머신이라는 특별한 이름을 가지고 있죠. 만나서 반가워요!</string>
+  <string name="timeMachineGuide">만나서 반가워요! 타임머신입니다. 저를 영감의 파편을 기록하는 곳으로 생각하셔도 되고, 임시로 콘텐츠를 저장하는 곳으로 생각하셔도 됩니다. 또한 글을 쓰는 동안 지식 문의 및 답변을 제공하는 ChatGPT AI 대화 서비스도 제공할 수 있습니다.\n\n* 내 AI 대화 서비스를 활성화하려면 퓨어라이터 설정 - AI 설정에서 AI 기능을 활성화해야 합니다.</string>
   <string name="copyDate">복사 날짜</string>
   <string name="defaultBook">기본 책</string>
   <string name="books">책</string>

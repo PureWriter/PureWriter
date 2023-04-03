@@ -157,7 +157,7 @@
   <string name="gfmBreaksDisabled">Requiere al menos dos saltos de línea para hacer la nueva línea</string>
   <string name="wordCountOfThisBook">Contador total</string>
   <string name="wordCountOfThisBookDescription">Contador total de Palabras de este Libro</string>
-  <string name="timeMachineGuide">¿Qué es esto? Podrías verlo como un chat o un lugar para registrar tus ideas, o incluso algo similar al Asistente de Google. Tiene un nombre especial que es "Máquina del Tiempo", ¡encantado de conocerte!</string>
+  <string name="timeMachineGuide">¡Encantado de conocerlo! Esta es la máquina del tiempo. Puedes pensar en mí como un lugar para grabar fragmentos de inspiración o como un lugar temporal para almacenar contenido. Además, también puedo proporcionarle los servicios de conversación de ChatGPT AI, ofreciendo consultas y respuestas de conocimiento durante su proceso de escritura.\n\n* Si desea habilitar mi servicio de conversación de IA, debe habilitar la función de IA en Configuración de Pure Writer - Configuración de IA.</string>
   <string name="copyDate">Copiar fecha</string>
   <string name="defaultBook">Libro por defecto</string>
   <string name="books">Libros</string>

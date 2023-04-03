@@ -151,7 +151,7 @@
   <string name="gfmBreaksDisabled">需要两个换行才能真正在渲染时换行</string>
   <string name="wordCountOfThisBook">本书字数</string>
   <string name="wordCountOfThisBookDescription">当前书籍所有章节字数</string>
-  <string name="timeMachineGuide">这是什么？ 你可以理解成一个聊天窗口，也可以理解成一个临时记录内容的地方，或类似谷歌助手。实际上，它有一个专门的名字，叫「时光机」。 很高兴见到你！</string>
+  <string name="timeMachineGuide">很高兴见到您！这是「时光机」。 您可以理解成一个记录灵感碎片的地方，也可以理解成一个临时记录内容的地方，同时，它还可以为您提供 AI 对话服务，可在写作过程中为您提供知识查询和讲解。\n\n* 如果您要启用 AI 对话服务，您需要在纯纯写作设置页面开启 AI 功能。</string>
   <string name="copyDate">复制日期</string>
   <string name="books">书籍</string>
   <string name="defaultBook">默认书</string>

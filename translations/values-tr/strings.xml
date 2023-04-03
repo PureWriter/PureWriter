@@ -157,7 +157,7 @@
   <!--action-->
   <string name="wordCountOfThisBook">Toplam Sayım</string>
   <string name="wordCountOfThisBookDescription">Bu mevcut kitap için toplam kelime sayısı</string>
-  <string name="timeMachineGuide">Bu nedir? Bunun bir sohbet penceresi, fikirlerinizi kaydedebileceğiniz bir yer veya hatta Google Asistan\'a benzer bir şey olarak görebilirsiniz. Ona \"Zamanda Yolculuk\" adı veriliyor. Seninle tanışmak güzel!</string>
+  <string name="timeMachineGuide">Tanıştığıma memnun oldum! Bu Zaman Makinesi. Beni ilham parçalarını kaydetmek için bir yer veya içeriği depolamak için geçici bir yer olarak düşünebilirsiniz. Ek olarak, yazma süreciniz sırasında bilgi sorguları ve yanıtları sunan ChatGPT yapay zeka konuşma hizmetleri de sağlayabilirim.\n\n* AI konuşma hizmetimi etkinleştirmek istiyorsanız, Pure Writer Ayarları - AI Ayarları\'nda AI özelliğini etkinleştirmeniz gerekir.</string>
   <string name="copyDate">Tarihi kopyala</string>
   <string name="defaultBook">Varsayılan Kitap</string>
   <string name="books">Kitaplar</string>

@@ -109,7 +109,7 @@
   <string name="timeMachineHintInput">Mensahe</string>
   <string name="wordCountOfThisBook">Kabuuang bilang</string>
   <string name="wordCountOfThisBookDescription">Kabuuang bilang ng salita para sa kasalukuyang aklat na ito</string>
-  <string name="timeMachineGuide">Ano ito? Maaari mong tingnan ito bilang isang chat window o isang lugar para i-record ang iyong mga ideya, o kahit isang bagay na katulad ng Google Assistant. Mayroon itong espesyal na pangalan na tinatawag na \"Time Machine\". Ikinagagalak kitang makilala!</string>
+  <string name="timeMachineGuide">Ikinagagalak kitang makilala! Ito ang Time Machine. Maaari mong isipin ako bilang isang lugar upang magtala ng mga fragment ng inspirasyon o bilang isang pansamantalang lugar upang mag-imbak ng nilalaman. Bukod pa rito, maaari rin akong magbigay sa iyo ng mga serbisyo sa pakikipag-usap sa ChatGPT AI, na nag-aalok ng mga katanungan at sagot sa kaalaman sa panahon ng iyong proseso ng pagsulat.\n\n* Kung gusto mong paganahin ang aking serbisyo sa pakikipag-usap sa AI, kailangan mong paganahin ang tampok na AI sa Mga Setting ng Purong Manunulat - Mga Setting ng AI.</string>
   <string name="copyDate">Petsa ng kopya</string>
   <string name="defaultBook">Default na aklat</string>
   <string name="createNewBook">Gumawa ng bagong libro</string>

@@ -145,7 +145,7 @@
   <string name="gfmBreaksDisabled">Heeft twee regeleinden nodig om de nieuwe regel echt weer te geven</string>
   <string name="wordCountOfThisBook">Allen tellen</string>
   <string name="wordCountOfThisBookDescription">Word-telling van dit boek</string>
-  <string name="timeMachineGuide">Wat is dit? Je kunt het begrijpen als een chatvenster of als een plaats om tijdelijk inhoud op te nemen, of iets als Google Assistent. In feite heeft het een naam, genaamd \"Time Machine.\" Aangenaam kennis te maken!</string>
+  <string name="timeMachineGuide">Aangenaam! Dit is Tijdmachine. Je kunt mij zien als een plek om fragmenten van inspiratie op te nemen of als een tijdelijke plek om content op te slaan. Daarnaast kan ik u ook ChatGPT AI-gespreksservices bieden, waarbij ik kennisvragen en antwoorden bied tijdens uw schrijfproces.\n\n* Als u mijn AI-gespreksservice wilt inschakelen, moet u de AI-functie inschakelen in Pure Writer-instellingen - AI-instellingen.</string>
   <string name="copyDate">Datum kopiëren</string>
   <string name="books">Boeken</string>
   <string name="defaultBook">Standaard boek</string>

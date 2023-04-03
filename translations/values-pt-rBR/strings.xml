@@ -154,7 +154,7 @@
   <!--action-->
   <string name="wordCountOfThisBook">Contagem total</string>
   <string name="wordCountOfThisBookDescription">Contagem total de palavras para este livro</string>
-  <string name="timeMachineGuide">O que é isto? Você pode ver isto como uma janela de bate-papo ou um lugar para anotar suas ideias, ou até mesmo algo parecido com o Assistente da Google. Isto tem um nome especial, é chamado de “Máquina do tempo”. É um prazer te conhecer!</string>
+  <string name="timeMachineGuide">Prazer em conhecê-lo! Esta é a Máquina do Tempo. Você pode pensar em mim como um lugar para registrar fragmentos de inspiração ou como um lugar temporário para armazenar conteúdo. Além disso, também posso fornecer serviços de conversação ChatGPT AI, oferecendo perguntas e respostas de conhecimento durante o processo de redação.\n\n* Se você deseja habilitar meu serviço de conversa AI, você precisa habilitar o recurso AI em Pure Writer Settings - AI Settings.</string>
   <string name="copyDate">Copiar data</string>
   <string name="defaultBook">Livro padrão</string>
   <string name="books">Livros</string>

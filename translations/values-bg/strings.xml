@@ -140,7 +140,7 @@
   <string name="gfmBreaksDisabled">Изискване за поне две прекъсвания на реда за изобразяване на нов ред</string>
   <string name="wordCountOfThisBook">Общ брой</string>
   <string name="wordCountOfThisBookDescription">Общ брой думи за настоящата книга</string>
-  <string name="timeMachineGuide">Какво е това? Може да го разглеждате като прозорец за чат или място за записване на идеи, или дори нещо подобно на Google Assistant. То има специално име, наречено Машина на времето. Приятно ми е да се запозная с вас!</string>
+  <string name="timeMachineGuide">Приятно ми е да се запознаем! Това е машина на времето. Можете да мислите за мен като място за записване на фрагменти от вдъхновение или като временно място за съхраняване на съдържание. Освен това мога да ви осигуря разговорни услуги с AI ChatGPT, предлагайки запитвания за знания и отговори по време на процеса на писане.\n\n* Ако искате да активирате моята услуга за AI разговор, трябва да активирате функцията AI в Pure Writer Settings - AI Settings.</string>
   <string name="copyDate">Дата на копиране</string>
   <string name="defaultBook">Книга по подразбиране</string>
   <string name="books">Книги</string>

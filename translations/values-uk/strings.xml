@@ -110,7 +110,7 @@
   <string name="timeMachineHintInput">Повідомлення</string>
   <string name="wordCountOfThisBook">Загальна кількість</string>
   <string name="wordCountOfThisBookDescription">Загальна кількість слів для цієї поточної книги</string>
-  <string name="timeMachineGuide">Що це? Ви можете розглядати це як вікно чату або місце для запису ваших ідей, або навіть щось подібне до Google Assistant. Він має спеціальну назву під назвою «Машина часу». Приємно познайомитися!</string>
+  <string name="timeMachineGuide">Приємно познайомитись! Це Машина часу. Ви можете думати про мене як про місце для запису фрагментів натхнення або як про тимчасове місце для зберігання вмісту. Крім того, я можу надати вам послуги розмови ChatGPT AI, пропонуючи запити та відповіді на знання під час вашого процесу написання.\n\n* Якщо ви хочете ввімкнути мою службу розмов AI, вам потрібно ввімкнути функцію AI у налаштуваннях Pure Writer - AI Settings.</string>
   <string name="copyDate">Копіювати дату</string>
   <string name="defaultBook">Книга за замовчуванням</string>
   <string name="createNewBook">Створити нову книгу</string>

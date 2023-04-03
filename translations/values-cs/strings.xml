@@ -127,7 +127,7 @@
   <!--action-->
   <string name="wordCountOfThisBook">Celkový počet</string>
   <string name="wordCountOfThisBookDescription">Celkový počet slov pro tuto aktuální knihu</string>
-  <string name="timeMachineGuide">Co je to? Můžete to vnímat jako okno chatu nebo místo pro záznam vašich nápadů, nebo dokonce něco podobného jako Asistent Google. Má speciální název "Stroj času". Rád vás poznávám!</string>
+  <string name="timeMachineGuide">Rád vás poznávám! Tohle je Stroj času. Můžete si mě představit jako místo pro záznam fragmentů inspirace nebo jako dočasné místo pro ukládání obsahu. Kromě toho vám mohu také poskytnout konverzační služby ChatGPT AI, které nabízejí dotazy na znalosti a odpovědi během procesu psaní.\n\n* Pokud chcete povolit mou službu konverzace AI, musíte povolit funkci AI v nastavení Pure Writer - AI Settings.</string>
   <string name="copyDate">Datum kopírování</string>
   <string name="defaultBook">Výchozí kniha</string>
   <string name="books">Knihy</string>

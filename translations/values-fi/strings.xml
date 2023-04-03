@@ -143,7 +143,7 @@
   <!--action-->
   <string name="wordCountOfThisBook">Kokonaislukumäärä</string>
   <string name="wordCountOfThisBookDescription">Tämän nykyisen kirjan sanojen kokonaismäärä</string>
-  <string name="timeMachineGuide">Mitä\'on tämä? Voit pitää tätä chat-ikkunana tai paikkana, johon voit kirjata ajatuksiasi, tai jopa jotain Google Assistantin kaltaista. Sillä on erityinen nimi "Aikakone". It\'s nice to meet you!</string>
+  <string name="timeMachineGuide">Hauska tavata! Tämä on aikakone. Voit ajatella minua paikkana tallentaa inspiraation katkelmia tai tilapäisenä sisällön säilytyspaikkana. Lisäksi voin tarjota sinulle ChatGPT AI -keskustelupalveluita, jotka tarjoavat tietokyselyitä ja vastauksia kirjoitusprosessisi aikana.\n\n* Jos haluat ottaa AI-keskustelupalvelun käyttöön, sinun on otettava AI-ominaisuus käyttöön kohdassa Pure Writer Settings - AI Settings.</string>
   <string name="copyDate">Kopiointipäivä</string>
   <string name="defaultBook">Vakiokirja</string>
   <string name="books">Kirjat</string>

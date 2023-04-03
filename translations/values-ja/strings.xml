@@ -144,7 +144,7 @@
   <string name="gfmBreaksDisabled">実際に改行を表示するには2つの改行が必要です</string>
   <string name="wordCountOfThisBook">すべての記事数</string>
   <string name="wordCountOfThisBookDescription">この本の語数</string>
-  <string name="timeMachineGuide">これは何ですか？ チャットウィンドウとして、または一時的にコンテンツを記録する場所、またはGoogle Assistantのようなものとして理解できます。 実際、「Time Machine」という名前があります。 はじめまして！</string>
+  <string name="timeMachineGuide">お会いできて嬉しいです！ これがタイムマシンです。 私は、インスピレーションの断片を記録する場所、またはコンテンツを一時的に保存する場所と考えることができます。 さらに、ChatGPT AI 会話サービスを提供して、執筆プロセス中に知識の問い合わせと回答を提供することもできます。\n\n※my AI会話サービスを有効にしたい場合は、Pure Writer設定 - AI設定でAI機能を有効にする必要があります。</string>
   <string name="copyDate">日付のコピー</string>
   <string name="books">書籍</string>
   <string name="defaultBook">デフォルトブック</string>

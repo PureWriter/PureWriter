@@ -144,7 +144,7 @@
   <!--action-->
   <string name="wordCountOfThisBook">Samlet antal</string>
   <string name="wordCountOfThisBookDescription">Total antal ord for denne aktuelle bog</string>
-  <string name="timeMachineGuide">Hvad er det? Du kan se dette som et chatvindue eller et sted at registrere dine idéer eller endda noget, der ligner Google Assistant. Den har et særligt navn, der hedder "Time Machine". Det er rart at møde dig!</string>
+  <string name="timeMachineGuide">Dejligt at møde dig! Dette er Time Machine. Du kan tænke på mig som et sted at optage fragmenter af inspiration eller som et midlertidigt sted at opbevare indhold. Derudover kan jeg også give dig ChatGPT AI-samtaletjenester, der tilbyder vidensforespørgsler og svar under din skriveproces.\n\n* Hvis du vil aktivere min AI-samtaletjeneste, skal du aktivere AI-funktionen i Pure Writer-indstillinger - AI-indstillinger.</string>
   <string name="copyDate">Kopieringsdato</string>
   <string name="defaultBook">Standardbog</string>
   <string name="books">Bøger</string>

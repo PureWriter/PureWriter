@@ -140,7 +140,7 @@
   <string name="gfmBreaksDisabled">Legalább két sortörés szükséges az újsor megjelenítéséhez</string>
   <string name="wordCountOfThisBook">Teljes szám</string>
   <string name="wordCountOfThisBookDescription">A jelenlegi könyv teljes szószáma</string>
-  <string name="timeMachineGuide">Ez meg mi? Ezt tekintheted egy csevegőablaknak, vagy egy helynek, ahol rögzítheted az ötleteidet, vagy akár valami hasonlónak, mint a Google Assistant. Van egy különleges neve is, Time Machine. Örülök, hogy találkoztunk!</string>
+  <string name="timeMachineGuide">Örvendek! Ez az Időgép. Gondolhat rám úgy, mint egy helynek, ahol az inspiráció töredékeit rögzítheti, vagy mint egy ideiglenes hely a tartalom tárolására. Ezenkívül ChatGPT AI beszélgetési szolgáltatásokat is tudok nyújtani, amelyekkel tudáskérdéseket és válaszokat kínálok az írási folyamat során.\n\n* Ha engedélyezni szeretné a mesterséges intelligencia beszélgetési szolgáltatásomat, engedélyeznie kell az AI funkciót a Pure Writer beállítások - AI beállítások menüpontban.</string>
   <string name="copyDate">Másolás dátuma</string>
   <string name="defaultBook">Alapértelmezett könyv</string>
   <string name="books">Könyvek</string>

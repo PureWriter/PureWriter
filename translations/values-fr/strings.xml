@@ -155,7 +155,7 @@
   <string name="gfmBreaksDisabled">Éxiger au moins deux sauts de ligne avant d\'afficher la nouvelle ligne</string>
   <string name="wordCountOfThisBook">Nombre total</string>
   <string name="wordCountOfThisBookDescription">Nombre total de mots comptés dans ce livre</string>
-  <string name="timeMachineGuide">Qu\'est ce que ceci? Vous pouvez voir cela comme une fenêtre de clavardage ou un endroit où noter vos idées, ou même quelque chose de similaire à Google Assistant. Il a un nom spécial, il est appelé "machine temporelle" ("time machine" en anglais). C\'est un plaisir de vous rencontrer!</string>
+  <string name="timeMachineGuide">Ravi de vous rencontrer! C\'est la machine à remonter le temps. Vous pouvez me considérer comme un endroit pour enregistrer des fragments d\'inspiration ou comme un endroit temporaire pour stocker du contenu. De plus, je peux également vous fournir des services de conversation ChatGPT AI, offrant des demandes de connaissances et des réponses pendant votre processus d\'écriture.\n\n* Si vous souhaitez activer mon service de conversation AI, vous devez activer la fonction AI dans les paramètres Pure Writer - Paramètres AI.</string>
   <string name="copyDate">Date de copie</string>
   <string name="defaultBook">Livre par défaut</string>
   <string name="books">Livres</string>

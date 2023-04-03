@@ -138,7 +138,7 @@
   <string name="gfmBreaksDisabled">Erfordert mindestens zwei Zeilenumbrüche, um den Zeilenumbruch wiederzugeben</string>
   <string name="wordCountOfThisBook">Komplette Wortanzahl</string>
   <string name="wordCountOfThisBookDescription">Gesamtzahl der Wörter für dieses aktuelle Buch</string>
-  <string name="timeMachineGuide">Was ist das? Sie können dies als Chat-Fenster oder als Aufnahmeort für Ihre Ideen oder als etwas ähnliches wie Google Assistant anzeigen. Es hat einen speziellen Namen namens Time Machine. Sehr nett dich kennzulernen!</string>
+  <string name="timeMachineGuide">Freut mich, Sie kennenzulernen! Das ist Zeitmaschine. Sie können sich mich als einen Ort vorstellen, an dem Fragmente der Inspiration festgehalten werden, oder als temporären Ort, an dem Inhalte gespeichert werden. Darüber hinaus kann ich Ihnen auch ChatGPT-KI-Konversationsdienste anbieten, die Wissensanfragen und Antworten während Ihres Schreibprozesses anbieten.\n\n* Wenn Sie meinen KI-Konversationsdienst aktivieren möchten, müssen Sie die KI-Funktion in den Pure Writer-Einstellungen - KI-Einstellungen aktivieren.</string>
   <string name="copyDate">Datum kopieren</string>
   <string name="defaultBook">Standardbuch</string>
   <string name="books">Bücher</string>

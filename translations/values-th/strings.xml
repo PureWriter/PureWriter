@@ -136,7 +136,7 @@
   <string name="gfmBreaksDisabled">ต้องมีตัวแบ่งบรรทัดอย่างน้อยสองบรรทัดเพื่อแสดงขึ้นบรรทัดใหม่</string>
   <string name="wordCountOfThisBook">นับทั้งหมด</string>
   <string name="wordCountOfThisBookDescription">จำนวนคำทั้งหมดสำหรับหนังสือเล่มปัจจุบันนี้</string>
-  <string name="timeMachineGuide">อะไรเนี่ย? คุณอาจมองว่านี่เป็นหน้าต่างแชทหรือที่สำหรับบันทึกความคิดของคุณ หรือแม้แต่บางอย่างที่คล้ายกับ Google Assistant มีชื่อพิเศษว่า Time Machine ยินดีที่ได้พบคุณ!</string>
+  <string name="timeMachineGuide">ยินดีที่ได้รู้จัก! นี่คือไทม์แมชชีน คุณอาจคิดว่าฉันเป็นสถานที่บันทึกชิ้นส่วนของแรงบันดาลใจหรือเป็นสถานที่ชั่วคราวในการจัดเก็บเนื้อหา นอกจากนี้ ฉันยังสามารถให้บริการการสนทนา ChatGPT AI แก่คุณ โดยเสนอคำถามและคำตอบความรู้ในระหว่างกระบวนการเขียนของคุณ\n\n* หากคุณต้องการเปิดใช้งานบริการการสนทนา AI ของฉัน คุณต้องเปิดใช้งานคุณสมบัติ AI ในการตั้งค่า Pure Writer - การตั้งค่า AI</string>
   <string name="copyDate">วันที่คัดลอก</string>
   <string name="defaultBook">หนังสือเริ่มต้น</string>
   <string name="books">หนังสือ</string>

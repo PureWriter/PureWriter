@@ -154,7 +154,7 @@
   <string name="gfmBreaksDisabled">Memerlukan setidaknya dua jeda baris untuk membuat baris baru</string>
   <string name="wordCountOfThisBook">Total Hitungan</string>
   <string name="wordCountOfThisBookDescription">Jumlah Kata Total untuk Buku ini</string>
-  <string name="timeMachineGuide">Apa ini? Anda dapat melihat ini sebagai jendela obrolan atau tempat untuk merekam ide-ide Anda, atau bahkan sesuatu yang mirip dengan Google Assistant. Ini memiliki nama khusus yang disebut Time Machine. Senang bertemu dengan mu!</string>
+  <string name="timeMachineGuide">Senang berkenalan dengan Anda! Ini Mesin Waktu. Anda bisa menganggap saya sebagai tempat merekam penggalan-penggalan inspirasi atau sebagai tempat sementara untuk menyimpan konten. Selain itu, saya juga dapat memberi Anda layanan percakapan ChatGPT AI, menawarkan pertanyaan dan jawaban pengetahuan selama proses penulisan Anda.\n\n* Jika Anda ingin mengaktifkan layanan percakapan AI saya, Anda harus mengaktifkan fitur AI di Pengaturan Penulis Murni - Pengaturan AI.</string>
   <string name="copyDate">Salin Tanggal</string>
   <string name="defaultBook">Buku Default</string>
   <string name="books">Buku</string>
