@@ -12,7 +12,7 @@
   <string name="redo">重做</string>
   <string name="about">關於 | 說明</string>
 
-  <string name="defaultContent">　　寫作，讓我們連結過去，遙想未來。然而，您是否經歷過一些寫作軟體：啟動不夠快導致靈感稍縱即逝？經常出錯導致文字付諸東流？缺乏許多寫作該有的功能與輔助令人感覺不夠順手？\n　　純純寫作能夠解決所有這些問題。這是一個極速的純文字編輯器，我們希望寫作能夠回到原本的樣子：<b>純粹、有安全感、隨時、絕不遺失內容、具備良好的寫作體驗。</b>\n　　令人安心\n　　純純寫作的圖示是一個時光機的投影，寓意著文字能夠帶我們穿越時空，也照應了純純寫作特別提供的「歷史記錄」和「自動備份」功能，透過這些保障，即使您誤操作將文字刪除，或手機瞬間斷電關機，您的文章仍然能夠被完整儲存或者在歷史記錄裡找回。多年來，純純寫作提供了令人安心，充滿安全感的寫作體驗，做到了難得的無一遺失，廣受好評。\n　　絲滑流暢\n　　除了實現最重要的安全保障之外，純純寫作的 UI 介面和各種寫作輔助功能，也能令使用者感到這個應用程式真是賞心悅目又絲滑流暢。純純寫作適配了 Android 11 的螢幕小鍵盤介面，能夠讓您的手指順滑地控制螢幕小鍵盤起落。同時，它還提供了呼吸式的游標，游標不再僅僅一閃一閃，而是像人的呼吸一樣，漸隱漸顯。許多類似這樣的細節，純純寫作都打磨到了極致，與此同時，它又擁有許多寫作輔助功能，比如「自動補全成對符號」、按刪除時刪除成對符號、在完成對話內容時按確認鍵跳出引號範圍……許多這樣的輔助功能，都會令人感到適時和自然，當你對比其他編輯器應用程式時，便會發現純純寫作做得更加出色、流暢、細緻入微。\n　　蘊繁於簡\n　　許多編輯器該有的基本功能，純純寫作也都沒有落下，比如 快速輸入列、<b>多裝置雲端同步</b>、段首縮排、段間距、生成精美的長圖片、復原、字數統計、雙編輯器左右對照、一鍵調整格式、尋找取代、Markdown、電腦版……還有一些十分有創意的獨家功能，比如：使用 TTS 語音引擎即時讀出您輸入的文字，幫您換一種感官方式檢查輸入的文字是否正確。再比如它實現了「無限字數」，只要您的手機性能允許，沒有字數限制。即使這樣，純純寫作仍然保持了簡約的設計風格，遵循 Material Design 設計，好用又好看。\n　　您能夠最快速度到達靈感頁面，能夠隨時隨地中斷和繼續寫作，這些純純寫作都已經為您做好了。令人感到安心且流暢的寫作體驗，這就是純純寫作，請享受寫作吧！</string>
+  <string name="defaultContent">　　寫作，讓我們連結過去，遙想未來。然而，您是否經歷過一些寫作軟體：啟動不夠快導致靈感稍縱即逝？經常出錯導致文字付諸東流？缺乏許多寫作該有的功能與輔助令人感覺不夠順手？\n　　純純寫作能夠解決所有這些問題。這是一個極速的純文字編輯器，我們希望寫作能夠回到原本的樣子：<b>純粹、有安全感、隨時、絕不遺失內容、具備良好的寫作體驗。</b>\n　　令人安心\n　　純純寫作的圖示是一個時光機的投影，寓意著文字能夠帶我們穿越時空，也照應了純純寫作特別提供的「歷史記錄」和「自動備份」功能，透過這些保障，即使您誤操作將文字刪除，或手機瞬間斷電關機，您的文章仍然能夠被完整儲存或者在歷史記錄裡找回。多年來，純純寫作提供了令人安心，充滿安全感的寫作體驗，做到了難得的無一遺失，廣受好評。\n　　絲滑流暢\n　　除了實現最重要的安全保障之外，純純寫作的 UI 介面和各種寫作輔助功能，也能令使用者感到這個應用程式真是賞心悅目又絲滑流暢。純純寫作適配了 Android 11 的螢幕小鍵盤介面，能夠讓您的手指順滑地控制螢幕小鍵盤起落。同時，它還提供了呼吸式的游標，游標不再僅僅一閃一閃，而是像人的呼吸一樣，漸隱漸顯。許多類似這樣的細節，純純寫作都打磨到了極致，與此同時，它又擁有許多寫作輔助功能，比如「自動補全成對符號」、按刪除時刪除成對符號、在完成對話內容時按確認鍵跳出引號範圍……許多這樣的輔助功能，都會令人感到適時和自然，當您對比其他編輯器應用程式時，便會發現純純寫作做得更加出色、流暢、細緻入微。\n　　蘊繁於簡\n　　許多編輯器該有的基本功能，純純寫作也都沒有落下，比如 快速輸入列、<b>多裝置雲端同步</b>、段首縮排、段間距、生成精美的長圖片、復原、字數統計、雙編輯器左右對照、一鍵調整格式、尋找取代、Markdown、電腦版……還有一些十分有創意的獨家功能，比如：使用 TTS 語音引擎即時讀出您輸入的文字，幫您換一種感官方式檢查輸入的文字是否正確。再比如它實現了「無限字數」，只要您的手機性能允許，沒有字數限制。即使這樣，純純寫作仍然保持了簡約的設計風格，遵循 Material Design 設計，好用又好看。\n　　您能夠最快速度到達靈感頁面，能夠隨時隨地中斷和繼續寫作，這些純純寫作都已經為您做好了。令人感到安心且流暢的寫作體驗，這就是純純寫作，請享受寫作吧！</string>
   <string name="copyTitle">複製標題</string>
   <string name="copyContent">複製正文內容</string>
   <string name="clearThisContent"><b>清空</b>目前正文</string>
@@ -37,7 +37,7 @@
   <string name="noMore">沒有更多啦！</string>
   <string name="goOn">繼續</string>
   <string name="reject">拒絕</string>
-  <string name="defaultTitle">如你所願</string>
+  <string name="defaultTitle">如您所願</string>
   <string name="tipPermissionFailed">取得權限失敗，將無法儲存記錄</string>
   <string name="titleStorePermissionFailed">儲存空間權限申請失敗</string>
   <string name="tipMessageStoragePermissionFirst">我們需要檔案儲存權限，僅用於自動備份您的文章，以此防止您的文字遺失，請授予權限。</string>
@@ -101,7 +101,7 @@
   <string name="sortTypeModifiedTimeUp">修改時間新的排<b>後</b></string>
   <string name="sortTypeCreatedTimeUp">建立時間新的排<b>後</b></string>
   <string name="sort">排序規則</string>
-  <string name="warningSavedFailed">檔案自動儲存失敗，請複製您的全文，然後重新啟動 App 查看是否存在遺失內容</string>
+  <string name="warningSavedFailed">檔案自動儲存失敗，先複製文章全文，然後再重新啟動 App 檢查內容是否有遺失</string>
   <string name="backupSuccessful">備份成功</string>
   <string name="backupNow">立即備份</string>
   <string name="summaryBackupToLocal">備份檔案將被儲存到 Documents/PureWriter/Backups</string>
@@ -213,7 +213,7 @@
   <string name="edit">修改</string>
   <string name="editBook">修改書籍</string>
   <string name="shareText">推薦：純純寫作，一個令人感到安心、擁有歷史記錄、多重防止文章遺失功能，和許多寫作輔助的編輯器：https://writer.drakeet.com</string>
-  <string name="shareMessage">如果你喜歡和支持純純寫作，請幫忙點選右側的分享按鈕與你的朋友推薦這個應用程式，這對於它來說意義重大，純純寫作將因為你的支持而能夠變得更好，並不斷開發、完善下去，非常感謝！\n\n了解關於純純寫作的更多內容：https://writer.drakeet.com</string>
+  <string name="shareMessage">如果您喜歡和支持純純寫作，請幫忙點選右側的分享按鈕向您的朋友推薦這個應用程式，這對於它來說意義重大，純純寫作將因為您的支持而能夠變得更好，並不斷開發、完善下去，非常感謝！\n\n了解關於純純寫作的更多內容：https://writer.drakeet.com</string>
   <string name="wordCountLong">字數統計</string>
   <string name="wordCountOfCurrentArticle">目前文章字數統計</string>
   <string name="floatingWordCount">浮動字數統計</string>
@@ -223,13 +223,13 @@
   <string name="reduceDatabaseSizeMessage">刪除所有文章的歷史記錄。\n只是刪除歷史記錄，文章本身不會被刪除。</string>
   <string name="unlockPro">解鎖進階版</string>
   <string name="presetTitle1">純純寫作 - 願文字帶我們穿越時光，連結過去遙想未來</string>
-  <string name="presetContent1" tools:ignore="TypographyEllipsis">　　純純寫作是一款致力於提供 絕不遺失內容、快速、優秀寫作體驗 的 App。在 Google Play Store 翻看對於純純寫作來自全世界使用者的評論時，你能夠找到大量使用者對純純寫作的誇張讚美，比如「沒用過這麼好用的 App」、「最滿意的 App」、「愛死這個 App」、「一見傾心」... 作為這個應用程式的唯一開發人員，真是特別欣慰...\n　　2017 年 6 月末的一天，在經歷過其他編輯器程式導致的各種文字遺失事件，以及體驗了各種不如意、粗糙的寫作產品後，我決心自己來開發這麼一款 讓人隨時隨地能夠獲得安心的寫作感覺、提供寫作輔助、並真正從寫作者角度出發進行設計和開發的應用程式。\n　　在此之前，我在業餘時間負責獨立為名為「字裡行間」的應用程式開發一個新的編輯器。那時我們在富文字編輯器上花費了大量心血，雖然最終也沒能在 Android 上實現我們覺得滿意的高效能富文字編輯器，但這個過程中我發明了許多獨有的實用技術，這些技術用於開發一個純文字編輯器綽綽有餘。\n　　於是純純寫作誕生了，它一開始便在 Android 上實現了 完美的列間距和段落間距 功能，做到了完整系統相容性和原生等級的高效能。這是純純寫作的獨有技術，除了微軟的 Office Word 你很難能夠再找到一款在手機上支援段落間距和穩定列間距的編輯器。而 Office Word 的安裝套件體積是純純寫作的幾十倍。\n　　除了獨有的段落間距，純純寫作一開始還提供了「啟動馬上進入編輯頁面」以及特有的「歷史記錄」功能。特別是歷史記錄功能，實際上作為一個寫作者，我深知歷史記錄功能實在太重要了，它能夠讓你擁有難得的安心、放心寫作的感覺，而且純純寫作做到了即使手機瞬間斷電關機，也能夠即時自動儲存，絕不遺失內容。這樣的好處是，大家可以隨時暫停和隨時繼續寫作，並且配合純純寫作的螢幕小鍵盤狀態記錄與復原，來回切換將令人感到特別順暢舒適。\n　　此外，純純寫作還支援「快速輸入列」和「格式化工具」，快速輸入列能夠讓使用者自訂快速詞語和短語；格式化面板則能夠幫助使用者快速調整文章格式，比如在中英文之間自動插入空白，或者自動進行縮排調整等等。\n　　在實現了這些顯著功能以外，純純寫作還在細節體驗上下了很多功夫，它擁有 完美的鍵盤回應邏輯。使用純純寫作時，你能夠往下快速滑動頁面或快速輸入列來收起輸入法小鍵盤；能夠在點選文章某一列後，動態獲得最合適的游標焦點定位；能夠在收起螢幕小鍵盤時，文章位置保持不動 ... 許多這樣的細節內容，當你在對比使用其他編輯器時，才會發現純純寫作做得更加出色，細緻入微。\n　　至於一個編輯器該有的功能，純純寫作也都沒有落下，比如 自動段首縮排、生成長圖片、浮動字數統計、復原、Markdown、更換信紙、指紋鎖定、夜間模式、單字輸入建議、快速捲動、匯出和傳送檔案 等等。但即使這樣，純純寫作仍然保持了簡約、蘊繁於簡的設計風格，遵循 Material Design，並且我還為它畫了個像是機器貓 時光機 的圖示，寓意著「文字能夠連結過去，遙想未來」，也照應了純純寫作特別提供的「歷史記錄」功能。\n　　時至今日，純純寫作的開發工作已經有 9459 次程式碼提交了，程式碼變更也達到了十幾萬列。它花費了我幾乎所有的業餘時間，但很高興越來越多人告訴我他們對這個應用程式特別喜歡，相見恨晚；我也非常積極地與使用者交流，收集回饋，不斷完善。這令我感到前所未有的開心，想來自己做了一件很有意義並且值得長期投入的事情。\n　　感謝所有在這個過程支持和幫助過我的朋友，沒有你們，這個應用不能夠一步步做得更好，也不能夠長期不停地維護更新下去，真是太好了 ... 也因此今天我終於能夠寫這麼一篇文章來介紹純純寫作的初衷，和它的許多「特色功能」，希望能夠讓更多人認識到這個產品，願我們在人生歲月中，能夠記錄更多感動、留下更多回憶，願文字能夠帶我們穿越時光，連結過去，遙想未來。</string>
+  <string name="presetContent1" tools:ignore="TypographyEllipsis">　　純純寫作是一款致力於提供 絕不遺失內容、快速、優秀寫作體驗 的 App。在 Google Play Store 翻看對於純純寫作來自全世界使用者的評論時，您能夠找到大量使用者對純純寫作的誇張讚美，比如「沒用過這麼好用的 App」、「最滿意的 App」、「愛死這個 App」、「一見傾心」... 作為這個應用程式的唯一開發人員，真是特別欣慰...\n　　2017 年 6 月末的一天，在經歷過其他編輯器程式導致的各種文字遺失事件，以及體驗了各種不如意、粗糙的寫作產品後，我決心自己來開發這麼一款 讓人隨時隨地能夠獲得安心的寫作感覺、提供寫作輔助、並真正從寫作者角度出發進行設計和開發的應用程式。\n　　在此之前，我在業餘時間負責獨立為名為「字裡行間」的應用程式開發一個新的編輯器。那時我們在富文字編輯器上花費了大量心血，雖然最終也沒能在 Android 上實現我們覺得滿意的高效能富文字編輯器，但這個過程中我發明了許多獨有的實用技術，這些技術用於開發一個純文字編輯器綽綽有餘。\n　　於是純純寫作誕生了，它一開始便在 Android 上實現了 完美的列間距和段落間距 功能，做到了完整系統相容性和原生等級的高效能。這是純純寫作的獨有技術，除了微軟的 Office Word 您很難能夠再找到一款在手機上支援段落間距和穩定列間距的編輯器。而 Office Word 的安裝套件體積是純純寫作的幾十倍。\n　　除了獨有的段落間距，純純寫作一開始還提供了「啟動馬上進入編輯頁面」以及特有的「歷史記錄」功能。特別是歷史記錄功能，實際上作為一個寫作者，我深知歷史記錄功能實在太重要了，它能夠讓您擁有難得的安心、放心寫作的感覺，而且純純寫作做到了即使手機瞬間斷電關機，也能夠即時自動儲存，絕不遺失內容。這樣的好處是，大家可以隨時暫停和隨時繼續寫作，並且配合純純寫作的螢幕小鍵盤狀態記錄與復原，來回切換將令人感到特別順暢舒適。\n　　此外，純純寫作還支援「快速輸入列」和「格式化工具」，快速輸入列能夠讓使用者自訂快速詞語和短語；格式化面板則能夠幫助使用者快速調整文章格式，比如在中英文之間自動插入空白，或者自動進行縮排調整等等。\n　　在實現了這些顯著功能以外，純純寫作還在細節體驗上下了很多功夫，它擁有 完美的鍵盤回應邏輯。使用純純寫作時，您能夠往下快速滑動頁面或快速輸入列來收起輸入法小鍵盤；能夠在點選文章某一列後，動態獲得最合適的游標焦點定位；能夠在收起螢幕小鍵盤時，文章位置保持不動 ... 許多這樣的細節內容，當您在對比使用其他編輯器時，才會發現純純寫作做得更加出色，細緻入微。\n　　至於一個編輯器該有的功能，純純寫作也都沒有落下，比如 自動段首縮排、生成長圖片、浮動字數統計、復原、Markdown、更換信紙、指紋鎖定、夜間模式、單字輸入建議、快速捲動、匯出和傳送檔案 等等。但即使這樣，純純寫作仍然保持了簡約、蘊繁於簡的設計風格，遵循 Material Design，並且我還為它畫了個像是機器貓 時光機 的圖示，寓意著「文字能夠連結過去，遙想未來」，也照應了純純寫作特別提供的「歷史記錄」功能。\n　　時至今日，純純寫作的開發工作已經有 9459 次程式碼提交了，程式碼變更也達到了十幾萬列。它花費了我幾乎所有的業餘時間，但很高興越來越多人告訴我他們對這個應用程式特別喜歡，相見恨晚；我也非常積極地與使用者交流，收集回饋，不斷完善。這令我感到前所未有的開心，想來自己做了一件很有意義並且值得長期投入的事情。\n　　感謝所有在這個過程支持和幫助過我的朋友，沒有您們，這個應用不能夠一步步做得更好，也不能夠長期不停地維護更新下去，真是太好了 ... 也因此今天我終於能夠寫這麼一篇文章來介紹純純寫作的初衷，和它的許多「特色功能」，希望能夠讓更多人認識到這個產品，願我們在人生歲月中，能夠記錄更多感動、留下更多回憶，願文字能夠帶我們穿越時光，連結過去，遙想未來。</string>
   <string name="presetTitle2">純純寫作 - 保護機制</string>
-  <string name="presetContent2">目前為止純純寫作保護文章避免遺失的防線有： \n1. 文章一經變動就會觸發自動儲存，若失敗將馬上警告使用者 \n2. 每隔 2 秒進行一次主動檢查文章是否正常存入資料庫、是否與資料庫內容相符，若失敗將馬上警告使用者 \n3. 如果儲存失敗，則無法真正離開應用程式，此時按離開鍵等於按 Home 鍵（保留背景處理程序），儘可能給予使用者手動儲存的機會 \n4. 每次切到背景或離開應用程式，如若文章有變化，則進行一次自動備份完整資料庫，備份內容可以隨時還原，每次執行還原之前會自動備份「還原之前」的內容以供放棄還原 \n5. 為每一篇文章提供歷史記錄、復原與重做 \n6. 提供回收筒，避免誤刪文章 \n7. 雲端備份，如果設定 WebDAV，則純純寫作會預設開啟雲端備份功能，自動將你的 db 資料庫檔案（包含全部文章）同步到雲端</string>
+  <string name="presetContent2">目前為止純純寫作保護文章避免遺失的防線有： \n1. 文章一經變動就會觸發自動儲存，若失敗將馬上警告使用者 \n2. 每隔 2 秒進行一次主動檢查文章是否正常存入資料庫、是否與資料庫內容相符，若失敗將馬上警告使用者 \n3. 如果儲存失敗，則無法真正離開應用程式，此時按離開鍵等於按 Home 鍵（保留背景處理程序），儘可能給予使用者手動儲存的機會 \n4. 每次切到背景或離開應用程式，如若文章有變化，則進行一次自動備份完整資料庫，備份內容可以隨時還原，每次執行還原之前會自動備份「還原之前」的內容以供放棄還原 \n5. 為每一篇文章提供歷史記錄、復原與重做 \n6. 提供回收筒，避免誤刪文章 \n7. 雲端備份，如果設定 WebDAV，則純純寫作會預設開啟雲端備份功能，自動將您的 db 資料庫檔案（包含全部文章）同步到雲端</string>
   <string name="presetTitle3">關於純純寫作進階版</string>
-  <string name="presetContent3">如果你覺得 純純寫作 很棒，希望它能繼續堅持下去，可否願意花一點點錢作為對於開發人員的激勵？ \n這能夠使我們一直堅持好的方向、良心的產品，同時激勵更多的獨立開發人員。 \n您可以點選右上角的設定頁面進入「解鎖純純寫作進階版功能」，作為回報，付費後，您將取得「儲存為」和「自訂稿紙背景」等進階功能。 \n純純寫作也將因為您的支持而能夠不斷更新、完善，非常感謝！ \n如果您有任何問題或需求，也可以透過郵件聯絡我：drakeet@drakeet.com</string>
+  <string name="presetContent3">如果您覺得 純純寫作 很棒，希望它能繼續堅持下去，可否願意花一點點錢作為對於開發人員的激勵？ \n這能夠使我們一直堅持好的方向、良心的產品，同時激勵更多的獨立開發人員。 \n您可以點選右上角的設定頁面進入「解鎖純純寫作進階版功能」，作為回報，付費後，您將取得「儲存為」和「自訂稿紙背景」等進階功能。 \n純純寫作也將因為您的支持而能夠不斷更新、完善，非常感謝！ \n如果您有任何問題或需求，也可以透過郵件聯絡我：drakeet@drakeet.com</string>
   <string name="presetTitle4">純純寫作 - 隱私權政策</string>
-  <string name="presetContent4">純純寫作非常重視使用者的隱私保護，它絕不會收集您的任何隱私內容。\n另外，在未經允許或告知的情況下，純純寫作也絕不會修改或讀取您的剪貼簿內容。\n純純寫作申請了儲存空間權限，僅僅用於匯出檔案和進行自動備份，除此之外，它不會在未經允許或告知的情況下讀取或修改您外部儲存空間中的任何檔案。\n純純寫作支援雲端備份，它會預設使用 HTTPS 加密傳輸你的資料庫備份到你的 WebDAV 雲端硬碟，你的雲端備份只會儲存於你設定的雲端硬碟，它們絕不會被上傳到其它地方。</string>
+  <string name="presetContent4">純純寫作非常重視使用者的隱私保護，它絕不會收集您的任何隱私內容。\n另外，在未經允許或告知的情況下，純純寫作也絕不會修改或讀取您的剪貼簿內容。\n純純寫作申請了儲存空間權限，僅僅用於匯出檔案和進行自動備份，除此之外，它不會在未經允許或告知的情況下讀取或修改您外部儲存空間中的任何檔案。\n純純寫作支援雲端備份，它會預設使用 HTTPS 加密傳輸您的資料庫備份到您的 WebDAV 雲端硬碟，您的雲端備份只會儲存於您設定的雲端硬碟，它們絕不會被上傳到其它地方。</string>
   <string name="createAt">建立於</string>
   <string name="updatedAt">更新於</string>
   <string name="forcedBlackTextColor">強制黑色字型</string>
@@ -261,7 +261,7 @@
   <string name="needManualSortingTitle">需要切換到手動排序才能使用該功能</string>
   <string name="needManualSortingMessage">您想切換到手動排序嗎？</string>
   <string name="doubleClickToExitTip">再按一次返回鍵離開</string>
-  <string name="doubleClickToExit">點選兩次返回鍵離開應用程式</string>
+  <string name="doubleClickToExit">按兩次返回鍵離開應用程式</string>
   <string name="markdownCheckBoxTip">該選項是為 Markdown 提供的，選取後段落間距和段首自動縮排都將會自動失效，如果您不熟悉 Markdown，建議您不要勾選它。\n\nMarkdown 是一種運用廣泛的標記性寫作語言，如果您有興趣，可以自行上網搜尋 Markdown 了解詳細資訊。</string>
   <string name="unlockValidityPeriod">解鎖失效時間</string>
   <string name="unlockValidityPeriodSummary">%s\n提示：若按返回鍵離開應用程式則會立即鎖定</string>
@@ -279,13 +279,13 @@
   <string name="summaryBackupToCloud">如果您已設定雲端備份，備份檔案將儲存到您的雲端儲存空間</string>
   <string name="lockFallback">如果您始終無法解除鎖定，您可以進入您的手機系統設定，移除您的所有指紋，然後重新開啟純純寫作即可。</string>
   <string name="smoothScrollerTitle">順滑的聚焦文字列捲動動畫</string>
-  <string name="tipSmoothScrolling">開啟這個選項後，當你點選正文的某一列，若有必要，編輯器會順滑地捲動頁面至該列。這個選項保持關閉時，則會瞬間跳躍到該列。\n捲動動畫可能在一些裝置上表現不佳，因此如果你感覺到 lag，請關閉這個選項。</string>
+  <string name="tipSmoothScrolling">開啟這個選項後，當您點選正文的某一列，若有必要，編輯器會順滑地捲動頁面至該列。這個選項保持關閉時，則會瞬間跳躍到該列。\n捲動動畫可能在一些裝置上表現不佳，因此如果您感覺到 lag，請關閉這個選項。</string>
   <string name="defaultMessageUpdateApk">這是一個重要的版本，請儘快更新到這個版本</string>
   <string name="readme">您已開啟了純純寫作新的 Material Design 2 設計。\n\nMaterial Design 2 帶來了新的全螢幕沉浸稿紙和透明化頂部列，更加精緻多彩。\n\n但與此同時，新的設計可能存在諸多問題，因此這個特性作為純純寫作的一個實驗性功能，它可能存在一些 UI 視覺上的問題。另外，作為純純寫作的作者，相對來說，我更喜歡純純寫作預設原版設計，它更加耐看和令人專注文字內容，因此這個主題實際上是應少數使用者強烈要求而特地開發的，它給開發者造出了額外的開發成本，能夠提供出來實屬不易，而且由於需要兼顧兩套設計和主題，開發者的工作可能會成倍增加。\n\n由此，如果開啟 Material Design 2 後純純寫作將採用強制收費方式，但您仍然可以有許多時間去體驗並作出最終付費決定。請儘量支持它，如果經過統計發現最終願意付費的使用者比例很少，開發者可能會復原或停止提供 Material Design 2。您一旦開啟 Material Design 2，將視為預設同意此內容。\n\n謝謝大家！我們會竭盡全力提供一個越來越好的純純寫作，請享用！</string>
   <string name="lowFreeStorageSpaceWarning">您的手機剩餘儲存空間只有 %1$d MB, 這可能導致純純寫作儲存或備份失敗，請務必清理留出 %2$d MB 以上空間後再使用純純寫作！</string>
   <string name="pureWriterBBS">純純寫作論壇</string>
-  <string name="replaceConfirmMessage">你確定要取代 %d 處內容嗎？</string>
-  <string name="tipUndoReplace">如果取代後想要反悔：\n* 你可以進入純純寫作 - 設定 - 備份 - 還原備份，點選上一個備份還原到取代之前的內容。\n* 如果你僅僅是取代了目前篇章，則可以透過右上角選單進入歷史記錄頁面，還原到取代之前的內容。</string>
+  <string name="replaceConfirmMessage">您確定要取代 %d 處內容嗎？</string>
+  <string name="tipUndoReplace">如果取代後想要反悔：\n* 您可以進入純純寫作 - 設定 - 備份 - 還原備份，點選上一個備份還原到取代之前的內容。\n* 如果您僅僅是取代了目前篇章，則可以透過右上角選單進入歷史記錄頁面，還原到取代之前的內容。</string>
   <string name="findReplace">尋找 &amp; 取代</string>
   <string name="replace">取代</string>
   <string name="find">尋找</string>
@@ -299,7 +299,7 @@
   <string name="content">正文</string>
   <string name="inverseAll">反選</string>
   <string name="webDavAccountError">WebDAV 帳號資訊有誤，無法啟用雲端備份</string>
-  <string name="fileAlreadyExistsInDirectory">該檔案已經存在於你的檔案目錄中了</string>
+  <string name="fileAlreadyExistsInDirectory">該檔案已經存在於您的檔案目錄中了</string>
   <string name="overwrite">覆蓋</string>
   <string name="doNotOverwrite">不覆蓋</string>
   <string name="signOut">登出</string>
@@ -343,7 +343,7 @@
   <string name="spacingsAndMargins">列間距\n左右邊距</string>
   <string name="autoBackupAndCloudBackupGuide">《自動備份與雲端備份教學》</string>
   <string name="bridgeSummary">這個功能非常難以理解和使用，不推薦將其啟用。</string>
-  <string name="messageCancelBridgeFeature">從這個版本開始，原有的「雲端存取」功能被預設隱藏了，因為每天有許多使用者回報說他們不知道這個功能是什麼意思，非常抱歉給大家帶來困擾！但同時我也因為回覆這些意見花費了大量時間精力——它們本該用於開發和打磨這個產品。所以目前這個功能預設關閉，如果你喜歡和依賴它，你可以進入備份設定頁面底部，將可以看到一個開啟本功能的選項。請諒解，非常感謝！</string>
+  <string name="messageCancelBridgeFeature">從這個版本開始，原有的「雲端存取」功能被預設隱藏了，因為每天有許多使用者回報說他們不知道這個功能是什麼意思，非常抱歉給大家帶來困擾！但同時我也因為回覆這些意見花費了大量時間精力——它們本該用於開發和打磨這個產品。所以目前這個功能預設關閉，如果您喜歡和依賴它，您可以進入備份設定頁面底部，將可以看到一個開啟本功能的選項。請諒解，非常感謝！</string>
   <string name="followingBackupsAre">以下是安裝目前版本之前的備份</string>
   <string name="logInToCloudStorage">登入雲端空間</string>
   <string name="scrollToBottom">聚焦到文末</string>
@@ -415,7 +415,7 @@
   <string name="exportToPicMdTxt">儲存為、匯出為長圖片、md、txt、pdf</string>
   <string name="materialDesign2ThemeWithLineBreak">Material Design 2\n主題</string>
   <string name="veryVerySmooth">非常非常順暢</string>
-  <string name="helperTextForRegisteredAccount">這個帳號已被註冊，如果最終確定，我們將為你進行登入</string>
+  <string name="helperTextForRegisteredAccount">這個帳號已被註冊，如果最終確定，我們將為您進行登入</string>
   <string name="messageCustomFontAndPro">檢查到您正在使用「自訂字型」功能，該功能需要付費獲得純純寫作 Pro 才能使用，您可以點選確定以取得純純寫作 Pro 以及更多進階版功能，或者點選取消自訂字型（下次啟動時生效）。</string>
   <string name="signingInIsInvalid">登入失效</string>
   <string name="verificationCode">確認代碼</string>
@@ -521,7 +521,7 @@
     ]]></string>
   <string name="read">檢視</string>
   <string name="introductionOfReadOnlyMode">* 當游標不可見時，需要點選兩次編輯器才能置入游標並進入編輯模式\n* 當游標可見時，無論何時，只需點選即可編輯或修改游標位置\n* 當游標可見 且 螢幕小鍵盤已收起時，可以按「返回鍵」來隱藏游標並進入唯讀模式</string>
-  <string name="messageReadOnlyModeAndPro">這個「進階唯讀模式」需要純純寫作 Pro，你可以點選確定進入純純寫作 Pro 介紹頁面和取得更多進階版功能，或者點選取消（將在下次啟動後自動取消「進階唯讀模式」）。</string>
+  <string name="messageReadOnlyModeAndPro">這個「進階唯讀模式」需要純純寫作 Pro，您可以點選確定進入純純寫作 Pro 介紹頁面和取得更多進階版功能，或者點選取消（將在下次啟動後自動取消「進階唯讀模式」）。</string>
   <string name="doNotRemindAgain">不再提示</string>
   <string name="homeFab">首頁右下角浮動按鈕模式</string>
   <string name="fabOverflowModeSingleClick">點選開啟二級選單，在二級選單中可選擇建立文章，避免意外操作</string>
@@ -583,7 +583,7 @@
   <string name="autoConnectToDesktopNextTime">下次自動連線到桌面版</string>
   <string name="autoConnectToDesktop">自動連線到桌面版</string>
   <string name="optionsForTheFewPeople">少數派選項</string>
-  <string name="summaryPie">強迫症選項，提供一些本不該提供的設定項</string>
+  <string name="summaryPie">強迫症選項，提供一些本不該提供的設定選項</string>
   <string name="stretchEdgeEffect">編輯器捲動到邊緣的彈性動畫</string>
   <string name="staticCursor">靜態游標（不要閃爍）</string>
   <string name="cursorJoyModePosition">「移動游標」模式和位置</string>
@@ -759,7 +759,7 @@
   <string name="ttsModeSentence">讀出您剛完成或修改的<b>句子</b>\n(僅支援部分語言，因為對於其他語言我們不懂得如何斷句‼️)</string>
   <string name="openTtsSetting">開啟「系統設定 - 文字轉語音」頁面</string>
   <string name="downloadTtsEngine">下載 TTS 引擎</string>
-  <string name="titleRestoreOrderOfArticlesFromAnOldBackup">從舊版備份中還文章<b>順序</b></string>
+  <string name="titleRestoreOrderOfArticlesFromAnOldBackup">從舊版備份中還原文章<b>順序</b></string>
   <string name="summaryRestoreOrderOfArticlesFromAnOldBackup">當您遭遇文章列表亂序的 bug 時可以使用此項，它將從您選擇的舊版備份中讀取其中的文章排序值並賦予您目前的文章們</string>
   <string name="titleSelectBooksToRestoreOrder">請選擇要進行還原它內部章節順序的書</string>
   <string name="beforeRestoreOrder">在修復排序之前</string>
@@ -809,5 +809,5 @@
   <string name="copilotTitle">純純寫作 Copilot（助手，副駕駛）</string>
   <string name="extraConfiguration">額外設定</string>
   <string name="notNecessary">非必要</string>
-  <string name="notNecessaryBelowLong">以下配置項都是非必要的，通常默認即可</string>
+  <string name="notNecessaryBelowLong">以下設定選項都是非必要的，通常為預設即可</string>
 </resources>
