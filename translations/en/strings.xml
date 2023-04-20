@@ -864,4 +864,6 @@
   <string name="copilotTitle">Pure Writer Copilot</string>
   <string name="extraConfiguration">Extra configuration</string>
   <string name="notNecessary">Not necessary</string>
+  <string name="notNecessaryBelowLong">@string/notNecessary</string>
+  <string name="reportAI">Report</string>
 </resources>
