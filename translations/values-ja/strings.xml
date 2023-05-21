@@ -701,10 +701,20 @@
   <string name="enableAiOnEditorContextMenu">エディターのコンテキスト メニューで AI を有効にする</string>
   <string name="enableAiOnEditorContextMenuSummary">エディターを長押しすると、AI 補完機能を含むテキスト コンテキスト メニューが表示されます</string>
   <string name="openAiReadme">現在、このサービスは OpenAI によって提供されています。 デフォルトでは有効になっておらず、有効にして OpenAI API キーを下に入力すると、サービスの提供が開始されます。\n\nAI サービスは Pure Writer によって直接提供されるサービスではないため、そのサービスには予測不可能性があります。 返信内容。 自分で判断して評価する必要があります。 Pure Writerは、AIによって生成されたコンテンツおよび問題について責任を負いません。 同意しない場合は、AI 機能を無効にしてください。 引き続き使用する場合は、この契約に同意することになります。\n\nさらに、国によっては OpenAI にアクセスできない場合があり、ネットワークの問題を自分で解決する必要があります。</string>
+  <string name="pureAiReadme">AI サービスは Pure Writer が直接提供するものではないため (私たちはそれをプロキシしているだけで、その背後のサービスも OpenAI です)、その応答内容には予測不能性があります。 自分で判断して評価する必要があります。 Pure Writerは、AIによって生成されたコンテンツおよび問題について責任を負いません。\n\n同意しない場合は、AI 機能を無効にしてください。 引き続き使用する場合は、次の契約に同意することになります。\n\n* AI サービスのコストが高いため、現在、すべての Pro ユーザーに対して、先着順で 1 日あたり合計 20,000 から 50,000 のリクエストしか提供していません。 状況に応じて、この制限を調整します。\n※皆様に安定したサービスをご提供できるよう最善を尽くしておりますが、やむを得ない事情により、本サービスを一時的に停止させていただく場合がございます。\n\nご理解いただきありがとうございます!</string>
   <string name="aiProofread">AI校正</string>
   <string name="aiComplete">AI+</string>
   <string name="aiEnabledSummary">この AI 機能はデフォルトでは有効になっていません。明示的に開始してトリガーした場合にのみ機能します。 好みに合わない場合は、完全に無視してかまいません。 このサービスは OpenAI によって提供され、トレーニング済みのモデルとして、あなたのテキストはトレーニングに使用されることはありません。</string>
   <string name="aiEntrySummary2">これは、OpenAI によって提供される事前トレーニング済みのモデルです。 あなたの記事が Pure Writer サーバーに保存されたことがないため、<b>あなたの記事をトレーニングに使用したことは一度もありません</b>。また、トレーニングに使用することもできませんのでご安心ください。 あなたの記事は、あなたのデバイスと設定したクラウド ストレージにのみ存在します。</string>
   <string name="completelyDeleteAIFunctions">AI 関数を完全に削除</string>
-  <string name="completelyDeleteAIFunctionsSummary">どうしても AI を受け入れることができない人がいることを考慮して、このオプションを使用して、この設定画面を含め、AI 機能を完全に削除することができます。 AI を削除すると、元に戻すことはできません。 お知らせください!</string>
+  <string name="completelyDeleteAIFunctionsSummary">AIを受け入れられない人々がいることを考慮に入れて、この設定画面を含むAI機能を完全に削除するためのこのオプションが利用可能です。AIを一度削除すると、元に戻すことはできません。ご了承ください！</string>
+  <string name="thisRequiresPureWriterPro">これにはPure Writer Proが必要です</string>
+  <string name="noteForAiRequirePro">Pure Writer AIを有効にしましたが、Pure Writer Proメンバーシップを持っていないため、Pure Writer AIを使用できません。AI設定画面で無効にするか、Pure Writer Proメンバーシップを購入してください。</string>
+  <string name="pureAi429Message">今日、すべてのユーザーによるAIサービスの使用総数が最大限に達したため、サービスが一時停止されました。明日もう一度お試しください。ご不便をおかけして申し訳ございませんが、この制限を徐々に解除していきます。</string>
+  <string name="pureAiService">Pure Writer Host AI</string>
+  <string name="openAiService">OpenAI</string>
+  <string name="openAiServiceSummary">無料ですが、独自のOpenAI APIキーを提供する必要があります。このサービスは通常、迅速に応答します。</string>
+  <string name="pleaseEnableOneOfFollowingAiServiceMethods">次のAIサービスのいずれかを有効にしてください</string>
+  <string name="saveAsSplitImage">9つの別々の短い画像(.png)に分割して保存する</string>
+  <string name="notSupportForMD">この機能は現在、Markdownのコンテンツをサポートしていません、TXTモードで試してみてください!</string>
 </resources>

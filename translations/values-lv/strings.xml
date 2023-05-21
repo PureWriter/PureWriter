@@ -732,10 +732,20 @@
   <string name="enableAiOnEditorContextMenu">Iespējot AI redaktora kontekstizvēlnē</string>
   <string name="enableAiOnEditorContextMenuSummary">Ilsti nospiežot redaktoru, tiks atvērta teksta kontekstizvēlne, kurā būs AI pabeigšanas funkcija</string>
   <string name="openAiReadme">Pašlaik šo pakalpojumu nodrošina OpenAI. Pēc noklusējuma tas nav iespējots un sāks sniegt pakalpojumus tikai pēc tam, kad to iespējosit un tālāk ievadīsit savu OpenAI API atslēgu.\n\nTā kā AI pakalpojums nav pakalpojums, ko tieši nodrošina Pure Writer, tas ir neparedzams. atbildes saturs. Jums ir jāspēj to saskatīt un novērtēt pašam. Pure Writer nav atbildīgs par AI radīto saturu un problēmām. Ja nepiekrītat, lūdzu, atspējojiet AI funkciju. Ja turpināsit to izmantot, jūs piekritīsit šim līgumam.\n\nTurklāt dažām valstīm var nebūt piekļuves OpenAI, un visas tīkla problēmas būs jāatrisina pašam.</string>
+  <string name="pureAiReadme">Tā kā AI pakalpojumu tieši nenodrošina Pure Writer (mēs to tikai starpniekserveram, arī pakalpojums, kas atrodas aiz tā, ir OpenAI), tā atbildes saturs ir neprognozējams. Jums ir jāspēj to saskatīt un novērtēt pašam. Pure Writer nav atbildīgs par AI radīto saturu un problēmām.\n\nJa nepiekrītat, lūdzu, atspējojiet AI funkciju. Ja turpināsit to izmantot, jūs piekrītat šim līgumam:\n\n* AI pakalpojumu augsto izmaksu dēļ mēs šobrīd piedāvājam tikai 20 000 līdz 50 000 pieprasījumu dienā visiem Pro lietotājiem rindas kārtībā. Mēs koriģēsim šo ierobežojumu atkarībā no situācijas.\n* Mēs darīsim visu iespējamo, lai nodrošinātu stabilu servisu ikvienam, taču dažu nekontrolējamu faktoru dēļ šis pakalpojums var tikt apturēts jebkurā laikā.\n\nPaldies par sapratni!</string>
   <string name="aiProofread">AI korektūra</string>
   <string name="aiComplete">AI+</string>
   <string name="aiEnabledSummary">Šī mākslīgā intelekta funkcija nav iespējota pēc noklusējuma, tā darbojas tikai tad, ja to skaidri aktivizējat un aktivizējat. Ja tas neatbilst jūsu vēlmēm, varat to pilnībā ignorēt. Šo pakalpojumu nodrošina OpenAI, un kā iepriekš apmācīts modelis jūsu teksts nekad netika izmantots un netiks izmantots apmācībai.</string>
   <string name="aiEntrySummary2">Šis ir iepriekš apmācīts modelis, ko nodrošina OpenAI. Varat būt drošs, ka mēs <b>nekad neesam izmantojuši jūsu rakstus apmācībām</b>, kā arī nevarēsim izmantot jūsu rakstus apmācībām, jo jūsu raksti nekad nav glabāti Pure Writer serveros. Jūsu raksti pastāv tikai jūsu ierīcē un jūsu iestatītajā mākoņkrātuvē.</string>
   <string name="completelyDeleteAIFunctions">Pilnīgi dzēst AI funkcijas</string>
-  <string name="completelyDeleteAIFunctionsSummary">Ņemot vērā, ka daži cilvēki nevar pieņemt AI neatkarīgi no tā, šī opcija ir pieejama, lai pilnībā dzēstu AI funkcionalitāti, tostarp šo iestatījumu ekrānu. Kad AI ir dzēsts, to nevar atsaukt. Lūdzu, esiet informēts!</string>
+  <string name="completelyDeleteAIFunctionsSummary">Ņemot vērā, ka daži cilvēki nespēj pieņemt MI, šī iespēja ir pieejama, lai pilnībā dzēstu MI funkcionalitāti, ieskaitot šo iestatījumu ekrānu. Kad MI ir dzēsts, to nevar atsaukt. Lūdzu, esiet informēti!</string>
+  <string name="thisRequiresPureWriterPro">Šim ir nepieciešams Pure Writer Pro</string>
+  <string name="noteForAiRequirePro">Jūs esat iespējojis Pure Writer AI, bet jums nav Pure Writer Pro biedrības, kas nozīmē, ka jūs nevarat izmantot Pure Writer AI. Lūdzu, atspējojiet to AI iestatījumu ekrānā vai iegādājieties Pure Writer Pro biedrību.</string>
+  <string name="pureAi429Message">Kopējais visu lietotāju AI pakalpojuma lietojuma skaits šodien ir sasniedzis maksimālo ierobežojumu, tāpēc pakalpojums ir īslaicīgi apturēts. Lūdzu, rīt mēģiniet vēlreiz. Mēs atvainojamies par sagādātajām neērtībām un pakāpeniski atcelsim šo ierobežojumu.</string>
+  <string name="pureAiService">Pure Writer Host AI</string>
+  <string name="openAiService">OpenAI</string>
+  <string name="openAiServiceSummary">Bezmaksas, jānorāda sava OpenAI API atslēga. Šis pakalpojums parasti reaģē ātrāk</string>
+  <string name="pleaseEnableOneOfFollowingAiServiceMethods">Lūdzu, iespējojiet vienu no šiem AI pakalpojumiem</string>
+  <string name="saveAsSplitImage">Sadaliet un saglabājiet 9 atsevišķos īsos attēlos (.png)</string>
+  <string name="notSupportForMD">Šī funkcija pašlaik neatbalsta Markdown saturu, lūdzu, mēģiniet TXT režīmā!</string>
 </resources>

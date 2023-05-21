@@ -734,10 +734,20 @@
   <string name="enableAiOnEditorContextMenu">Luba AI redaktori kontekstimenüüs</string>
   <string name="enableAiOnEditorContextMenuSummary">Redaktoris pikalt vajutades avaneb teksti kontekstimenüü, mis sisaldab tehisintellekti lõpetamise funktsiooni</string>
   <string name="openAiReadme">Praegu pakub seda teenust OpenAI. Vaikimisi pole see lubatud ja hakkab teile teenuseid pakkuma alles siis, kui lubate selle ja sisestate allpool oma OpenAI API võtme.\n\nKuna AI teenust ei paku otse Pure Writer, on selle ettearvamatus. vastuse sisu. Peate suutma seda ise eristada ja hinnata. Pure Writer ei vastuta AI loodud sisu ja probleemide eest. Kui te ei nõustu, keelake tehisintellekti funktsioon. Kui jätkate selle kasutamist, nõustute selle lepinguga.\n\nLisaks ei pruugi mõnel riigil olla juurdepääsu OpenAI-le ja peate võrguprobleemid ise lahendama.</string>
+  <string name="pureAiReadme">Kuna AI-teenust Pure Writer otse ei paku (me lihtsalt puhverserverime, selle taga olev teenus on samuti OpenAI), on selle vastuse sisus ettearvamatus. Peate suutma seda ise eristada ja hinnata. Pure Writer ei vastuta AI tekitatud sisu ja probleemide eest.\n\nKui te ei nõustu, keelake tehisintellekti funktsioon. Kui jätkate selle kasutamist, nõustute selle lepinguga:\n\n* AI-teenuste kõrge hinna tõttu pakume praegu kõigile Pro kasutajatele kokku 20 000–50 000 päringut päevas, põhimõttel „kes ees, see mees”. Kohandame seda limiiti vastavalt olukorrale.\n* Anname endast parima, et pakkuda kõigile stabiilset teenust, kuid teatud kontrollimatute tegurite tõttu võidakse see teenus igal ajal peatada.\n\nTäname teid mõistva suhtumise eest!</string>
   <string name="aiProofread">AI korrektuur</string>
   <string name="aiComplete">AI+</string>
   <string name="aiEnabledSummary">See AI-funktsioon ei ole vaikimisi lubatud, see toimib ainult siis, kui selle selgesõnaliselt käivitate ja käivitate. Kui see ei vasta teie eelistustele, võite seda täielikult ignoreerida. Seda teenust pakub OpenAI ja eelkoolitatud mudelina ei kasutatud ega kasutata teie teksti kunagi koolituseks.</string>
   <string name="aiEntrySummary2">See on OpenAI poolt pakutav eelkoolitatud mudel. Võite olla kindel, et me <b>ei ole kunagi teie artikleid koolituseks kasutanud</b> ega saa ka teie artikleid koolituseks kasutada, kuna teie artikleid pole kunagi Pure Writeri serveritesse salvestatud. Teie artiklid on ainult teie seadmes ja teie seadistatud pilvmälus.</string>
   <string name="completelyDeleteAIFunctions">Kustutage tehisintellekti funktsioonid täielikult</string>
-  <string name="completelyDeleteAIFunctionsSummary">Arvestades, et mõned inimesed ei saa tehisintellektiga nõustuda, on see valik saadaval tehisintellekti funktsioonide, sealhulgas selle seadete ekraani täielikuks kustutamiseks. Kui AI on kustutatud, ei saa seda tagasi võtta. Palun andke teada!</string>
+  <string name="completelyDeleteAIFunctionsSummary">Arvestades, et mõned inimesed ei suuda AI-d vastu võtta, on see valik olemas AI funktsionaalsuse täielikuks kustutamiseks, sealhulgas see seadete ekraan. Kui AI on kustutatud, ei saa seda tagasi võtta. Palun olge informeeritud!</string>
+  <string name="thisRequiresPureWriterPro">See nõuab Pure Writer Pro\'d</string>
+  <string name="noteForAiRequirePro">Olete lubanud Pure Writer AI, kuid teil pole Pure Writer Pro liikmelisust, mis tähendab, et te ei saa Pure Writer AI-d kasutada. Palun keelake see AI seadete ekraanil või ostke Pure Writer Pro liikmelisus.</string>
+  <string name="pureAi429Message">Kõigi kasutajate poolt täna kasutatav AI-teenuse koguarv on jõudnud maksimaalse piirini, seetõttu on teenus ajutiselt peatatud. Palun proovige homme uuesti. Vabandame ebamugavuste pärast ja tühistame selle piirangu järk-järgult.</string>
+  <string name="pureAiService">Pure Writer Host AI</string>
+  <string name="openAiService">OpenAI</string>
+  <string name="openAiServiceSummary">Tasuta, peate esitama oma OpenAI API võtme, see teenus reageerib tavaliselt kiiremini</string>
+  <string name="pleaseEnableOneOfFollowingAiServiceMethods">Palun lubage üks järgmistest AI-teenustest</string>
+  <string name="saveAsSplitImage">Jagage ja salvestage 9 eraldi lühikesse pilti (.png)</string>
+  <string name="notSupportForMD">See funktsioon ei toeta praegu Markdowni sisu, proovige TXT-režiimis!</string>
 </resources>

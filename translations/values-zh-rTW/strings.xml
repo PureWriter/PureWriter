@@ -609,7 +609,7 @@
   <string name="mergeDone">合併完成！</string>
   <string name="relaunch">重啟</string>
   <string name="autoComplete">智慧自動補全</string>
-  <string name="autoCompleteSummary">自動補全成對符號僅當游標在文章<b>末尾</b>時</string>
+  <string name="autoCompleteSummary">僅當游標在文章<b>末尾</b>時自動補全成對符號</string>
   <string name="autoDeleteSymbolsInPairs">自動成對刪除符號</string>
   <string name="autoDeleteSymbolsInPairsSummary">僅當成對符號中的內容<b>為空</b>時才會進行成對地刪除</string>
   <string name="editor2Tip">您正處在第二編輯器中，它的頂部圖示和第一編輯器是位置相反的。如果您希望回到第一編輯器，您可以<b>在編輯器向左或向右滑動</b>即可。</string>
@@ -800,7 +800,9 @@
   <string name="enableAiOnEditorContextMenu">在文字選單中啟用 AI+，當您沒有靈感時可以有個參考</string>
   <string name="enableAiOnEditorContextMenuSummary">在編輯器中長按可喚出文字選單，其中將包含 AI 續寫功能。\n注意，MIUI 13 之前的 MIUI 系統版本不支援自訂文字選單，因此 AI+ 按鈕將會出現在頂欄上。</string>
   <string name="openAiReadme">目前此功能使用的是由 OpenAI 提供的模型，<b>預設情況下它不會啟用</b>，只有當您開啟它並在下方填入 OpenAI API Key 它才能開始為您提供服務。\n\n由於 AI 服務並非純純寫作官方直接提供的服務，它的回應內容存在不可控性，您需要能夠自行對其進行甄別，純純寫作官方不對 AI 產生的內容和問題負責，如果您對此不同意，請停用 AI 功能，繼續使用則當作同意此協議。\n\n此外，部分國家可能無法存取 OpenAI，您需要自行解決此網路問題。</string>
+  <string name="pureAiReadme">由於 AI 服務並非由純純寫作直接提供，我們只是代理，其背後的服務同樣是 OpenAI，因此其響應內容具有不可預測性。您必須能夠自行辨別和評估。純純寫作對 AI 生成的內容和問題概不負責。\n\n如果您不同意，請禁用 AI 功能。如果您繼續使用，您將同意此協議和《免責宣告》：\n\n* 由於 AI 服務的高昂成本，我們目前僅為所有 Pro 使用者提供每天總共 2 萬到 5 萬次請求，先到先得。我們會根據情況調整此限制。\n* 我們將盡力為大家提供穩定的服務，但由於一些不可控制的因素，此服務可能隨時中止。\n\n謝謝您的理解！\n\n《免責宣告》\n\n　　1. 在使用純純寫作 AI 功能及 AI 相關服務（以下簡稱“本服務”）前，請您務必仔細閱讀並理解透徹本《免責宣告》（以下簡稱“本宣告”）。 請您知悉，如果您選擇繼續使用本服務，意味著您充分知悉並接受以下使用條件：\n　　2. 使用 AI 對話時，請確保您的對話文字未侵害他人權益，同時請勿輸入政治相關及違反法律法規的內容。\n　　3. 您確認並知悉目前體驗服務生成的所有內容都是由人工智慧模型生成，我們對其生成內容的準確性、完整性和功能性不做任何保證， 並且其生成的內容不代表我們的態度或觀點。我們的服務來自於法律法規允許的包括但不限於公開網路等訊息積累， 並已經過自動敏感資料過濾，但仍不排除其中部分訊息具有瑕疵、不合理或引發不快。遇有此情形的， 歡迎並感謝您隨時透過本平台使用者回饋入口檢舉。\n　　4. 在同意接受本宣告之前，具體的使用規範請嚴格按照下方《服務使用協議》的內容。此外，無論是否實際閱讀本宣告， 您實際使用本平台（“我方”）提供的 AI 服務，均表示您與我方已就本宣告達成一致並同意接受本宣告的全部約定內容。 如果您不同意本宣告的任意內容，或者無法準確理解我方對本宣告條款的解釋，請不要使用本服務。否則，表示您已接受了以下所述的條款和條件， 同意受本宣告約束。\n　　5. 我們尊重並保護所有使用本服務使用者的個人隱私，但此提醒使用者：您確認使用本服務時輸入的內容將不包含您的個人訊息。\n\n　　服務使用協議\n　　1. 您承諾，嚴格依照本宣告使用本服務，並且不會利用本服務進行任何違法或不當的活動，發布、傳送或分享含有下列內容之一的訊息：\n　　(1) 反對憲法所確定的基本原則的；\n　　(2) 危害國家安全，洩露國家秘密，顛覆國家政權，破壞國家統一的；\n　　(3) 損害國家榮譽和利益的；\n　　(4) 煽動民族仇恨、民族歧視、破壞民族團結的；\n　　(5) 破壞國家宗教政策，宣揚邪教和封建迷信的；\n　　(6) 散布謠言，擾亂社會秩序，破壞社會穩定的；\n　　(7) 散布淫穢、色情、賭博、暴力、兇殺、恐怖或者教唆犯罪的；\n　　(8) 侮辱或者誹謗他人，侵害他人合法權利的；\n　　(9) 含有虛假、詐騙、有害、脅迫、侵害他人隱私、騷擾、侵害、中傷、粗俗、猥褻、或其它道德上令人反感的內容；\n　　(10) 含有中國或其您所在國國家管轄法所適用的法律、法規、規章、條例以及任何具有法律效力之規範所限制或禁止的其它內容的。 您應當對使用本服務 是否符合法律法規規定進行必要審查，並由您承擔由此產生的所有責任。您確認並同意，我方不會因為本服務或您使用本服務違反上述約定，而需要承擔任何責任。\n　　2. 您使用本服務不得侵害他人權益（包括但不限於著作權、專利權、商標權等智慧財產權與其他權益）。\n　　3. 您同意並承諾，在使用本服務時，不會披露任何保密、敏感或個人訊息。\n　　4. 您應理解並同意，本服務尚存在不完備性，我方不對任何服務可用性、可靠性做出任何承諾。我方不對您使用本服務或本服務結果承擔任何責任，且本服務結果不代表我方立場。\n　　5. 我方有權因為業務發展或法律法規的變動而隨時對本服務的內容和/或提供方式進行變動，或者暫停或終止本服務。您同意我方將不對因上述情況導致的任何後果，向您或第三方承擔任何責任。\n　　6. 在任何情況下，我方均不就因本服務所發生的任何直接性、間接性、後果性、懲戒性、偶然性、特殊性的損害 (包括但不限於：您使用本服務而遭受的利潤損失)，承擔任何責任(即使您已事先被告知該等損害發生的可能性)。\n　　7. 若您違反本宣告任何約定，則我方有權隨時單方面終止本宣告，且我方無需承擔任何責任。\n　　8. 除雙方另有約定外，本宣告之解釋與適用，以及與本宣告有關的爭議，均依照中華人民共和國法律予以處理(不包含衝突法) ，並由我方所在地有管轄權的人民法院管轄。</string>
   <string name="aiProofread">AI 校對檢查</string>
+  <string name="aiComplete">AI+</string>
   <string name="aiEnabledSummary">此 AI 功能預設不會啟用，只有在您啟用它並明確觸發它時，它才會起作用。如果您不喜歡這個功能，您完全可以忽略它。這項服務由 OpenAI 提供，作為一個預先訓練好的語言模型，它沒有使用過您的文字進行訓練，同時，它也不會使用您的文字來對其進行訓練。</string>
   <string name="aiEntrySummary2">這是由 OpenAI 公司提供的已訓練好的語言模型，預設不啟用，請放心，<b>我們從未使用過您的文章進行訓練</b>，也不會並且無法使用您的文章進行訓練，因為您的文章從未儲存到純純寫作伺服器，您的文章只存在於您本機和您設定的雲端硬碟。</string>
   <string name="completelyDeleteAIFunctions">徹底刪除 AI 功能</string>
@@ -810,4 +812,16 @@
   <string name="extraConfiguration">額外設定</string>
   <string name="notNecessary">非必要</string>
   <string name="notNecessaryBelowLong">以下配置項都是非必要的，通常默認即可</string>
+  <string name="reportAI">檢舉 AI 內容</string>
+  <string name="thisRequiresPureWriterPro">需要純純寫作 Pro 會員，國內可直連，無需 Key</string>
+  <string name="noteForAiRequirePro">您開啟了純純寫作 AI 但沒有純純寫作 Pro 會員或已過期，無法使用純純寫作 AI，請在 AI 設置頁面關閉它或購買純純寫作 Pro 會員！</string>
+  <string name="pureAi429Message">今日所有使用者對於 AI 服務的使用次數總和已達到封頂次數，因此暫停服務了，請明日再試！給您帶來不便深表抱歉，我們會逐步放開此限制。</string>
+  <string name="pureAiService">純純寫作 AI 服務</string>
+  <string name="openAiService">OpenAI 服務</string>
+  <string name="openAiServiceSummary">免費，需自行提供 OpenAI API Key，此服務響應速度通常更快</string>
+  <string name="pleaseEnableOneOfFollowingAiServiceMethods">請選擇以下其中一個 AI 服務方式</string>
+  <string name="notice">重要公告</string>
+  <string name="saveAsSplitImage">儲存為短圖片，分割成 9 份 PNG</string>
+  <string name="notSupportForMD">此功能暫不支援 Markdown 內容，請在 TXT 模式下嘗試！</string>
+  <string name="tipForPreviewSelectedMode">您在打開這個畫面之前選擇了部分文字，所以當前僅顯示您選擇的文字內容。</string>
 </resources>
