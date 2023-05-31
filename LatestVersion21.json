@@ -2,10 +2,10 @@
   "code": 1220208000,
   "name": "22.8.6",
   "changelog": {
-    "zh": "* 加快 云同步速度并避免阿里云盘 429 错误\n* 支持 AI & ChatGPT，默认不启用，您需在纯纯写作设置页面配置相关的 key 才可生效\n注意：**此 ChatGPT 功能默认不会启用**，只有在您启用它并**明确触发**它时，它才会起作用，作为一个预先训练好的模型，**它没有使用过也不会使用您的文本来对其进行训练**。\n* 支持「阿里云盘」和 OneDrive 云同步、云备份\n点击此通知即可打开下载页面。",
-    "zh-HK": "* 加快 雲同步速度並避免阿里雲盤 429 錯誤\n* 支持 AI & ChatGPT，默認不啟用，您需在純純寫作設置頁面配置相關的 key 才可生效\n注意：**此 ChatGPT 功能默認不會啟用**，只有在您啟用它並**明確觸發**它時，它才會起作用，作為一個預先訓練好的模型，**它沒有使用過也不會使用您的文本來對其進行訓練**\n點此通知打開下載頁面，或您可自行訪問 https://t.me/PureWriter 獲得下載。",
-    "zh-TW": "* 加快 雲同步速度並避免阿里雲盤 429 錯誤\n* 支持 AI & ChatGPT，默認不啟用，您需在純純寫作設置頁面配置相關的 key 才可生效\n注意：**此 ChatGPT 功能默認不會啟用**，只有在您啟用它並**明確觸發**它時，它才會起作用，作為一個預先訓練好的模型，**它沒有使用過也不會使用您的文本來對其進行訓練**\n點此通知打開下載頁面，或您可自行訪問 https://t.me/PureWriter 獲得下載。",
-    "default": "* Speed up Cloud Sync\n* Support AI & ChatGPT\n* Support OneDrive Cloud Sync\nClick this to open download page, or you can download it at https://t.me/PureWriter"
+    "zh": "* 加快 云同步速度并避免阿里云盘 429 错误\n* 支持 AI，默认不启用，您需在纯纯写作设置页面配置相关的 key 才可生效\n注意：**此功能默认不会启用**，只有在您启用它并**明确触发**它时，它才会起作用，作为一个预先训练好的模型，**它没有使用过也不会使用您的文本来对其进行训练**。\n* 支持「阿里云盘」和 OneDrive 云同步、云备份\n点击此通知即可打开下载页面。",
+    "zh-HK": "* 加快 雲同步速度並避免阿里雲盤 429 錯誤\n* 支持 AI，默認不啟用，您需在純純寫作設置頁面配置相關的 key 才可生效\n注意：**此功能默認不會啟用**，只有在您啟用它並**明確觸發**它時，它才會起作用，作為一個預先訓練好的模型，**它沒有使用過也不會使用您的文本來對其進行訓練**\n點此通知打開下載頁面，或您可自行訪問 https://t.me/PureWriter 獲得下載。",
+    "zh-TW": "* 加快 雲同步速度並避免阿里雲盤 429 錯誤\n* 支持 AI，默認不啟用，您需在純純寫作設置頁面配置相關的 key 才可生效\n注意：**此功能默認不會啟用**，只有在您啟用它並**明確觸發**它時，它才會起作用，作為一個預先訓練好的模型，**它沒有使用過也不會使用您的文本來對其進行訓練**\n點此通知打開下載頁面，或您可自行訪問 https://t.me/PureWriter 獲得下載。",
+    "default": "* Speed up Cloud Sync\n* Support AI\n* Support OneDrive Cloud Sync\nClick this to open download page, or you can download it at https://t.me/PureWriter"
   },
   "url": "https://play.google.com/store/apps/details?id=com.drakeet.purewriter"
 }
