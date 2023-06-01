@@ -846,7 +846,7 @@
   <string name="oneDrivePersonal">OneDrive - Personal</string>
   <string name="clickHereToSelectAnotherCloudStorageType">Click here to select another cloud storage type</string>
   <string name="searchWritingCache">Search in cache?</string>
-  <string name="aiSettings">AI, ChatGPT Settings</string>
+  <string name="aiSettings">AI Settings</string>
   <string name="aiEntrySummary">Article completion, refinement, polishing and ChatGPT</string>
   <string name="required">Required</string>
   <string name="openAiKeyGuideSummary">Open OpenAI API Key generation and management page</string>
@@ -878,4 +878,5 @@
   <string name="saveAsSplitImage">Split and store into 9 separate short images (.png)</string>
   <string name="notSupportForMD">This feature does not currently support Markdown content, please try in TXT mode!</string>
   <string name="tipForPreviewSelectedMode">You selected some text before opening this screen, so only the text you selected is currently displayed.</string>
+  <string name="resend">Resend</string>
 </resources>
