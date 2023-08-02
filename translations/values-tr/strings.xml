@@ -39,7 +39,6 @@
   <string name="tipPermissionFailed">İzin verilmedi. Geçmiş kaydedilemez.</string>
   <string name="titleStorePermissionFailed">Depolama izni reddedildi</string>
   <string name="tipMessageStoragePermissionFirst">Lütfen depolamanıza erişim izni verin. Pure Writer sadece dosyalarınızı otomatik yedeklemek için kullanacak ve kaybetmenizi önlemek için!</string>
-  <string name="tipMessageStoragePermissionFirstMIUI" translatable="false">Dosyalarınızı otomatik olarak yedeklemek için dosya depolama iznine ihtiyacımız var, bu nedenle izin verin lütfen. \n\nBu izin talebini reddedebilirsiniz, ancak bu, Pure Writer\'ın otomatik yedekleme yapamayacağı anlamına gelir, lütfen bilginiz olsun! \n\nBu izin talebini reddedebilirsiniz, ancak bu, Pure Writer\'ın otomatik yedekleme yapamayacağı anlamına gelir, lütfen bilginiz olsun! \n\nBu izin talebini reddedebilirsiniz, ancak bu, Pure Writer\'ın otomatik yedekleme yapamayacağı anlamına gelir, lütfen bilginiz olsun! \n\nOtomatik yedekleme yapılamaması durumunda, Pure Writer\'ı kaldırırsanız, tüm içerik silinecek ve her şeyi kaybedeceksiniz.</string>
   <string name="tipMessageStoragePermissionToSettings">Dosyalarınızı otomatik yedeklemek için depolamanıza erişim gerekiyor. Lütfen cihazınızın Ayarlar bölümünde manuel olarak erişimi verin!</string>
   <string name="actionOkGoSettings">Ayarlar\'a git</string>
   <string name="tipFingerAuthRetry">Parmak izi tanınmadı. %d deneme hakkınız kaldı.</string>
@@ -95,6 +94,7 @@
   <string name="titleOpenImportedFile">Harici bir dosya açtığınız tespit edildi, lütfen bir eylem seçin</string>
   <string name="copied">Kopyalandı</string>
   <string name="sort">Sıralama türü</string>
+  <string name="sortTypeTitleLong">Sıralama tipi \nyalnızca geçerli liste için geçerlidir (kitap)</string>
   <string name="sortTypeModifiedTimeDown">Değiştirilme Zamanı (Azalan)</string>
   <string name="sortTypeCreatedTimeDown">Oluşturma Zamanı (Azalan)</string>
   <string name="sortTypeModifiedTimeUp">Değiştirilme Zamanı (Artan)</string>
@@ -320,8 +320,8 @@
   <string name="lineSpacing">Satır aralığı</string>
   <string name="paragraphSpacing">Paragraf aralığı</string>
   <string name="defaultX">Varsayılan</string>
-  <string name="zoomIn">Yakınlaştır</string>
-  <string name="zoomOut">Uzaklaştır</string>
+  <string name="zoomIn">Ayrıntılı liste modu</string>
+  <string name="zoomOut">Basitleştirilmiş liste modu</string>
   <string name="switchingBooksTooltip">İpucu: Üstteki kitap başlığına tıklamak, Kitapları değiştirmenizi sağlar.</string>
   <string name="scrollToTheCurrentArticle">Geçerli makaleye kaydır</string>
   <string name="allBooks">Tüm Kitaplar</string>
@@ -792,4 +792,7 @@
   <string name="pleaseEnableOneOfFollowingAiServiceMethods">Lütfen aşağıdaki AI hizmetlerinden birini etkinleştirin</string>
   <string name="saveAsSplitImage">9 ayrı kısa resime böle ve sakla (.png)</string>
   <string name="notSupportForMD">Bu özellik şu anda Markdown içeriğini desteklememektedir, lütfen TXT modunda deneyin!</string>
+  <string name="multipleShortcutBarManagement">Çoklu Hat Kısayol Çubuğu yönetimi</string>
+  <string name="hintForShortcutManagement">* Aşağıdaki kısayol öğesine uzun basarak düzenleyin veya silin. Ayrıca, farklı Kısayol Çubukları arasında sıralamak için sürükleyebilirsiniz.\n* Düzenleyicide kullanılabilir hale getirmek için Kısayol Çubuğunu kontrol edin. İlk çubuk varsayılandır ve devre dışı bırakılamaz.\n* Tüm Kısayol Çubuklarına ihtiyacınız yoksa, Ayarlar ekranında tüm işlevi devre dışı bırakabilirsiniz.</string>
+  <string name="tipResetMultiShortcutBars">Pure Writer Pro\'nuz olmadığı için, çoklu satır Kısayol Çubuğu otomatik olarak sıfırlandı.</string>
 </resources>

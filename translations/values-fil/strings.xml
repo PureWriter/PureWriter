@@ -64,6 +64,7 @@
   <string name="autoLock">Auto-lock</string>
   <string name="titleOpenImportedFile">Nalaman na nagbukas ka ng external na file, mangyaring pumili ng aksyon</string>
   <string name="sort">Uri ng sort</string>
+  <string name="sortTypeTitleLong">Uri ng Pagkakasunud-sunod \nnaaangkop lamang sa kasalukuyang listahan (aklat)</string>
   <string name="sortTypeModifiedTimeDown">Binago ang oras</string>
   <string name="sortTypeCreatedTimeDown">Oras na nilikha</string>
   <string name="warningSavedFailed">Nabigo ang pag-save ng artikulo. Mangyaring kopyahin ang iyong nilalaman at subukang i-restart ang app upang tingnan kung may anumang nilalaman ang nawala.</string>
@@ -523,8 +524,8 @@
   <string name="doNotOverwrite">Huwag i-overwrite</string>
   <string name="defaultDark">Default na madilim</string>
   <string name="defaultX">Default</string>
-  <string name="zoomIn">Palakihin</string>
-  <string name="zoomOut">Mag-zoom out</string>
+  <string name="zoomIn">Detalyadong mode ng listahan</string>
+  <string name="zoomOut">Pinasimpleng mode ng listahan</string>
   <string name="restoreByThisBackupWithAppName">Pure Writer: Ibalik sa pamamagitan ng backup na ito</string>
   <string name="backupSettingTitle">Backup at Cloud synchronization</string>
   <string name="connect">Connect</string>
@@ -757,4 +758,8 @@
   <string name="pleaseEnableOneOfFollowingAiServiceMethods">Mangyaring paganahin ang isa sa sumusunod na AI services</string>
   <string name="saveAsSplitImage">Hatihati at i-imbak sa 9 hiwalay na maikling larawan (.png)</string>
   <string name="notSupportForMD">Ang tampok na ito ay hindi kasalukuyang sumusuporta sa nilalaman ng Markdown, subukan sa mode ng TXT!</string>
+  <string name="multipleShortcutBarManagement">Pamamahala ng Multi-line Shortcut Bar</string>
+  <string name="hintForShortcutManagement">* Mahabang pindutin ang shortcut item sa ibaba upang i-edit o tanggalin ito. Maari mo rin itong i-drag para i-sort ito sa iba\'t ibang Shortcut Bars.\n* Suriin ang Shortcut Bar upang paganahin ito sa editor. Ang unang bar ay default at hindi maaring i-disable.\n* Kung hindi mo kailangan ang lahat ng Shortcut Bars, maari mong i-disable ang buong function sa Settings screen.</string>
+  <string name="tipResetMultiShortcutBars">Dahil wala kang Pure Writer Pro, ang multi-line Shortcut Bar ay awtomatikong na-reset.</string>
+
 </resources>

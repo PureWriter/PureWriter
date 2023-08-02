@@ -64,6 +64,7 @@
   <string name="autoLock">Blocare automată</string>
   <string name="titleOpenImportedFile">Am constatat că ați deschis un fișier extern, vă rugăm să selectați o acțiune</string>
   <string name="sort">Tip de sortare</string>
+  <string name="sortTypeTitleLong">Tipul de sortare \nse aplică doar la lista curentă (carte)</string>
   <string name="sortTypeModifiedTimeDown">Timp modificat</string>
   <string name="sortTypeCreatedTimeDown">Time created</string>
   <string name="warningSavedFailed">Salvarea articolului a eșuat. Vă rugăm să copiați conținutul și să încercați să reporniți aplicația pentru a verifica dacă s-a pierdut vreun conținut.</string>
@@ -510,8 +511,8 @@
   <string name="doNotOverwrite">Nu suprascrieți</string>
   <string name="defaultDark">Întunecat implicit</string>
   <string name="defaultX">Implicit</string>
-  <string name="zoomIn">Măriți</string>
-  <string name="zoomOut">Mărire</string>
+  <string name="zoomIn">Mod de listă detaliată</string>
+  <string name="zoomOut">Mod de listă simplificată</string>
   <string name="restoreByThisBackupWithAppName">Pure Writer: restaurați prin această copie de rezervă</string>
   <string name="backupSettingTitle">Backup și sincronizare în cloud</string>
   <string name="connect">Conectați</string>
@@ -743,4 +744,8 @@
   <string name="pleaseEnableOneOfFollowingAiServiceMethods">Vă rugăm să activați unul dintre următoarele servicii AI</string>
   <string name="saveAsSplitImage">Împărțește și stochează în 9 imagini scurte separate (.png)</string>
   <string name="notSupportForMD">Această funcție nu suportă în prezent conținutul Markdown, încercați în modul TXT!</string>
+  <string name="multipleShortcutBarManagement">Gestionarea barei de comenzi rapide multi-linie</string>
+  <string name="hintForShortcutManagement">* Apăsați lung pe elementul de comandă rapidă de mai jos pentru a-l edita sau șterge. De asemenea, îl puteți trage pentru a-l sorta în diferite bare de comenzi rapide.\n* Verificați bara de comenzi rapide pentru a o activa în editor. Prima bară este cea implicită și nu poate fi dezactivată.\n* Dacă nu aveți nevoie de toate barele de comenzi rapide, puteți dezactiva întreaga funcție pe ecranul Setări.</string>
+  <string name="tipResetMultiShortcutBars">Deoarece nu aveți Pure Writer Pro, bara de comenzi rapide multi-linie a fost resetată automat.</string>
+
 </resources>

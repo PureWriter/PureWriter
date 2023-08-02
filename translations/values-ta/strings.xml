@@ -88,6 +88,7 @@
   <string name="titleOpenImportedFile">நீங்கள் வெளிப்புறக் கோப்பைத் திறந்திருப்பது கண்டறியப்பட்டது, தயவுசெய்து ஒரு செயலைத் தேர்க்கவும்</string>
   <string name="copied">நகலப்பட்டது</string>
   <string name="sort">வகை</string>
+  <string name="sortTypeTitleLong">வகைப்படுத்தும் வகை \nதற்போதைய பட்டியலுக்கு மட்டுமே பொருந்துகிறது (புத்தகம்)</string>
   <string name="sortTypeModifiedTimeDown">நேரம் மாற்றப்பட்டது (இறங்கும்)</string>
   <string name="sortTypeCreatedTimeDown">உருவாக்கப்பட்ட நேரம் (இறங்கும்)</string>
   <string name="sortTypeModifiedTimeUp">நேரம் மாற்றப்பட்டது (ஏறும்)</string>
@@ -303,8 +304,8 @@
   <string name="lineSpacing">வரி இடைவெளி</string>
   <string name="paragraphSpacing">பத்தி இடைவெளி</string>
   <string name="defaultX">முவழு</string>
-  <string name="zoomIn">உட்சட்டு</string>
-  <string name="zoomOut">வெளிச்சட்டு</string>
+  <string name="zoomIn">விரிவான பட்டியல் முறை</string>
+  <string name="zoomOut">எளிமையான பட்டியல் முறை</string>
   <string name="switchingBooksTooltip">கொசுறு: மேலே உள்ள புத்தகத்தின் தலைப்பைக் சொடுக்குவதன் மூலம் புத்தகங்களை திடுக்கலாம்</string>
   <string name="scrollToTheCurrentArticle">தற்போதைய கட்டுரைக்கு சுருட்டவும்</string>
   <string name="allBooks">அனைத்து புத்தகங்களும்</string>
@@ -774,5 +775,8 @@
   <string name="pleaseEnableOneOfFollowingAiServiceMethods">பின்வரும் ஐஏ சேவைகளில் ஒன்றை செயல்படுத்தவும்</string>
   <string name="saveAsSplitImage">9 தனித்த குறுகிய படங்களுக்கு பிரித்து சேமிக்கவும் (.png)</string>
   <string name="notSupportForMD">இந்த அம்சம் தற்போது Markdown உள்ளடக்கத்தை ஆதரிக்கவில்லை, TXT முறையில் முயற்சிக்கவும்!</string>
+  <string name="multipleShortcutBarManagement">பல வரிச்செலவு பட்டியின் மேலாண்மை</string>
+  <string name="hintForShortcutManagement">* கீழே உள்ள குறுக்குவழி உருப்படியை தொகுக்க அல்லது அழிக்க நீண்ட அழுத்தவும். இதை வெவ்வேறு குறுக்குவழி பட்டிகளில் வரிசைப்படுத்துவதற்கு நீங்கள் இழுக்க முடியும்.\n* தொகுப்பியில் இயக்க குறுக்குவழி பட்டியை சரி பார்க்கவும். முதன்முதல் பட்டி இயல்தூண்டுவதன்றி முடியாது.\n* அனைத்து குறுக்குவழி பட்டிகளும் தேவைப்படாது என்றால், அமைப்புகள் திரையில் முழு செயல்பாட்டை முடக்க முடியும்.</string>
+  <string name="tipResetMultiShortcutBars">உங்களுக்கு Pure Writer Pro இல்லை, ஆகவே பல வரிச்செலவு பட்டி தானாக மீட்டமைக்கப்பட்டுள்ளது.</string>
 </resources>
 

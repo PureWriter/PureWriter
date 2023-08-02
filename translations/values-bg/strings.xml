@@ -90,6 +90,7 @@
   <string name="titleOpenImportedFile">Установено е, че сте отворили външен файл, моля, изберете действие</string>
   <string name="copied">Копирано</string>
   <string name="sort">Тип на сортиране</string>
+  <string name="sortTypeTitleLong">Вид сортиране \nсе прилага само към текущия списък (книга)</string>
   <string name="sortTypeModifiedTimeDown">Променено време</string>
   <string name="sortTypeCreatedTimeDown">Създадено време</string>
   <string name="warningSavedFailed">Записването на статията е неуспешно. Моля, копирайте съдържанието си и опитайте да рестартирате приложението, за да проверите дали не е изгубено съдържанието.</string>
@@ -290,8 +291,8 @@
   <string name="lineSpacing">Разстояние между редовете</string>
   <string name="paragraphSpacing">Разстояние между параграфите</string>
   <string name="defaultX">По подразбиране</string>
-  <string name="zoomIn">Увеличавам</string>
-  <string name="zoomOut">Отдалечавам</string>
+  <string name="zoomIn">Детайлен режим на списъка</string>
+  <string name="zoomOut">Опростен режим на списъка</string>
   <string name="switchingBooksTooltip">Съвет: Кликнете върху заглавието на книгата в горната част, за да превключите Books</string>
   <string name="scrollToTheCurrentArticle">Превъртете към текущата статия</string>
   <string name="allBooks">Всички книги</string>
@@ -752,4 +753,7 @@
   <string name="pleaseEnableOneOfFollowingAiServiceMethods">Моля, активирайте една от следните услуги за изкуствен интелект</string>
   <string name="saveAsSplitImage">Разделяне и съхранение в 9 отделни кратки изображения (.png)</string>
   <string name="notSupportForMD">Тази функция в момента не поддържа съдържание на Markdown, моля, опитайте в режим TXT!</string>
+  <string name="multipleShortcutBarManagement">Управление на многоредовата лента за бърз достъп</string>
+  <string name="hintForShortcutManagement">* Дълго натиснете елемента за бърз достъп по-долу, за да го редактирате или изтриете. Също така можете да го плъзнете, за да го подредите в различните ленти за бърз достъп.\n* Проверете лентата за бърз достъп, за да я активирате в редактора. Първата лента е по подразбиране и не може да бъде деактивирана.\n* Ако не ви трябват всички ленти за бърз достъп, можете да деактивирате цялата функция в екрана с настройки.</string>
+  <string name="tipResetMultiShortcutBars">Тъй като нямате Pure Writer Pro, многоредовата лента за бърз достъп е била автоматично възстановена.</string>
 </resources>

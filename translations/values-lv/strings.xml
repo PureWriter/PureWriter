@@ -65,6 +65,7 @@
   <string name="autoLock">Automātiskā bloķēšana</string>
   <string name="titleOpenImportedFile">Atklāj, ka atvērts ārējs fails, lūdzu, izvēlieties darbību</string>
   <string name="sort">Sortēšanas veids</string>
+  <string name="sortTypeTitleLong">Kārtošanas veids \nattiecas tikai uz pašreizējo sarakstu (grāmata)</string>
   <string name="sortTypeModifiedTimeDown">Izmaiņas laiks</string>
   <string name="sortTypeCreatedTimeDown">Izveidošanas laiks</string>
   <string name="warningSavedFailed">Darba saglabāšana neizdevās. Lūdzu, nokopējiet saturu un mēģiniet no jauna palaist lietotni, lai pārbaudītu, vai saturs nav zaudēts.</string>
@@ -514,8 +515,8 @@
   <string name="doNotOverwrite">Nepārrakstīt</string>
   <string name="defaultDark">Noklusējuma tumšais</string>
   <string name="defaultX">Noklusējums</string>
-  <string name="zoomIn">Tuvināt</string>
-  <string name="zoomOut">Tālināt</string>
+  <string name="zoomIn">Detālais saraksta režīms</string>
+  <string name="zoomOut">Vienkāršots saraksta režīms</string>
   <string name="restoreByThisBackupWithAppName">Pure Writer: atjaunot, izmantojot šo dublējumu</string>
   <string name="backupSettingTitle">Dublēšana un mākoņa sinhronizācija</string>
   <string name="connect">Izveidot savienojumu</string>
@@ -748,4 +749,8 @@
   <string name="pleaseEnableOneOfFollowingAiServiceMethods">Lūdzu, iespējojiet vienu no šiem AI pakalpojumiem</string>
   <string name="saveAsSplitImage">Sadaliet un saglabājiet 9 atsevišķos īsos attēlos (.png)</string>
   <string name="notSupportForMD">Šī funkcija pašlaik neatbalsta Markdown saturu, lūdzu, mēģiniet TXT režīmā!</string>
+  <string name="multipleShortcutBarManagement">Daudzrindu saīsnu joslas pārvaldība</string>
+  <string name="hintForShortcutManagement">* Ilgstoši nospiediet uz saīsnes vienības zemāk, lai to rediģētu vai dzēstu. Jūs to varat arī pārvietot, lai kārtotu to starp dažādām saīsnu joslām.\n* Atzīmējiet saīsnu joslu, lai to iespējotu redaktorā. Pirmā josla ir noklusējuma un to nevar atspējot.\n* Ja jums nav nepieciešamas visas saīsnu joslas, jūs varat atspējot visu funkciju Iestatījumu ekrānā.</string>
+  <string name="tipResetMultiShortcutBars">Tā kā jums nav Pure Writer Pro, daudzrindu saīsnu josla ir automātiski atiestatīta.</string>
+
 </resources>

@@ -88,6 +88,7 @@
   <string name="titleOpenImportedFile">Nhận thấy rằng bạn đã mở một tệp bên ngoài, vui lòng chọn một hành động</string>
   <string name="copied">Đã sao chép</string>
   <string name="sort">Loại sắp xếp</string>
+  <string name="sortTypeTitleLong">Kiểu sắp xếp \nchỉ áp dụng cho danh sách hiện tại (sách)</string>
   <string name="sortTypeModifiedTimeDown">Thời gian được sửa đổi (Giảm dần)</string>
   <string name="sortTypeCreatedTimeDown">Thời gian tạo (Giảm dần)</string>
   <string name="sortTypeModifiedTimeUp">Thời gian được sửa đổi (Tăng dần)</string>
@@ -298,8 +299,8 @@
   <string name="lineSpacing">Giãn cách dòng</string>
   <string name="paragraphSpacing">Giãn cách đoạn</string>
   <string name="defaultX">Mặc định</string>
-  <string name="zoomIn">Phóng to</string>
-  <string name="zoomOut">Thu nhỏ</string>
+  <string name="zoomIn">Chế độ danh sách chi tiết</string>
+  <string name="zoomOut">Chế độ danh sách đơn giản</string>
   <string name="switchingBooksTooltip">Mẹo: Nhấp vào tên sách ở trên cùng sẽ có thể chuyển Sách</string>
   <string name="scrollToTheCurrentArticle">Cuộn tới bài viết hiện tại</string>
   <string name="allBooks">Tất cả sách</string>
@@ -769,4 +770,7 @@
   <string name="pleaseEnableOneOfFollowingAiServiceMethods">Vui lòng kích hoạt một trong các dịch vụ AI sau</string>
   <string name="saveAsSplitImage">Chia và lưu thành 9 hình ảnh ngắn riêng biệt (.png)</string>
   <string name="notSupportForMD">Tính năng này hiện không hỗ trợ nội dung Markdown, hãy thử trong chế độ TXT!</string>
+  <string name="multipleShortcutBarManagement">Quản lý thanh lệnh tắt đa dòng</string>
+  <string name="hintForShortcutManagement">* Nhấn giữ vào mục lệnh tắt bên dưới để chỉnh sửa hoặc xóa nó. Bạn cũng có thể kéo nó để sắp xếp nó trên các thanh lệnh tắt khác nhau.\n* Kiểm tra thanh lệnh tắt để kích hoạt nó trong trình soạn thảo. Thanh đầu tiên là mặc định và không thể bị vô hiệu hóa.\n* Nếu bạn không cần tất cả các thanh lệnh tắt, bạn có thể vô hiệu hóa toàn bộ chức năng trên màn hình cài đặt.</string>
+  <string name="tipResetMultiShortcutBars">Do bạn không có Pure Writer Pro, thanh lệnh tắt đa dòng đã được đặt lại tự động.</string>
 </resources>

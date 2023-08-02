@@ -87,6 +87,7 @@
   <string name="titleOpenImportedFile">Toteutui, että avasit ulkoisen tiedoston, valitse toiminto</string>
   <string name="copied">Copied</string>
   <string name="sort">Lajittelutyyppi</string>
+  <string name="sortTypeTitleLong">Lajittelutyyppi \nkoskee vain nykyistä luetteloa (kirja)</string>
   <string name="sortTypeModifiedTimeDown">Muutettu aika</string>
   <string name="sortTypeCreatedTimeDown">Aika luotu</string>
   <string name="warningSavedFailed">Artikkelin tallennus epäonnistui. Kopioi sisältösi ja yritä käynnistää sovellus uudelleen tarkistaaksesi, onko sisältöä menetetty.</string>
@@ -297,8 +298,8 @@
   <string name="lineSpacing">Riviväli</string>
   <string name="paragraphSpacing">Kappaleen väli</string>
   <string name="defaultX">Oletus</string>
-  <string name="zoomIn">Lähennä</string>
-  <string name="zoomOut">Loitontaa</string>
+  <string name="zoomIn">Yksityiskohtainen luettelonäkymä</string>
+  <string name="zoomOut">Yksinkertaistettu luettelonäkymä</string>
   <string name="switchingBooksTooltip">Vihje: Klikkaamalla kirjan otsikkoa ylhäällä voit vaihtaa kirjoja</string>
   <string name="scrollToTheCurrentArticle">Rullaa nykyiseen artikkeliin</string>
   <string name="allBooks">Kaikki kirjat</string>
@@ -757,4 +758,8 @@
   <string name="pleaseEnableOneOfFollowingAiServiceMethods">Ota käyttöön jokin seuraavista AI-palveluista</string>
   <string name="saveAsSplitImage">Jaa ja tallenna 9 erilliseen lyhyeen kuvaan (.png)</string>
   <string name="notSupportForMD">Tämä ominaisuus ei tällä hetkellä tue Markdown-sisältöä, kokeile TXT-tilassa!</string>
+  <string name="multipleShortcutBarManagement">Monirivisen pikavalintapalkin hallinta</string>
+  <string name="hintForShortcutManagement">* Pitkä painallus pikavalintaesineeseen alla muokkaa tai poistaa sen. Voit myös vetää sitä lajitellaksesi sen eri pikavalintapalkeissa.\n* Tarkista pikavalintapalkki ottaaksesi sen käyttöön editorissa. Ensimmäinen palkki on oletus ja sitä ei voi poistaa käytöstä.\n* Jos et tarvitse kaikkia pikavalintapalkkeja, voit poistaa koko toiminnon käytöstä Asetukset-näytössä.</string>
+  <string name="tipResetMultiShortcutBars">Koska sinulla ei ole Pure Writer Pro:ta, monirivinen pikavalintapalkki on palautettu automaattisesti.</string>
+
 </resources>

@@ -88,6 +88,7 @@
   <string name="titleOpenImportedFile">Sie haben eine externe Datei geöffnet haben, wählen Sie bitte eine Aktion aus</string>
   <string name="copied">Kopiert</string>
   <string name="sort">Sortierung</string>
+  <string name="sortTypeTitleLong">Sortiertyp \ngilt nur für aktuelle Liste (Buch)</string>
   <string name="sortTypeModifiedTimeDown">Zeit geändert</string>
   <string name="sortTypeCreatedTimeDown">Zeit erstellt</string>
   <string name="warningSavedFailed">Artikel speichern fehlgeschlagen. Bitte kopieren Sie Ihre Inhalte und versuchen Sie, die App neu zu starten, um zu prüfen, ob Inhalte verloren gingen.</string>
@@ -289,8 +290,8 @@
   <string name="lineSpacing">Zeilenabstand</string>
   <string name="tipParagraphSpacingInMD">Der Absatzabstand wird im Markdown-Modus nicht aktiviert</string>
   <string name="defaultX">Standard</string>
-  <string name="zoomIn">Heranzoomen</string>
-  <string name="zoomOut">Herauszoomen</string>
+  <string name="zoomIn">Detaillierte Listenansicht</string>
+  <string name="zoomOut">Vereinfachte Listenansicht</string>
   <string name="switchingBooksTooltip">Tipp: Wenn Sie oben auf den Buchtitel klicken, können Sie zwischen Büchern wechseln</string>
   <string name="scrollToTheCurrentArticle">Zum aktuellen Artikel blättern</string>
   <string name="allBooks">Alle Bücher</string>
@@ -715,4 +716,8 @@
   <string name="pleaseEnableOneOfFollowingAiServiceMethods">Bitte aktivieren Sie einen der folgenden KI-Dienste</string>
   <string name="saveAsSplitImage">Aufteilen und in 9 separate kurze Bilder speichern (.png)</string>
   <string name="notSupportForMD">Diese Funktion unterstützt derzeit keine Markdown-Inhalte, bitte versuchen Sie es im TXT-Modus!</string>
+  <string name="multipleShortcutBarManagement">Verwaltung der mehrzeiligen Shortcut-Leiste</string>
+  <string name="hintForShortcutManagement">* Halten Sie das untenstehende Shortcut-Element lange gedrückt, um es zu bearbeiten oder zu löschen. Sie können es auch ziehen, um es in verschiedenen Shortcut-Leisten zu sortieren.\n* Prüfen Sie die Shortcut-Leiste, um sie im Editor zu aktivieren. Die erste Leiste ist die Standardleiste und kann nicht deaktiviert werden.\n* Wenn Sie nicht alle Shortcut-Leisten benötigen, können Sie die gesamte Funktion auf dem Einstellungsbildschirm deaktivieren.</string>
+  <string name="tipResetMultiShortcutBars">Da Sie kein Pure Writer Pro haben, wurde die mehrzeilige Shortcut-Leiste automatisch zurückgesetzt.</string>
+
 </resources>

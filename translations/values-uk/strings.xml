@@ -64,6 +64,7 @@
   <string name="autoLock">Автоблокування</string>
   <string name="titleOpenImportedFile">Встановлено, що ви відкрили зовнішній файл, будь ласка, виберіть дію</string>
   <string name="sort">Тип сортування</string>
+  <string name="sortTypeTitleLong">Тип сортування \nзастосовується лише до поточного списку (книга)</string>
   <string name="sortTypeModifiedTimeDown">Час зміни</string>
   <string name="sortTypeCreatedTimeDown">Час створення</string>
   <string name="warningSavedFailed">Не вдалося зберегти статтю. Скопіюйте свій вміст і спробуйте перезапустити програму, щоб перевірити, чи не втрачено будь-який вміст.</string>
@@ -520,8 +521,8 @@
   <string name="doNotOverwrite">Не перезаписувати</string>
   <string name="defaultDark">Темний за замовчуванням</string>
   <string name="defaultX">За замовчуванням</string>
-  <string name="zoomIn">Збільшити</string>
-  <string name="zoomOut">Зменшити</string>
+  <string name="zoomIn">Детальний режим списку</string>
+  <string name="zoomOut">Спрощений режим списку</string>
   <string name="restoreByThisBackupWithAppName">Pure Writer: відновлення за допомогою цієї резервної копії</string>
   <string name="backupSettingTitle">Резервне копіювання та синхронізація з хмарою</string>
   <string name="connect">Підключитися</string>
@@ -756,4 +757,7 @@
   <string name="pleaseEnableOneOfFollowingAiServiceMethods">Будь ласка, увімкніть одну з наступних AI-служб</string>
   <string name="saveAsSplitImage">Розділіть і збережіть в 9 окремих коротких зображеннях (.png)</string>
   <string name="notSupportForMD">Ця функція наразі не підтримує вміст Markdown, спробуйте в режимі TXT!</string>
+  <string name="multipleShortcutBarManagement">Управління багаторядковою панеллю швидких команд</string>
+  <string name="hintForShortcutManagement">* Натисніть та утримуйте елемент швидкого вибору нижче, щоб відредагувати або видалити його. Ви також можете перетягнути його, щоб впорядкувати його на різних панелях швидкого вибору.\n* Перевірте панель швидких команд, щоб увімкнути її в редакторі. Перша панель є стандартною та не може бути відключена.\n* Якщо вам не потрібні всі панелі швидкого вибору, ви можете відключити всю функцію на екрані налаштувань.</string>
+  <string name="tipResetMultiShortcutBars">Оскільки у вас немає Pure Writer Pro, багаторядкова панель швидких команд була автоматично скинута.</string>
 </resources>

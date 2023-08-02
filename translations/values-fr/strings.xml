@@ -99,6 +99,7 @@
   <string name="titleOpenImportedFile">Si vous avez ouvert un fichier externe, sélectionnez une action</string>
   <string name="copied">Copié</string>
   <string name="sort">Trier par</string>
+  <string name="sortTypeTitleLong">Type de tri \nne s\'applique qu\'à la liste actuelle (livre)</string>
   <string name="sortTypeModifiedTimeDown">Date de mise à jour</string>
   <string name="sortTypeCreatedTimeDown">Date de création</string>
   <string name="warningSavedFailed">Sauvegarde de l\'article échouée. Copiez le contenu que vous avez tenté d\'enregistrer et redémarrez l\'app afin de voir si du contenu a été perdu.</string>
@@ -312,8 +313,8 @@
   <string name="lineSpacing">Espacement Lignes</string>
   <string name="paragraphSpacing">Espacement Paragraphes</string>
   <string name="defaultX">Défaut</string>
-  <string name="zoomIn">Agrandir</string>
-  <string name="zoomOut">Réduire</string>
+  <string name="zoomIn">Mode liste détaillé</string>
+  <string name="zoomOut">Mode liste simplifié</string>
   <string name="switchingBooksTooltip">Astuce: en cliquant sur le titre du livre en haut, vous pourrez changer de livre</string>
   <string name="scrollToTheCurrentArticle">Descendre jusqu\'à l\'article actif</string>
   <string name="allBooks">Tous les livres</string>
@@ -751,4 +752,8 @@
   <string name="pleaseEnableOneOfFollowingAiServiceMethods">Veuillez activer l\'un des services AI suivants</string>
   <string name="saveAsSplitImage">Divisez et enregistrez en 9 images courtes séparées (.png)</string>
   <string name="notSupportForMD">Cette fonctionnalité ne prend pas en charge le contenu de Markdown pour le moment, veuillez essayer en mode TXT!</string>
+  <string name="multipleShortcutBarManagement">Gestion de la barre de raccourcis multi-lignes</string>
+  <string name="hintForShortcutManagement">* Appuyez longuement sur l\'élément de raccourci ci-dessous pour l\'éditer ou le supprimer. Vous pouvez également le faire glisser pour le trier à travers différentes barres de raccourcis.\n* Cochez la barre de raccourcis pour l\'activer dans l\'éditeur. La première barre est celle par défaut et ne peut être désactivée.\n* Si vous n\'avez pas besoin de toutes les barres de raccourcis, vous pouvez désactiver toute la fonction dans l\'écran des paramètres.</string>
+  <string name="tipResetMultiShortcutBars">Comme vous n\'avez pas Pure Writer Pro, la barre de raccourcis multi-lignes a été réinitialisée automatiquement.</string>
+
 </resources>

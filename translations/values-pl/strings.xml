@@ -63,6 +63,7 @@
   <string name="autoLock">Autoblokada</string>
   <string name="titleOpenImportedFile">Okazało się, że otworzyłeś zewnętrzny plik, proszę wybrać akcję</string>
   <string name="sort">Typ sortowania</string>
+  <string name="sortTypeTitleLong">Typ sortowania \ndotyczy tylko bieżącej listy (książka)</string>
   <string name="sortTypeModifiedTimeDown">Czas zmodyfikowany</string>
   <string name="sortTypeCreatedTimeDown">Czas utworzony</string>
   <string name="warningSavedFailed">Zapisywanie artykułu nie powiodło się. Proszę skopiować swoją zawartość i spróbować ponownie uruchomić aplikację, aby sprawdzić, czy zawartość nie została utracona.</string>
@@ -489,8 +490,8 @@
   <string name="doNotOverwrite">Nie nadpisuj</string>
   <string name="defaultDark">Domyślnie ciemny</string>
   <string name="defaultX">Domyślne</string>
-  <string name="zoomIn">Powiększ</string>
-  <string name="zoomOut">Pomniejsz</string>
+  <string name="zoomIn">Tryb szczegółowego wykazu</string>
+  <string name="zoomOut">Tryb uproszczonego wykazu</string>
   <string name="restoreByThisBackupWithAppName">Pure Writer: Przywróć przez tę kopię zapasową</string>
   <string name="backupSettingTitle">Synchronizacja kopii zapasowej i chmury</string>
   <string name="connect">Połącz</string>
@@ -745,4 +746,8 @@
   <string name="pleaseEnableOneOfFollowingAiServiceMethods">Włącz jedną z następujących usług AI</string>
   <string name="saveAsSplitImage">Podziel i zapisz w 9 oddzielnych krótkich obrazach (.png)</string>
   <string name="notSupportForMD">Ta funkcja aktualnie nie obsługuje treści Markdown, spróbuj w trybie TXT!</string>
+  <string name="multipleShortcutBarManagement">Zarządzanie wieloliniowym paskiem skrótów</string>
+  <string name="hintForShortcutManagement">* Przytrzymaj element skrótu poniżej, aby go edytować lub usunąć. Możesz też przeciągnąć go, aby posortować go na różnych paskach skrótów.\n* Zaznacz pasek skrótów, aby włączyć go w edytorze. Pierwszy pasek jest domyślny i nie można go wyłączyć.\n* Jeśli nie potrzebujesz wszystkich pasków skrótów, możesz wyłączyć całą funkcję na ekranie Ustawień.</string>
+  <string name="tipResetMultiShortcutBars">Ponieważ nie masz Pure Writer Pro, wieloliniowy pasek skrótów został automatycznie zresetowany.</string>
+
 </resources>

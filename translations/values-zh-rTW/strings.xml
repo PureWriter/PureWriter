@@ -101,6 +101,7 @@
   <string name="sortTypeModifiedTimeUp">修改時間新的排<b>後</b></string>
   <string name="sortTypeCreatedTimeUp">建立時間新的排<b>後</b></string>
   <string name="sort">排序規則</string>
+  <string name="sortTypeTitleLong">排序規則\n僅應用於當前清單（書）</string>
   <string name="warningSavedFailed">檔案自動儲存失敗，請複製您的全文，然後重新啟動 App 查看是否存在遺失內容</string>
   <string name="backupSuccessful">備份成功</string>
   <string name="backupNow">立即備份</string>
@@ -311,8 +312,8 @@
   <string name="lineSpacing">列間距</string>
   <string name="tipParagraphSpacingInMD">Markdown 模式下不會啟用段落間距</string>
   <string name="defaultX">預設</string>
-  <string name="zoomIn">放大</string>
-  <string name="zoomOut">縮小</string>
+  <string name="zoomIn">詳細列表模式</string>
+  <string name="zoomOut">簡潔列表模式</string>
   <string name="switchingBooksTooltip">提示：點選頂部的書名將可以切換書</string>
   <string name="scrollToTheCurrentArticle">捲動到目前文章</string>
   <string name="allBooks">全部書</string>
@@ -824,4 +825,21 @@
   <string name="saveAsSplitImage">儲存為短圖片，分割成 9 份 PNG</string>
   <string name="notSupportForMD">此功能暫不支援 Markdown 內容，請在 TXT 模式下嘗試！</string>
   <string name="tipForPreviewSelectedMode">您在打開這個畫面之前選擇了部分文字，所以當前僅顯示您選擇的文字內容。</string>
+  <string name="customTextColorInEditor">自訂編輯器中的文字顏色</string>
+  <string name="experimentalFeature">試驗性功能</string>
+  <string name="votingForFeatures">需求或功能投票</string>
+  <string name="multipleShortcutBarManagement">多行快捷輸入欄\n管理</string>
+  <string name="hintForShortcutManagement">* 長按以下的快捷輸入項目可編輯或刪除它，直接拖動它則可以進行排序，拖動時，可跨欄目。\n* 勾選相應的快捷輸入欄，可以在編輯器中啟用它。第一欄為預設，無法取消。\n* 如果您不需要快捷輸入欄，可以在「少數派設定項」頁面禁用整個快捷輸入欄功能。</string>
+  <string name="tipResetMultiShortcutBars">由於您沒有純純寫作 Pro，多行快捷輸入欄自動已重置！</string>
+  <string name="a11ySummary">保持禁用此項可獲得更好的性能表現</string>
+  <string name="noChangelog">不要展示任何更新日誌</string>
+  <string name="noChangelogSummary">不再對於功能性更新、bug 修復等任何更新日誌進行提示或展示</string>
+  <string name="aboutChangelog">關於有人說純純寫作總是“強制更新”？</string>
+  <string name="aboutChangelogDetail">　　很多人打開純純寫作時看到“更新日誌”就認為純純寫作自動進行了強制更新，實際上，純純寫作根本無法做到自動更新或升級，除非擁有 root 權限，任何 App 都無法做到自動升級。\n\n　　那麼為什麼會被更新呢？\n\n　　因為<b>系統應用商店自作主張幫您更新了</b>。\n\n　　一般系統應用商店都會預設啟用“自動更新”或“自動升級”功能，這屬於無法抗拒的外部行為，如果您把這行為安到純純寫作頭上，併到應用商店指責我們“強制更新”，這實在非常冤，我們即使想改變和解決它，也沒有辦法，應用商店屬於系統級 App，我們非系統應用無力擺脫系統控制。\n\n　　請您理解，如果您後續不想獲得純純寫作的更新，完全可以自行去系統應用商店關閉“自動更新”或“自動升級”，同時，我們在「少數派選項」頁面提供了“不再展示更新日誌”選項，啟用該選項後，即使系統自動幫您更新了純純寫作，您也不會再看到更新日誌。\n\n　　請相信，我們每天不斷在開發和向應用商店提交純純寫作新版本的目的，就是單純出於責任和好心，只是為了給使用者帶來更好的使用體驗。如果您能理解並去修改關於“純純寫作強制更新”的評價，我們感激不盡！</string>
+  <string name="deleteIndentToPrevParagraphEnd">自動刪除縮排時刪除至上一段末尾</string>
+  <string name="dynamicIndentation">動態的縮排</string>
+  <string name="dynamicIndentationSummary">在啟用段首縮排的前提下，換行時動態採用與上一行一致的縮排。如果關閉此選項，則採用固定縮排。</string>
+  <string name="smartRemoveIndentation">智能刪除整個縮排</string>
+  <string name="smartRemoveIndentationSummary">若游標在段首縮排後，此時按刪除鍵，自動刪掉整個縮排。</string>
+  <string name="timeMachineGuideNoAI">很高興見到您！這是「時光機」。您可以理解成一個記錄靈感碎片的地方，也可以理解成一個臨時記錄內容的地方，請自由、隨意使用它。</string>
 </resources>

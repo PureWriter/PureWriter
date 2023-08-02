@@ -115,6 +115,7 @@
   <string name="titleOpenImportedFile">Found that you opened an external file, please select an action</string>
   <string name="copied">Copied</string>
   <string name="sort">Sort type</string>
+  <string name="sortTypeTitleLong">Sort type\nonly applies to current list (book)</string>
   <string name="sortTypeModifiedTimeDown">Time Modified (Descending)</string>
   <string name="sortTypeCreatedTimeDown">Time Created (Descending)</string>
   <string name="sortTypeModifiedTimeUp">Time Modified (Ascending)</string>
@@ -195,6 +196,7 @@
   <string name="wordCountOfThisBook">Total Count</string>
   <string name="wordCountOfThisBookDescription">Total Word Count for this current Book</string>
   <string name="debugRemoveLicense" translatable="false">RemoveLicense</string>
+  <string name="timeMachineGuideNoAI">It\'s a pleasure to meet you! This is the Time Machine. You can understand it as a place to record fragments of inspiration, or as a place to temporarily record content. Please feel free to use it as you like.</string>
   <string name="timeMachineGuide">Nice to meet you! This is Time Machine. You can think of me as a place to record fragments of inspiration or as a temporary place to store content. Additionally, I can also provide you with ChatGPT AI conversation services, offering knowledge inquiries and answers during your writing process.\n\n* If you want to enable my AI conversation service, you need to enable the AI feature in Pure Writer Settings - AI Settings.</string>
   <string name="copyDate">Copy Date</string>
   <string name="defaultBook">Default Book</string>
@@ -366,8 +368,8 @@
   <string name="lineSpacing">Line spacing</string>
   <string name="paragraphSpacing">Paragraph spacing</string>
   <string name="defaultX">Default</string>
-  <string name="zoomIn">Zoom in</string>
-  <string name="zoomOut">Zoom out</string>
+  <string name="zoomIn">Detailed list mode</string>
+  <string name="zoomOut">Simplified list mode</string>
   <string name="switchingBooksTooltip">Tip: Clicking the book title at the top will be able to switch Books</string>
   <string name="scrollToTheCurrentArticle">Scroll to current article</string>
   <string name="allBooks">All Books</string>
@@ -842,6 +844,7 @@
   <string name="titleMoreArticleCreatingOptions">Always show more options for creating articles in the ⊕ button</string>
   <string name="summaryMoreArticleCreatingOptions">By default, long press the ⊕ whatever will show more options to create an article</string>
   <string name="aliyunLoginExpired">Aliyun login expired, please log in again!</string>
+  <string name="webdav">WebDAV</string>
   <string name="aliyun">AliyunDrive</string>
   <string name="oneDrivePersonal">OneDrive - Personal</string>
   <string name="clickHereToSelectAnotherCloudStorageType">Click here to select another cloud storage type</string>
@@ -879,4 +882,21 @@
   <string name="notSupportForMD">This feature does not currently support Markdown content, please try in TXT mode!</string>
   <string name="tipForPreviewSelectedMode">You selected some text before opening this screen, so only the text you selected is currently displayed.</string>
   <string name="resend">Resend</string>
+  <string name="customTextColorInEditor">Custom text color in editor</string>
+  <string name="experimentalFeature">Experimental feature</string>
+  <string name="votingForFeatures">Voting for features</string>
+  <string name="multipleShortcutBarManagement">Multi-line Shortcut Bar management</string>
+  <string name="hintForShortcutManagement">* Long press on the shortcut item below to edit or delete it. You can also drag it to sort it across different Shortcut Bars.\n* Check the Shortcut Bar to enable it in the editor. The first bar is the default and cannot be disabled.\n* If you don\'t need all Shortcut Bars, you can disable the entire function in the __Settings - Options for the few people__ screen.</string>
+  <string name="tipResetMultiShortcutBars">As you don\'t have Pure Writer Pro, the multi-line Shortcut Bar has been automatically reset.</string>
+  <string name="accessibility">Accessibility</string>
+  <string name="a11ySummary">Keeping this option disabled will result in better performance</string>
+  <string name="noChangelog">No changelog</string>
+  <string name="noChangelogSummary">Do not display any update or change logs.</string>
+  <string name="aboutChangelog">About updates</string>
+  <string name="aboutChangelogDetail">Many people, when they open Pure Writer and see the changelog, assume that Pure Writer has automatically enforced an update. In reality, Pure Writer is not capable of automatic updating or upgrading at all, unless it has root permissions. No App can perform an automatic updated.\n\nSo why has it been updated then?\n\nBecause the <b>system app store decided to update it for you</b>.\n\nGenerally, system app stores have the auto-update function enabled by default. This is an external behavior that can\'t be resisted. If you attribute this behavior to Pure Writer and accuse us in the app store of \"forced updates\", it is really sorry. Even if we wanted to change and solve it, we can\'t because the app store is a system-level App and we, as a non-system app, have no power to escape system control.\n\nPlease understand, if you don\'t want to receive updates of Pure Writer in the future, you can go to the system app store and turn off the \"automatic update\".\n\nPlease trust that our daily continuous development and submission of new versions of Pure Writer to the app store is purely out of responsibility and goodwill, only to bring users a better user experience. If you can understand and modify your comments about "Pure Writer\'s forced updates", we would be greatly appreciative!</string>
+  <string name="deleteIndentToPrevParagraphEnd">Automatically delete the indentation to the end of the previous paragraph</string>
+  <string name="dynamicIndentation">Dynamic indentation</string>
+  <string name="dynamicIndentationSummary">With the premise of enabling the indentation, adopt the same indentation as the previous line when line breaking. If this option is turned off, use fixed indentation.</string>
+  <string name="smartRemoveIndentation">Smart remove indentation</string>
+  <string name="smartRemoveIndentationSummary">If the cursor is positioned after the indentation at the beginning of a paragraph, pressing the delete key will automatically remove the entire indentation.</string>
 </resources>

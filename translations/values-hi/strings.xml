@@ -94,6 +94,7 @@
   <string name="titleOpenImportedFile">पाया कि आपने बाहरी फाइल खोली है, कृपया कोई कार्रवाई चुनें</string>
   <string name="copied">कॉपी किया गया</string>
   <string name="sort">सॉर्ट करें प्रकार</string>
+  <string name="sortTypeTitleLong">क्रमबद्ध प्रकार \n केवल वर्तमान सूची (पुस्तक) पर लागू होता है</string>
   <string name="sortTypeModifiedTimeDown">संशोधित समय</string>
   <string name="sortTypeCreatedTimeDown">बनाया गया समय</string>
   <string name="warningSavedFailed">सहेजा गया फ़ाइल विफल, कृपया अपना पूरा पाठ कॉपी करें, और उसके बाद ऐप को यह देखने के लिए पुन: प्रारंभ करें कि क्या सामग्री अनुपलब्ध है</string>
@@ -298,8 +299,8 @@
   <string name="lineSpacing">पंक्ति रिक्ति</string>
   <string name="tipParagraphSpacingInMD">मार्किंग मोड में पैरा रिक्ति सक्षम नहीं होगी</string>
   <string name="defaultX">तयशुदा</string>
-  <string name="zoomIn">ज़ूम इन</string>
-  <string name="zoomOut">ज़ूम आउट करें</string>
+  <string name="zoomIn">विस्तृत सूची मोड</string>
+  <string name="zoomOut">सरलीकृत सूची मोड</string>
   <string name="switchingBooksTooltip">टिप: शीर्ष पर पुस्तक शीर्षक पर क्लिक करने से पुस्तकें स्विच हो सकेंगी</string>
   <string name="scrollToTheCurrentArticle">वर्तमान लेख तक स्क्रॉल करें</string>
   <string name="allBooks">सभी किताबें</string>
@@ -706,4 +707,8 @@
   <string name="pleaseEnableOneOfFollowingAiServiceMethods">कृपया निम्नलिखित एआई सेवाओं में से एक को सक्षम करें</string>
   <string name="saveAsSplitImage">9 अलग छोटे छवियों (.png) में विभाजित और संग्रहीत करें</string>
   <string name="notSupportForMD">यह सुविधा वर्तमान में Markdown सामग्री का समर्थन नहीं करती है, कृपया TXT मोड में प्रयास करें!</string>
+  <string name="multipleShortcutBarManagement">मल्टी-लाइन शॉर्टकट बार प्रबंधन</string>
+  <string name="hintForShortcutManagement">* शॉर्टकट आइटम पर नीचे दी गई लम्बी प्रेस करें ताकि उसे संपादित कर सकें या हटा सकें. आप इसे खींचकर विभिन्न शॉर्टकट बारों में क्रमबद्ध कर सकते हैं.\n* शॉर्टकट बार की जांच करें ताकि इसे संपादक में सक्षम कर सकें. पहला बार डिफ़ॉल्ट है और इसे अक्षम नहीं किया जा सकता.\n* यदि आपको सभी शॉर्टकट बारों की आवश्यकता नहीं है, तो आप सेटिंग्स स्क्रीन में पूरे कार्य को अक्षम कर सकते हैं.</string>
+  <string name="tipResetMultiShortcutBars">चूंकि आपके पास प्योर राइटर प्रो नहीं है, मल्टी-लाइन शॉर्टकट बार स्वचालित रूप से रीसेट कर दिया गया है.</string>
+
 </resources>

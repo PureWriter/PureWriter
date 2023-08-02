@@ -97,6 +97,7 @@
   <string name="titleOpenImportedFile">외부 파일을 열었습니다. 작업을 선택하십시오</string>
   <string name="copied">복사</string>
   <string name="sort">정렬 유형</string>
+  <string name="sortTypeTitleLong">정렬 유형\n현재 목록(책)에만 적용됩니다</string>
   <string name="sortTypeModifiedTimeDown">수정 된 시간</string>
   <string name="sortTypeCreatedTimeDown">생성 된 시간</string>
   <string name="warningSavedFailed">문서 저장에 실패했습니다. 콘텐츠를 복사하고 앱을 다시 시작하여 콘텐츠가 손실되었는지 확인하십시오.</string>
@@ -306,8 +307,8 @@
   <string name="lineSpacing">줄 간격</string>
   <string name="paragraphSpacing">문단 간격</string>
   <string name="defaultX">디폴트</string>
-  <string name="zoomIn">확대</string>
-  <string name="zoomOut">축소</string>
+  <string name="zoomIn">세부 목록 모드</string>
+  <string name="zoomOut">단순화된 목록 모드</string>
   <string name="switchingBooksTooltip">도움말: 상단에서 책 제목을 클릭하면 책을 전환할 수 있습니다</string>
   <string name="scrollToTheCurrentArticle">현재 문서로 이동</string>
   <string name="allBooks">모든 책</string>
@@ -717,4 +718,8 @@
   <string name="pleaseEnableOneOfFollowingAiServiceMethods">다음 AI 서비스 중 하나를 사용하도록 설정하십시오</string>
   <string name="saveAsSplitImage">9개의 별도의 짧은 이미지(.png)로 분할하여 저장</string>
   <string name="notSupportForMD">이 기능은 현재 Markdown 콘텐츠를 지원하지 않습니다, TXT 모드에서 시도해 보세요!</string>
+  <string name="multipleShortcutBarManagement">다중 라인 단축키 바 관리</string>
+  <string name="hintForShortcutManagement">* 아래의 단축키 항목을 길게 눌러 편집하거나 삭제할 수 있습니다. 또한 다른 단축키 바간에 정렬하기 위해 드래그 할 수 있습니다.\n* 편집기에서 사용할 단축키 바를 체크하십시오. 첫 번째 바는 기본값이며 비활성화 할 수 없습니다.\n* 모든 단축키 바가 필요하지 않은 경우, 설정 화면에서 전체 기능을 비활성화 할 수 있습니다.</string>
+  <string name="tipResetMultiShortcutBars">Pure Writer Pro가 없기 때문에, 다중 라인 단축키 바가 자동으로 재설정되었습니다.</string>
+
 </resources>

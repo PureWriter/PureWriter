@@ -102,6 +102,7 @@
   <string name="sortTypeModifiedTimeUp">修改时间新的排<b>后</b></string>
   <string name="sortTypeCreatedTimeUp">创建时间新的排<b>后</b></string>
   <string name="sort">排序规则</string>
+  <string name="sortTypeTitleLong">排序规则\n仅应用于当前列表（书）</string>
   <string name="warningSavedFailed">文件自动保存失败，请复制您的全文，然后重启 App 查看是否丢失内容</string>
   <string name="backupSuccessful">备份成功</string>
   <string name="backupNow">立即备份</string>
@@ -151,7 +152,8 @@
   <string name="gfmBreaksDisabled">需要两个换行才能真正在渲染时换行</string>
   <string name="wordCountOfThisBook">本书字数</string>
   <string name="wordCountOfThisBookDescription">当前书籍所有章节字数</string>
-  <string name="timeMachineGuide">很高兴见到您！这是「时光机」。 您可以理解成一个记录灵感碎片的地方，也可以理解成一个临时记录内容的地方，同时，它还可以为您提供 AI 对话服务，可在写作过程中为您提供知识查询和讲解。\n\n* 如果您要启用 AI 对话服务，您需要在纯纯写作设置页面开启 AI 功能。</string>
+  <string name="timeMachineGuideNoAI">很高兴见到您！这是「时光机」。您可以理解成一个记录灵感碎片的地方，也可以理解成一个临时记录内容的地方，请自由、随意使用它。</string>
+  <string name="timeMachineGuide">很高兴见到您！这是「时光机」。您可以理解成一个记录灵感碎片的地方，也可以理解成一个临时记录内容的地方，同时，它还可以为您提供 AI 对话服务，可在写作过程中为您提供知识查询和讲解。\n\n* 如果您要启用 AI 对话服务，您需要在纯纯写作设置页面开启 AI 功能。</string>
   <string name="copyDate">复制日期</string>
   <string name="books">书籍</string>
   <string name="defaultBook">默认书</string>
@@ -313,8 +315,8 @@
   <string name="lineSpacing">行间距</string>
   <string name="tipParagraphSpacingInMD">Markdown 模式下不会启用段落间距</string>
   <string name="defaultX">默认</string>
-  <string name="zoomIn">放大</string>
-  <string name="zoomOut">缩小</string>
+  <string name="zoomIn">详细列表模式</string>
+  <string name="zoomOut">简洁列表模式</string>
   <string name="switchingBooksTooltip">提示：点击在顶部的书名将能够切换书籍</string>
   <string name="scrollToTheCurrentArticle">滚动到当前文章</string>
   <string name="allBooks">全部书</string>
@@ -824,4 +826,22 @@
   <string name="notSupportForMD">此功能暂不支持 Markdown 内容，请在 TXT 模式下尝试！</string>
   <string name="tipForPreviewSelectedMode">您在打开这个屏幕之前选择了部分文本，所以当前仅显示您选择的文本内容。</string>
   <string name="resend">重新发送</string>
+  <string name="customTextColorInEditor">自定义编辑器中的文字颜色</string>
+  <string name="experimentalFeature">试验性功能</string>
+  <string name="votingForFeatures">需求或功能投票</string>
+  <string name="multipleShortcutBarManagement">多行快捷输入栏\n管理</string>
+  <string name="hintForShortcutManagement">* 长按以下的快捷输入项可编辑或删除它，直接拖动它则可以进行排序，拖动时，可跨栏目。\n* 勾选相应的快捷输入栏，可以在编辑器中启用它。第一栏为默认，无法取消。\n* 如果您不需要快捷输入栏，可以在「少数派设置项」页面禁用整个快捷输入栏功能。</string>
+  <string name="tipResetMultiShortcutBars">由于您没有纯纯写作 Pro，多行快捷输入栏自动已重置！</string>
+  <string name="accessibility">Accessibility</string>
+  <string name="a11ySummary">保持禁用此项可获得更好的性能表现</string>
+  <string name="noChangelog">不要展示任何更新日志</string>
+  <string name="noChangelogSummary">不再对于功能性更新、bug 修复等任何更新日志进行提示或展示。</string>
+  <string name="aboutChangelog">关于有人说纯纯写作总是“强制更新”？</string>
+  <string name="aboutChangelogDetail">　　很多人打开纯纯写作时看到“更新日志”就认为纯纯写作自动进行了强制更新，实际上，纯纯写作根本无法做到自动更新或升级，除非拥有 root 权限，任何 App 都无法做到自动升级。\n\n　　那么为什么会被更新呢？\n\n　　因为<b>系统应用商店自作主张帮您更新了</b>。\n\n　　一般系统应用商店都会默认启用“自动更新”或“自动升级”功能，这属于无法抗拒的外部行为，如果您把这行为安到纯纯写作头上，并到应用商店指责我们“强制更新”，这实在非常冤，我们即使想改变和解决它，也没有办法，应用商店属于系统级 App，我们非系统应用无力摆脱系统控制。\n\n　　请您理解，如果您后续不想获得纯纯写作的更新，完全可以自行去系统应用商店关闭“自动更新”或“自动升级”，同时，我们在「少数派选项」页面提供了“不再展示更新日志”选项，启用该选项后，即使系统自动帮您更新了纯纯写作，您也不会再看到更新日志。\n\n　　请相信，我们每天不断在开发和向应用商店提交纯纯写作新版本的目的，就是单纯出于责任和好心，只是为了给用户带来更好的使用体验。如果您能理解并去修改关于“纯纯写作强制更新”的评价，我们感激不尽！</string>
+  <string name="deleteIndentToPrevParagraphEnd">自动删除缩进时删除至上一段末尾</string>
+  <string name="webdav">WebDAV / 坚果云</string>
+  <string name="dynamicIndentation">动态的缩进</string>
+  <string name="dynamicIndentationSummary">在启用段首缩进的前提下，换行时动态采用与上一行一致的缩进。如果关闭此选项，则采用固定缩进。</string>
+  <string name="smartRemoveIndentation">智能删除整个缩进</string>
+  <string name="smartRemoveIndentationSummary">若光标在段首缩进后，此时按删除键，自动删掉整个缩进。</string>
 </resources>

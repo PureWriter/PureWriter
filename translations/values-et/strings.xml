@@ -88,6 +88,7 @@
   <string name="titleOpenImportedFile">Avasid välise faili, palun vali tegevus</string>
   <string name="copied">Kopeeritud</string>
   <string name="sort">Sortimise tüüp</string>
+  <string name="sortTypeTitleLong">Sortimise tüüp \nkehtib ainult praeguse nimekirja kohta (raamat)</string>
   <string name="sortTypeModifiedTimeDown">Muudetud aeg</string>
   <string name="sortTypeCreatedTimeDown">Loodud aeg</string>
   <string name="warningSavedFailed">Artikli salvestamine ebaõnnestus. Palun kopeerige sisu ja proovige rakenduse taaskäivitamist, et kontrollida, kas sisu on kadunud.</string>
@@ -294,8 +295,8 @@
   <string name="lineSpacing">Reavahe</string>
   <string name="paragraphSpacing">Lõiguvahe</string>
   <string name="defaultX">Vaikimisi</string>
-  <string name="zoomIn">Suurenda</string>
-  <string name="zoomOut">Suumi välja</string>
+  <string name="zoomIn">Detailne loendirežiim</string>
+  <string name="zoomOut">Lihtsustatud loendirežiim</string>
   <string name="switchingBooksTooltip">Tipp: Klõpsates raamatu pealkirjale üleval saab raamatuid vahetada</string>
   <string name="scrollToTheCurrentArticle">Kerige praeguse artiklini</string>
   <string name="allBooks">Kõik raamatud</string>
@@ -750,4 +751,8 @@
   <string name="pleaseEnableOneOfFollowingAiServiceMethods">Palun lubage üks järgmistest AI-teenustest</string>
   <string name="saveAsSplitImage">Jagage ja salvestage 9 eraldi lühikesse pilti (.png)</string>
   <string name="notSupportForMD">See funktsioon ei toeta praegu Markdowni sisu, proovige TXT-režiimis!</string>
+  <string name="multipleShortcutBarManagement">Mitmerealise kiirkäivitusriba haldamine</string>
+  <string name="hintForShortcutManagement">* Hoidke all kiirkäivitusriba üksust allpool, et seda redigeerida või kustutada. Saate seda ka lohistada ja erinevate kiirkäivitusribade vahel sorteerida.\n* Kontrollige kiirkäivitusriba, et see redaktoris lubada. Esimene riba on vaikeriba ja seda ei saa keelata.\n* Kui te ei vaja kõiki kiirkäivitusribasid, saate kogu funktsiooni seadete ekraanil keelata.</string>
+  <string name="tipResetMultiShortcutBars">Kuna teil pole Pure Writer Pro-d, on mitmerealine kiirkäivitusriba automaatselt lähtestatud.</string>
+
 </resources>

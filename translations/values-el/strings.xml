@@ -86,6 +86,7 @@
   <string name="titleOpenImportedFile">Βρήκατε ότι ανοίξατε ένα εξωτερικό αρχείο, παρακαλώ επιλέξτε μια ενέργεια</string>
   <string name="copied">Αντιγράφηκε</string>
   <string name="sort">Τύπος ταξινόμησης</string>
+  <string name="sortTypeTitleLong">Τύπος ταξινόμησης \nεφαρμόζεται μόνο στην τρέχουσα λίστα (βιβλίο)</string>
   <string name="sortTypeModifiedTimeDown">Χρόνος τροποποίησης</string>
   <string name="sortTypeCreatedTimeDown">Χρόνος δημιουργίας</string>
   <string name="warningSavedFailed">Η αποθήκευση του άρθρου απέτυχε. Παρακαλούμε αντιγράψτε το περιεχόμενό σας και δοκιμάστε να επανεκκινήσετε την εφαρμογή για να ελέγξετε αν έχει χαθεί κάποιο περιεχόμενο.</string>
@@ -295,8 +296,8 @@
   <string name="lineSpacing">Αποστάσεις γραμμών</string>
   <string name="paragraphSpacing">Αποστάσεις παραγράφων</string>
   <string name="defaultX">Προκαθορισμένο</string>
-  <string name="zoomIn">Μεγέθυνση</string>
-  <string name="zoomOut">Σμίκρυνση</string>
+  <string name="zoomIn">Λεπτομερής λειτουργία λίστας</string>
+  <string name="zoomOut">Απλοποιημένη λειτουργία λίστας</string>
   <string name="switchingBooksTooltip">Tip: Κάνοντας κλικ στον τίτλο του βιβλίου στην κορυφή θα μπορείτε να αλλάξετε τα βιβλία</string>
   <string name="scrollToTheCurrentArticle">Μετάβαση στο τρέχον άρθρο</string>
   <string name="allBooks">Όλα τα βιβλία</string>
@@ -750,4 +751,8 @@
   <string name="pleaseEnableOneOfFollowingAiServiceMethods">Ενεργοποιήστε μία από τις ακόλουθες υπηρεσίες τεχνητής νοημοσύνης</string>
   <string name="saveAsSplitImage">Διαίρεση και αποθήκευση σε 9 ξεχωριστές σύντομες εικόνες (.png)</string>
   <string name="notSupportForMD">Αυτή η λειτουργία δεν υποστηρίζει προς το παρόν περιεχόμενο Markdown, δοκιμάστε σε λειτουργία TXT!</string>
+  <string name="multipleShortcutBarManagement">Διαχείριση πολλαπλών γραμμών συντομεύσεων</string>
+  <string name="hintForShortcutManagement">* Πατήστε παρατεταμένα το στοιχείο συντόμευσης παρακάτω για να το επεξεργαστείτε ή να το διαγράψετε. Μπορείτε επίσης να το σύρετε για να το ταξινομήσετε σε διάφορες γραμμές συντομεύσεων.\n* Ελέγξτε τη γραμμή συντομεύσεων για να την ενεργοποιήσετε στον επεξεργαστή. Η πρώτη γραμμή είναι η προεπιλεγμένη και δεν μπορεί να απενεργοποιηθεί.\n* Αν δεν χρειάζεστε όλες τις γραμμές συντομεύσεων, μπορείτε να απενεργοποιήσετε ολόκληρη τη λειτουργία στην οθόνη ρυθμίσεων.</string>
+  <string name="tipResetMultiShortcutBars">Επειδή δεν έχετε το Pure Writer Pro, η γραμμή πολλαπλών συντομεύσεων έχει επαναφερθεί αυτόματα.</string>
+
 </resources>

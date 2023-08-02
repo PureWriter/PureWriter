@@ -87,6 +87,7 @@
   <string name="titleOpenImportedFile">Vi har upptäckt att du har öppnat en extern fil, välj en åtgärd.</string>
   <string name="copied">Kopierad</string>
   <string name="sort">Typ av sortering</string>
+  <string name="sortTypeTitleLong">Sorteringstyp \ngäller endast för aktuell lista (bok)</string>
   <string name="sortTypeModifiedTimeDown">Tid ändrad</string>
   <string name="sortTypeCreatedTimeDown">Tid skapad</string>
   <string name="warningSavedFailed">Sparandet av artikeln misslyckades. Kopiera ditt innehåll och försök att starta om appen för att kontrollera om något innehåll har gått förlorat.</string>
@@ -287,8 +288,8 @@
   <string name="lineSpacing">Radavstånd</string>
   <string name="paragraphSpacing">Avstånd mellan stycken</string>
   <string name="defaultX">Standard</string>
-  <string name="zoomIn">Zooma in</string>
-  <string name="zoomOut">Zooma ut</string>
+  <string name="zoomIn">Detaljerat listläge</string>
+  <string name="zoomOut">Förenklat listläge</string>
   <string name="switchingBooksTooltip">Tips: Om du klickar på bokens titel högst upp kan du växla mellan böckerna.</string>
   <string name="scrollToTheCurrentArticle">Bläddra till aktuell artikel</string>
   <string name="allBooks">Alla böcker</string>
@@ -732,4 +733,7 @@
   <string name="pleaseEnableOneOfFollowingAiServiceMethods">Vänligen aktivera en av följande AI-tjänster</string>
   <string name="saveAsSplitImage">Dela och lagra i 9 separata korta bilder (.png)</string>
   <string name="notSupportForMD">Denna funktion stöder för närvarande inte Markdown-innehåll, försök i TXT-läge!</string>
+  <string name="multipleShortcutBarManagement">Hantering av flerradig genvägsfält</string>
+  <string name="hintForShortcutManagement">* Håll ned genvägsposten nedan för att redigera eller ta bort den. Du kan också dra den för att sortera den över olika genvägsfält.\n* Kontrollera genvägsfältet för att aktivera det i redigeraren. Det första fältet är standard och kan inte inaktiveras.\n* Om du inte behöver alla genvägsfält kan du inaktivera hela funktionen i inställningsskärmen.</string>
+  <string name="tipResetMultiShortcutBars">Eftersom du inte har Pure Writer Pro har det flerradiga genvägsfältet automatiskt återställts.</string>
 </resources>

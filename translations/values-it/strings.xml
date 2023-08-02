@@ -99,6 +99,7 @@
   <string name="titleOpenImportedFile">Ho trovato che hai aperto un file esterno, prego, seleziona una azione</string>
   <string name="copied">Copiato</string>
   <string name="sort">Tipo ordinamento</string>
+  <string name="sortTypeTitleLong">Tipo di ordinamento \nsi applica solo alla lista corrente (libro)</string>
   <string name="sortTypeModifiedTimeDown">Orario Modificato</string>
   <string name="sortTypeCreatedTimeDown">Orario Creato</string>
   <string name="warningSavedFailed">Attenzione: salvataggio articolo fallito! Si prega di copiare il vostro contenuto e provare riavviando Pure Writer per controllare se qualche contenuto si sia perso.</string>
@@ -328,8 +329,8 @@
   <string name="switchingBooksTooltip">Suggerimento: facendo clic sul titolo del libro in alto sarà possibile cambiare libro</string>
   <string name="thisShortcutCannotBeEdited">Questo collegamento non può essere modificato</string>
   <string name="tipParagraphSpacingInMD">La spaziatura dei paragrafi non sarà abilitata nella modalità Markdown</string>
-  <string name="zoomIn">Ingrandire</string>
-  <string name="zoomOut">Zoom indietro</string>
+  <string name="zoomIn">Modalità lista dettagliata</string>
+  <string name="zoomOut">Modalità lista semplificata</string>
   <string name="hideSoftKeyboard">Nascondi tastiera</string>
   <string name="transparentTopBar">Barra superiore trasparente</string>
   <string name="transparentNavigationBarWarning">Questa è una caratteristica sperimentale. Quando è acceso, potrebbe causare l\'errata verifica dell\'altezza della tastiera morbida, il che potrebbe causare la visualizzazione della barra dei collegamenti e la sfocatura del testo. Se si verificano questi problemi, disattivare questa opzione.</string>
@@ -716,4 +717,8 @@
   <string name="pleaseEnableOneOfFollowingAiServiceMethods">Si prega di abilitare uno dei seguenti servizi AI</string>
   <string name="saveAsSplitImage">Dividi e salva in 9 immagini brevi separate (.png)</string>
   <string name="notSupportForMD">Questa funzione attualmente non supporta contenuti Markdown, prova in modalità TXT!</string>
+  <string name="multipleShortcutBarManagement">Gestione della barra di scorciatoie multilinea</string>
+  <string name="hintForShortcutManagement">* Premi a lungo sull\'elemento di scorciatoia qui sotto per modificarlo o eliminarlo. Puoi anche trascinarlo per ordinarlo in diverse Barre di scorciatoie.\n* Verifica la Barra di scorciatoie per abilitarla nell\'editor. La prima barra è quella predefinita e non può essere disabilitata.\n* Se non hai bisogno di tutte le Barre di scorciatoie, puoi disabilitare l\'intera funzione nella schermata Impostazioni.</string>
+  <string name="tipResetMultiShortcutBars">Poiché non disponi di Pure Writer Pro, la barra di scorciatoie multilinea è stata resettata automaticamente.</string>
+
 </resources>

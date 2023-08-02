@@ -86,6 +86,7 @@
   <string name="titleOpenImportedFile">พบว่าคุณเปิดไฟล์ภายนอก โปรดเลือกการดำเนินการ</string>
   <string name="copied">คัดลอกแล้ว</string>
   <string name="sort">ประเภทการจัดเรียง</string>
+  <string name="sortTypeTitleLong">ประเภทการเรียงลำดับ \nใช้ได้เฉพาะกับรายการปัจจุบัน (หนังสือ)</string>
   <string name="sortTypeModifiedTimeDown">เวลาปรับเปลี่ยน</string>
   <string name="sortTypeCreatedTimeDown">เวลาที่สร้าง</string>
   <string name="warningSavedFailed">บันทึกบทความล้มเหลว โปรดคัดลอกเนื้อหาของคุณและลองรีสตาร์ทแอปเพื่อตรวจสอบว่าเนื้อหาสูญหายหรือไม่</string>
@@ -285,8 +286,8 @@
   <string name="lineSpacing">ระยะห่างบรรทัด</string>
   <string name="paragraphSpacing">ระยะห่างย่อหน้า</string>
   <string name="defaultX">ค่าเริ่มต้น</string>
-  <string name="zoomIn">ขยายเข้า</string>
-  <string name="zoomOut">ซูมออก</string>
+  <string name="zoomIn">โหมดรายการละเอียด</string>
+  <string name="zoomOut">โหมดรายการที่ทำให้ง่ายขึ้น</string>
   <string name="switchingBooksTooltip">เคล็ดลับ: การคลิกที่ชื่อหนังสือที่ด้านบนสุดจะสามารถสลับหนังสือได้</string>
   <string name="scrollToTheCurrentArticle">เลื่อนไปที่บทความปัจจุบัน</string>
   <string name="allBooks">หนังสือทั้งหมด</string>
@@ -729,4 +730,7 @@
   <string name="pleaseEnableOneOfFollowingAiServiceMethods">โปรดเปิดใช้งานหนึ่งในบริการ AI ต่อไปนี้</string>
   <string name="saveAsSplitImage">แยกและเก็บเป็นภาพสั้น 9 ภาพแยกยก (.png)</string>
   <string name="notSupportForMD">ฟีเจอร์นี้ไม่รองรับเนื้อหา Markdown ในขณะนี้ กรุณาลองในโหมด TXT!</string>
+  <string name="multipleShortcutBarManagement">การจัดการแถบลัดหลายบรรทัด</string>
+  <string name="hintForShortcutManagement">* กดค้างที่รายการทางลัดด้านล่างเพื่อแก้ไขหรือลบ คุณยังสามารถลากมันเพื่อจัดเรียงลำดับตามแถบลัดที่ต่างกัน.\n* ตรวจสอบแถบลัดเพื่อเปิดใช้งานในตัวแก้ไข แถบแรกคือค่าเริ่มต้นและไม่สามารถปิดใช้งานได้.\n* หากคุณไม่ต้องการใช้งานแถบลัดทั้งหมด คุณสามารถปิดใช้งานฟังก์ชั่นทั้งหมดในหน้าตั้งค่าได้.</string>
+  <string name="tipResetMultiShortcutBars">เนื่องจากคุณไม่มี Pure Writer Pro แถบลัดหลายบรรทัดจึงถูกรีเซ็ตโดยอัตโนมัติ.</string>
 </resources>

@@ -99,6 +99,7 @@
   <string name="titleOpenImportedFile">Menemukan bahwa Anda membuka file eksternal, pilih tindakan</string>
   <string name="copied">Disalin</string>
   <string name="sort">Jenis penyortiran</string>
+  <string name="sortTypeTitleLong">Tipe urutan \nhanya berlaku untuk daftar saat ini (buku)</string>
   <string name="sortTypeModifiedTimeDown">Waktu Dimodifikasi</string>
   <string name="sortTypeCreatedTimeDown">Waktu dibuat</string>
   <string name="warningSavedFailed">Gagal menyimpan artikel. Harap salin konten Anda dan coba mulai ulang aplikasi untuk memeriksa apakah ada konten yang hilang.</string>
@@ -308,8 +309,8 @@
   <string name="lineSpacing">Penspasian Baris</string>
   <string name="paragraphSpacing">Penempatan Paragraf</string>
   <string name="defaultX">Default</string>
-  <string name="zoomIn">Perbesar</string>
-  <string name="zoomOut">Perkecil</string>
+  <string name="zoomIn">Mode daftar terperinci</string>
+  <string name="zoomOut">Mode daftar sederhana</string>
   <string name="switchingBooksTooltip">Tip: Mengklik judul buku di bagian atas akan dapat berganti buku</string>
   <string name="scrollToTheCurrentArticle">Gulir ke artikel saat ini</string>
   <string name="allBooks">Semua Buku</string>
@@ -712,4 +713,8 @@
   <string name="pleaseEnableOneOfFollowingAiServiceMethods">Silakan aktifkan salah satu layanan AI berikut</string>
   <string name="saveAsSplitImage">Pisahkan dan simpan dalam 9 gambar pendek terpisah (.png)</string>
   <string name="notSupportForMD">Fitur ini saat ini tidak mendukung konten Markdown, silakan coba dalam mode TXT!</string>
+  <string name="multipleShortcutBarManagement">Manajemen Bar Shortcut Multi-baris</string>
+  <string name="hintForShortcutManagement">* Tekan lama pada item shortcut di bawah ini untuk mengedit atau menghapusnya. Anda juga bisa menyeretnya untuk mengurutkannya di berbagai Bar Shortcut.\n* Centang Bar Shortcut untuk mengaktifkannya di editor. Bar pertama adalah default dan tidak bisa dinonaktifkan.\n* Jika Anda tidak memerlukan semua Bar Shortcut, Anda bisa menonaktifkan seluruh fungsi di layar Pengaturan.</string>
+  <string name="tipResetMultiShortcutBars">Karena Anda tidak memiliki Pure Writer Pro, Bar Shortcut multi-baris telah direset secara otomatis.</string>
+
 </resources>

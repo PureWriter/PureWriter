@@ -94,6 +94,7 @@
   <string name="titleOpenImportedFile">Вы открыли внешний файл, выберите действие</string>
   <string name="copied">Скопирован</string>
   <string name="sort">Тип сортировки</string>
+  <string name="sortTypeTitleLong">Тип сортировки \nприменяется только к текущему списку (книга)</string>
   <string name="sortTypeModifiedTimeDown">Модифицированное время</string>
   <string name="sortTypeCreatedTimeDown">Время создания</string>
   <string name="warningSavedFailed">Не удалось сохранить файл, скопируйте полный текст и перезапустите приложение, чтобы узнать, отсутствует ли контент</string>
@@ -298,8 +299,8 @@
   <string name="lineSpacing">Межстрочный интервал</string>
   <string name="tipParagraphSpacingInMD">Интервал между абзацами не будет включен в режиме Markdown</string>
   <string name="defaultX">По умолчанию</string>
-  <string name="zoomIn">Приблизить</string>
-  <string name="zoomOut">Отдалить</string>
+  <string name="zoomIn">Детальный режим списка</string>
+  <string name="zoomOut">Упрощенный режим списка</string>
   <string name="switchingBooksTooltip">Совет: нажав на название книги вверху, можно будет переключать книги.</string>
   <string name="scrollToTheCurrentArticle">Прокрутите к текущей статье</string>
   <string name="allBooks">Все книги</string>
@@ -713,4 +714,7 @@
   <string name="pleaseEnableOneOfFollowingAiServiceMethods">Пожалуйста, включите одну из следующих услуг AI</string>
   <string name="saveAsSplitImage">Разделить и сохранить в 9 отдельных коротких изображений (.png)</string>
   <string name="notSupportForMD">Эта функция в настоящее время не поддерживает контент Markdown, пожалуйста, попробуйте в режиме TXT!</string>
+  <string name="multipleShortcutBarManagement">Управление многострочной панелью быстрых команд</string>
+  <string name="hintForShortcutManagement">* Долго нажмите на элемент быстрой команды ниже, чтобы отредактировать или удалить его. Вы также можете перетаскивать его, чтобы сортировать его на разных панелях быстрых команд.\n* Проверьте панель быстрых команд, чтобы включить ее в редакторе. Первая панель является стандартной и не может быть отключена.\n* Если вам не нужны все панели быстрых команд, вы можете отключить эту функцию на экране настроек.</string>
+  <string name="tipResetMultiShortcutBars">Поскольку у вас нет Pure Writer Pro, многострочная панель быстрых команд была автоматически сброшена.</string>
 </resources>

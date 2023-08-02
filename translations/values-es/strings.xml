@@ -97,6 +97,7 @@
   <string name="titleOpenImportedFile">Abriste un archivo externo, selecciona una acción</string>
   <string name="copied">Copiado</string>
   <string name="sort">Tipo de clasificación</string>
+  <string name="sortTypeTitleLong">Tipo de ordenación \nsolo se aplica a la lista actual (libro)</string>
   <string name="sortTypeModifiedTimeDown">Hora de modificación</string>
   <string name="sortTypeCreatedTimeDown">Hora de creación</string>
   <string name="warningSavedFailed">El artículo no se guardó. Copia tu contenido e intenta reiniciar la aplicación para verificar que no se perdió algún contenido.</string>
@@ -312,8 +313,8 @@
   <string name="lineSpacing">Espaciado entre líneas</string>
   <string name="paragraphSpacing">Espaciado de párrafo</string>
   <string name="defaultX">Por defecto</string>
-  <string name="zoomIn">Aumentar el enfoque</string>
-  <string name="zoomOut">Disminuir el enfoque</string>
+  <string name="zoomIn">Modo de lista detallada</string>
+  <string name="zoomOut">Modo de lista simplificada</string>
   <string name="switchingBooksTooltip">Consejo: Al hacer clic en el título del libro en la parte superior, podrás cambiar de libro.</string>
   <string name="scrollToTheCurrentArticle">Desplazarse al artículo actual</string>
   <string name="allBooks">Todos los Libros</string>
@@ -740,4 +741,7 @@
   <string name="pleaseEnableOneOfFollowingAiServiceMethods">Habilite uno de los siguientes servicios de IA</string>
   <string name="saveAsSplitImage">Dividir y almacenar en 9 imágenes cortas separadas (.png)</string>
   <string name="notSupportForMD">Esta función no admite contenido de Markdown actualmente, ¡prueba en modo TXT!</string>
+  <string name="multipleShortcutBarManagement">Gestión de la barra de atajos de múltiples líneas</string>
+  <string name="hintForShortcutManagement">* Mantén presionado el elemento de atajo a continuación para editarlo o eliminarlo. También puedes arrastrarlo para ordenarlo a través de diferentes Barras de Atajos.\n* Verifica la Barra de Atajos para habilitarla en el editor. La primera barra es la predeterminada y no puede ser deshabilitada.\n* Si no necesitas todas las Barras de Atajos, puedes desactivar toda la función en la pantalla de Configuración.</string>
+  <string name="tipResetMultiShortcutBars">Como no tienes Pure Writer Pro, la barra de atajos de múltiples líneas se ha restablecido automáticamente.</string>
 </resources>

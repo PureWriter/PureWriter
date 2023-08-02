@@ -98,6 +98,7 @@
   <string name="titleOpenImportedFile">Detectamos que você abriu um arquivo externo, por favor selecione uma ação</string>
   <string name="copied">Copiado</string>
   <string name="sort">Tipo de classificação</string>
+  <string name="sortTypeTitleLong">Tipo de ordenação \naplica-se apenas à lista atual (livro)</string>
   <string name="sortTypeModifiedTimeDown">Última modificação</string>
   <string name="sortTypeCreatedTimeDown">Último criado</string>
   <string name="warningSavedFailed">Falha ao tentar salvar artigo. Por favor, copie seu conteúdo e tente reiniciar o aplicativo para checar se algum conteúdo foi perdido.</string>
@@ -307,8 +308,8 @@
   <string name="lineSpacing">Espaçamento entre linhas</string>
   <string name="tipParagraphSpacingInMD">O Espaçamento de Parágrafos não será ativado no Modo Markdown</string>
   <string name="defaultX">Padrão</string>
-  <string name="zoomIn">Aumentar zoom</string>
-  <string name="zoomOut">Diminuir zoom</string>
+  <string name="zoomIn">Modo de lista detalhada</string>
+  <string name="zoomOut">Modo de lista simplificada</string>
   <string name="switchingBooksTooltip">Dica: clique no título do livro na parte superior para mudar de livro</string>
   <string name="scrollToTheCurrentArticle">Ir até artigo atual</string>
   <string name="allBooks">Todos os livros</string>
@@ -768,4 +769,8 @@
   <string name="pleaseEnableOneOfFollowingAiServiceMethods">Ative um dos seguintes serviços de IA</string>
   <string name="saveAsSplitImage">Dividir e armazenar em 9 imagens curtas separadas (.png)</string>
   <string name="notSupportForMD">Este recurso não suporta conteúdo em Markdown no momento, tente no modo TXT!</string>
+  <string name="multipleShortcutBarManagement">Gerenciamento da Barra de Atalhos de Múltiplas Linhas</string>
+  <string name="hintForShortcutManagement">* Pressione e segure o item de atalho abaixo para editá-lo ou excluí-lo. Você também pode arrastá-lo para ordená-lo em diferentes Barras de Atalhos.\n* Verifique a Barra de Atalhos para habilitá-la no editor. A primeira barra é a padrão e não pode ser desativada.\n* Se você não precisa de todas as Barras de Atalhos, você pode desativar a função inteira na tela de Configurações.</string>
+  <string name="tipResetMultiShortcutBars">Como você não tem o Pure Writer Pro, a Barra de Atalhos de múltiplas linhas foi redefinida automaticamente.</string>
+
 </resources>

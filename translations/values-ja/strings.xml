@@ -93,6 +93,7 @@
   <string name="titleOpenImportedFile">外部ファイルを開いたことが判明しました。アクションを選択してください</string>
   <string name="copied">コピーされた</string>
   <string name="sort">ソートタイプ</string>
+  <string name="sortTypeTitleLong">ソートタイプ\n現在のリスト（本）のみに適用されます</string>
   <string name="sortTypeModifiedTimeDown">変更された時間</string>
   <string name="sortTypeCreatedTimeDown">作成時刻</string>
   <string name="warningSavedFailed">ファイルを保存できませんでした。フルテキストをコピーしてから、アプリケーションを再起動してコンテンツが欠落していないか確認してください</string>
@@ -298,8 +299,8 @@
   <string name="lineSpacing">行間隔</string>
   <string name="tipParagraphSpacingInMD">段落の間隔はMDモードでは有効になりません</string>
   <string name="defaultX">既定</string>
-  <string name="zoomIn">ズームイン</string>
-  <string name="zoomOut">ズームアウト</string>
+  <string name="zoomIn">詳細リストモード</string>
+  <string name="zoomOut">簡易リストモード</string>
   <string name="switchingBooksTooltip">ヒント：上部の本のタイトルをクリックすると、本を切り替えることができます</string>
   <string name="scrollToTheCurrentArticle">現在の記事にスクロールする</string>
   <string name="allBooks">すべての本</string>
@@ -717,4 +718,8 @@
   <string name="pleaseEnableOneOfFollowingAiServiceMethods">次のAIサービスのいずれかを有効にしてください</string>
   <string name="saveAsSplitImage">9つの別々の短い画像(.png)に分割して保存する</string>
   <string name="notSupportForMD">この機能は現在、Markdownのコンテンツをサポートしていません、TXTモードで試してみてください!</string>
+  <string name="multipleShortcutBarManagement">マルチラインショートカットバーの管理</string>
+  <string name="hintForShortcutManagement">* 下のショートカット項目を長押しして編集または削除します。また、それをドラッグして異なるショートカットバー間で並べ替えることもできます。\n* エディタで有効にするためにショートカットバーをチェックします。最初のバーはデフォルトで、無効にすることはできません。\n* すべてのショートカットバーが不要な場合は、設定画面で全機能を無効にすることができます。</string>
+  <string name="tipResetMultiShortcutBars">Pure Writer Proをお持ちでないため、マルチラインショートカットバーが自動的にリセットされました。</string>
+  <string name="aboutChangelogDetail">多くの人々がPure Writerを開いて更新履歴を見ると、Pure Writerが自動的に更新を強制したと思い込むことがあります。しかし、実際には、Pure Writerが自動更新または自動アップグレードを行う能力は全くありません、ルート権限がある場合を除いては。自動更新を行うアプリは存在しません。\n\nなぜ更新されたのでしょうか？\n\nそれは、<b>Google Play app storeがあなたのためにそれを更新したから</b>です。\n\n一般的に、システムアプリストアはデフォルトで自動更新機能が有効になっています。これは抵抗できない外部の振る舞いです。もしこの振る舞いをPure Writerに帰せられ、アプリストアで私たちを「強制更新」と非難するなら、それは本当に申し訳ないことです。たとえ私たちがそれを変えて解決したくても、アプリストアはシステムレベルのアプリであり、非システムアプリである私たちは、システム制御から逃れる力がありません。\n\nご理解いただきたいのは、将来Pure Writerの更新を受け取りたくない場合は、Google Play app storeに行って「自動更新」をオフにすることができます。\n\n私たちが毎日継続的に開発を行い、新しいバージョンのPure Writerをアプリストアに提出するのは、純粋に責任感と善意からであり、ユーザーにより良い体験を提供するためだけです。もしあなたが「Pure Writerの強制更新」についてのコメントを理解し、修正してくれるなら、私たちは非常に感謝するでしょう！</string>
 </resources>

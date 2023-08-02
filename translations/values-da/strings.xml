@@ -88,6 +88,7 @@
   <string name="titleOpenImportedFile">Fandt ud af, at du åbnede en ekstern fil, vælg venligst en handling</string>
   <string name="copied">Kopieret</string>
   <string name="sort">Sorteringstype</string>
+  <string name="sortTypeTitleLong">Sorteringstype \ngælder kun for aktuelle liste (bog)</string>
   <string name="sortTypeModifiedTimeDown">Modificeret tidspunkt</string>
   <string name="sortTypeCreatedTimeDown">Tidspunkt for oprettelse</string>
   <string name="warningSavedFailed">Sparring af artikel mislykkedes. Kopier venligst dit indhold, og prøv at genstarte appen for at kontrollere, om noget indhold er gået tabt.</string>
@@ -296,8 +297,8 @@
   <string name="lineSpacing">Linjeafstand</string>
   <string name="paragraphSpacing">Afsnitsafstand</string>
   <string name="defaultX">Standard</string>
-  <string name="zoomIn">Zoom ind</string>
-  <string name="zoomOut">Zoom ud</string>
+  <string name="zoomIn">Detaljeret listevisning</string>
+  <string name="zoomOut">Forenklet listevisning</string>
   <string name="switchingBooksTooltip">Tip: Hvis du klikker på bogtitlen øverst, kan du skifte bøger</string>
   <string name="scrollToTheCurrentArticle">Rul til den aktuelle artikel</string>
   <string name="allBooks">Alle bøger</string>
@@ -748,5 +749,9 @@
   <string name="pleaseEnableOneOfFollowingAiServiceMethods">Aktivér en af de følgende AI-tjenester</string>
   <string name="saveAsSplitImage">Opdel og gem i 9 separate korte billeder (.png)</string>
   <string name="notSupportForMD">Denne funktion understøtter i øjeblikket ikke Markdown-indhold, prøv venligst i TXT-tilstand!</string>
+  <string name="multipleShortcutBarManagement">Forvaltning af flerlinjede genvejslinjer</string>
+  <string name="hintForShortcutManagement">* Tryk længe på genvejselementet nedenfor for at redigere eller slette det. Du kan også trække det for at sortere det på tværs af forskellige genvejslinjer.\n* Kontroller genvejslinjen for at aktivere den i editoren. Den første linje er standard og kan ikke deaktiveres.\n* Hvis du ikke har brug for alle genvejslinjer, kan du deaktivere hele funktionen i indstillingsskærmen.</string>
+  <string name="tipResetMultiShortcutBars">Da du ikke har Pure Writer Pro, er den flerlinjede genvejslinje blevet automatisk nulstillet.</string>
+
 </resources>
 

@@ -76,6 +76,7 @@
   <string name="autoLock">Automatické zamykání</string>
   <string name="titleOpenImportedFile">Zjistilo se, že jste otevřeli externí soubor, vyberte prosím akci</string>
   <string name="sort">Typ třídění</string>
+  <string name="sortTypeTitleLong">Typ řazení \nplatí pouze pro aktuální seznam (kniha)</string>
   <string name="sortTypeModifiedTimeDown">Čas modifikace</string>
   <string name="sortTypeCreatedTimeDown">Čas vytvoření</string>
   <string name="warningSavedFailed">Uložení článku se nezdařilo. Zkopírujte prosím obsah a zkuste aplikaci restartovat, abyste zkontrolovali, zda se obsah neztratil.</string>
@@ -271,8 +272,8 @@
   <string name="tipParagraphSpacingInMD">V režimu Markdown nebude povoleno řádkování odstavců</string>
   <string name="lineSpacing">Rozteč řádků</string>
   <string name="paragraphSpacing">Mezera mezi odstavci</string>
-  <string name="zoomIn">Přiblížit</string>
-  <string name="zoomOut">Oddálit</string>
+  <string name="zoomIn">Detailní režim seznamu</string>
+  <string name="zoomOut">Zjednodušený režim seznamu</string>
   <string name="switchingBooksTooltip">Tip: Kliknutím na název knihy v horní části bude možné přepínat Knihy</string>
   <string name="scrollToTheCurrentArticle">Přejít na aktuální článek</string>
   <string name="allBooks">Všechny knihy</string>
@@ -748,4 +749,7 @@
   <string name="pleaseEnableOneOfFollowingAiServiceMethods">Prosím povolte jednu z následujících AI služeb</string>
   <string name="saveAsSplitImage">Rozdělit a uložit do 9 samostatných krátkých obrázků (.png)</string>
   <string name="notSupportForMD">Tato funkce momentálně nepodporuje obsah Markdown, zkuste to v režimu TXT!</string>
+  <string name="multipleShortcutBarManagement">Správa víceřádkové lišty se zkratkami</string>
+  <string name="hintForShortcutManagement">* Dlouhým stiskem položky zkratky níže ji můžete upravit nebo smazat. Také ji můžete přetáhnout a seřadit v různých lištách se zkratkami.\n* Zaškrtnutím lišty se zkratkami ji aktivujete v editoru. První lišta je výchozí a nelze ji deaktivovat.\n* Pokud nepotřebujete všechny lišty se zkratkami, můžete tuto funkci deaktivovat v obrazovce nastavení.</string>
+  <string name="tipResetMultiShortcutBars">Protože nemáte Pure Writer Pro, víceřádková lišta se zkratkami byla automaticky obnovena.</string>
 </resources>

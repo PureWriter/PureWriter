@@ -85,6 +85,7 @@
   <string name="titleOpenImportedFile">إذا وجدت أنك فتحت ملفًا خارجيًا ، يرجى تحديد إجراء</string>
   <string name="copied">نسخ</string>
   <string name="sort">نوع الفرز</string>
+  <string name="sortTypeTitleLong">نوع الترتيب \n ينطبق فقط على القائمة الحالية (الكتاب)</string>
   <string name="sortTypeModifiedTimeDown">وقت التعديل (تنازلي)</string>
   <string name="sortTypeCreatedTimeDown">الوقت المستغرق (تنازلي)</string>
   <string name="sortTypeModifiedTimeUp">تعديل الوقت (تصاعديا)</string>
@@ -301,8 +302,8 @@
   <string name="lineSpacing">تباعد الأسطر</string>
   <string name="paragraphSpacing">تباعد الفقرات</string>
   <string name="defaultX">تقصير</string>
-  <string name="zoomIn">تكبير</string>
-  <string name="zoomOut">تصغير</string>
+  <string name="zoomIn">الوضع التفصيلي للقائمة</string>
+  <string name="zoomOut">وضع القائمة المبسط</string>
   <string name="switchingBooksTooltip">نصيحة: سيؤدي النقر فوق عنوان الكتاب في الأعلى إلى تبديل الكتب</string>
   <string name="scrollToTheCurrentArticle">انتقل إلى المقال الحالي</string>
   <string name="allBooks">كل الكتب</string>
@@ -707,4 +708,7 @@
   <string name="pleaseEnableOneOfFollowingAiServiceMethods">يرجى تمكين إحدى خدمات الذكاء الاصطناعي التالية</string>
   <string name="saveAsSplitImage">قسم واحفظ في 9 صور قصيرة منفصلة (.png)</string>
   <string name="notSupportForMD">هذه الخاصية لا تدعم حاليًا محتوى Markdown، يرجى المحاولة في وضع TXT!</string>
+  <string name="multipleShortcutBarManagement">إدارة شريط الاختصارات المتعدد الأسطر</string>
+  <string name="hintForShortcutManagement">* اضغط طويلاً على العنصر الاختصار أدناه لتحريره أو حذفه. يمكنك أيضًا سحبه لترتيبه عبر أشرطة الاختصار المختلفة.\n* تحقق من شريط الاختصار لتمكينه في المحرر. الشريط الأول هو الافتراضي ولا يمكن تعطيله.\n* إذا لم تحتاج إلى جميع أشرطة الاختصار ، يمكنك تعطيل الوظيفة بأكملها في شاشة الإعدادات.</string>
+  <string name="tipResetMultiShortcutBars">بما أنك لا تملك Pure Writer Pro ، فقد تم إعادة تعيين شريط الاختصارات المتعدد الأسطر تلقائيًا.</string>
 </resources>

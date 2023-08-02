@@ -90,6 +90,7 @@
   <string name="titleOpenImportedFile">Úgy találta, hogy külső fájlt nyitott meg, kérjük, válasszon ki egy műveletet.</string>
   <string name="copied">Másolva</string>
   <string name="sort">Rendezési típus</string>
+  <string name="sortTypeTitleLong">Rendezési típus \ncsak az aktuális listára vonatkozik (könyv)</string>
   <string name="sortTypeModifiedTimeDown">Módosított idő</string>
   <string name="sortTypeCreatedTimeDown">Létrehozott idő</string>
   <string name="warningSavedFailed">A cikk mentése nem sikerült. Kérjük, másolja a tartalmat, és próbálja meg újraindítani az alkalmazást, hogy ellenőrizze, nem veszett-e el tartalom.</string>
@@ -291,8 +292,8 @@
   <string name="lineSpacing">Vonaltávolság</string>
   <string name="paragraphSpacing">bekezdések közötti távolság</string>
   <string name="defaultX">Alapértelmezett</string>
-  <string name="zoomIn">Nagyítás</string>
-  <string name="zoomOut">Kicsinyítés</string>
+  <string name="zoomIn">Részletes lista mód</string>
+  <string name="zoomOut">Egyszerűsített lista mód</string>
   <string name="switchingBooksTooltip">Tipp: A könyv címére kattintva a tetején képes lesz váltani Könyvek</string>
   <string name="scrollToTheCurrentArticle">Lapozzon az aktuális cikkhez</string>
   <string name="allBooks">Minden könyv</string>
@@ -734,4 +735,8 @@
   <string name="pleaseEnableOneOfFollowingAiServiceMethods">Kérjük, engedélyezze az alábbi AI szolgáltatások egyikét</string>
   <string name="saveAsSplitImage">Ossza szét és tárolja 9 különálló rövid képben (.png)</string>
   <string name="notSupportForMD">Ez a funkció jelenleg nem támogatja a Markdown tartalmat, próbálkozzon TXT módban!</string>
+  <string name="multipleShortcutBarManagement">Többsoros gyorsindító sáv kezelése</string>
+  <string name="hintForShortcutManagement">* Hosszan nyomja meg a gyorsindító elemet lent, hogy szerkeszthesse vagy törölhesse. Húzhatja is a különböző gyorsindító sávok közötti rendezéshez.\n* Ellenőrizze a gyorsindító sávot, hogy bekapcsolja az szerkesztőben. Az első sáv az alapértelmezett és nem lehet letiltani.\n* Ha nem szükséges az összes gyorsindító sáv, akkor letilthatja az egész funkciót a beállítások képernyőn.</string>
+  <string name="tipResetMultiShortcutBars">Mivel Önnek nincs Pure Writer Pro-ja, a többsoros gyorsindító sáv automatikusan visszaállt.</string>
+
 </resources>

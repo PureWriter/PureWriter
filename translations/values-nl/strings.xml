@@ -94,6 +94,7 @@
   <string name="titleOpenImportedFile">Gevonden dat u een extern bestand hebt geopend, selecteer aub een actie</string>
   <string name="copied">gekopieerde</string>
   <string name="sort">Sorteer Type</string>
+  <string name="sortTypeTitleLong">Sorteertype \nis alleen van toepassing op huidige lijst (boek)</string>
   <string name="sortTypeModifiedTimeDown">Gewijzigde tijd</string>
   <string name="sortTypeCreatedTimeDown">Gecreëerde tijd</string>
   <string name="warningSavedFailed">Bestand opgeslagen mislukt, kopieer de volledige tekst en start de app opnieuw om te zien of de inhoud ontbreekt</string>
@@ -298,8 +299,8 @@
   <string name="lineSpacing">Regelafstand</string>
   <string name="tipParagraphSpacingInMD">Alinea-afstand wordt niet ingeschakeld in markdown-modus</string>
   <string name="defaultX">Standaard</string>
-  <string name="zoomIn">Inzoomen</string>
-  <string name="zoomOut">Uitzoomen</string>
+  <string name="zoomIn">Gedetailleerde lijstmodus</string>
+  <string name="zoomOut">Vereenvoudigde lijstmodus</string>
   <string name="switchingBooksTooltip">Tip: als u bovenaan op de boektitel klikt, kunt u tussen boeken schakelen</string>
   <string name="scrollToTheCurrentArticle">Ga naar geselecteerd</string>
   <string name="allBooks">Alle boeken</string>
@@ -746,4 +747,8 @@
   <string name="pleaseEnableOneOfFollowingAiServiceMethods">Schakel een van de volgende AI-services in</string>
   <string name="saveAsSplitImage">Splits en bewaar in 9 aparte korte afbeeldingen (.png)</string>
   <string name="notSupportForMD">Deze functie ondersteunt momenteel geen Markdown-inhoud, probeer het in TXT-modus!</string>
+  <string name="multipleShortcutBarManagement">Beheer van meerdere regels Snelkoppelingsbalk</string>
+  <string name="hintForShortcutManagement">* Houd de snelkoppeling hieronder ingedrukt om deze te bewerken of te verwijderen. Je kunt het ook verslepen om het te sorteren over verschillende Snelkoppelingsbalken.\n* Controleer de Snelkoppelingsbalk om deze in de editor in te schakelen. De eerste balk is standaard en kan niet worden uitgeschakeld.\n* Als je niet alle Snelkoppelingsbalken nodig hebt, kun je de hele functie uitschakelen in het instellingenscherm.</string>
+  <string name="tipResetMultiShortcutBars">Omdat je geen Pure Writer Pro hebt, is de meerdere regels Snelkoppelingsbalk automatisch gereset.</string>
+
 </resources>
