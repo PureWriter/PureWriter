@@ -1,11 +1,11 @@
 {
-  "code": 1220303020,
-  "name": "23.3.5",
+  "code": 1220407020,
+  "name": "24.7.2",
   "changelog": {
-    "zh": "* 修复「查找替换」条目显示为空白问题\n* 时光机支持多选和批量删除\n* 支持「阿里云盘」和 OneDrive 云同步\n点击此通知即可打开下载页面。\n如果您不打算更新，可以长按此通知关闭它，打扰了！",
-    "zh-HK": "* 修復「查找替換」條目顯示為空白問題\n* 時光機支援多選和批量刪除\n* 支援「阿里雲盤」和 OneDrive 雲同步\n點擊此通知即可打開下載頁面，或您可自行訪問 https://t.me/PureWriter 獲得下載。\n如果您不打算更新，可以長按此通知關閉它，打擾了！",
-    "zh-TW": "* 修復「查找替換」條目顯示為空白問題\n* 時光機支援多選和批量刪除\n* 支援「阿里雲盤」和 OneDrive 雲同步\n點擊此通知即可打開下載頁面，或您可自行訪問 https://t.me/PureWriter 獲得下載。\n如果您不打算更新，可以長按此通知關閉它，打擾了！",
-    "default": "* Fix Find and Replace entry was displayed as blank\n* Support multiple selection and batch deletion for Time Machine.\n* Support OneDrive Cloud Sync\nClick this to open download page, or you can download it at https://t.me/PureWriter \nIf you don't plan to update, you can long press this notification to dismiss it. Sorry for the inconvenience!"
+    "zh": "* 全新 Material Design 3 设计，右下角的⊕按钮也更加沉浸了\n* 适配 Android 14 及其预测性返回手势",
+    "zh-HK": "* 全新 Material Design 3 設計，右下角的⊕按鈕也更加沉浸了\n* 適配 Android 14 及其預測性返回手勢",
+    "zh-TW": "* 全新 Material Design 3 設計，右下角的⊕按鈕也更加沉浸了\n* 適配 Android 14 及其預測性返回手勢",
+    "default": "* New Material Design 3, the ⊕ button is also more immersive\n* Support Android 14 Predictive Back Animations"
   },
   "url": "https://play.google.com/store/apps/details?id=com.drakeet.purewriter"
 }
