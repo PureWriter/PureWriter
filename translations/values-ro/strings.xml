@@ -256,7 +256,7 @@
   <string name="connectDesktop">Conectează-te la versiunea Desktop</string>
   <string name="disconnectDesktop">Deconectează versiunea Desktop</string>
   <string name="tipNotSupportThisDesktopVersion">Versiunea mobilă și cea desktop actuale nu se potrivesc și nu pot fi conectate. Vă rugăm să le actualizați ambele la cea mai recentă versiune și să încercați din nou.</string>
-  <string name="desktopDialogGuide">Trebuie să descărcați <b><i>Pure Writer Desktop1.7.4 (sau o versiune superioară)</i></b> de pe https://writer.drakeet.com/desktop_en \n\nCând mobilul și computerul dvs. se află în <b>aceeași rețea Wi-Fi sau hotspot👈👈👈👈</b>, deschideți Desktop și introduceți adresa IP de mai jos <b>în câmpul de intrare al Desktop</b> pentru a vă conecta la Pure Writer, apoi puteți sincroniza și edita articolul curent în timp real.</string>
+  <string name="desktopDialogGuide">Trebuie să descărcați <b><i>Pure Writer Desktop v1.9.0 (sau o versiune superioară)</i></b> de pe https://writer.drakeet.com/desktop_en \n\nCând mobilul și computerul dvs. se află în <b>aceeași rețea Wi-Fi sau hotspot👈👈👈👈</b>, deschideți Desktop și introduceți adresa IP de mai jos <b>în câmpul de intrare al Desktop</b> pentru a vă conecta la Pure Writer, apoi puteți sincroniza și edita articolul curent în timp real.</string>
   <string name="desktopDialogNote">Nota: Pure Writer Desktop se află încă în faza alfa. Vă rugăm să înțelegeți și să așteptați actualizările sale ulterioare.\n* Dacă vedeți <b>multe rânduri de adrese IP</b>, încercați să le conectați unul câte unul.</string>
   <string name="connectionIsStopping">Conectarea se oprește, încercați din nou mai târziu!</string>
   <string name="createShortcutLabel">Text Shortcut</string>
@@ -747,5 +747,6 @@
   <string name="multipleShortcutBarManagement">Gestionarea barei de comenzi rapide multi-linie</string>
   <string name="hintForShortcutManagement">* Apăsați lung pe elementul de comandă rapidă de mai jos pentru a-l edita sau șterge. De asemenea, îl puteți trage pentru a-l sorta în diferite bare de comenzi rapide.\n* Verificați bara de comenzi rapide pentru a o activa în editor. Prima bară este cea implicită și nu poate fi dezactivată.\n* Dacă nu aveți nevoie de toate barele de comenzi rapide, puteți dezactiva întreaga funcție pe ecranul Setări.</string>
   <string name="tipResetMultiShortcutBars">Deoarece nu aveți Pure Writer Pro, bara de comenzi rapide multi-linie a fost resetată automat.</string>
+  <string name="aiSuggestUserMessage">Vă rugăm să îmi sugerați un titlu de articol bazat pe corpul următorului articol.\n\nSpuneți-mi titlul direct!\nDe exemplu, corpul pe care vi l-am dat este: \"ABC...\".\nAr trebui să îmi răspundeți: Alfabetul englez\nNu aveți cuvinte redundante, de exemplu, nu ar trebui să îmi răspundeți: Titlul sugerat: \"Alfabetul englez\"\nNu îmi răspundeți nici: \"Literele engleze\" - ghilimelele sunt inutile\nAm nevoie de răspunsul dumneavoastră pentru a mă lăsa direct ca și conținutul titlului!\n\nEi bine, acesta este corpul articolului:</string>
 
 </resources>

@@ -1,6 +1,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
   <string name="pureWriterLauncher">纯纯写作</string>
   <string name="pureWriter">纯纯写作</string>
+  <string name="pureWriterI18n">纯纯写作</string>
   <string name="pureWriterPro">纯纯写作 Pro</string>
   <string name="titleForTimeMachineHeart">公众号</string>
   <string name="titleHint">请输入标题</string>
@@ -362,7 +363,7 @@
   <string name="showMore">显示更多</string>
   <string name="textColorAlpha">字体颜色透明度</string>
   <string name="tipNotSupportThisDesktopVersion">当前手机端和桌面端版本不匹配，无法连接，请各自更新到最新版后重试</string>
-  <string name="desktopDialogGuide">您需要从\nhttps://writer.drakeet.com/desktop \n下载<b><i>纯纯写作桌面版1.7.4 或以上版本</i></b>。\n\n当手机与电脑<b>处于同一个 Wi-Fi 网络或热点</b>时👈👈👈，打开桌面版后将以下的 IP 地址<b>输入于桌面版中的输入栏中</b>，即可与桌面版实时连接，双向同步编辑当前文章。</string>
+  <string name="desktopDialogGuide">您需要从\nhttps://writer.drakeet.com/desktop \n下载<b><i>纯纯写作桌面版 1.9.0 或以上版本</i></b>。\n\n当手机与电脑<b>处于同一个 Wi-Fi 网络或热点</b>时👈👈👈，打开桌面版后将以下的 IP 地址<b>输入于桌面版中的输入栏中</b>，即可与桌面版实时连接，双向同步编辑当前文章。</string>
   <string name="desktopDialogNote">注意：当前纯纯写作桌面版还处于非常初级阶段，许多功能未完善，请您理解和静待其后续更新。\n* 若您看到<b>多行 IP 地址</b>，请逐一尝试连接它们。</string>
   <string name="connect">连接</string>
   <string name="connectDesktop">连接纯纯写作桌面版</string>
@@ -844,4 +845,8 @@
   <string name="dynamicIndentationSummary">在启用段首缩进的前提下，换行时动态采用与上一行一致的缩进。如果关闭此选项，则采用固定缩进。</string>
   <string name="smartRemoveIndentation">智能删除整个缩进</string>
   <string name="smartRemoveIndentationSummary">若光标在段首缩进后，此时按删除键，自动删掉整个缩进。</string>
+  <string name="aiSuggestTitle">AI+标题</string>
+  <string name="aiSuggestTitleTip">AI 已根据您的正文为您推荐了标题，若您不喜欢，可自行撤销它，撤销按钮一般在快捷输入栏上，或者在右上角菜单中。撤销之前，请确保光标在标题栏内！</string>
+  <string name="aiSuggestUserMessage">请根据以下文章正文内容为我建议一个文章标题。\n\n请直接告诉我标题！\n例如我给你的正文是：「ABC...」。\n你应该回复我：英文字母\n不要有多余字眼，比如不应该回复我：建议标题：「英文字母」\n也不要回复我：“英文字母”——引号是不必要的\n我需要您的回复能让我直接作为标题内容！\n\n好了，这是文章正文内容:</string>
+  <string name="tipForNullPicError">由于系统文件存储服务出错，暂时无法存储图片。对于此问题，一般重启手机后即可解决，麻烦您手动重启手机系统后重试！</string>
 </resources>

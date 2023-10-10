@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="pureWriter">Pure Writer</string>
+  <string name="pureWriterI18n">PuraScritt</string>
   <string name="titleHint">Titolo</string>
   <string name="editorTipAMenu">Dovrai prima scegliere del testo</string>
   <string name="editorHintContent">Inizia scrivendo del contenuto…</string>
@@ -543,7 +544,7 @@
     <string name="connectDesktop">Connettiti al desktop</string>
   <string name="disconnectDesktop">Disconnetti il desktop</string>
   <string name="connect">Visualizza</string>
-  <string name="desktopDialogGuide">Devi scaricare <b><i>Pure Writer Desktop1.7.4 (o superiore)</i></b> da https://writer.drakeet.com/desktop_en \n\nQuando il tuo cellulare e il computer sono sulla <b>stessa rete Wi-Fi o hotspot👈👈👈</b>, apri Desktop e inserisci l\'indirizzo IP sottostante nel campo di input di Desktop per connetterti a Pure Writer, quindi puoi sincronizzare e modificare l\'articolo corrente in tempo reale.</string>
+  <string name="desktopDialogGuide">Devi scaricare <b><i>Pure Writer Desktop v1.9.0 (o superiore)</i></b> da https://writer.drakeet.com/desktop_en \n\nQuando il tuo cellulare e il computer sono sulla <b>stessa rete Wi-Fi o hotspot👈👈👈</b>, apri Desktop e inserisci l\'indirizzo IP sottostante nel campo di input di Desktop per connetterti a Pure Writer, quindi puoi sincronizzare e modificare l\'articolo corrente in tempo reale.</string>
   <string name="connectionIsStopping">La connessione si sta interrompendo, riprova più tardi!</string>
   <string name="stop_waiting_connection">Smetti di aspettare le connessioni</string>
   <string name="desktopDisconnected">Il desktop è disconnesso</string>
@@ -720,5 +721,6 @@
   <string name="multipleShortcutBarManagement">Gestione della barra di scorciatoie multilinea</string>
   <string name="hintForShortcutManagement">* Premi a lungo sull\'elemento di scorciatoia qui sotto per modificarlo o eliminarlo. Puoi anche trascinarlo per ordinarlo in diverse Barre di scorciatoie.\n* Verifica la Barra di scorciatoie per abilitarla nell\'editor. La prima barra è quella predefinita e non può essere disabilitata.\n* Se non hai bisogno di tutte le Barre di scorciatoie, puoi disabilitare l\'intera funzione nella schermata Impostazioni.</string>
   <string name="tipResetMultiShortcutBars">Poiché non disponi di Pure Writer Pro, la barra di scorciatoie multilinea è stata resettata automaticamente.</string>
+  <string name="aiSuggestUserMessage">Per favore suggeriscimi un titolo di un articolo basato sul corpo del seguente articolo.\n\nDimmi il titolo direttamente!\nAd esempio, il corpo che ti ho dato è: \"ABC...\".\nDovresti rispondermi: Alfabeto inglese\nNon avere parole superflue, ad esempio, non dovresti rispondermi: Titolo suggerito: \"Alfabeto inglese\"\nNon rispondermi nemmeno: \"Lettere inglesi\" - le virgolette non sono necessarie\nHo bisogno della tua risposta per farmi direttamente come il contenuto del titolo!\n\nBene, questo è il corpo dell\'articolo:</string>
 
 </resources>

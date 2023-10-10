@@ -543,7 +543,7 @@
   <string name="connectDesktop">Conectarse a la aplicación de escritorio</string>
   <string name="disconnectDesktop">Desconectar de la aplicación de escritorio</string>
   <string name="connect">Conectar</string>
-  <string name="desktopDialogGuide">Debe descargar <b><i>Pure Writer Desktop1.7.4 (o superior)</i></b> desde https://writer.drakeet.com/desktop_en \n\nCuando su dispositivo móvil y su PC estén en <b>la misma red Wi-Fi o hotspot👈👈👈 </b>, abra Desktop e ingrese la dirección IP a continuación en el campo de entrada de Desktop para conectarse a Pure Writer, luego podrá sincronizar y editar el artículo actual en tiempo real.</string>
+  <string name="desktopDialogGuide">Debe descargar <b><i>Pure Writer Desktop v1.9.0 (o superior)</i></b> desde https://writer.drakeet.com/desktop_en \n\nCuando su dispositivo móvil y su PC estén en <b>la misma red Wi-Fi o hotspot👈👈👈 </b>, abra Desktop e ingrese la dirección IP a continuación en el campo de entrada de Desktop para conectarse a Pure Writer, luego podrá sincronizar y editar el artículo actual en tiempo real.</string>
   <string name="connectionIsStopping">La conexión se está deteniendo, inténtalo de nuevo más tarde.</string>
   <string name="stop_waiting_connection">Deja de esperar conexiones</string>
   <string name="desktopDisconnected">El escritorio está desconectado</string>
@@ -744,4 +744,6 @@
   <string name="multipleShortcutBarManagement">Gestión de la barra de atajos de múltiples líneas</string>
   <string name="hintForShortcutManagement">* Mantén presionado el elemento de atajo a continuación para editarlo o eliminarlo. También puedes arrastrarlo para ordenarlo a través de diferentes Barras de Atajos.\n* Verifica la Barra de Atajos para habilitarla en el editor. La primera barra es la predeterminada y no puede ser deshabilitada.\n* Si no necesitas todas las Barras de Atajos, puedes desactivar toda la función en la pantalla de Configuración.</string>
   <string name="tipResetMultiShortcutBars">Como no tienes Pure Writer Pro, la barra de atajos de múltiples líneas se ha restablecido automáticamente.</string>
+  <string name="aiSuggestUserMessage">Por favor, sugiéreme un título de artículo basado en el cuerpo del siguiente artículo.\n\n¡Dime el título directamente!\nPor ejemplo, el cuerpo que te di es: \"ABC...\".\nDeberías responderme: Alfabeto inglés\nNo tengas palabras redundantes, por ejemplo, no deberías responderme: Título sugerido: \"Alfabeto inglés\"\nTampoco me respondas: \"Letras inglesas\" - las comillas son innecesarias\n¡Necesito tu respuesta para dejarme directamente como el contenido del título!\n\nBueno, este es el cuerpo del artículo:</string>
+
 </resources>

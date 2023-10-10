@@ -260,7 +260,7 @@
   <string name="connectDesktop">Savienojiet darbvirsmas versiju</string>
   <string name="disconnectDesktop">Atvienot darbvirsmas versiju</string>
   <string name="tipNotSupportThisDesktopVersion">Šībrīža mobilā un darbvirsmas versija nesakrīt, un tās nevar savienot. Lūdzu, atjauniniet abas versijas līdz jaunākajai un mēģiniet vēlreiz.</string>
-  <string name="desktopDialogGuide">Jums nepieciešams lejupielādēt <b><i>Pure Writer Desktop1.7.4 (vai jaunāku)</i></b> no https://writer.drakeet.com/desktop_en \n\nJa jūsu mobilais tālrunis un dators ir <b>vienā Wi-Fi tīklā vai karstajā punktā👈👈👈👈</b>, atveriet Desktop un ievadiet zemāk norādīto IP adresi <b>Desktop ievades laukā</b>, lai izveidotu savienojumu ar Pure Writer, tad varat sinhronizēt un rediģēt pašreizējo rakstu reālajā laikā.</string>
+  <string name="desktopDialogGuide">Jums nepieciešams lejupielādēt <b><i>Pure Writer Desktop v1.9.0 (vai jaunāku)</i></b> no https://writer.drakeet.com/desktop_en \n\nJa jūsu mobilais tālrunis un dators ir <b>vienā Wi-Fi tīklā vai karstajā punktā👈👈👈👈</b>, atveriet Desktop un ievadiet zemāk norādīto IP adresi <b>Desktop ievades laukā</b>, lai izveidotu savienojumu ar Pure Writer, tad varat sinhronizēt un rediģēt pašreizējo rakstu reālajā laikā.</string>
   <string name="desktopDialogNote">Piezīme: Pure Writer Desktop joprojām ir alfa fāzē. Lūdzu, izprotiet un gaidiet tās turpmākos atjauninājumus.\n* Ja redzat <b>vairākas IP adrešu rindas</b>, mēģiniet tās pieslēgt pa vienai.</string>
   <string name="connectionIsStopping">Savienojums pārtraucas, mēģiniet vēlreiz vēlāk!</string>
   <string name="createShortcutLabel">Teksta saīsne</string>
@@ -752,5 +752,6 @@
   <string name="multipleShortcutBarManagement">Daudzrindu saīsnu joslas pārvaldība</string>
   <string name="hintForShortcutManagement">* Ilgstoši nospiediet uz saīsnes vienības zemāk, lai to rediģētu vai dzēstu. Jūs to varat arī pārvietot, lai kārtotu to starp dažādām saīsnu joslām.\n* Atzīmējiet saīsnu joslu, lai to iespējotu redaktorā. Pirmā josla ir noklusējuma un to nevar atspējot.\n* Ja jums nav nepieciešamas visas saīsnu joslas, jūs varat atspējot visu funkciju Iestatījumu ekrānā.</string>
   <string name="tipResetMultiShortcutBars">Tā kā jums nav Pure Writer Pro, daudzrindu saīsnu josla ir automātiski atiestatīta.</string>
+  <string name="aiSuggestUserMessage">Lūdzu, ieteikt man raksta nosaukumu, pamatojoties uz šāda raksta ķermeni.\n\nLūdzu, pasakiet man nosaukumu tieši!\nPiēram, ķermenis, ko es jums devu, ir: \"ABC...\".\nJums vajadzētu atbildēt man: Angļu alfabēts\nNedrīkst būt liekvārdība, piemēram, jums nevajadzētu atbildēt man: Ieteiktais nosaukums: \"Angļu alfabēts\"\nArī neatbildiet man: \"Angļu burti\" - pēdiņas nav nepieciešamas\nMan vajag jūsu atbildi, lai mani varētu tieši uzskatīt par nosaukuma saturu!\n\nNu, šis ir raksta ķermenis:</string>
 
 </resources>

@@ -336,7 +336,7 @@
   <string name="disconnectDesktop">Katkesta töölauaversiooni ühendus</string>
   <string name="connect">Ühendage</string>
   <string name="tipNotSupportThisDesktopVersion">Seisev mobiil- ja töölauaversioon ei vasta ja neid ei saa ühendada. Palun värskendage mõlemad uusima versiooniga ja proovige uuesti.</string>
-  <string name="desktopDialogGuide">Vajalik on alla laadida <b><i>Pure Writer Desktop1.7.4 (või uuem)</i></b> aadressilt https://writer.drakeet.com/desktop_en \n\nKui teie mobiiltelefon ja arvuti on <b>ühes Wi-Fi võrgus või hotspotis👈👈👈</b>, avage Desktop ja sisestage allpool olev IP-aadress <b>Intervesti sisestusväljale Desktop</b>, et luua ühendus Pure Writeriga, seejärel saate sünkroonida ja redigeerida jooksvat artiklit reaalajas.</string>
+  <string name="desktopDialogGuide">Vajalik on alla laadida <b><i>Pure Writer Desktop v1.9.0 (või uuem)</i></b> aadressilt https://writer.drakeet.com/desktop_en \n\nKui teie mobiiltelefon ja arvuti on <b>ühes Wi-Fi võrgus või hotspotis👈👈👈</b>, avage Desktop ja sisestage allpool olev IP-aadress <b>Intervesti sisestusväljale Desktop</b>, et luua ühendus Pure Writeriga, seejärel saate sünkroonida ja redigeerida jooksvat artiklit reaalajas.</string>
   <string name="connectionIsStopping">Ühendus peatub, proovige hiljem uuesti!</string>
   <string name="createShortcutLabel">Teksti otsetee</string>
   <string name="cursorPositionForNewArticle">Kursori asukoht uue artikli jaoks</string>
@@ -754,5 +754,6 @@
   <string name="multipleShortcutBarManagement">Mitmerealise kiirkäivitusriba haldamine</string>
   <string name="hintForShortcutManagement">* Hoidke all kiirkäivitusriba üksust allpool, et seda redigeerida või kustutada. Saate seda ka lohistada ja erinevate kiirkäivitusribade vahel sorteerida.\n* Kontrollige kiirkäivitusriba, et see redaktoris lubada. Esimene riba on vaikeriba ja seda ei saa keelata.\n* Kui te ei vaja kõiki kiirkäivitusribasid, saate kogu funktsiooni seadete ekraanil keelata.</string>
   <string name="tipResetMultiShortcutBars">Kuna teil pole Pure Writer Pro-d, on mitmerealine kiirkäivitusriba automaatselt lähtestatud.</string>
+  <string name="aiSuggestUserMessage">Palun pakkuge artikli pealkiri, mis põhineb järgmise artikli sisul.\n\nPalun öelge mulle pealkiri otse!\nNäiteks, keha, mille ma teile andsin, on: \"ABC...\".\nTe peaksite mulle vastama: Inglise tähestik\nÄrge kasutage üleliigseid sõnu, näiteks, te ei tohiks mulle vastata: Soovitatav pealkiri: \"Inglise tähestik\"\nÄrge vastake mulle ka: \"Inglise tähed\" - jutumärgid on tarbetud\nMul on vaja teie vastust, et saaksin seda otse pealkirjasisuna kasutada!\n\nNoh, see on artikli sisu:</string>
 
 </resources>

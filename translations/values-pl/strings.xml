@@ -607,7 +607,7 @@
   <string name="connectDesktop">Podłącz wersję komputerową</string>
   <string name="disconnectDesktop">Odłącz wersję komputerową</string>
   <string name="tipNotSupportThisDesktopVersion">Obecne wersje mobilne i stacjonarne nie pasują do siebie i nie można ich połączyć. Zaktualizuj obie wersje do najnowszej wersji i spróbuj ponownie.</string>
-  <string name="desktopDialogGuide">Musisz pobrać <b><i>Pure Writer Desktop1.7.4 (lub nowszy)</i></b> z https://writer.drakeet.com/desktop_en\n\nGdy telefon komórkowy i komputer są w <b>tej samej sieci Wi-Fi lub w tym samym punkcie dostępu👈👈👈</b>, otwórz Pulpit i wpisz poniżej adres IP <b>w polu wprowadzania na pulpicie</b>, aby się z nim połączyć Pure Writer, możesz synchronizować i edytować bieżący artykuł w czasie rzeczywistym.</string>
+  <string name="desktopDialogGuide">Musisz pobrać <b><i>Pure Writer Desktop v1.9.0 (lub nowszy)</i></b> z https://writer.drakeet.com/desktop_en\n\nGdy telefon komórkowy i komputer są w <b>tej samej sieci Wi-Fi lub w tym samym punkcie dostępu👈👈👈</b>, otwórz Pulpit i wpisz poniżej adres IP <b>w polu wprowadzania na pulpicie</b>, aby się z nim połączyć Pure Writer, możesz synchronizować i edytować bieżący artykuł w czasie rzeczywistym.</string>
   <string name="desktopDialogNote">Uwaga: Pure Writer Desktop jest nadal w fazie alfa. Proszę zrozumieć i czekać na kolejne aktualizacje.\n* Jeśli widzisz <b>wiele wierszy adresów IP</b>, spróbuj połączyć je jeden po drugim.</string>
   <string name="fabContextHideFabTemporarily">Tymczasowo ukryj główny pływający przycisk</string>
   <string name="introductionOfReadOnlyMode">* Gdy kursor nie jest widoczny, dwukrotne kliknięcie jest wymagane, aby umieścić kursor i przejść do trybu edycji\n* Gdy kursor jest widoczny, tekst można edytować lub modyfikować jednym kliknięciem w dowolny sposób\n* Gdy kursor jest widoczny, możesz nacisnąć klawisz Wstecz, aby ukryć kursor i przejść do trybu tylko do odczytu</string>
@@ -749,5 +749,6 @@
   <string name="multipleShortcutBarManagement">Zarządzanie wieloliniowym paskiem skrótów</string>
   <string name="hintForShortcutManagement">* Przytrzymaj element skrótu poniżej, aby go edytować lub usunąć. Możesz też przeciągnąć go, aby posortować go na różnych paskach skrótów.\n* Zaznacz pasek skrótów, aby włączyć go w edytorze. Pierwszy pasek jest domyślny i nie można go wyłączyć.\n* Jeśli nie potrzebujesz wszystkich pasków skrótów, możesz wyłączyć całą funkcję na ekranie Ustawień.</string>
   <string name="tipResetMultiShortcutBars">Ponieważ nie masz Pure Writer Pro, wieloliniowy pasek skrótów został automatycznie zresetowany.</string>
+  <string name="aiSuggestUserMessage">Proszę o sugerowanie tytułu artykułu na podstawie treści następującego artykułu.\n\nProszę podać mi tytuł bezpośrednio!\nNa przykład, treść, którą ci dałem, to: \"ABC...\".\nPowinieneś mi odpowiedzieć: Alfabet angielski\nNie powinno być zbędnych słów, na przykład, nie powinieneś mi odpowiadać: Sugerowany tytuł: \"Alfabet angielski\"\nNie odpowiadaj mi również: \"Litery angielskie\" - cudzysłowy są niepotrzebne\nPotrzebuję twojej odpowiedzi, aby pozwolić mi bezpośrednio jako treść tytułu!\n\nNo dobrze, to jest treść artykułu:</string>
 
 </resources>

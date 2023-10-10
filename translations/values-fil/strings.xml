@@ -260,7 +260,7 @@
   <string name="connectDesktop">Connect Desktop version</string>
   <string name="disconnectDesktop">Idiskonekta ang bersyon ng Desktop</string>
   <string name="tipNotSupportThisDesktopVersion">Ang kasalukuyang mga bersyon ng mobile at desktop ay hindi tugma at hindi maaaring konektado. Paki-update pareho sa pinakabagong bersyon at subukang muli.</string>
-  <string name="desktopDialogGuide">Kailangan mong i-download ang <b><i>Pure Writer Desktop1.7.4 (o mas mataas)</i></b> mula sa https://writer.drakeet.com/desktop_en \n \nKapag ang iyong mobile at computer ay nasa <b>parehong Wi-Fi network o hotspot👈👈👈</b>, buksan ang Desktop at ilagay ang IP address sa ibaba <b>sa input field ng Desktop</b> upang kumonekta sa Pure Writer, pagkatapos ay maaari mong i-sync at i-edit ang kasalukuyang artikulo nang real time.</string>
+  <string name="desktopDialogGuide">Kailangan mong i-download ang <b><i>Pure Writer Desktop v1.9.0 (o mas mataas)</i></b> mula sa https://writer.drakeet.com/desktop_en \n \nKapag ang iyong mobile at computer ay nasa <b>parehong Wi-Fi network o hotspot👈👈👈</b>, buksan ang Desktop at ilagay ang IP address sa ibaba <b>sa input field ng Desktop</b> upang kumonekta sa Pure Writer, pagkatapos ay maaari mong i-sync at i-edit ang kasalukuyang artikulo nang real time.</string>
   <string name="desktopDialogNote">Tandaan: Nasa alpha stage pa rin ang Pure Writer Desktop. Mangyaring unawain at hintayin ang mga kasunod na update nito.\n* Kung makakita ka ng <b>maraming linya ng mga IP address</b>, subukang ikonekta ang mga ito nang paisa-isa.</string>
   <string name="connectionIsStopping">Tumitigil ang koneksyon, subukang muli mamaya!</string>
 
@@ -761,5 +761,6 @@
   <string name="multipleShortcutBarManagement">Pamamahala ng Multi-line Shortcut Bar</string>
   <string name="hintForShortcutManagement">* Mahabang pindutin ang shortcut item sa ibaba upang i-edit o tanggalin ito. Maari mo rin itong i-drag para i-sort ito sa iba\'t ibang Shortcut Bars.\n* Suriin ang Shortcut Bar upang paganahin ito sa editor. Ang unang bar ay default at hindi maaring i-disable.\n* Kung hindi mo kailangan ang lahat ng Shortcut Bars, maari mong i-disable ang buong function sa Settings screen.</string>
   <string name="tipResetMultiShortcutBars">Dahil wala kang Pure Writer Pro, ang multi-line Shortcut Bar ay awtomatikong na-reset.</string>
+  <string name="aiSuggestUserMessage">Mangyaring magmungkahi ng isang pamagat ng artikulo batay sa katawan ng sumusunod na artikulo.\n\nSabihin mo sa akin ang pamagat nang direkta!\nHalimbawa, ang katawan na ibinigay ko sa iyo ay: \"ABC...\".\nDapat sagutin mo ako: Ingles na alpabeto\nWag magkaroon ng sobrang mga salita, halimbawa, hindi mo dapat sagutin ako: Inirerekumendang pamagat: \"Ingles na alpabeto\"\nHuwag din sagutin ako: \"Ingles na mga letra\" - hindi kailangan ang mga quote\nKailangan ko ang iyong sagot upang ako ay direktang maging ang nilalaman ng pamagat!\n\nSige, ito ang katawan ng artikulo:</string>
 
 </resources>

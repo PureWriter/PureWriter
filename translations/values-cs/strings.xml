@@ -311,7 +311,7 @@
   <string name="disconnectDesktop">Odpojení verze Desktop</string>
   <string name="connect">Připojit</string>
   <string name="tipNotSupportThisDesktopVersion">Aktuální mobilní a desktopová verze se neshodují a nelze je připojit. Aktualizujte prosím obě verze na nejnovější a zkuste to znovu.</string>
-  <string name="desktopDialogGuide">Musíte si stáhnout <b><i>Pure Writer Desktop1.7.4 (nebo vyšší)</i></b> z adresy https://writer.drakeet.com/desktop_en \n\nPokud jsou váš mobilní telefon a počítač ve <b>stejné síti Wi-Fi nebo hotspotu👈👈👈</b>, otevřete aplikaci Desktop a zadejte níže uvedenou IP adresu <b>do vstupního pole aplikace Desktop</b>, abyste se připojili k aplikaci Pure Writer, pak můžete synchronizovat a upravovat aktuální článek v reálném čase.</string>
+  <string name="desktopDialogGuide">Musíte si stáhnout <b><i>Pure Writer Desktop v1.9.0 (nebo vyšší)</i></b> z adresy https://writer.drakeet.com/desktop_en \n\nPokud jsou váš mobilní telefon a počítač ve <b>stejné síti Wi-Fi nebo hotspotu👈👈👈</b>, otevřete aplikaci Desktop a zadejte níže uvedenou IP adresu <b>do vstupního pole aplikace Desktop</b>, abyste se připojili k aplikaci Pure Writer, pak můžete synchronizovat a upravovat aktuální článek v reálném čase.</string>
   <string name="desktopDialogNote">Poznámka: Aplikace Pure Writer Desktop je stále ve fázi alfa. Prosíme o pochopení a vyčkejte na jeho následné aktualizace.\n* Pokud se zobrazí <b>více řádků IP adres</b>, zkuste je připojit jeden po druhém.</string>
   <string name="connectionIsStopping">Připojení se zastavuje, zkuste to později!</string>
   <string name="createShortcutLabel">Textová zkratka</string>
@@ -752,4 +752,5 @@
   <string name="multipleShortcutBarManagement">Správa víceřádkové lišty se zkratkami</string>
   <string name="hintForShortcutManagement">* Dlouhým stiskem položky zkratky níže ji můžete upravit nebo smazat. Také ji můžete přetáhnout a seřadit v různých lištách se zkratkami.\n* Zaškrtnutím lišty se zkratkami ji aktivujete v editoru. První lišta je výchozí a nelze ji deaktivovat.\n* Pokud nepotřebujete všechny lišty se zkratkami, můžete tuto funkci deaktivovat v obrazovce nastavení.</string>
   <string name="tipResetMultiShortcutBars">Protože nemáte Pure Writer Pro, víceřádková lišta se zkratkami byla automaticky obnovena.</string>
+  <string name="aiSuggestUserMessage">Navrhněte mi prosím název článku na základě těla následujícího článku.\n\nŘekněte mi název přímo!\nNapříklad, tělo, které jsem vám dal, je: \"ABC...\".\nMěli byste mi odpovědět: Anglická abeceda\nNemějte nadbytečná slova, například, neměli byste mi odpovídat: Navrhovaný název: \"Anglická abeceda\"\nTaké mi neodpovídejte: \"Anglické písmenky\" - uvozovky jsou zbytečné\nPotřebuji, abyste mi odpověděl přímo jako obsah názvu!\n\nDobře, toto je tělo článku:</string>
 </resources>

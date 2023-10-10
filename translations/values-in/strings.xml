@@ -539,7 +539,7 @@
     <string name="connectDesktop">Hubungkan ke desktop</string>
   <string name="disconnectDesktop">Putuskan sambungan Desktop</string>
   <string name="connect">Hubungkan</string>
-  <string name="desktopDialogGuide">Anda perlu mengunduh <b><i> Pure Writer Desktop1.7.4 (atau lebih tinggi) </i></b> dari https://writer.drakeet.com/desktop_en\n\nKetika ponsel dan komputer Anda berada di <b>jaringan Wi-Fi atau hotspot yang sama👈👈👈 </b>, buka Desktop dan masukkan alamat IP di bawah ini ke dalam bidang input Desktop untuk terhubung ke Pure Writer, lalu Anda dapat menyinkronkan dan edit artikel saat ini secara real-time.</string>
+  <string name="desktopDialogGuide">Anda perlu mengunduh <b><i> Pure Writer Desktop v1.9.0 (atau lebih tinggi) </i></b> dari https://writer.drakeet.com/desktop_en\n\nKetika ponsel dan komputer Anda berada di <b>jaringan Wi-Fi atau hotspot yang sama👈👈👈 </b>, buka Desktop dan masukkan alamat IP di bawah ini ke dalam bidang input Desktop untuk terhubung ke Pure Writer, lalu Anda dapat menyinkronkan dan edit artikel saat ini secara real-time.</string>
   <string name="connectionIsStopping">Koneksi terhenti, coba lagi nanti!</string>
   <string name="stop_waiting_connection">Berhenti menunggu koneksi</string>
   <string name="desktopDisconnected">Desktop terputus</string>
@@ -716,5 +716,6 @@
   <string name="multipleShortcutBarManagement">Manajemen Bar Shortcut Multi-baris</string>
   <string name="hintForShortcutManagement">* Tekan lama pada item shortcut di bawah ini untuk mengedit atau menghapusnya. Anda juga bisa menyeretnya untuk mengurutkannya di berbagai Bar Shortcut.\n* Centang Bar Shortcut untuk mengaktifkannya di editor. Bar pertama adalah default dan tidak bisa dinonaktifkan.\n* Jika Anda tidak memerlukan semua Bar Shortcut, Anda bisa menonaktifkan seluruh fungsi di layar Pengaturan.</string>
   <string name="tipResetMultiShortcutBars">Karena Anda tidak memiliki Pure Writer Pro, Bar Shortcut multi-baris telah direset secara otomatis.</string>
+  <string name="aiSuggestUserMessage">Silakan sarankan judul artikel berdasarkan isi artikel berikut.\n\nBeritahu saya judulnya secara langsung!\nMisalnya, isi yang saya berikan kepada Anda adalah: \"ABC...\".\nAnda harus menjawab saya: Abjad Inggris\nJangan memiliki kata-kata yang berlebihan, misalnya, Anda tidak harus menjawab saya: Judul yang disarankan: \"Abjad Inggris\"\nJuga jangan menjawab saya: \"Huruf Inggris\" - tanda kutip tidak perlu\nSaya butuh jawaban Anda untuk membiarkan saya langsung sebagai konten judul!\n\nBaiklah, ini adalah isi artikelnya:</string>
 
 </resources>

@@ -338,7 +338,7 @@
   <string name="disconnectDesktop">Disconnect Desktop-version</string>
   <string name="connect">Forbinde</string>
   <string name="tipNotSupportThisDesktopVersion">De aktuelle versioner af mobil og desktop passer ikke sammen og kan ikke forbindes. Opdater venligst begge til den nyeste version og prøv igen.</string>
-  <string name="desktopDialogGuide">Du skal downloade <b><i>Pure Writer Desktop1.7.4 (eller nyere)</i></b> fra https://writer.drakeet.com/desktop_en \n\nNår din mobil og computer er på <b>det samme Wi-Fi-netværk eller hotspot👈👈👈👈</b>, skal du åbne Desktop og indtaste IP-adressen nedenfor <b>i indtastningsfeltet i Desktop</b> for at oprette forbindelse til Pure Writer, hvorefter du kan synkronisere og redigere den aktuelle artikel i realtid.</string>
+  <string name="desktopDialogGuide">Du skal downloade <b><i>Pure Writer Desktop v1.9.0 (eller nyere)</i></b> fra https://writer.drakeet.com/desktop_en \n\nNår din mobil og computer er på <b>det samme Wi-Fi-netværk eller hotspot👈👈👈👈</b>, skal du åbne Desktop og indtaste IP-adressen nedenfor <b>i indtastningsfeltet i Desktop</b> for at oprette forbindelse til Pure Writer, hvorefter du kan synkronisere og redigere den aktuelle artikel i realtid.</string>
   <string name="desktopDialogNote">Bemærk: Pure Writer Desktop er stadig på alpha-stadiet. Du bedes forstå og vente på de efterfølgende opdateringer.\n* Hvis du ser <b>flere linjer med IP-adresser</b>, skal du prøve at forbinde dem en efter en.</string>
   <string name="connectionIsStopping">Forbindelsen er ved at stoppe, prøv igen senere!</string>
   <string name="createShortcutLabel">Tekstgenvej</string>
@@ -752,6 +752,7 @@
   <string name="multipleShortcutBarManagement">Forvaltning af flerlinjede genvejslinjer</string>
   <string name="hintForShortcutManagement">* Tryk længe på genvejselementet nedenfor for at redigere eller slette det. Du kan også trække det for at sortere det på tværs af forskellige genvejslinjer.\n* Kontroller genvejslinjen for at aktivere den i editoren. Den første linje er standard og kan ikke deaktiveres.\n* Hvis du ikke har brug for alle genvejslinjer, kan du deaktivere hele funktionen i indstillingsskærmen.</string>
   <string name="tipResetMultiShortcutBars">Da du ikke har Pure Writer Pro, er den flerlinjede genvejslinje blevet automatisk nulstillet.</string>
+  <string name="aiSuggestUserMessage">Foreslå venligst en artikel titel baseret på kroppen af følgende artikel.\n\nFortæl mig titlen direkte!\nFor eksempel, kroppen jeg gav dig er: \"ABC...\".\nDu skal svare mig: Engelsk alfabet\nHar ikke overflødige ord, for eksempel, du skal ikke svare mig: Foreslået titel: \"Engelsk alfabet\"\nSvar mig heller ikke: \"Engelske bogstaver\" - anførselstegn er unødvendige\nJeg har brug for dit svar for at lade mig direkte som titelindhold!\n\nNå, dette er kroppen af artiklen:</string>
 
 </resources>
 

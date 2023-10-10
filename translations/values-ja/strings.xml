@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="pureWriter">Pure Writer</string>
-  <string name="about">About | ガイド</string>
-  <string name="slogan">速く、優れた経験、決して失われたコンテンツ</string>
-  <string name="editorTipAMenu">あなたは、テキストを選択する必要があります</string>
-  <string name="redo">遣り直す</string>
-  <string name="undo">アンドゥ</string>
-  <string name="editorHintContent">テキストを入力してください</string>
-  <string name="titleHint">タイトルを入力してください</string>
-  <string name="share">シェア</string>
-  <string name="copyTitle">コピータイトル</string>
+  <string name="wordsShort">字</string>
+  <string name="about">关于 | ヘルプ</string>
+  <string name="slogan">速い、素晴らしい体験、コンテンツを失わない</string>
+  <string name="editorTipAMenu">まずテキストを選んでください</string>
+  <string name="redo">やり直し</string>
+  <string name="undo">元に戻す</string>
+  <string name="editorHintContent">本文</string>
+  <string name="pureWriterI18n">純純執筆</string>
+  <string name="titleHint">タイトル</string>
+  <string name="share">別のアプリに共有する</string>
+  <string name="copyTitle">タイトルをコピーする</string>
   <string name="lock">保護</string>
   <string name="history">歴史</string>
-  <string name="tipShouldUnlock">最初にロックを解除する必要があります</string>
+  <string name="tipShouldUnlock">最初にロックを解除してください</string>
   <string name="tipShouldSetupFingerprint">最初にシステム設定で指紋を作成してください！</string>
-  <string name="sendContentTo">このコンテンツを送信する：</string>
+  <string name="sendContentTo">コンテンツを送る先：</string>
   <string name="failedTitleIsEmpty">失敗：タイトルが空です</string>
   <string name="failedContentIsEmpty">失敗：コンテンツが空です</string>
   <string name="copyTheTitleSuccessfully">タイトルを正常にコピーしました</string>
@@ -23,21 +25,21 @@
   <string name="clearThisContent">このコンテンツを消去</string>
   <string name="copyContent">コンテンツをコピーする</string>
   <string name="appPureMosaic">PureMosaic</string>
-  <string name="wordCountShort">単語数</string>
+  <string name="wordCountShort">字数</string>
   <string name="historyState">保存されました</string>
   <string name="tipNeedFingerprint">表示と編集のために指紋を解除する必要があります</string>
   <string name="empty">空の</string>
-  <string name="isRevertToThisFile">このファイルに戻す？</string>
+  <string name="isRevertToThisFile">このドキュメントを回復しますか？</string>
   <string name="noMore">もういや</string>
   <string name="goOn">続ける</string>
   <string name="reject">拒絶する</string>
   <string name="titleIntroCard">何かを書くのに使う</string>
-  <string name="defaultContent">はじめまして。\nPure Writerは最小限に抑えられているため、いつでもどこでも自分のコンテンツを失うことを心配せずに自分のコンテンツに書き込むことができます。\nPure Writerの行と段落の間隔機能を使用すると、テキストがより鮮明で読みやすくなりますが、それだけでなく、スムーズなスクロール、スワイプから折りたたみ式のキーボード、その他多数の優れた機能もあります。\nあなたの作品をあなたの指紋で暗号化し、好きなときに書き込みを開始または停止し、他のアプリケーションにコンテンツをすばやく共有することができます。\n最も重要なことは、手動で削除しない限り、このテキストエディタを使用している間に作業を失うことは決してなく、偶然の削除や予期せぬシャットダウンであっても、履歴からそれを回復することができます。\nその他の機能：WebDAVクラウドバックアップ、マテリアルデザイン2テーマ、マークダウン、タイプライターモード、長いテキスト画像としてエクスポート、タイムマシン…\nあなたはいつでもどこでも中断して書くことができます。\n楽しんでください。</string>
-  <string name="defaultTitle">あなたの好きなように</string>
-  <string name="tipPermissionFailed">権限の取得に失敗し、レコードを保存できません</string>
-  <string name="titleStorePermissionFailed">記憶域アクセス要求に失敗しました</string>
+  <string name="defaultContent">　執筆は、私たちが過去と繋がり、未来を想像する手段です。しかし、いくつかの執筆ソフトウェアが起動が遅く、インスピレーションが逃げてしまうこと、頻繁にエラーが発生してテキストが失われること、多くの必要な執筆機能と補助が不足していることによって、使い勝手が悪いと感じたことはありませんか？\n　Pure Writerはこれらすべての問題を解決できます。これは非常に高速なプレーンテキストエディタであり、執筆が元の形に戻ることを願っています：<b>純粋、安全、いつでも、内容を失わない、良い執筆体験を持つ。</b>\n　安心感\n　Pure Writerのアイコンはタイムマシンの投影であり、テキストが私たちを時間を超えて運ぶことができるという意味でもあり、Pure Writerが特別に提供する「履歴記録」と「自動バックアップ」機能にも対応しています。これらの保証により、テキストを誤って削除したり、携帯電話が突然電源が切れたりしても、記事は完全に保存されるか、履歴から回復できます。長年にわたり、Pure Writerは安心できる、安全な執筆体験を提供しており、失われることなく、高評価を得ています。\n　滑らかな操作感\n　最も重要な安全保障を実現するだけでなく、Pure WriterのUIインターフェースと各種執筆補助機能も、ユーザーにこのアプリが本当に心地よく、滑らかであると感じさせます。Pure WriterはAndroid 11のソフトキーボードインターフェースに対応しており、指でソフトキーボードをスムーズに操作できます。また、呼吸するようなカーソルを提供しており、カーソルはもう点滅するだけでなく、人の呼吸のように徐々に消えたり現れたりします。このような細かい点にも、Pure Writerは極めて磨きをかけています。\n　シンプルな中に豊かさ\n　多くのエディタが持つべき基本機能も、Pure Writerは一つも欠かしていません。例えば、<b>マルチデバイスクラウド同期</b>、段落のインデント、段落間隔、美しい長い画像の生成、元に戻す、文字数統計、二つのエディタを左右に比較、一键でフォーマットを調整、検索と置換、Markdown、PC版などがあります。さらに、TTS音声エンジンを使用してリアルタイムで入力したテキストを読み上げるという非常に創造的な特色機能もあります。\n　Pure Writerはすべてのこれらを実現しています。安心で滑らかな執筆体験、それがPure Writerです、執筆を楽しんでください！\n\n　また、私たちは日本語への対応に全力で取り組んでいます。もし理解しにくい文や翻訳の問題がある場合は、お気軽にご連絡ください。修正いたします！また、現在「Pure Writer」に代わる日本語のApp名を募集しています。日本語のユーザーとして、どんな名前が良いか提案していただけると嬉しいです。提案されたApp名が採用されれば、Proのコードをプレゼントし、アプリの紹介ページにあなたの名前を永久に掲載させていただきます。お問い合わせ先は：drakeet@drakeet.comです。</string>
+  <string name="defaultTitle">ご希望通りです</string>
+  <string name="tipPermissionFailed">許可が与えられていません。履歴は保存できません。</string>
+  <string name="titleStorePermissionFailed">ストレージの許可が拒否されました</string>
   <string name="tipMessageStoragePermissionToSettings">履歴を保存するにはストレージ権限が必要です。設定ページにアクセスして権限を手動で付与する必要があります。そうしないと、履歴機能を正常に使用できません。</string>
-  <string name="actionOkGoSettings">OK</string>
+  <string name="actionOkGoSettings">設定に移動</string>
   <string name="tipFingerAuthRetry">失敗したロックを解除する指紋認証、再試行の残りの数：%d</string>
   <string name="tipFingerAuthFailed">指紋のロックを解除できませんでした.1分後にもう一度お試しください。プログラムが終了しようとしています…</string>
   <string name="tipRichText">Pure Writerは、純粋で良好なプレーンテキストライティングエクスペリエンスを作成することを約束しているため、リッチテキストコンテンツをサポートすることは意図されていません。 現時点では、太字をTXTファイルで表現できないため、<b>太字</b>のテキストが表示されます。太字は非表示、非表示です。ごめんなさい、ご容赦ください！ より良い提案がある場合は、フィードバックグループに参加して、私に教えてください、あなたのサポートに感謝します！</string>
@@ -56,7 +58,7 @@
   <string name="shortcutBar">ショートカットバー</string>
   <string name="insertBlankLinesWhenExporting">エクスポート時に行を追加する</string>
   <string name="contentTextSize">コンテンツのテキストサイズ</string>
-  <string name="iKnow">I know</string>
+  <string name="iKnow">了解</string>
   <string-array name="nightModeEntries">
     <item>オート</item>
     <item>はい</item>
@@ -73,7 +75,7 @@
   <string name="features">特徴</string>
   <string name="sendTextFailedForTooLarge">あなたのテキストが長すぎるともう一つのアプリに直接送られる。それは、すでにあなたのクリップボードにテキストをコピー</string>
   <string name="hasSavedToYourAlbum">Saved to your album</string>
-  <string name="previewAndExport">Preview &amp; Export…</string>
+  <string name="previewAndExport">長い画像、PDF\nプレビュー＆エクスポート…</string>
   <string name="preview">プレビュー</string>
   <string name="tipRequirePro">This is a Pro feature</string>
   <string name="proReadMe">PureWriterが素晴らしいと思って、それがより良くなることを願ったら、開発者のインセンティブとして少しのお金を費やしたいですか？\n\nこれにより、私たちは良い方向に固執し、良心の製品を作り、より多くの独立した開発者を鼓舞することができます。\n\n「GOOGLE PLAY」ボタンをクリックすると、Google Pay Paymentを開くことができます。返品として、Pure Writerは広告なしの状態とすべてのProコンテンツを提供します。ありがとうございました！</string>
@@ -105,7 +107,7 @@
   <string name="restoreSuccessful">バックアップを正常に復元する</string>
   <string name="tipBackupList">これがバックアップファイルです。 クリックして復元できます。\n<b>クラウド ストレージからクラウド バックアップ ファイルを取得する場合は、最初に Dropbox/WebDAV/GoogleDrive/OneDrive アカウントにログインしてください!</b></string>
   <string name="tipBackupNotExist">バックアップファイルは存在しません。 バックアップファイルを Documents/PureWriter/Backups に入れてもう一度お試しください</string>
-  <string name="wordCountMode">単語数</string>
+  <string name="wordCountMode">文字数</string>
   <string-array name="wordCountModeEntries">
     <item>スペースと改行を除外する</item>
     <item>すべてのシンボルとテキストを含める</item>
@@ -116,7 +118,7 @@
   <string name="tipCannotCreateNewWhenEmpty">Can\'t create new article when title and content are both blank! You can still create it through the button in the top right corner of the menu though.</string>
   <string name="more">もっと</string>
   <string name="notSupportOpeningTheLink">Link not supported</string>
-  <string name="formatters">Formatters</string>
+  <string name="formatters">フォーマットし直す</string>
   <string name="formatterSpace">東アジアとラテン語のテキストの間にスペースを挿入します</string>
   <string name="formatterIndent">Insert indentation at the start of all paragraphs</string>
   <string name="formatterLineBreak">Leave a blank line between paragraphs</string>
@@ -172,7 +174,7 @@
   <string name="saved">保存された</string>
   <string name="sendTo">Send To</string>
   <string name="mode">モード</string>
-  <string name="plainText">テキスト</string>
+  <string name="plainText">プレーンテキスト</string>
   <string name="tipHasNotPermissionWithAutoBackup">Attempted backup failed as permission to access storage was denied.</string>
   <string name="hideTitleBarWhenPreviewingMarkdown">Hide title bar when previewing Markdown</string>
   <string name="privacyPolicy">個人情報保護方針</string>
@@ -203,8 +205,8 @@
   <string name="typewriterMode">タイプライター</string>
   <string name="edit">編集</string>
   <string name="editBook">本の編集</string>
-  <string name="wordCountLong">単語数</string>
-  <string name="wordCountOfCurrentArticle">現在の記事の単語数</string>
+  <string name="wordCountLong">文字数</string>
+  <string name="wordCountOfCurrentArticle">現在の記事の文字数</string>
   <string name="floatingWordCount">Floating Word Count</string>
   <string name="tipFloatingWordCountDisabled">フローティングワードカウントをオフにした後でも、記事リストでワードカウントを取得できます。</string>
   <string name="reduceDatabaseSize">データベースサイズを縮小する</string>
@@ -226,7 +228,7 @@
   <string name="paragraphSpacing">段落の間隔</string>
   <string name="onlyAvailableWhenParagraphOn">段落の間隔が有効な場合にのみ有効です</string>
   <string name="lowProfile">ステータスバーフォーカスモード</string>
-  <string name="chapters">チャプタ</string>
+  <string name="chapters">章</string>
   <string name="sortTypeTitleUp">タイトルの昇順</string>
   <string name="sortTypeTitleDown">タイトルの降順</string>
   <string name="sortByRank">手動ソート</string>
@@ -242,7 +244,7 @@
   <string name="deleteEmptyArticlesShort">空の記事を削除する</string>
   <string name="deleteEmptyArticlesLong">タイトルと内容が空の記事をすべて削除しますか？</string>
   <string name="deleteCategory">フォルダを削除</string>
-  <string name="exportBook">Export book</string>
+  <string name="exportBook">この本をエクスポート</string>
   <string name="needManualSortingTitle">この機能を使用するには手動ソートに切り替える必要があります</string>
   <string name="needManualSortingMessage">手動ソートに切り替えたいですか？</string>
   <string name="doubleClickToExit">Double click the Back key to exit the app</string>
@@ -537,7 +539,7 @@
   <string name="connectDesktop">デスクトップに接続する</string>
   <string name="disconnectDesktop">デスクトップを切断します</string>
   <string name="connect">接続する</string>
-  <string name="desktopDialogGuide">https://writer.drakeet.com/desktop_en から<b><i> Pure Writer Desktop1.7.4（またはそれ以降）</i></b>をダウンロードする必要があります\n\nモバイルとコンピューターが<b>同じWi-Fiネットワークまたはホットスポット👈👈👈</b>にある場合は、デスクトップを開き、デスクトップの入力フィールドに以下のIPアドレスを入力して、Pure Writer に接続します。同期できます。 現在の記事をリアルタイムで編集します。</string>
+  <string name="desktopDialogGuide">https://writer.drakeet.com/desktop_en から<b><i> Pure Writer Desktop v1.9.0（またはそれ以降）</i></b>をダウンロードする必要があります\n\nモバイルとコンピューターが<b>同じWi-Fiネットワークまたはホットスポット👈👈👈</b>にある場合は、デスクトップを開き、デスクトップの入力フィールドに以下のIPアドレスを入力して、Pure Writer に接続します。同期できます。 現在の記事をリアルタイムで編集します。</string>
   <string name="connectionIsStopping">接続が停止しています。しばらくしてからもう一度お試しください。</string>
   <string name="stop_waiting_connection">接続を待つのをやめる</string>
   <string name="desktopDisconnected">デスクトップが切断されている</string>
@@ -619,20 +621,20 @@
 
   <string name="dailyStatistics">毎日の統計</string>
   <string name="dailyExtraNote">* 注：この日の <i>毎日の統計</i>より前の記事があるため、上記のデータの一部は追加の推定データです。たとえば、書き込み時間は計算される場合があります。 「記事の最終更新時刻-記事の作成時刻」として、正確ではない可能性があります。参照用です！</string>
-  <string name="currentBookAndItsWordCount">現在の本とその単語数</string>
+  <string name="currentBookAndItsWordCount">現在の本とその文字数</string>
   <string name="allBooksWordCount">すべての書籍の単語の総数</string>
   <string name="other">その他</string>
   <string name="minute">分</string>
   <string name="hour">時間</string>
   <string name="millisecond">ミリ秒</string>
   <string name="second">秒</string>
-  <string name="wordCountFull">単語数</string>
+  <string name="wordCountFull">文字数</string>
   <string name="speed">速度</string>
   <string name="writingTimeAkaInputStatus">書き込み時間（入力ステータス）</string>
   <string name="appInForegroundTime">フォアグラウンド時間のアプリ</string>
   <string name="writingStartTime">書き込み開始時刻</string>
   <string name="lastTime">前回</string>
-  <string name="modifyWordCount4MaxLevel">単語数を最大レベルに変更</string>
+  <string name="modifyWordCount4MaxLevel">文字数を最大レベルに変更</string>
   <string name="noteDailyWidgetSetting"> Daily Statisticsページの上部にあるグリッドは、GitHubコントリビューションのスタイルでの書き込みのグラフです。グリッドカラーの場合、デフォルトの0ワードカウントレベルに加えて、グリッドカラーには4つのレベルがあり、そのうちのデフォルトの最大レベルは2000ワード以上です。この最大レベルのワードカウントをターゲットとして変更できます：</string>
   <string name="overview">概要</string>
   <string name="purchaseTime">購入時間</string>
@@ -722,4 +724,25 @@
   <string name="hintForShortcutManagement">* 下のショートカット項目を長押しして編集または削除します。また、それをドラッグして異なるショートカットバー間で並べ替えることもできます。\n* エディタで有効にするためにショートカットバーをチェックします。最初のバーはデフォルトで、無効にすることはできません。\n* すべてのショートカットバーが不要な場合は、設定画面で全機能を無効にすることができます。</string>
   <string name="tipResetMultiShortcutBars">Pure Writer Proをお持ちでないため、マルチラインショートカットバーが自動的にリセットされました。</string>
   <string name="aboutChangelogDetail">多くの人々がPure Writerを開いて更新履歴を見ると、Pure Writerが自動的に更新を強制したと思い込むことがあります。しかし、実際には、Pure Writerが自動更新または自動アップグレードを行う能力は全くありません、ルート権限がある場合を除いては。自動更新を行うアプリは存在しません。\n\nなぜ更新されたのでしょうか？\n\nそれは、<b>Google Play app storeがあなたのためにそれを更新したから</b>です。\n\n一般的に、システムアプリストアはデフォルトで自動更新機能が有効になっています。これは抵抗できない外部の振る舞いです。もしこの振る舞いをPure Writerに帰せられ、アプリストアで私たちを「強制更新」と非難するなら、それは本当に申し訳ないことです。たとえ私たちがそれを変えて解決したくても、アプリストアはシステムレベルのアプリであり、非システムアプリである私たちは、システム制御から逃れる力がありません。\n\nご理解いただきたいのは、将来Pure Writerの更新を受け取りたくない場合は、Google Play app storeに行って「自動更新」をオフにすることができます。\n\n私たちが毎日継続的に開発を行い、新しいバージョンのPure Writerをアプリストアに提出するのは、純粋に責任感と善意からであり、ユーザーにより良い体験を提供するためだけです。もしあなたが「Pure Writerの強制更新」についてのコメントを理解し、修正してくれるなら、私たちは非常に感謝するでしょう！</string>
+  <string name="aiSuggestUserMessage">以下の記事の本文に基づいて、記事のタイトルを提案してください。\n\nタイトルを直接教えてください！\n例えば、あなたに与えた本文は: \"ABC...\"です。\nあなたは私に答えるべきです: 英語のアルファベット\n余分な言葉を持ってはいけません、例えば、あなたは私に答えるべきではありません: 提案されたタイトル: \"英語のアルファベット\"\nまた私に答えないでください: \"英語の文字\" - 引用符は不要です\n私はあなたの返答が直接タイトルの内容として必要です！\n\nさて、これが記事の本文です:</string>
+  <string name="scrollToHideWordCount">スクロールして文字数を隠す</string>
+  <string name="requiresAtLeast6Characters">最低6文字必要です</string>
+  <string name="tipJianguoyunURL">次の三つの内容を入力してください</string>
+  <string name="typewriterModeMode0">段落モード</string>
+  <string name="relaunch">再起動</string>
+  <string name="needCursorTip">続行する前にテキストをクリックしてカーソルを配置する必要があります</string>
+  <string name="onlyWorkForHardwareKeyboard">ハードウェアキーボードのみ対応</string>
+  <string name="scrollToHideFAB">エディタの右下にある浮かぶ⊕ボタンを隠すためにスクロールする</string>
+  <string name="moveArticlesOfDeletedFolderToTrash">削除されたフォルダ内の記事をゴミ箱に移動する</string>
+  <string name="openTtsSetting">システム設定 - TTSを開く</string>
+  <string name="titleSelectBooksToRestoreOrder">内部の章の順序を復元するために、本を選択してください</string>
+  <string name="orLongPressToSelect">または、テキストを長押しして部分を選択し、コピーします</string>
+  <string name="needUpdate">更新が必要です</string>
+  <string name="searchTimeMachine">タイムマシンを検索</string>
+  <string name="oneDrivePersonal">OneDrive - パーソナル</string>
+  <string name="searchWritingCache">キャッシュで検索しますか？</string>
+  <string name="notNecessary">必要ではありません</string>
+  <string name="reportAI">報告する</string>
+  <string name="notice">お知らせ</string>
+  <string name="resend">再送信</string>
 </resources>

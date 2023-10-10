@@ -1,5 +1,6 @@
 <resources>
   <string name="pureWriter">Pure Writer</string>
+  <string name="pureWriterI18n">순순 작문</string>
   <string name="titleHint">제목</string>
   <string name="editorTipAMenu">먼저 텍스트를 선택해야 합니다</string>
   <string name="editorHintContent">내용을 쓰기 시작하세요…</string>
@@ -542,7 +543,7 @@
   <string name="connectDesktop">데스크탑에 연결</string>
   <string name="disconnectDesktop">데스크탑 연결 해제</string>
   <string name="connect">연결하기</string>
-  <string name="desktopDialogGuide">https://writer.drakeet.com/desktop_en 에서 <b><i> Pure Writer Desktop1.7.4 이상 </i></b>을 다운로드해야 합니다.\n\n모바일과 컴퓨터가 <b> 동일한 Wi-Fi 네트워크 또는 핫스팟 👈👈👈 </b>에 있을 때, 데스크탑을 열고 아래의 IP 주소를 데스크탑의 입력 필드에 입력하여 Pure Writer에 연결하면 현재 문서를 동기화하고 실시간으로 편집할 수 있습니다.</string>
+  <string name="desktopDialogGuide">https://writer.drakeet.com/desktop_en 에서 <b><i> Pure Writer Desktop v1.9.0 이상 </i></b>을 다운로드해야 합니다.\n\n모바일과 컴퓨터가 <b> 동일한 Wi-Fi 네트워크 또는 핫스팟 👈👈👈 </b>에 있을 때, 데스크탑을 열고 아래의 IP 주소를 데스크탑의 입력 필드에 입력하여 Pure Writer에 연결하면 현재 문서를 동기화하고 실시간으로 편집할 수 있습니다.</string>
   <string name="connectionIsStopping">연결이 중지됩니다. 나중에 다시 시도하세요!</string>
   <string name="stop_waiting_connection">연결 대기 중지</string>
   <string name="desktopDisconnected">데스크탑 연결이 끊어졌습니다.</string>
@@ -721,5 +722,6 @@
   <string name="multipleShortcutBarManagement">다중 라인 단축키 바 관리</string>
   <string name="hintForShortcutManagement">* 아래의 단축키 항목을 길게 눌러 편집하거나 삭제할 수 있습니다. 또한 다른 단축키 바간에 정렬하기 위해 드래그 할 수 있습니다.\n* 편집기에서 사용할 단축키 바를 체크하십시오. 첫 번째 바는 기본값이며 비활성화 할 수 없습니다.\n* 모든 단축키 바가 필요하지 않은 경우, 설정 화면에서 전체 기능을 비활성화 할 수 있습니다.</string>
   <string name="tipResetMultiShortcutBars">Pure Writer Pro가 없기 때문에, 다중 라인 단축키 바가 자동으로 재설정되었습니다.</string>
+  <string name="aiSuggestUserMessage">다음 기사의 본문에 기반하여 기사 제목을 제안해 주세요.\n\n제목을 직접 알려주세요!\n예를 들어, 제가 드린 본문은: \"ABC...\"입니다.\n당신은 저에게 답해야 합니다: 영어 알파벳\n불필요한 단어를 가지지 마세요, 예를 들어, 당신은 저에게 답하지 않아야 합니다: 제안된 제목: \"영어 알파벳\"\n또한 저에게 답하지 마세요: \"영어 글자\" - 따옴표는 필요 없습니다\n저는 당신의 답변이 직접 제목의 내용이 되도록 필요합니다!\n\n그럼, 이것이 기사의 본문입니다:</string>
 
 </resources>

@@ -361,7 +361,7 @@
   <string name="disconnectDesktop">Masaüstünden ayrıl</string>
   <string name="connect">Bağlan</string>
   <string name="tipNotSupportThisDesktopVersion">Geçerli mobil ve masaüstü sürümleri eşleşmiyor ve bağlanamıyor. Lütfen her ikisini de en son sürüme güncelleyin ve tekrar deneyin.</string>
-  <string name="desktopDialogGuide">https://writer.drakeet.com/desktop_en adresinden <b><i>Pure Writer Desktop 1.7.4 (veya üstü)</i></b> sürümünü indirmeniz gerekiyor.\n\nMobil cihazınız ve bilgisayarınız <b>aynı Wi-Fi ağına veya hotspot\'a👈👈👈</b> bağlıyken, masaüstü uygulamasını açın ve aşağıdaki IP adresini <b>masaüstü uygulamasının giriş alanına girin</b>. Böylece mevcut makaleyi gerçek zamanlı olarak senkronize edebilir ve düzenleyebilirsiniz.</string>
+  <string name="desktopDialogGuide">https://writer.drakeet.com/desktop_en adresinden <b><i>Pure Writer Desktop v1.9.0 (veya üstü)</i></b> sürümünü indirmeniz gerekiyor.\n\nMobil cihazınız ve bilgisayarınız <b>aynı Wi-Fi ağına veya hotspot\'a👈👈👈</b> bağlıyken, masaüstü uygulamasını açın ve aşağıdaki IP adresini <b>masaüstü uygulamasının giriş alanına girin</b>. Böylece mevcut makaleyi gerçek zamanlı olarak senkronize edebilir ve düzenleyebilirsiniz.</string>
   <string name="desktopDialogNote">Not: Pure Writer Desktop hala alfa aşamasındadır. Lütfen ilerideki güncellemelerini bekleyin.\n* Birden fazla IP adresi satırı görürseniz, bunları tek tek bağlanmayı deneyin.</string>
   <string name="connectionIsStopping">Bağlantı durduruluyor, daha sonra tekrar deneyin!</string>
   <string name="createShortcutLabel">Metin Kısayolu</string>
@@ -795,4 +795,6 @@
   <string name="multipleShortcutBarManagement">Çoklu Hat Kısayol Çubuğu yönetimi</string>
   <string name="hintForShortcutManagement">* Aşağıdaki kısayol öğesine uzun basarak düzenleyin veya silin. Ayrıca, farklı Kısayol Çubukları arasında sıralamak için sürükleyebilirsiniz.\n* Düzenleyicide kullanılabilir hale getirmek için Kısayol Çubuğunu kontrol edin. İlk çubuk varsayılandır ve devre dışı bırakılamaz.\n* Tüm Kısayol Çubuklarına ihtiyacınız yoksa, Ayarlar ekranında tüm işlevi devre dışı bırakabilirsiniz.</string>
   <string name="tipResetMultiShortcutBars">Pure Writer Pro\'nuz olmadığı için, çoklu satır Kısayol Çubuğu otomatik olarak sıfırlandı.</string>
+  <string name="aiSuggestUserMessage">Lütfen aşağıdaki makalenin gövdesine dayanarak bir makale başlığı önerin.\n\nBana başlığı doğrudan söyleyin!\nÖrneğin, size verdiğim gövde: \"ABC...\".\nBana cevap vermelisiniz: İngiliz alfabesi\nFazla kelime olmasın, örneğin, bana cevap vermemelisiniz: Önerilen başlık: \"İngiliz alfabesi\"\nBana ayrıca cevap vermeyin: \"İngilizce harfler\" - tırnak işaretleri gereksizdir\nCevabınızı, başlık içeriği olarak beni doğrudan bırakmam için ihtiyacım var!\n\nPeki, bu makalenin gövdesidir:</string>
+
 </resources>

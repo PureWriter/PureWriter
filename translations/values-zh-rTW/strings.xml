@@ -1,6 +1,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
   <string name="pureWriterLauncher">純純寫作</string>
   <string name="pureWriter">純純寫作</string>
+  <string name="pureWriterI18n">純純寫作</string>
   <string name="pureWriterPro">純純寫作 Pro</string>
   <string name="titleHint">請輸入標題</string>
   <string name="editorTipAMenu">您需要選取一段文字才能操作</string>
@@ -357,7 +358,7 @@
   <string name="collapseAllCategories">收起所有卷</string>
   <string name="showMore">顯示更多</string>
   <string name="textColorAlpha">字型色彩透明度</string>
-  <string name="desktopDialogGuide">您需要從\nhttps://writer.drakeet.com/desktop_zh \n下載<b><i>純純寫作桌面版1.7.4 或以上版本</i></b>。\n\n當手機與電腦<b>處於同一個 Wi-Fi 網路或行動基地台</b>時👈👈👈，開啟桌面版後將以下的 IP 位址<b>輸入至桌面版中的輸入列中</b>，即可與桌面版即時連線，雙向同步編輯目前文章。</string>
+  <string name="desktopDialogGuide">您需要從\nhttps://writer.drakeet.com/desktop_zh \n下載<b><i>純純寫作桌面版 1.9.0 或以上版本</i></b>。\n\n當手機與電腦<b>處於同一個 Wi-Fi 網路或行動基地台</b>時👈👈👈，開啟桌面版後將以下的 IP 位址<b>輸入至桌面版中的輸入列中</b>，即可與桌面版即時連線，雙向同步編輯目前文章。</string>
   <string name="desktopDialogNote">注意：目前純純寫作桌面版還處於非常初期階段，許多功能未完善，請您理解和靜待其後續更新。\n* 若您看到<b>多列 IP 位址</b>，請逐一嘗試進行連線。</string>
   <string name="tipNotSupportThisDesktopVersion">目前手機端和桌面端版本不相符，無法連線，請各自更新到最新版後重試</string>
   <string name="connect">連線</string>
@@ -842,4 +843,7 @@
   <string name="smartRemoveIndentation">智能刪除整個縮排</string>
   <string name="smartRemoveIndentationSummary">若游標在段首縮排後，此時按刪除鍵，自動刪掉整個縮排。</string>
   <string name="timeMachineGuideNoAI">很高興見到您！這是「時光機」。您可以理解成一個記錄靈感碎片的地方，也可以理解成一個臨時記錄內容的地方，請自由、隨意使用它。</string>
+  <string name="aiSuggestUserMessage">請根據以下文章正文內容為我建議一個文章標題。\n\n請直接告訴我標題！\n例如我給你的正文是：「ABC...」。\n你應該回覆我：英文字母\n不要有多餘字眼，比如不應該回覆我：建議標題：「英文字母」\n也不要回覆我：“英文字母”——引號是不必要的\n我需要您的回覆能讓我直接作為標題內容！\n\n好了，這是文章正文內容:</string>
+  <string name="tipForNullPicError">由於系統檔案儲存服務出錯，暫時無法儲存圖片。對於此問題，一般重啟手機後即可解決，麻煩您手動重啟手機系統後重試！</string>
+
 </resources>

@@ -543,7 +543,7 @@
   <string name="connectDesktop">Se connecter au bureau</string>
   <string name="disconnectDesktop">Déconnecter le bureau</string>
   <string name="connect">Se connecter</string>
-  <string name="desktopDialogGuide">Vous devez télécharger <b><i>Pure Writer Desktop1.7.4 (ou supérieur)</i></b> sur https://writer.drakeet.com/desktop_en \n\nLorsque votre mobile et votre ordinateur sont sur <b>le même réseau Wi-Fi ou hotspot👈👈👈</b>, ouvrez Desktop et entrez l\'adresse IP ci-dessous <b>dans le champ de saisie de Desktop</b> pour vous connecter à Pure Writer, puis vous pouvez synchroniser et modifier l\'article en cours en temps réel.</string>
+  <string name="desktopDialogGuide">Vous devez télécharger <b><i>Pure Writer Desktop v1.9.0 (ou supérieur)</i></b> sur https://writer.drakeet.com/desktop_en \n\nLorsque votre mobile et votre ordinateur sont sur <b>le même réseau Wi-Fi ou hotspot👈👈👈</b>, ouvrez Desktop et entrez l\'adresse IP ci-dessous <b>dans le champ de saisie de Desktop</b> pour vous connecter à Pure Writer, puis vous pouvez synchroniser et modifier l\'article en cours en temps réel.</string>
   <string name="connectionIsStopping">La connexion s\'arrête, réessayez plus tard!</string>
   <string name="stop_waiting_connection">Arrêtez d\'attendre les connexions</string>
   <string name="desktopDisconnected">Le bureau est déconnecté</string>
@@ -755,5 +755,6 @@
   <string name="multipleShortcutBarManagement">Gestion de la barre de raccourcis multi-lignes</string>
   <string name="hintForShortcutManagement">* Appuyez longuement sur l\'élément de raccourci ci-dessous pour l\'éditer ou le supprimer. Vous pouvez également le faire glisser pour le trier à travers différentes barres de raccourcis.\n* Cochez la barre de raccourcis pour l\'activer dans l\'éditeur. La première barre est celle par défaut et ne peut être désactivée.\n* Si vous n\'avez pas besoin de toutes les barres de raccourcis, vous pouvez désactiver toute la fonction dans l\'écran des paramètres.</string>
   <string name="tipResetMultiShortcutBars">Comme vous n\'avez pas Pure Writer Pro, la barre de raccourcis multi-lignes a été réinitialisée automatiquement.</string>
+  <string name="aiSuggestUserMessage">Veuillez me suggérer un titre d\'article en fonction du corps de l\'article suivant.\n\nDites-moi le titre directement!\nPar exemple, le corps que je vous ai donné est: \"ABC...\".\nVous devriez me répondre: Alphabet anglais\nN\'ayez pas de mots superflus, par exemple, vous ne devriez pas me répondre: Titre suggéré: \"Alphabet anglais\"\nNe me répondez pas non plus: \"Lettres anglaises\" - les guillemets sont inutiles\nJ\'ai besoin de votre réponse pour me permettre directement en tant que contenu du titre!\n\nEh bien, voici le corps de l\'article:</string>
 
 </resources>

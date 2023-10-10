@@ -329,7 +329,7 @@
   <string name="disconnectDesktop">Koppla bort skrivbordet</string>
   <string name="connect">Anslut</string>
   <string name="tipNotSupportThisDesktopVersion">De nuvarande mobila och stationära versionerna är inte kompatibla och kan inte kopplas samman. Uppdatera båda till den senaste versionen och försök igen.</string>
-  <string name="desktopDialogGuide">Du måste ladda ner <b><i>Pure Writer Desktop1.7.4 (eller senare)</i></b> från https://writer.drakeet.com/desktop_en\n\nNär din mobil och dator är på <b>samma Wi-Fi-nätverk eller hotspot👈👈👈</b>, öppna Desktop och skriv in IP-adressen nedan <b>i inmatningsfältet på Desktop</b> för att ansluta till Pure Writer, då kan du synkronisera och redigera den aktuella artikeln i realtid.</string>
+  <string name="desktopDialogGuide">Du måste ladda ner <b><i>Pure Writer Desktop v1.9.0 (eller senare)</i></b> från https://writer.drakeet.com/desktop_en\n\nNär din mobil och dator är på <b>samma Wi-Fi-nätverk eller hotspot👈👈👈</b>, öppna Desktop och skriv in IP-adressen nedan <b>i inmatningsfältet på Desktop</b> för att ansluta till Pure Writer, då kan du synkronisera och redigera den aktuella artikeln i realtid.</string>
   <string name="desktopDialogNote">Obs: Pure Writer Desktop är fortfarande i alfastadiet. Vänligen förstå och vänta på dess efterföljande uppdateringar.\n* Om du ser <b>flera rader med IP-adresser</b>, försök att ansluta dem en efter en.</string>
   <string name="connectionIsStopping">Anslutningen avbryts, försök igen senare!</string>
   <string name="createShortcutLabel">Genväg för text</string>
@@ -736,4 +736,6 @@
   <string name="multipleShortcutBarManagement">Hantering av flerradig genvägsfält</string>
   <string name="hintForShortcutManagement">* Håll ned genvägsposten nedan för att redigera eller ta bort den. Du kan också dra den för att sortera den över olika genvägsfält.\n* Kontrollera genvägsfältet för att aktivera det i redigeraren. Det första fältet är standard och kan inte inaktiveras.\n* Om du inte behöver alla genvägsfält kan du inaktivera hela funktionen i inställningsskärmen.</string>
   <string name="tipResetMultiShortcutBars">Eftersom du inte har Pure Writer Pro har det flerradiga genvägsfältet automatiskt återställts.</string>
+  <string name="aiSuggestUserMessage">Var vänlig föreslå en artikel titel baserad på kroppen av följande artikel.\n\nBerätta titeln direkt för mig!\nTill exempel är kroppen jag gav dig: \"ABC...\".\nDu bör svara mig: Engelska alfabetet\nHa inte överflödiga ord, till exempel, du bör inte svara mig: Föreslagen titel: \"Engelska alfabetet\"\nSvara mig inte heller: \"Engelska bokstäver\" - citattecken är onödiga\nJag behöver ditt svar för att låta mig direkt som titelns innehåll!\n\nNå, detta är kroppen av artikeln:</string>
+
 </resources>
