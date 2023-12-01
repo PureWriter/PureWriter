@@ -3,11 +3,14 @@
   <string name="pureWriter">純純寫作</string>
   <string name="pureWriterI18n">純純寫作</string>
   <string name="pureWriterPro">純純寫作 Pro</string>
-  <string name="titleHint">請輸入標題</string>
+  <string name="titleHint">標題</string>
   <string name="editorTipAMenu">您需要選取一段文字才能操作</string>
-  <string name="editorHintContent">請輸入正文</string>
+  <string name="editorHintContent">正文</string>
   <string name="slogan">快速、優秀體驗、永不遺失內容</string>
   <string name="iconDesc">純純寫作的圖示繪製的是一個時光機\n時光機漂浮前進，願文字能夠帶我們\n連結過去，遙想未來…</string>
+  <string name="autoChapterNameMessagePart1">您即將對**本書**啟用「自動章節名」功能，在此之前，您必須了解一下注意事項：\n\n* 這個選項僅當您的純純寫作語言為**中文**且文章排序模式為**手動排序模式**才可見並生效，若您的語言為其他，它將不可見且不生效！\n* 首先，設定**目前書**自動章節格式:</string>
+  <string name="autoChapterNameMessagePart2">格式結果範例：\n\n第一章\n第一章勿忘開心\n第一萬零一章若要後面有空格需自行配置\n\n* 若您需要在不同卷裡重新從「第一章」開始，請勾選：</string>
+  <string name="autoChapterNameMessagePart3">* 在您點擊「好的」以後，純純寫作會自動進行一次章節名整理，按文章順序為您在文章標題中加入章節前綴，並在**您每次對文章順序做調整時，自動更新此內容**。\n* 啟用後，純純寫作將幫您取代掉原有的章節前綴，請知悉！\n* 目前啟用狀態和格式**僅對本書生效**，若對別的書也啟用此功能，需打開該書並再次啟用此功能。\n* 啟用後，將**從「第一章」開始**，若您的文章並不是從「第一章」開始，請不要點擊「好的」！\n* 若您想跳過一些**序章**，可長按該章節，選擇對該章節禁用「自動章節名」。</string>
 
   <string name="undo">復原</string>
   <string name="redo">重做</string>
@@ -845,5 +848,18 @@
   <string name="timeMachineGuideNoAI">很高興見到您！這是「時光機」。您可以理解成一個記錄靈感碎片的地方，也可以理解成一個臨時記錄內容的地方，請自由、隨意使用它。</string>
   <string name="aiSuggestUserMessage">請根據以下文章正文內容為我建議一個文章標題。\n\n請直接告訴我標題！\n例如我給你的正文是：「ABC...」。\n你應該回覆我：英文字母\n不要有多餘字眼，比如不應該回覆我：建議標題：「英文字母」\n也不要回覆我：“英文字母”——引號是不必要的\n我需要您的回覆能讓我直接作為標題內容！\n\n好了，這是文章正文內容:</string>
   <string name="tipForNullPicError">由於系統檔案儲存服務出錯，暫時無法儲存圖片。對於此問題，一般重啟手機後即可解決，麻煩您手動重啟手機系統後重試！</string>
-
+  <string name="traditionalChineseNumbers">繁體中文數字</string>
+  <string name="arabicNumbers">阿拉伯數字</string>
+  <string name="prefix">前綴</string>
+  <string name="suffix">後綴</string>
+  <string name="doingBackupForFirstAutoChapterNote">正在進行啟用自動章節之前的備份，如果您初次啟用後**後悔**，您可以進入純純寫作備份頁面，點擊復原並覆蓋備份，即可復原到未啟用此選項之前的狀態。</string>
+  <string name="suffixBeforeAutoChapter">啟用自動章節之前</string>
+  <string name="returnChapter1IfCategory">遇到卷 回歸「第一章」開始</string>
+  <string name="enableAutoChapterForThisChapter">自動章節名（是否對本章啟用）</string>
+  <string name="tipForEnableAutoChapter">提示：在 **側欄文章列表的右上角選單中** 可選擇「自動章節名」，可幫您自動整理或加入「第幾章」標題前綴。</string>
+  <string name="tipForFindAutoChapterMenu">在此列表的右上角選單⁝中\n可選擇「自動章節名」</string>
+  <string name="textColorForLightTheme"><b>亮色</b>主題下的字體顏色</string>
+  <string name="textColorForDarkTheme"><b>暗色</b>主題下的字體顏色</string>
+  <string name="dbCorruptTip">您的資料庫文件發生損壞，這目前難以自動化修復，請點擊 OK 以發送您的資料庫文件給開發者為您人工修復它。\n\n在此之前，請暫停寫作，我們會以最高優先度幫助您修復和解決此事，給您帶來麻煩深表抱歉！</string>
+  <string name="databaseIsCorrupt">資料庫意外損壞</string>
 </resources>

@@ -4,9 +4,9 @@
   <string name="pureWriterI18n">纯纯写作</string>
   <string name="pureWriterPro">纯纯写作 Pro</string>
   <string name="titleForTimeMachineHeart">公众号</string>
-  <string name="titleHint">请输入标题</string>
+  <string name="titleHint">标题</string>
   <string name="editorTipAMenu">您需要选中一段文本才能操作</string>
-  <string name="editorHintContent">请输入正文</string>
+  <string name="editorHintContent">正文</string>
   <string name="slogan">快速、优秀体验、永不丢失内容</string>
   <string name="iconDesc">纯纯写作的图标画的是一个时光机\n时光机漂浮前进，愿文字能够带我们\n连接过去，遥想未来…</string>
 
@@ -849,4 +849,19 @@
   <string name="aiSuggestTitleTip">AI 已根据您的正文为您推荐了标题，若您不喜欢，可自行撤销它，撤销按钮一般在快捷输入栏上，或者在右上角菜单中。撤销之前，请确保光标在标题栏内！</string>
   <string name="aiSuggestUserMessage">请根据以下文章正文内容为我建议一个文章标题。\n\n请直接告诉我标题！\n例如我给你的正文是：「ABC...」。\n你应该回复我：英文字母\n不要有多余字眼，比如不应该回复我：建议标题：「英文字母」\n也不要回复我：“英文字母”——引号是不必要的\n我需要您的回复能让我直接作为标题内容！\n\n好了，这是文章正文内容:</string>
   <string name="tipForNullPicError">由于系统文件存储服务出错，暂时无法存储图片。对于此问题，一般重启手机后即可解决，麻烦您手动重启手机系统后重试！</string>
+  <string name="simplifiedChineseNumbers">简体中文数字</string>
+  <string name="traditionalChineseNumbers">繁體中文數字</string>
+  <string name="arabicNumbers">阿拉伯数字</string>
+  <string name="prefix">前缀</string>
+  <string name="suffix">后缀</string>
+  <string name="doingBackupForFirstAutoChapterNote">正在进行启用自动章节之前的备份，如果您初次启用后**后悔**，您可以进入纯纯写作备份页面，点击恢复并覆盖备份，即可恢复到未启用此选项之前的状态。</string>
+  <string name="suffixBeforeAutoChapter">启用自动章节之前</string>
+  <string name="returnChapter1IfCategory">遇到卷 回归「第一章」开始</string>
+  <string name="enableAutoChapterForThisChapter">自动章节名（是否对本章启用）</string>
+  <string name="tipForEnableAutoChapter">提示：在 **侧栏文章列表的右上角菜单中** 可选择「自动章节名」，可帮您自动整理或加入「第几章」标题前缀。</string>
+  <string name="tipForFindAutoChapterMenu">在此列表的右上角菜单⁝中\n可选择「自动章节名」</string>
+  <string name="textColorForLightTheme"><b>亮色</b>主题下的字体颜色</string>
+  <string name="textColorForDarkTheme"><b>暗色</b>主题下的字体颜色</string>
+  <string name="dbCorruptTip">您的数据库文件发生损坏，这目前难以自动化修复，请点击 OK 以发送您的数据库文件给开发者为您人工修复它。\n\n在此之前，请暂停写作，我们会以最高优先级帮助您修复和解决此事，给您带来麻烦深表抱歉！</string>
+  <string name="databaseIsCorrupt">数据库意外损坏</string>
 </resources>

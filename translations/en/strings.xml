@@ -20,7 +20,7 @@
   <string name="redo">Redo</string>
   <string name="about">About | Help</string>
 
-  <string name="defaultContent">Nice to meet you!\nThis is a fast plain text editor designed with what we believe \"a good writing experience\" should be. Pure Writer is <b>minimalistic and it allows you to write at your heart\'s content anytime, anywhere without fearing that you\'ll lose your content ever again.</b>\nWith Pure Writer\'s line and paragraph spacing feature, your text will be clearer and more comfortable to read. Not only that, but it also has smooth scrolling, swipe-to-collapse-keyboard, and many more exciting features.\nSimplicity is hidden complexity. You are able to encrypt your work with your fingerprint, start or stop writing whenever you wish, and share your content quickly to other apps — we\'ve got you covered.\nMost importantly, <b>unless you manually delete it, you will never ever lose your work while using this text editor. Be it an accidental deletion or an unexpected shutdown, you will still be able to recover it from the History.</b>\nMore features: WebDAV cloud backup, Material Design 2 theme, Markdown, typewriter mode, exporting as long text image, Time Machine…\nIt\'s fast and smooth. You can interrupt and continue writing anytime, anywhere.\nEnjoy using Pure Writer.</string>
+  <string name="defaultContent">Writing connects us with the past and lets us imagine the future. However, have you ever experienced some writing software: slow to start, causing inspiration to slip away? Frequently errors lead to wasted words? Lack of many necessary features and aids for writing feels inconvenient?\nPure Writer can solve all these problems. It\'s a super-fast plain text editor, and we hope that writing can return to its original form: <b>pure, secure, anytime, without losing content, and with a good writing experience.</b>\nPeace of Mind\nThe icon of Pure Writer is a projection of a time machine, implying that words can take us through time and space, and also corresponds to the \"history record\" and \"automatic backup\" features specially provided by Pure Writer. With these protections, even if you accidentally delete the text, or your phone suddenly loses power and shuts down, your article can still be completely saved or found in the history record. Over the years, Pure Writer has provided a reassuring, secure writing experience, achieving the rare feat of no loss, and has been widely praised.\nSmooth and Fluid\nIn addition to achieving the most important security guarantee, the UI interface and various writing aids of Pure Writer can also make users feel that this application is really pleasing to the eye and smooth. Pure Writer has adapted the soft keyboard interface of Android 11, allowing your fingers to smoothly control the rise and fall of the soft keyboard. At the same time, it also provides a breathing cursor, the cursor is no longer just flashing, but like human breathing, gradually fading in and out. Many such details, Pure Writer has polished to the extreme, while it has many writing aids, such as \"automatically completing paired symbols\", deleting paired symbols when pressing delete, pressing the enter key to jump out of the quotation range when completing dialogue content... Many such aids will feel timely and natural, when you compare with other editor applications, you will find Pure Writer does it better, smoother, and more meticulous.\nSimplicity in Complexity\nMany basic features that an editor should have, Pure Writer has not missed, such as quick input bar, <b>multi-device cloud sync</b>, paragraph indentation, paragraph spacing, generating beautiful long images, undo, word count, dual editor side by side, one-click format adjustment, find and replace, Markdown, computer version... and some very creative features, such as: using the TTS voice engine to read out the text you input in real time, helping you check in a different sensory way whether the input text is correct. For example, it has achieved \"unlimited word count\", as long as your phone\'s performance allows, there is no word limit. Even so, Pure Writer still maintains a minimalist design style, follows Material Design, and is both useful and beautiful.\nYou can reach the inspiration page at super fast speed, and you can interrupt and continue writing anytime, anywhere. Pure Writer has done all this for you. A reassuring and smooth writing experience, this is Pure Writer, please enjoy writing!</string>
   <string name="share">Share to another App</string>
   <string name="copyTitle">Copy the Title</string>
   <string name="lock">Lock</string>
@@ -38,7 +38,7 @@
   <string name="appPureMosaic" translatable="false">AD:Pure Mosaic</string>
   <string name="wordCountShort">Count</string>
   <string name="wordCountLong">Word Count</string>
-  <string name="wordCountOfCurrentArticle">Total Word Count of Current Article</string>
+  <string name="wordCountOfCurrentArticle">Total Word Count of Current Text</string>
   <string name="floatingWordCount">Floating Word Count</string>
   <string name="historyState">Saved</string>
   <string name="tipNeedFingerprint">To view and edit, please use your fingerprint to unlock first</string>
@@ -87,7 +87,7 @@
   <string name="promptShortcutTitle">Shortcut description (optional)</string>
   <string name="promptShortcutContent">Shortcut content (required)</string>
   <string name="createShortcut">Create text shortcut</string>
-  <string name="noteShortcutCursorIndex">Please move the cursor position in the content to set the placement of the cursor after inserting the article</string>
+  <string name="noteShortcutCursorIndex">Please move the cursor position in the content to set the placement of the cursor after inserting the text</string>
   <string name="indentShort">Indent</string>
   <string name="delete">Delete</string>
   <string name="messageDeleteShortcut">Click OK to delete this shortcut</string>
@@ -106,9 +106,9 @@
   <string name="summaryPaid">Pro activated</string>
   <string name="labelUpdate">A new Pure Writer %1$s is available</string>
   <string name="update">Update</string>
-  <string name="messageDeleteArticlesToTrash">Are you sure you want to delete these articles and move them to the trash?</string>
+  <string name="messageDeleteArticlesToTrash">Are you sure you want to delete these texts and move them to the trash?</string>
   <string name="tipPurchasedStatusFailed">Purchased. If the purchase status did not update, please try clicking the Pro item again (you will not be double charged in doing so)</string>
-  <string name="createNew">Create new article</string>
+  <string name="createNew">Create a new text</string>
   <string name="autoLock">Auto-lock</string>
   <string name="enabled">Enabled</string>
   <string name="appLinks" translatable="false">Android Links</string>
@@ -121,7 +121,7 @@
   <string name="sortTypeCreatedTimeDown">Time Created (Descending)</string>
   <string name="sortTypeModifiedTimeUp">Time Modified (Ascending)</string>
   <string name="sortTypeCreatedTimeUp">Time Created (Ascending)</string>
-  <string name="warningSavedFailed">Article save failed. Please copy your content and try restarting the app to check if any content is lost.</string>
+  <string name="warningSavedFailed">Text save failed. Please copy your content and try restarting the app to check if any content is lost.</string>
   <string name="backupNow">Backup now</string>
   <string name="backupToLocalNow">Back up to local storage now</string>
   <string name="backupWithHistoryToLocalNow">Back up to local storage and include all history</string>
@@ -146,7 +146,7 @@
   <string name="wordCountModeEntriesItem3"><b>Exclude all punctuation</b>, spaces, and line breaks</string>
   <string name="fab">Home Floating Action Button</string>
   <string name="tipFab">Tip: Long press the Home Floating Action Button to hide it temporarily</string>
-  <string name="tipCannotCreateNewWhenEmpty">Can\'t create a new article when title and content are both blank! You can still create it through the button in the top right corner of the menu though.</string>
+  <string name="tipCannotCreateNewWhenEmpty">Can\'t create a new text when title and content are both blank! You can still create it through the button in the top right corner of the menu though.</string>
   <string name="more">More</string>
   <string name="notSupportOpeningTheLink">Link not supported</string>
   <string name="formatters">Reformat</string>
@@ -180,11 +180,11 @@
   <string name="tipShortcutBarEnabled">Closing not recommended</string>
   <string name="open">Open</string>
   <string name="openFolder">Open folder</string>
-  <string name="summaryAutoBackup">All your articles will backup automatically when the app is exited. Backup limited to 25 newest files.</string>
+  <string name="summaryAutoBackup">All your texts will backup automatically when the app is exited. Backup limited to 25 newest files.</string>
   <string name="migratingData">Data Migration</string>
   <string name="autoBackup">Auto backup</string>
   <string name="summaryDeleteObsoleteFiles">We are now using private directories to store all your content. Click this to delete old versions of the history files left on your SD card</string>
-  <string name="tipArticleDeleting">Deleting articles, temporarily disabled all actions</string>
+  <string name="tipArticleDeleting">Deleting texts, temporarily disabled all actions</string>
   <string name="noHistory">No history found</string>
   <string name="formatterRemoveIndent">Remove indentation</string>
   <string name="keepScreenOn">Keep screen on</string>
@@ -204,7 +204,7 @@
   <string name="books">Books</string>
   <string name="createNewBook">Create New Book</string>
   <string name="summaryOfAbout">Know more about the original ideas and concepts we designed for this application</string>
-  <string name="emptyTip">No articles have been opened yet</string>
+  <string name="emptyTip">No texts have been opened yet</string>
   <string name="name">Name</string>
   <string name="optionalDescription">Description (optional)</string>
   <string name="tag">Tag</string>
@@ -212,7 +212,7 @@
   <string name="createBookForDialogButton">Create Book</string>
   <string name="openSourceLicenses">Open Source Licenses</string>
   <string name="cannotDelete">Unable to delete</string>
-  <string name="cannotDeleteNotEmptyBook">The book isn\'t empty. To delete it, please delete the articles inside it individually first.</string>
+  <string name="cannotDeleteNotEmptyBook">The book isn\'t empty. To delete it, please delete the texts inside it individually first.</string>
   <string name="move">Move</string>
   <string name="moveTo">Move to</string>
   <string name="timeMachine">Time Machine</string>
@@ -235,8 +235,8 @@
   <string name="beforeBackupOverwritesLocal">beforeBackupOverwritesLocal</string>
   <string name="beforeBackupIsMergedIntoLocal">beforeBackupIsMergedIntoLocal</string>
   <string name="beforeSync">beforeSync</string>
-  <string name="trashDescription">Recover your deleted articles</string>
-  <string name="messageDeleteArticlesDirectly">Permanently delete these articles</string>
+  <string name="trashDescription">Recover your deleted texts</string>
+  <string name="messageDeleteArticlesDirectly">Permanently delete these texts</string>
   <string name="trashFolderTip">You can\'t create a new file in this trash folder!</string>
   <plurals name="confirmDeleteMessages">
     <item quantity="one">Are you sure to delete this %d message?</item>
@@ -261,21 +261,21 @@
   <string name="noWebDavConfig">Your WebDAV configuration is incomplete or incorrect.</string>
   <string name="uploadSuccessful">Upload successful</string>
   <string name="fetchSuccessful">Fetch successful</string>
-  <string name="messageUpload">Pure Writer created a <b>fixed</b> file on your cloud disk. The file name is <b>PureWriter.txt</b>. You can click "OK" to upload your current article to this fixed file. Then you can edit this cloud file on other devices. When it changes, you can pull it down. \n\nDo you now want to overwrite the current article content to that cloud file?</string>
+  <string name="messageUpload">Pure Writer created a <b>fixed</b> file on your cloud disk. The file name is <b>PureWriter.txt</b>. You can click "OK" to upload your current text to this fixed file. Then you can edit this cloud file on other devices. When it changes, you can pull it down. \n\nDo you now want to overwrite the current text content to that cloud file?</string>
   <string name="typewriterMode">Typewriter Mode</string>
   <string name="edit">Edit</string>
   <string name="editBook">Edit Book</string>
-  <string name="tipFloatingWordCountDisabled">After turning off the floating word count, you will still be able to get the word count in the chapter/article list.</string>
+  <string name="tipFloatingWordCountDisabled">After turning off the floating word count, you will still be able to get the word count in the chapter/text list.</string>
   <string name="shareText">Recommendation: Pure Writer is a feature-filled text editing app that gives you a peace of mind with its features: History Records, multi-layer protection that prevents you from losing your precious content, and also a comfortable writing environment. Find out more here: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="shareMessage">If you enjoy using Pure Writer, please help us to spread the word! Click the Share button on the right to share this app with your friends. It\'ll mean a lot to us and the app as it improves because of your support. Thanks!\n\nTo find out more, please visit: https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="reduceDatabaseSize">Clear History to Reduce Database Size</string>
-  <string name="reduceDatabaseSizeMessage">Delete History for all articles. \nNote: This will only delete the History records and NOT the article itself.</string>
+  <string name="reduceDatabaseSizeMessage">Delete History for all texts. \nNote: This will only delete the History records and NOT the text itself.</string>
   <string name="deleteSuccessful">Delete successful</string>
   <string name="unlockPro">Unlock Pro</string>
   <string name="presetTitle1">Pure Writer - Connecting the past and future with words</string>
-  <string name="presetContent1">Pure Writer is a fast and comfortable text editing app that prevents you from losing your works. While scrolling the comments and reviews of Pure Writer in Google Play, you might find some high praises for this app like "There\'s no app better than this", "The most satisfying app", "Love this app so much", "Love at first sight for this app"… As the only developer for Pure Writer, the comments were especially gratifying for me. \nIn June 2017, after I went through countless uncomfortable, poorly done text editing products and lost my precious text files, I am determined to develop my own text editing app that allows its users to write anytime anywhere in a feature-filled and comfortable environment, knowing that their words will never disappear. This app, as I decided, will be developed with a writer\'s perspective. \nBefore all this, I was working part-time on a rich text editing software. Although we poured our hearts over it, the software did not turn out the way we wanted it to be. Despite that, I successfully developed some unique features that is more than enough for Pure Writer. \nAnd so Pure Writer is born. From the very beginning, Pure Writer took care of perfecting each line and character spacing on Android. This is the special feature that no other text editing android apps has achieved besides Microsoft Word. And yet the package size of Microsoft Word is more than ten times larger than Pure Writer\'s.\nNot only that, Pure Writer also provides special features like "launch text editor on app start" and especially "History records". As a writer myself, I understand the utmost importance of having a history record — it allows you to focus on your writing while giving you a peace of mind that you will never, ever lose what you are writing. Even if your phone shuts down suddenly without any notice, Pure Writer can still save your content automatically. This way, all users are able to start and stop writing whenever they wish in a comfortable text editor with confidence. \nIn addition to that, Pure Writer supports "Input Shortcuts" and "Formatting tools", input shortcuts allows users to set their own custom words into the shortcut bar, so that they can reuse it over and over again with ease; formatting tools help users to quickly format their text for example auto spacing and arranging. \nNot only these features, a lot of effort was put into perfecting the tiniest detail in Pure Writer. While using Pure Writer, you are able to hide the soft keyboard by simply swiping the screen, get the cursor to be exactly where you want it to be and also keep the article still while you hide the soft keyboard… If you were to compare Pure Writer to the other text editing apps, you will find that Pure Writer has perfectly taken care of all the small details that eventually contribute to a perfect writing environment.\nPure Writer has the editing tools you need for example: auto indentation, export article as various files including images, floating word count, canceling, Markdown, custom background themes, night mode, biometric encryption, text auto complete, sharing and much more. Despite all the features and details, Pure Writer still kept its minimalistic style and follows the Material Design guidelines. I also made a "Time Machine" for users to make small notes and keep them. The name "Time Machine" is taken from the comic, with the meaning of "Connecting the Past and Future with words". \nUntil today, Pure Writer\'s code base has received over one thousand commits and millions of lines changes. Although Pure Writer consumes almost all of my free time, it is always a relief that more and more users are giving me positive feedback. I actively connect with Pure Writer\'s users, collecting feedback and perfecting the app. I\'ve never felt happier at the thought of making something long term that helps other people. \nFinally, thank you to all my friends who helped me throughout this journey. Without you, this app would never be where it is today. With this post, I introduce you to the original ideas of Pure Writer and all of its special features, and hopefully more people would get to know it better. Let\'s hope that we are able to leave wonderful memories behind in the limited time we have. Let our Words take us back in time, and bring us to imagine the future.</string>
+  <string name="presetContent1">Pure Writer is a fast and comfortable text editing app that prevents you from losing your works. While scrolling the comments and reviews of Pure Writer in Google Play, you might find some high praises for this app like "There\'s no app better than this", "The most satisfying app", "Love this app so much", "Love at first sight for this app"… As the only developer for Pure Writer, the comments were especially gratifying for me. \nIn June 2017, after I went through countless uncomfortable, poorly done text editing products and lost my precious text files, I am determined to develop my own text editing app that allows its users to write anytime anywhere in a feature-filled and comfortable environment, knowing that their words will never disappear. This app, as I decided, will be developed with a writer\'s perspective. \nBefore all this, I was working part-time on a rich text editing software. Although we poured our hearts over it, the software did not turn out the way we wanted it to be. Despite that, I successfully developed some unique features that is more than enough for Pure Writer. \nAnd so Pure Writer is born. From the very beginning, Pure Writer took care of perfecting each line and character spacing on Android. This is the special feature that no other text editing android apps has achieved besides Microsoft Word. And yet the package size of Microsoft Word is more than ten times larger than Pure Writer\'s.\nNot only that, Pure Writer also provides special features like "launch text editor on app start" and especially "History records". As a writer myself, I understand the utmost importance of having a history record — it allows you to focus on your writing while giving you a peace of mind that you will never, ever lose what you are writing. Even if your phone shuts down suddenly without any notice, Pure Writer can still save your content automatically. This way, all users are able to start and stop writing whenever they wish in a comfortable text editor with confidence. \nIn addition to that, Pure Writer supports "Input Shortcuts" and "Formatting tools", input shortcuts allows users to set their own custom words into the shortcut bar, so that they can reuse it over and over again with ease; formatting tools help users to quickly format their text for example auto spacing and arranging. \nNot only these features, a lot of effort was put into perfecting the tiniest detail in Pure Writer. While using Pure Writer, you are able to hide the soft keyboard by simply swiping the screen, get the cursor to be exactly where you want it to be and also keep the text still while you hide the soft keyboard… If you were to compare Pure Writer to the other text editing apps, you will find that Pure Writer has perfectly taken care of all the small details that eventually contribute to a perfect writing environment.\nPure Writer has the editing tools you need for example: auto indentation, export text as various files including images, floating word count, canceling, Markdown, custom background themes, night mode, biometric encryption, text auto complete, sharing and much more. Despite all the features and details, Pure Writer still kept its minimalistic style and follows the Material Design guidelines. I also made a "Time Machine" for users to make small notes and keep them. The name "Time Machine" is taken from the comic, with the meaning of "Connecting the Past and Future with words". \nUntil today, Pure Writer\'s code base has received over one thousand commits and millions of lines changes. Although Pure Writer consumes almost all of my free time, it is always a relief that more and more users are giving me positive feedback. I actively connect with Pure Writer\'s users, collecting feedback and perfecting the app. I\'ve never felt happier at the thought of making something long term that helps other people. \nFinally, thank you to all my friends who helped me throughout this journey. Without you, this app would never be where it is today. With this post, I introduce you to the original ideas of Pure Writer and all of its special features, and hopefully more people would get to know it better. Let\'s hope that we are able to leave wonderful memories behind in the limited time we have. Let our Words take us back in time, and bring us to imagine the future.</string>
   <string name="presetTitle2">Pure Writer - Protective Mechanism</string>
-  <string name="presetContent2">The current protective mechanism that Pure Writer has is: \n1. The article will be saved once the content is changed. If that fails, Pure Writer will notify the user immediately. \n2. Pure Writer will check if your content is saved in the database every two seconds. If it fails, Pure Writer will notify the user immediately. \n3. If it fails to autosave, then the users will not be able to exit the app completely. Pressing the exit button at this time is the same as pressing the Home button without completely stopping the app. This will allow some time for the user to manually save their content. \n4. Every time the app is running in the background or exited, it will automatically backup the whole database if any content is edited. The backup file can be accessed anytime. The backup will be save along with the previous version of the backup to allow users to revert the backup.\n5. The History record, undo and redo feature is provided to every article  \n6. Has a Trash folder to prevent accidental deletion of articles.\n7. Cloud backups: if Pure Writer is integrated with WebDAV, then it will automatically backup all the database content including the articles to the cloud.</string>
+  <string name="presetContent2">The current protective mechanism that Pure Writer has is: \n1. The text will be saved once the content is changed. If that fails, Pure Writer will notify the user immediately. \n2. Pure Writer will check if your content is saved in the database every two seconds. If it fails, Pure Writer will notify the user immediately. \n3. If it fails to autosave, then the users will not be able to exit the app completely. Pressing the exit button at this time is the same as pressing the Home button without completely stopping the app. This will allow some time for the user to manually save their content. \n4. Every time the app is running in the background or exited, it will automatically backup the whole database if any content is edited. The backup file can be accessed anytime. The backup will be save along with the previous version of the backup to allow users to revert the backup.\n5. The History record, undo and redo feature is provided to every text  \n6. Has a Trash folder to prevent accidental deletion of texts.\n7. Cloud backups: if Pure Writer is integrated with WebDAV, then it will automatically backup all the database content including the texts to the cloud.</string>
   <string name="presetTitle3" translatable="false">Pure Writer Pro</string>
   <string name="presetContent3">If you enjoyed using Pure Writer and wish to have it actively developed, would you mind contributing a few bucks to encourage the developer?\nYour support can encourage independent developers like me to make more useful apps. \nTo contribute, you can press the "Unlock Pro" button in the top right corner of the Settings page. As a token of appreciation, you will be able to get Pro features like "Save as…" and "Custom background/Papers". \nPure Writer will also improve as a result of your support. Thanks in advance! If you have any questions or feedback, please do not hesitate to email me at drakeet@drakeet.com</string>
   <string name="presetTitle4">Pure Writer - Privacy Policy</string>
@@ -298,14 +298,14 @@
   <string name="insertCategoryAboveShort">Insert Folder <b>above</b></string>
   <string name="insertCategoryBelowShort">Insert Folder <b>below</b></string>
   <string name="insertCategoryBottomShort">Insert Folder to <b>bottom</b></string>
-  <string name="insertCategoryAboveLong">Insert a new Folder <b>above</b> the current article</string>
-  <string name="insertCategoryBelowLong">Insert a new Folder <b>below</b> the current article</string>
+  <string name="insertCategoryAboveLong">Insert a new Folder <b>above</b> the current text</string>
+  <string name="insertCategoryBelowLong">Insert a new Folder <b>below</b> the current text</string>
   <string name="insertCategoryBottomLong">Insert a new Folder to the <b>bottom</b> of the chapter list</string>
   <string name="insertCategory">Insert Folder</string>
   <string name="editCategory">Edit Folder</string>
   <string name="category">Folder</string>
-  <string name="deleteEmptyArticlesShort">Delete all empty articles</string>
-  <string name="deleteEmptyArticlesLong">Delete all articles with blank titles and content in this Book</string>
+  <string name="deleteEmptyArticlesShort">Delete all empty texts</string>
+  <string name="deleteEmptyArticlesLong">Delete all texts with blank titles and content in this Book</string>
   <string name="deleteCategory">Delete Folder</string>
   <string name="insertANewCategory" translatable="false">@string/insertCategory</string>
   <string name="updateACategory">Update a Folder</string>
@@ -349,7 +349,7 @@
   <string name="replaceConfirmMessage">Are you sure to replace the selected %d place(s)?</string>
   <string name="tipUndoReplace">Undo:\n* You can go to Pure Writer - Settings - Backup - Restore Backup, click on the previous backup to restore to the previous content.\n* If you just replaced the current chapter, you can go to the History page through the top right menu and revert to the previous content.</string>
   <string name="backupRemarkForReplace">BeforeReplace</string>
-  <string name="tipReplaceResult">%2$d contents in %1$d articles have been replaced</string>
+  <string name="tipReplaceResult">%2$d contents in %1$d texts have been replaced</string>
   <string name="title">Title</string>
   <string name="content">Content</string>
   <string name="webDavAccountError">Your WebDAV account content is incorrect, so cloud backup cannot be enabled!</string>
@@ -360,11 +360,11 @@
   <string name="changeAccount">Change account</string>
   <string name="scrollToHideTopBar">Scroll to hide the top bar</string>
   <string name="scrollToHideWordCount">Scroll to hide the Word Count</string>
-  <string name="doNotOperate">Don\'t switch or modify articles in the process!</string>
+  <string name="doNotOperate">Don\'t switch or modify texts in the process!</string>
   <string name="forcedOffBadge" translatable="false">关于云备份提醒小红点</string>
   <string name="badgeReadme" translatable="false">您可以在纯纯写作编辑器页面看到对于云备份的小红点，该小红点若是显示则表示<b>您没有配置云备份或者云备份无法连通</b>，如果您已设置云备份且可连通，则它会自动消失。\n\n之所以我们不得不这么做的原因是，很多用户自信地认为自己不需要云备份，但有一天手机丢了、突然坏了，又或者因为刷机、意外双清了，没有云备份只能后悔莫及。作为纯纯写作的开发者兼客服，我已经见过太多这样令人难过的事情了，很多用户甚至来信怪我为什么不强制让用户进行云备份，我非常理解因为辛苦写作的文章未能备份到云盘而皆数丢失的难过，所以也希望大家能够理解，谢谢！</string>
   <string name="aboutBackup"><b>About backup</b></string>
-  <string name="backupReadme">Pure Writer supports local and cloud backup. Local backup is automatic. When you reinstall Pure Writer, <b>you can restore all your articles by Backup</b>.\n\nHowever, Pure Writer <b>does not automatically do Cloud Backups by default</b>. To enable Cloud Backup, <b>you need to set up a cloud backup account</b> on the Pure Writer - Settings - Backups page.\n\nPure Writer Cloud Backup currently supports Dropbox and WebDAV cloud storage.\n\n<b>Cloud Backup is very very important. If you don\'t set up a cloud backup account, you will lose all your valuable content if this device is lost, broken, or restored to factory settings! Be sure to set up a cloud backup account!</b></string>
+  <string name="backupReadme">Pure Writer supports local and cloud backup. Local backup is automatic. When you reinstall Pure Writer, <b>you can restore all your texts by Backup</b>.\n\nHowever, Pure Writer <b>does not automatically do Cloud Backups by default</b>. To enable Cloud Backup, <b>you need to set up a cloud backup account</b> on the Pure Writer - Settings - Backups page.\n\nPure Writer Cloud Backup currently supports Dropbox and WebDAV cloud storage.\n\n<b>Cloud Backup is very very important. If you don\'t set up a cloud backup account, you will lose all your valuable content if this device is lost, broken, or restored to factory settings! Be sure to set up a cloud backup account!</b></string>
   <string name="tipParagraphSpacingInMD">Paragraph spacing will not be enabled in Markdown mode</string>
   <string name="lineSpacing">Line spacing</string>
   <string name="paragraphSpacing">Paragraph spacing</string>
@@ -372,7 +372,7 @@
   <string name="zoomIn">Detailed list mode</string>
   <string name="zoomOut">Simplified list mode</string>
   <string name="switchingBooksTooltip">Tip: Clicking the book title at the top will be able to switch Books</string>
-  <string name="scrollToTheCurrentArticle">Scroll to current article</string>
+  <string name="scrollToTheCurrentArticle">Scroll to current text</string>
   <string name="allBooks">All Books</string>
   <string name="outlines" translatable="false">Outlines</string>
   <string name="outline" translatable="false">Outline</string>
@@ -419,11 +419,11 @@
   <string name="disconnectDesktop">Disconnect Desktop</string>
   <string name="connect">Connect</string>
   <string name="tipNotSupportThisDesktopVersion">The current mobile and desktop versions do not match and cannot be connected. Please update both to the latest version and try again.</string>
-  <string name="desktopDialogGuide">You need to download <b><i>Pure Writer Desktop v1.9.0 (or above)</i></b> from https://writer.drakeet.com/desktop_en \n\nWhen your mobile and computer are on <b>the same Wi-Fi network or hotspot👈👈👈</b>, open Desktop and enter the IP address below <b>into the input field of Desktop</b> to connect to Pure Writer, then you can sync and edit the current article in real time.</string>
+  <string name="desktopDialogGuide">You need to download <b><i>Pure Writer Desktop v1.9.0 (or above)</i></b> from https://writer.drakeet.com/desktop_en \n\nWhen your mobile and computer are on <b>the same Wi-Fi network or hotspot👈👈👈</b>, open Desktop and enter the IP address below <b>into the input field of Desktop</b> to connect to Pure Writer, then you can sync and edit the current text in real time.</string>
   <string name="desktopDialogNote">Note: Pure Writer Desktop is still in its alpha stage. Please understand and wait for its subsequent updates.\n* If you see <b>multiple lines of IP addresses</b>, try connecting them one by one.</string>
   <string name="connectionIsStopping">The connection is stopping, try again later!</string>
   <string name="createShortcutLabel">Text Shortcut</string>
-  <string name="cursorPositionForNewArticle">Cursor position for new article</string>
+  <string name="cursorPositionForNewArticle">Cursor position for new text</string>
   <string name="stop_waiting_connection">Stop waiting for connections</string>
   <string name="undoValidTip">The currently focused input area can no longer be undo again, you can try to recover your content from the History menu in the top right corner.</string>
   <string name="desktopDisconnected">Desktop is disconnected</string>
@@ -431,18 +431,18 @@
   <string name="double11Title" translatable="false">11·11 Half price (50% off)</string>
   <string name="double11Message" translatable="false">From November 10 to November 12, purchasing the Pro of Pure Writer can be done at <b>half price</b>. Thank you very much for your support!</string>
   <string name="toDoCloudBackupButton">Go to set up a cloud backup account</string>
-  <string name="ignoreCloudBackupCheckBox">I don\'t want to set up a cloud backup, don\'t remind me. I am willing to bear all the consequences of not having a cloud backup, including losing all my valuable articles when the phone is broken or lost or reset because there is no cloud backup!</string>
+  <string name="ignoreCloudBackupCheckBox">I don\'t want to set up a cloud backup, don\'t remind me. I am willing to bear all the consequences of not having a cloud backup, including losing all my valuable texts when the phone is broken or lost or reset because there is no cloud backup!</string>
   <string name="selectMore">Select more</string>
   <string name="addChapterBelowThis">Add Chapter below</string>
   <string name="addChapterAboveThis">Add Chapter above</string>
   <string name="moveToOtherBook">Move to another Book</string>
   <string name="paragraphSpacingSettingSummary">Super long text will get better performance when paragraph spacing is turned off</string>
   <string name="autoInsertBlankLineWhenWrapping">Insert a blank line automatically when wrapping</string>
-  <string name="markdownAsDefault">Markdown as the default mode for new articles</string>
+  <string name="markdownAsDefault">Markdown as the default mode for new texts</string>
   <string name="needToPayForMarkdownRenderer">This is the Markdown Quick Preview page, which requires you to pay for Pure Writer Pro to use it.</string>
-  <string name="fabContextCreateNewAfterCurrent">New article after the current article</string>
-  <string name="fabContextCreateNewAtTheBottom">Insert a new article at the bottom of the article list</string>
-  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Insert a new article at the bottom of current Folder</string>
+  <string name="fabContextCreateNewAfterCurrent">New text after the current text</string>
+  <string name="fabContextCreateNewAtTheBottom">Insert a new text at the bottom of the text list</string>
+  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">Insert a new text at the bottom of current Folder</string>
   <string name="fabContextHideFabUntilNextStart">Hide this button until the next launch</string>
   <string name="fabContextHideFabTemporarily">Hide the main floating button temporarily</string>
   <string name="license">License</string>
@@ -465,7 +465,7 @@
 |
 |        #### Export as long text image / md / txt file
 |
-|        You can export articles as long text images or .md .txt files:
+|        You can export texts as long text images or .md .txt files:
 |
 |        ![Picture](https://writer.drakeet.com/images/pro/en/2.webp)
 |
@@ -477,7 +477,7 @@
 |
 |        #### Find & Replace
 |
-|        You can find target keywords in any article and replace them in batches:
+|        You can find target keywords in any text and replace them in batches:
 |
 |        ![Picture](https://writer.drakeet.com/images/pro/en/4.webp)
 |
@@ -543,11 +543,11 @@
   <string name="useLegacyRender">Use legacy renderer</string>
   <string name="changelog">Changelog</string>
   <string name="advancedReadOnlyMode">Advanced read-only mode</string>
-  <string name="needOpenArticleFirst">You need to open an article first to use this option</string>
-  <string name="restoreArticleScrollPosition">Restore article scroll position</string>
-  <string name="savedStateModeAuto">Auto (the last edited article will be restored next time; non-last edited article will be restored if it is within one week from the last open time, otherwise it will return to the top)</string>
-  <string name="savedStateModeEnableAll">Anyway, enabled for all articles</string>
-  <string name="savedStateModeDisableAll">Anyway, disabled for all articles</string>
+  <string name="needOpenArticleFirst">You need to open an text first to use this option</string>
+  <string name="restoreArticleScrollPosition">Restore text scroll position</string>
+  <string name="savedStateModeAuto">Auto (the last edited text will be restored next time; non-last edited text will be restored if it is within one week from the last open time, otherwise it will return to the top)</string>
+  <string name="savedStateModeEnableAll">Anyway, enabled for all texts</string>
+  <string name="savedStateModeDisableAll">Anyway, disabled for all texts</string>
   <string name="summaryScrollToBottom">Whether to show this button on the editor</string>
   <string name="verificationCodeHelperText" translatable="false">注意：验证码邮件可能被您的邮箱服务加入垃圾箱，若持续没有收到，请检查您的邮箱垃圾箱。</string>
   <string name="cloudBackupFailed">Cloud backup failed</string>
@@ -565,8 +565,8 @@
   <string name="clickBottomAddNewBlankLine">Click Bottom to insert a blank line</string>
   <string name="summaryClickBottomAddNewBlankLine">If the last line is not a blank line, when click the blank area at the bottom of the editor, a new blank line will be automatically inserted at the end of the text and focused.</string>
   <string name="deleteCompletely">Delete completely</string>
-  <string name="openArticleListAfterSwitchingBooks">Open article list after switching books</string>
-  <string name="searchArticles">Search Articles / Jump to Articles quickly</string>
+  <string name="openArticleListAfterSwitchingBooks">Open text list after switching books</string>
+  <string name="searchArticles">Search Texts / Jump to Texts quickly</string>
   <string name="searchTip">Tip: You can enter multiple keywords to search by line breaks, but only the first keyword will be highlighted in the results.</string>
   <string name="regex" translatable="false">Regex</string>
   <string name="duplicate">Duplicate</string>
@@ -588,8 +588,8 @@
   <string name="read">Read</string>
   <string name="doNotRemindAgain">Don\'t remind again</string>
   <string name="homeFab">Home Floating Action button Mode</string>
-  <string name="fabOverflowModeSingleClick">Single-click to open the pop-up menu, and you can choose to create an article in the menu</string>
-  <string name="fabOverflowModeLongPress">Single-click to create an article directly, and long press to open the pop-up menu</string>
+  <string name="fabOverflowModeSingleClick">Single-click to open the pop-up menu, and you can choose to create an text in the menu</string>
+  <string name="fabOverflowModeLongPress">Single-click to create an text directly, and long press to open the pop-up menu</string>
   <string name="safeMode">Safe mode</string>
   <string name="summarySafeMode">When this App enters the background or recent task list page, the content of this App will be obscured or hidden; when this item is turned on, <b>screenshots in the App will also be prohibited</b>!</string>
   <string name="pressBackToClearCursor">Cursor is hidden and entered Read-only mode</string>
@@ -660,12 +660,12 @@
   <string name="insertANewBook">Insert a new book</string>
   <string name="updateABook">Update a book</string>
   <string name="deleteABook">Delete a book</string>
-  <string name="insertingOrUpdatingArticles">Inserting or updating articles…</string>
-  <string name="insertANewArticle">Insert a new article</string>
+  <string name="insertingOrUpdatingArticles">Inserting or updating texts…</string>
+  <string name="insertANewArticle">Insert a new text</string>
   <string name="summary">Summary</string>
-  <string name="updateAnExistingArticle">Update an existing article</string>
-  <string name="deleteAnExistingArticle">Delete an existing article</string>
-  <string name="totalNumberOfArticlesInsertedOrUpdated">Total number of articles inserted or updated</string>
+  <string name="updateAnExistingArticle">Update an existing text</string>
+  <string name="deleteAnExistingArticle">Delete an existing text</string>
+  <string name="totalNumberOfArticlesInsertedOrUpdated">Total number of texts inserted or updated</string>
   <string name="insertANewShortcut">Insert a new shortcut</string>
   <string name="deleteAShortcut">Delete a shortcut</string>
   <string name="updateAShortcut">Update a shortcut</string>
@@ -675,7 +675,7 @@
   <string name="mergeDone">Done!</string>
   <string name="relaunch">Relaunch</string>
   <string name="autoComplete">Auto complete</string>
-  <string name="autoCompleteSummary">Automatically complete paired symbols only when the cursor is <b>at the end</b> of the article</string>
+  <string name="autoCompleteSummary">Automatically complete paired symbols only when the cursor is <b>at the end</b> of the text</string>
   <string name="autoDeleteSymbolsInPairs">Auto delete symbols in pairs</string>
   <string name="autoDeleteSymbolsInPairsSummary">Only when the content in the paired symbol is <b>empty</b></string>
   <string name="tip">Tip</string>
@@ -711,7 +711,7 @@
   <string name="whetherOverwriteSettings">Overwrite local settings?</string>
   <string name="realNo">No</string>
   <string name="realYes">Yes</string>
-  <string name="askOverwriteSettings">We will use the article database in your backup file to overwrite the local article database, but we don\'t know if you need us to use the settings in the backup file to overwrite the local settings. Please choose:</string>
+  <string name="askOverwriteSettings">We will use the text database in your backup file to overwrite the local text database, but we don\'t know if you need us to use the settings in the backup file to overwrite the local settings. Please choose:</string>
   <string name="privacyPolicySummary">We will not collect any of your private information</string>
   <string name="sortingOptions">Sorting options</string>
   <string name="modifyOrderOfChapters">Modify the order of Chapters</string>
@@ -739,7 +739,7 @@
   <string name="uploadingKeywordsToCloud">Uploading keywords to your cloud storage...</string>
   <string name="downloadingKeywordsFromCloud">Downloading keywords from your cloud storage...</string>
   <string name="keywordRetrieval">Keyword retrieval</string>
-  <string name="retrieveCurrentArticle">Retrieve current article</string>
+  <string name="retrieveCurrentArticle">Retrieve current text</string>
   <string name="previousOne">Previous one</string>
   <string name="nextOne">Next one</string>
   <string name="uploadToCloudStorage">Upload to cloud storage</string>
@@ -751,7 +751,7 @@
   <string name="goodHeartNote" translatable="false">PLEASE NOTE: If you accept the free Pro, you will still see the Inactive or Unsubscribed status on the Pure Writer Pro page, that\'s okay, just ignore it and you\'ll be able to use all the Pro features.</string>
   <string name="limit1080wForPreviewImages">Limit max width to 1080</string>
   <string name="dailyStatistics">Daily statistics</string>
-  <string name="dailyExtraNote">* Note: Because there are articles earlier than <i>Daily Statistics</i> on this day, some of the above data are additional inferred data, for example, the writing time may be calculated as article last updated time - article creation time, which may not be accurate, for reference only!</string>
+  <string name="dailyExtraNote">* Note: Because there are texts earlier than <i>Daily Statistics</i> on this day, some of the above data are additional inferred data, for example, the writing time may be calculated as text last updated time - text creation time, which may not be accurate, for reference only!</string>
   <string name="currentBookAndItsWordCount">Current book and its word count</string>
   <string name="allBooksWordCount">Total number of words in all books</string>
   <string name="other">Other</string>
@@ -794,10 +794,10 @@
   <string name="remindMeNextTime">Remind me next time</string>
   <string name="alwaysSyncGuideMessage">You clicked the sync button and the sync is about to start. This sync button will automatically appear when you need to sync, and you need to click it to sync the current content with the cloud storage.\n\n‼️\nSometimes, this button fails to detect the content that needs to be synchronized at the first time. If you want to synchronize immediately, you can click the ⊕ button at the bottom of the editor, and then you can immediately see the synchronization button and trigger a synchronization immediately.</string>
   <string name="important">Important</string>
-  <string name="cloudSyncSummaryBasic">Auto synchronize data such as articles between multiple devices</string>
+  <string name="cloudSyncSummaryBasic">Auto synchronize data such as texts between multiple devices</string>
   <string name="thisDevice">This device</string>
   <string name="otherSyncDevices">Other sync devices</string>
-  <string name="cloudSyncReadme">You are about to enable the \"Cloud Sync\" function. Before this, you need to carefully understand some precautions. This is very important. Otherwise, you may lose some texts. Please be aware of:\n\n* The cloud backup and cloud synchronization of Pure Writer are completely free functions. We urge everyone to read the following content carefully, so that even if this function is provided for free, we will feel that it is worthwhile to develop these functions. Thank you for your understanding and cooperation! If in the future we find that many people are unwilling to understand the following, <b>we may abandon the cloud sync function</b>(‼️).\n\n* If you click the \"OK\" button below, you agree to the following content, and Pure Writer will immediately perform a cloud synchronization.\n\n* Currently the cloud storage for cloud synchronization is the same as your cloud backup storage.\n\n* If you have selected \"Manual\" mode in \"Cloud Sync Mode Options\", then when there is content that needs to be synced, a sync button will appear at the bottom of the editor, you need to click this button every time to sync with cloud storage.\n\n* You need to ensure that all devices are installed with Pure Writer v20.0 or above, and are logged into the same cloud backup storage, so that these devices can synchronize content with each other, that is, if the cloud backup storage on different devices is not the same one account, then these devices cannot be synchronized with each other.\n\n* Pure Writer will automatically query the cloud storage for content that needs to be synchronized at regular intervals. If there are new changes, a synchronization button will be displayed at the bottom of the editor, and you can click the button to synchronize at an appropriate time. Normally it will be checked every 20 seconds, or 10 seconds when there is a Wi-Fi network. This network request consumes very little traffic and you don\'t need to worry about it.\n\n* Most important (‼️): Before syncing, you cannot edit the same article on two devices, otherwise the later edited content will directly overwrite the earlier content, which will cause you to lose part of the text. If you need to edit the same article on two devices, the correct way is to click the sync button to sync the content to the cloud storage after editing the article on one device, and then click the sync button on the other device after the synchronization is complete to sync content to this device, so you can edit the latest articles on this device.\n\n* If you can\'t understand what the previous prompt is saying, it is recommended that you do not enable the cloud sync function, otherwise some texts will be lost!\n\n* Pure Writer will package and backup all your original data once before each synchronization. You can click \"Restore Backup\" on the Backups page to see it.\n\n* Always remember that Pure Writer has \"History\" and \"Auto Backup\" functions.\n\n* Cloud sync does not support Markdown images.</string>
+  <string name="cloudSyncReadme">You are about to enable the \"Cloud Sync\" function. Before this, you need to carefully understand some precautions. This is very important. Otherwise, you may lose some texts. Please be aware of:\n\n* The cloud backup and cloud synchronization of Pure Writer are completely free functions. We urge everyone to read the following content carefully, so that even if this function is provided for free, we will feel that it is worthwhile to develop these functions. Thank you for your understanding and cooperation! If in the future we find that many people are unwilling to understand the following, <b>we may abandon the cloud sync function</b>(‼️).\n\n* If you click the \"OK\" button below, you agree to the following content, and Pure Writer will immediately perform a cloud synchronization.\n\n* Currently the cloud storage for cloud synchronization is the same as your cloud backup storage.\n\n* If you have selected \"Manual\" mode in \"Cloud Sync Mode Options\", then when there is content that needs to be synced, a sync button will appear at the bottom of the editor, you need to click this button every time to sync with cloud storage.\n\n* You need to ensure that all devices are installed with Pure Writer v20.0 or above, and are logged into the same cloud backup storage, so that these devices can synchronize content with each other, that is, if the cloud backup storage on different devices is not the same one account, then these devices cannot be synchronized with each other.\n\n* Pure Writer will automatically query the cloud storage for content that needs to be synchronized at regular intervals. If there are new changes, a synchronization button will be displayed at the bottom of the editor, and you can click the button to synchronize at an appropriate time. Normally it will be checked every 20 seconds, or 10 seconds when there is a Wi-Fi network. This network request consumes very little traffic and you don\'t need to worry about it.\n\n* Most important (‼️): Before syncing, you cannot edit the same text on two devices, otherwise the later edited content will directly overwrite the earlier content, which will cause you to lose part of the text. If you need to edit the same text on two devices, the correct way is to click the sync button to sync the content to the cloud storage after editing the text on one device, and then click the sync button on the other device after the synchronization is complete to sync content to this device, so you can edit the latest texts on this device.\n\n* If you can\'t understand what the previous prompt is saying, it is recommended that you do not enable the cloud sync function, otherwise some texts will be lost!\n\n* Pure Writer will package and backup all your original data once before each synchronization. You can click \"Restore Backup\" on the Backups page to see it.\n\n* Always remember that Pure Writer has \"History\" and \"Auto Backup\" functions.\n\n* Cloud sync does not support Markdown images.</string>
   <string name="aboutCloudSync"><i>About Cloud Sync</i></string>
   <string name="syncCategoryTip">Need to log in to the cloud storage account above to enable the cloud sync option below</string>
   <string name="cloudSyncModeNames1">Manually: Manually click the Sync button at the bottom of the editor each time you need to sync. This mode is suitable for cloud storage with traffic and request frequency limits.\n</string>
@@ -805,26 +805,29 @@
   <string name="cloudSyncModeDefault" translatable="false">SA</string>
   <string name="syncBeforeEditingToAvoidConflicts">Sync before editing to avoid conflicts</string>
   <string name="okSyncIt">OK, sync it</string>
-  <string name="messageSyncBeforeEditingToAvoidConflicts">You have modified the current article on other devices, in order to avoid conflicts, please synchronize first, otherwise your modifications on other devices may be discarded.</string>
-  <string name="moveArticlesOfDeletedFolderToTrash">Move the articles inside the deleted folder to the Trash</string>
+  <string name="messageSyncBeforeEditingToAvoidConflicts">You have modified the current text on other devices, in order to avoid conflicts, please synchronize first, otherwise your modifications on other devices may be discarded.</string>
+  <string name="moveArticlesOfDeletedFolderToTrash">Move the texts inside the deleted folder to the Trash</string>
   <string name="tts">TTS (Speak your committed text aloud to help you avoid typos or spelling mistakes)</string>
   <string name="about7zChange">Important notice about cloud backup and sync</string>
   <string name="readme7z">Pure Writer v20.6.0 changes the cloud backup and sync file(.pwb) format, which can significantly reduce the size of your backup or cloud sync files, and reduce your traffic consumption, speeding up the cloud backup and sync process.\n\nHowever, this will result in that if you use a version lower than v20.6.0 of Pure Writer on other devices, it will not be able to parse the latest data format correctly, cloud sync will not work, and cloud backup will also falsely report \"<b>File corrupted</b>\".\n\nTherefore, <b>you need to make sure that all your devices are using Pure Writer above v20.6.0</b>, this is very important, please keep it in mind and keep it updated! 🙏</string>
   <string name="autoChapterNameTitle" translatable="false">自动加入或更新\n[第]*[章] 前缀</string>
+  <string name="autoChapterNameMessagePart1" translatable="false">您即将对**本书**启用「自动章节名」功能，在此之前，您必须了解一下注意事项：\n\n* 这个选项仅当您的纯纯写作语言为**中文**且文章排序模式为**手动排序模式**才可见并生效，若您的语言为其他，它将不可见且不生效！\n* 首先，设定**当前书**自动章节格式:</string>
+  <string name="autoChapterNameMessagePart2" translatable="false">格式结果示例：\n\n第一章\n第一章勿忘开心\n第一万零一章若要后面有空格需自行配置\n\n* 若您需要在不同卷里重新从「第一章」开始，请勾选：</string>
+  <string name="autoChapterNameMessagePart3" translatable="false">* 在您点击「好的」以后，纯纯写作会自动进行一次章节名整理，按文章顺序为您在文章标题中加入章节前缀，并在**您每次对文章顺序做调整时，自动更新此内容**。\n* 启用后，纯纯写作将帮您替换掉原有的章节前缀，请知悉！\n* 当前启用状态和格式**仅对本书生效**，若对别的书也启用此功能，需打开该书并再次启用此功能。\n* 启用后，将**从「第一章」开始**，若您的文章并不是从「第一章」开始，请不要点击「好的」！\n* 若您想跳过一些**序章**，可长按该章节，选择对该章节禁用「自动章节名」。</string>
   <string name="ttsMode">TTS mode (word or sentence?)</string>
   <string name="ttsModeWord">Speak the <b>word</b> you just typed</string>
   <string name="ttsModeSentence">Speak the <b>sentence</b>\n(Only some languages are supported because we don\'t know how to segment sentences for other languages‼️)</string>
   <string name="openTtsSetting">Open System Settings - TTS</string>
   <string name="downloadTtsEngine">Download TTS Engine</string>
-  <string name="titleRestoreOrderOfArticlesFromAnOldBackup">Restore the <b>order</b> of articles from an old backup</string>
-  <string name="summaryRestoreOrderOfArticlesFromAnOldBackup">This can be used when you encounter a bug where the article list is out of order, it will read the article order value in the old backup of your choice and assign it to your current articles</string>
+  <string name="titleRestoreOrderOfArticlesFromAnOldBackup">Restore the <b>order</b> of texts from an old backup</string>
+  <string name="summaryRestoreOrderOfArticlesFromAnOldBackup">This can be used when you encounter a bug where the text list is out of order, it will read the text order value in the old backup of your choice and assign it to your current texts</string>
   <string name="titleSelectBooksToRestoreOrder">Please select the books to restore their internal chapter order</string>
   <string name="beforeRestoreOrder">beforeRestoreOrder</string>
   <string name="ttsModeDefault" comment="this should be `w` or `s`!!" translatable="false">s</string>
-  <string name="readCurrentArticleAloud">Read current article aloud</string>
+  <string name="readCurrentArticleAloud">Read current text aloud</string>
   <string name="checkForUpdates">Check for updates</string>
-  <string name="cloudSyncAutoSwitchesToTheLatestEditedArticle">Cloud sync auto switches to the latest edited article</string>
-  <string name="summaryCloudSyncAutoSwitchesToTheLatestEditedArticle">This will take effect only after you enable cloud sync on Cloud Sync Settings.\nAfter enabling this option, Pure Writer will automatically switch to your latest edited article for you if the cloud sync is completed.</string>
+  <string name="cloudSyncAutoSwitchesToTheLatestEditedArticle">Cloud sync auto switches to the latest edited text</string>
+  <string name="summaryCloudSyncAutoSwitchesToTheLatestEditedArticle">This will take effect only after you enable cloud sync on Cloud Sync Settings.\nAfter enabling this option, Pure Writer will automatically switch to your latest edited text for you if the cloud sync is completed.</string>
   <string name="ttsEnabled">TTS enabled</string>
   <string name="orLongPressToSelect">Or long press on text to select and copy parts of it</string>
   <string name="messageAskPostNotification">Grant notification permission to display <i>Auto Backup</i> status?</string>
@@ -832,9 +835,9 @@
   <string name="messageNeedForcedUpdate">Due to the expired HTTPS certificate of the current version, the Android system cannot provide secure network requests for Pure Writer, and your network requests may be intercepted by middlemen. Therefore, you need to update to the new version to continue to use Pure Writer securely.</string>
   <string name="showShareTextMenuItemAfterSelectingText">Show share text menu item after selecting text</string>
   <string name="extKeyboardTip">Prompt to use external keyboard when in landscape</string>
-  <string name="tipLargeText">Current article is too long, so Paragraph Spacing has been temporarily disabled to continue smooth writing experience.</string>
-  <string name="superLongArticleThreshold">Super long article threshold</string>
-  <string name="superLongArticleThresholdSummary">When the length of characters in the article exceeds the threshold, we will temporarily disable Paragraph Spacing for you to maintain a smooth writing experience, this will not cause your blank lines to disappear, Paragraph Spacing is not equal to blank lines, you don\'t need to worry about it. If you need to modify the judgment threshold for super long articles, you can modify this item.</string>
+  <string name="tipLargeText">Current text is too long, so Paragraph Spacing has been temporarily disabled to continue smooth writing experience.</string>
+  <string name="superLongArticleThreshold">Super long text threshold</string>
+  <string name="superLongArticleThresholdSummary">When the length of characters in the text exceeds the threshold, we will temporarily disable Paragraph Spacing for you to maintain a smooth writing experience, this will not cause your blank lines to disappear, Paragraph Spacing is not equal to blank lines, you don\'t need to worry about it. If you need to modify the judgment threshold for super long texts, you can modify this item.</string>
   <string name="searchTimeMachine">Search Time Machine</string>
   <string name="createPinShortcut">Create home screen Shortcut</string>
   <string name="pinShortcutDialogMessage">Creates a launcher or desktop Shortcut to this book that you can use to group books. \n\n⚠️ Note: Some systems do not support creating Shortcuts by default, you need to click the Settings button below to go to the System Settings screen to enable the Home screen shortcuts permission, and then return to this screen and click OK button. \n\nAfter success, you can find a shortcut icon on your launcher or desktop.</string>
@@ -842,8 +845,8 @@
   <string name="newTag">New Tag</string>
   <string name="createANewOrSelectAnExistingTag">Create a new or select an existing Tag</string>
   <string name="tipNewTag">This is the book Tag 🏷️️ function. If you need to set a Tag for a book and display it at the top, you must long-press the book item in the Books screen, and then select the Edit Book menu. In the dialog for creating or editing a book, you can set the Tags of the book.</string>
-  <string name="titleMoreArticleCreatingOptions">Always show more options for creating articles in the ⊕ button</string>
-  <string name="summaryMoreArticleCreatingOptions">By default, long press the ⊕ whatever will show more options to create an article</string>
+  <string name="titleMoreArticleCreatingOptions">Always show more options for creating texts in the ⊕ button</string>
+  <string name="summaryMoreArticleCreatingOptions">By default, long press the ⊕ whatever will show more options to create an text</string>
   <string name="aliyunLoginExpired">Aliyun login expired, please log in again!</string>
   <string name="webdav">WebDAV</string>
   <string name="aliyun">AliyunDrive</string>
@@ -851,7 +854,7 @@
   <string name="clickHereToSelectAnotherCloudStorageType">Click here to select another cloud storage type</string>
   <string name="searchWritingCache">Search in cache?</string>
   <string name="aiSettings">AI Settings</string>
-  <string name="aiEntrySummary">Article completion, refinement, polishing and ChatGPT</string>
+  <string name="aiEntrySummary">Text completion, refinement, polishing and ChatGPT</string>
   <string name="required">Required</string>
   <string name="openAiKeyGuideSummary">Open OpenAI API Key generation and management page</string>
   <string name="enableAiOnTimeMachine">Enable AI(ChatGPT) on Time Machine</string>
@@ -862,7 +865,7 @@
   <string name="aiProofread">AI Proofread</string>
   <string name="aiComplete">AI+</string>
   <string name="aiEnabledSummary">This AI feature is not enabled by default, it only functions when you explicitly initiate and trigger it. If it doesn\'t suit your preferences, feel free to ignore it entirely. This service is provided by OpenAI, and as a pre-trained model, Your text was never and will not be used for training.</string>
-  <string name="aiEntrySummary2">This is a pre-trained model provided by OpenAI. Please rest assured that we have <b>never used your articles for training</b>, nor will we be able to use your articles for training, as your articles have never been stored on Pure Writer servers. Your articles only exist on your device and on the cloud storage you have set up.</string>
+  <string name="aiEntrySummary2">This is a pre-trained model provided by OpenAI. Please rest assured that we have <b>never used your texts for training</b>, nor will we be able to use your texts for training, as your texts have never been stored on Pure Writer servers. Your texts only exist on your device and on the cloud storage you have set up.</string>
   <string name="completelyDeleteAIFunctions">Completely delete AI functions</string>
   <string name="completelyDeleteAIFunctionsSummary">Given that some people are unable to accept AI, this option is available to completely delete the AI functionality, including this settings screen. Once AI is deleted, it cannot be undone. Please be informed!</string>
   <string name="copilotSummary">If enabled, AI will give you writing suggestions in the editor in realtime. Whenever you pause in the writing process, AI will generate suggestions for you to continue writing after the cursor. You can click on the candidate text to accept or edit it, or keep typing to ignore and reject it.</string>
@@ -902,6 +905,21 @@
   <string name="smartRemoveIndentationSummary">If the cursor is positioned after the indentation at the beginning of a paragraph, pressing the delete key will automatically remove the entire indentation.</string>
   <string name="aiSuggestTitle">AI+title</string>
   <string name="aiSuggestTitleTip">AI has suggested a title for you based on your text. If you don\'t like it, you can undo it yourself. The undo button is usually located in the shortcut bar or in the menu at the top right corner. Before undoing, please make sure the cursor is inside the title field!</string>
-  <string name="aiSuggestUserMessage">Please suggest me an article title based on the body of the following article.\n\nPlease tell me the title directly!\nFor example, the body I gave you is: \"ABC...\".\nYou should reply me: English alphabet\nDon\'t have redundant words, for example, you shouldn\'t reply to me: Suggested title: \"English alphabet\"\nAlso don\'t reply me: \"English letters\" - quotes are unnecessary\nI need your reply to let me directly as the title content!\n\nWell, this is the body of the article:</string>
+  <string name="aiSuggestUserMessage">Please suggest me an text title based on the body of the following text.\n\nPlease tell me the title directly!\nFor example, the body I gave you is: \"ABC...\".\nYou should reply me: English alphabet\nDon\'t have redundant words, for example, you shouldn\'t reply to me: Suggested title: \"English alphabet\"\nAlso don\'t reply me: \"English letters\" - quotes are unnecessary\nI need your reply to let me directly as the title content!\n\nWell, this is the body of the text:</string>
   <string name="tipForNullPicError">Due to an error with the system file storage service, it is temporarily unable to store images. This issue can usually be resolved by restarting your phone. Please manually restart your system and try again!</string>
+  <string name="simplifiedChineseNumbers">简体中文数字</string>
+  <string name="traditionalChineseNumbers">繁體中文數字</string>
+  <string name="arabicNumbers">阿拉伯数字</string>
+  <string name="prefix">前缀</string>
+  <string name="suffix">后缀</string>
+  <string name="doingBackupForFirstAutoChapterNote">正在进行启用自动章节之前的备份，如果您初次启用后**后悔**，您可以进入纯纯写作备份页面，点击恢复并覆盖备份，即可恢复到未启用此选项之前的状态。</string>
+  <string name="suffixBeforeAutoChapter">启用自动章节之前</string>
+  <string name="returnChapter1IfCategory">遇到卷 回归「第一章」开始</string>
+  <string name="enableAutoChapterForThisChapter">自动章节名（是否对本章启用）</string>
+  <string name="tipForEnableAutoChapter">提示：在 **侧栏文章列表的右上角菜单中** 可选择「自动章节名」，可帮您自动整理或加入「第几章」标题前缀。</string>
+  <string name="tipForFindAutoChapterMenu">在此列表的右上角菜单⁝中\n可选择「自动章节名」</string>
+  <string name="textColorForLightTheme">Text color for <b>Light</b> theme</string>
+  <string name="textColorForDarkTheme">Text color for <b>Dark</b> theme</string>
+  <string name="dbCorruptTip">Your database file is corrupt, which is currently difficult to fix automatically. Please click OK to send your database file to the developer for manual repair.\n\nBefore that, please pause writing. We will help you repair and solve this matter with the highest priority. Sorry for the inconvenience!</string>
+  <string name="databaseIsCorrupt">Database unexpectedly corrupted!</string>
 </resources>

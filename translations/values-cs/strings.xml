@@ -9,7 +9,7 @@
   <string name="undo">Zrušit</string>
   <string name="redo">Přepracovat</string>
 
-  <string name="defaultContent">Rád vás poznávám!\nJedná se o rychlý textový editor navržený tak, jak by podle nás měl vypadat \"dobrý psací zážitek\". Pure Writer je <b>minimalistický a umožňuje vám psát kdykoli a kdekoli, aniž byste se museli bát, že o svůj obsah někdy přijdete.</b>\nDíky funkci řádkování a odstavců v Pure Writeru bude váš text přehlednější a pohodlněji se bude číst. A nejen to, má také plynulé posouvání, klávesnici s možností přejetí prstem a mnoho dalších zajímavých funkcí.\nJednoduchost je skrytá složitost. Svou práci můžete zašifrovat otiskem prstu, začít nebo ukončit psaní, kdykoli si přejete, a rychle sdílet svůj obsah s dalšími aplikacemi - máme pro vás připraveno.\nNejdůležitější je, že <b>při používání tohoto textového editoru nikdy neztratíte svou práci, pokud ji ručně nesmažete. Ať už se jedná o náhodné smazání nebo nečekané vypnutí, stále ji budete moci obnovit z Historie.</b>\nDalší funkce: \nIt\ je rychlý a bezproblémový: zálohování do cloudu WebDAV, motiv Material Design 2, Markdown, režim psacího stroje, export jako dlouhý textový obrázek, Time Machine...\nIt\ je rychlý a bezproblémový. Psaní můžete kdykoli a kdekoli přerušit a pokračovat v něm.\nUžijte si používání aplikace Pure Writer.</string>
+  <string name="defaultContent">Psaní nás spojuje s minulostí a umožňuje nám přemýšlet o budoucnosti. Ale setkali jste se někdy s některým psacím softwarem, který se nespustí dostatečně rychle, což vede k tomu, že vaše inspirace rychle vyprchá? Časté chyby vedou k tomu, že text je ztracen? Absence mnoha funkcí a nástrojů potřebných pro psaní vás nutí cítit se nepohodlně? Pure Writer řeší všechny tyto problémy. Je to extrémně rychlý textový editor a chceme, aby se psaní vrátilo ke své původní podobě: <b>čisté, bezpečné, kdykoliv, bez ztráty obsahu, s vynikajícím psacím zážitkem.</b>\nPocit bezpečí: Ikona Pure Writer je projekce stroje času, což symbolizuje, že text nás může přenést přes čas a prostor. To také odpovídá na speciální funkce \"Historie změn\" a \"Automatická záloha\", které Pure Writer nabízí. Díky těmto opatřením, i když omylem smažete text nebo se telefon náhle vypne, vaše články budou stále úplně zachovány nebo mohou být nalezeny v historii změn. Po mnoho let nabízel Pure Writer pohodlný a bezpečný psací zážitek, což je vzácné a je široce oceněno.\nHladké a efektivní: Kromě základního zabezpečení má Pure Writer také uživatelské rozhraní a různé psací funkce, které uživatele zpříjemní. Pure Writer je kompatibilní s rozhraním softwarové klávesnice Android 11, což umožňuje plynulou kontrolu nástupu a sestupu klávesnice. Nabízí také \"dýchající\" kurzor, který nejenom bliká, ale postupně se objevuje a mizí jako lidské dýchání. Mnoho takových detailů je v Pure Writer dokonale vyladěno, zároveň nabízí mnoho pomocných funkcí pro psaní.\nKomplexnost v jednoduchosti: Mnoho základních funkcí, které by každý editor měl mít, Pure Writer také nabízí, jako rychlý vstupní panel, <b>multi-device cloud synchronizace</b>, odsazení prvního řádku, mezery mezi odstavci, generování krásných dlouhých obrázků, undo funkce, počítání slov, dvoupanelový editor, jedním kliknutím upravit formát, najít a nahradit, Markdown, desktopová verze atd. I přes to všechno si Pure Writer zachovává svůj jednoduchý design, který je v souladu s Material Designem.\nMůžete rychle dosáhnout stránky pro inspiraci a psát kdykoliv a kdekoli, vše je připraveno v Pure Writer. Užijte si psaní!</string>
   <string name="share">Sdílet do jiné aplikace</string>
   <string name="copyTitle">Kopírování názvu</string>
   <string name="tipShouldUnlock">Prosím, nejdříve odemkněte</string>
@@ -72,7 +72,7 @@
   <string name="update">Aktualizovat</string>
   <string name="messageDeleteArticlesToTrash">Jste si jisti, že chcete tyto články smazat a přesunout do koše?"</string>
   <string name="tipPurchasedStatusFailed">Nakoupeno. Pokud se stav nákupu neaktualizoval, zkuste prosím kliknout na položku Pro znovu (nebudete přitom účtováni dvakrát)</string>
-  <string name="createNew">Vytvoření nového článku</string>
+  <string name="createNew">Vytvořte nový text</string>
   <string name="autoLock">Automatické zamykání</string>
   <string name="titleOpenImportedFile">Zjistilo se, že jste otevřeli externí soubor, vyberte prosím akci</string>
   <string name="sort">Typ třídění</string>
@@ -592,6 +592,8 @@
   <string name="no">Zrušit</string>
   <string name="enabled">Povoleno</string>
   <string name="copied">Zkopírováno</string>
+  <string name="dbCorruptTip">Váš databázový soubor je poškozený, což je v současné době obtížné automaticky opravit. Kliknutím na OK odešlete soubor databáze vývojáři k ruční opravě.\n\nPředtím prosím přerušte psaní. Pomůžeme vám opravit a vyřešit tuto záležitost s nejvyšší prioritou. Omluvám se za nepříjemnost!</string>
+  <string name="databaseIsCorrupt">Databáze nečekaně poškozená!</string>
   <string name="wordCountModeEntriesItem1">Vyloučení mezer a zlomů řádků</string>
   <string name="wordCountModeEntriesItem2">Zahrňte všechny symboly a text</string>
   <string name="wordCountModeEntriesItem3"><b>Vynechejte všechna interpunkční znaménka</b>, mezery a zalomení řádků.</string>

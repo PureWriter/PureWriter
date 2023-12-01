@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="pureWriter">Pure Writer</string>
+  <string name="pureWriter">純純執筆</string>
+  <string name="pureWriterPro">純純執筆 Pro</string>
   <string name="wordsShort">字</string>
-  <string name="about">关于 | ヘルプ</string>
-  <string name="slogan">速い、素晴らしい体験、コンテンツを失わない</string>
+  <string name="autoChapterNameTitle">自動的に追加または更新\n[第]*[章] プレフィックス</string>
+  <string name="autoChapterNameMessagePart1">**この本**に「自動章名」機能を適用する予定です。その前に、考慮すべき事項について理解してください：\n\n* このオプションは、純純執筆の言語が**中国語**で、文章の並べ替えモードが**手動並べ替えモード**の場合のみ表示され、有効になります。他の言語では表示されず、有効になりません！\n* 最初に、**現在の本**の自動章節形式を設定します：</string>  <string name="about">关于 | ヘルプ</string>
+  <string name="autoChapterNameMessagePart2">フォーマット結果の例：\n\n第一章\n第一章忘れずに楽しみましょう\n第一万零一章後ろのスペースが必要な場合は自身で設定してください\n\n* 異なる巻で「第一章」から再スタートする必要がある場合、チェックを入れてください：</string>
+  <string name="autoChapterNameMessagePart3">* 「OK」をクリックした後、純純執筆は自動的に章節名の整理を行い、文章の順番に応じて文章のタイトルに章節名のプレフィックスを追加し、**文章の順番を変更するたびに、この内容を自動的に更新します**。\n* 有効にした後、純純執筆は元の章節のプレフィックスを置き換えますので、ご了承ください！\n* 現在の有効状態とフォーマットは**この本のみに適用されます**。他の本でもこの機能を有効にする場合は、その本を開いて再度この機能を有効にする必要があります。\n* 有効にした後、**「第一章」から開始されます**。あなたの文章が「第一章」から始まらない場合は、「OK」をクリックしないでください！\n* いくつかの**序章**をスキップしたい場合は、該当章節を長押しし、「自動章節名」の使用を禁止するを選択します。</string>
+  <string name="simplifiedChineseNumbers">簡体字の数字</string>
+  <string name="traditionalChineseNumbers">繁体字の数字</string>
+  <string name="arabicNumbers">アラビア数字</string>
+  <string name="prefix">プレフィックス</string>
+  <string name="suffix">サフィックス</string>
+  <string name="doingBackupForFirstAutoChapterNote">自動章立てを有効にする前にバックアップを進行中です。もし初めて有効にした後に**後悔**したら、純純執筆のバックアップページに移動して、バックアップの復元と上書きをクリックすれば、このオプションを有効にする前の状態に戻すことができます。</string>
+  <string name="suffixBeforeAutoChapter">自動章立て前</string>
+  <string name="returnChapter1IfCategory">巻を遭遇した場合、「第一章」から始まる</string>
+  <string name="enableAutoChapterForThisChapter">自動章名（本章に対して使用するかどうか）</string>
+  <string name="tipForEnableAutoChapter">ヒント：**サイドバーメニューの右上隅**で「自動章名」を選択できます。これにより、「第何章」のタイトルプレフィックスを自動的に整理または追加できます。</string>
+  <string name="tipForFindAutoChapterMenu">このリストの右上のメニュー⁝の中で\n「自動章名」を選択できます</string>
+  <string name="slogan">速い、素晴らしい体験\nコンテンツを失わない</string>
   <string name="editorTipAMenu">まずテキストを選んでください</string>
   <string name="redo">やり直し</string>
   <string name="undo">元に戻す</string>
@@ -34,7 +49,7 @@
   <string name="goOn">続ける</string>
   <string name="reject">拒絶する</string>
   <string name="titleIntroCard">何かを書くのに使う</string>
-  <string name="defaultContent">　執筆は、私たちが過去と繋がり、未来を想像する手段です。しかし、いくつかの執筆ソフトウェアが起動が遅く、インスピレーションが逃げてしまうこと、頻繁にエラーが発生してテキストが失われること、多くの必要な執筆機能と補助が不足していることによって、使い勝手が悪いと感じたことはありませんか？\n　Pure Writerはこれらすべての問題を解決できます。これは非常に高速なプレーンテキストエディタであり、執筆が元の形に戻ることを願っています：<b>純粋、安全、いつでも、内容を失わない、良い執筆体験を持つ。</b>\n　安心感\n　Pure Writerのアイコンはタイムマシンの投影であり、テキストが私たちを時間を超えて運ぶことができるという意味でもあり、Pure Writerが特別に提供する「履歴記録」と「自動バックアップ」機能にも対応しています。これらの保証により、テキストを誤って削除したり、携帯電話が突然電源が切れたりしても、記事は完全に保存されるか、履歴から回復できます。長年にわたり、Pure Writerは安心できる、安全な執筆体験を提供しており、失われることなく、高評価を得ています。\n　滑らかな操作感\n　最も重要な安全保障を実現するだけでなく、Pure WriterのUIインターフェースと各種執筆補助機能も、ユーザーにこのアプリが本当に心地よく、滑らかであると感じさせます。Pure WriterはAndroid 11のソフトキーボードインターフェースに対応しており、指でソフトキーボードをスムーズに操作できます。また、呼吸するようなカーソルを提供しており、カーソルはもう点滅するだけでなく、人の呼吸のように徐々に消えたり現れたりします。このような細かい点にも、Pure Writerは極めて磨きをかけています。\n　シンプルな中に豊かさ\n　多くのエディタが持つべき基本機能も、Pure Writerは一つも欠かしていません。例えば、<b>マルチデバイスクラウド同期</b>、段落のインデント、段落間隔、美しい長い画像の生成、元に戻す、文字数統計、二つのエディタを左右に比較、一键でフォーマットを調整、検索と置換、Markdown、PC版などがあります。さらに、TTS音声エンジンを使用してリアルタイムで入力したテキストを読み上げるという非常に創造的な特色機能もあります。\n　Pure Writerはすべてのこれらを実現しています。安心で滑らかな執筆体験、それがPure Writerです、執筆を楽しんでください！\n\n　また、私たちは日本語への対応に全力で取り組んでいます。もし理解しにくい文や翻訳の問題がある場合は、お気軽にご連絡ください。修正いたします！また、現在「Pure Writer」に代わる日本語のApp名を募集しています。日本語のユーザーとして、どんな名前が良いか提案していただけると嬉しいです。提案されたApp名が採用されれば、Proのコードをプレゼントし、アプリの紹介ページにあなたの名前を永久に掲載させていただきます。お問い合わせ先は：drakeet@drakeet.comです。</string>
+  <string name="defaultContent">　執筆は、私たちが過去と繋がり、未来を想像する手段です。しかし、いくつかの執筆ソフトウェアが起動が遅く、インスピレーションが逃げてしまうこと、頻繁にエラーが発生してテキストが失われること、多くの必要な執筆機能と補助が不足していることによって、使い勝手が悪いと感じたことはありませんか？\n　純純執筆はこれらすべての問題を解決できます。これは非常に高速なプレーンテキストエディタであり、執筆が元の形に戻ることを願っています：<b>純粋、安全、いつでも、内容を失わない、良い執筆体験を持つ。</b>\n　安心感\n　純純執筆のアイコンはタイムマシンの投影であり、テキストが私たちを時間を超えて運ぶことができるという意味でもあり、純純執筆が特別に提供する「履歴記録」と「自動バックアップ」機能にも対応しています。これらの保証により、テキストを誤って削除したり、携帯電話が突然電源が切れたりしても、文章は完全に保存されるか、履歴から回復できます。長年にわたり、純純執筆は安心できる、安全な執筆体験を提供しており、失われることなく、高評価を得ています。\n　滑らかな操作感\n　最も重要な安全保障を実現するだけでなく、純純執筆のUIインターフェースと各種執筆補助機能も、ユーザーにこのアプリが本当に心地よく、滑らかであると感じさせます。純純執筆はAndroid 11のソフトキーボードインターフェースに対応しており、指でソフトキーボードをスムーズに操作できます。また、呼吸するようなカーソルを提供しており、カーソルはもう点滅するだけでなく、人の呼吸のように徐々に消えたり現れたりします。このような細かい点にも、純純執筆は極めて磨きをかけています。\n　シンプルな中に豊かさ\n　多くのエディタが持つべき基本機能も、純純執筆は一つも欠かしていません。例えば、<b>マルチデバイスクラウド同期</b>、段落のインデント、段落間隔、美しい長い画像の生成、元に戻す、文字数統計、二つのエディタを左右に比較、一键でフォーマットを調整、検索と置換、Markdown、PC版などがあります。さらに、TTS音声エンジンを使用してリアルタイムで入力したテキストを読み上げるという非常に創造的な特色機能もあります。\n　純純執筆はすべてのこれらを実現しています。安心で滑らかな執筆体験、それが純純執筆です、執筆を楽しんでください！\n\n　また、私たちは日本語への対応に全力で取り組んでいます。もし理解しにくい文や翻訳の問題がある場合は、お気軽にご連絡ください。修正いたします！また、現在「純純執筆」に代わる日本語のApp名を募集しています。日本語のユーザーとして、どんな名前が良いか提案していただけると嬉しいです。提案されたApp名が採用されれば、Proのコードをプレゼントし、アプリの紹介ページにあなたの名前を永久に掲載させていただきます。お問い合わせ先は：drakeet@drakeet.comです。</string>
   <string name="defaultTitle">ご希望通りです</string>
   <string name="tipPermissionFailed">許可が与えられていません。履歴は保存できません。</string>
   <string name="titleStorePermissionFailed">ストレージの許可が拒否されました</string>
@@ -42,19 +57,19 @@
   <string name="actionOkGoSettings">設定に移動</string>
   <string name="tipFingerAuthRetry">失敗したロックを解除する指紋認証、再試行の残りの数：%d</string>
   <string name="tipFingerAuthFailed">指紋のロックを解除できませんでした.1分後にもう一度お試しください。プログラムが終了しようとしています…</string>
-  <string name="tipRichText">Pure Writerは、純粋で良好なプレーンテキストライティングエクスペリエンスを作成することを約束しているため、リッチテキストコンテンツをサポートすることは意図されていません。 現時点では、太字をTXTファイルで表現できないため、<b>太字</b>のテキストが表示されます。太字は非表示、非表示です。ごめんなさい、ご容赦ください！ より良い提案がある場合は、フィードバックグループに参加して、私に教えてください、あなたのサポートに感謝します！</string>
+  <string name="tipRichText">純純執筆は、純粋で良好なプレーンテキストライティングエクスペリエンスを作成することを約束しているため、リッチテキストコンテンツをサポートすることは意図されていません。 現時点では、太字をTXTファイルで表現できないため、<b>太字</b>のテキストが表示されます。太字は非表示、非表示です。ごめんなさい、ご容赦ください！ より良い提案がある場合は、フィードバックグループに参加して、私に教えてください、あなたのサポートに感謝します！</string>
   <string name="settings">設定</string>
   <string name="tipIndent">注：セグメンテーションのインデント設定項目では、既存のテキストは変更されません</string>
   <string name="format">フォーマット</string>
   <string name="indent">インデント</string>
   <string name="explanation">説明</string>
-  <string name="tipInsertBlankLines">この設定がオンの場合、テキストをコピーまたは共有すると、各段落に1行追加されます。 特別な段落間隔はPureWriterでのみ提供されるため、このアプリの外部で同じ効果を得るには、追加の行が必要です。</string>
+  <string name="tipInsertBlankLines">この設定がオンの場合、テキストをコピーまたは共有すると、各段落に1行追加されます。 特別な段落間隔は純純執筆でのみ提供されるため、このアプリの外部で同じ効果を得るには、追加の行が必要です。</string>
   <string name="deleteObsoleteFiles">廃止されたファイルを削除する</string>
   <string name="dayNightMode">ナイトモード</string>
   <string name="summaryPay">Pro 機能を入手する</string>
   <string name="tipSettingNotSupport">一時的にこれを設定することはできません。 近日公開。</string>
-  <string name="on">オープン</string>
-  <string name="off">クローズ</string>
+  <string name="on">オン</string>
+  <string name="off">オフ</string>
   <string name="shortcutBar">ショートカットバー</string>
   <string name="insertBlankLinesWhenExporting">エクスポート時に行を追加する</string>
   <string name="contentTextSize">コンテンツのテキストサイズ</string>
@@ -64,7 +79,7 @@
     <item>はい</item>
     <item>いいえ</item>
   </string-array>
-  <string name="tipMessageStoragePermissionFirst">あなたの記事を自動的にバックアップする許可が必要です。あなたの記事が失われないように、許可を与えてください。</string>
+  <string name="tipMessageStoragePermissionFirst">あなたの文章を自動的にバックアップする許可が必要です。あなたの文章が失われないように、許可を与えてください。</string>
   <string name="promptShortcutTitle">簡単な説明 (optional)</string>
   <string name="promptShortcutContent">Content (required)</string>
   <string name="createShortcut">Create text Shortcut</string>
@@ -78,17 +93,17 @@
   <string name="previewAndExport">長い画像、PDF\nプレビュー＆エクスポート…</string>
   <string name="preview">プレビュー</string>
   <string name="tipRequirePro">This is a Pro feature</string>
-  <string name="proReadMe">PureWriterが素晴らしいと思って、それがより良くなることを願ったら、開発者のインセンティブとして少しのお金を費やしたいですか？\n\nこれにより、私たちは良い方向に固執し、良心の製品を作り、より多くの独立した開発者を鼓舞することができます。\n\n「GOOGLE PLAY」ボタンをクリックすると、Google Pay Paymentを開くことができます。返品として、Pure Writerは広告なしの状態とすべてのProコンテンツを提供します。ありがとうございました！</string>
+  <string name="proReadMe">純純執筆が素晴らしいと思って、それがより良くなることを願ったら、開発者のインセンティブとして少しのお金を費やしたいですか？\n\nこれにより、私たちは良い方向に固執し、良心の製品を作り、より多くの独立した開発者を鼓舞することができます。\n\n「GOOGLE PLAY」ボタンをクリックすると、Google Pay Paymentを開くことができます。返品として、純純執筆は広告なしの状態とすべてのProコンテンツを提供します。ありがとうございました！</string>
   <string name="ok">OK</string>
   <string name="cancel">キャンセル</string>
   <string name="yes">OK</string>
   <string name="no">キャンセル</string>
   <string name="summaryPaid">Pro activated</string>
   <string name="update">更新</string>
-  <string name="labelUpdate">A new Pure Writer %1$s is available</string>
-  <string name="messageDeleteArticlesToTrash">これらの記事を削除してゴミ箱に移動しますか？</string>
+  <string name="labelUpdate">A new 純純執筆 %1$s is available</string>
+  <string name="messageDeleteArticlesToTrash">これらの文章を削除してゴミ箱に移動しますか？</string>
   <string name="tipPurchasedStatusFailed">Purchased. If the status is not refreshed, try clicking the Pro item again and will NOT deduct your money again.</string>
-  <string name="createNew">新しい記事</string>
+  <string name="createNew">新しい文章</string>
   <string name="autoLock">オートロック</string>
   <string name="enabled">有効</string>
   <string name="appLinks">Android リンク</string>
@@ -139,27 +154,27 @@
   <string name="migratingData">データの移行</string>
   <string name="autoBackup">自動バックアップ</string>
   <string name="summaryDeleteObsoleteFiles">現在、プライベートディレクトリを使用してすべてのコンテンツを保存しています。 これをクリックすると、SDカードに残っている履歴ファイルの古いバージョンが削除されます</string>
-  <string name="tipArticleDeleting">記事が削除されている、一時的に操作できない</string>
+  <string name="tipArticleDeleting">文章が削除されている、一時的に操作できない</string>
   <string name="noHistory">歴史はありません</string>
   <string name="formatterRemoveIndent">インデントを削除</string>
   <string name="keepScreenOn">画面をオンにする</string>
   <string name="gfmBreaksEnabled">改行で折り返す</string>
   <string name="gfmBreaksDisabled">実際に改行を表示するには2つの改行が必要です</string>
-  <string name="wordCountOfThisBook">すべての記事数</string>
+  <string name="wordCountOfThisBook">すべての文章数</string>
   <string name="wordCountOfThisBookDescription">この本の語数</string>
-  <string name="timeMachineGuide">お会いできて嬉しいです！ これがタイムマシンです。 私は、インスピレーションの断片を記録する場所、またはコンテンツを一時的に保存する場所と考えることができます。 さらに、ChatGPT AI 会話サービスを提供して、執筆プロセス中に知識の問い合わせと回答を提供することもできます。\n\n※my AI会話サービスを有効にしたい場合は、Pure Writer設定 - AI設定でAI機能を有効にする必要があります。</string>
+  <string name="timeMachineGuide">お会いできて嬉しいです！ これがタイムマシンです。 私は、インスピレーションの断片を記録する場所、またはコンテンツを一時的に保存する場所と考えることができます。 さらに、ChatGPT AI 会話サービスを提供して、執筆プロセス中に知識の問い合わせと回答を提供することもできます。\n\n※my AI会話サービスを有効にしたい場合は、純純執筆設定 - AI設定でAI機能を有効にする必要があります。</string>
   <string name="copyDate">日付のコピー</string>
   <string name="books">書籍</string>
   <string name="defaultBook">デフォルトブック</string>
   <string name="summaryOfAbout">このアプリケーション用に開発して設計したオリジナルのアイデアやコンセプトについて学びます。</string>
   <string name="createNewBook">新しい本を作る</string>
-  <string name="emptyTip">記事はまだ開かれていません</string>
+  <string name="emptyTip">文章はまだ開かれていません</string>
   <string name="name">名</string>
   <string name="optionalDescription">説明（オプション）</string>
   <string name="createBookForDialogButton">本を作る</string>
   <string name="openSourceLicenses">オープンソースライセンス</string>
   <string name="cannotDelete">削除できません</string>
-  <string name="cannotDeleteNotEmptyBook">本は空ではありません。 削除する必要がある場合は、その中に含まれている記事を削除または削除してから、もう一度やり直してください。</string>
+  <string name="cannotDeleteNotEmptyBook">本は空ではありません。 削除する必要がある場合は、その中に含まれている文章を削除または削除してから、もう一度やり直してください。</string>
   <string name="moveTo">へ引っ越す</string>
   <string name="move">移動</string>
   <string name="timeMachine">タイムマシン</string>
@@ -179,9 +194,9 @@
   <string name="hideTitleBarWhenPreviewingMarkdown">Hide title bar when previewing Markdown</string>
   <string name="privacyPolicy">個人情報保護方針</string>
   <string name="beforeRestoringYourBackup">beforeRestoringYourBackup</string>
-  <string name="trashDescription">削除した記事を取得する</string>
-  <string name="messageDeleteArticlesDirectly">これらの記事を直接削除する</string>
-  <string name="trashFolderTip">あなたはゴミ箱フォルダにあり、このフォルダは新しい記事を作成できません。</string>
+  <string name="trashDescription">削除した文章を取得する</string>
+  <string name="messageDeleteArticlesDirectly">これらの文章を直接削除する</string>
+  <string name="trashFolderTip">あなたはゴミ箱フォルダにあり、このフォルダは新しい文章を作成できません。</string>
   <string name="tipLandscapeOrientation">横置きモードで外付けキーボードを使用してください</string>
   <string name="promptShortcutOrder">Order</string>
   <string name="editShortcut">Edit text Shortcut</string>
@@ -201,26 +216,26 @@
   <string name="noWebDavConfig">WebDAVの設定が不完全か正しくありません。</string>
   <string name="uploadSuccessful">アップロードに成功しました</string>
   <string name="fetchSuccessful">ダウンロードが成功しました</string>
-  <string name="messageUpload">Pure Writer created a <b>fixed</b> file on your cloud disk. The file name is <b>PureWriter.txt</b>. You can click "OK" to upload your current article to this fixed file. Then you can edit this cloud file on other devices. When it changes, you can pull it down. \n\nDo you now want to overwrite the current article content to that cloud file?</string>
+  <string name="messageUpload">純純執筆 created a <b>fixed</b> file on your cloud disk. The file name is <b>PureWriter.txt</b>. You can click "OK" to upload your current article to this fixed file. Then you can edit this cloud file on other devices. When it changes, you can pull it down. \n\nDo you now want to overwrite the current article content to that cloud file?</string>
   <string name="typewriterMode">タイプライター</string>
   <string name="edit">編集</string>
   <string name="editBook">本の編集</string>
   <string name="wordCountLong">文字数</string>
-  <string name="wordCountOfCurrentArticle">現在の記事の文字数</string>
+  <string name="wordCountOfCurrentArticle">現在の文章の文字数</string>
   <string name="floatingWordCount">Floating Word Count</string>
-  <string name="tipFloatingWordCountDisabled">フローティングワードカウントをオフにした後でも、記事リストでワードカウントを取得できます。</string>
+  <string name="tipFloatingWordCountDisabled">フローティングワードカウントをオフにした後でも、文章リストでワードカウントを取得できます。</string>
   <string name="reduceDatabaseSize">データベースサイズを縮小する</string>
   <string name="deleteSuccessful">Deleted successfully</string>
-  <string name="reduceDatabaseSizeMessage">すべての記事のすべての履歴を削除します。\n歴史だけでは、記事自体は削除されません。</string>
+  <string name="reduceDatabaseSizeMessage">すべての文章のすべての履歴を削除します。\n歴史だけでは、文章自体は削除されません。</string>
   <string name="unlockPro">Unlock Pro</string>
-  <string name="presetTitle1">Pure Writer - Connecting the Past and Future with Words</string>
-  <string name="presetContent1">Pure Writer is a fast and comfortable text editing app that prevents you from losing your works. While scrolling the comments and reviews of Pure Writer in Google Play, you might find some high praises for this app like "There\'s no app better than this", "The most satisfying app", "Love this app so much", "Love at first sight for this app"… As the only developer for Pure Writer, the comments were especially gratifying for me. \nIn June 2017, after I went through countless uncomfortable, poorly done text editing products and lost my precious text files, I am determined to develop my own text editing app that allows its users to write anytime anywhere in a feature-filled and comfortable environment, knowing that their words will never disappear. This app, as I decided, will be developed with a writer\'s perspective. \nBefore all this, I was working part-time on a rich text editing software. Although we poured our hearts over it, the software did not turn out the way we wanted it to be. Despite that, I successfully developed some unique features that is more than enough for Pure Writer. \nAnd so Pure Writer is born. From the very beginning, Pure Writer took care of perfecting each line and character spacing on Android. This is the special feature that no other text editing android apps has achieved besides Microsoft Word. And yet the package size of Microsoft Word is more than ten times larger than Pure Writer\'s.\nNot only that, Pure Writer also provides special features like "launch text editor on app start" and especially "History records". As a writer myself, I understand the utmost importance of having a history record — it allows you to focus on your writing while giving you a peace of mind that you will never, ever lose what you are writing. Even if your phone shuts down suddenly without any notice, Pure Writer can still save your content automatically. This way, all users are able to start and stop writing whenever they wish in a comfortable text editor with confidence. \nIn addition to that, Pure Writer supports "Input Shortcuts" and "Formatting tools", input shortcuts allows users to set their own custom words into the shortcut bar, so that they can reuse it over and over again with ease; formatting tools help users to quickly format their text for example auto spacing and arranging. \nNot only these features, a lot of effort was put into perfecting the tiniest detail in Pure Writer. While using Pure Writer, you are able to hide the soft keyboard by simply swiping the screen, get the cursor to be exactly where you want it to be and also keep the article still while you hide the soft keyboard… If you were to compare Pure Writer to the other text editing apps, you will find that Pure Writer has perfectly taken care of all the small details that eventually contribute to a perfect writing environment.\nPure Writer has the editing tools you need for example: auto indentation, export article as various files including images, floating word count, canceling, Markdown, custom background themes, night mode, biometric encryption, text auto complete, sharing and much more. Despite all the features and details, Pure Writer still kept its minimalistic style and follows the Material Design guidelines. I also made a "Time Machine" for users to make small notes and keep them. The name "Time Machine" is taken from the comic, with the meaning of "Connecting the Past and Future with words". \nUntil today, Pure Writer\'s code base has received over one thousand commits and millions of lines changes. Although Pure Writer consumes almost all of my free time, it is always a relief that more and more users are giving me positive feedback. I actively connect with Pure Writer\'s users, collecting feedback and perfecting the app. I\'ve never felt happier at the thought of making something long term that helps other people. \nFinally, thank you to all my friends who helped me throughout this journey. Without you, this app would never be where it is today. With this post, I introduce you to the original ideas of Pure Writer and all of its special features, and hopefully more people would get to know it better. Let\'s hope that we are able to leave wonderful memories behind in the limited time we have. Let our Words take us back in time, and bring us to imagine the future.</string>
-  <string name="presetTitle2">Pure Writer - Protective Mechanism</string>
-  <string name="presetContent2">The current protective mechanism that Pure Writer has is: \n1. The article will be saved once the content is changed. If that fails, Pure Writer will notify the user immediately. \n2. Pure Writer will check if your content is saved in the database every two seconds. If it fails, Pure Writer will notify the user immediately. \n3. If it fails to autosave, then the users will not be able to exit the app completely. Pressing the exit button at this time is the same as pressing the Home button without completely stopping the app. This will allow some time for the user to manually save their content. \n4. Every time the app is running in the background or exited, it will automatically backup the whole database if any content is edited. The backup file can be accessed anytime. The backup will be save along with the previous version of the backup to allow users to revert the backup.\n5. The History record, undo and redo feature is provided to every article  \n6. Has a Trash folder to prevent accidental deletion of articles.\n7. Cloud backups: if Pure Writer is integrated with WebDAV, then it will automatically backup all the database content including the articles to the cloud.</string>
-  <string name="presetTitle3">Pure Writer Pro</string>
-  <string name="presetContent3">If you enjoyed using Pure Writer and wish to have it actively developed, would you mind contributing a few bucks to encourage the developer?\nYour support can encourage independent developers like me to make more useful apps. \nTo contribute, you can press the "Unlock Pro" button in the top right corner of the Settings page. As a token of appreciation, you will be able to get Pro features like "Save as…" and "Custom background/Papers". \nPure Writer will also improve as a result of your support. Thanks in advance! If you have any questions or feedback, please do not hesitate to email me at drakeet@drakeet.com</string>
-  <string name="presetTitle4">Pure Writer - Privacy Policy</string>
-  <string name="presetContent4">Pure Writer takes its users\' privacy very seriously, it will never collect any of your private information. \nAlso, it will not read or modify any content on your clipboard without first notifying you.\nThe storage permission that Pure Writer asked for is solely used for auto backup and save your files. Other than that, it will not read or modify any of your files in the storage without first notifying you.\nPure Writer supports cloud backup, which uses HTTPS encryption to transfer your database backups to your WebDAV cloud storage. Your cloud backups will only be stored in the cloud storage you set, and they will never be uploaded to other places.</string>
+  <string name="presetTitle1">純純執筆 - Connecting the Past and Future with Words</string>
+  <string name="presetContent1">純純執筆 is a fast and comfortable text editing app that prevents you from losing your works. While scrolling the comments and reviews of 純純執筆 in Google Play, you might find some high praises for this app like "There\'s no app better than this", "The most satisfying app", "Love this app so much", "Love at first sight for this app"… As the only developer for 純純執筆, the comments were especially gratifying for me. \nIn June 2017, after I went through countless uncomfortable, poorly done text editing products and lost my precious text files, I am determined to develop my own text editing app that allows its users to write anytime anywhere in a feature-filled and comfortable environment, knowing that their words will never disappear. This app, as I decided, will be developed with a writer\'s perspective. \nBefore all this, I was working part-time on a rich text editing software. Although we poured our hearts over it, the software did not turn out the way we wanted it to be. Despite that, I successfully developed some unique features that is more than enough for 純純執筆. \nAnd so 純純執筆 is born. From the very beginning, 純純執筆 took care of perfecting each line and character spacing on Android. This is the special feature that no other text editing android apps has achieved besides Microsoft Word. And yet the package size of Microsoft Word is more than ten times larger than 純純執筆\'s.\nNot only that, 純純執筆 also provides special features like "launch text editor on app start" and especially "History records". As a writer myself, I understand the utmost importance of having a history record — it allows you to focus on your writing while giving you a peace of mind that you will never, ever lose what you are writing. Even if your phone shuts down suddenly without any notice, 純純執筆 can still save your content automatically. This way, all users are able to start and stop writing whenever they wish in a comfortable text editor with confidence. \nIn addition to that, 純純執筆 supports "Input Shortcuts" and "Formatting tools", input shortcuts allows users to set their own custom words into the shortcut bar, so that they can reuse it over and over again with ease; formatting tools help users to quickly format their text for example auto spacing and arranging. \nNot only these features, a lot of effort was put into perfecting the tiniest detail in 純純執筆. While using 純純執筆, you are able to hide the soft keyboard by simply swiping the screen, get the cursor to be exactly where you want it to be and also keep the article still while you hide the soft keyboard… If you were to compare 純純執筆 to the other text editing apps, you will find that 純純執筆 has perfectly taken care of all the small details that eventually contribute to a perfect writing environment.\n純純執筆 has the editing tools you need for example: auto indentation, export article as various files including images, floating word count, canceling, Markdown, custom background themes, night mode, biometric encryption, text auto complete, sharing and much more. Despite all the features and details, 純純執筆 still kept its minimalistic style and follows the Material Design guidelines. I also made a "Time Machine" for users to make small notes and keep them. The name "Time Machine" is taken from the comic, with the meaning of "Connecting the Past and Future with words". \nUntil today, 純純執筆\'s code base has received over one thousand commits and millions of lines changes. Although 純純執筆 consumes almost all of my free time, it is always a relief that more and more users are giving me positive feedback. I actively connect with 純純執筆\'s users, collecting feedback and perfecting the app. I\'ve never felt happier at the thought of making something long term that helps other people. \nFinally, thank you to all my friends who helped me throughout this journey. Without you, this app would never be where it is today. With this post, I introduce you to the original ideas of 純純執筆 and all of its special features, and hopefully more people would get to know it better. Let\'s hope that we are able to leave wonderful memories behind in the limited time we have. Let our Words take us back in time, and bring us to imagine the future.</string>
+  <string name="presetTitle2">純純執筆 - Protective Mechanism</string>
+  <string name="presetContent2">The current protective mechanism that 純純執筆 has is: \n1. The article will be saved once the content is changed. If that fails, 純純執筆 will notify the user immediately. \n2. 純純執筆 will check if your content is saved in the database every two seconds. If it fails, 純純執筆 will notify the user immediately. \n3. If it fails to autosave, then the users will not be able to exit the app completely. Pressing the exit button at this time is the same as pressing the Home button without completely stopping the app. This will allow some time for the user to manually save their content. \n4. Every time the app is running in the background or exited, it will automatically backup the whole database if any content is edited. The backup file can be accessed anytime. The backup will be save along with the previous version of the backup to allow users to revert the backup.\n5. The History record, undo and redo feature is provided to every article  \n6. Has a Trash folder to prevent accidental deletion of articles.\n7. Cloud backups: if 純純執筆 is integrated with WebDAV, then it will automatically backup all the database content including the articles to the cloud.</string>
+  <string name="presetTitle3">純純執筆 Pro</string>
+  <string name="presetContent3">If you enjoyed using 純純執筆 and wish to have it actively developed, would you mind contributing a few bucks to encourage the developer?\nYour support can encourage independent developers like me to make more useful apps. \nTo contribute, you can press the "Unlock Pro" button in the top right corner of the Settings page. As a token of appreciation, you will be able to get Pro features like "Save as…" and "Custom background/Papers". \n純純執筆 will also improve as a result of your support. Thanks in advance! If you have any questions or feedback, please do not hesitate to email me at drakeet@drakeet.com</string>
+  <string name="presetTitle4">純純執筆 - Privacy Policy</string>
+  <string name="presetContent4">純純執筆 takes its users\' privacy very seriously, it will never collect any of your private information. \nAlso, it will not read or modify any content on your clipboard without first notifying you.\nThe storage permission that 純純執筆 asked for is solely used for auto backup and save your files. Other than that, it will not read or modify any of your files in the storage without first notifying you.\n純純執筆 supports cloud backup, which uses HTTPS encryption to transfer your database backups to your WebDAV cloud storage. Your cloud backups will only be stored in the cloud storage you set, and they will never be uploaded to other places.</string>
   <string name="createAt">作成日</string>
   <string name="updatedAt">更新日</string>
   <string name="forcedBlackTextColor">強制黒色フォント</string>
@@ -237,18 +252,18 @@
   <string name="importedFileTooLargeToOpen">ファイルが大きすぎて開くことができません</string>
   <string name="failed">失敗</string>
   <string name="insertCategoryAboveShort"><b>上</b>にフォルダを挿入します</string>
-  <string name="insertCategoryAboveLong">現在の記事の<b>上</b>に新しいフォルダを挿入します</string>
+  <string name="insertCategoryAboveLong">現在の文章の<b>上</b>に新しいフォルダを挿入します</string>
   <string name="insertCategory">フォルダを挿入</string>
   <string name="editCategory">フォルダを編集</string>
   <string name="category">フォルダ</string>
-  <string name="deleteEmptyArticlesShort">空の記事を削除する</string>
-  <string name="deleteEmptyArticlesLong">タイトルと内容が空の記事をすべて削除しますか？</string>
+  <string name="deleteEmptyArticlesShort">空の文章を削除する</string>
+  <string name="deleteEmptyArticlesLong">タイトルと内容が空の文章をすべて削除しますか？</string>
   <string name="deleteCategory">フォルダを削除</string>
   <string name="exportBook">この本をエクスポート</string>
   <string name="needManualSortingTitle">この機能を使用するには手動ソートに切り替える必要があります</string>
   <string name="needManualSortingMessage">手動ソートに切り替えたいですか？</string>
-  <string name="doubleClickToExit">Double click the Back key to exit the app</string>
-  <string name="doubleClickToExitTip">Click BACK again to exit</string>
+  <string name="doubleClickToExit">バックキーをダブルクリックしてアプリを終了</string>
+  <string name="doubleClickToExitTip">再度バックをクリックして終了</string>
   <string name="markdownCheckBoxTip">このチェックボックスは、Markdownのために用意されています。 チェックすると、段落の間隔と自動インデントが自動的に無効になります。 Markdownに慣れていない場合は、チェックしないことをお勧めします。\n\nMarkdownは広く使われているマークアップ言語です。 興味があれば、オンラインでMarkdownを検索することができます。</string>
   <string name="unlockValidityPeriodSummary">%s\n注：[戻る]を押してアプリを終了すると、次回はロックされます</string>
   <string name="unlockValidityPeriod">有効期間のロックを解除</string>
@@ -264,16 +279,16 @@
   <string name="backupWithHistoryToLocalNow">ローカルストレージにバックアップして、すべての履歴を含める</string>
   <string name="backupToCloudNow">今すぐクラウドストレージにバックアップ</string>
   <string name="summaryBackupToCloud">バックアップファイルは、設定されている場合はクラウドストレージに保存されます</string>
-  <string name="lockFallback">いつもロックを解除できない場合は、お使いの携帯電話のシステム設定に行き、すべての指紋を削除して、Pure Writerを再度開くことができます。</string>
+  <string name="lockFallback">いつもロックを解除できない場合は、お使いの携帯電話のシステム設定に行き、すべての指紋を削除して、純純執筆を再度開くことができます。</string>
   <string name="smoothScrollerTitle">テキスト行をクリックするための滑らかなスクロールアニメーション</string>
   <string name="tipSmoothScrolling">このオプションをオンにすると、コンテンツテキストの行をクリックすると、必要に応じてテキストビューがスムーズにフォーカスされた行にスクロールします。 このオプションがオフの場合、瞬時にその行にジャンプします。\n一部のデバイスでスクロールアニメーションがうまく動作しないことがあるので、つまんでいる場合はこのオプションをオフにしてください。</string>
   <string name="defaultMessageUpdateApk">これは重要なバージョンです。できるだけ早くこのバージョンに更新してください。</string>
-  <string name="readme">あなたはPure Writerの新しいMaterial Design 2デザインを有効にしました。\n\nマテリアルデザイン2は新しいフルスクリーン浸漬紙と透明なトップバーを採用し、より新鮮な外観を実現しています。\n\nしかし同時に、新しいデザインには多くの問題がある可能性があります。これは、UIの視覚的な問題を抱えるPure Writerの実験的な機能です。また、Pure Writerの著者として、私は元のPureライターのデザインはより目を引くものであり、テキストコンテンツに重点を置いているので、このデザイン機能は実際に少数のユーザーの強い要求に応えて開発されています。現在、純粋なライターの設計が2つあるため、開発者の作業が増える可能性があります。\n\nこのため、Pure Writerはあなたに支払うことをお勧めしますが、それでも経験して最終的な支払いを決定するまでに多くの時間を費やすことができますので、サポートを依頼してください。支払意欲が小さい場合、開発者はマテリアルデザインのメンテナンスを中止または停止することができます。2. OKをクリックすると、デフォルトでこのコンテンツに同意することになります。\n\nみなさんありがとう！私は、より良い、より良い純粋な作家を提供するために全力を尽くし、お楽しみください！</string>
-  <string name="lowFreeStorageSpaceWarning">お使いの携帯電話には %1$d MB の空き容量しかないため、Pure Writerの保存やバックアップに失敗する可能性があります。 Pure Writerを使用する前に、クリーンアップして%2$d MB以上残してください。</string>
-  <string name="iconDesc">Pure Writerのアイコンはタイムマシンです\nタイムマシンは前進しています。 言葉を願って私たちは過去とつながることができます、将来について考えます…</string>
+  <string name="readme">あなたは純純執筆の新しいMaterial Design 2デザインを有効にしました。\n\nマテリアルデザイン2は新しいフルスクリーン浸漬紙と透明なトップバーを採用し、より新鮮な外観を実現しています。\n\nしかし同時に、新しいデザインには多くの問題がある可能性があります。これは、UIの視覚的な問題を抱える純純執筆の実験的な機能です。また、純純執筆の著者として、私は元のPureライターのデザインはより目を引くものであり、テキストコンテンツに重点を置いているので、このデザイン機能は実際に少数のユーザーの強い要求に応えて開発されています。現在、純粋なライターの設計が2つあるため、開発者の作業が増える可能性があります。\n\nこのため、純純執筆はあなたに支払うことをお勧めしますが、それでも経験して最終的な支払いを決定するまでに多くの時間を費やすことができますので、サポートを依頼してください。支払意欲が小さい場合、開発者はマテリアルデザインのメンテナンスを中止または停止することができます。2. OKをクリックすると、デフォルトでこのコンテンツに同意することになります。\n\nみなさんありがとう！私は、より良い、より良い純粋な作家を提供するために全力を尽くし、お楽しみください！</string>
+  <string name="lowFreeStorageSpaceWarning">お使いの携帯電話には %1$d MB の空き容量しかないため、純純執筆の保存やバックアップに失敗する可能性があります。 純純執筆を使用する前に、クリーンアップして%2$d MB以上残してください。</string>
+  <string name="iconDesc">純純執筆のアイコンはタイムマシンです\nタイムマシンは前進しています。 言葉を願って私たちは過去とつながることができます、将来について考えます…</string>
   <string name="insertCategoryBottomShort"><b>一番下</b>にフォルダを挿入します</string>
   <string name="insertCategoryBottomLong">チャプターリストの<b>下部</b>に新しいフォルダーを挿入します</string>
-  <string name="pureWriterBBS">Pure Writer BBS</string>
+  <string name="pureWriterBBS">純純執筆 BBS</string>
   <string name="findReplace">検索と置換</string>
   <string name="replace">取り替える</string>
   <string name="find">検索</string>
@@ -282,9 +297,9 @@
   <string name="ignoreCase">大文字/小文字を無視</string>
   <string name="selectAll">すべて選択</string>
   <string name="replaceConfirmMessage">選択した%dか所を置き換えますか？</string>
-  <string name="tipUndoReplace">元に戻す：\n*あなたは、Pure Writer - 設定 - バックアップ - 復元バックアップへ行き、前のバックアップをクリックして前の内容に復元することができます。\n*現在の章を置き換えたばかりの場合は、右上のメニューから[履歴]ページに移動して前の内容に戻ることができます。</string>
+  <string name="tipUndoReplace">元に戻す：\n*あなたは、純純執筆 - 設定 - バックアップ - 復元バックアップへ行き、前のバックアップをクリックして前の内容に復元することができます。\n*現在の章を置き換えたばかりの場合は、右上のメニューから[履歴]ページに移動して前の内容に戻ることができます。</string>
   <string name="backupRemarkForReplace">交換する前に</string>
-  <string name="tipReplaceResult">%1$d記事の%2$dコンテンツが置き換えられました</string>
+  <string name="tipReplaceResult">%1$d文章の%2$dコンテンツが置き換えられました</string>
   <string name="title">タイトル</string>
   <string name="content">コンテンツ</string>
   <string name="inverseAll">すべて反転</string>
@@ -295,19 +310,19 @@
   <string name="signOut">サインアウト</string>
   <string name="changeAccount">アカウントを変更</string>
   <string name="scrollToHideTopBar">トップバーを隠すためにスクロール</string>
-  <string name="doNotOperate">その過程で記事を切り替えたり変更したりしないでください。</string>
+  <string name="doNotOperate">その過程で文章を切り替えたり変更したりしないでください。</string>
   <string name="aboutBackup"><b>バックアップについて</b></string>
-  <string name="backupReadme">Pure Writerは、ローカルバックアップとクラウドバックアップをサポートしています。 ローカルバックアップは自動です。 Pure Writerを再インストールすると、バックアップによってすべての記事を復元できます。\n\nただし、Pure Writerはデフォルトでクラウドバックアップを自動的に行いません。 クラウドバックアップを有効にするには、Pure Writer-設定-バックアップページでクラウドバックアップアカウントを設定する必要があります。\n\n現在、Pure Writerクラウドバックアップは、DropboxおよびWebDAVクラウドストレージをサポートしています。\n\n<b>クラウドバックアップは非常に重要です。 クラウドバックアップアカウントを設定していない場合、このデバイスを紛失、破損、または工場出荷時の設定に復元すると、貴重なコンテンツがすべて失われます。 必ずクラウドバックアップアカウントを設定してください！</b></string>
+  <string name="backupReadme">純純執筆は、ローカルバックアップとクラウドバックアップをサポートしています。 ローカルバックアップは自動です。 純純執筆を再インストールすると、バックアップによってすべての文章を復元できます。\n\nただし、純純執筆はデフォルトでクラウドバックアップを自動的に行いません。 クラウドバックアップを有効にするには、純純執筆-設定-バックアップページでクラウドバックアップアカウントを設定する必要があります。\n\n現在、純純執筆クラウドバックアップは、DropboxおよびWebDAVクラウドストレージをサポートしています。\n\n<b>クラウドバックアップは非常に重要です。 クラウドバックアップアカウントを設定していない場合、このデバイスを紛失、破損、または工場出荷時の設定に復元すると、貴重なコンテンツがすべて失われます。 必ずクラウドバックアップアカウントを設定してください！</b></string>
   <string name="lineSpacing">行間隔</string>
   <string name="tipParagraphSpacingInMD">段落の間隔はMDモードでは有効になりません</string>
   <string name="defaultX">既定</string>
   <string name="zoomIn">詳細リストモード</string>
   <string name="zoomOut">簡易リストモード</string>
   <string name="switchingBooksTooltip">ヒント：上部の本のタイトルをクリックすると、本を切り替えることができます</string>
-  <string name="scrollToTheCurrentArticle">現在の記事にスクロールする</string>
+  <string name="scrollToTheCurrentArticle">現在の文章にスクロールする</string>
   <string name="allBooks">すべての本</string>
   <string name="insertCategoryBelowShort"><b>下</b>にフォルダを挿入します</string>
-  <string name="insertCategoryBelowLong">現在の記事の<b>下</b>に新しいフォルダを挿入します</string>
+  <string name="insertCategoryBelowLong">現在の文章の<b>下</b>に新しいフォルダを挿入します</string>
   <string name="branchLine">支線</string>
   <string name="brightLine">輝線</string>
   <string name="darkLine">暗線</string>
@@ -328,7 +343,7 @@
   <string name="transparentNavigationBar">透明なナビゲーションバー</string>
   <string name="titleAsAWordForACountSummary">この項目をオンにすると、次のワードカウントモードは無効になります。 ワードカウントモードのオプションを使用したい場合は、これをオフにしてください。</string>
   <string name="customFont">カスタムフォント</string>
-  <string name="customFontTip">.ttf / .otf フォントファイルを外部ストレージディレクトリ<b>/Documents/PureWriter/App</b>に配置し、Pure Writerを再起動してフォントを自動的に適用します。 注：このディレクトリには1つのフォントファイルしか存在できず、一部のフォントファイル（GoogleSansなど）ではカーソルが移動することがあります。ご注意ください。</string>
+  <string name="customFontTip">.ttf / .otf フォントファイルを外部ストレージディレクトリ<b>/Documents/PureWriter/App</b>に配置し、純純執筆を再起動してフォントを自動的に適用します。 注：このディレクトリには1つのフォントファイルしか存在できず、一部のフォントファイル（GoogleSansなど）ではカーソルが移動することがあります。ご注意ください。</string>
   <string name="corruptBackupTip">バックアップファイルが破損しています。 他のバックアップを復元して、正しいサイズと時間のバックアップを選択してください。</string>
   <string name="leftMargin">左マージン</string>
   <string name="rightMargin">右マージン</string>
@@ -350,12 +365,12 @@
   <string name="textColorAlpha">テキストの色の透明度</string>
   <string name="tipNotSupportThisDesktopVersion">現在のモバイルとデスクトップのバージョンは一致せず、接続できません。 両方を最新バージョンに更新して、もう一度お試しください。</string>
   <string name="createShortcutLabel">ショートカット</string>
-  <string name="cursorPositionForNewArticle">新しい記事のカーソル位置</string>
+  <string name="cursorPositionForNewArticle">新しい文章のカーソル位置</string>
   <string name="undoValidTip">現在フォーカスされている入力領域を再び元に戻すことはできなくなります。右上隅の[履歴]メニューからコンテンツの復元を試みることができます。</string>
   <string name="double11Title">11・11半額（50％オフ）</string>
-  <string name="double11Message">11月10日から11月12日まで、PureWriter Proの購入は半額で行えます。 ご支援ありがとうございました！</string>
+  <string name="double11Message">11月10日から11月12日まで、純純執筆 Proの購入は半額で行えます。 ご支援ありがとうございました！</string>
   <string name="toDoCloudBackupButton">クラウドバックアップアカウントをセットアップします</string>
-  <string name="ignoreCloudBackupCheckBox">クラウドバックアップをセットアップしたくない、思い出させないでください。 クラウドのバックアップがないため、電話が壊れたり紛失したりリセットされたりしたときに貴重な記事をすべて失うなど、クラウドのバックアップがないことの結果をすべて喜んで負担します！</string>
+  <string name="ignoreCloudBackupCheckBox">クラウドバックアップをセットアップしたくない、思い出させないでください。 クラウドのバックアップがないため、電話が壊れたり紛失したりリセットされたりしたときに貴重な文章をすべて失うなど、クラウドのバックアップがないことの結果をすべて喜んで負担します！</string>
   <string name="addChapterAboveThis">上記の章を追加</string>
   <string name="addChapterBelowThis">下に章を追加</string>
   <string name="selectMore">さらに選択</string>
@@ -363,10 +378,10 @@
   <string name="autoInsertBlankLineWhenWrapping">ラッピング時に自動的に空白行を挿入します</string>
   <string name="paragraphSpacingSettingSummary">段落間隔をオフにすると、スーパーロングテキストのパフォーマンスが向上します。</string>
   <string name="onlyAvailableWhenParagraphOff">段落間隔がオフの場合のみ使用可能</string>
-  <string name="markdownAsDefault">新しい記事のデフォルトモードとしてMarkdownを使用する</string>
-  <string name="needToPayForMarkdownRenderer">これは、Markdownクイックプレビューページです。このページを使用するには、Pure Writer Proに料金を支払う必要があります。</string>
-  <string name="fabContextCreateNewAfterCurrent">現在の記事の後の 新しい記事</string>
-  <string name="fabContextCreateNewAtTheBottom">記事リストの下部にある 新しい記事</string>
+  <string name="markdownAsDefault">新しい文章のデフォルトモードとしてMarkdownを使用する</string>
+  <string name="needToPayForMarkdownRenderer">これは、Markdownクイックプレビューページです。このページを使用するには、純純執筆 Proに料金を支払う必要があります。</string>
+  <string name="fabContextCreateNewAfterCurrent">現在の文章の後の 新しい文章</string>
+  <string name="fabContextCreateNewAtTheBottom">文章リストの下部にある 新しい文章</string>
   <string name="fabContextHideFabUntilNextStart">次の起動までこのボタンを非表示にします</string>
   <string name="signedIn">ログインしました</string>
   <string name="notSignedIn">ログインしていません</string>
@@ -387,11 +402,11 @@
   <string name="keyboardStateRestoring">キーボード状態の復元</string>
   <string name="greatCursorFocus">素晴らしいカーソルフォーカス</string>
   <string name="crazyUpdateBetterAndBetter">更新を続け、より良く</string>
-  <string name="moreAdvantagesOfPureWriter">Pure Writerのその他の利点</string>
+  <string name="moreAdvantagesOfPureWriter">純純執筆のその他の利点</string>
   <string name="account">アカウント</string>
-  <string name="privilegeOfPureWriterPro">Pure Writer Proの特権</string>
-  <string name="messageCustomFontAndPro">Pure Writer Proを必要とするカスタムフォントを使用していることを確認しました。 [OK]をクリックしてPure Writer Proおよびより高度な機能を取得するか、クリックしてカスタムフォントをキャンセルします（次回の起動時に有効になります）。</string>
-  <string name="messageNeedToPay">これはProの機能です。 Pure Writer Proを使用する前に料金を支払う必要があります。 [OK]をクリックして、Pure Writer Proのすべての高度な機能について学習します。 Pure Writer Proを入手すると、すべての高度な機能を使用できます。</string>
+  <string name="privilegeOfPureWriterPro">純純執筆 Proの特権</string>
+  <string name="messageCustomFontAndPro">純純執筆 Proを必要とするカスタムフォントを使用していることを確認しました。 [OK]をクリックして純純執筆 Proおよびより高度な機能を取得するか、クリックしてカスタムフォントをキャンセルします（次回の起動時に有効になります）。</string>
+  <string name="messageNeedToPay">これはProの機能です。 純純執筆 Proを使用する前に料金を支払う必要があります。 [OK]をクリックして、純純執筆 Proのすべての高度な機能について学習します。 純純執筆 Proを入手すると、すべての高度な機能を使用できます。</string>
   <string name="notYetActivated">まだ有効化されていません</string>
   <string name="notYetActivatedOrExpired">アクティブ化されていないか、期限切れです</string>
   <string name="ProIntroductionMarkdown"><![CDATA[
@@ -409,7 +424,7 @@
 |
 |        #### 長いテキスト画像/ md / txtファイルとしてエクスポート
 |
-|        長いテキスト画像または.md .txtファイルとして記事をエクスポートできます：
+|        長いテキスト画像または.md .txtファイルとして文章をエクスポートできます：
 |
 |        ![Picture](https://writer.drakeet.com/images/pro/en/2.webp)
 |
@@ -421,7 +436,7 @@
 |
 |        #### 検索と置換
 |
-|        任意の記事でターゲットキーワードを見つけて、バッチで置き換えることができます：
+|        任意の文章でターゲットキーワードを見つけて、バッチで置き換えることができます：
 |
 |        ![Picture](https://writer.drakeet.com/images/pro/en/4.webp)
 |
@@ -431,18 +446,18 @@
 |
 |        ![Picture](https://writer.drakeet.com/images/pro/en/5.webp)
 |
-|        #### Pure Writer Desktop
+|        #### 純純執筆 / Pure Writer Desktop
 |
-|        ![Pure Writer Desktop](https://writer.drakeet.com/images/pro/en/PureWriterDesktopDark.webp)
-|        ![Pure Writer Desktop](https://writer.drakeet.com/images/pro/en/PureWriterDesktop.webp)
+|        ![純純執筆 Desktop](https://writer.drakeet.com/images/pro/en/PureWriterDesktopDark.webp)
+|        ![純純執筆 Desktop](https://writer.drakeet.com/images/pro/en/PureWriterDesktop.webp)
 |
-|        Pure Writer Desktop を取得し、メインエディターの上部にあるクラウドアイコン☁️から接続できます。
+|        純純執筆 / Pure Writer Desktop を取得し、メインエディターの上部にあるクラウドアイコン☁️から接続できます。
 |
-|        現在、Pure Writer Desktop はまだアルファ段階にあります。 基本的なリアルタイム接続と同期編集のみを提供できます。
+|        現在、純純執筆 / Pure Writer Desktop はまだアルファ段階にあります。 基本的なリアルタイム接続と同期編集のみを提供できます。
 |
-|        私は多くの時間とエネルギーを費やしました、そしてあなたのサポートは私たちがそれを完璧でより良くするのを助けます。
+|        私は多くの時間とエネルギーを費やしました、そしてあなたのサポートは私たちがそれを完璧でより良くするのを助けます。
     ]]></string>
-  <string name="buyPureWriterPro">Pure Writer Proを購入する</string>
+  <string name="buyPureWriterPro">純純執筆 Proを購入する</string>
   <string name="tipMarkdownQuickPreview">Markdownクイックプレビューの次のページに水平にスワイプします</string>
   <string name="expiresOn">失効日</string>
   <string name="lifetime">永久に有効です</string>
@@ -450,12 +465,12 @@
   <string name="useLegacyRender">レガシーレンダラーを使用する</string>
   <string name="changelog">変更ログ</string>
   <string name="advancedReadOnlyMode">高度な読み取り専用モード</string>
-  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">現在のフォルダの下部に新しい記事を挿入します</string>
-  <string name="needOpenArticleFirst">このオプションを使用するには、まず記事を開く必要があります</string>
-  <string name="restoreArticleScrollPosition">記事のスクロール位置を復元する</string>
+  <string name="fabContextCreateNewAtTheBottomOfCurrentCategory">現在のフォルダの下部に新しい文章を挿入します</string>
+  <string name="needOpenArticleFirst">このオプションを使用するには、まず文章を開く必要があります</string>
+  <string name="restoreArticleScrollPosition">文章のスクロール位置を復元する</string>
   <string name="summaryScrollToBottom">このボタンをエディターに表示するかどうか</string>
   <string name="cloudBackupFailed">クラウドバックアップに失敗しました</string>
-  <string name="dropboxBackupFailed">Dropboxバックアップに失敗しました。PureWriterクラウドバックアップ設定でDropboxアカウントに再ログインしてください。</string>
+  <string name="dropboxBackupFailed">Dropboxバックアップに失敗しました。純純執筆クラウドバックアップ設定でDropboxアカウントに再ログインしてください。</string>
   <string name="dropboxBackupFailedDueToInsufficientSpace">クラウドバックアップに失敗しました：Dropboxの容量が不足しています</string>
   <string name="tipImageDialog">下に挿入するウェブ画像のリンクを入力してください。\nまたは、下の[ローカル画像]をクリックしてローカル画像を選択し、その画像のローカルリンクを自動的に取得できます。</string>
   <string name="imageUrl">画像URL</string>
@@ -466,32 +481,32 @@
   <string name="clickBottomAddNewBlankLine">空白行を挿入するために底部領域をクリックしてください</string>
   <string name="summaryClickBottomAddNewBlankLine">最後の行が空白行でない場合、エディターの下部にある空白領域をクリックすると、テキストの最後に新しい空白行が自動的に挿入され、フォーカスされます。</string>
   <string name="deleteCompletely">完全に削除</string>
-  <string name="openArticleListAfterSwitchingBooks">書籍を切り替えた後に記事リストを開く</string>
+  <string name="openArticleListAfterSwitchingBooks">書籍を切り替えた後に文章リストを開く</string>
   <string name="regex">正規表現 (Regex)</string>
-  <string name="searchArticles">記事を検索する / 記事にすばやくジャンプする</string>
+  <string name="searchArticles">文章を検索する / 文章にすばやくジャンプする</string>
   <string name="searchTip">ヒント：複数のキーワードを入力して改行で検索できますが、結果では最初のキーワードのみが強調表示されます。</string>
   <string name="duplicate">複製</string>
-  <string name="lowCloudFreeStorageSpaceWarning">%1$sには%2$d MBの無料ストレージしかないため、Pure Writerが保存したり、クラウドへのバックアップが失敗したりする可能性があります。 Pure Writerを使用する前に、クリーンアップして%3$d MB以上残してください。</string>
+  <string name="lowCloudFreeStorageSpaceWarning">%1$sには%2$d MBの無料ストレージしかないため、純純執筆が保存したり、クラウドへのバックアップが失敗したりする可能性があります。 純純執筆を使用する前に、クリーンアップして%3$d MB以上残してください。</string>
   <string name="unlimitedStorage">無制限のストレージ</string>
   <string name="noteDateTimeShortcut"><![CDATA[
 |        さらに、時間と日付の変数を挿入することもできます。上の最初の入力ボックスに `${<format>}` と入力して設定します。ここで、`<format>` は日付/時刻形式に置き換える必要があります。次に例を示します。
 |
-|        `${yyyy-MM-dd HH:mm}` は以下を生成します：
-|        `2020-04-01 21:43`
+|        `${yyyy-MM-dd HH:mm}` は以下を生成します：
+|        `2020-04-01 21:43`
 |
-|        `${yyyy-M-d hh:mm}` は以下を生成します：
-|        `2020-4-1 09:43`
+|        `${yyyy-M-d hh:mm}` は以下を生成します：
+|        `2020-4-1 09:43`
 |
-|        （長押しして、上記の例を選択してコピーしてみてください）
+|        （長押しして、上記の例を選択してコピーしてみてください）
 |
-|        この[ドキュメントページ](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html)の表で、形式指定子と自由な組み合わせを確認することもできます。
+|        この[ドキュメントページ](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html)の表で、形式指定子と自由な組み合わせを確認することもできます。
     ]]></string>
   <string name="read">読んだ</string>
   <string name="introductionOfReadOnlyMode">* カーソルが表示されていない場合は、ダブルクリックしてカーソルを配置し、編集モードにする必要があります。\n* カーソルが表示されている場合は、ワンクリックでテキストの編集や修正が可能です。\n* カーソルが表示されている状態で、Back キーを押すとカーソルが非表示になり、読み取り専用モードになります。</string>
-  <string name="messageReadOnlyModeAndPro">高度な読み取り専用モードにはPure Writer Proが必要です。 [OK]をクリックしてPure Writer Proおよびより高度な機能を取得するか、[キャンセル]をクリックして次の起動後に自動的にキャンセルすることができます。</string>
+  <string name="messageReadOnlyModeAndPro">高度な読み取り専用モードには純純執筆 Proが必要です。 [OK]をクリックして純純執筆 Proおよびより高度な機能を取得するか、[キャンセル]をクリックして次の起動後に自動的にキャンセルすることができます。</string>
   <string name="doNotRemindAgain">もう思い出させないで</string>
-  <string name="fabOverflowModeSingleClick">シングルクリックでポップアップメニューを開き、メニューで記事を作成することを選択できます</string>
-  <string name="fabOverflowModeLongPress">シングルクリックで直接記事を作成し、長押ししてポップアップメニューを開きます</string>
+  <string name="fabOverflowModeSingleClick">シングルクリックでポップアップメニューを開き、メニューで文章を作成することを選択できます</string>
+  <string name="fabOverflowModeLongPress">シングルクリックで直接文章を作成し、長押ししてポップアップメニューを開きます</string>
   <string name="homeFab">ホームフローティングアクションボタンモード</string>
   <string name="safeMode">セーフモード</string>
   <string name="summarySafeMode">このアプリがバックグラウンドまたは最近のタスクリストページに入ると、このアプリのコンテンツは不明瞭または非表示になります。 このアイテムをオンにすると、アプリ内のスクリーンショットも禁止されます</string>
@@ -522,31 +537,33 @@
   <string name="fileTypeNotSupported">ファイルタイプはサポートされていません</string>
   <string name="grantStoragePermission">ストレージ権限を付与する</string>
   <string name="folderNoLongerExists">フォルダまたはストレージはもう存在しません！</string>
-  <string name="tipNotRecommendedFolder">このフォルダは推奨フォルダを満たしていないため、Pure Writerは古いバックアップファイルを読み取ることができません。 注意するか、前の手順に戻って修正してください。</string>
-  <string name="tipTargetFolder">"選択したフォルダによると、Pure Writerの最終的なストレージディレクトリは次のとおりです: "</string>
-  <string name="messageWhyNeedSAF">Android 11以降、ユーザーのプライバシーをより適切に保護するために、Pure Writerは完全な外部ストレージの読み取り/書き込み権限を必要としなくなりました。代わりに、ユーザーがフォルダーディレクトリを指定できるようになり、Pure Writerはそのディレクトリへの読み取り/書き込みアクセスのみを持ちます。\n\nしたがって、下のボタンをクリックしてフォルダを選択する必要があります。 将来再インストールするときに古いデータを復元するために、***`Documents`*** 🙏フォルダを選択することを強くお勧めします。</string>
-  <string name="pureWriterFolder">PureWriterフォルダー</string>
+  <string name="tipNotRecommendedFolder">このフォルダは推奨フォルダを満たしていないため、純純執筆は古いバックアップファイルを読み取ることができません。 注意するか、前の手順に戻って修正してください。</string>
+  <string name="tipTargetFolder">"選択したフォルダによると、純純執筆の最終的なストレージディレクトリは次のとおりです: "</string>
+  <string name="messageWhyNeedSAF">Android 11以降、ユーザーのプライバシーをより適切に保護するために、純純執筆は完全な外部ストレージの読み取り/書き込み権限を必要としなくなりました。代わりに、ユーザーがフォルダーディレクトリを指定できるようになり、純純執筆はそのディレクトリへの読み取り/書き込みアクセスのみを持ちます。\n\nしたがって、下のボタンをクリックしてフォルダを選択する必要があります。 将来再インストールするときに古いデータを復元するために、***`Documents`*** 🙏フォルダを選択することを強くお勧めします。</string>
+  <string name="pureWriterFolder">純純執筆（PureWriter）フォルダー</string>
   <string name="selectFont">フォントを選択</string>
   <string name="materialFilesNote">現在、以下の「開く」は、zhanghai/MaterialFilesでの開くことのみをサポートしています。 必要に応じて、このアプリを自分でダウンロードするか、システムのファイルマネージャーを手動で使用して上記のパスを開くことができます。</string>
   <string name="changeFolder">フォルダを変更する</string>
   <string name="yourFolderIs">"選択したフォルダディレクトリは次のとおりです: "</string>
-  <string name="changeFolderNote">以下の「フォルダの変更」を選択した場合は、まずPureWriterフォルダを手動で新しいターゲットフォルダに移動してから変更する必要があります。</string>
+  <string name="changeFolderNote">以下の「フォルダの変更」を選択した場合は、まず純純執筆フォルダを手動で新しいターゲットフォルダに移動してから変更する必要があります。</string>
   <string name="previous">前へ</string>
   <string name="rating">評価</string>
   <string name="customFontTipForAndroid11">Android 11以降では、フォントファイルを有効にするにはフォントファイルを選択する必要があります</string>
-  <string name="shareMessage">Pure Writerの使用を楽しんでいる場合は、私たちが情報を広めるのを手伝ってください！このアプリを友達と共有するには、右側の[共有]ボタンをクリックしてください。 ！！\n\n詳細については、https://play.google.com/store/apps/details?id=com.drakeet.purewriter をご覧ください。</string>
-  <string name="shareText">おすすめです。Pure Writerは、機能が充実していて、安心して使えるテキスト編集アプリです。履歴の記録、大切なコンテンツを失わないための多層保護機能、さらに快適な執筆環境を備えています。詳細はこちら： https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
+  <string name="shareMessage">純純執筆の使用を楽しんでいる場合は、私たちが情報を広めるのを手伝ってください！このアプリを友達と共有するには、右側の[共有]ボタンをクリックしてください。 ！！\n\n詳細については、https://play.google.com/store/apps/details?id=com.drakeet.purewriter をご覧ください。</string>
+  <string name="shareText">おすすめです。純純執筆は、機能が充実していて、安心して使えるテキスト編集アプリです。履歴の記録、大切なコンテンツを失わないための多層保護機能、さらに快適な執筆環境を備えています。詳細はこちら： https://play.google.com/store/apps/details?id=com.drakeet.purewriter</string>
   <string name="connectDesktop">デスクトップに接続する</string>
   <string name="disconnectDesktop">デスクトップを切断します</string>
   <string name="connect">接続する</string>
-  <string name="desktopDialogGuide">https://writer.drakeet.com/desktop_en から<b><i> Pure Writer Desktop v1.9.0（またはそれ以降）</i></b>をダウンロードする必要があります\n\nモバイルとコンピューターが<b>同じWi-Fiネットワークまたはホットスポット👈👈👈</b>にある場合は、デスクトップを開き、デスクトップの入力フィールドに以下のIPアドレスを入力して、Pure Writer に接続します。同期できます。 現在の記事をリアルタイムで編集します。</string>
+  <string name="desktopDialogGuide">https://writer.drakeet.com/desktop_en から<b><i> 純純執筆 Desktop v1.9.0（またはそれ以降）</i></b>をダウンロードする必要があります\n\nモバイルとコンピューターが<b>同じWi-Fiネットワークまたはホットスポット👈👈👈</b>にある場合は、デスクトップを開き、デスクトップの入力フィールドに以下のIPアドレスを入力して、純純執筆 に接続します。同期できます。 現在の文章をリアルタイムで編集します。</string>
   <string name="connectionIsStopping">接続が停止しています。しばらくしてからもう一度お試しください。</string>
   <string name="stop_waiting_connection">接続を待つのをやめる</string>
   <string name="desktopDisconnected">デスクトップが切断されている</string>
   <string name="desktopConnected">デスクトップが接続されています</string>
-  <string name="desktopDialogNote">注：Pure Writer Desktop はまだアルファ段階です。 理解して、その後の更新を待ってください。\n※複数行のIPアドレスが表示される場合は、1つずつ接続してみてください。</string>
+  <string name="desktopDialogNote">注：純純執筆 / Pure Writer Desktop はまだアルファ段階です。 理解して、その後の更新を待ってください。\n※複数行のIPアドレスが表示される場合は、1つずつ接続してみてください。</string>
   <string name="autoConnectToDesktop">デスクトップバージョンへの自動接続</string>
   <string name="autoConnectToDesktopNextTime">次回から自動的にデスクトップに接続</string>
+  <string name="dbCorruptTip">あなたのデータベースファイルが破損してしまい、現段階では自動修復が難しい状況です。OKをクリックして開発者にデータベースファイルを送送し、手動での修復をお願いします。\n\nそれ以前に、一時的に書き込みを中止してください。我々は最優先で修復し、この問題を解決いたします。ご不便をおかけし、申し訳ありません！</string>
+  <string name="databaseIsCorrupt">データベースが予期せずに破損しました！</string>
   <string name="presetFreeFont">フリーLXGW WenKaiフォント</string>
   <string name="summaryPresetFreeFont">「カスタムフォント」が有効になっていない場合にのみ有効です</string>
   <string name="restoreOptionsMessage">このバックアップを使用して、ローカルコンテンツを上書きしたり、ローカルコンテンツにマージしたりする必要がありますか？\n\n注：[マージ]を選択した場合、バックアップファイルの設定とクラウドバックアップアカウント情報はマージされないため、手動で再構成する必要がある場合があります。</string>
@@ -556,7 +573,7 @@
   <string name="switchToGooglePlayPaymentMethod">GooglePlayのお支払い方法に切り替えます</string>
   <string name="tipForFromPlayToAlipay">このお支払い方法を使用するには、中国本土にいることを確認してください。 GoogleとGooglePlayは中国での支払いに使用できないため、この支払い方法は原則として中国本土のユーザーのみが利用できます。</string>
   <string name="askUnsubscribe"><u>退会しますか？</u></string>
-  <string name="notesForGoogleSkus">ノート：\n\n* Pure Writerを支払い、再インストールしたが、時間内に支払いステータスが得られなかった場合は、次のチュートリアルに従って復元できます：https://t.me/s/PureWriter/880\n\n* Googleはサブスクリプションをキャンセルするためのインターフェースを提供していないため、サブスクリプションをキャンセルする必要がある場合は、サブスクリプションをクリックするか、[サブスクリプションを解除しますか？]をクリックする必要があります。 上記に進みます。\n\n* Google Playでこのアプリのサブスクリプションをキャンセルした後、アプリはすぐに最新のステータスを受け取らないため、このページではサブスクリプションアイテムがまだ「有効」状態であることがわかります。 これは正常な現象です。 翌日正しい結果が得られるか、現在のサブスクリプション期間が終了するまで待ちます。\n\n*サブスクリプションから「ライフタイム」アイテムに切り替える場合は、最初にサブスクリプションをキャンセルしてから、「ライフタイム」アイテムを購入する必要があります。 このアプリは、それ自体でサブスクリプションをキャンセルすることはできません。\n\n*支払いプロセス中にDF-DFERH-01エラーが発生した場合は、デバイスを再起動して再試行してください。\n\n*お支払い結果は自動的にシステムのGoogleアカウントにバインドされます。ありがとうございます。</string>
+  <string name="notesForGoogleSkus">ノート：\n\n* 純純執筆を支払い、再インストールしたが、時間内に支払いステータスが得られなかった場合は、次のチュートリアルに従って復元できます：https://t.me/s/PureWriter/880\n\n* Googleはサブスクリプションをキャンセルするためのインターフェースを提供していないため、サブスクリプションをキャンセルする必要がある場合は、サブスクリプションをクリックするか、[サブスクリプションを解除しますか？]をクリックする必要があります。 上記に進みます。\n\n* Google Playでこのアプリのサブスクリプションをキャンセルした後、アプリはすぐに最新のステータスを受け取らないため、このページではサブスクリプションアイテムがまだ「有効」状態であることがわかります。 これは正常な現象です。 翌日正しい結果が得られるか、現在のサブスクリプション期間が終了するまで待ちます。\n\n*サブスクリプションから「ライフタイム」アイテムに切り替える場合は、最初にサブスクリプションをキャンセルしてから、「ライフタイム」アイテムを購入する必要があります。 このアプリは、それ自体でサブスクリプションをキャンセルすることはできません。\n\n*支払いプロセス中にDF-DFERH-01エラーが発生した場合は、デバイスを再起動して再試行してください。\n\n*お支払い結果は自動的にシステムのGoogleアカウントにバインドされます。ありがとうございます。</string>
   <string name="skuActive">有効</string>
   <string name="activating">アクティベート中…</string>
   <string name="updating">更新中…</string>
@@ -572,13 +589,13 @@
   <string name="lightTheme">軽いテーマ</string>
   <string name="darkTheme">暗いテーマ</string>
   <string name="autoComplete">オートコンプリート</string>
-  <string name="autoCompleteSummary">カーソルが記事の<b>最後</b>にある場合にのみ、ペアの記号を自動的に完成させます</string>
+  <string name="autoCompleteSummary">カーソルが文章の<b>最後</b>にある場合にのみ、ペアの記号を自動的に完成させます</string>
   <string name="autoDeleteSymbolsInPairs">ペアのシンボルを自動削除</string>
   <string name="autoDeleteSymbolsInPairsSummary">ペアのシンボルのコンテンツが<b>空</b>の場合のみ</string>
   <string name="realYes">はい</string>
   <string name="realNo">いいえ</string>
   <string name="whetherOverwriteSettings">ローカル設定を上書きしますか？</string>
-  <string name="askOverwriteSettings">バックアップファイル内の記事データベースを使用してローカルの記事データベースを上書きしますが、バックアップファイル内の設定を使用してローカルの設定を上書きする必要があるかどうかはわかりません。選択してください。</string>
+  <string name="askOverwriteSettings">バックアップファイル内の文章データベースを使用してローカルの文章データベースを上書きしますが、バックアップファイル内の設定を使用してローカルの設定を上書きする必要があるかどうかはわかりません。選択してください。</string>
   <string name="privacyPolicySummary">お客様の個人情報を収集することはございません</string>
   <string name="modifyOrderOfCategories">フォルダの順序を変更する</string>
   <string name="modifyOrderOfChapters">章の順序を変更する</string>
@@ -611,7 +628,7 @@
   <string name="uploadingKeywordsToCloud">クラウドストレージにキーワードをアップロードしています... </string>
   <string name="downloadingKeywordsFromCloud">クラウドストレージからキーワードをダウンロードしています... </string>
   <string name="keywordRetrieval">キーワード検索</string>
-  <string name="retrieveCurrentArticle">現在の記事を取得する</string>
+  <string name="retrieveCurrentArticle">現在の文章を取得する</string>
   <string name="previousOne">前のもの</string>
   <string name="nextOne">次のもの</string>
   <string name="uploadToCloudStorage">クラウドストレージにアップロード</string>
@@ -620,7 +637,7 @@
   <string name="limit1080wForPreviewImages">最大幅を1080に制限する</string>
 
   <string name="dailyStatistics">毎日の統計</string>
-  <string name="dailyExtraNote">* 注：この日の <i>毎日の統計</i>より前の記事があるため、上記のデータの一部は追加の推定データです。たとえば、書き込み時間は計算される場合があります。 「記事の最終更新時刻-記事の作成時刻」として、正確ではない可能性があります。参照用です！</string>
+  <string name="dailyExtraNote">* 注：この日の <i>毎日の統計</i>より前の文章があるため、上記のデータの一部は追加の推定データです。たとえば、書き込み時間は計算される場合があります。 「文章の最終更新時刻-文章の作成時刻」として、正確ではない可能性があります。参照用です！</string>
   <string name="currentBookAndItsWordCount">現在の本とその文字数</string>
   <string name="allBooksWordCount">すべての書籍の単語の総数</string>
   <string name="other">その他</string>
@@ -638,22 +655,22 @@
   <string name="noteDailyWidgetSetting"> Daily Statisticsページの上部にあるグリッドは、GitHubコントリビューションのスタイルでの書き込みのグラフです。グリッドカラーの場合、デフォルトの0ワードカウントレベルに加えて、グリッドカラーには4つのレベルがあり、そのうちのデフォルトの最大レベルは2000ワード以上です。この最大レベルのワードカウントをターゲットとして変更できます：</string>
   <string name="overview">概要</string>
   <string name="purchaseTime">購入時間</string>
-  <string name="ignoreBatteryOptimizationsTip">より安定したデスクトップ接続のためにバッテリーの最適化をオフにします（心配しないでください。PureWriterは多くの電力を消費しませんが、システムのバッテリーの最適化によってネットワーク接続が切断される可能性があります）</string>
+  <string name="ignoreBatteryOptimizationsTip">より安定したデスクトップ接続のためにバッテリーの最適化をオフにします（心配しないでください。純純執筆は多くの電力を消費しませんが、システムのバッテリーの最適化によってネットワーク接続が切断される可能性があります）</string>
   <string name="hideStatusBar">ステータスバーを非表示</string>
   <string name="hideStatusBarSummary">ホームエディタ画面でのみ有効になります</string>
   <string name="noNetworkPermission">ネットワーク許可なし</string>
-  <string name="noNetworkPermissionMessage">Pure Writerのネットワーク権限を無効にしました。これにより、PureWriterが接続できなくなります。 これにより、PureWriterがクラウドバックアップを実行できなくなります。PureWriterのネットワーク権限を付与してください。</string>
+  <string name="noNetworkPermissionMessage">純純執筆のネットワーク権限を無効にしました。これにより、純純執筆が接続できなくなります。 これにより、純純執筆がクラウドバックアップを実行できなくなります。純純執筆のネットワーク権限を付与してください。</string>
   <string name="tryChangingANiceBackgroundOrTheme">素敵な背景やテーマを変更してみませんか？</string>
   <string name="databaseDowngradeError">データベースのダウングレードエラー</string>
-  <string name="databaseDowngradeErrorMessage">Pure Writerは、PureWriterの新しいバージョンからデータベースファイルを回復または使用しました。 PureWriterの現在のバージョンはデータベースを処理できません。 この問題を解決するには、PureWriterを最新バージョンに更新してください。\n\n更新しないと、プログラムは正しく機能しません。制限するつもりはありませんが、現在の古いバージョンでは、データベースの新しいバージョンを技術的に処理できません。 それを解決するには、理解して最新バージョンに更新してください。\n\n最新バージョンを入手する：https：//t.me/s/PureWriter</string>
+  <string name="databaseDowngradeErrorMessage">純純執筆は、純純執筆の新しいバージョンからデータベースファイルを回復または使用しました。 純純執筆の現在のバージョンはデータベースを処理できません。 この問題を解決するには、純純執筆を最新バージョンに更新してください。\n\n更新しないと、プログラムは正しく機能しません。制限するつもりはありませんが、現在の古いバージョンでは、データベースの新しいバージョンを技術的に処理できません。 それを解決するには、理解して最新バージョンに更新してください。\n\n最新バージョンを入手する：https：//t.me/s/PureWriter</string>
   <string name="openFolder">開いたフォルダ</string>
   <string name="beforeBackupOverwritesLocal">バックアップがローカルを上書きする前</string>
   <string name="beforeBackupIsMergedIntoLocal">バックアップがローカルにマージされる前</string>
   <string name="updateABook">本を更新する</string>
   <string name="deleteABook">本を削除する</string>
   <string name="updateACategory">フォルダを更新する</string>
-  <string name="insertANewArticle">新しい記事を挿入する</string>
-  <string name="insertingOrUpdatingArticles">記事の挿入または更新…</string>
+  <string name="insertANewArticle">新しい文章を挿入する</string>
+  <string name="insertingOrUpdatingArticles">文章の挿入または更新…</string>
   <string name="summary">概要</string>
   <string name="cloudSync">クラウド同期</string>
   <string name="autoSwitchThemesAndNightMode">テーマとナイトモードの自動切り替え</string>
@@ -661,10 +678,10 @@
   <string name="remindMeNextTime">次回通知する</string>
   <string name="alwaysSyncGuideMessage">同期ボタンをクリックすると、同期が開始されます。この同期ボタンは、同期する必要があるときに自動的に表示されます。現在のコンテンツをクラウドストレージと同期するには、このボタンをクリックする必要があります。\n\n！️\nこのボタンは、で同期する必要のあるコンテンツを検出できない場合があります。初めて。すぐに同期する場合は、エディターの下部にある⊕ボタンをクリックすると、すぐに同期ボタンが表示され、すぐに同期をトリガーできます。</string>
   <string name="important">重要</string>
-  <string name="cloudSyncSummaryBasic">複数のデバイス間で記事などのデータを自動同期する</string>
+  <string name="cloudSyncSummaryBasic">複数のデバイス間で文章などのデータを自動同期する</string>
   <string name="thisDevice">このデバイス</string>
   <string name="otherSyncDevices">その他の同期デバイス</string>
-  <string name="cloudSyncReadme">"「クラウド同期」機能を有効にしようとしています。その前に、いくつかの注意事項を注意深く理解する必要があります。これはとても重要です。そうしないと、一部のテキストが失われる可能性があります。次の点に注意してください。\n\n* Pure Writerのクラウドバックアップとクラウド同期は完全に無料の機能です。以下の内容をよくお読みいただき、この機能を無料で提供しても、開発する価値があると感じていただくようお願いいたします。ご理解とご協力をよろしくお願いいたします。将来、多くの人が次のことを理解したくないと判断した場合、クラウド同期機能を放棄する可能性があります（‼️）。\n\n* 下の[OK]ボタンをクリックすると、次の内容に同意したことになります、およびPure Writerはすぐにクラウド同期を実行します。\n\n* 現在、クラウド同期用のクラウドストレージはクラウドバックアップストレージと同じです。\n\n*「クラウド同期モードオプション」で「手動」モードを選択した場合、同期が必要なコンテンツがある場合、エディタ下部に同期ボタンが表示されますので、毎回このボタンをクリックして同期する必要があります。\n\n* すべてのデバイスがPure Writer v20.0以降でインストールされ、同じクラウドバックアップストレージにログインしていることを確認する必要があります、これらのデバイスがコンテンツを相互に同期できるようにします。つまり、異なるデバイスのクラウドバックアップストレージが同じ1つのアカウントでない場合、これらのデバイスを相互に同期することはできません。\n\n* Pure Writerは自動的にクエリを実行します定期的に同期する必要があるコンテンツのクラウドストレージ。新しい変更がある場合は、エディターの下部に同期ボタンが表示され、ボタンをクリックして適切なタイミングで同期できます。通常、20秒ごと、またはWi-Fiネットワークがある場合は10秒ごとにチェックされます。このネットワークリクエストはトラフィックをほとんど消費しないため、心配する必要はありません。\n\n* 最も重要（‼️）：同期する前に、2つのデバイスで同じ記事を編集することはできません。そうしないと、後で編集したコンテンツが直接編集されます。以前のコンテンツを上書きすると、テキストの一部が失われます。 2つのデバイスで同じ記事を編集する必要がある場合、正しい方法は、一方のデバイスで記事を編集した後、同期ボタンをクリックしてコンテンツをクラウドストレージに同期し、同期後にもう一方のデバイスの同期ボタンをクリックすることです。このデバイスへのコンテンツの同期が完了しているため、このデバイスで最新の記事を編集できます。\n\n* 前のプロンプトの内容が理解できない場合は、クラウド同期を有効にしないことをお勧めします。機能しないと、一部のテキストが失われます！\n\n* Pure Writerは、各同期の前に、すべての元のデータを1回パッケージ化してバックアップします。 [バックアップ]ページの[バックアップの復元]をクリックすると、表示されます。\n\n* Pure Writerには「履歴」と「自動バックアップ」の機能があることを常に忘れないでください。\n\n* クラウド同期はMarkdownイメージをサポートしていません。 "</string>
+  <string name="cloudSyncReadme">"「クラウド同期」機能を有効にしようとしています。その前に、いくつかの注意事項を注意深く理解する必要があります。これはとても重要です。そうしないと、一部のテキストが失われる可能性があります。次の点に注意してください。\n\n* 純純執筆のクラウドバックアップとクラウド同期は完全に無料の機能です。以下の内容をよくお読みいただき、この機能を無料で提供しても、開発する価値があると感じていただくようお願いいたします。ご理解とご協力をよろしくお願いいたします。将来、多くの人が次のことを理解したくないと判断した場合、クラウド同期機能を放棄する可能性があります（‼️）。\n\n* 下の[OK]ボタンをクリックすると、次の内容に同意したことになります、および純純執筆はすぐにクラウド同期を実行します。\n\n* 現在、クラウド同期用のクラウドストレージはクラウドバックアップストレージと同じです。\n\n*「クラウド同期モードオプション」で「手動」モードを選択した場合、同期が必要なコンテンツがある場合、エディタ下部に同期ボタンが表示されますので、毎回このボタンをクリックして同期する必要があります。\n\n* すべてのデバイスが純純執筆 v20.0以降でインストールされ、同じクラウドバックアップストレージにログインしていることを確認する必要があります、これらのデバイスがコンテンツを相互に同期できるようにします。つまり、異なるデバイスのクラウドバックアップストレージが同じ1つのアカウントでない場合、これらのデバイスを相互に同期することはできません。\n\n* 純純執筆は自動的にクエリを実行します定期的に同期する必要があるコンテンツのクラウドストレージ。新しい変更がある場合は、エディターの下部に同期ボタンが表示され、ボタンをクリックして適切なタイミングで同期できます。通常、20秒ごと、またはWi-Fiネットワークがある場合は10秒ごとにチェックされます。このネットワークリクエストはトラフィックをほとんど消費しないため、心配する必要はありません。\n\n* 最も重要（‼️）：同期する前に、2つのデバイスで同じ文章を編集することはできません。そうしないと、後で編集したコンテンツが直接編集されます。以前のコンテンツを上書きすると、テキストの一部が失われます。 2つのデバイスで同じ文章を編集する必要がある場合、正しい方法は、一方のデバイスで文章を編集した後、同期ボタンをクリックしてコンテンツをクラウドストレージに同期し、同期後にもう一方のデバイスの同期ボタンをクリックすることです。このデバイスへのコンテンツの同期が完了しているため、このデバイスで最新の文章を編集できます。\n\n* 前のプロンプトの内容が理解できない場合は、クラウド同期を有効にしないことをお勧めします。機能しないと、一部のテキストが失われます！\n\n* 純純執筆は、各同期の前に、すべての元のデータを1回パッケージ化してバックアップします。 [バックアップ]ページの[バックアップの復元]をクリックすると、表示されます。\n\n* 純純執筆には「履歴」と「自動バックアップ」の機能があることを常に忘れないでください。\n\n* クラウド同期はMarkdownイメージをサポートしていません。 "</string>
   <string name="beforeSync">同期前</string>
   <string name="merging">マージ…</string>
   <string name="aboutCloudSync"><i>クラウド同期について</i></string>
@@ -674,19 +691,19 @@
   <string name="cloudSyncModeNames2">半自動：テキストが変更されてソフトキーボードが閉じられるたびに、同期が自動的に実行され、2つの自動同期の間隔は少なくとも6秒になります。</string>
   <string name="syncBeforeEditingToAvoidConflicts">競合を避けるために編集する前に同期する</string>
   <string name="okSyncIt">OK、同期します</string>
-  <string name="messageSyncBeforeEditingToAvoidConflicts">他のデバイスで現在の記事を変更しました。競合を避けるために、最初に同期してください。同期しないと、他のデバイスでの変更が破棄される可能性があります。</string>
+  <string name="messageSyncBeforeEditingToAvoidConflicts">他のデバイスで現在の文章を変更しました。競合を避けるために、最初に同期してください。同期しないと、他のデバイスでの変更が破棄される可能性があります。</string>
   <string name="tts">TTS（スペルミスを避けるためにコミットしたテキストを声に出して読んでください）</string>
   <string name="about7zChange">クラウドのバックアップと同期に関する重要なお知らせ</string>
-  <string name="readme7z">Pure Writer v20.6.0は、クラウドバックアップおよび同期ファイル（.pwb）形式を変更します。これにより、バックアップまたはクラウド同期ファイルのサイズを大幅に削減し、トラフィック消費を削減して、クラウドバックアップおよび同期プロセスを高速化できます。\n\nただし、これにより、他のデバイスでv20.6.0より前のバージョンのPure Writerを使用すると、最新のデータ形式を正しく解析できなくなり、クラウド同期が機能せず、クラウドバックアップも誤って報告します。 「<b>ファイルが破損しています</b>」。\n\nしたがって、<b>すべてのデバイスがv20.6.0以降のPure Writerを使用していることを確認する必要があります</b>。これは非常に重要です。覚えておいて、最新の状態に保ってください。 🙏</string>
-  <string name="ignoreBatteryOptimizationsTipForSync">バッテリーの最適化をオフにして、システムがアイドル状態のときにPureWriterが自動バックグラウンドCloudSyncを実行できるようにします（心配しないでください。バッテリー消費への影響は最小限です）。</string>
+  <string name="readme7z">純純執筆 v20.6.0は、クラウドバックアップおよび同期ファイル（.pwb）形式を変更します。これにより、バックアップまたはクラウド同期ファイルのサイズを大幅に削減し、トラフィック消費を削減して、クラウドバックアップおよび同期プロセスを高速化できます。\n\nただし、これにより、他のデバイスでv20.6.0より前のバージョンの純純執筆を使用すると、最新のデータ形式を正しく解析できなくなり、クラウド同期が機能せず、クラウドバックアップも誤って報告します。 「<b>ファイルが破損しています</b>」。\n\nしたがって、<b>すべてのデバイスがv20.6.0以降の純純執筆を使用していることを確認する必要があります</b>。これは非常に重要です。覚えておいて、最新の状態に保ってください。 🙏</string>
+  <string name="ignoreBatteryOptimizationsTipForSync">バッテリーの最適化をオフにして、システムがアイドル状態のときに純純執筆が自動バックグラウンドCloudSyncを実行できるようにします（心配しないでください。バッテリー消費への影響は最小限です）。</string>
   <string name="ttsMode">TTSモード（単語または文？）</string>
   <string name="ttsModeSentence"><b>文</b>を話す\n（他の言語の文をセグメント化する方法がわからないため、一部の言語のみがサポートされています！️）</string>
   <string name="ttsModeWord">入力した<b>単語</b>を話します</string>
-  <string name="readCurrentArticleAloud">現在の記事を声に出して読む</string>
+  <string name="readCurrentArticleAloud">現在の文章を声に出して読む</string>
   <string name="checkForUpdates">アップデートを確認</string>
   <string name="ttsEnabled">TTSが有効になっている</string>
   <string name="copilotSummary">有効にすると、AIはエディタでリアルタイムで執筆提案を行います。執筆プロセスで一時停止するたびに、AIはカーソルの後に続く執筆の提案を生成します。候補テキストをクリックして受け入れるか編集するか、無視して拒否するために入力を続けることができます。</string>
-  <string name="tipLargeText">現在の記事は長すぎるため、スムーズな執筆体験を継続するために段落間隔が一時的に無効になっています。</string>
+  <string name="tipLargeText">現在の文章は長すぎるため、スムーズな執筆体験を継続するために段落間隔が一時的に無効になっています。</string>
   <string name="pinShortcutDialogMessage">ブックをグループ化するために使用できる、このブックへのランチャーまたはデスクトップ ショートカットを作成します。\n\n⚠️ 注: 一部のシステムでは、デフォルトでショートカットの作成がサポートされていません。下の [設定] ボタンをクリックして [システム設定] 画面に移動し、[ホーム画面のショートカット] 権限を有効にしてから、この画面に戻って [OK] をクリックする必要があります。 ボタン。\n\n成功すると、ランチャーまたはデスクトップにショートカット アイコンが表示されます。</string>
   <string name="createPinShortcut">ショートカットを作成する</string>
   <string name="all">全て</string>
@@ -697,24 +714,24 @@
   <string name="tipNewTag">これがブックタグ🏷️️機能です。 書籍にタグを設定して上部に表示する必要がある場合は、書籍画面で書籍アイテムを長押しし、[書籍の編集] メニューを選択する必要があります。 ブックを作成または編集するためのダイアログで、ブックのタグを設定できます。</string>
   <string name="clickHereToSelectAnotherCloudStorageType">ここをクリックして、別のクラウド ストレージ タイプを選択します</string>
   <string name="aiSettings">AI、ChatGPT 設定</string>
-  <string name="aiEntrySummary">記事の完成、改良、磨き、ChatGPT</string>
+  <string name="aiEntrySummary">文章の完成、改良、磨き、ChatGPT</string>
   <string name="required">必須</string>
   <string name="openAiKeyGuideSummary">OpenAI API キーの生成と管理ページを開く</string>
   <string name="enableAiOnTimeMachine">Time Machine で AI(ChatGPT) を有効にする</string>
   <string name="enableAiOnEditorContextMenu">エディターのコンテキスト メニューで AI を有効にする</string>
   <string name="enableAiOnEditorContextMenuSummary">エディターを長押しすると、AI 補完機能を含むテキスト コンテキスト メニューが表示されます</string>
-  <string name="openAiReadme">現在、このサービスは OpenAI によって提供されています。 デフォルトでは有効になっておらず、有効にして OpenAI API キーを下に入力すると、サービスの提供が開始されます。\n\nAI サービスは Pure Writer によって直接提供されるサービスではないため、そのサービスには予測不可能性があります。 返信内容。 自分で判断して評価する必要があります。 Pure Writerは、AIによって生成されたコンテンツおよび問題について責任を負いません。 同意しない場合は、AI 機能を無効にしてください。 引き続き使用する場合は、この契約に同意することになります。\n\nさらに、国によっては OpenAI にアクセスできない場合があり、ネットワークの問題を自分で解決する必要があります。</string>
-  <string name="pureAiReadme">AI サービスは Pure Writer が直接提供するものではないため (私たちはそれをプロキシしているだけで、その背後のサービスも OpenAI です)、その応答内容には予測不能性があります。 自分で判断して評価する必要があります。 Pure Writerは、AIによって生成されたコンテンツおよび問題について責任を負いません。\n\n同意しない場合は、AI 機能を無効にしてください。 引き続き使用する場合は、次の契約に同意することになります。\n\n* AI サービスのコストが高いため、現在、すべての Pro ユーザーに対して、先着順で 1 日あたり合計 20,000 から 50,000 のリクエストしか提供していません。 状況に応じて、この制限を調整します。\n※皆様に安定したサービスをご提供できるよう最善を尽くしておりますが、やむを得ない事情により、本サービスを一時的に停止させていただく場合がございます。\n\nご理解いただきありがとうございます!</string>
+  <string name="openAiReadme">現在、このサービスは OpenAI によって提供されています。 デフォルトでは有効になっておらず、有効にして OpenAI API キーを下に入力すると、サービスの提供が開始されます。\n\nAI サービスは 純純執筆 によって直接提供されるサービスではないため、そのサービスには予測不可能性があります。 返信内容。 自分で判断して評価する必要があります。 純純執筆は、AIによって生成されたコンテンツおよび問題について責任を負いません。 同意しない場合は、AI 機能を無効にしてください。 引き続き使用する場合は、この契約に同意することになります。\n\nさらに、国によっては OpenAI にアクセスできない場合があり、ネットワークの問題を自分で解決する必要があります。</string>
+  <string name="pureAiReadme">AI サービスは 純純執筆 が直接提供するものではないため (私たちはそれをプロキシしているだけで、その背後のサービスも OpenAI です)、その応答内容には予測不能性があります。 自分で判断して評価する必要があります。 純純執筆は、AIによって生成されたコンテンツおよび問題について責任を負いません。\n\n同意しない場合は、AI 機能を無効にしてください。 引き続き使用する場合は、次の契約に同意することになります。\n\n* AI サービスのコストが高いため、現在、すべての Pro ユーザーに対して、先着順で 1 日あたり合計 20,000 から 50,000 のリクエストしか提供していません。 状況に応じて、この制限を調整します。\n※皆様に安定したサービスをご提供できるよう最善を尽くしておりますが、やむを得ない事情により、本サービスを一時的に停止させていただく場合がございます。\n\nご理解いただきありがとうございます!</string>
   <string name="aiProofread">AI校正</string>
   <string name="aiComplete">AI+</string>
   <string name="aiEnabledSummary">この AI 機能はデフォルトでは有効になっていません。明示的に開始してトリガーした場合にのみ機能します。 好みに合わない場合は、完全に無視してかまいません。 このサービスは OpenAI によって提供され、トレーニング済みのモデルとして、あなたのテキストはトレーニングに使用されることはありません。</string>
-  <string name="aiEntrySummary2">これは、OpenAI によって提供される事前トレーニング済みのモデルです。 あなたの記事が Pure Writer サーバーに保存されたことがないため、<b>あなたの記事をトレーニングに使用したことは一度もありません</b>。また、トレーニングに使用することもできませんのでご安心ください。 あなたの記事は、あなたのデバイスと設定したクラウド ストレージにのみ存在します。</string>
+  <string name="aiEntrySummary2">これは、OpenAI によって提供される事前トレーニング済みのモデルです。 あなたの文章が 純純執筆 サーバーに保存されたことがないため、<b>あなたの文章をトレーニングに使用したことは一度もありません</b>。また、トレーニングに使用することもできませんのでご安心ください。 あなたの文章は、あなたのデバイスと設定したクラウド ストレージにのみ存在します。</string>
   <string name="completelyDeleteAIFunctions">AI 関数を完全に削除</string>
   <string name="completelyDeleteAIFunctionsSummary">AIを受け入れられない人々がいることを考慮に入れて、この設定画面を含むAI機能を完全に削除するためのこのオプションが利用可能です。AIを一度削除すると、元に戻すことはできません。ご了承ください！</string>
-  <string name="thisRequiresPureWriterPro">これにはPure Writer Proが必要です</string>
-  <string name="noteForAiRequirePro">Pure Writer AIを有効にしましたが、Pure Writer Proメンバーシップを持っていないため、Pure Writer AIを使用できません。AI設定画面で無効にするか、Pure Writer Proメンバーシップを購入してください。</string>
+  <string name="thisRequiresPureWriterPro">これには純純執筆 Proが必要です</string>
+  <string name="noteForAiRequirePro">純純執筆 AIを有効にしましたが、純純執筆 Proメンバーシップを持っていないため、純純執筆 AIを使用できません。AI設定画面で無効にするか、純純執筆 Proメンバーシップを購入してください。</string>
   <string name="pureAi429Message">今日、すべてのユーザーによるAIサービスの使用総数が最大限に達したため、サービスが一時停止されました。明日もう一度お試しください。ご不便をおかけして申し訳ございませんが、この制限を徐々に解除していきます。</string>
-  <string name="pureAiService">Pure Writer Host AI</string>
+  <string name="pureAiService">純純執筆 Host AI</string>
   <string name="openAiService">OpenAI</string>
   <string name="openAiServiceSummary">無料ですが、独自のOpenAI APIキーを提供する必要があります。このサービスは通常、迅速に応答します。</string>
   <string name="pleaseEnableOneOfFollowingAiServiceMethods">次のAIサービスのいずれかを有効にしてください</string>
@@ -722,9 +739,9 @@
   <string name="notSupportForMD">この機能は現在、Markdownのコンテンツをサポートしていません、TXTモードで試してみてください!</string>
   <string name="multipleShortcutBarManagement">マルチラインショートカットバーの管理</string>
   <string name="hintForShortcutManagement">* 下のショートカット項目を長押しして編集または削除します。また、それをドラッグして異なるショートカットバー間で並べ替えることもできます。\n* エディタで有効にするためにショートカットバーをチェックします。最初のバーはデフォルトで、無効にすることはできません。\n* すべてのショートカットバーが不要な場合は、設定画面で全機能を無効にすることができます。</string>
-  <string name="tipResetMultiShortcutBars">Pure Writer Proをお持ちでないため、マルチラインショートカットバーが自動的にリセットされました。</string>
-  <string name="aboutChangelogDetail">多くの人々がPure Writerを開いて更新履歴を見ると、Pure Writerが自動的に更新を強制したと思い込むことがあります。しかし、実際には、Pure Writerが自動更新または自動アップグレードを行う能力は全くありません、ルート権限がある場合を除いては。自動更新を行うアプリは存在しません。\n\nなぜ更新されたのでしょうか？\n\nそれは、<b>Google Play app storeがあなたのためにそれを更新したから</b>です。\n\n一般的に、システムアプリストアはデフォルトで自動更新機能が有効になっています。これは抵抗できない外部の振る舞いです。もしこの振る舞いをPure Writerに帰せられ、アプリストアで私たちを「強制更新」と非難するなら、それは本当に申し訳ないことです。たとえ私たちがそれを変えて解決したくても、アプリストアはシステムレベルのアプリであり、非システムアプリである私たちは、システム制御から逃れる力がありません。\n\nご理解いただきたいのは、将来Pure Writerの更新を受け取りたくない場合は、Google Play app storeに行って「自動更新」をオフにすることができます。\n\n私たちが毎日継続的に開発を行い、新しいバージョンのPure Writerをアプリストアに提出するのは、純粋に責任感と善意からであり、ユーザーにより良い体験を提供するためだけです。もしあなたが「Pure Writerの強制更新」についてのコメントを理解し、修正してくれるなら、私たちは非常に感謝するでしょう！</string>
-  <string name="aiSuggestUserMessage">以下の記事の本文に基づいて、記事のタイトルを提案してください。\n\nタイトルを直接教えてください！\n例えば、あなたに与えた本文は: \"ABC...\"です。\nあなたは私に答えるべきです: 英語のアルファベット\n余分な言葉を持ってはいけません、例えば、あなたは私に答えるべきではありません: 提案されたタイトル: \"英語のアルファベット\"\nまた私に答えないでください: \"英語の文字\" - 引用符は不要です\n私はあなたの返答が直接タイトルの内容として必要です！\n\nさて、これが記事の本文です:</string>
+  <string name="tipResetMultiShortcutBars">純純執筆 Proをお持ちでないため、マルチラインショートカットバーが自動的にリセットされました。</string>
+  <string name="aboutChangelogDetail">多くの人々が純純執筆を開いて更新履歴を見ると、純純執筆が自動的に更新を強制したと思い込むことがあります。しかし、実際には、純純執筆が自動更新または自動アップグレードを行う能力は全くありません、ルート権限がある場合を除いては。自動更新を行うアプリは存在しません。\n\nなぜ更新されたのでしょうか？\n\nそれは、<b>Google Play app storeがあなたのためにそれを更新したから</b>です。\n\n一般的に、システムアプリストアはデフォルトで自動更新機能が有効になっています。これは抵抗できない外部の振る舞いです。もしこの振る舞いを純純執筆に帰せられ、アプリストアで私たちを「強制更新」と非難するなら、それは本当に申し訳ないことです。たとえ私たちがそれを変えて解決したくても、アプリストアはシステムレベルのアプリであり、非システムアプリである私たちは、システム制御から逃れる力がありません。\n\nご理解いただきたいのは、将来純純執筆の更新を受け取りたくない場合は、Google Play app storeに行って「自動更新」をオフにすることができます。\n\n私たちが毎日継続的に開発を行い、新しいバージョンの純純執筆をアプリストアに提出するのは、純粋に責任感と善意からであり、ユーザーにより良い体験を提供するためだけです。もしあなたが「純純執筆の強制更新」についてのコメントを理解し、修正してくれるなら、私たちは非常に感謝するでしょう！</string>
+  <string name="aiSuggestUserMessage">以下の文章の本文に基づいて、文章のタイトルを提案してください。\n\nタイトルを直接教えてください！\n例えば、あなたに与えた本文は: \"ABC...\"です。\nあなたは私に答えるべきです: 英語のアルファベット\n余分な言葉を持ってはいけません、例えば、あなたは私に答えるべきではありません: 提案されたタイトル: \"英語のアルファベット\"\nまた私に答えないでください: \"英語の文字\" - 引用符は不要です\n私はあなたの返答が直接タイトルの内容として必要です！\n\nさて、これが文章の本文です:</string>
   <string name="scrollToHideWordCount">スクロールして文字数を隠す</string>
   <string name="requiresAtLeast6Characters">最低6文字必要です</string>
   <string name="tipJianguoyunURL">次の三つの内容を入力してください</string>
@@ -733,7 +750,7 @@
   <string name="needCursorTip">続行する前にテキストをクリックしてカーソルを配置する必要があります</string>
   <string name="onlyWorkForHardwareKeyboard">ハードウェアキーボードのみ対応</string>
   <string name="scrollToHideFAB">エディタの右下にある浮かぶ⊕ボタンを隠すためにスクロールする</string>
-  <string name="moveArticlesOfDeletedFolderToTrash">削除されたフォルダ内の記事をゴミ箱に移動する</string>
+  <string name="moveArticlesOfDeletedFolderToTrash">削除されたフォルダ内の文章をゴミ箱に移動する</string>
   <string name="openTtsSetting">システム設定 - TTSを開く</string>
   <string name="titleSelectBooksToRestoreOrder">内部の章の順序を復元するために、本を選択してください</string>
   <string name="orLongPressToSelect">または、テキストを長押しして部分を選択し、コピーします</string>
