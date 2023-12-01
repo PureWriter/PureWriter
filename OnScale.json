@@ -1,18 +1,18 @@
 {
-  "key": "23.8.4",
+  "key": "23.11.11",
   "title": {
-    "default": "ON SALE for 6th Anniversary Celebration - Annual lowest price",
-    "zh": "🎈六周年庆祝特惠活动，年度最低价"
+    "default": "ON SALE for 11·11 - Annual lowest price",
+    "zh": "🏷️ 双十一特惠活动现已开始 - 年度最低价"
   },
   "message": {
-    "default": "In 2017, Pure Writer launched its first version on Google Play, starting a \"long-year project\". During these 6 years, we submitted a total of 10,000 updates, ranging from v1.0 to v24.2.1, in the latest version, we have implemented great functions such as Multi-line Shortcut Bar, Dynamic indentation & OneDrive support for CloudSync (Free).\n\nTherefore, during 2023.8.29 ~ 2023.9.30, for the 6th Anniversary Celebration, Pure Writer Pro (lifetime), originally priced at US$25(tax not included), is discounted to US$13.99(tax not included).",
-    "zh": "在「纯纯写作六周年 + 一万次更新里程碑」期间，纯纯写作 Pro（永久会员）现提供限时大幅降价优惠（年度最低价）！\n\n在纯纯写作 Pro 页面底部可查看最新优惠售价。"
+    "default": "During 2023.10.25 ~ 2023.11.12, for the 11·11 shopping festival, Pure Writer Pro (lifetime), originally priced at US$25(tax not included), is discounted to US$12.99(tax not included).",
+    "zh": "在 10.25 ~ 11.12 期间，纯纯写作 Pro（永久会员）现提供「双十一」限时大幅降价优惠（年度最低价）！\n\n在纯纯写作 Pro 页面底部可查看最新优惠售价。"
   },
-  "startTime": "2023-8-4",
-  "endTime": "2023-9-30",
-  "intervalDays": 6,
+  "startTime": "2023-10-4",
+  "endTime": "2023-11-30",
+  "intervalDays": 5,
   "keyDays": [
-    30, 1, 31, 2
+    11, 1, 10, 14
   ],
   "onlyAbroad": false,
   "version": 1
