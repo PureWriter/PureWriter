@@ -17,6 +17,6 @@
         31,
         6
     ],
-    "onlyAbroad": true,
+    "onlyAbroad": false,
     "version": 1
 }
