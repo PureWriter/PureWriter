@@ -593,7 +593,7 @@
   <string name="safeMode">Safe mode</string>
   <string name="summarySafeMode">When this App enters the background or recent task list page, the content of this App will be obscured or hidden; when this item is turned on, <b>screenshots in the App will also be prohibited</b>!</string>
   <string name="pressBackToClearCursor">Cursor is hidden and entered Read-only mode</string>
-  <string name="PureWriterManual">Pure Writer manual/help</string>
+  <string name="PureWriterManual">Pure Writer manual</string>
   <string name="cursorJoyTutorial">Press and hold the above shaking button, then move your finger to control cursor movement</string>
   <string name="tipBlueInputBox">Tip: After inputting, press the Enter key ⏎ to jump out of the blue input box</string>
   <string name="defaultShortcut1">\"\"</string>
@@ -922,4 +922,8 @@
   <string name="textColorForDarkTheme">Text color for <b>Dark</b> theme</string>
   <string name="dbCorruptTip">Your database file is corrupt, which is currently difficult to fix automatically. Please click OK to send your database file to the developer for manual repair.\n\nBefore that, please pause writing. We will help you repair and solve this matter with the highest priority. Sorry for the inconvenience!</string>
   <string name="databaseIsCorrupt">Database unexpectedly corrupted!</string>
+  <string name="theMostOpenedText">The most opened text</string>
+  <string name="recentlyOpenedText">Recently opened text</string>
+  <string name="yearInReview">Year in Review</string>
+  <string name="usePureWriterSince">Used Pure Writer for %2$d days since %1$s</string>
 </resources>

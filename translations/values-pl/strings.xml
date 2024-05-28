@@ -752,5 +752,9 @@
   <string name="hintForShortcutManagement">* Przytrzymaj element skrótu poniżej, aby go edytować lub usunąć. Możesz też przeciągnąć go, aby posortować go na różnych paskach skrótów.\n* Zaznacz pasek skrótów, aby włączyć go w edytorze. Pierwszy pasek jest domyślny i nie można go wyłączyć.\n* Jeśli nie potrzebujesz wszystkich pasków skrótów, możesz wyłączyć całą funkcję na ekranie Ustawień.</string>
   <string name="tipResetMultiShortcutBars">Ponieważ nie masz Pure Writer Pro, wieloliniowy pasek skrótów został automatycznie zresetowany.</string>
   <string name="aiSuggestUserMessage">Proszę o sugerowanie tytułu artykułu na podstawie treści następującego artykułu.\n\nProszę podać mi tytuł bezpośrednio!\nNa przykład, treść, którą ci dałem, to: \"ABC...\".\nPowinieneś mi odpowiedzieć: Alfabet angielski\nNie powinno być zbędnych słów, na przykład, nie powinieneś mi odpowiadać: Sugerowany tytuł: \"Alfabet angielski\"\nNie odpowiadaj mi również: \"Litery angielskie\" - cudzysłowy są niepotrzebne\nPotrzebuję twojej odpowiedzi, aby pozwolić mi bezpośrednio jako treść tytułu!\n\nNo dobrze, to jest treść artykułu:</string>
+  <string name="theMostOpenedText">Najczęściej otwierany tekst</string>
+  <string name="recentlyOpenedText">Ostatnio otwarty tekst</string>
+  <string name="usePureWriterSince">Używam Pure Writer od %2$d dni, począwszy od %1$s</string>
+  <string name="yearInReview">Podsumowanie roku</string>
 
 </resources>

@@ -722,5 +722,9 @@
   <string name="hintForShortcutManagement">* Halten Sie das untenstehende Shortcut-Element lange gedrückt, um es zu bearbeiten oder zu löschen. Sie können es auch ziehen, um es in verschiedenen Shortcut-Leisten zu sortieren.\n* Prüfen Sie die Shortcut-Leiste, um sie im Editor zu aktivieren. Die erste Leiste ist die Standardleiste und kann nicht deaktiviert werden.\n* Wenn Sie nicht alle Shortcut-Leisten benötigen, können Sie die gesamte Funktion auf dem Einstellungsbildschirm deaktivieren.</string>
   <string name="tipResetMultiShortcutBars">Da Sie kein Pure Writer Pro haben, wurde die mehrzeilige Shortcut-Leiste automatisch zurückgesetzt.</string>
   <string name="aiSuggestUserMessage">Bitte schlagen Sie mir einen Artikel Titel basierend auf dem Körper des folgenden Artikels vor.\n\nSagen Sie mir den Titel direkt!\nZum Beispiel, der Körper, den ich Ihnen gegeben habe, ist: \"ABC...\".\nSie sollten mir antworten: Englisches Alphabet\nHaben Sie keine überflüssigen Wörter, zum Beispiel, Sie sollten mir nicht antworten: Vorgeschlagener Titel: \"Englisches Alphabet\"\nAntworten Sie mir auch nicht: \"Englische Buchstaben\" - Anführungszeichen sind unnötig\nIch brauche Ihre Antwort, um mich direkt als Titelinhalt zu lassen!\n\nNun, das ist der Körper des Artikels:</string>
+  <string name="theMostOpenedText">Der am häufigsten geöffnete Text</string>
+  <string name="recentlyOpenedText">Kürzlich geöffneter Text</string>
+  <string name="usePureWriterSince">Pure Writer seit %1$s für %2$d Tage verwendet</string>
+  <string name="yearInReview">Jahresrückblick</string>
 
 </resources>

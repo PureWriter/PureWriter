@@ -724,5 +724,9 @@
   <string name="aiSuggestUserMessage">Per favore suggeriscimi un titolo di un articolo basato sul corpo del seguente articolo.\n\nDimmi il titolo direttamente!\nAd esempio, il corpo che ti ho dato è: \"ABC...\".\nDovresti rispondermi: Alfabeto inglese\nNon avere parole superflue, ad esempio, non dovresti rispondermi: Titolo suggerito: \"Alfabeto inglese\"\nNon rispondermi nemmeno: \"Lettere inglesi\" - le virgolette non sono necessarie\nHo bisogno della tua risposta per farmi direttamente come il contenuto del titolo!\n\nBene, questo è il corpo dell\'articolo:</string>
   <string name="dbCorruptTip">Il file del tuo database è danneggiato e al momento è difficile risolverlo automaticamente. Fare clic su OK per inviare il file del database allo sviluppatore per la riparazione manuale.\n\nPrima di ciò, metti in pausa la scrittura. Ti aiuteremo a riparare e risolvere questo problema con la massima priorità. Ci dispiace per l\'inconvenienza!</string>
   <string name="databaseIsCorrupt">Database inaspettatamente danneggiato!</string>
+  <string name="theMostOpenedText">Il testo più aperto</string>
+  <string name="recentlyOpenedText">Testo aperto di recente</string>
+  <string name="usePureWriterSince">Ho usato Pure Writer per %2$d giorni dal %1$s</string>
+  <string name="yearInReview">Riepilogo dell\'anno</string>
 
 </resources>

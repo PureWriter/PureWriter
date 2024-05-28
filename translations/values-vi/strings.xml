@@ -776,5 +776,9 @@
   <string name="hintForShortcutManagement">* Nhấn giữ vào mục lệnh tắt bên dưới để chỉnh sửa hoặc xóa nó. Bạn cũng có thể kéo nó để sắp xếp nó trên các thanh lệnh tắt khác nhau.\n* Kiểm tra thanh lệnh tắt để kích hoạt nó trong trình soạn thảo. Thanh đầu tiên là mặc định và không thể bị vô hiệu hóa.\n* Nếu bạn không cần tất cả các thanh lệnh tắt, bạn có thể vô hiệu hóa toàn bộ chức năng trên màn hình cài đặt.</string>
   <string name="tipResetMultiShortcutBars">Do bạn không có Pure Writer Pro, thanh lệnh tắt đa dòng đã được đặt lại tự động.</string>
   <string name="aiSuggestUserMessage">Vui lòng đề xuất cho tôi một tiêu đề bài viết dựa trên nội dung của bài viết sau.\n\nHãy nói cho tôi biết tiêu đề trực tiếp!\nVí dụ, nội dung mà tôi đã đưa cho bạn là: \"ABC...\".\nBạn nên trả lời tôi: Bảng chữ cái tiếng Anh\nĐừng có những từ thừa, ví dụ, bạn không nên trả lời tôi: Tiêu đề đề xuất: \"Bảng chữ cái tiếng Anh\"\nCũng đừng trả lời tôi: \"Các chữ cái tiếng Anh\" - dấu ngoặc kép không cần thiết\nTôi cần câu trả lời của bạn để cho phép tôi trực tiếp như nội dung tiêu đề!\n\nVâng, đây là nội dung của bài viết:</string>
+  <string name="theMostOpenedText">Văn bản được mở nhiều nhất</string>
+  <string name="recentlyOpenedText">Văn bản được mở gần đây</string>
+  <string name="usePureWriterSince">Đã sử dụng Pure Writer %2$d ngày kể từ %1$s</string>
+  <string name="yearInReview">Tổng kết năm</string>
 
 </resources>

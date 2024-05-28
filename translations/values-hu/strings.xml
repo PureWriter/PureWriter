@@ -741,5 +741,9 @@
   <string name="hintForShortcutManagement">* Hosszan nyomja meg a gyorsindító elemet lent, hogy szerkeszthesse vagy törölhesse. Húzhatja is a különböző gyorsindító sávok közötti rendezéshez.\n* Ellenőrizze a gyorsindító sávot, hogy bekapcsolja az szerkesztőben. Az első sáv az alapértelmezett és nem lehet letiltani.\n* Ha nem szükséges az összes gyorsindító sáv, akkor letilthatja az egész funkciót a beállítások képernyőn.</string>
   <string name="tipResetMultiShortcutBars">Mivel Önnek nincs Pure Writer Pro-ja, a többsoros gyorsindító sáv automatikusan visszaállt.</string>
   <string name="aiSuggestUserMessage">Kérjük, javasoljon egy cikk címet a következő cikk testének alapján.\n\nMondja meg nekem a címet közvetlenül!\nPéldául, a test, amit adtam önnek, az: \"ABC...\".\nVálaszolnia kell nekem: Angol ábécé\nNe legyenek felesleges szavak, például, nem kell válaszolnia nekem: Javasolt cím: \"Angol ábécé\"\nNe válaszoljon nekem: \"Angol betűk\" - az idézőjelek feleslegesek\nSzükségem van a válaszára, hogy közvetlenül a cím tartalmaként hagyjon engem!\n\nNos, ez a cikk teste:</string>
+  <string name="theMostOpenedText">A legtöbbször megnyitott szöveg</string>
+  <string name="recentlyOpenedText">Nemrégiben megnyitott szöveg</string>
+  <string name="usePureWriterSince">%1$s óta %2$d napja használom a Pure Writert</string>
+  <string name="yearInReview">Év Összegzése</string>
 
 </resources>

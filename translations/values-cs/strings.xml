@@ -755,4 +755,9 @@
   <string name="hintForShortcutManagement">* Dlouhým stiskem položky zkratky níže ji můžete upravit nebo smazat. Také ji můžete přetáhnout a seřadit v různých lištách se zkratkami.\n* Zaškrtnutím lišty se zkratkami ji aktivujete v editoru. První lišta je výchozí a nelze ji deaktivovat.\n* Pokud nepotřebujete všechny lišty se zkratkami, můžete tuto funkci deaktivovat v obrazovce nastavení.</string>
   <string name="tipResetMultiShortcutBars">Protože nemáte Pure Writer Pro, víceřádková lišta se zkratkami byla automaticky obnovena.</string>
   <string name="aiSuggestUserMessage">Navrhněte mi prosím název článku na základě těla následujícího článku.\n\nŘekněte mi název přímo!\nNapříklad, tělo, které jsem vám dal, je: \"ABC...\".\nMěli byste mi odpovědět: Anglická abeceda\nNemějte nadbytečná slova, například, neměli byste mi odpovídat: Navrhovaný název: \"Anglická abeceda\"\nTaké mi neodpovídejte: \"Anglické písmenky\" - uvozovky jsou zbytečné\nPotřebuji, abyste mi odpověděl přímo jako obsah názvu!\n\nDobře, toto je tělo článku:</string>
+  <string name="theMostOpenedText">Nejčastěji otevřený text</string>
+  <string name="recentlyOpenedText">Nedávno otevřený text</string>
+  <string name="usePureWriterSince">Používám Pure Writer již %2$d dní od %1$s</string>
+  <string name="yearInReview">Rok v recenzi</string>
+
 </resources>

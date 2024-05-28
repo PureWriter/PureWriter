@@ -3,6 +3,7 @@
   <string name="pureWriter">純純執筆</string>
   <string name="pureWriterPro">純純執筆 Pro</string>
   <string name="wordsShort">字</string>
+  <string name="untitled">&lt;無題&gt;</string>
   <string name="autoChapterNameTitle">自動的に追加または更新\n[第]*[章] プレフィックス</string>
   <string name="autoChapterNameMessagePart1">**この本**に「自動章名」機能を適用する予定です。その前に、考慮すべき事項について理解してください：\n\n* このオプションは、純純執筆の言語が**中国語**で、文章の並べ替えモードが**手動並べ替えモード**の場合のみ表示され、有効になります。他の言語では表示されず、有効になりません！\n* 最初に、**現在の本**の自動章節形式を設定します：</string>  <string name="about">关于 | ヘルプ</string>
   <string name="autoChapterNameMessagePart2">フォーマット結果の例：\n\n第一章\n第一章忘れずに楽しみましょう\n第一万零一章後ろのスペースが必要な場合は自身で設定してください\n\n* 異なる巻で「第一章」から再スタートする必要がある場合、チェックを入れてください：</string>
@@ -24,6 +25,7 @@
   <string name="undo">元に戻す</string>
   <string name="editorHintContent">本文</string>
   <string name="pureWriterI18n">純純執筆</string>
+  <string name="PureWriterManual">純純執筆説明書</string>
   <string name="titleHint">タイトル</string>
   <string name="share">別のアプリに共有する</string>
   <string name="copyTitle">タイトルをコピーする</string>
@@ -647,8 +649,8 @@
   <string name="second">秒</string>
   <string name="wordCountFull">文字数</string>
   <string name="speed">速度</string>
-  <string name="writingTimeAkaInputStatus">書き込み時間（入力ステータス）</string>
-  <string name="appInForegroundTime">フォアグラウンド時間のアプリ</string>
+  <string name="writingTimeAkaInputStatus">執筆時間（入力状態）</string>
+  <string name="appInForegroundTime">フォアグラウンドでの時間</string>
   <string name="writingStartTime">書き込み開始時刻</string>
   <string name="lastTime">前回</string>
   <string name="modifyWordCount4MaxLevel">文字数を最大レベルに変更</string>
@@ -762,4 +764,8 @@
   <string name="reportAI">報告する</string>
   <string name="notice">お知らせ</string>
   <string name="resend">再送信</string>
+  <string name="theMostOpenedText">最も開かれた文章</string>
+  <string name="recentlyOpenedText">最近開かれた文章</string>
+  <string name="yearInReview">年度の回顧</string>
+  <string name="usePureWriterSince">%1$s から %2$d 日間純純執筆を使用しています</string>
 </resources>

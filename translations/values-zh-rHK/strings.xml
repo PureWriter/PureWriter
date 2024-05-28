@@ -310,7 +310,7 @@
   <string name="changeAccount">更換帳號</string>
   <string name="scrollToHideTopBar">滾動以隱藏頂部列</string>
   <string name="doNotOperate">請不要在此過程中切換或修改文章！</string>
-  <string name="aboutBackup"><b>《使用者須知：關於備份》</b></string>
+  <string name="aboutBackup"><b>使用者須知：關於備份</b></string>
   <string name="backupReadme">純純寫作支持本地備份和雲備份，本地備份是自動進行的，當您重裝純純寫作後，<b>可通過備份來恢復所有文章和啟動狀態</b>。\n\n但是，純純寫作<b>默認不會自動進行雲備份</b>，若要啟用自動雲備份，<b>您需要設置雲備份賬號</b>，在 純純寫作 - 設置 - 備份 頁面可選擇雲備份類型和設置<b>雲備份賬號</b>。\n\n純純寫作雲備份支持 阿里雲盤、堅果云網盤、OneDrive、Dropbox、GoogleDrive 網盤等。\n\n<b>雲備份非常重要，若您不設置雲備份，則萬一手機丟了、壞了、刷機雙清、恢復出廠設置，都將失去您所有寶貴的創作內容！請務必設置雲備份，萬無一失。</b></string>
   <string name="lineSpacing">行間距</string>
   <string name="tipParagraphSpacingInMD">Markdown 模式下不會啟用段落間距</string>
@@ -534,7 +534,7 @@
   <string name="safeMode">安全模式</string>
   <string name="summarySafeMode">當純純寫作進入後台或最近任務列表頁面，模糊化其頁面內容；開啟此項後將同時<b>禁止在應用內截圖</b>！</string>
   <string name="pressBackToClearCursor">已隱藏光標並進入只讀模式</string>
-  <string name="PureWriterManual">《純純寫作使用手冊》</string>
+  <string name="PureWriterManual">純純寫作使用手冊</string>
   <string name="tipBlueInputBox">提示：輸入完成後，按回車鍵 ⏎ 可跳出藍色的填充框</string>
   <string name="defaultShortcut2">「」</string>
   <string name="defaultShortcut1">『』</string>
@@ -695,7 +695,7 @@
   <string name="second">秒</string>
   <string name="wordCountFull">字數</string>
   <string name="speed">速度</string>
-  <string name="writingTimeAkaInputStatus">寫作時間(輸入狀態)</string>
+  <string name="writingTimeAkaInputStatus">寫作時間（輸入狀態）</string>
   <string name="appInForegroundTime">應用處於前台時間</string>
   <string name="writingStartTime">寫作起始時間</string>
   <string name="lastTime">最後時間</string>
@@ -711,7 +711,7 @@
   <string name="noNetworkPermissionMessage">您禁止了純純寫作的聯網權限，導致它無法連接，這將導致您無法登錄純純寫作賬號，並且無法進行雲備份，請授予純純寫作網絡權限！</string>
   <string name="hideWordCountOnTM">隱藏在時光機底欄上的字數統計按鈕</string>
   <string name="tryChangingANiceBackgroundOrTheme">試試更改一個美妙的背景或主題？ </string>
-  <string name="databaseDowngradeErrorMessage">您的純純寫作恢復或使用了一個來自更高版本純純寫作的資料庫文件，當前版本的純純寫作無法處理該資料庫，請更新純純寫作到最新版即可解決此問題。\n\n如果不更新，則程序無法正常使用，這並非我們有意想限制您，而是當前舊版在技術上就是無法處理新版的資料庫。請您理解並更新到最新版即可解決。\n\n下載最新版：\nhttps://www.coolapk.com/apk/com.drakeet.purewriter\n或者 https://t.me/s/PureWriter</string>
+  <string name="databaseDowngradeErrorMessage">您的純純寫作恢復或使用了一個來自更高版本純純寫作的資料庫文件，當前版本的純純寫作無法處理該資料庫，請更新純純寫作到最新版即可解決此問題。\n\n如果不更新，則程序無法正常使用，這並非我們有意想限制您，而是當前舊版在技術上就是無法處理新版的資料庫。請您理解並更新到最新版即可解決。\n\n下載最新版：\nhttps://a.app.qq.com/o/simple.jsp?pkgname=com.drakeet.purewriter\n或者 https://t.me/s/PureWriter</string>
   <string name="databaseDowngradeError">資料庫降級錯誤</string>
   <string name="forcedPortrait">強制豎屏</string>
   <string name="forcedPortraitSummary">無論您是否打開自動旋轉，此應用程序都將使用縱向模式。 </string>
@@ -745,7 +745,7 @@
   <string name="cloudSyncReadme">您即將啟用「雲同步」功能，在此之前，您需要仔細了解一些注意事項，這非常重要，否則可能會導致您丟失部分文本，請您知悉：\n\n* 純純寫作的雲備份和雲同步都是完全免費的功能，我們懇請大家仔細閱讀下面內容，這樣即使免費提供這個功能我們也會覺得開發這些功能是值得的，感謝您的理解與配合！<b>如果日後發現許多人不願理解以下內容，我們可能會放棄雲同步功能</b>(‼️)。\n\n* 您如果點擊下方的「OK」按鈕，表示您同意以下內容，純純寫作會立即進行一次雲同步。\n\n* 目前雲同步的雲端網路硬碟與您的雲備份網路硬碟是同一個。\n\n* 如果您在「雲同步模式選項」中選擇了「手動」模式，那麼當存在需要同步的內容時，在編輯器底部會出現一個同步按鈕，您需要每次點擊該按鈕才能將當前內容與雲端網路硬碟中的最新內容進行同步。\n\n* 您需要確保所有設備都安裝了純純寫作 v20.0 或以上版本，並且都登錄了同一個雲備份網路硬碟，這些設備才能相互同步內容，也就是說，如果不同設備上的雲備份網路硬碟不是同一個帳號，那麼這些設備是無法相互同步的。\n\n* 純純寫作會每隔一段時間自動查詢雲端硬碟中是否有需要同步的內容，如果有，則會在編輯器底部顯示同步按鈕，您可以適時點擊該按鈕進行同步。對於堅果雲端硬碟，每隔 30 秒進行一次。對於 Dropbox 和 Google Drive 每隔 6 秒或 4 秒，當有 Wi-Fi 網絡時是 4 秒。這個網絡請求耗費流量極少，您不需要擔心。\n\n* 最重要的(‼️)：進行同步之前，您不可以在兩個設備上編輯同一篇文章，否則較後修改的內容會直接覆蓋較前的內容，這會導致您丟失部分文本。如果您需要在兩個設備上編輯同一篇文章，正確的做法是，在一個設備上編輯文章後，點擊同步按鈕將內容同步到雲端硬碟，待同步完成後，再於另一個設備上點擊同步按鈕將雲端硬碟內容同步到這個設備，這樣以後您就可以在這個設備上編輯最新的文章了。\n\n* 如果您無法理解上一條在說甚麼，建議您不要啟用雲同步功能，否則會導致丟失部分文本！\n\n* 純純寫作在每次同步之前，都會將您原來的所有數據打包備份一次，您可以在備份頁面點擊「恢復備份」看到它。\n\n* 永遠記得純純寫作有「歷史記錄」和「自動備份」功能。\n\n* 雲同步不支持 Markdown 圖片。</string>
   <string name="cloudSync">云同步</string>
   <string name="backupAndSyncSuccessful">備份並同步成功</string>
-  <string name="aboutCloudSync">《關於云同步》</string>
+  <string name="aboutCloudSync">關於云同步</string>
   <string name="syncCategoryTip">需要登錄上面的雲存儲賬號才能開啟下面的云同步選項</string>
   <string name="cloudSyncModeNames1">手動：每次需要同步時，手動點擊編輯器底部的同步按鈕。此模式適用於有流量和請求頻次限制的雲端儲存空間，比如堅果雲。\n</string>
   <string name="cloudSyncModeNames2">半自動：每次有文字變更且收起軟鍵盤時，自動進行同步，兩次自動同步間隔時間將最少為 6 秒。</string>
@@ -860,6 +860,11 @@
   <string name="tipForFindAutoChapterMenu">在此列表的右上角菜單⁝中\n可選擇「自動章節名」</string>
   <string name="textColorForLightTheme"><b>亮色</b>主題下的字體顏色</string>
   <string name="textColorForDarkTheme"><b>暗色</b>主題下的字體顏色</string>
-  <string name="dbCorruptTip">您的資料庫文件發生損壞，這目前難以自動化修復，請點擊 OK 以發送您的資料庫文件給開發者為您人工修復它。\n\n在此之前，請暫停寫作，我們會以最高優先級幫助您修復和解決此事，給您帶來麻煩深表抱歉！</string>
+  <string name="dbCorruptTip">您的資料庫文件發生損壞，這目前難以自動化修復，請點擊「确定」以發送您的資料庫文件給開發者為您人工修復它。\n\n在此之前，請暫停寫作，我們會以最高優先級幫助您修復和解決此事，給您帶來麻煩深表抱歉！</string>
   <string name="databaseIsCorrupt">資料庫意外損壞</string>
+  <string name="theMostOpenedText">最常打開的文章</string>
+  <string name="recentlyOpenedText">最近打開的文章</string>
+  <string name="usePureWriterSince">從 %1$s 開始，共使用純純寫作 %2$d 天</string>
+  <string name="yearInReview">年度回顧</string>
+
 </resources>

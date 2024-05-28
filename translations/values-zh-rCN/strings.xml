@@ -311,7 +311,7 @@
   <string name="changeAccount">更换帐号</string>
   <string name="scrollToHideTopBar">滚动以隐藏顶栏</string>
   <string name="doNotOperate">请不要在此过程中切换或修改文章！</string>
-  <string name="aboutBackup"><b>《用户须知：关于备份》</b> - 已支持<b>阿里云盘</b>，非常容易</string>
+  <string name="aboutBackup"><b>用户须知：关于备份</b> - 已支持<b>阿里云盘</b></string>
   <string name="backupReadme">纯纯写作支持本地备份和云备份，本地备份是自动进行的，当您重装纯纯写作后，可通过备份来恢复<b>所有文章和激活状态</b>。\n\n但是，纯纯写作<b>默认不会自动进行云备份</b>，若要启用自动云备份，<b>您需要设置云备份账号</b>，在 纯纯写作 - 设置 - 备份 页面可选择云备份类型和设置<b>云备份账号</b>。\n\n纯纯写作云备份支持 阿里云盘、坚果云网盘、OneDrive、Dropbox 网盘等。\n\n<b>云备份非常重要，若您不设置云备份，则万一手机丢了、坏了、刷机双清、恢复出厂设置，都将失去您所有宝贵的创作内容！请务必设置云备份，万无一失。</b></string>
   <string name="lineSpacing">行间距</string>
   <string name="tipParagraphSpacingInMD">Markdown 模式下不会启用段落间距</string>
@@ -538,7 +538,7 @@
   <string name="safeMode">安全模式</string>
   <string name="summarySafeMode">当纯纯写作进入后台或最近任务列表页面，模糊化其页面内容；开启此项后将同时<b>禁止在应用内截图</b>！</string>
   <string name="pressBackToClearCursor">已隐藏光标并进入只读模式</string>
-  <string name="PureWriterManual">《纯纯写作使用手册》</string>
+  <string name="PureWriterManual">纯纯写作使用手册</string>
   <string name="cursorJoyTutorial">按住这个摇晃的按钮并移动手指，即可控制光标移动</string>
   <string name="tipBlueInputBox">提示：输入完成后，按回车键 ⏎ 可跳出蓝色的填充框</string>
   <string name="defaultShortcut1">“”</string>
@@ -693,7 +693,7 @@
   <string name="second">秒</string>
   <string name="wordCountFull">字数</string>
   <string name="speed">速度</string>
-  <string name="writingTimeAkaInputStatus">写作时间(输入状态)</string>
+  <string name="writingTimeAkaInputStatus">写作时间（输入状态）</string>
   <string name="appInForegroundTime">应用处于前台时间</string>
   <string name="writingStartTime">写作起始时间</string>
   <string name="lastTime">最后时间</string>
@@ -712,7 +712,7 @@
   <string name="noNetworkPermissionMessage">您禁止了纯纯写作的联网权限，导致它无法连接，这将导致您无法登录纯纯写作账号，并且无法进行云备份，请授予纯纯写作网络权限！</string>
   <string name="hideWordCountOnTM">隐藏在时光机底栏上的字数统计按钮</string>
   <string name="tryChangingANiceBackgroundOrTheme">试试更改一个美妙的背景或主题？</string>
-  <string name="databaseDowngradeErrorMessage">您的纯纯写作恢复或使用了一个来自更高版本纯纯写作的数据库文件，当前版本的纯纯写作无法处理该数据库，请更新纯纯写作到最新版即可解决此问题。\n\n如果不更新，则程序无法正常使用，这并非我们有意想限制您，而是当前旧版在技术上就是无法处理新版的数据库。请您理解并更新到最新版即可解决。\n\n下载最新版：\nhttps://www.coolapk.com/apk/com.drakeet.purewriter</string>
+  <string name="databaseDowngradeErrorMessage">您的纯纯写作恢复或使用了一个来自更高版本纯纯写作的数据库文件，当前版本的纯纯写作无法处理该数据库，请更新纯纯写作到最新版即可解决此问题。\n\n如果不更新，则程序无法正常使用，这并非我们有意想限制您，而是当前旧版在技术上就是无法处理新版的数据库。请您理解并更新到最新版即可解决。\n\n下载最新版：\nhttps://a.app.qq.com/o/simple.jsp?pkgname=com.drakeet.purewriter</string>
   <string name="databaseDowngradeError">数据库降级错误</string>
   <string name="forcedPortrait">强制竖屏</string>
   <string name="forcedPortraitSummary">无论您是否打开自动旋转，此应用程序都将使用纵向模式。</string>
@@ -742,7 +742,7 @@
   <string name="otherSyncDevices">其他同步设备</string>
   <string name="cloudSyncReadme">您即将启用「云同步」功能，在此之前，您需要仔细了解一些注意事项，这非常重要，否则可能会导致您丢失部分文本，请您知悉：\n\n* 纯纯写作的云备份和云同步都是完全免费的功能，我们恳请大家仔细阅读下面内容，这样即使免费提供这个功能我们也会觉得开发这些功能是值得的，感谢您的理解与配合！<b>如果日后发现许多人不愿理解以下内容，我们可能会放弃云同步功能</b>(‼️)。\n\n* 您如果点击下方的「OK」按钮，表示您同意以下内容，纯纯写作会立即进行一次云同步。\n\n* 目前云同步的云端网盘与您的云备份网盘是同一个。\n\n* 如果您在「云同步模式选项」中选择了「手动」模式，那么当存在需要同步的内容时，在编辑器底部会出现一个同步按钮，您需要每次点击该按钮才能将当前内容与云端网盘中的最新内容进行同步。\n\n* 您需要确保所有设备都安装了纯纯写作 v20.0 或以上版本，并且都登录了同一个云备份网盘，这些设备才能相互同步内容，也就是说，如果不同设备上的云备份网盘不是同一个帐号，那么这些设备是无法相互同步的。\n\n* 纯纯写作会每隔一段时间自动查询云盘中是否有需要同步的内容，如果有，则会在编辑器底部显示同步按钮，您可以适时点击该按钮进行同步。对于坚果云网盘，每隔 30 秒进行一次。对于 Dropbox 和 Google Drive 每隔 20 秒或 10 秒，当有 Wi-Fi 网络时是 10 秒。这个网络请求耗费流量极少，您不需要担心。\n\n* 最重要的(‼️)：进行同步之前，您不可以在两个设备上编辑同一篇文章，否则较后修改的内容会直接覆盖较前的内容，这会导致您丢失部分文本。如果您需要在两个设备上编辑同一篇文章，正确的做法是，在一个设备上编辑文章后，点击同步按钮将内容同步到云盘，待同步完成后，再于另一个设备上点击同步按钮将云盘内容同步到这个设备，这样以后您就可以在这个设备上编辑最新的文章了。\n\n* 如果您无法理解上一条在说什么，建议您不要启用云同步功能，否则会导致丢失部分文本！\n\n* 纯纯写作在每次同步之前，都会将您原来的所有数据打包备份一次，您可以在备份页面点击「恢复备份」看到它。\n\n* 永远记得纯纯写作有「历史记录」和「自动备份」功能。\n\n* 云同步不支持 Markdown 图片。</string>
   <string name="backupAndSyncSuccessful">备份并同步成功</string>
-  <string name="aboutCloudSync">《关于云同步》</string>
+  <string name="aboutCloudSync">关于云同步</string>
   <string name="syncCategoryTip">需要在上方登录云盘帐号才能启用下方的云同步选项</string>
   <string name="cloudSyncModeNames1">手动：每次需要同步时，手动点击编辑器底部的同步按钮。此模式适用于有流量和请求频次限制的云盘，比如坚果云。\n</string>
   <string name="cloudSyncModeNames2">半自动：每次有文本变更且收起软键盘时，自动进行同步，两次自动同步间隔时间将最少为 6 秒。</string>
@@ -772,7 +772,7 @@
   <string name="orLongPressToSelect">或长按文本可选择和复制其中的部分内容，对此，请记得复制好后点击底部的「取消」而非「确定」</string>
   <string name="messageAskPostNotification">授予通知权限用于显示「自动备份」状态？</string>
   <string name="needUpdate">需要更新</string>
-  <string name="messageNeedForcedUpdate">由于当前版本 HTTPS 证书过期，导致 Android 系统无法为纯纯写作提供安全的网络请求，您的网络请求可能被中间人拦截，因此您需要更新到新版才能继续安全地使用纯纯写作。\n\nhttps://www.coolapk.com/apk/com.drakeet.purewriter</string>
+  <string name="messageNeedForcedUpdate">由于当前版本 HTTPS 证书过期，导致 Android 系统无法为纯纯写作提供安全的网络请求，您的网络请求可能被中间人拦截，因此您需要更新到新版才能继续安全地使用纯纯写作。\n\nhttps://a.app.qq.com/o/simple.jsp?pkgname=com.drakeet.purewriter</string>
   <string name="showShareTextMenuItemAfterSelectingText">在选择文本后显示分享文本菜单项</string>
   <string name="extKeyboardTip">横屏时提示使用外接键盘</string>
   <string name="tipLargeText">当前文章长度超长，已帮您临时禁用段间距以继续获得流畅写作体验。</string>
@@ -862,6 +862,10 @@
   <string name="tipForFindAutoChapterMenu">在此列表的右上角菜单⁝中\n可选择「自动章节名」</string>
   <string name="textColorForLightTheme"><b>亮色</b>主题下的字体颜色</string>
   <string name="textColorForDarkTheme"><b>暗色</b>主题下的字体颜色</string>
-  <string name="dbCorruptTip">您的数据库文件发生损坏，这目前难以自动化修复，请点击 OK 以发送您的数据库文件给开发者为您人工修复它。\n\n在此之前，请暂停写作，我们会以最高优先级帮助您修复和解决此事，给您带来麻烦深表抱歉！</string>
+  <string name="dbCorruptTip">您的数据库文件发生损坏，这目前难以自动化修复，请点击「确定」以发送您的数据库文件给开发者为您人工修复它。\n\n在此之前，请暂停写作，我们会以最高优先级帮助您修复和解决此事，给您带来麻烦深表抱歉！</string>
   <string name="databaseIsCorrupt">数据库意外损坏</string>
+  <string name="theMostOpenedText">最常打开的文章</string>
+  <string name="recentlyOpenedText">最近打开的文章</string>
+  <string name="usePureWriterSince">从 %1$s 开始，共使用纯纯写作 %2$d 天</string>
+  <string name="yearInReview">年度回顾</string>
 </resources>

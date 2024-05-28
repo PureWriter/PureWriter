@@ -764,5 +764,9 @@
   <string name="hintForShortcutManagement">* Pitkä painallus pikavalintaesineeseen alla muokkaa tai poistaa sen. Voit myös vetää sitä lajitellaksesi sen eri pikavalintapalkeissa.\n* Tarkista pikavalintapalkki ottaaksesi sen käyttöön editorissa. Ensimmäinen palkki on oletus ja sitä ei voi poistaa käytöstä.\n* Jos et tarvitse kaikkia pikavalintapalkkeja, voit poistaa koko toiminnon käytöstä Asetukset-näytössä.</string>
   <string name="tipResetMultiShortcutBars">Koska sinulla ei ole Pure Writer Pro:ta, monirivinen pikavalintapalkki on palautettu automaattisesti.</string>
   <string name="aiSuggestUserMessage">Ehdota minulle artikkelin otsikkoa seuraavan artikkelin rungon perusteella.\n\nKerro minulle otsikko suoraan!\nEsimerkiksi, runko jonka annoin sinulle on: \"ABC...\".\nSinun pitäisi vastata minulle: Englantilainen aakkosto\nÄlä käytä tarpeettomia sanoja, esimerkiksi, sinun ei pitäisi vastata minulle: Ehdotettu otsikko: \"Englantilainen aakkosto\"\nÄlä vastaa minulle myöskään: \"Englantilaiset kirjaimet\" - lainausmerkit ovat tarpeettomia\nTarvitsen vastauksesi suoraan otsikon sisältöön!\n\nNo, tämä on artikkelin runko:</string>
+  <string name="theMostOpenedText">Eniten avattu teksti</string>
+  <string name="recentlyOpenedText">Äskettäin avattu teksti</string>
+  <string name="usePureWriterSince">Käyttänyt Pure Writeria %2$d päivää lähtien %1$s</string>
+  <string name="yearInReview">Vuoden katsaus</string>
 
 </resources>

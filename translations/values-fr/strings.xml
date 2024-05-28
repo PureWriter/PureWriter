@@ -336,6 +336,7 @@
   <string name="transparentNavigationBar">Barre de navigation transparente</string>
   <string name="transparentNavigationBarWarning">Il s\'agit d\'une caractéristique expérimentale. Lorsque celle-ci est activée, il se peut que la hauteur du clavier programmable ne soit pas ajustée correctement, ce qui peut entraîner la disparation de la barre de raccourcis et la perte de mise au point du texte. Si vous rencontrez ces problèmes, désactivez cette option.</string>
   <string name="titleAsAWordForACountSummary">Lorsque cet élément est activé, le mode de comptage de mots suivant est désactivé. Si vous voulez utiliser les options du mode comptage de mots, désactivez cette option.</string>
+  <string name="titleAsAWordForACountSummary2">Prendre un mot comme un comptage</string>
   <string name="customFont">Police personnalisée</string>
   <string name="customFontTip">Placez le fichier de la police (uniquement en .ttf / .otf) dans le stockage externe, dans le répertoire <b>/Documents/PureWriter/App</b> et rédémarrez Pure Writer pour appliquer la nouvelle police automatiquement. \nNote: il ne peut y avoir qu\'un seul fichier de police dans le répertoire. Quelques polices (comme Google Sans) peuvent causer le décalage du curseur par rapport au texte, sachez-le!</string>
   <string name="corruptBackupTip">Le fichier de sauvegarde est corrompu! Essayez de restaurer d\'autres sauvegardes et choisissez la bonne taille et la bonne heure de sauvegarde!</string>
@@ -758,5 +759,9 @@
   <string name="hintForShortcutManagement">* Appuyez longuement sur l\'élément de raccourci ci-dessous pour l\'éditer ou le supprimer. Vous pouvez également le faire glisser pour le trier à travers différentes barres de raccourcis.\n* Cochez la barre de raccourcis pour l\'activer dans l\'éditeur. La première barre est celle par défaut et ne peut être désactivée.\n* Si vous n\'avez pas besoin de toutes les barres de raccourcis, vous pouvez désactiver toute la fonction dans l\'écran des paramètres.</string>
   <string name="tipResetMultiShortcutBars">Comme vous n\'avez pas Pure Writer Pro, la barre de raccourcis multi-lignes a été réinitialisée automatiquement.</string>
   <string name="aiSuggestUserMessage">Veuillez me suggérer un titre d\'article en fonction du corps de l\'article suivant.\n\nDites-moi le titre directement!\nPar exemple, le corps que je vous ai donné est: \"ABC...\".\nVous devriez me répondre: Alphabet anglais\nN\'ayez pas de mots superflus, par exemple, vous ne devriez pas me répondre: Titre suggéré: \"Alphabet anglais\"\nNe me répondez pas non plus: \"Lettres anglaises\" - les guillemets sont inutiles\nJ\'ai besoin de votre réponse pour me permettre directement en tant que contenu du titre!\n\nEh bien, voici le corps de l\'article:</string>
+  <string name="theMostOpenedText">Le texte le plus ouvert</string>
+  <string name="recentlyOpenedText">Texte récemment ouvert</string>
+  <string name="usePureWriterSince">Utilisé Pure Writer pendant %2$d jours depuis le %1$s</string>
+  <string name="yearInReview">Bilan de l\'année</string>
 
 </resources>

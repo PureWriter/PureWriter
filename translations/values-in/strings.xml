@@ -719,5 +719,9 @@
   <string name="aiSuggestUserMessage">Silakan sarankan judul artikel berdasarkan isi artikel berikut.\n\nBeritahu saya judulnya secara langsung!\nMisalnya, isi yang saya berikan kepada Anda adalah: \"ABC...\".\nAnda harus menjawab saya: Abjad Inggris\nJangan memiliki kata-kata yang berlebihan, misalnya, Anda tidak harus menjawab saya: Judul yang disarankan: \"Abjad Inggris\"\nJuga jangan menjawab saya: \"Huruf Inggris\" - tanda kutip tidak perlu\nSaya butuh jawaban Anda untuk membiarkan saya langsung sebagai konten judul!\n\nBaiklah, ini adalah isi artikelnya:</string>
   <string name="dbCorruptTip">File database Anda rusak, yang saat ini sulit diperbaiki secara otomatis. Silakan klik OK untuk mengirim file database Anda ke pengembang untuk perbaikan manual.\n\nSebelum itu, harap jeda menulis. Kami akan membantu Anda memperbaiki dan menyelesaikan masalah ini dengan prioritas tertinggi. Maaf untuk ketidaknyamanannya!</string>
   <string name="databaseIsCorrupt">Basis data tiba-tiba rusak!</string>
+  <string name="theMostOpenedText">Teks yang paling sering dibuka</string>
+  <string name="recentlyOpenedText">Teks yang baru-baru ini dibuka</string>
+  <string name="usePureWriterSince">Menggunakan Pure Writer selama %2$d hari sejak %1$s</string>
+  <string name="yearInReview">Tinjauan Tahunan</string>
 
 </resources>

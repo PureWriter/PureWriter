@@ -750,5 +750,9 @@
   <string name="hintForShortcutManagement">* Apăsați lung pe elementul de comandă rapidă de mai jos pentru a-l edita sau șterge. De asemenea, îl puteți trage pentru a-l sorta în diferite bare de comenzi rapide.\n* Verificați bara de comenzi rapide pentru a o activa în editor. Prima bară este cea implicită și nu poate fi dezactivată.\n* Dacă nu aveți nevoie de toate barele de comenzi rapide, puteți dezactiva întreaga funcție pe ecranul Setări.</string>
   <string name="tipResetMultiShortcutBars">Deoarece nu aveți Pure Writer Pro, bara de comenzi rapide multi-linie a fost resetată automat.</string>
   <string name="aiSuggestUserMessage">Vă rugăm să îmi sugerați un titlu de articol bazat pe corpul următorului articol.\n\nSpuneți-mi titlul direct!\nDe exemplu, corpul pe care vi l-am dat este: \"ABC...\".\nAr trebui să îmi răspundeți: Alfabetul englez\nNu aveți cuvinte redundante, de exemplu, nu ar trebui să îmi răspundeți: Titlul sugerat: \"Alfabetul englez\"\nNu îmi răspundeți nici: \"Literele engleze\" - ghilimelele sunt inutile\nAm nevoie de răspunsul dumneavoastră pentru a mă lăsa direct ca și conținutul titlului!\n\nEi bine, acesta este corpul articolului:</string>
+  <string name="theMostOpenedText">Cel mai deschis text</string>
+  <string name="recentlyOpenedText">Text deschis recent</string>
+  <string name="usePureWriterSince">Am folosit Pure Writer timp de %2$d zile de la %1$s</string>
+  <string name="yearInReview">Rezumatul Anului</string>
 
 </resources>

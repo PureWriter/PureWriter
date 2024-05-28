@@ -755,5 +755,9 @@
   <string name="hintForShortcutManagement">* Ilgstoši nospiediet uz saīsnes vienības zemāk, lai to rediģētu vai dzēstu. Jūs to varat arī pārvietot, lai kārtotu to starp dažādām saīsnu joslām.\n* Atzīmējiet saīsnu joslu, lai to iespējotu redaktorā. Pirmā josla ir noklusējuma un to nevar atspējot.\n* Ja jums nav nepieciešamas visas saīsnu joslas, jūs varat atspējot visu funkciju Iestatījumu ekrānā.</string>
   <string name="tipResetMultiShortcutBars">Tā kā jums nav Pure Writer Pro, daudzrindu saīsnu josla ir automātiski atiestatīta.</string>
   <string name="aiSuggestUserMessage">Lūdzu, ieteikt man raksta nosaukumu, pamatojoties uz šāda raksta ķermeni.\n\nLūdzu, pasakiet man nosaukumu tieši!\nPiēram, ķermenis, ko es jums devu, ir: \"ABC...\".\nJums vajadzētu atbildēt man: Angļu alfabēts\nNedrīkst būt liekvārdība, piemēram, jums nevajadzētu atbildēt man: Ieteiktais nosaukums: \"Angļu alfabēts\"\nArī neatbildiet man: \"Angļu burti\" - pēdiņas nav nepieciešamas\nMan vajag jūsu atbildi, lai mani varētu tieši uzskatīt par nosaukuma saturu!\n\nNu, šis ir raksta ķermenis:</string>
+  <string name="theMostOpenedText">Visbiežāk atvērtais teksts</string>
+  <string name="recentlyOpenedText">Nesen atvērts teksts</string>
+  <string name="usePureWriterSince">Lietoju Pure Writer jau %2$d dienas kopš %1$s</string>
+  <string name="yearInReview">Gada apskats</string>
 
 </resources>

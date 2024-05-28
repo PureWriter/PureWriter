@@ -739,5 +739,9 @@
   <string name="hintForShortcutManagement">* Håll ned genvägsposten nedan för att redigera eller ta bort den. Du kan också dra den för att sortera den över olika genvägsfält.\n* Kontrollera genvägsfältet för att aktivera det i redigeraren. Det första fältet är standard och kan inte inaktiveras.\n* Om du inte behöver alla genvägsfält kan du inaktivera hela funktionen i inställningsskärmen.</string>
   <string name="tipResetMultiShortcutBars">Eftersom du inte har Pure Writer Pro har det flerradiga genvägsfältet automatiskt återställts.</string>
   <string name="aiSuggestUserMessage">Var vänlig föreslå en artikel titel baserad på kroppen av följande artikel.\n\nBerätta titeln direkt för mig!\nTill exempel är kroppen jag gav dig: \"ABC...\".\nDu bör svara mig: Engelska alfabetet\nHa inte överflödiga ord, till exempel, du bör inte svara mig: Föreslagen titel: \"Engelska alfabetet\"\nSvara mig inte heller: \"Engelska bokstäver\" - citattecken är onödiga\nJag behöver ditt svar för att låta mig direkt som titelns innehåll!\n\nNå, detta är kroppen av artikeln:</string>
+  <string name="theMostOpenedText">Mest öppnade texten</string>
+  <string name="recentlyOpenedText">Nyligen öppnad text</string>
+  <string name="usePureWriterSince">Använt Pure Writer i %2$d dagar sedan %1$s</string>
+  <string name="yearInReview">Årsöversikt</string>
 
 </resources>

@@ -747,5 +747,9 @@
   <string name="hintForShortcutManagement">* Mantén presionado el elemento de atajo a continuación para editarlo o eliminarlo. También puedes arrastrarlo para ordenarlo a través de diferentes Barras de Atajos.\n* Verifica la Barra de Atajos para habilitarla en el editor. La primera barra es la predeterminada y no puede ser deshabilitada.\n* Si no necesitas todas las Barras de Atajos, puedes desactivar toda la función en la pantalla de Configuración.</string>
   <string name="tipResetMultiShortcutBars">Como no tienes Pure Writer Pro, la barra de atajos de múltiples líneas se ha restablecido automáticamente.</string>
   <string name="aiSuggestUserMessage">Por favor, sugiéreme un título de artículo basado en el cuerpo del siguiente artículo.\n\n¡Dime el título directamente!\nPor ejemplo, el cuerpo que te di es: \"ABC...\".\nDeberías responderme: Alfabeto inglés\nNo tengas palabras redundantes, por ejemplo, no deberías responderme: Título sugerido: \"Alfabeto inglés\"\nTampoco me respondas: \"Letras inglesas\" - las comillas son innecesarias\n¡Necesito tu respuesta para dejarme directamente como el contenido del título!\n\nBueno, este es el cuerpo del artículo:</string>
+  <string name="theMostOpenedText">El texto más abierto</string>
+  <string name="recentlyOpenedText">Texto recientemente abierto</string>
+  <string name="usePureWriterSince">Usando Pure Writer durante %2$d días desde %1$s</string>
+  <string name="yearInReview">Resumen del año</string>
 
 </resources>

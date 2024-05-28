@@ -798,5 +798,9 @@
   <string name="hintForShortcutManagement">* Aşağıdaki kısayol öğesine uzun basarak düzenleyin veya silin. Ayrıca, farklı Kısayol Çubukları arasında sıralamak için sürükleyebilirsiniz.\n* Düzenleyicide kullanılabilir hale getirmek için Kısayol Çubuğunu kontrol edin. İlk çubuk varsayılandır ve devre dışı bırakılamaz.\n* Tüm Kısayol Çubuklarına ihtiyacınız yoksa, Ayarlar ekranında tüm işlevi devre dışı bırakabilirsiniz.</string>
   <string name="tipResetMultiShortcutBars">Pure Writer Pro\'nuz olmadığı için, çoklu satır Kısayol Çubuğu otomatik olarak sıfırlandı.</string>
   <string name="aiSuggestUserMessage">Lütfen aşağıdaki makalenin gövdesine dayanarak bir makale başlığı önerin.\n\nBana başlığı doğrudan söyleyin!\nÖrneğin, size verdiğim gövde: \"ABC...\".\nBana cevap vermelisiniz: İngiliz alfabesi\nFazla kelime olmasın, örneğin, bana cevap vermemelisiniz: Önerilen başlık: \"İngiliz alfabesi\"\nBana ayrıca cevap vermeyin: \"İngilizce harfler\" - tırnak işaretleri gereksizdir\nCevabınızı, başlık içeriği olarak beni doğrudan bırakmam için ihtiyacım var!\n\nPeki, bu makalenin gövdesidir:</string>
+  <string name="theMostOpenedText">En çok açılan metin</string>
+  <string name="recentlyOpenedText">Son zamanlarda açılan metin</string>
+  <string name="usePureWriterSince">%1$s tarihinden bu yana Pure Writer\'ı %2$d gün boyunca kullandım</string>
+  <string name="yearInReview">Yılın İncelemesi</string>
 
 </resources>

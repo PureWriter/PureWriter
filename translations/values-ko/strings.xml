@@ -725,5 +725,9 @@
   <string name="aiSuggestUserMessage">다음 기사의 본문에 기반하여 기사 제목을 제안해 주세요.\n\n제목을 직접 알려주세요!\n예를 들어, 제가 드린 본문은: \"ABC...\"입니다.\n당신은 저에게 답해야 합니다: 영어 알파벳\n불필요한 단어를 가지지 마세요, 예를 들어, 당신은 저에게 답하지 않아야 합니다: 제안된 제목: \"영어 알파벳\"\n또한 저에게 답하지 마세요: \"영어 글자\" - 따옴표는 필요 없습니다\n저는 당신의 답변이 직접 제목의 내용이 되도록 필요합니다!\n\n그럼, 이것이 기사의 본문입니다:</string>
   <string name="dbCorruptTip">데이터베이스 파일이 손상되어 현재 자동으로 수정하기 어렵습니다. 수동 복구를 위해 데이터베이스 파일을 개발자에게 보내려면 확인을 클릭하세요.\n\n그 전에 글쓰기를 잠시 멈춰주세요. 이 문제를 최우선으로 수리하고 해결할 수 있도록 도와드리겠습니다. 불편을 드려 죄송합니다!</string>
   <string name="databaseIsCorrupt">데이터베이스가 예기치 않게 손상되었습니다!</string>
+  <string name="theMostOpenedText">가장 많이 열린 텍스트</string>
+  <string name="recentlyOpenedText">최근에 열린 텍스트</string>
+  <string name="usePureWriterSince">%1$s 부터 %2$d일 동안 Pure Writer를 사용함</string>
+  <string name="yearInReview">연간 리뷰</string>
 
 </resources>

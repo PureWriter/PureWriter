@@ -713,4 +713,9 @@
   <string name="multipleShortcutBarManagement">إدارة شريط الاختصارات المتعدد الأسطر</string>
   <string name="hintForShortcutManagement">* اضغط طويلاً على العنصر الاختصار أدناه لتحريره أو حذفه. يمكنك أيضًا سحبه لترتيبه عبر أشرطة الاختصار المختلفة.\n* تحقق من شريط الاختصار لتمكينه في المحرر. الشريط الأول هو الافتراضي ولا يمكن تعطيله.\n* إذا لم تحتاج إلى جميع أشرطة الاختصار ، يمكنك تعطيل الوظيفة بأكملها في شاشة الإعدادات.</string>
   <string name="tipResetMultiShortcutBars">بما أنك لا تملك Pure Writer Pro ، فقد تم إعادة تعيين شريط الاختصارات المتعدد الأسطر تلقائيًا.</string>
+  <string name="theMostOpenedText">أكثر النصوص فتحاً</string>
+  <string name="recentlyOpenedText">النصوص المفتوحة مؤخرا</string>
+  <string name="usePureWriterSince">تم استخدام Pure Writer لمدة %2$d يوم منذ %1$s</string>
+  <string name="yearInReview">مراجعة السنة</string>
+
 </resources>

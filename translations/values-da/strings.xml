@@ -755,6 +755,10 @@
   <string name="hintForShortcutManagement">* Tryk længe på genvejselementet nedenfor for at redigere eller slette det. Du kan også trække det for at sortere det på tværs af forskellige genvejslinjer.\n* Kontroller genvejslinjen for at aktivere den i editoren. Den første linje er standard og kan ikke deaktiveres.\n* Hvis du ikke har brug for alle genvejslinjer, kan du deaktivere hele funktionen i indstillingsskærmen.</string>
   <string name="tipResetMultiShortcutBars">Da du ikke har Pure Writer Pro, er den flerlinjede genvejslinje blevet automatisk nulstillet.</string>
   <string name="aiSuggestUserMessage">Foreslå venligst en artikel titel baseret på kroppen af følgende artikel.\n\nFortæl mig titlen direkte!\nFor eksempel, kroppen jeg gav dig er: \"ABC...\".\nDu skal svare mig: Engelsk alfabet\nHar ikke overflødige ord, for eksempel, du skal ikke svare mig: Foreslået titel: \"Engelsk alfabet\"\nSvar mig heller ikke: \"Engelske bogstaver\" - anførselstegn er unødvendige\nJeg har brug for dit svar for at lade mig direkte som titelindhold!\n\nNå, dette er kroppen af artiklen:</string>
+  <string name="theMostOpenedText">Mest åbnede tekst</string>
+  <string name="recentlyOpenedText">Nyligt åbnet tekst</string>
+  <string name="usePureWriterSince">Brugt Pure Writer i %2$d dage siden %1$s</string>
+  <string name="yearInReview">Året i anmeldelse</string>
 
 </resources>
 

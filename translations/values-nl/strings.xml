@@ -753,5 +753,9 @@
   <string name="hintForShortcutManagement">* Houd de snelkoppeling hieronder ingedrukt om deze te bewerken of te verwijderen. Je kunt het ook verslepen om het te sorteren over verschillende Snelkoppelingsbalken.\n* Controleer de Snelkoppelingsbalk om deze in de editor in te schakelen. De eerste balk is standaard en kan niet worden uitgeschakeld.\n* Als je niet alle Snelkoppelingsbalken nodig hebt, kun je de hele functie uitschakelen in het instellingenscherm.</string>
   <string name="tipResetMultiShortcutBars">Omdat je geen Pure Writer Pro hebt, is de meerdere regels Snelkoppelingsbalk automatisch gereset.</string>
   <string name="aiSuggestUserMessage">Stel alstublieft een artikel titel voor op basis van het lichaam van het volgende artikel.\n\nVertel me de titel direct!\nBijvoorbeeld, het lichaam dat ik je gaf is: \"ABC...\".\nJe moet mij antwoorden: Engels alfabet\nHeb geen overbodige woorden, bijvoorbeeld, je moet mij niet antwoorden: Voorgestelde titel: \"Engels alfabet\"\nAntwoord mij ook niet: \"Engelse letters\" - aanhalingstekens zijn onnodig\nIk heb jouw antwoord nodig om mij direct als titelinhoud te laten!\n\nNou, dit is het lichaam van het artikel:</string>
+  <string name="theMostOpenedText">Meest geopende tekst</string>
+  <string name="recentlyOpenedText">Recent geopende tekst</string>
+  <string name="usePureWriterSince">Pure Writer gebruikt voor %2$d dagen sinds %1$s</string>
+  <string name="yearInReview">Jaaroverzicht</string>
 
 </resources>
