@@ -1,11 +1,11 @@
 {
-  "code": 1220407020,
-  "name": "24.7.2",
+  "code": 1220500000,
+  "name": "25.0.0",
   "changelog": {
-    "zh": "* 全新 Material Design 3 设计，右下角的⊕按钮也更加沉浸了\n* 适配 Android 14 及其预测性返回手势",
-    "zh-HK": "* 全新 Material Design 3 設計，右下角的⊕按鈕也更加沉浸了\n* 適配 Android 14 及其預測性返回手勢",
-    "zh-TW": "* 全新 Material Design 3 設計，右下角的⊕按鈕也更加沉浸了\n* 適配 Android 14 及其預測性返回手勢",
-    "default": "* New Material Design 3, the ⊕ button is also more immersive\n* Support Android 14 Predictive Back Animations"
+    "zh": "• 在顶部☁️云图标里新增「最常打开的文章」和「最近打开的文章」",
+    "zh-HK": "• 在頂部☁️雲圖示裡新增「最常打開的文章」和「最近打開的文章」",
+    "zh-TW": "• 在頂部☁️雲圖標裏新增「最常打開的文章」和「最近打開的文章」",
+    "default": "• Add “Most Frequently Opened Articles” and “Recently Opened Articles” in the Cloud ☁️ icon at the top"
   },
   "url": "https://play.google.com/store/apps/details?id=com.drakeet.purewriter"
 }
