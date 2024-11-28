@@ -231,7 +231,7 @@
   <string name="presetTitle2">純純寫作 - 保護機制</string>
   <string name="presetContent2">目前為止純純寫作保護文章避免遺失的防線有： \n1. 文章一旦變動就會觸發自動儲存，自動儲存時，若失敗則立馬警告使用者 \n2. 每隔 2 秒進行一次主動檢查文章是否正常存入資料庫、是否與資料庫內容對等，若失敗則立馬警告使用者 \n3. 如果儲存失敗，則無法真正退出應用，此時按退出鍵等於按 Home 鍵，儘可能給予使用者自行儲存的機會 \n4. 每次切到後台或退出應用，如若文章有變化，則進行一次自動備份整個資料庫，備份內容可以隨時復原，復原之前會自動備份「復原之前」的內容以供放棄復原 \n5. 為每一篇文章提供歷史記錄、復原與重做 \n6. 提供廢紙簍，避免誤刪文章 \n7. 雲備份，如果設定 WebDAV，則純純寫作會預設開啟雲備份功能，自動將你的 db 資料庫文件（包含全量文章）同步到雲端</string>
   <string name="presetTitle3">關於純純寫作進階版</string>
-  <string name="presetContent3">如果你覺得 純純寫作 很棒，希望它能繼續堅持下去，可否願意花一點點錢作為對於開發者的激勵？ \n這能夠使我們一直堅持好的方向、良心的產品，同時激勵更多的獨立開發者。 \n您可以點擊右上角的設定頁面進入「解鎖純純寫作進階版功能」，作為回報，付費後，您將獲得「另存為」和「自訂稿紙背景」等進階功能。 \n純純寫作也將因為您的支援而能夠不斷更新、完善，非常感謝支援！ \n如果您有任何問題或需求，也可以透過郵件聯繫我：drakeet@drakeet.com</string>
+  <string name="presetContent3">如果你覺得 純純寫作 很棒，希望它能繼續堅持下去，可否願意花一點點錢作為對於開發者的激勵？ \n這能夠使我們一直堅持好的方向、良心的產品，同時激勵更多的獨立開發者。 \n您可以點擊右上角的設定頁面進入「解鎖純純寫作進階版功能」，作為回報，付費後，您將獲得「另存為」和「自訂稿紙背景」等進階功能。 \n純純寫作也將因為您的支援而能夠不斷更新、完善，非常感謝支援！ \n如果您有任何問題或需求，也可以透過郵件聯繫我：writer@drakeet.com</string>
   <string name="presetTitle4">純純寫作 - 私隱政策</string>
   <string name="presetContent4">純純寫作非常重視使用者的私隱保護，它絕不會收集您的任何私隱內容。\n另外，在未經允許或告知的情況下，純純寫作也絕不會修改或讀取您的剪貼簿內容。\n純純寫作申請了存儲權限，僅僅用於匯出文件和進行自動備份，除此之外，它不會在未經允許或告知的情況下讀取或修改您外部存儲中的任何文件。\n純純寫作支援雲備份，它會預設使用 HTTPS 加密傳輸你的資料庫備份到你的 WebDAV 雲盤，你的雲備份只會存儲於你設定的雲盤，它們絕不會被上傳到其他地方。</string>
   <string name="createAt">建立於</string>
@@ -603,6 +603,7 @@
   <string name="noteBeforeRestoringBackup">在一切開始前，對當前數據進行一次備份…</string>
   <string name="startMerging">開始合併…</string>
   <string name="insertANewBook">插入新的書</string>
+  <string name="tryDesktopTip">這是一項 Pro 功能，試用次數耗盡後將需要付費 Pro 才能繼續使用此功能。\n\n當前可試用中，試用剩餘次數：</string>
   <string name="insertANewCategory">插入新的卷</string>
   <string name="insertingOrUpdatingArticles">插入或更新文章中…</string>
   <string name="insertANewArticle">插入新的文章</string>
@@ -866,5 +867,9 @@
   <string name="recentlyOpenedText">最近打開的文章</string>
   <string name="usePureWriterSince">從 %1$s 開始，共使用純純寫作 %2$d 天</string>
   <string name="yearInReview">年度回顧</string>
+  <string name="typewriterSummary">高亮當前光標所處的文字片段，淡化其他片段</string>
+  <string name="tempNoPrompts">暫不再提示</string>
+  <string name="pasteWordCountTip">貼上了 %1$d 字</string>
+  <string name="emptyDialogMessage">使用該功能之前需要先打開一篇文章或新建一篇文章。請重試！</string>
 
 </resources>

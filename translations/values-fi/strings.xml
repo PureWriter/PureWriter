@@ -106,6 +106,7 @@
   <string name="wordCountMode">Sanojen laskentatila</string>
   <string name="dbCorruptTip">Tietokantatiedostosi on vioittunut, jota on tällä hetkellä vaikea korjata automaattisesti. Napsauta OK lähettääksesi tietokantatiedostosi kehittäjälle manuaalista korjausta varten.\n\nEnnen sitä keskeytä kirjoittaminen. Autamme sinua korjaamaan ja ratkaisemaan tämän asian ensisijaisesti. Anteeksi häiriö!</string>
   <string name="databaseIsCorrupt">Tietokanta vioittunut odottamatta!</string>
+  <string name="tryDesktopTip">Tämä on Pro-ominaisuus, joka on tällä hetkellä saatavilla kokeiluun. Jäljellä olevat kokeiluyritykset:</string>
   <string name="wordCountModeEntriesItem1">Eristä välilyönnit ja rivinvaihdot</string>
   <string name="wordCountModeEntriesItem2">Lisää kaikki symbolit ja teksti</string>
   <string name="wordCountModeEntriesItem3"><b>Ei oteta huomioon kaikkia välimerkkejä</b>, välilyöntejä ja rivinvaihtoja</string>
@@ -217,7 +218,7 @@
   <string name="presetTitle2">Pure Writer - suojamekanismi</string>
   <string name="presetContent2">Pure Writerin nykyinen suojamekanismi on: \n1. Artikkeli tallennetaan, kun sisältöä muutetaan. Jos tämä epäonnistuu, Pure Writer ilmoittaa siitä käyttäjälle välittömästi. \n2. Pure Writer tarkistaa kahden sekunnin välein, onko sisältö tallennettu tietokantaan. Jos se epäonnistuu, Pure Writer ilmoittaa käyttäjälle välittömästi. \n3. Jos automaattinen tallennus epäonnistuu, käyttäjät eivät voi poistua sovelluksesta kokonaan. Poistumispainikkeen painaminen tällä hetkellä on sama kuin Home-painikkeen painaminen pysäyttämättä sovellusta kokonaan. Näin käyttäjälle jää aikaa tallentaa sisältö manuaalisesti. \n4. Aina kun sovellus on käynnissä taustalla tai kun siitä poistutaan, se varmuuskopioi automaattisesti koko tietokannan, jos sisältöä muokataan. Varmuuskopiotiedostoa voidaan käyttää milloin tahansa. Varmuuskopio tallennetaan yhdessä edellisen version kanssa, jotta käyttäjät voivat palauttaa varmuuskopion.\n5. Historiatietue, peruutus ja palautusominaisuus tarjotaan jokaiselle artikkelille \n6. Roskakori estää artikkelien vahingossa tapahtuvan poistamisen.\n7. Pilvivarmistukset: Jos Pure Writer on integroitu WebDAV:n kanssa, se varmuuskopioi automaattisesti koko tietokannan sisällön, myös artikkelit, pilvipalveluun.</string>
   .
-  <string name="presetContent3">Jos nautit Pure Writerin käytöstä ja haluat, että sitä kehitetään aktiivisesti, voisitko lahjoittaa muutaman dollarin kehittäjän kannustamiseksi?\nTukesi voi kannustaa kaltaisiani riippumattomia kehittäjiä tekemään lisää hyödyllisiä sovelluksia. \nTukea voit antaa painamalla "Unlock Pro" -painiketta Asetukset-sivun oikeassa yläkulmassa. Kiitokseksi saat Pro-ominaisuudet, kuten "Tallenna nimellä..." ja "Mukautettu tausta/paperit". \nPure Writer myös paranee tukesi ansiosta. Kiitos etukäteen! Jos sinulla on kysyttävää tai palautetta, älä epäröi lähettää minulle sähköpostia osoitteeseen drakeet@drakeet.com</string>
+  <string name="presetContent3">Jos nautit Pure Writerin käytöstä ja haluat, että sitä kehitetään aktiivisesti, voisitko lahjoittaa muutaman dollarin kehittäjän kannustamiseksi?\nTukesi voi kannustaa kaltaisiani riippumattomia kehittäjiä tekemään lisää hyödyllisiä sovelluksia. \nTukea voit antaa painamalla "Unlock Pro" -painiketta Asetukset-sivun oikeassa yläkulmassa. Kiitokseksi saat Pro-ominaisuudet, kuten "Tallenna nimellä..." ja "Mukautettu tausta/paperit". \nPure Writer myös paranee tukesi ansiosta. Kiitos etukäteen! Jos sinulla on kysyttävää tai palautetta, älä epäröi lähettää minulle sähköpostia osoitteeseen writer@drakeet.com</string>
   .
   <string name="presetTitle4">Pure Writer - Tietosuojakäytäntö</string>
   <string name="presetContent4">Pure Writer suhtautuu käyttäjiensä\' yksityisyyteen erittäin vakavasti, se ei koskaan kerää mitään yksityisiä tietojasi. \nSe ei myöskään lue tai muuta mitään leikepöydälläsi olevaa sisältöä ilmoittamatta siitä ensin sinulle.\nPure Writerin pyytämää tallennuslupaa käytetään ainoastaan automaattiseen varmuuskopiointiin ja tiedostojesi tallentamiseen. Sen lisäksi se ei lue tai muuta mitään tiedostojasi tallennustilassa ilmoittamatta siitä ensin.\nPure Writer tukee pilvivarmistusta, joka käyttää HTTPS-salausta tietokantasi varmuuskopioiden siirtämiseen WebDAV-pilvitallennustilaan. Pilvivarmistuksesi tallennetaan vain asettamaasi pilvitallennustilaan, eikä niitä koskaan ladata muualle.</string>
@@ -768,5 +769,7 @@
   <string name="recentlyOpenedText">Äskettäin avattu teksti</string>
   <string name="usePureWriterSince">Käyttänyt Pure Writeria %2$d päivää lähtien %1$s</string>
   <string name="yearInReview">Vuoden katsaus</string>
+  <string name="typewriterSummary">Korosta tekstisegmentti, jossa kohdistin sijaitsee, ja himmennä muut segmentit</string>
+  <string name="emptyDialogMessage">Käyttääksesi tätä ominaisuutta sinun on ensin avattava teksti tai luotava uusi. Yritä uudelleen!</string>
 
 </resources>

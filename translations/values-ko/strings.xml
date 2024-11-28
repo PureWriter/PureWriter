@@ -227,7 +227,7 @@
   <string name="presetTitle2">Pure Writer - 보호 메커니즘</string>
   <string name="presetContent2">Pure Writer의 현재 보호 메커니즘은 다음과 같습니다.\n1. 내용이 변경되면  저장됩니다. 실패하면 Pure Writer가 사용자에게 즉시 알립니다.\n2. Pure Writer는 2초마다 콘텐츠가 데이터베이스에 저장되어 있는지 확인합니다. 실패하면 Pure Writer는 사용자에게 즉시 알립니다.\n3. 자동 저장에 실패하면 사용자가 앱을 완전히 종료할 수 없습니다. 이때 종료 버튼을 누르는 것은 앱을 완전히 중단하지 않고 홈 버튼을 누르는 것과 같습니다. 이것은 사용자가 자신의 컨텐츠를 수동으로 저장할 수있는 시간을 허용합니다.\n4. 앱이 백그라운드에서 실행 중이거나 종료 될 때마다 콘텐츠가 편집되면 전체 데이터베이스가 자동으로 백업됩니다. 백업 파일은 언제든지 액세스할 수 있습니다. 백업은 사용자가 백업을 되돌릴 수 있도록 이전 버전의 백업과 함께 저장됩니다.\n5. 역사 기록, 실행 취소 및 다시 실행 기능은 모든 기사에 제공됩니다.\n6. 실수로 기사를 삭제하지 못하도록 휴지통 폴더가 있습니다.\n7. 클라우드 백업 : Pure Writer가 WebDAV 와 통합 된 경우 기사를 포함한 모든 데이터베이스 컨텐츠를 클라우드에 자동으로 백업합니다.</string>
   <string name="presetTitle3">Pure Writer 프로</string>
-  <string name="presetContent3">Pure Writer 사용을 즐기고 적극적으로 개발하기를 원한다면 개발자를 격려하기 위해 약간의 비용을들이시겠습니까?\n귀하의 지원으로 저와 같은 독립 개발자가보다 유용한 앱을 만들 수 있습니다.\n참여하려면 설정 페이지의 오른쪽 상단에있는 잠금 해제 프로 버튼을 누를 수 있습니다. 감사의 표시로 다른 이름으로 저장… 및 사용자 정의 배경/용지와 같은 프로 기능을 사용할 수 있습니다.\nPure Writer는 또한 귀하의 지원의 결과로 향상 될 것입니다. 미리 감사드립니다! 질문이나 의견이 있으면 drakeet@drakeet.com으로 이메일을 보내주십시오.</string>
+  <string name="presetContent3">Pure Writer 사용을 즐기고 적극적으로 개발하기를 원한다면 개발자를 격려하기 위해 약간의 비용을들이시겠습니까?\n귀하의 지원으로 저와 같은 독립 개발자가보다 유용한 앱을 만들 수 있습니다.\n참여하려면 설정 페이지의 오른쪽 상단에있는 잠금 해제 프로 버튼을 누를 수 있습니다. 감사의 표시로 다른 이름으로 저장… 및 사용자 정의 배경/용지와 같은 프로 기능을 사용할 수 있습니다.\nPure Writer는 또한 귀하의 지원의 결과로 향상 될 것입니다. 미리 감사드립니다! 질문이나 의견이 있으면 writer@drakeet.com으로 이메일을 보내주십시오.</string>
   <string name="presetTitle4">Pure Writer - 개인 정보 보호 정책</string>
   <string name="presetContent4">Pure Writer는 사용자의 개인 정보를 매우 중요하게 생각하며 개인 정보를 수집하지 않습니다.\n또한 먼저 알리지 않고 클립 보드의 내용을 읽거나 수정하지 않습니다.\nPure Writer가 요청한 저장 권한은 자동 백업 및 파일 저장에만 사용됩니다. 그 외에는 먼저 사용자에게 알리지 않고 스토리지의 파일을 읽거나 수정하지 않습니다.\nPure Writer는 HTTPS 백업을 사용하여 데이터베이스 백업을 WebDAV 클라우드 스토리지로 전송하는 클라우드 백업을 지원합니다. 클라우드 백업은 설정 한 클라우드 스토리지에만 저장되며 다른 위치에 업로드되지 않습니다.</string>
   <string name="createAt">생성된 날짜</string>
@@ -729,5 +729,9 @@
   <string name="recentlyOpenedText">최근에 열린 텍스트</string>
   <string name="usePureWriterSince">%1$s 부터 %2$d일 동안 Pure Writer를 사용함</string>
   <string name="yearInReview">연간 리뷰</string>
+  <string name="tryDesktopTip">이것은 Pro 기능이며, 현재 시험 사용이 가능합니다. 남은 시험 사용 횟수:</string>
+  <string name="typewriterSummary">커서가 위치한 텍스트 세그먼트를 강조하고 다른 세그먼트를 흐리게 합니다</string>
+  <string name="emptyDialogMessage">이 기능을 사용하려면 먼저 텍스트를 열거나 새로 만들어야 합니다. 다시 시도해 주세요!</string>
+  <string name="warnSdCardProblem">Pure Writer 폴더를 SD 카드에 설정하면 파일 시스템 읽기/쓰기 오류 및 성능 저하가 발생할 수 있습니다. SD 카드에 설정하지 않기를 강력히 권장합니다. 장치의 기본 저장소로 다시 설정해 주세요!</string>
 
 </resources>

@@ -107,6 +107,7 @@
   <string name="wordCountMode">Sõnade loendamise režiim</string>
   <string name="dbCorruptTip">Teie andmebaasifail on rikutud, mida on praegu raske automaatselt parandada. Andmebaasifaili käsitsi parandamiseks arendajale saatmiseks klõpsake nuppu OK.\n\nEnne seda peatage kirjutamine. Aitame teil selle probleemi esmajärjekorras parandada ja lahendada. Vabandame ebamugavuste pärast!</string>
   <string name="databaseIsCorrupt">Andmebaas on ootamatult rikutud!</string>
+  <string name="tryDesktopTip">See on Pro funktsioon, mis on praegu saadaval prooviperioodiks. Allesjäänud proovikatseid:</string>
   <string name="wordCountModeEntriesItem1">Välja jätta tühikud ja reavahetused</string>
   <string name="wordCountModeEntriesItem2">Esita kõik sümbolid ja tekst</string>
   <string name="wordCountModeEntriesItem3"><b>Välistada kõik kirjavahemärgid</b>, tühikud ja reavahetused</string>
@@ -216,7 +217,7 @@
   <string name="presetTitle2">Pure Writer – kaitsemehhanism</string>
   <string name="presetContent2">Puhta Kirjutaja praegune kaitsemehhanism on: \n1. Artikkel salvestatakse, kui sisu on muudetud. Kui see ebaõnnestub, teavitab Pure Writer sellest kohe kasutajat. \n2. Pure Writer kontrollib iga kahe sekundi tagant, kas sisu on andmebaasis salvestatud. Kui see ebaõnnestub, teavitab Pure Writer kasutajat kohe. \n3. Kui automaatne salvestamine ebaõnnestub, siis ei saa kasutajad rakendusest täielikult väljuda. Väljumisnupu vajutamine sel ajal on sama, mis Home-nupu vajutamine, ilma et rakendus täielikult peatuks. See annab kasutajale aega oma sisu käsitsi salvestamiseks. \n4. Iga kord, kui rakendus töötab taustal või väljub, varundab see automaatselt kogu andmebaasi, kui sisu on redigeeritud. Varukoopiafailile saab igal ajal juurde pääseda. Varukoopia salvestatakse koos varukoopia eelmise versiooniga, et kasutajad saaksid varukoopia tagasi võtta.\n5. Iga artikli jaoks on olemas ajalookirjeldus, tühistamise ja tagasivõtmise funktsioon \n6. On prügikasti kaust, et vältida artiklite juhuslikku kustutamist.\n7. Pilves varundamine: kui Pure Writer on integreeritud WebDAViga, siis varundab ta automaatselt kogu andmebaasi sisu, sealhulgas artiklid pilve.</string>
 
-  <string name="presetContent3">Kui teile meeldis Pure Writeri kasutamine ja te soovite, et seda aktiivselt arendataks, kas te annaksite paar dollarit, et julgustada arendajat?\nSinu toetus võib julgustada selliseid sõltumatuid arendajaid nagu mina, et nad saaksid teha rohkem kasulikke rakendusi. \nToetuseks võite vajutada nuppu "Unlock Pro" seadete lehe paremas ülanurgas. Tänutäheks saate Pro-funktsioone, nagu "Salvesta kui..." ja "Kohandatud taust/paberid". \nPure Writer paraneb ka teie toetuse tulemusena. Täname juba ette! Kui teil on küsimusi või tagasisidet, palun kirjutage mulle aadressil drakeet@drakeet.com</string>
+  <string name="presetContent3">Kui teile meeldis Pure Writeri kasutamine ja te soovite, et seda aktiivselt arendataks, kas te annaksite paar dollarit, et julgustada arendajat?\nSinu toetus võib julgustada selliseid sõltumatuid arendajaid nagu mina, et nad saaksid teha rohkem kasulikke rakendusi. \nToetuseks võite vajutada nuppu "Unlock Pro" seadete lehe paremas ülanurgas. Tänutäheks saate Pro-funktsioone, nagu "Salvesta kui..." ja "Kohandatud taust/paberid". \nPure Writer paraneb ka teie toetuse tulemusena. Täname juba ette! Kui teil on küsimusi või tagasisidet, palun kirjutage mulle aadressil writer@drakeet.com</string>
 
   <string name="presetTitle4">Pure Writer - Privaatsuspoliitika</string>
   <string name="presetContent4">Pure Writer võtab oma kasutajate\ eraelu puutumatust väga tõsiselt, ta ei kogu kunagi teie privaatseid andmeid. \nSee ei loe ega muuda teie lõikelauas olevat sisu ilma teid eelnevalt teavitamata.\nSalvestusluba, mida Pure Writer küsis, kasutatakse ainult teie failide automaatseks varundamiseks ja salvestamiseks. Peale selle ei loe ega muuda ühtegi teie salvestusruumis olevat faili ilma teid eelnevalt teavitamata.\nPure Writer toetab pilves varundamist, mis kasutab HTTPS-krüpteerimist, et edastada teie andmebaasi varukoopiaid teie WebDAV-pilve salvestusruumi. Teie pilvevarukoopiaid salvestatakse ainult teie määratud pilvehoidlasse ja neid ei laadita kunagi üles teistesse kohtadesse.</string>
@@ -761,5 +762,8 @@
   <string name="recentlyOpenedText">Hiljuti avatud tekst</string>
   <string name="usePureWriterSince">Kasutanud Pure Writerit alates %1$s, kokku %2$d päeva</string>
   <string name="yearInReview">Aasta ülevaade</string>
+  <string name="typewriterSummary">Tõsta esile tekstilõik, kus kursor asub, ja hägusta teised lõigud</string>
+  <string name="emptyDialogMessage">Selle funktsiooni kasutamiseks peate esmalt avama teksti või looma uue. Palun proovi uuesti!</string>
+  <string name="warnSdCardProblem">Pure Writer kausta seadistamine SD-kaardile võib põhjustada failisüsteemi lugemis-/kirjavigu ja jõudluse halvenemist. Soovitame tungivalt mitte seada seda SD-kaardile. Palun seadistage see uuesti seadme peamisele salvestusruumile!</string>
 
 </resources>

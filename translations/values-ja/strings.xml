@@ -3,6 +3,7 @@
   <string name="pureWriter">純純執筆</string>
   <string name="pureWriterPro">純純執筆 Pro</string>
   <string name="wordsShort">字</string>
+  <string name="tryDesktopTip">これはプロ機能です。現在お試しいただけます。残りの試用回数：</string>
   <string name="untitled">&lt;無題&gt;</string>
   <string name="autoChapterNameTitle">自動的に追加または更新\n[第]*[章] プレフィックス</string>
   <string name="autoChapterNameMessagePart1">**この本**に「自動章名」機能を適用する予定です。その前に、考慮すべき事項について理解してください：\n\n* このオプションは、純純執筆の言語が**中国語**で、文章の並べ替えモードが**手動並べ替えモード**の場合のみ表示され、有効になります。他の言語では表示されず、有効になりません！\n* 最初に、**現在の本**の自動章節形式を設定します：</string>  <string name="about">关于 | ヘルプ</string>
@@ -235,7 +236,7 @@
   <string name="presetTitle2">純純執筆 - Protective Mechanism</string>
   <string name="presetContent2">The current protective mechanism that 純純執筆 has is: \n1. The article will be saved once the content is changed. If that fails, 純純執筆 will notify the user immediately. \n2. 純純執筆 will check if your content is saved in the database every two seconds. If it fails, 純純執筆 will notify the user immediately. \n3. If it fails to autosave, then the users will not be able to exit the app completely. Pressing the exit button at this time is the same as pressing the Home button without completely stopping the app. This will allow some time for the user to manually save their content. \n4. Every time the app is running in the background or exited, it will automatically backup the whole database if any content is edited. The backup file can be accessed anytime. The backup will be save along with the previous version of the backup to allow users to revert the backup.\n5. The History record, undo and redo feature is provided to every article  \n6. Has a Trash folder to prevent accidental deletion of articles.\n7. Cloud backups: if 純純執筆 is integrated with WebDAV, then it will automatically backup all the database content including the articles to the cloud.</string>
   <string name="presetTitle3">純純執筆 Pro</string>
-  <string name="presetContent3">If you enjoyed using 純純執筆 and wish to have it actively developed, would you mind contributing a few bucks to encourage the developer?\nYour support can encourage independent developers like me to make more useful apps. \nTo contribute, you can press the "Unlock Pro" button in the top right corner of the Settings page. As a token of appreciation, you will be able to get Pro features like "Save as…" and "Custom background/Papers". \n純純執筆 will also improve as a result of your support. Thanks in advance! If you have any questions or feedback, please do not hesitate to email me at drakeet@drakeet.com</string>
+  <string name="presetContent3">If you enjoyed using 純純執筆 and wish to have it actively developed, would you mind contributing a few bucks to encourage the developer?\nYour support can encourage independent developers like me to make more useful apps. \nTo contribute, you can press the "Unlock Pro" button in the top right corner of the Settings page. As a token of appreciation, you will be able to get Pro features like "Save as…" and "Custom background/Papers". \n純純執筆 will also improve as a result of your support. Thanks in advance! If you have any questions or feedback, please do not hesitate to email me at writer@drakeet.com</string>
   <string name="presetTitle4">純純執筆 - Privacy Policy</string>
   <string name="presetContent4">純純執筆 takes its users\' privacy very seriously, it will never collect any of your private information. \nAlso, it will not read or modify any content on your clipboard without first notifying you.\nThe storage permission that 純純執筆 asked for is solely used for auto backup and save your files. Other than that, it will not read or modify any of your files in the storage without first notifying you.\n純純執筆 supports cloud backup, which uses HTTPS encryption to transfer your database backups to your WebDAV cloud storage. Your cloud backups will only be stored in the cloud storage you set, and they will never be uploaded to other places.</string>
   <string name="createAt">作成日</string>
@@ -768,4 +769,8 @@
   <string name="recentlyOpenedText">最近開かれた文章</string>
   <string name="yearInReview">年度の回顧</string>
   <string name="usePureWriterSince">%1$s から %2$d 日間純純執筆を使用しています</string>
+  <string name="typewriterSummary">カーソルがあるテキストセグメントをハイライトし、他のセグメントを暗くする</string>
+  <string name="emptyDialogMessage">この機能を使用するには、まずテキストを開くか新しく作成する必要があります。もう一度試してください！</string>
+  <string name="warnSdCardProblem">純純執筆のフォルダーを SD カードに設定すると、ファイルシステムの読み書きエラーやパフォーマンスの低下を引き起こす可能性があります。SD カードに設定しないことを強くお勧めします。デバイスのメインストレージに再設定してください！</string>
+
 </resources>
