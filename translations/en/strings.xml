@@ -879,7 +879,7 @@
   <string name="pureAi429Message">The total number of AI service usage by all users today has reached the maximum limit, so the service has been temporarily suspended. Please try again tomorrow. We apologize for the inconvenience and we will gradually lift this restriction.</string>
   <string name="pureAiService">Pure Writer Host AI</string>
   <string name="openAiService">OpenAI</string>
-  <string name="openAiServiceSummary"><b>Free</b>, must provide your own OpenAI API Key, this service typically responds <b>faster</b></string>
+  <string name="openAiServiceSummary"><b>Free</b>, must provide your own OpenAI API Key or Key for services that support the OpenAI API format</string>
   <string name="pleaseEnableOneOfFollowingAiServiceMethods">Please enable one of the following AI services</string>
   <string name="notice">Notice</string>
   <string name="saveAsSplitImage">Split and store into 9 separate short images (.png)</string>

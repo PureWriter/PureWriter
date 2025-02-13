@@ -819,8 +819,8 @@
   <string name="noteForAiRequirePro">您开启了纯纯写作 AI 但没有纯纯写作 Pro 会员或已过期，无法使用纯纯写作 AI，请在 AI 设置页面关闭它或购买纯纯写作 Pro 会员！</string>
   <string name="pureAi429Message">今日所有用户对于 AI 服务的使用次数总和已达到封顶次数，因此暂停服务了，请明日再试或试试纯纯写作别的 AI 功能！给您带来不便深表抱歉，我们会逐步放开此限制。</string>
   <string name="pureAiService">纯纯写作 AI 服务</string>
-  <string name="openAiService">OpenAI 服务</string>
-  <string name="openAiServiceSummary">免费，需要自行提供 AI API Key + 中国之外的网络；此项供中国之外的用户使用；OpenAI 屏蔽了来自中国的网络请求，因此中国无法使用 OpenAI</string>
+  <string name="openAiService">自行提供的国产 AI 服务</string>
+  <string name="openAiServiceSummary">目前免费，需要自行提供支持 Open API 格式的服务的 Key；请在下方输入 API Key，并在底部输入国产大语言模型的 Host 和 Model 才可使用。推荐试试国产大模型之光：DeepSeek</string>
   <string name="pleaseEnableOneOfFollowingAiServiceMethods">请选择以下其中一个 AI 服务方式</string>
   <string name="notice">重要公告</string>
   <string name="saveAsSplitImage">存储为短图片，分割成 9 份 PNG</string>
