@@ -1,15 +1,24 @@
-# resources
+# Pure Writer
 
-<a href='https://play.google.com/store/apps/details?id=com.drakeet.purewriter&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width=200 height=77/></a>
+[Pure Writer](https://writer.drakeet.com/) (纯纯写作 · 純純寫作 · 純純執筆) is a fast plain text editor you can trust, with History, cloud sync and backups, and layers of protection against losing your work. It is available for Android, iPhone and iPad, with a desktop version for Windows and macOS.
 
-https://writer.drakeet.com/
+Official site: <https://writer.drakeet.com/>
 
-https://writer.drakeet.com/backups
+## Download
 
-https://writer.drakeet.com/backups_zh
+- **Android**: [Google Play](https://play.google.com/store/apps/details?id=com.drakeet.purewriter)
+- **iPhone and iPad**: [App Store](https://apps.apple.com/app/id6803257195)
+- **Windows and macOS**: <https://writer.drakeet.com/desktop>
 
-https://writer.drakeet.com/backups_en
+## Help
 
-Telegram Channel: https://t.me/PureWriter
+- User manual: [English](https://writer.drakeet.com/en/manual/) · [简体中文](https://writer.drakeet.com/zh-hans/manual/) · [繁體中文](https://writer.drakeet.com/zh-hant/manual/)
+- Automatic and cloud backup tutorial: [English](https://writer.drakeet.com/en/backups/) · [简体中文](https://writer.drakeet.com/zh-hans/backups/) · [繁體中文](https://writer.drakeet.com/zh-hant/backups/)
+- Feedback and support: <writer@drakeet.com>
+- Telegram channel: <https://t.me/PureWriter>
 
-All right reserved.
+## About this repository
+
+This repository holds resource files used by Pure Writer.
+
+All rights reserved.
