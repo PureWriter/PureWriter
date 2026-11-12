@@ -7,7 +7,7 @@ Official site: <https://writer.drakeet.com/>
 ## Download
 
 - **Android**: [Google Play](https://play.google.com/store/apps/details?id=com.drakeet.purewriter)
-- **iPhone and iPad**: [App Store](https://apps.apple.com/app/id6803257195)
+- **iPhone and iPad**: [App Store](https://apps.apple.com/app/id6803257195) · [About the iOS version](https://writer.drakeet.com/ios)
 - **Windows and macOS**: <https://writer.drakeet.com/desktop>
 
 ## Help
